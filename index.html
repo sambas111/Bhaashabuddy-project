@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>BhaashaBuddy – Learn Marathi</title>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="phone">
+
+  <!-- ===================== HOME SCREEN ===================== -->
+  <div class="screen active" id="screen-home">
+    <div class="topbar">
+      <h1>BhaashaBuddy 🇮🇳</h1>
+      <div class="sub">Learn Marathi • मराठी शिका</div>
+    </div>
+    <div class="search-wrap">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="home-search" placeholder="Search English, Hindi or Roman..." oninput="handleHomeSearch(this.value)">
+      </div>
+    </div>
+
+    <div id="search-results-area" style="display:none">
+      <div class="section-label">Search Results</div>
+      <div class="search-results" id="search-results-list"></div>
+    </div>
+
+    <div id="categories-area">
+      <div class="section-label">Phrase Categories</div>
+      <div class="cat-grid">
+        <div class="cat-card" style="--cat-color:#2B6CB0" onclick="openCategory('greetings')">
+          <span class="cat-icon">👋</span>
+          <span class="cat-name">Greetings</span>
+          <span class="cat-count">12 phrases</span>
+        </div>
+        <div class="cat-card" style="--cat-color:#D69E2E" onclick="openCategory('travel')">
+          <span class="cat-icon">🚗</span>
+          <span class="cat-name">Travel</span>
+          <span class="cat-count">18 phrases</span>
+        </div>
+        <div class="cat-card" style="--cat-color:#C05621" onclick="openCategory('food')">
+          <span class="cat-icon">🍽️</span>
+          <span class="cat-name">Food & Dining</span>
+          <span class="cat-count">15 phrases</span>
+        </div>
+        <div class="cat-card" style="--cat-color:#805AD5" onclick="openCategory('shopping')">
+          <span class="cat-icon">🛍️</span>
+          <span class="cat-name">Shopping</span>
+          <span class="cat-count">10 phrases</span>
+        </div>
+        <div class="cat-card" style="--cat-color:#E53E3E" onclick="openCategory('emergency')">
+          <span class="cat-icon">🚨</span>
+          <span class="cat-name">Emergency</span>
+          <span class="cat-count">8 phrases</span>
+        </div>
+        <div class="cat-card" style="--cat-color:#38A169" onclick="openCategory('numbers')">
+          <span class="cat-icon">🔢</span>
+          <span class="cat-name">Numbers</span>
+          <span class="cat-count">20 phrases</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===================== PHRASE LIST SCREEN ===================== -->
+  <div class="screen" id="screen-phrases">
+    <div class="back-btn" onclick="goBack()">← <span id="phrase-screen-title">Greetings</span></div>
+    <div class="section-label" id="phrase-section-label">PHRASES</div>
+    <div class="phrase-list" id="phrase-list"></div>
+  </div>
+
+  <!-- ===================== RESULT SCREEN ===================== -->
+  <div class="screen" id="screen-result">
+    <div class="back-btn" onclick="goBackFromResult()">← Back</div>
+    <div class="result-card">
+      <div class="english-label">You searched</div>
+      <div class="result-input-display" id="result-input-display"></div>
+      <button class="speaker-btn" onclick="speakMarathi()" title="Pronounce">🔊</button>
+      <div class="result-devanagari" id="result-devanagari"></div>
+      <div class="result-roman" id="result-roman"></div>
+      <button class="save-btn" id="save-btn" onclick="savePhrase()">Save Phrase</button>
+    </div>
+    <div style="padding: 0 20px;">
+      <div class="section-label">Similar Phrases</div>
+      <div class="phrase-list" id="similar-phrases"></div>
+    </div>
+  </div>
+
+  <!-- ===================== DICTIONARY SCREEN ===================== -->
+  <div class="screen" id="screen-dictionary">
+    <div class="topbar">
+      <h1>Dictionary</h1>
+      <div class="sub">English → Marathi</div>
+    </div>
+    <div class="search-wrap">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="dict-search" placeholder="Search words..." oninput="handleDictSearch(this.value)">
+      </div>
+    </div>
+    <div class="dict-list" id="dict-list"></div>
+  </div>
+
+  <!-- ===================== SAVED SCREEN ===================== -->
+  <div class="screen" id="screen-saved">
+    <div class="topbar">
+      <h1>Saved</h1>
+      <div class="sub">Your bookmarked phrases</div>
+    </div>
+    <div id="saved-list-wrap"></div>
+  </div>
+
+  <!-- ===================== CHAPTERS SCREEN ===================== -->
+  <div class="screen" id="screen-chapters">
+    <div class="topbar">
+      <h1>Lessons 📚</h1>
+      <div class="sub">281 chapters • learnmarathiwithkaushik.com</div>
+    </div>
+    <div class="search-wrap">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="chapters-search" placeholder="Search lessons..." oninput="handleChaptersSearch(this.value)">
+      </div>
+    </div>
+    <div id="chapters-loading" style="display:none;text-align:center;padding:40px 20px;color:var(--text-muted);font-weight:700;">
+      <div style="font-size:32px;margin-bottom:12px;">⏳</div>
+      Loading lessons...
+    </div>
+    <div id="chapters-error" style="display:none;text-align:center;padding:40px 20px;">
+      <div style="font-size:36px;margin-bottom:12px;">⚠️</div>
+      <div style="font-weight:800;color:var(--text);margin-bottom:6px;">Server not running</div>
+      <div style="font-size:12px;color:var(--text-muted);font-weight:600;">Run <code style="background:var(--border);padding:2px 6px;border-radius:4px;">python server.py</code> to load chapters</div>
+    </div>
+    <div class="dict-list" id="chapters-list" style="padding: 0 20px;"></div>
+  </div>
+
+  <!-- ===================== CHAPTER DETAIL SCREEN ===================== -->
+  <div class="screen" id="screen-chapter-detail">
+    <div class="back-btn" onclick="goBackFromChapter()">← <span id="chapter-detail-back-label">Lessons</span></div>
+    <div style="padding: 0 20px 20px;">
+      <div id="chapter-detail-loading" style="text-align:center;padding:40px 0;color:var(--text-muted);font-weight:700;display:none;">
+        <div style="font-size:32px;margin-bottom:12px;">⏳</div>Loading...
+      </div>
+      <div id="chapter-detail-content" style="display:none;">
+        <div style="background:var(--primary-light);border-radius:12px;padding:14px 16px;margin-bottom:16px;">
+          <div style="font-size:11px;font-weight:800;color:var(--primary);text-transform:uppercase;letter-spacing:0.8px;margin-bottom:4px;">Chapter <span id="chapter-detail-id"></span></div>
+          <div id="chapter-detail-title" style="font-size:17px;font-weight:900;color:var(--text);line-height:1.4;"></div>
+        </div>
+        <div id="chapter-detail-body" style="
+          background:var(--card);
+          border-radius:var(--radius);
+          padding:20px;
+          box-shadow:var(--shadow);
+          font-size:14px;
+          line-height:1.8;
+          color:var(--text);
+          font-weight:600;
+          white-space:pre-wrap;
+          word-break:break-word;
+        "></div>
+        <a id="chapter-detail-link" href="#" target="_blank" style="
+          display:block;
+          margin-top:14px;
+          text-align:center;
+          font-size:13px;
+          font-weight:700;
+          color:var(--primary);
+          padding:12px;
+          background:var(--primary-light);
+          border-radius:50px;
+          text-decoration:none;
+        ">🔗 Open original lesson</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===================== SETTINGS SCREEN ===================== -->
+  <div class="screen" id="screen-settings">
+    <div class="topbar">
+      <h1>Settings</h1>
+    </div>
+    <div class="settings-section">
+      <div class="settings-label">Offline Data</div>
+      <div class="settings-card">
+        <div class="settings-row">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Enable Offline Mode</div>
+            <div class="settings-row-sub">Use app without internet</div>
+          </div>
+          <div class="toggle" id="offline-toggle" onclick="toggleOffline()"></div>
+        </div>
+      </div>
+
+      <div class="settings-label">Available Languages</div>
+      <div class="settings-card">
+        <div class="settings-row">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Marathi</div>
+            <div class="settings-row-sub">Downloaded (120 MB)</div>
+          </div>
+          <div class="lang-badge"><span class="lang-check">✓</span></div>
+        </div>
+        <div class="settings-row">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Kannada</div>
+            <div class="settings-row-sub">Coming soon</div>
+          </div>
+          <button class="download-btn" onclick="showToast('Kannada coming soon!')">Download</button>
+        </div>
+        <div class="settings-row">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Tamil</div>
+            <div class="settings-row-sub">Coming soon</div>
+          </div>
+          <button class="download-btn" onclick="showToast('Tamil coming soon!')">Download</button>
+        </div>
+      </div>
+
+      <div class="settings-label">App Info</div>
+      <div class="settings-card">
+        <div class="settings-row">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Version</div>
+          </div>
+          <span style="font-size:13px;font-weight:700;color:var(--text-muted)">1.0.0</span>
+        </div>
+        <div class="settings-row">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Data Source</div>
+            <div class="settings-row-sub">learnmarathiwithkaushik.com</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- BOTTOM NAV -->
+  <nav class="bottom-nav">
+    <div class="nav-item active" id="nav-home" onclick="switchTab('home')">
+      <span class="nav-icon">🏠</span>
+      <span class="nav-label">Home</span>
+    </div>
+    <div class="nav-item" id="nav-dictionary" onclick="switchTab('dictionary')">
+      <span class="nav-icon">📖</span>
+      <span class="nav-label">Dictionary</span>
+    </div>
+    <div class="nav-item" id="nav-chapters" onclick="switchTab('chapters')">
+      <span class="nav-icon">📚</span>
+      <span class="nav-label">Lessons</span>
+    </div>
+    <div class="nav-item" id="nav-saved" onclick="switchTab('saved')">
+      <span class="nav-icon">🔖</span>
+      <span class="nav-label">Saved</span>
+    </div>
+    <div class="nav-item" id="nav-settings" onclick="switchTab('settings')">
+      <span class="nav-icon">⚙️</span>
+      <span class="nav-label">Settings</span>
+    </div>
+  </nav>
+
+  <div class="toast" id="toast"></div>
+</div>
+
+<script>
+// ===== DATA =====
+const PHRASES = {
+  greetings: {
+    name: "Greetings",
+    color: "#2B6CB0",
+    icon: "👋",
+    phrases: [
+      { en: "Hello / Hi", mr: "नमस्कार", roman: "Namaskār", hint: "Formal greeting" },
+      { en: "Good morning", mr: "शुभ सकाळ", roman: "Shubh sakāḷ", hint: "" },
+      { en: "Good evening", mr: "शुभ संध्याकाळ", roman: "Shubh sandhyākāḷ", hint: "" },
+      { en: "Good night", mr: "शुभ रात्री", roman: "Shubh rātri", hint: "" },
+      { en: "How are you?", mr: "तुम्ही कसे आहात?", roman: "Tumhī kase āhāt?", hint: "" },
+      { en: "I am fine", mr: "मी ठीक आहे", roman: "Mī ṭhīk āhe", hint: "" },
+      { en: "What is your name?", mr: "तुमचे नाव काय आहे?", roman: "Tumche nāv kāy āhe?", hint: "" },
+      { en: "My name is...", mr: "माझे नाव ... आहे", roman: "Mājhe nāv ... āhe", hint: "" },
+      { en: "Nice to meet you", mr: "तुम्हाला भेटून आनंद झाला", roman: "Tumhālā bheṭun ānand jhālā", hint: "" },
+      { en: "Thank you", mr: "धन्यवाद", roman: "Dhanyavād", hint: "Very common" },
+      { en: "Please", mr: "कृपया", roman: "Kṛpayā", hint: "" },
+      { en: "Sorry / Excuse me", mr: "माफ करा", roman: "Māf karā", hint: "" },
+    ]
+  },
+  travel: {
+    name: "Travel",
+    color: "#D69E2E",
+    icon: "🚗",
+    phrases: [
+      { en: "How much to go here?", mr: "भाऊ, इथे जाण्याचे किती पैसे घेणार?", roman: "Bhāu, ithe jāṇyāce kitī paise gheṇār?", hint: "Auto/Taxi fare" },
+      { en: "Take me to the station", mr: "मला स्टेशनला न्या", roman: "Malā steśanalā nyā", hint: "" },
+      { en: "Where is the bus stop?", mr: "बस स्टॉप कुठे आहे?", roman: "Bas sṭop kuṭhe āhe?", hint: "" },
+      { en: "Stop here", mr: "इथेच थांबा", roman: "Ithe thāmbā", hint: "Tell driver to stop" },
+      { en: "How far is it?", mr: "किती दूर आहे?", roman: "Kitī dūr āhe?", hint: "" },
+      { en: "Turn left", mr: "डावीकडे वळा", roman: "Ḍāvīkaḍe vaḷā", hint: "" },
+      { en: "Turn right", mr: "उजवीकडे वळा", roman: "Ujavīkaḍe vaḷā", hint: "" },
+      { en: "Go straight", mr: "सरळ जा", roman: "Saraḷ jā", hint: "" },
+      { en: "I am lost", mr: "मी हरवलो आहे", roman: "Mī harvalō āhe", hint: "" },
+      { en: "Where is the hospital?", mr: "दवाखाना कुठे आहे?", roman: "Davākhānā kuṭhe āhe?", hint: "" },
+      { en: "Is this the right road?", mr: "हा बरोबर रस्ता आहे का?", roman: "Hā barōbar rastā āhe kā?", hint: "" },
+      { en: "Please drive slowly", mr: "हळू चालवा", roman: "Haḷū cālavā", hint: "" },
+      { en: "Where is the market?", mr: "बाजार कुठे आहे?", roman: "Bājār kuṭhe āhe?", hint: "" },
+      { en: "How much is the ticket?", mr: "तिकिटाचे किती पैसे?", roman: "Tikaṭāce kitī paise?", hint: "" },
+      { en: "I want to go to...", mr: "मला ... ला जायचे आहे", roman: "Malā ... lā jāyace āhe", hint: "" },
+      { en: "Wait here", mr: "इथे थांबा", roman: "Ithe thāmbā", hint: "" },
+      { en: "Can you come back later?", mr: "नंतर याल का?", roman: "Nantara yāl kā?", hint: "" },
+      { en: "Take the highway", mr: "हायवे घ्या", roman: "Hāyave ghyā", hint: "" },
+    ]
+  },
+  food: {
+    name: "Food & Dining",
+    color: "#C05621",
+    icon: "🍽️",
+    phrases: [
+      { en: "What do you have to eat?", mr: "जेवायला काय आहे?", roman: "Jevāyalā kāy āhe?", hint: "" },
+      { en: "I am hungry", mr: "मला भूक लागली आहे", roman: "Malā bhūk lāgalī āhe", hint: "" },
+      { en: "The food is very tasty", mr: "जेवण खूप चविष्ट आहे", roman: "Jevaṇ khūp caviṣṭ āhe", hint: "" },
+      { en: "Give me water please", mr: "मला पाणी द्या", roman: "Malā pāṇī dyā", hint: "" },
+      { en: "I don't eat meat", mr: "मी मांस खात नाही", roman: "Mī māns khāt nāhī", hint: "" },
+      { en: "The bill please", mr: "बिल आणा", roman: "Bil āṇā", hint: "" },
+      { en: "Is it spicy?", mr: "हे तिखट आहे का?", roman: "He tikhaṭ āhe kā?", hint: "" },
+      { en: "Less spicy please", mr: "कमी तिखट करा", roman: "Kamī tikhaṭ karā", hint: "" },
+      { en: "One more serving", mr: "आणखी एक वाढा", roman: "Āṇakhī ek vāḍhā", hint: "" },
+      { en: "Do you have veg options?", mr: "शाकाहारी काही आहे का?", roman: "Śākāhārī kāhī āhe kā?", hint: "" },
+      { en: "Very delicious!", mr: "खूप छान!", roman: "Khūp chān!", hint: "" },
+      { en: "I am full", mr: "माझे पोट भरले", roman: "Mājhe poṭ bharale", hint: "" },
+      { en: "Can I get tea?", mr: "चहा मिळेल का?", roman: "Cahā miḷel kā?", hint: "" },
+      { en: "No sugar please", mr: "साखर नको", roman: "Sākhar nakō", hint: "" },
+      { en: "Pack it please", mr: "पार्सल करा", roman: "Pārsal karā", hint: "Takeaway" },
+    ]
+  },
+  shopping: {
+    name: "Shopping",
+    color: "#805AD5",
+    icon: "🛍️",
+    phrases: [
+      { en: "How much does this cost?", mr: "हे किती रुपयांना आहे?", roman: "He kitī rupayānnā āhe?", hint: "" },
+      { en: "Give me a discount", mr: "थोडे कमी करा", roman: "Thoḍe kamī karā", hint: "Ask for discount" },
+      { en: "Do you have a smaller size?", mr: "लहान साइज आहे का?", roman: "Lahān sāij āhe kā?", hint: "" },
+      { en: "I'll take this", mr: "मला हे हवे आहे", roman: "Malā he have āhe", hint: "" },
+      { en: "This is too expensive", mr: "हे खूप महाग आहे", roman: "He khūp mahāg āhe", hint: "" },
+      { en: "Final price?", mr: "शेवटची किंमत किती?", roman: "Śevaṭacī kimmat kitī?", hint: "" },
+      { en: "I'll come back later", mr: "मी नंतर येतो", roman: "Mī nantar yetō", hint: "" },
+      { en: "Do you accept card?", mr: "कार्ड चालते का?", roman: "Kārḍ cālate kā?", hint: "" },
+      { en: "Give me a bag", mr: "पिशवी द्या", roman: "Piśavī dyā", hint: "" },
+      { en: "Do you have this in another color?", mr: "दुसऱ्या रंगात आहे का?", roman: "Dusaṛyā rangāt āhe kā?", hint: "" },
+    ]
+  },
+  emergency: {
+    name: "Emergency",
+    color: "#E53E3E",
+    icon: "🚨",
+    phrases: [
+      { en: "Help!", mr: "मदत करा!", roman: "Madat karā!", hint: "Urgent" },
+      { en: "Call the police", mr: "पोलिसांना बोलवा", roman: "Polisānnā bolavā", hint: "" },
+      { en: "I need a doctor", mr: "मला डॉक्टर हवे आहेत", roman: "Malā ḍŏkṭar have āhet", hint: "" },
+      { en: "There is a fire!", mr: "आग लागली!", roman: "Āg lāgalī!", hint: "" },
+      { en: "I have been robbed", mr: "माझी चोरी झाली", roman: "Mājhī corī jhālī", hint: "" },
+      { en: "I am not feeling well", mr: "मला बरे वाटत नाही", roman: "Malā bare vāṭat nāhī", hint: "" },
+      { en: "Take me to hospital", mr: "मला रुग्णालयात न्या", roman: "Malā rugṇālayāt nyā", hint: "" },
+      { en: "I lost my phone", mr: "माझा फोन हरवला", roman: "Mājhā phon haravalā", hint: "" },
+    ]
+  },
+  numbers: {
+    name: "Numbers",
+    color: "#38A169",
+    icon: "🔢",
+    phrases: [
+      { en: "One (1)", mr: "एक", roman: "Ek", hint: "" },
+      { en: "Two (2)", mr: "दोन", roman: "Don", hint: "" },
+      { en: "Three (3)", mr: "तीन", roman: "Tīn", hint: "" },
+      { en: "Four (4)", mr: "चार", roman: "Cār", hint: "" },
+      { en: "Five (5)", mr: "पाच", roman: "Pāc", hint: "" },
+      { en: "Six (6)", mr: "सहा", roman: "Sahā", hint: "" },
+      { en: "Seven (7)", mr: "सात", roman: "Sāt", hint: "" },
+      { en: "Eight (8)", mr: "आठ", roman: "Āṭh", hint: "" },
+      { en: "Nine (9)", mr: "नऊ", roman: "Na'ū", hint: "" },
+      { en: "Ten (10)", mr: "दहा", roman: "Dahā", hint: "" },
+      { en: "Twenty (20)", mr: "वीस", roman: "Vīs", hint: "" },
+      { en: "Fifty (50)", mr: "पन्नास", roman: "Pannās", hint: "" },
+      { en: "Hundred (100)", mr: "शंभर", roman: "Śambhar", hint: "" },
+      { en: "Thousand (1000)", mr: "हजार", roman: "Hajār", hint: "" },
+      { en: "How many?", mr: "किती?", roman: "Kitī?", hint: "" },
+      { en: "How much money?", mr: "किती पैसे?", roman: "Kitī paise?", hint: "" },
+      { en: "Zero (0)", mr: "शून्य", roman: "Śūnya", hint: "" },
+      { en: "First", mr: "पहिला", roman: "Pahilā", hint: "" },
+      { en: "Second", mr: "दुसरा", roman: "Dusarā", hint: "" },
+      { en: "Last", mr: "शेवटचा", roman: "Śevaṭacā", hint: "" },
+    ]
+  }
+};
+
+const DICTIONARY = [
+  { en: "Water", mr: "पाणी", roman: "Pāṇī" },
+  { en: "Food", mr: "जेवण", roman: "Jevaṇ" },
+  { en: "House", mr: "घर", roman: "Ghar" },
+  { en: "Road", mr: "रस्ता", roman: "Rastā" },
+  { en: "Money", mr: "पैसे", roman: "Paise" },
+  { en: "Time", mr: "वेळ", roman: "Veḷ" },
+  { en: "Day", mr: "दिवस", roman: "Divas" },
+  { en: "Night", mr: "रात्र", roman: "Rātra" },
+  { en: "Mother", mr: "आई", roman: "Āī" },
+  { en: "Father", mr: "बाबा", roman: "Bābā" },
+  { en: "Brother", mr: "भाऊ", roman: "Bhāū" },
+  { en: "Sister", mr: "ताई", roman: "Tāī" },
+  { en: "Friend", mr: "मित्र", roman: "Mitra" },
+  { en: "School", mr: "शाळा", roman: "Śāḷā" },
+  { en: "Work", mr: "काम", roman: "Kām" },
+  { en: "City", mr: "शहर", roman: "Śahar" },
+  { en: "Village", mr: "गाव", roman: "Gāv" },
+  { en: "Morning", mr: "सकाळ", roman: "Sakāḷ" },
+  { en: "Evening", mr: "संध्याकाळ", roman: "Sandhyākāḷ" },
+  { en: "Today", mr: "आज", roman: "Āj" },
+  { en: "Tomorrow", mr: "उद्या", roman: "Udyā" },
+  { en: "Yesterday", mr: "काल", roman: "Kāl" },
+  { en: "Yes", mr: "हो", roman: "Ho" },
+  { en: "No", mr: "नाही", roman: "Nāhī" },
+  { en: "Good", mr: "चांगले", roman: "Cāṅgale" },
+  { en: "Bad", mr: "वाईट", roman: "Vāīṭ" },
+  { en: "Big", mr: "मोठे", roman: "Moṭhe" },
+  { en: "Small", mr: "लहान", roman: "Lahān" },
+  { en: "Hot", mr: "गरम", roman: "Garam" },
+  { en: "Cold", mr: "थंड", roman: "Thaṇḍ" },
+];
+
+// ===== STATE =====
+let currentTab = 'home';
+let currentCategory = null;
+let previousScreen = 'home';
+let savedPhrases = JSON.parse(localStorage.getItem('savedPhrases') || '[]');
+let currentPhrase = null;
+
+// ===== NAVIGATION =====
+// (switchTab is defined later after chapters logic, see bottom of script)
+
+function openCategory(cat) {
+  currentCategory = cat;
+  previousScreen = 'home';
+  const data = PHRASES[cat];
+  document.getElementById('phrase-screen-title').textContent = data.icon + ' ' + data.name;
+  document.getElementById('phrase-section-label').textContent = data.phrases.length + ' PHRASES';
+
+  const list = document.getElementById('phrase-list');
+  list.innerHTML = data.phrases.map((p, i) => `
+    <div class="phrase-item" onclick="openPhrase('${cat}', ${i})">
+      <div class="phrase-item-left">
+        <div class="phrase-en">${p.en}</div>
+        <div class="phrase-roman">${p.roman}</div>
+      </div>
+      <span class="phrase-arrow">›</span>
+    </div>
+  `).join('');
+
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-phrases').classList.add('active');
+}
+
+function openPhrase(cat, idx) {
+  const p = PHRASES[cat].phrases[idx];
+  currentPhrase = p;
+  previousScreen = currentTab === 'home' ? 'phrases' : currentTab;
+
+  document.getElementById('result-input-display').textContent = p.en;
+  document.getElementById('result-devanagari').textContent = p.mr;
+  document.getElementById('result-roman').textContent = p.roman;
+
+  const saveBtn = document.getElementById('save-btn');
+  const isSaved = savedPhrases.some(s => s.mr === p.mr);
+  saveBtn.textContent = isSaved ? '✓ Saved!' : 'Save Phrase';
+  saveBtn.className = 'save-btn' + (isSaved ? ' saved' : '');
+
+  // Similar phrases from same category
+  const similar = PHRASES[cat].phrases.filter((_, i) => i !== idx).slice(0, 3);
+  document.getElementById('similar-phrases').innerHTML = similar.map((sp, i) => `
+    <div class="phrase-item" onclick="openPhrase('${cat}', ${PHRASES[cat].phrases.indexOf(sp)})">
+      <div class="phrase-item-left">
+        <div class="phrase-en">${sp.en}</div>
+        <div class="phrase-roman">${sp.roman}</div>
+      </div>
+      <span class="phrase-arrow">›</span>
+    </div>
+  `).join('');
+
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-result').classList.add('active');
+}
+
+function goBack() {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-home').classList.add('active');
+}
+
+function goBackFromResult() {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  if (previousScreen === 'phrases') {
+    document.getElementById('screen-phrases').classList.add('active');
+  } else {
+    document.getElementById('screen-' + (currentTab || 'home')).classList.add('active');
+  }
+}
+
+// ===== SEARCH =====
+function handleHomeSearch(val) {
+  const resultsArea = document.getElementById('search-results-area');
+  const categoriesArea = document.getElementById('categories-area');
+  const resultsList = document.getElementById('search-results-list');
+
+  if (!val.trim()) {
+    resultsArea.style.display = 'none';
+    categoriesArea.style.display = 'block';
+    return;
+  }
+
+  resultsArea.style.display = 'block';
+  categoriesArea.style.display = 'none';
+
+  const query = val.toLowerCase();
+  let results = [];
+
+  Object.entries(PHRASES).forEach(([cat, data]) => {
+    data.phrases.forEach((p, i) => {
+      if (p.en.toLowerCase().includes(query) || p.roman.toLowerCase().includes(query) || p.mr.includes(val)) {
+        results.push({ cat, idx: i, phrase: p });
+      }
+    });
+  });
+
+  DICTIONARY.forEach(d => {
+    if (d.en.toLowerCase().includes(query) || d.roman.toLowerCase().includes(query)) {
+      results.push({ dict: true, phrase: d });
+    }
+  });
+
+  if (!results.length) {
+    resultsList.innerHTML = '<div class="no-results">No results found for "' + val + '"</div>';
+    return;
+  }
+
+  resultsList.innerHTML = results.slice(0, 15).map(r => `
+    <div class="phrase-item" onclick="${r.dict ? `openDictItem(${JSON.stringify(r.phrase).replace(/"/g,"'")})` : `openPhrase('${r.cat}', ${r.idx})`}">
+      <div class="phrase-item-left">
+        <div class="phrase-en">${r.phrase.en}</div>
+        <div class="phrase-roman">${r.phrase.roman}</div>
+      </div>
+      <div style="font-family:'Noto Sans Devanagari',sans-serif;font-size:14px;font-weight:700;color:var(--primary)">${r.phrase.mr}</div>
+    </div>
+  `).join('');
+}
+
+function openDictItem(p) {
+  // Find which category it belongs to (or use a generic one)
+  currentPhrase = p;
+  document.getElementById('result-input-display').textContent = p.en;
+  document.getElementById('result-devanagari').textContent = p.mr;
+  document.getElementById('result-roman').textContent = p.roman;
+  previousScreen = 'home';
+
+  const saveBtn = document.getElementById('save-btn');
+  const isSaved = savedPhrases.some(s => s.mr === p.mr);
+  saveBtn.textContent = isSaved ? '✓ Saved!' : 'Save Phrase';
+  saveBtn.className = 'save-btn' + (isSaved ? ' saved' : '');
+
+  document.getElementById('similar-phrases').innerHTML = '';
+
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-result').classList.add('active');
+}
+
+// ===== DICTIONARY =====
+function renderDict(query) {
+  const list = document.getElementById('dict-list');
+  const q = query.toLowerCase();
+  const items = q
+    ? DICTIONARY.filter(d => d.en.toLowerCase().includes(q) || d.roman.toLowerCase().includes(q))
+    : DICTIONARY;
+
+  list.innerHTML = items.map(d => `
+    <div class="dict-item" onclick="openDictItem(${JSON.stringify(d).replace(/"/g,"'")})">
+      <div class="dict-en">${d.en}</div>
+      <div class="dict-mr">${d.mr}</div>
+    </div>
+  `).join('');
+}
+
+function handleDictSearch(val) { renderDict(val); }
+
+// ===== SAVED =====
+function savePhrase() {
+  if (!currentPhrase) return;
+  const isSaved = savedPhrases.some(s => s.mr === currentPhrase.mr);
+  if (isSaved) {
+    savedPhrases = savedPhrases.filter(s => s.mr !== currentPhrase.mr);
+    showToast('Removed from saved');
+    document.getElementById('save-btn').textContent = 'Save Phrase';
+    document.getElementById('save-btn').className = 'save-btn';
+  } else {
+    savedPhrases.push(currentPhrase);
+    showToast('Phrase saved! 🔖');
+    document.getElementById('save-btn').textContent = '✓ Saved!';
+    document.getElementById('save-btn').className = 'save-btn saved';
+  }
+  localStorage.setItem('savedPhrases', JSON.stringify(savedPhrases));
+}
+
+function renderSaved() {
+  const wrap = document.getElementById('saved-list-wrap');
+  if (!savedPhrases.length) {
+    wrap.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon">🔖</div>
+        <div class="empty-title">No saved phrases yet</div>
+        <div class="empty-sub">Tap "Save Phrase" on any phrase to bookmark it here</div>
+      </div>`;
+    return;
+  }
+  wrap.innerHTML = '<div class="phrase-list" style="padding: 0 20px;">' +
+    savedPhrases.map((p, i) => `
+      <div class="phrase-item" onclick="openSavedPhrase(${i})">
+        <div class="phrase-item-left">
+          <div class="phrase-en">${p.en}</div>
+          <div class="phrase-roman">${p.roman}</div>
+        </div>
+        <div style="font-family:'Noto Sans Devanagari',sans-serif;font-size:14px;font-weight:700;color:var(--primary)">${p.mr}</div>
+      </div>`).join('') + '</div>';
+}
+
+function openSavedPhrase(i) {
+  const p = savedPhrases[i];
+  currentPhrase = p;
+  previousScreen = 'saved';
+
+  document.getElementById('result-input-display').textContent = p.en;
+  document.getElementById('result-devanagari').textContent = p.mr;
+  document.getElementById('result-roman').textContent = p.roman;
+
+  const saveBtn = document.getElementById('save-btn');
+  saveBtn.textContent = '✓ Saved!';
+  saveBtn.className = 'save-btn saved';
+
+  document.getElementById('similar-phrases').innerHTML = '';
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-result').classList.add('active');
+}
+
+// ===== SPEAK =====
+function speakMarathi() {
+  if (!currentPhrase) return;
+  if ('speechSynthesis' in window) {
+    const utt = new SpeechSynthesisUtterance(currentPhrase.mr);
+    utt.lang = 'mr-IN';
+    utt.rate = 0.85;
+    window.speechSynthesis.cancel();
+    window.speechSynthesis.speak(utt);
+    showToast('🔊 Playing...');
+  } else {
+    showToast('Speech not supported on this device');
+  }
+}
+
+// ===== SETTINGS =====
+let offlineEnabled = true;
+function toggleOffline() {
+  offlineEnabled = !offlineEnabled;
+  const t = document.getElementById('offline-toggle');
+  t.className = 'toggle' + (offlineEnabled ? '' : ' off');
+  showToast(offlineEnabled ? 'Offline mode enabled' : 'Offline mode disabled');
+}
+
+// ===== TOAST =====
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+
+// ===== CHAPTERS (static data.json — no backend needed) =====
+let allChapters = [];
+let chaptersLoaded = false;
+
+async function loadChapters() {
+  if (chaptersLoaded) return;
+
+  const loading = document.getElementById('chapters-loading');
+  const error   = document.getElementById('chapters-error');
+  const list    = document.getElementById('chapters-list');
+
+  loading.style.display = 'block';
+  error.style.display   = 'none';
+  list.innerHTML        = '';
+
+  try {
+    const res = await fetch('/data.json');
+    if (!res.ok) throw new Error('not found');
+    allChapters   = await res.json();
+    chaptersLoaded = true;
+    renderChaptersList(allChapters);
+  } catch(e) {
+    loading.style.display = 'none';
+    error.style.display   = 'block';
+    document.getElementById('chapters-error').innerHTML = `
+      <div style="font-size:36px;margin-bottom:12px;">⚠️</div>
+      <div style="font-weight:800;color:var(--text);margin-bottom:6px;">data.json not found</div>
+      <div style="font-size:12px;color:var(--text-muted);font-weight:600;">
+        Run <code style="background:var(--border);padding:2px 6px;border-radius:4px;">python export_to_json.py</code>
+        then place <code style="background:var(--border);padding:2px 6px;border-radius:4px;">data.json</code> in your project root
+      </div>`;
+  }
+}
+
+function renderChaptersList(chapters) {
+  const loading = document.getElementById('chapters-loading');
+  const list    = document.getElementById('chapters-list');
+  loading.style.display = 'none';
+
+  if (!chapters.length) {
+    list.innerHTML = '<div class="no-results">No chapters found</div>';
+    return;
+  }
+
+  list.innerHTML = chapters.map(ch => `
+    <div class="dict-item" onclick="openChapter(${ch.id})" style="align-items:flex-start;gap:10px;">
+      <div style="
+        background:var(--primary-light);
+        color:var(--primary);
+        font-size:11px;font-weight:800;
+        border-radius:6px;padding:3px 8px;
+        white-space:nowrap;flex-shrink:0;margin-top:2px;
+      ">#${ch.id}</div>
+      <div style="flex:1;font-size:13px;font-weight:700;line-height:1.4;">${ch.title}</div>
+      <div style="color:var(--primary);font-size:18px;flex-shrink:0;">›</div>
+    </div>
+  `).join('');
+}
+
+function handleChaptersSearch(val) {
+  if (!chaptersLoaded) return;
+  const q = val.trim().toLowerCase();
+  const filtered = q
+    ? allChapters.filter(ch =>
+        ch.title.toLowerCase().includes(q) ||
+        ch.content.toLowerCase().includes(q)
+      )
+    : allChapters;
+  renderChaptersList(filtered);
+}
+
+function openChapter(id) {
+  const ch = allChapters.find(c => c.id === id);
+  if (!ch) return;
+
+  document.getElementById('chapter-detail-back-label').textContent = 'Lessons';
+  document.getElementById('chapter-detail-id').textContent    = ch.id;
+  document.getElementById('chapter-detail-title').textContent = ch.title;
+  document.getElementById('chapter-detail-body').textContent  = ch.content;
+  document.getElementById('chapter-detail-link').href         = ch.url;
+
+  document.getElementById('chapter-detail-loading').style.display = 'none';
+  document.getElementById('chapter-detail-content').style.display = 'block';
+
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-chapter-detail').classList.add('active');
+}
+
+function goBackFromChapter() {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-chapters').classList.add('active');
+}
+
+function switchTab(tab) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  document.getElementById('screen-' + tab).classList.add('active');
+  document.getElementById('nav-' + tab).classList.add('active');
+  currentTab = tab;
+
+  if (tab === 'dictionary') renderDict('');
+  if (tab === 'saved') renderSaved();
+  if (tab === 'chapters') loadChapters();
+}
+
+
+</script>
+</body>
+</html>
