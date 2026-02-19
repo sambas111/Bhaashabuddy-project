@@ -1,0 +1,471 @@
+{
+  "majorLessons": [
+    {
+      "name": "Introductory Lessons",
+      "sublessons": [
+        {
+          "title": "Welcome to world of Gujarati",
+          "chapterId": 1
+        },
+        {
+          "title": "Tips to Learn Gujarati (rather any new language)",
+          "chapterId": 2
+        }
+      ]
+    },
+    {
+      "name": "Gujarati Script – Writing & Pronunciation",
+      "sublessons": [
+        {
+          "title": "Alphabets in Gujarati Script",
+          "chapterId": 3
+        },
+        {
+          "title": "Gujarati Barakhadi/Barakshari",
+          "chapterId": 4
+        },
+        {
+          "title": "Pronunciation of Anusvar અનુસ્વાર in Gujarati",
+          "chapterId": 5
+        },
+        {
+          "title": "Combining consonants in Gujarati ગુજરાતી જોડાક્ષર",
+          "chapterId": 6
+        },
+        {
+          "title": "Combining consonants with ર(r)-ગુજરાતી જોડાક્ષર Part 2",
+          "chapterId": 7
+        },
+        {
+          "title": "Combining consonants with હ(h)-ગુજરાતી જોડાક્ષર Part 3",
+          "chapterId": 8
+        },
+        {
+          "title": "Special or separate symbols for combined consonants ગુજરાતી જોડાક્ષર- part 4",
+          "chapterId": 9
+        }
+      ]
+    },
+    {
+      "name": "Sentence formation rules in different tenses & pronouns forms",
+      "sublessons": [
+        {
+          "title": "Pronouns and Articles in Gujarati",
+          "chapterId": 10
+        },
+        {
+          "title": "Working with Nouns,Genders and plurals in Gujarati",
+          "chapterId": 11
+        },
+        {
+          "title": "ઓ-ઈ-ઉં-આ-ઈ-આં (o-I-uM-A-I-AM ) યો-ઈ-યું-યા-ઈ-યાં ( yo-I-yuM-yA-I-yAM ) rule",
+          "chapterId": 12
+        },
+        {
+          "title": "Using plurals to indicate respect આદરાર્થી બહુવચન (AdarArthI bahuvachan )",
+          "chapterId": 13
+        },
+        {
+          "title": "Verbs in Gujarati",
+          "chapterId": 14
+        },
+        {
+          "title": "Simple Present Tense of \"To Be\" in Gujarati",
+          "chapterId": 15
+        },
+        {
+          "title": "Simple Present Tense in Gujarati",
+          "chapterId": 16
+        },
+        {
+          "title": "Simple Future Tense in Gujarati",
+          "chapterId": 17
+        },
+        {
+          "title": "Simple Past Tense of \"To Be\" in Gujarati",
+          "chapterId": 18
+        },
+        {
+          "title": "Simple Past tense in Gujarati – Part 1",
+          "chapterId": 19
+        },
+        {
+          "title": "Simple Past tense in Gujarati – Part 2",
+          "chapterId": 20
+        },
+        {
+          "title": "Present Continuous tense in Gujarati",
+          "chapterId": 21
+        },
+        {
+          "title": "Past Continuous Tense in Gujarati",
+          "chapterId": 22
+        },
+        {
+          "title": "Future Continuous tense in Gujarati",
+          "chapterId": 23
+        },
+        {
+          "title": "Negative Sentence in Simple Present tense in Gujarati",
+          "chapterId": 24
+        },
+        {
+          "title": "Negative Sentence in present continuous tense in Gujarati",
+          "chapterId": 25
+        },
+        {
+          "title": "Negative sentence in simple past tense in Gujarati",
+          "chapterId": 26
+        },
+        {
+          "title": "Negative sentence in past continuous tense in Gujarati",
+          "chapterId": 27
+        },
+        {
+          "title": "Negative sentences in simple future tense in Gujarati",
+          "chapterId": 28
+        },
+        {
+          "title": "Negative Sentence in future continuous tense in Gujarati",
+          "chapterId": 29
+        },
+        {
+          "title": "Present-Past-Future Perfect Tense in Gujarati",
+          "chapterId": 30
+        },
+        {
+          "title": "Past /Present/Future Perfect Continuous tense in Gujarati",
+          "chapterId": 31
+        },
+        {
+          "title": "Commands / Imperative statements in Gujarati",
+          "chapterId": 32
+        },
+        {
+          "title": "Saying My/His/Her in Gujarati",
+          "chapterId": 33
+        },
+        {
+          "title": "Preposition \"TO\" in Gujarati",
+          "chapterId": 34
+        },
+        {
+          "title": "Sentences with person or human being as object",
+          "chapterId": 35
+        },
+        {
+          "title": "Asking questions in Gujarati – Part 1",
+          "chapterId": 36
+        },
+        {
+          "title": "Asking WH questions in Gujarati",
+          "chapterId": 37
+        },
+        {
+          "title": "Learn Prepositions in Gujarati Language",
+          "chapterId": 38
+        },
+        {
+          "title": "Prepositions with nouns in Gujarati",
+          "chapterId": 39
+        },
+        {
+          "title": "Cases in Gujarati. વિભક્તિ Vibhakti and વિભક્તિ પ્રત્યય vibhakti prtatyay in Gujarati",
+          "chapterId": 40
+        },
+        {
+          "title": "Asking WH-questions with prepositions in Gujarati",
+          "chapterId": 41
+        },
+        {
+          "title": "Adjectives in Gujarati",
+          "chapterId": 42
+        }
+      ]
+    },
+    {
+      "name": "Phrases & other sentence structures",
+      "sublessons": [
+        {
+          "title": "Using phrase \"to keep doing\" in Gujarati",
+          "chapterId": 43
+        },
+        {
+          "title": "Using verb \"To want\" in Gujarati",
+          "chapterId": 44
+        },
+        {
+          "title": "Using verb \"To Know\" in Gujarati",
+          "chapterId": 45
+        },
+        {
+          "title": "Saying \"To come to know\" in Gujarati",
+          "chapterId": 46
+        },
+        {
+          "title": "Using \"To Understand\" in Gujarati",
+          "chapterId": 47
+        },
+        {
+          "title": "Using \"To Like\" in Gujarati",
+          "chapterId": 48
+        },
+        {
+          "title": "Using \"Going to\" phrase in Gujarati",
+          "chapterId": 49
+        },
+        {
+          "title": "Using verb \"Can/To be able to\" in Gujarati",
+          "chapterId": 50
+        },
+        {
+          "title": "Using verb \"To remember\" in Gujarati",
+          "chapterId": 51
+        },
+        {
+          "title": "Using \"To Want\" \"To Need\" with other verbs in Gujarati",
+          "chapterId": 52
+        },
+        {
+          "title": "Using \"Should\" in Gujarati",
+          "chapterId": 53
+        },
+        {
+          "title": "Sentences using \"would\" in Gujarati",
+          "chapterId": 54
+        },
+        {
+          "title": "Saying phrase \"must\" \"have to\" in Gujarati",
+          "chapterId": 55
+        },
+        {
+          "title": "Prepositions with verbs in Gujarati",
+          "chapterId": 56
+        },
+        {
+          "title": "Using \"Let\" and \"Shall we\" in Gujarati",
+          "chapterId": 57
+        },
+        {
+          "title": "Saying \"To Become\" \"To Happen\" in Gujarati",
+          "chapterId": 58
+        },
+        {
+          "title": "Asking permission and requesting someone \"May I\" \"Can you\" etc.",
+          "chapterId": 59
+        },
+        {
+          "title": "Comparison and degrees of comparison in Gujarati",
+          "chapterId": 60
+        },
+        {
+          "title": "Sentence using \"If-Then\" in Gujarati",
+          "chapterId": 61
+        },
+        {
+          "title": "Simple future tense in conditional statements",
+          "chapterId": 62
+        },
+        {
+          "title": "Sentence using \"Used to\" phrase in Gujarati",
+          "chapterId": 63
+        },
+        {
+          "title": "Which-That / What-That sentences in Gujarati",
+          "chapterId": 64
+        },
+        {
+          "title": "Using \"To Feel\" & \"To think\" in Gujarati",
+          "chapterId": 65
+        },
+        {
+          "title": "Add a question tag in Gujarati",
+          "chapterId": 66
+        },
+        {
+          "title": "To emphasize word using-જ(j)-in Gujarati",
+          "chapterId": 67
+        },
+        {
+          "title": "Showing uncertainty using May, Might in Gujarati",
+          "chapterId": 68
+        },
+        {
+          "title": "Using \"To mean\". How to ask meaning in Gujarati",
+          "chapterId": 69
+        },
+        {
+          "title": "\"To have\" to indicate possession and relation in Gujarati",
+          "chapterId": 70
+        },
+        {
+          "title": "Adjectives made from verbs in Gujarati",
+          "chapterId": 71
+        },
+        {
+          "title": "Generalizing words – somewhere somehow anything anybody etc. – in Gujarati",
+          "chapterId": 72
+        },
+        {
+          "title": "Adverbs in Gujarati",
+          "chapterId": 73
+        },
+        {
+          "title": "Using \"like\" to indicate similarity in Gujarati",
+          "chapterId": 74
+        },
+        {
+          "title": "Active voice and Passive voice in Gujarati",
+          "chapterId": 75
+        },
+        {
+          "title": "Phrase \"To Make Someone do something\" in Gujarati",
+          "chapterId": 76
+        },
+        {
+          "title": "Using \"May\" to express wish in Gujarati",
+          "chapterId": 77
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "sublessons": [
+        {
+          "title": "Time related words in Gujarati",
+          "chapterId": 78
+        },
+        {
+          "title": "Numbers in Gujarati – Part 1",
+          "chapterId": 79
+        },
+        {
+          "title": "Numbers in Gujarati – Part 2",
+          "chapterId": 80
+        },
+        {
+          "title": "Fractional numbers, sequence, percentage in Gujarati",
+          "chapterId": 81
+        },
+        {
+          "title": "Conjunctions in Gujarati – Part 1 And,But,Because,So,That,Although,Though,Still,Yet",
+          "chapterId": 82
+        },
+        {
+          "title": "Conjunctions in Gujarati – Part 2 As,As well as,Or, Neither, Nor, If,in case, provided",
+          "chapterId": 83
+        },
+        {
+          "title": "Conjunctions in Gujarati- Part 3 After, then,As far as, As long as,As if, As though",
+          "chapterId": 84
+        },
+        {
+          "title": "Conjunctions in Gujarati Part-4 As Soon as, Once,Rather Than, Instead of,So that,Whereas,Whether or not,also",
+          "chapterId": 85
+        },
+        {
+          "title": "List of conjunctions in Gujarati",
+          "chapterId": 86
+        },
+        {
+          "title": "List of Body parts in Gujarati",
+          "chapterId": 87
+        },
+        {
+          "title": "Relations in Gujarati",
+          "chapterId": 88
+        }
+      ]
+    },
+    {
+      "name": "Conversation practice",
+      "sublessons": [
+        {
+          "title": "Simple Sentences in Gujarati – Introduction/Salutation",
+          "chapterId": 89
+        },
+        {
+          "title": "Simple Gujarati Sentences Where Place Related",
+          "chapterId": 90
+        },
+        {
+          "title": "Asking address in Gujarati",
+          "chapterId": 91
+        },
+        {
+          "title": "Greeting,Wishes,Blessings,Slogans in Gujarati",
+          "chapterId": 92
+        },
+        {
+          "title": "Simple Gujarati Sentences – In Hotel",
+          "chapterId": 93
+        },
+        {
+          "title": "Simple Gujarati conversation – Grocery shop",
+          "chapterId": 94
+        },
+        {
+          "title": "Simple Gujarati Conversation-at-bus stop and in bus",
+          "chapterId": 95
+        },
+        {
+          "title": "Simple Gujarati conversation – Rickshaw/Taxi driver",
+          "chapterId": 96
+        },
+        {
+          "title": "Simple Gujarati Conversation – Software Engineers",
+          "chapterId": 97
+        },
+        {
+          "title": "Simple Gujarati Conversation – Doctor-Patient",
+          "chapterId": 98
+        },
+        {
+          "title": "Simple Gujarati Conversation – Teacher & Students",
+          "chapterId": 99
+        },
+        {
+          "title": "Simple Gujarati Conversation – Informal phone conversation",
+          "chapterId": 100
+        },
+        {
+          "title": "Simple Gujarati conversation-at Vegetable Market",
+          "chapterId": 101
+        },
+        {
+          "title": "Simple Gujarati conversation-with traffic police",
+          "chapterId": 102
+        },
+        {
+          "title": "Simple Gujarati sentences – Weather related",
+          "chapterId": 103
+        },
+        {
+          "title": "Simple Gujarati Conversation – Interview in Gujarati",
+          "chapterId": 104
+        },
+        {
+          "title": "Simple Gujarati conversation – with housemaid",
+          "chapterId": 105
+        },
+        {
+          "title": "I Love you In Gujarati. Proposing someone in Gujarati",
+          "chapterId": 106
+        },
+        {
+          "title": "Simple Gujarati conversation: Linking AADHAR card to mobile number",
+          "chapterId": 107
+        }
+      ]
+    },
+    {
+      "name": "Additional resources",
+      "sublessons": [
+        {
+          "title": "Type Gujarati in Roman. Gujarati transliteration",
+          "chapterId": 108
+        }
+      ]
+    }
+  ]
+}

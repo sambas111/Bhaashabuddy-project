@@ -1,0 +1,739 @@
+{
+  "majorLessons": [
+    {
+      "name": "Introductory lessons",
+      "sublessons": [
+        {
+          "title": "Welcome to world of Marathi",
+          "chapterId": 277
+        },
+        {
+          "title": "Tips to Learn Marathi (rather any new language)",
+          "chapterId": 236
+        }
+      ]
+    },
+    {
+      "name": "Marathi Script - Writing & Pronunciation",
+      "sublessons": [
+        {
+          "title": "Marathi Alphabets Devanagari Alphabets",
+          "chapterId": 120
+        },
+        {
+          "title": "Vowels, Consonants in Marathi and their pronunciation",
+          "chapterId": 274
+        },
+        {
+          "title": "Marathi Barakahadi : Symbols for vowels with consonants",
+          "chapterId": 122
+        },
+        {
+          "title": "Frequently faced pronunciation problems in Marathi (Devanagari)",
+          "chapterId": 60
+        },
+        {
+          "title": "Pronunciation of Anusvar अनुस्वार",
+          "chapterId": 167
+        },
+        {
+          "title": "Combining consonants in Marathi मराठी जोडाक्षरे",
+          "chapterId": 28
+        },
+        {
+          "title": "Combining consonants with र(r)-मराठी जोडाक्षरे Part 2",
+          "chapterId": 30
+        },
+        {
+          "title": "Combining consonants with ह(h)-मराठी जोडाक्षरे Part 3",
+          "chapterId": 31
+        },
+        {
+          "title": "Special or separate symbols for combined consonants मराठी जोडाक्षरे- part 3",
+          "chapterId": 231
+        }
+      ]
+    },
+    {
+      "name": "Sentence formation rules in different tenses & pronouns forms",
+      "sublessons": [
+        {
+          "title": "Pronouns and Articles in Marathi",
+          "chapterId": 166
+        },
+        {
+          "title": "Using plurals to indicate respect आदरार्थी बहुवचन (AdarArthI bahuvachan )",
+          "chapterId": 257
+        },
+        {
+          "title": "Verbs in Marathi",
+          "chapterId": 271
+        },
+        {
+          "title": "Simple Present Tense in Marathi",
+          "chapterId": 227
+        },
+        {
+          "title": "Simple Present Tense of \"To Be\" in Marathi",
+          "chapterId": 228
+        },
+        {
+          "title": "Present Continuous Tense in Marathi",
+          "chapterId": 163
+        },
+        {
+          "title": "Simple Future Tense in Marathi",
+          "chapterId": 187
+        },
+        {
+          "title": "Future Continuous Tense in Marathi",
+          "chapterId": 74
+        },
+        {
+          "title": "Simple Past Tense in Marathi – Part 1 (Verbs without noun)",
+          "chapterId": 224
+        },
+        {
+          "title": "Simple Past Tense in Marathi – Part 2 (Verbs with object)",
+          "chapterId": 225
+        },
+        {
+          "title": "Simple Past Tense in Marathi – Part 3 (Past tense of \"to be\")",
+          "chapterId": 226
+        },
+        {
+          "title": "Exceptional Verbs in Marathi which change in past tense form",
+          "chapterId": 52
+        },
+        {
+          "title": "Past Continuous Tense in Marathi",
+          "chapterId": 150
+        },
+        {
+          "title": "Present/Past/Future Perfect Tense in Marathi",
+          "chapterId": 164
+        },
+        {
+          "title": "Learn Prepositions in Marathi",
+          "chapterId": 93
+        },
+        {
+          "title": "Preposition \"TO\" in Marathi",
+          "chapterId": 159
+        },
+        {
+          "title": "Sentences with person or living things as object",
+          "chapterId": 183
+        },
+        {
+          "title": "Saying My/His/Her in Marathi",
+          "chapterId": 174
+        },
+        {
+          "title": "Basic questions and \"WH\" questions in Marathi",
+          "chapterId": 22
+        },
+        {
+          "title": "Negative Sentences – Present tense in Marathi",
+          "chapterId": 146
+        },
+        {
+          "title": "Negative Sentences – Past tense in Marathi",
+          "chapterId": 145
+        },
+        {
+          "title": "Negative Sentence – Future Tense in Marathi",
+          "chapterId": 143
+        },
+        {
+          "title": "Working with nouns – Gender & Plurals in Marathi",
+          "chapterId": 279
+        },
+        {
+          "title": "Working with nouns – Prepositions in Marathi",
+          "chapterId": 280
+        },
+        {
+          "title": "Prepositions with similar pronunciation or similar meanings",
+          "chapterId": 160
+        },
+        {
+          "title": "Cases in Marathi. विभक्ति Vibhakti and विभक्तिप्रत्यय vibhaktiprtatyay in Marathi",
+          "chapterId": 26
+        },
+        {
+          "title": "Commands / Imperative statements in Marathi",
+          "chapterId": 34
+        },
+        {
+          "title": "Time related words",
+          "chapterId": 234
+        },
+        {
+          "title": "Verbs indicating cause of action. Causative verb",
+          "chapterId": 272
+        },
+        {
+          "title": "आ-ई-ए-ए-या-ई (A-I-e-e-yA-I) rule",
+          "chapterId": 1
+        },
+        {
+          "title": "Past/Present/Future Perfect Tense – Second Style",
+          "chapterId": 154
+        },
+        {
+          "title": "Past /Present/Future Perfect Continuous tense in Marathi",
+          "chapterId": 152
+        },
+        {
+          "title": "Difference between नाही(nAhI) and नको (nako)",
+          "chapterId": 49
+        }
+      ]
+    },
+    {
+      "name": "Phrases & other sentence structures",
+      "sublessons": [
+        {
+          "title": "Sentence using \"Going to\" phrase",
+          "chapterId": 177
+        },
+        {
+          "title": "Sentence using \"Used to\" phrase",
+          "chapterId": 180
+        },
+        {
+          "title": "Sentence using \"Used to\" phrase – old style",
+          "chapterId": 179
+        },
+        {
+          "title": "Sentence using \"If-Then\"",
+          "chapterId": 178
+        },
+        {
+          "title": "Prepositions with Verbs",
+          "chapterId": 162
+        },
+        {
+          "title": "Adjectives in Marathi",
+          "chapterId": 15
+        },
+        {
+          "title": "Using verb \"Can/To be able to\"",
+          "chapterId": 266
+        },
+        {
+          "title": "Using verb To Want/To Need",
+          "chapterId": 269
+        },
+        {
+          "title": "Verb \"To Become/To Happen\"",
+          "chapterId": 270
+        },
+        {
+          "title": "Using \"Should\"",
+          "chapterId": 258
+        },
+        {
+          "title": "Using \"Must\"/\"to be have to\"",
+          "chapterId": 254
+        },
+        {
+          "title": "Using phrase \"to keep doing\"",
+          "chapterId": 256
+        },
+        {
+          "title": "Comparison and degrees of comparison",
+          "chapterId": 35
+        },
+        {
+          "title": "Using verb \"To Know\"",
+          "chapterId": 267
+        },
+        {
+          "title": "Using \"Let\" and \"Shall we\"",
+          "chapterId": 252
+        },
+        {
+          "title": "Which-That / What-That sentences",
+          "chapterId": 278
+        },
+        {
+          "title": "Giving instructions formally",
+          "chapterId": 78
+        },
+        {
+          "title": "Using \"To Like\"",
+          "chapterId": 261
+        },
+        {
+          "title": "Sentences using \"would\" in Marathi",
+          "chapterId": 182
+        },
+        {
+          "title": "\"To Understand\" & \"To come to know\"",
+          "chapterId": 245
+        },
+        {
+          "title": "Add a question tag",
+          "chapterId": 13
+        },
+        {
+          "title": "Using verb \"To remember\" in Marathi",
+          "chapterId": 268
+        },
+        {
+          "title": "Using \"To Want\"/\"To Need\" with other verbs",
+          "chapterId": 264
+        },
+        {
+          "title": "Using \"To Want\" with other person",
+          "chapterId": 265
+        },
+        {
+          "title": "Using phrase \"supposed to\" in Marathi",
+          "chapterId": 255
+        },
+        {
+          "title": "Using \"To Like\" with other verbs",
+          "chapterId": 247
+        },
+        {
+          "title": "Verbs which use preposition \"To\" with subject and verb form as per object",
+          "chapterId": 273
+        },
+        {
+          "title": "Short forms in spoken Marathi",
+          "chapterId": 185
+        },
+        {
+          "title": "Greeting,Wishes,Blessings,Slogans in Marathi",
+          "chapterId": 80
+        },
+        {
+          "title": "Abuse Cursing Swear-words in Marathi",
+          "chapterId": 9
+        },
+        {
+          "title": "Compound verbs / Phrases in Marathi",
+          "chapterId": 38
+        },
+        {
+          "title": "Calling or Addressing someone in Marathi",
+          "chapterId": 24
+        },
+        {
+          "title": "Exclamations in Marathi",
+          "chapterId": 55
+        },
+        {
+          "title": "Requesting-someone-\"May-I\",\"Can-you\" etc.",
+          "chapterId": 171
+        },
+        {
+          "title": "Showing uncertainty using May, Might",
+          "chapterId": 186
+        },
+        {
+          "title": "Adjectives made from verb",
+          "chapterId": 16
+        },
+        {
+          "title": "Adjectives related to prepositions",
+          "chapterId": 17
+        },
+        {
+          "title": "Using May to express wish",
+          "chapterId": 253
+        },
+        {
+          "title": "Phrase \"To Make Someone do something\"",
+          "chapterId": 156
+        },
+        {
+          "title": "To emphasize word using-च(ch)-in Marathi",
+          "chapterId": 239
+        },
+        {
+          "title": "Generalizing words – somewhere somehow anything anybody etc.तरी(tarI) -ही(hI)",
+          "chapterId": 76
+        },
+        {
+          "title": "\"To have\" to indicate possession and relation",
+          "chapterId": 241
+        },
+        {
+          "title": "Using \"To mean\". How to ask meaning in Marathi",
+          "chapterId": 263
+        },
+        {
+          "title": "Conjunctions in Marathi – Part 1 And,But,Because,So,That,Although,Though,Still,Yet",
+          "chapterId": 42
+        },
+        {
+          "title": "Conjunctions in Marathi – Part 2 As,As well as,Or, Neither, Nor, If,in case, provided",
+          "chapterId": 43
+        },
+        {
+          "title": "Conjunctions in Marathi – Part 3 After, then,As far as, As long as,As if, As though",
+          "chapterId": 44
+        },
+        {
+          "title": "Conjunctions in Marathi Part-4 As Soon as, Once,Rather Than, Instead of,So that,Whereas,Whether or not,also",
+          "chapterId": 45
+        },
+        {
+          "title": "List of Conjunctions in Marathi",
+          "chapterId": 102
+        },
+        {
+          "title": "Combining sentences – change in form of verb असणे(asaNe)",
+          "chapterId": 32
+        },
+        {
+          "title": "Compound verbs in Marathi",
+          "chapterId": 37
+        },
+        {
+          "title": "Active Passive voice in Marathi",
+          "chapterId": 12
+        },
+        {
+          "title": "Active Passive voice in Marathi – Style2",
+          "chapterId": 11
+        },
+        {
+          "title": "Using \"To Feel\" & \"To think\"",
+          "chapterId": 260
+        },
+        {
+          "title": "Idioms and Phrases in Marathi / different sentence formation in Marathi",
+          "chapterId": 4
+        },
+        {
+          "title": "Idioms and Phrases in Marathi / different sentence formation in Marathi Part2",
+          "chapterId": 83
+        },
+        {
+          "title": "Sentences using \"If-Then\" Style 2",
+          "chapterId": 181
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "sublessons": [
+        {
+          "title": "List of Body parts in Marathi",
+          "chapterId": 100
+        },
+        {
+          "title": "Frequently used words. Miscellenious",
+          "chapterId": 73
+        },
+        {
+          "title": "Relations in Marathi",
+          "chapterId": 170
+        },
+        {
+          "title": "Numbers in Marathi – Part 1",
+          "chapterId": 148
+        },
+        {
+          "title": "Numbers in Marathi – Part 2",
+          "chapterId": 149
+        },
+        {
+          "title": "Fractional numbers, sequence, percentage in Marathi",
+          "chapterId": 59
+        },
+        {
+          "title": "Frequently used verbs in Marathi – Part 1",
+          "chapterId": 69
+        },
+        {
+          "title": "Frequently used verbs in Marathi – Part 2",
+          "chapterId": 70
+        },
+        {
+          "title": "Frequently used verbs in Marathi – Part 3",
+          "chapterId": 71
+        },
+        {
+          "title": "Frequently used verbs in Marathi – Part 4",
+          "chapterId": 72
+        },
+        {
+          "title": "लावणे(lAvaNe) – one verb, multiple meanings !!",
+          "chapterId": 7
+        },
+        {
+          "title": "लागणे(lAgaNe) – one verb, multiple meanings !!",
+          "chapterId": 6
+        },
+        {
+          "title": "List of Marathi Adjectives – Part 1",
+          "chapterId": 103
+        },
+        {
+          "title": "Adverbs in Marathi – Part 1",
+          "chapterId": 19
+        },
+        {
+          "title": "List of adverbs in Marathi",
+          "chapterId": 98
+        },
+        {
+          "title": "List of vegetable names in Marathi",
+          "chapterId": 117
+        },
+        {
+          "title": "List of names of fruits in Marathi",
+          "chapterId": 113
+        },
+        {
+          "title": "List of names of birds in Marathi",
+          "chapterId": 109
+        },
+        {
+          "title": "List of names of insects in Marathi",
+          "chapterId": 115
+        },
+        {
+          "title": "List of name of colours in Marathi",
+          "chapterId": 104
+        },
+        {
+          "title": "List of names of flowers in Marathi",
+          "chapterId": 111
+        },
+        {
+          "title": "List of names of animals in Marathi",
+          "chapterId": 107
+        },
+        {
+          "title": "Frequently used or common words in Marathi – Miscellaneous",
+          "chapterId": 66
+        }
+      ]
+    },
+    {
+      "name": "Conversation practice",
+      "sublessons": [
+        {
+          "title": "Diwali Festival",
+          "chapterId": 51
+        },
+        {
+          "title": "Simple Sentences in Marathi – Introduction/Salutation",
+          "chapterId": 229
+        },
+        {
+          "title": "Simple Marathi Sentences – Time Related",
+          "chapterId": 219
+        },
+        {
+          "title": "Simple Marathi Sentences – Where/Place Related",
+          "chapterId": 223
+        },
+        {
+          "title": "Simple Marathi Sentences – In Hotel",
+          "chapterId": 215
+        },
+        {
+          "title": "Simple Marathi sentences – Weather related",
+          "chapterId": 221
+        },
+        {
+          "title": "Marathi conversation-with traffic police",
+          "chapterId": 134
+        },
+        {
+          "title": "Simple Marathi conversation – Rickshaw/Taxi driver",
+          "chapterId": 206
+        },
+        {
+          "title": "Simple Marathi Conversation – Software Engineers",
+          "chapterId": 207
+        },
+        {
+          "title": "Simple Marathi conversation – Grocery shop",
+          "chapterId": 196
+        },
+        {
+          "title": "Simple Marathi Conversation – Doctor-Patient",
+          "chapterId": 192
+        },
+        {
+          "title": "Simple Marathi Conversation – Teacher & Students",
+          "chapterId": 208
+        },
+        {
+          "title": "Simple Marathi conversation – Informal phone conversation",
+          "chapterId": 198
+        },
+        {
+          "title": "Simple Marathi conversation-Vegetable Market",
+          "chapterId": 211
+        },
+        {
+          "title": "Simple Marathi Conversation-at-bus stop and in bus",
+          "chapterId": 191
+        },
+        {
+          "title": "Asking address in Marathi",
+          "chapterId": 20
+        },
+        {
+          "title": "I Love you In Marathi. Proposing someone in Marathi",
+          "chapterId": 81
+        },
+        {
+          "title": "Simple Marathi Conversation – Interview in Marathi",
+          "chapterId": 199
+        },
+        {
+          "title": "Simple Marathi conversation – with housemaid",
+          "chapterId": 213
+        },
+        {
+          "title": "Simple Marathi conversation: Linking AADHAR card to mobile number",
+          "chapterId": 200
+        },
+        {
+          "title": "Simple Marathi conversation: Linking mobile number to AADHAR card",
+          "chapterId": 201
+        },
+        {
+          "title": "Simple Marathi conversation : Republic Day 26th January celebration in India",
+          "chapterId": 205
+        },
+        {
+          "title": "Simple Marathi conversation : In Bank",
+          "chapterId": 197
+        },
+        {
+          "title": "Simple Marathi Conversation : Enquiry about Temple Visit",
+          "chapterId": 193
+        },
+        {
+          "title": "Simple Marathi conversation : with friend's parents at lunch table",
+          "chapterId": 212
+        },
+        {
+          "title": "Simple Marathi conversation : A friend talking with other about his football match",
+          "chapterId": 188
+        },
+        {
+          "title": "Simple Marathi conversation : Friends plan to watch movie",
+          "chapterId": 194
+        },
+        {
+          "title": "Simple Marathi conversation : Friends talking about football world cup",
+          "chapterId": 195
+        },
+        {
+          "title": "Simple Marathi conversation – Tour guide in Singapore speaks with Marathi tourists",
+          "chapterId": 209
+        },
+        {
+          "title": "Simple Marathi Conversation – Marathi Language Proficiency Test (LPT) for banks",
+          "chapterId": 202
+        },
+        {
+          "title": "Simple Marathi conversation about food, lunch, meal",
+          "chapterId": 189
+        },
+        {
+          "title": "Simple Marathi Conversation – About hobby class",
+          "chapterId": 190
+        },
+        {
+          "title": "Frequently used sentences in Marathi – miscellaneous",
+          "chapterId": 68
+        },
+        {
+          "title": "Frequently used sentences in Marathi – miscellaneous part 2",
+          "chapterId": 67
+        },
+        {
+          "title": "Learn Marathi by Communicative Approach",
+          "chapterId": 90
+        },
+        {
+          "title": "Simple Marathi sentences practice-1",
+          "chapterId": 217
+        },
+        {
+          "title": "Marathi practice session 4 – prepositions",
+          "chapterId": 137
+        },
+        {
+          "title": "Marathi practice session 5 – prepositions",
+          "chapterId": 138
+        },
+        {
+          "title": "Marathi practice session 6 – prepositions",
+          "chapterId": 139
+        },
+        {
+          "title": "Marathi jokes … Learn Marathi in a fun way",
+          "chapterId": 136
+        },
+        {
+          "title": "Daily Marathi reading practise … Marathi jokes, thoughts, quotes",
+          "chapterId": 48
+        },
+        {
+          "title": "Simple Marathi sentences – My experience with Social Media",
+          "chapterId": 140
+        },
+        {
+          "title": "Conversation about the eclipse",
+          "chapterId": 47
+        },
+        {
+          "title": "International Women's Day 2021",
+          "chapterId": 86
+        },
+        {
+          "title": "Learning Marathi for #TejRan with Kaushik",
+          "chapterId": 94
+        },
+        {
+          "title": "Learning Marathi with Celebrities and Kaushik",
+          "chapterId": 95
+        },
+        {
+          "title": "Learn Marathi for Shiv Thakre Marathi BigBoss Winner BigBoss 16",
+          "chapterId": 92
+        },
+        {
+          "title": "Simple Marathi conversation – Quarrel at home",
+          "chapterId": 204
+        }
+      ]
+    },
+    {
+      "name": "Additional resources",
+      "sublessons": [
+        {
+          "title": "Practise Marathi online ! Let's talk on Skype or Hangout",
+          "chapterId": 157
+        },
+        {
+          "title": "Using LearnMarathiWithKaushik.com to practice grammar rules",
+          "chapterId": 249
+        },
+        {
+          "title": "\"Marathi Dictionary for Learners\" website and Android app on Gogle Play.",
+          "chapterId": 135
+        },
+        {
+          "title": "Type Marathi in Roman Marathi transliteration",
+          "chapterId": 248
+        }
+      ]
+    }
+  ]
+}
