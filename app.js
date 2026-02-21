@@ -1,12 +1,25 @@
 // ===== LANGUAGE SYSTEM =====
 const CAT_INITIALS = { greetings:'Hi', reading:'Rd', writing:'Wr', numbers:'#', animals:'An', dailyLife:'DL', environment:'En', food:'Fd', health:'He', schoolWork:'Sw', socialInteractions:'So', time:'Ti', tourism:'To', transportation:'Tr', travel:'Go', shopping:'Sh', emergency:'!' };
-const TWEMOJI_CDN = 'https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72';
-
-function emojiToTwemojiUrl(emoji) {
-  if (!emoji || !emoji.trim()) return '';
-  const codePoints = [...emoji].map(c => c.codePointAt(0).toString(16)).join('-');
-  return `${TWEMOJI_CDN}/${codePoints}.png`;
-}
+// Real images for categories (Unsplash, free to use)
+const CAT_IMAGES = {
+  greetings: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=80&h=80&fit=crop',
+  travel: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=80&h=80&fit=crop',
+  food: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=80&h=80&fit=crop',
+  shopping: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=80&h=80&fit=crop',
+  emergency: 'https://images.unsplash.com/photo-1631545915518-7b4b9981c0c9?w=80&h=80&fit=crop',
+  numbers: 'https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=80&h=80&fit=crop',
+  reading: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=80&h=80&fit=crop',
+  writing: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=80&h=80&fit=crop',
+  animals: 'https://images.unsplash.com/photo-1425082661705-1834bfd09d15?w=80&h=80&fit=crop',
+  dailyLife: 'https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=80&h=80&fit=crop',
+  environment: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=80&h=80&fit=crop',
+  health: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=80&h=80&fit=crop',
+  schoolWork: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=80&h=80&fit=crop',
+  socialInteractions: 'https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=80&h=80&fit=crop',
+  time: 'https://images.unsplash.com/photo-1501139083538-0139583c060f?w=80&h=80&fit=crop',
+  tourism: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=80&h=80&fit=crop',
+  transportation: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=80&h=80&fit=crop'
+};
 let selectedLanguage = localStorage.getItem('selectedLanguage') || '';
 
 function getLang() {
@@ -125,7 +138,7 @@ function renderCategories() {
   const list = document.getElementById('cat-grid');
   if (!list) return;
   list.innerHTML = Object.entries(phrases).map(([id, data]) => {
-    const iconUrl = emojiToTwemojiUrl(data.icon || '');
+    const iconUrl = CAT_IMAGES[id] || '';
     const fallback = CAT_INITIALS[id] || id.slice(0, 2);
     const iconHtml = iconUrl
       ? `<img class="cat-icon-img" src="${iconUrl}" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" /><span class="cat-icon cat-icon-fallback" style="display:none" data-initial="${fallback}"></span>`
@@ -142,14 +155,14 @@ function renderCategories() {
           <span class="phrase-mr" style="font-family:${getScriptFont()}">${p.mr}</span>
         </div>
         <div class="phrase-row-actions">
-          <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakPhrase('${id}', ${i})" title="Pronounce">${speakerSvg}</button>
           <button class="phrase-save-btn ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); savePhraseInline('${id}', ${i})">${isSaved ? '✓ Saved' : 'Save'}</button>
+          <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakPhrase('${id}', ${i})" title="Pronounce">${speakerSvg}</button>
         </div>
       </div>
       `;
     }).join('') : '';
     return `
-    <div class="cat-row" style="--cat-color:${data.color}">
+    <div class="cat-row">
       <div class="cat-row-header" onclick="toggleCategory('${id}')">
         <span class="cat-icon-wrap">${iconHtml}</span>
         <div class="cat-row-info">
@@ -1009,8 +1022,8 @@ function handleHomeSearch(val) {
         <span class="phrase-mr" style="font-family:${getScriptFont()}">${r.phrase.mr}</span>
       </div>
       <div class="phrase-row-actions">
-        <button class="phrase-speaker-btn" onclick="event.stopPropagation(); ${r.dict ? `speakSearchPhrase(${ri})` : `speakPhrase('${r.cat}', ${r.idx})`}" title="Pronounce">${speakerSvg}</button>
         <button class="phrase-save-btn ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); ${r.dict ? `saveSearchPhraseInline(${ri})` : `savePhraseInline('${r.cat}', ${r.idx})`}">${isSaved ? '✓ Saved' : 'Save'}</button>
+        <button class="phrase-speaker-btn" onclick="event.stopPropagation(); ${r.dict ? `speakSearchPhrase(${ri})` : `speakPhrase('${r.cat}', ${r.idx})`}" title="Pronounce">${speakerSvg}</button>
       </div>
     </div>
     `;
@@ -1064,8 +1077,8 @@ function renderDict(query) {
         <span class="phrase-mr" style="font-family:${getScriptFont()}">${d.mr}</span>
       </div>
       <div class="phrase-row-actions">
-        <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakDictItem(${i})" title="Pronounce">${speakerSvg}</button>
         <button class="phrase-save-btn ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveDictItem(${i})">${isSaved ? '✓ Saved' : 'Save'}</button>
+        <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakDictItem(${i})" title="Pronounce">${speakerSvg}</button>
       </div>
     </div>
     `;
@@ -1131,8 +1144,8 @@ function renderSaved() {
           <span class="phrase-mr" style="font-family:${getScriptFont()}">${p.mr}</span>
         </div>
         <div class="phrase-row-actions">
-          <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakSavedPhrase(${i})" title="Pronounce">${speakerSvg}</button>
           <button class="phrase-save-btn saved" onclick="event.stopPropagation(); removeSavedPhrase(${i})">Remove</button>
+          <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakSavedPhrase(${i})" title="Pronounce">${speakerSvg}</button>
         </div>
       </div>`).join('') + '</div>';
 }
@@ -1178,6 +1191,170 @@ let chaptersLoaded = false;
 let chaptersLoadedForLang = ''; // which language's chapters are loaded
 let expandedMajorLesson = null; // major lesson name when expanded
 let expandedChapter = null; // chapter id when sublesson content expanded
+
+// Busuu-style formatted lessons (chapterId -> structured content)
+const BUSUU_FORMATTED_LESSONS = {
+  22: {
+    intro: 'Consider sentences: Do you go? Did he go? Will she speak? These are all basic questions in English. In Marathi, basic questions can be formed by adding **का (kA)**. By appending का (kA) to a statement, it will be converted to a question.',
+    sections: [
+      {
+        heading: 'Forming questions with का (kA)',
+        intro: 'Adding का (kA) at the end of a sentence turns it into a question.',
+        examples: [
+          { roman: 'to jAto', script: 'तो जातो', en: 'He goes' },
+          { roman: 'to jAto kA ?', script: 'तो जातो का?', en: 'Does he go?' },
+          { roman: 'tI gelI', script: 'ती गेली', en: 'She went' },
+          { roman: 'tI gelI kA ?', script: 'ती गेली का?', en: 'Did she go?' },
+          { roman: 'te jAtIl', script: 'ते जातील', en: 'They will go' },
+          { roman: 'te jAtIl kA ?', script: 'ते जातील का?', en: 'Will they go?' }
+        ]
+      },
+      {
+        heading: 'Questions by tone',
+        intro: 'Such questions can also be asked by using the same sentence but just changing the tone. In English we do this sometimes too.',
+        examples: [
+          { roman: 'tU yeto Ahes', script: 'तू येतो आहेस', en: 'You are coming' },
+          { roman: 'tU tyAlA rahasy sAMgitales', script: 'तू त्याला रहस्य सांगितलेस', en: 'You told him the secret' }
+        ]
+      }
+    ]
+  },
+  228: {
+    intro: 'Let\'s learn basic Marathi sentence formation. In English the verb "To Be" has special significance. Its different forms are used along with other verbs to indicate tense. The same is the case in Marathi. "To Be" in English is **असणे (asaNe)** in Marathi.',
+    sections: [
+      {
+        heading: 'Affirmative sentences',
+        intro: 'In English "am", "are", "is" are different forms of "To be" for different pronouns. Similarly, in Marathi there are different forms of असणे (asaNe). A sentence in Marathi can be formed as:',
+        examples: [
+          { roman: 'mI Ahe', script: 'मी आहे', en: 'I am' },
+          { roman: 'tumhI AhAt', script: 'तुम्ही आहात', en: 'You are' },
+          { roman: 'te Ahet', script: 'ते आहेत', en: 'They are' },
+          { roman: 'AmhI / ApaN Ahot', script: 'आम्ही/आपण आहोत', en: 'We are' }
+        ]
+      },
+      {
+        heading: 'More examples',
+        intro: 'The form of असणे (asaNe) changes based on the pronoun. Here are more examples:',
+        examples: [
+          { roman: 'to Ahe', script: 'तो आहे', en: 'He is' },
+          { roman: 'tI Ahe', script: 'ती आहे', en: 'She is' },
+          { roman: 'te Ahe', script: 'ते आहे', en: 'It is' },
+          { roman: 'tU Ahes', script: 'तू आहेस', en: 'You are (singular)' }
+        ]
+      }
+    ]
+  }
+};
+
+function speakLessonPhrase(text) {
+  if (!text || !('speechSynthesis' in window)) return;
+  const utt = new SpeechSynthesisUtterance(text);
+  utt.lang = getLang().speechLang || 'hi-IN';
+  utt.rate = 0.85;
+  window.speechSynthesis.cancel();
+  window.speechSynthesis.speak(utt);
+  showToast('Playing...');
+}
+
+function formatChapterFromData(ch) {
+  if (!ch) return null;
+  const hasBlocks = ch.blocks && ch.blocks.length;
+  const hasTables = ch.tables && ch.tables.length;
+  if (!hasBlocks && !hasTables) return null;
+
+  const escape = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const bold = (t) => escape(t).replace(/\*\*(.+?)\*\*/g, (_, x) => '<strong>' + escape(x) + '</strong>');
+
+  const renderTable = (tbl) => {
+    let h = '<h3 class="busuu-section-heading">' + escape(tbl.heading) + '</h3>';
+    h += '<div class="busuu-table-wrap"><table class="busuu-table">';
+    h += '<thead><tr>';
+    (tbl.headers || []).forEach(hd => { h += '<th>' + escape(hd) + '</th>'; });
+    if (tbl.speakCol != null) h += '<th></th>';
+    h += '</tr></thead><tbody>';
+    const speakCol = tbl.speakCol != null ? tbl.speakCol : -1;
+    (tbl.rows || []).forEach(row => {
+      h += '<tr>';
+      row.forEach((cell, i) => {
+        const cls = i === 0 && /[\u0900-\u097F]/.test(cell) ? ' class="busuu-script-cell"' : '';
+        h += '<td' + cls + '>' + escape(cell) + '</td>';
+      });
+      if (speakCol >= 0 && row[speakCol]) {
+        const textToSpeak = escape(String(row[speakCol]));
+        h += '<td class="busuu-table-audio"><button type="button" class="busuu-audio-btn" data-speak="' + textToSpeak + '" onclick="speakLessonPhrase(this.getAttribute(\'data-speak\'))" title="Listen" aria-label="Play audio"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg></button></td>';
+      }
+      h += '</tr>';
+    });
+    h += '</tbody></table></div>';
+    return h;
+  };
+
+  let html = '<div class="busuu-lesson">';
+  if (ch.intro) html += '<p class="busuu-intro">' + bold(ch.intro) + '</p>';
+
+  if (hasBlocks) {
+    ch.blocks.forEach(blk => {
+      if (blk.type === 'table') html += renderTable(blk);
+      else if (blk.type === 'paragraph') {
+        html += '<h3 class="busuu-section-heading">' + escape(blk.heading || '') + '</h3>';
+        html += '<p class="busuu-para">' + bold(blk.content || '').replace(/\n/g, '<br>') + '</p>';
+      }
+    });
+  } else {
+    ch.tables.forEach(tbl => { html += renderTable(tbl); });
+  }
+  html += '</div>';
+  return html;
+}
+
+function formatChapterContentBusuu(chapterId) {
+  const data = BUSUU_FORMATTED_LESSONS[chapterId];
+  if (!data) return null;
+  const escape = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const bold = (t) => escape(t).replace(/\*\*(.+?)\*\*/g, (_, x) => '<strong>' + escape(x) + '</strong>');
+  let html = '<div class="busuu-lesson">';
+  if (data.intro) html += '<p class="busuu-intro">' + bold(data.intro) + '</p>';
+
+  if (data.tables) {
+    data.tables.forEach(tbl => {
+      html += '<h3 class="busuu-section-heading">' + escape(tbl.heading) + '</h3>';
+      html += '<div class="busuu-table-wrap"><table class="busuu-table">';
+      html += '<thead><tr>';
+      (tbl.headers || []).forEach(h => { html += '<th>' + escape(h) + '</th>'; });
+      html += '</tr></thead><tbody>';
+      (tbl.rows || []).forEach(row => {
+        html += '<tr>';
+        row.forEach((cell, i) => {
+          const cls = i === 0 && /[\u0900-\u097F]/.test(cell) ? ' class="busuu-script-cell"' : '';
+          html += '<td' + cls + '>' + escape(cell) + '</td>';
+        });
+        html += '</tr>';
+      });
+      html += '</tbody></table></div>';
+    });
+  } else {
+    (data.sections || []).forEach(sec => {
+      html += '<h3 class="busuu-section-heading">' + escape(sec.heading) + '</h3>';
+      if (sec.intro) html += '<p class="busuu-section-intro">' + bold(sec.intro) + '</p>';
+      html += '<div class="busuu-examples">';
+      (sec.examples || []).forEach(ex => {
+        const textToSpeak = (ex.roman || ex.script || '').trim();
+        const speakAttr = textToSpeak ? `onclick="speakLessonPhrase('${textToSpeak.replace(/'/g, "\\'")}')"` : '';
+        html += '<div class="busuu-card">';
+        html += '<div class="busuu-card-text">';
+        if (ex.roman) html += '<span class="busuu-roman">' + escape(ex.roman) + '</span>';
+        if (ex.script) html += ' <span class="busuu-script">/ ' + escape(ex.script) + '</span>';
+        if (ex.en) html += ' <span class="busuu-en">(' + escape(ex.en) + ')</span>';
+        html += '</div>';
+        html += '<button type="button" class="busuu-audio-btn" ' + speakAttr + ' title="Listen" aria-label="Play audio"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg></button>';
+        html += '</div>';
+      });
+      html += '</div>';
+    });
+  }
+  html += '</div>';
+  return html;
+}
 
 async function loadChapters() {
   const lang = getLang();
@@ -1240,13 +1417,41 @@ function toggleMajorLesson(name) {
   renderLessonsList();
 }
 
-function toggleChapter(id) {
-  if (expandedChapter === id) {
-    expandedChapter = null;
-  } else {
-    expandedChapter = id;
+function getChapterDisplayNumber(chapterId) {
+  if (!lessonsStructure || !lessonsStructure.majorLessons) return chapterId;
+  let n = 0;
+  for (const major of lessonsStructure.majorLessons) {
+    for (const s of major.sublessons || []) {
+      n++;
+      if (s.chapterId === chapterId) return n;
+    }
   }
-  renderLessonsList();
+  return chapterId;
+}
+
+function openChapter(chapterId) {
+  const ch = chaptersById[chapterId];
+  if (!ch) return;
+  const dataTablesHtml = (ch.tables || ch.blocks) ? formatChapterFromData(ch) : null;
+  const busuuHtml = !dataTablesHtml && BUSUU_FORMATTED_LESSONS[chapterId] ? formatChapterContentBusuu(chapterId) : null;
+  const formattedContent = dataTablesHtml || busuuHtml || formatChapterContent(ch.content || '');
+
+  document.getElementById('chapter-detail-id').textContent = getChapterDisplayNumber(chapterId);
+  document.getElementById('chapter-detail-title').textContent = ch.title;
+  document.getElementById('chapter-detail-body').innerHTML = formattedContent;
+  const linkEl = document.getElementById('chapter-detail-link');
+  linkEl.href = ch.url || '#';
+  linkEl.style.display = ch.url ? 'block' : 'none';
+
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('chapter-detail-loading').style.display = 'none';
+  document.getElementById('chapter-detail-content').style.display = 'block';
+  document.getElementById('screen-chapter-detail').classList.add('active');
+}
+
+function goBackFromChapter() {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-chapters').classList.add('active');
 }
 
 function renderLessonsList() {
@@ -1286,22 +1491,13 @@ function renderLessonsList() {
     const sublessonsHtml = isMajorExpanded ? sublessons.map(s => {
       const ch = s.chapterId != null ? chaptersById[s.chapterId] : null;
       const hasContent = !!ch;
-      const isSubExpanded = hasContent && expandedChapter === s.chapterId;
-      const formattedContent = ch ? formatChapterContent(ch.content) : '';
-      const contentHtml = ch && isSubExpanded ? `
-        <div class="chapter-row-content">
-          <div class="chapter-content-body">${formattedContent}</div>
-          <a href="${ch.url}" target="_blank" rel="noopener" class="chapter-content-link">→ Open original lesson</a>
-        </div>
-      ` : hasContent ? '' : '<div class="chapter-row-content"><div class="chapter-content-body" style="color:var(--text-muted);font-style:italic;">Content coming soon</div></div>';
-      const headerOnclick = hasContent ? `onclick="toggleChapter(${s.chapterId})"` : '';
+      const headerOnclick = hasContent ? `onclick="openChapter(${s.chapterId})"` : '';
       return `
       <div class="chapter-sub-row">
         <div class="chapter-row-header" ${headerOnclick}>
           <div class="chapter-row-title">${s.title}</div>
-          ${hasContent ? `<span class="chapter-expand">${isSubExpanded ? '−' : '+'}</span>` : ''}
+          ${hasContent ? '<span class="chapter-expand">→</span>' : ''}
         </div>
-        ${contentHtml}
       </div>
       `;
     }).join('') : '';
@@ -1332,13 +1528,20 @@ function handleChaptersSearch(val) {
   }) : lessonsStructure.majorLessons;
   if (expandedMajorLesson && !majorsToShow.some(m => m.name === expandedMajorLesson)) {
     expandedMajorLesson = null;
-    expandedChapter = null;
-  } else if (expandedChapter && expandedMajorLesson) {
-    const major = majorsToShow.find(m => m.name === expandedMajorLesson);
-    const sub = major && (major.sublessons || []).find(s => s.chapterId === expandedChapter);
-    if (!sub) expandedChapter = null;
   }
   renderLessonsList();
+}
+
+function curateParagraph(text) {
+  const skipStarts = ['please refer', 'refer to', 'http://', 'https://', 'copyright', 'developed by', 'download the', 'list is uploaded', 'previous lesson', 'next lesson', 'for grammar details'];
+  const lower = text.toLowerCase().trim();
+  if (skipStarts.some(s => lower.startsWith(s))) return '';
+  const hasDevanagari = /[\u0900-\u097F]/.test(text);
+  if (!hasDevanagari && text.length > 220) {
+    const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+    return (sentences.slice(0, 2).join(' ').trim() || text.slice(0, 200) + '…').trim();
+  }
+  return text;
 }
 
 function formatChapterContent(content) {
@@ -1348,26 +1551,75 @@ function formatChapterContent(content) {
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;');
+  const bold = (t) => escape(t).replace(/\*\*(.+?)\*\*/g, (_, x) => '<strong>' + escape(x) + '</strong>');
+
+  const examplePattern = /^([^:]*:?\s*)?([\u0900-\u097F\s\u200C\u200D]+)\(([a-zA-Z~A-Za-z0-9\s]+)\)\s*([–\-].*)?$/;
+  const hasDevanagari = (s) => /[\u0900-\u097F]/.test(s);
+  const renderCard = (ex) => {
+    const textToSpeak = (ex.roman || ex.script || '').trim();
+    const speakAttr = textToSpeak ? `onclick="speakLessonPhrase('${String(textToSpeak).replace(/'/g, "\\'")}')"` : '';
+    let cardText = '';
+    if (ex.label) cardText += '<span class="busuu-label">' + escape(ex.label) + '</span> ';
+    cardText += '<span class="busuu-script">' + escape(ex.script) + '</span>';
+    cardText += ' <span class="busuu-roman">(' + escape(ex.roman) + ')</span>';
+    if (ex.extra) cardText += ' <span class="busuu-en">' + escape(ex.extra) + '</span>';
+    return '<div class="busuu-card"><div class="busuu-card-text">' + cardText + '</div><button type="button" class="busuu-audio-btn" ' + speakAttr + ' title="Listen" aria-label="Play audio"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg></button></div>';
+  };
 
   const blocks = content.split(/\n\s*\n/).filter(b => b.trim());
-  return blocks.map(block => {
-    const trimmed = block.trim();
-    let tag = 'p', cls = 'chapter-para', inner = trimmed;
+  let html = '<div class="busuu-lesson">';
 
+  blocks.forEach(block => {
+    const trimmed = block.trim();
     if (trimmed.startsWith('#### ')) {
-      tag = 'h4'; cls = 'chapter-h4'; inner = trimmed.slice(5);
-    } else if (trimmed.startsWith('### ')) {
-      tag = 'h3'; cls = 'chapter-h3'; inner = trimmed.slice(4);
-    } else if (trimmed.startsWith('## ')) {
-      tag = 'h2'; cls = 'chapter-h2'; inner = trimmed.slice(3);
+      html += '<h4 class="busuu-section-heading busuu-h4">' + escape(trimmed.slice(5)) + '</h4>';
+      return;
+    }
+    if (trimmed.startsWith('### ')) {
+      html += '<h3 class="busuu-section-heading busuu-h3">' + escape(trimmed.slice(4)) + '</h3>';
+      return;
+    }
+    if (trimmed.startsWith('## ')) {
+      html += '<h2 class="busuu-section-heading">' + escape(trimmed.slice(3)) + '</h2>';
+      return;
     }
 
-    inner = escape(inner);
-    inner = inner.replace(/\*\*(.+?)\*\*/g, (_, x) => '<strong>' + x + '</strong>');
-    inner = inner.replace(/\n/g, '<br>');
+    const lines = trimmed.split(/\n/).map(l => l.trim()).filter(l => l);
+    const exampleLines = [];
+    const paraLines = [];
+    let prevLine = '';
+    for (const line of lines) {
+      const m = line.match(examplePattern);
+      if (m && hasDevanagari(line)) {
+        let label = (m[1] || '').trim();
+        if (!label && prevLine && !hasDevanagari(prevLine) && prevLine.length < 80) {
+          label = prevLine + ':';
+          paraLines.pop();
+        }
+        const script = (m[2] || '').trim();
+        const roman = (m[3] || '').trim();
+        const extra = (m[4] || '').trim();
+        if (script && roman) exampleLines.push({ label, script, roman, extra });
+        prevLine = '';
+      } else {
+        paraLines.push(line);
+        prevLine = line;
+      }
+    }
 
-    return '<' + tag + ' class="' + cls + '">' + inner + '</' + tag + '>';
-  }).join('');
+    if (paraLines.length) {
+      const paraText = paraLines.map(curateParagraph).filter(Boolean).join('\n');
+      if (paraText) html += '<p class="busuu-intro busuu-para">' + bold(paraText).replace(/\n/g, '<br>') + '</p>';
+    }
+    if (exampleLines.length) {
+      html += '<div class="busuu-examples">';
+      exampleLines.forEach(ex => { html += renderCard(ex); });
+      html += '</div>';
+    }
+  });
+
+  html += '</div>';
+  return html;
 }
 
 

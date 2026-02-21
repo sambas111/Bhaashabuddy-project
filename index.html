@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>BhaashaBuddy – Learn Indian Languages</title>
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Sans+Devanagari:wght@400;600;700&family=Noto+Sans+Gujarati:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -45,7 +46,7 @@
   <main class="site-main" id="app-content" style="display:none;">
   <!-- ===================== HOME SCREEN ===================== -->
   <div class="screen active" id="screen-home">
-    <div class="topbar">
+    <div class="topbar home-topbar">
       <h1 id="home-title">Learn Marathi</h1>
       <div class="sub" id="home-subtitle">मराठी शिका • Phrase categories</div>
     </div>
@@ -63,6 +64,7 @@
 
     <div id="categories-area">
       <div class="section-label">Phrase Categories</div>
+      <p class="home-intro">Tap a category to explore phrases. Use the speaker icon to hear pronunciation.</p>
       <div class="cat-grid" id="cat-grid"></div>
     </div>
   </div>
@@ -80,10 +82,12 @@
     <div class="result-card">
       <div class="english-label">You searched</div>
       <div class="result-input-display" id="result-input-display"></div>
-      <button class="speaker-btn" onclick="speakMarathi()" title="Pronounce"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg></button>
       <div class="result-devanagari" id="result-devanagari"></div>
       <div class="result-roman" id="result-roman"></div>
-      <button class="save-btn" id="save-btn" onclick="savePhrase()">Save Phrase</button>
+      <div class="result-actions">
+        <button class="save-btn" id="save-btn" onclick="savePhrase()">Save Phrase</button>
+        <button class="speaker-btn" onclick="speakMarathi()" title="Pronounce"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg></button>
+      </div>
     </div>
     <div style="padding: 0 20px;">
       <div class="section-label">Similar Phrases</div>
