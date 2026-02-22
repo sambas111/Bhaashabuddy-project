@@ -151,9 +151,12 @@
         <div class="loading-spinner" style="margin:0 auto 12px;"></div>Loading...
       </div>
       <div id="chapter-detail-content" style="display:none;">
-        <div style="background:var(--primary-light);border-radius:12px;padding:14px 16px;margin-bottom:16px;">
-          <div style="font-size:11px;font-weight:800;color:var(--primary);text-transform:uppercase;letter-spacing:0.8px;margin-bottom:4px;">Chapter <span id="chapter-detail-id"></span></div>
-          <div id="chapter-detail-title" style="font-size:17px;font-weight:900;color:var(--text);line-height:1.4;"></div>
+        <div style="background:var(--primary-light);border-radius:12px;padding:14px 16px;margin-bottom:16px;display:flex;align-items:flex-start;justify-content:space-between;gap:12px;">
+          <div style="flex:1;min-width:0;">
+            <div style="font-size:11px;font-weight:800;color:var(--primary);text-transform:uppercase;letter-spacing:0.8px;margin-bottom:4px;">Chapter <span id="chapter-detail-id"></span></div>
+            <div id="chapter-detail-title" style="font-size:17px;font-weight:900;color:var(--text);line-height:1.4;"></div>
+          </div>
+          <button type="button" id="chapter-save-btn" class="phrase-save-btn" onclick="saveLesson()" style="flex-shrink:0;">Save</button>
         </div>
         <div id="chapter-detail-body" style="
           background:var(--card);
@@ -166,6 +169,9 @@
           font-weight:600;
           word-break:break-word;
         "></div>
+        <div style="display:flex;justify-content:center;gap:12px;margin-top:16px;flex-wrap:wrap;">
+          <button type="button" id="chapter-save-btn-bottom" class="phrase-save-btn" onclick="saveLesson()">Save</button>
+        </div>
         <a id="chapter-detail-link" href="#" target="_blank" style="
           display:block;
           margin-top:14px;
@@ -199,6 +205,24 @@
         </div>
       </div>
 
+      <div class="settings-label">Appearance</div>
+      <div class="settings-card">
+        <div class="settings-row">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Color theme</div>
+            <div class="settings-row-sub">Choose your preferred accent color</div>
+          </div>
+        </div>
+        <div class="theme-options" id="theme-options">
+          <button type="button" class="theme-swatch theme-teal" data-theme="teal" title="Teal (default)"></button>
+          <button type="button" class="theme-swatch theme-indigo" data-theme="indigo" title="Indigo"></button>
+          <button type="button" class="theme-swatch theme-violet" data-theme="violet" title="Violet"></button>
+          <button type="button" class="theme-swatch theme-rose" data-theme="rose" title="Rose"></button>
+          <button type="button" class="theme-swatch theme-emerald" data-theme="emerald" title="Emerald"></button>
+          <button type="button" class="theme-swatch theme-slate" data-theme="slate" title="Slate"></button>
+        </div>
+      </div>
+
       <div class="settings-label">Offline Data</div>
       <div class="settings-card">
         <div class="settings-row">
@@ -207,6 +231,17 @@
             <div class="settings-row-sub">Use app without internet</div>
           </div>
           <div class="toggle" id="offline-toggle" onclick="toggleOffline()"></div>
+        </div>
+      </div>
+
+      <div class="settings-label">Support</div>
+      <div class="settings-card">
+        <div class="settings-row clickable" onclick="openFeedback()">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Send feedback</div>
+            <div class="settings-row-sub">Share feedback or report a bug</div>
+          </div>
+          <span class="settings-arrow">›</span>
         </div>
       </div>
 

@@ -37,6 +37,7 @@ function selectLanguage(lang) {
   document.getElementById('app-content').style.display = 'block';
   document.body.classList.add('nav-visible');
   loadSavedPhrases();
+  loadSavedLessons();
   initLanguageUI();
   expandedCategory = null;
   renderCategories();
@@ -920,6 +921,8 @@ let expandedCategory = null;
 let lastSearchResults = [];
 let savedPhrases = [];
 let currentPhrase = null;
+let savedLessons = [];
+let currentChapterId = null;
 
 function loadSavedPhrases() {
   const key = 'savedPhrases_' + (selectedLanguage || 'marathi');
@@ -928,6 +931,15 @@ function loadSavedPhrases() {
 function saveSavedPhrases() {
   const key = 'savedPhrases_' + (selectedLanguage || 'marathi');
   localStorage.setItem(key, JSON.stringify(savedPhrases));
+}
+
+function loadSavedLessons() {
+  const key = 'savedLessons_' + (selectedLanguage || 'marathi');
+  savedLessons = JSON.parse(localStorage.getItem(key) || '[]');
+}
+function saveSavedLessons() {
+  const key = 'savedLessons_' + (selectedLanguage || 'marathi');
+  localStorage.setItem(key, JSON.stringify(savedLessons));
 }
 
 // ===== NAVIGATION =====
@@ -1123,20 +1135,54 @@ function removeSavedPhrase(i) {
   showToast('Removed from saved');
 }
 
+function removeSavedLesson(i) {
+  savedLessons.splice(i, 1);
+  saveSavedLessons();
+  renderSaved();
+  showToast('Removed from saved');
+}
+
+async function openSavedLesson(chapterId) {
+  if (!chaptersLoaded || chaptersLoadedForLang !== selectedLanguage) {
+    await loadChapters();
+  }
+  if (chaptersById[chapterId]) openChapter(chapterId);
+}
+
 function renderSaved() {
   const wrap = document.getElementById('saved-list-wrap');
-  if (!savedPhrases.length) {
+  const hasPhrases = savedPhrases.length > 0;
+  const hasLessons = savedLessons.length > 0;
+  if (!hasPhrases && !hasLessons) {
     wrap.innerHTML = `
       <div class="empty-state">
         <div class="empty-icon"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></div>
-        <div class="empty-title">No saved phrases yet</div>
-        <div class="empty-sub">Tap "Save" on any phrase to bookmark it here</div>
+        <div class="empty-title">No saved items yet</div>
+        <div class="empty-sub">Tap "Save" on any phrase or lesson to bookmark it here</div>
       </div>`;
     return;
   }
   const speakerSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
-  wrap.innerHTML = '<div class="phrase-list saved-list" style="padding: 0 20px; display: flex; flex-direction: column; gap: 10px;">' +
-    savedPhrases.map((p, i) => `
+  let html = '<div style="padding: 0 20px; display: flex; flex-direction: column; gap: 16px;">';
+  if (hasLessons) {
+    html += '<div class="section-label">Saved Lessons</div>';
+    html += '<div class="phrase-list saved-list" style="display: flex; flex-direction: column; gap: 10px;">';
+    html += savedLessons.map((l, i) => `
+      <div class="phrase-row phrase-row-flat chapter-saved-row" onclick="openSavedLesson(${l.id})">
+        <div class="phrase-row-text">
+          <span class="phrase-en">${l.title}</span>
+          <span class="phrase-roman" style="font-size:11px;color:var(--text-muted);">Lesson</span>
+        </div>
+        <div class="phrase-row-actions">
+          <button class="phrase-save-btn saved" onclick="event.stopPropagation(); removeSavedLesson(${i})">Remove</button>
+        </div>
+      </div>`).join('');
+    html += '</div>';
+  }
+  if (hasPhrases) {
+    html += '<div class="section-label">Saved Phrases</div>';
+    html += '<div class="phrase-list saved-list" style="display: flex; flex-direction: column; gap: 10px;">';
+    html += savedPhrases.map((p, i) => `
       <div class="phrase-row phrase-row-flat">
         <div class="phrase-row-text">
           <span class="phrase-en">${p.en}</span>
@@ -1147,7 +1193,11 @@ function renderSaved() {
           <button class="phrase-save-btn saved" onclick="event.stopPropagation(); removeSavedPhrase(${i})">Remove</button>
           <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakSavedPhrase(${i})" title="Pronounce">${speakerSvg}</button>
         </div>
-      </div>`).join('') + '</div>';
+      </div>`).join('');
+    html += '</div>';
+  }
+  html += '</div>';
+  wrap.innerHTML = html;
 }
 
 // ===== SPEAK =====
@@ -1172,6 +1222,41 @@ function toggleOffline() {
   const t = document.getElementById('offline-toggle');
   t.className = 'toggle' + (offlineEnabled ? '' : ' off');
   showToast(offlineEnabled ? 'Offline mode enabled' : 'Offline mode disabled');
+}
+
+// ===== FEEDBACK =====
+// Update this to your email or use mailto:?subject=... for user to choose recipient
+const FEEDBACK_EMAIL = 'feedback@bhaashabuddy.app';
+function openFeedback() {
+  const subject = encodeURIComponent('BhaashaBuddy – Feedback / Bug Report');
+  const body = encodeURIComponent(
+    'Hi,\n\n' +
+    '[Describe your feedback or bug report here]\n\n' +
+    '---\n' +
+    'App: BhaashaBuddy\n' +
+    'Version: 1.0.0\n' +
+    'Language: ' + (getLang().name || 'Marathi')
+  );
+  window.location.href = 'mailto:' + FEEDBACK_EMAIL + '?subject=' + subject + '&body=' + body;
+}
+
+// ===== THEME =====
+function setTheme(themeId, silent) {
+  themeId = themeId || 'teal';
+  document.body.setAttribute('data-theme', themeId);
+  localStorage.setItem('appTheme', themeId);
+  document.querySelectorAll('.theme-swatch').forEach(btn => {
+    btn.classList.toggle('active', btn.getAttribute('data-theme') === themeId);
+  });
+  if (!silent) showToast('Theme updated');
+}
+function initTheme() {
+  const saved = localStorage.getItem('appTheme') || 'teal';
+  setTheme(saved, true);
+  document.getElementById('theme-options')?.addEventListener('click', (e) => {
+    const btn = e.target.closest('.theme-swatch');
+    if (btn) setTheme(btn.getAttribute('data-theme'));
+  });
 }
 
 // ===== TOAST =====
@@ -1265,7 +1350,42 @@ function formatChapterFromData(ch) {
   const escape = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   const bold = (t) => escape(t).replace(/\*\*(.+?)\*\*/g, (_, x) => '<strong>' + escape(x) + '</strong>');
 
+  const isAlphabetTable = (tbl) => {
+    const headers = tbl.headers || [];
+    const rows = tbl.rows || [];
+    if (headers.length !== 2 || rows.length === 0) return false;
+    const hStr = (headers[0] + ' ' + headers[1]).toLowerCase();
+    if (!/letter|transliteration|sound|character/.test(hStr)) return false;
+    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u097F]/.test(String(r[0])));
+  };
+
+  const renderAlphabetGrid = (tbl) => {
+    const rows = tbl.rows || [];
+    const heading = (tbl.heading || '').toLowerCase();
+    const isBarakhadi = /barakhadi|barakahadi/.test(heading);
+    let cols = heading.includes('vowel') ? 4 : 5;
+    if (isBarakhadi) cols = 15;
+    const compactClass = isBarakhadi ? ' alphabet-grid--barakhadi' : '';
+    let h = '<h3 class="busuu-section-heading">' + escape(tbl.heading) + '</h3>';
+    h += '<div class="alphabet-grid' + compactClass + '" style="--grid-cols:' + cols + '">';
+    rows.forEach(row => {
+      const letter = row[0] || '';
+      const roman = row[1] || '';
+      const textToSpeak = (roman || letter).trim();
+      const dataSpeak = textToSpeak ? ' data-speak="' + escape(textToSpeak) + '"' : '';
+      h += '<div class="alphabet-card">';
+      h += '<span class="alphabet-script">' + escape(letter) + '</span>';
+      h += '<span class="alphabet-roman">' + escape(roman) + '</span>';
+      h += '<span class="alphabet-line"></span>';
+      h += '<button type="button" class="alphabet-audio-btn"' + dataSpeak + ' onclick="var t=this.getAttribute(\'data-speak\');if(t)speakLessonPhrase(t)" title="Listen" aria-label="Play audio"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg></button>';
+      h += '</div>';
+    });
+    h += '</div>';
+    return h;
+  };
+
   const renderTable = (tbl) => {
+    if (isAlphabetTable(tbl)) return renderAlphabetGrid(tbl);
     let h = '<h3 class="busuu-section-heading">' + escape(tbl.heading) + '</h3>';
     h += '<div class="busuu-table-wrap"><table class="busuu-table">';
     h += '<thead><tr>';
@@ -1432,6 +1552,7 @@ function getChapterDisplayNumber(chapterId) {
 function openChapter(chapterId) {
   const ch = chaptersById[chapterId];
   if (!ch) return;
+  currentChapterId = chapterId;
   const dataTablesHtml = (ch.tables || ch.blocks) ? formatChapterFromData(ch) : null;
   const busuuHtml = !dataTablesHtml && BUSUU_FORMATTED_LESSONS[chapterId] ? formatChapterContentBusuu(chapterId) : null;
   const formattedContent = dataTablesHtml || busuuHtml || formatChapterContent(ch.content || '');
@@ -1443,10 +1564,51 @@ function openChapter(chapterId) {
   linkEl.href = ch.url || '#';
   linkEl.style.display = ch.url ? 'block' : 'none';
 
+  const saveBtn = document.getElementById('chapter-save-btn');
+  const saveBtnBottom = document.getElementById('chapter-save-btn-bottom');
+  const isSaved = savedLessons.some(s => s.id === chapterId);
+  [saveBtn, saveBtnBottom].forEach(btn => {
+    if (btn) {
+      btn.textContent = isSaved ? '✓ Saved' : 'Save';
+      btn.classList.toggle('saved', isSaved);
+    }
+  });
+
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   document.getElementById('chapter-detail-loading').style.display = 'none';
   document.getElementById('chapter-detail-content').style.display = 'block';
   document.getElementById('screen-chapter-detail').classList.add('active');
+}
+
+function saveLesson() {
+  if (currentChapterId == null) return;
+  saveLessonInline(currentChapterId);
+}
+
+function saveLessonInline(chapterId) {
+  const ch = chaptersById[chapterId];
+  if (!ch) return;
+  const isSaved = savedLessons.some(s => s.id === chapterId);
+  if (isSaved) {
+    savedLessons = savedLessons.filter(s => s.id !== chapterId);
+    showToast('Removed from saved');
+  } else {
+    savedLessons.push({ id: chapterId, title: ch.title, url: ch.url || '' });
+    showToast('Lesson saved!');
+  }
+  saveSavedLessons();
+  if (currentTab === 'saved') renderSaved();
+  // Update chapter detail save btns if this lesson is open
+  if (currentChapterId === chapterId) {
+    const isSavedNow = savedLessons.some(s => s.id === chapterId);
+    [document.getElementById('chapter-save-btn'), document.getElementById('chapter-save-btn-bottom')].forEach(btn => {
+      if (btn) {
+        btn.textContent = isSavedNow ? '✓ Saved' : 'Save';
+        btn.classList.toggle('saved', isSavedNow);
+      }
+    });
+  }
+  renderLessonsList();
 }
 
 function goBackFromChapter() {
@@ -1637,6 +1799,7 @@ function switchTab(tab) {
 
 // ===== INIT ON LOAD =====
 function initApp() {
+  initTheme();
   if (selectedLanguage && LANGUAGES[selectedLanguage]) {
     document.getElementById('screen-lang-select').classList.remove('active');
     document.getElementById('screen-lang-select').style.display = 'none';
