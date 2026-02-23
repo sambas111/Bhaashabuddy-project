@@ -148,6 +148,7 @@ function renderCategories() {
     const phrasesHtml = isExpanded ? data.phrases.map((p, i) => {
       const isSaved = savedPhrases.some(s => s.mr === p.mr);
       const speakerSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
+      const bookmarkSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
       return `
       <div class="phrase-row phrase-row-flat">
         <div class="phrase-row-text">
@@ -156,7 +157,7 @@ function renderCategories() {
           <span class="phrase-mr" style="font-family:${getScriptFont()}">${p.mr}</span>
         </div>
         <div class="phrase-row-actions">
-          <button class="phrase-save-btn ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); savePhraseInline('${id}', ${i})">${isSaved ? '✓ Saved' : 'Save'}</button>
+          <button class="phrase-save-btn phrase-save-btn-icon ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); savePhraseInline('${id}', ${i})" title="Bookmark">${bookmarkSvg}</button>
           <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakPhrase('${id}', ${i})" title="Pronounce">${speakerSvg}</button>
         </div>
       </div>
@@ -955,8 +956,7 @@ function openPhrase(cat, idx) {
 
   const saveBtn = document.getElementById('save-btn');
   const isSaved = savedPhrases.some(s => s.mr === p.mr);
-  saveBtn.textContent = isSaved ? '✓ Saved!' : 'Save Phrase';
-  saveBtn.className = 'save-btn' + (isSaved ? ' saved' : '');
+  saveBtn.className = 'save-btn phrase-save-btn phrase-save-btn-icon' + (isSaved ? ' saved' : '');
 
   // Similar phrases from same category
   const phrases = getPHRASES()[cat].phrases;
@@ -1024,6 +1024,7 @@ function handleHomeSearch(val) {
 
   lastSearchResults = results.slice(0, 15);
   const speakerSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
+  const bookmarkSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
   resultsList.innerHTML = lastSearchResults.map((r, ri) => {
     const isSaved = savedPhrases.some(s => s.mr === r.phrase.mr);
     return `
@@ -1034,7 +1035,7 @@ function handleHomeSearch(val) {
         <span class="phrase-mr" style="font-family:${getScriptFont()}">${r.phrase.mr}</span>
       </div>
       <div class="phrase-row-actions">
-        <button class="phrase-save-btn ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); ${r.dict ? `saveSearchPhraseInline(${ri})` : `savePhraseInline('${r.cat}', ${r.idx})`}">${isSaved ? '✓ Saved' : 'Save'}</button>
+        <button class="phrase-save-btn phrase-save-btn-icon ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); ${r.dict ? `saveSearchPhraseInline(${ri})` : `savePhraseInline('${r.cat}', ${r.idx})`}" title="Bookmark">${bookmarkSvg}</button>
         <button class="phrase-speaker-btn" onclick="event.stopPropagation(); ${r.dict ? `speakSearchPhrase(${ri})` : `speakPhrase('${r.cat}', ${r.idx})`}" title="Pronounce">${speakerSvg}</button>
       </div>
     </div>
@@ -1079,6 +1080,7 @@ function renderDict(query) {
     : getDICTIONARY();
 
   const speakerSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
+  const bookmarkSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
   list.innerHTML = lastDictItems.map((d, i) => {
     const isSaved = savedPhrases.some(s => s.mr === d.mr);
     return `
@@ -1089,7 +1091,7 @@ function renderDict(query) {
         <span class="phrase-mr" style="font-family:${getScriptFont()}">${d.mr}</span>
       </div>
       <div class="phrase-row-actions">
-        <button class="phrase-save-btn ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveDictItem(${i})">${isSaved ? '✓ Saved' : 'Save'}</button>
+        <button class="phrase-save-btn phrase-save-btn-icon ${isSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveDictItem(${i})" title="Bookmark">${bookmarkSvg}</button>
         <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakDictItem(${i})" title="Pronounce">${speakerSvg}</button>
       </div>
     </div>
@@ -1106,13 +1108,11 @@ function savePhrase() {
   if (isSaved) {
     savedPhrases = savedPhrases.filter(s => s.mr !== currentPhrase.mr);
     showToast('Removed from saved');
-    document.getElementById('save-btn').textContent = 'Save Phrase';
-    document.getElementById('save-btn').className = 'save-btn';
+    document.getElementById('save-btn').className = 'save-btn phrase-save-btn phrase-save-btn-icon';
   } else {
     savedPhrases.push(currentPhrase);
     showToast('Phrase saved!');
-    document.getElementById('save-btn').textContent = '✓ Saved!';
-    document.getElementById('save-btn').className = 'save-btn saved';
+    document.getElementById('save-btn').className = 'save-btn phrase-save-btn phrase-save-btn-icon saved';
   }
   saveSavedPhrases();
 }
@@ -1158,7 +1158,7 @@ function renderSaved() {
       <div class="empty-state">
         <div class="empty-icon"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></div>
         <div class="empty-title">No saved items yet</div>
-        <div class="empty-sub">Tap "Save" on any phrase or lesson to bookmark it here</div>
+        <div class="empty-sub">Tap the bookmark icon on any phrase or lesson to save it here</div>
       </div>`;
     return;
   }
@@ -1225,19 +1225,108 @@ function toggleOffline() {
 }
 
 // ===== FEEDBACK =====
-// Update this to your email or use mailto:?subject=... for user to choose recipient
-const FEEDBACK_EMAIL = 'feedback@bhaashabuddy.app';
+// Paste your Google Apps Script Web App URL here after deploying (see google-apps-script/Code.gs)
+const FEEDBACK_SHEET_URL = 'https://script.google.com/macros/s/AKfycbwuQVHBxBaDLohbvFg1Ux_eqWEiRmJORTgOZUEZ0N_SqKEMLCqE8YQDcGgkbl1bj60/exec'; // e.g. 'https://script.google.com/macros/s/XXXXX/exec'
+
 function openFeedback() {
-  const subject = encodeURIComponent('BhaashaBuddy – Feedback / Bug Report');
-  const body = encodeURIComponent(
-    'Hi,\n\n' +
-    '[Describe your feedback or bug report here]\n\n' +
-    '---\n' +
-    'App: BhaashaBuddy\n' +
-    'Version: 1.0.0\n' +
-    'Language: ' + (getLang().name || 'Marathi')
-  );
-  window.location.href = 'mailto:' + FEEDBACK_EMAIL + '?subject=' + subject + '&body=' + body;
+  const overlay = document.getElementById('feedback-overlay');
+  const form = document.getElementById('feedback-form');
+  if (overlay) {
+    overlay.classList.add('show');
+    form?.reset();
+    document.querySelectorAll('input[name="rating"]').forEach(r => r.checked = false);
+    document.addEventListener('keydown', feedbackEscapeHandler);
+  }
+}
+
+function feedbackEscapeHandler(e) {
+  if (e.key === 'Escape') {
+    closeFeedbackModal();
+    document.removeEventListener('keydown', feedbackEscapeHandler);
+  }
+}
+
+function closeFeedbackModal(e) {
+  if (e && e.target !== e.currentTarget) return;
+  document.getElementById('feedback-overlay')?.classList.remove('show');
+  document.removeEventListener('keydown', feedbackEscapeHandler);
+}
+
+function submitFeedback(e) {
+  e.preventDefault();
+  const typeEl = document.getElementById('feedback-type');
+  const ratingEl = document.querySelector('input[name="rating"]:checked');
+  const messageEl = document.getElementById('feedback-message');
+  const emailEl = document.getElementById('feedback-email');
+  const submitBtn = document.getElementById('feedback-submit');
+
+  const type = typeEl?.value || '';
+  const rating = ratingEl?.value || '';
+  const message = messageEl?.value?.trim() || '';
+  const email = emailEl?.value?.trim() || '';
+
+  if (!type || !rating) {
+    showToast('Please select type and rating');
+    return;
+  }
+
+  if (!FEEDBACK_SHEET_URL) {
+    showToast('Google Sheet not connected. See setup in google-apps-script folder.');
+    return;
+  }
+
+  submitBtn.disabled = true;
+  submitBtn.textContent = 'Sending...';
+
+  // Use form POST to iframe - avoids CORS (form submissions are not restricted by CORS)
+  const iframe = document.createElement('iframe');
+  iframe.name = 'feedback-frame-' + Date.now();
+  iframe.style.cssText = 'position:absolute;width:0;height:0;border:0;visibility:hidden';
+  document.body.appendChild(iframe);
+
+  const form = document.createElement('form');
+  form.method = 'POST';
+  form.action = FEEDBACK_SHEET_URL;
+  form.target = iframe.name;
+  form.style.display = 'none';
+
+  const fields = {
+    type, rating, message, email,
+    language: getLang().name || 'Marathi',
+    version: '1.0.0'
+  };
+  for (const [k, v] of Object.entries(fields)) {
+    const input = document.createElement('input');
+    input.type = 'hidden';
+    input.name = k;
+    input.value = String(v);
+    form.appendChild(input);
+  }
+  document.body.appendChild(form);
+
+  iframe.onload = function() {
+    iframe.onload = null;
+    setTimeout(function() {
+      form.remove();
+      iframe.remove();
+      closeFeedbackModal();
+      showToast('Thank you! Feedback sent.');
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Submit';
+    }, 300);
+  };
+  // Fallback if onload never fires (e.g. network error)
+  setTimeout(function() {
+    if (iframe.parentNode) {
+      form.remove();
+      iframe.remove();
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Submit';
+      showToast('Thank you! Feedback sent.');
+    }
+  }, 8000);
+
+  form.submit();
 }
 
 // ===== THEME =====
@@ -1568,10 +1657,7 @@ function openChapter(chapterId) {
   const saveBtnBottom = document.getElementById('chapter-save-btn-bottom');
   const isSaved = savedLessons.some(s => s.id === chapterId);
   [saveBtn, saveBtnBottom].forEach(btn => {
-    if (btn) {
-      btn.textContent = isSaved ? '✓ Saved' : 'Save';
-      btn.classList.toggle('saved', isSaved);
-    }
+    if (btn) btn.classList.toggle('saved', isSaved);
   });
 
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
@@ -1602,10 +1688,7 @@ function saveLessonInline(chapterId) {
   if (currentChapterId === chapterId) {
     const isSavedNow = savedLessons.some(s => s.id === chapterId);
     [document.getElementById('chapter-save-btn'), document.getElementById('chapter-save-btn-bottom')].forEach(btn => {
-      if (btn) {
-        btn.textContent = isSavedNow ? '✓ Saved' : 'Save';
-        btn.classList.toggle('saved', isSavedNow);
-      }
+      if (btn) btn.classList.toggle('saved', isSavedNow);
     });
   }
   renderLessonsList();
