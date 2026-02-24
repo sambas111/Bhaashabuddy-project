@@ -1275,6 +1275,109 @@ body.nav-visible .bottom-nav {
   font-size: 0.9em;
 }
 
+/* ===== MOBILE RESPONSIVE – fluid typography & layout ===== */
+@media (max-width: 768px) {
+  html { font-size: 15px; }
+  .site-main { padding: 16px 14px 32px; }
+  .topbar { padding: 16px 14px 10px; }
+  .topbar h1 { font-size: clamp(20px, 5.5vw, 26px); line-height: 1.3; }
+  .topbar .sub { font-size: clamp(11px, 2.8vw, 13px); }
+  .home-topbar h1 { font-size: clamp(22px, 6vw, 28px); }
+  .search-wrap { padding: 8px 14px 12px; }
+  .search-box { padding: 10px 14px; }
+  .search-box input { font-size: 13px; }
+  .section-label { font-size: 11px; padding: 0 14px 6px; }
+  .home-intro { font-size: 12px; padding: 0 14px 12px; }
+  .back-btn { padding: 12px 14px 6px; font-size: 13px; }
+  .phrase-list, .dict-list, .cat-grid { padding-left: 14px; padding-right: 14px; }
+  .phrase-item { padding: 12px 14px; }
+  .phrase-en { font-size: 13px !important; }
+  .phrase-roman { font-size: 12px !important; }
+  .phrase-mr { font-size: 11px !important; }
+  .phrase-row-text .phrase-en { font-size: 13px !important; }
+  .phrase-row-text .phrase-roman { font-size: 11px !important; }
+  .phrase-row-text .phrase-mr { font-size: 12px !important; }
+  .phrase-row-flat { padding: 10px 12px; }
+  .result-card { margin: 12px 14px; padding: 20px 16px; }
+  .result-devanagari { font-size: clamp(22px, 6vw, 32px); line-height: 1.35; margin: 12px 0; }
+  .result-roman { font-size: 13px; }
+  .result-input-display { font-size: 12px; padding: 10px 12px; }
+  .cat-row-header { padding: 12px 14px; }
+  .cat-name { font-size: 14px; }
+  .cat-count { font-size: 11px; }
+  .major-lesson-header { padding: 12px 14px; }
+  .major-lesson-name { font-size: 14px; }
+  .chapter-row-header { padding: 12px 14px; }
+  .chapter-row-title { font-size: 13px; }
+  .chapter-row-content, .chapter-content-body { padding: 14px 16px; font-size: 13px; line-height: 1.7; }
+  #chapter-detail-body { padding: 16px !important; font-size: 13px !important; line-height: 1.7 !important; }
+  #chapter-detail-content > div:first-child { padding: 12px 14px !important; }
+  #chapter-detail-title { font-size: 15px !important; }
+  #chapter-detail-wrapper { padding: 0 14px 16px !important; }
+  #chapter-detail-link { font-size: 12px !important; padding: 10px !important; }
+  .chapter-h2 { font-size: 15px; }
+  .chapter-h3 { font-size: 14px; }
+  .chapter-h4 { font-size: 13px; }
+  .busuu-section-heading { font-size: 1rem; }
+  .busuu-card { padding: 12px 14px; }
+  .busuu-card-text { font-size: 0.85rem; }
+  .busuu-table { font-size: 12px; }
+  .busuu-table th, .busuu-table td { padding: 10px 12px; }
+  .busuu-table .busuu-script-cell { font-size: 16px; }
+  .dict-item { padding: 12px 14px; }
+  .dict-en { font-size: 13px; }
+  .dict-mr { font-size: 14px; }
+  .settings-section { padding: 0 14px 20px; }
+  .settings-row { padding: 14px; }
+  .settings-row-title { font-size: 13px; }
+  .settings-row-sub { font-size: 11px; }
+  .lang-select-wrap { padding: 32px 20px; }
+  .lang-select-title { font-size: clamp(26px, 7vw, 32px); }
+  .lang-option-script { font-size: 22px; }
+  .lang-option-name { font-size: 16px; }
+  .lang-option-desc { font-size: 12px; }
+  .empty-title { font-size: 16px; }
+  .empty-sub { font-size: 12px; }
+  .bottom-nav .nav-label { font-size: 10px; }
+}
+
+@media (max-width: 480px) {
+  html { font-size: 14px; }
+  .site-main { padding: 12px 12px 28px; }
+  .topbar h1 { font-size: 20px; }
+  .home-topbar h1 { font-size: 22px; }
+  .result-devanagari { font-size: 20px; }
+  .phrase-list, .dict-list, .cat-grid { padding-left: 12px; padding-right: 12px; }
+  .busuu-table { font-size: 11px; }
+  .busuu-table th, .busuu-table td { padding: 8px 10px; }
+  .alphabet-script { font-size: 22px; }
+  .alphabet-grid--barakhadi .alphabet-script { font-size: 14px; }
+  .chapter-row-content, .chapter-content-body { padding: 12px 14px; font-size: 12px; }
+  #chapter-detail-body { padding: 12px !important; font-size: 12px !important; line-height: 1.65 !important; }
+  #chapter-detail-content > div:first-child { padding: 10px 12px !important; }
+  #chapter-detail-title { font-size: 14px !important; }
+  #chapter-detail-wrapper { padding: 0 12px 14px !important; }
+  #chapter-detail-link { font-size: 11px !important; padding: 8px !important; }
+  .busuu-table .busuu-script-cell { font-size: 14px; }
+}
+
+/* Prevent text clustering – word-break & overflow */
+.chapter-content-body,
+#chapter-detail-body,
+.busuu-lesson,
+.busuu-card-text,
+.result-devanagari,
+.phrase-row-text,
+.phrase-item-left,
+.dict-en,
+.dict-mr,
+.major-lesson-name,
+.chapter-row-title {
+  word-break: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
 @media (max-width: 640px) {
   .site-header { padding: 0 16px; }
   .site-nav .nav-item { padding: 10px 12px; font-size: 13px; }
