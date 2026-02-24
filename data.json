@@ -314,7 +314,118 @@
     "id": 12,
     "title": "Active Passive voice in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/active-passive-voice-in-marathi/",
-    "content": "In English, we have two voices. “Active voice” and “Passive voice”. In Marathi such “voice” is called “प्रयोग”(prayog).\nThere are three types of “प्रयोग”(prayog) in Marathi.\nकर्तरी प्रयोग ( kartarI prayog )\nकर्मणी प्रयोग ( karmaNI prayog )\nभावे प्रयोग ( bhAve prayog )\nकर्तरी प्रयोग ( kartarI prayog ) refers to a sentence construction in which the verb changes according to the subject, which is comparable to the active voice in English.\nकर्मणी प्रयोग ( karmaNI prayog ) refers to a sentence construction in which the verb changes according to the object, which is like the passive voice in English.\nभावे प्रयोग ( bhAve prayog ) refers to a sentence construction in which the verb does not change according to either the subject or the object.\nNormal sentences in the present and future tense in Marathi are of कर्तरी प्रयोग ( kartarI prayog ) i.e active voice; because verb form is decided as per gender and multiplicity of कर्ता(kartA) i.e. doer of an action.\nAs we have seen before, in the simple past tense, for सकर्मक क्रियापद (sakarmak kriyApad ) i.e. for verbs needing कर्म (karm) i.e noun; verb form is created as per gender and multiplicity of the noun.\nSo simple past tense sentences with सकर्मक क्रियापद (sakarmak kriyApad ) are examples of कर्मणी प्रयोग ( karmaNI prayog ) i.e. passive voice\nBut like in English, in Marathi the same sentence can be converted from one voice to another and still convey the same meaning.\nIn English, both voices are very common in all the tenses. Unlike in Marathi; कर्मणी प्रयोग ( karmaNI prayog ) and भावे प्रयोग ( bhAve prayog ) are not common in the present and future tense. They are used only in peculiar cases. And rules for sentence formation can look odd.\nSo, you may skip this lesson altogether without any loss in your Marathi learning.\nThose who wish to read further about “प्रयोग”(prayog), please note that this lesson just gives basic about “प्रयोग”(prayog). There are many more grammatical details. Do refer grammar books if you wish to study it in depth.\nTake any simple sentence in present tense it will be in कर्तरी प्रयोग ( kartarI prayog ).\nSo no need to explain any more about it."
+    "content": "Active Passive voice in Marathi",
+    "intro": "Three प्रयोग: कर्तरी (active), कर्मणी (passive – verb by object), भावे (passive – verb neuter). कर्मणी: कर्ता+कडून, कर्म, verb past+जा.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "Three types of प्रयोग",
+        "content": "कर्तरी प्रयोग = active (verb by subject). कर्मणी प्रयोग = passive (verb by object). भावे प्रयोग = verb does not change by subject or object."
+      },
+      {
+        "type": "table",
+        "heading": "कर्मणी प्रयोग structure",
+        "headers": [
+          "Component",
+          "Example"
+        ],
+        "rows": [
+          [
+            "कर्ता+कडून",
+            "माझ्याकडून"
+          ],
+          [
+            "कर्म",
+            "आंबा"
+          ],
+          [
+            "Verb past (by कर्म)",
+            "खाल्ला"
+          ],
+          [
+            "जा (by tense, कर्म)",
+            "जातो"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Active to Passive examples",
+        "headers": [
+          "Active",
+          "Passive (कर्मणी)"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "मी आंबा खातो (I eat mango)",
+            "माझ्याकडून आंबा खाल्ला जातो"
+          ],
+          [
+            "मी आंबा खाईन (I will eat)",
+            "माझ्याकडून आंबा खाल्ला जाईल"
+          ],
+          [
+            "तो क्रिकेट खेळतो",
+            "त्याच्याकडून क्रिकेट खेळले जाते"
+          ],
+          [
+            "तो क्रिकेट खेळेल",
+            "त्याच्याकडून क्रिकेट खेळले जाईल"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "भावे प्रयोग structure",
+        "headers": [
+          "Component",
+          "Example"
+        ],
+        "rows": [
+          [
+            "कर्ता+कडून",
+            "माझ्याकडून"
+          ],
+          [
+            "कर्म+ला",
+            "आंब्याला"
+          ],
+          [
+            "Verb past (neuter singular)",
+            "खाल्ले"
+          ],
+          [
+            "जा (neuter singular)",
+            "जाते"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "भावे examples",
+        "headers": [
+          "Active",
+          "भावे"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "राम सायकल चालवतो",
+            "रामकडून सायकलला चालवले जाते"
+          ],
+          [
+            "राम सायकल चालवेल",
+            "रामकडून सायकलला चालवले जाईल"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "Prepositions with passive",
+        "content": "While being given: दिले जाताना. For being opened: उघडले जाण्यासाठी. After being killed: मारला गेल्यानंतर."
+      }
+    ]
   },
   {
     "id": 13,
@@ -691,13 +802,286 @@
     "id": 16,
     "title": "Adjectives made from verb",
     "url": "https://learnmarathiwithkaushik.com/courses/adjectives-made-from-verb/",
-    "content": "In English we create adjectives from verb like e.g. speaking doll, moving chair, spoken word, defeated nation. The words “speaking”,”spoken”,”defeated” etc. are adjectives created from verbs “To Speak”, “To Defeat” etc.\nIn Marathi also we create such adjectives."
+    "content": "Adjectives made from verb",
+    "intro": "Three types: (1) णारा for general behaviour (speaking, laughing); (2) लेला for completed action; (3) verb+त + असलेला for ongoing.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "1) णारा – general behaviour",
+        "content": "verb + णारा. Follows आ-ई-ए-ए-या-ई (A-I-e-e-yA-I) rule."
+      },
+      {
+        "type": "table",
+        "heading": "Examples – speaking, laughing, moving",
+        "headers": [
+          "M.sg",
+          "F.sg",
+          "N.sg",
+          "M.pl",
+          "F.pl",
+          "N.pl"
+        ],
+        "rows": [
+          [
+            "बोलणारा",
+            "बोलणारी",
+            "बोलणारे",
+            "बोलणारे",
+            "बोलणाऱ्या",
+            "बोलणारी"
+          ],
+          [
+            "हसणारा",
+            "हसणारी",
+            "हसणारे",
+            "हसणारे",
+            "हसणाऱ्या",
+            "हसणारी"
+          ],
+          [
+            "हलणारा",
+            "हलणारी",
+            "हलणारे",
+            "हलणारे",
+            "हलणाऱ्या",
+            "हलणारी"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "ता-ती-ते form",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Moving chair",
+            "हलती खुर्ची",
+            "halatI khurchI"
+          ],
+          [
+            "Speaking phone",
+            "बोलता फोन",
+            "bolatA phon"
+          ],
+          [
+            "The day I like",
+            "माझा आवडता दिवस",
+            "mAjhA AvaDatA divas"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "2) लेला – completed action",
+        "content": "verb + लेला. Follows आ-ई-ए rule."
+      },
+      {
+        "type": "table",
+        "heading": "Examples – spoken, laughed, moved",
+        "headers": [
+          "M.sg",
+          "F.sg",
+          "N.sg"
+        ],
+        "rows": [
+          [
+            "बोललेला",
+            "बोललेली",
+            "बोललेले"
+          ],
+          [
+            "हसलेला",
+            "हसलेली",
+            "हसलेले"
+          ],
+          [
+            "बघितलेला",
+            "बघितलेली",
+            "बघितलेले"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "3) Ongoing – verb+त + असलेला",
+        "content": "For 'who is doing' at moment."
+      },
+      {
+        "type": "table",
+        "heading": "Examples",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Boy who is giving",
+            "देत असलेला मुलगा",
+            "det asalelA mulagA"
+          ],
+          [
+            "Person who is dancing",
+            "नाचत असलेली व्यक्ती",
+            "nAchat asalelI vyaktI"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 17,
     "title": "Adjectives related to prepositions",
     "url": "https://learnmarathiwithkaushik.com/courses/adjectives-related-to-prepositions/",
-    "content": "We have learnt the prepositions in Marathi as well as adjectives. Let’s see what happens when these two concepts come together.\nThere are few adjectives which are derived from the prepositions. Generally, these adjectives are created by adding चा(chA) or ला(lA) to the preposition. Like prepositions, these adjectives are added to सामान्य रूप (sAmAnya rUp) form of the noun."
+    "content": "Adjectives related to prepositions",
+    "intro": "Add चा(chA) or ला(lA) to preposition. Use सामान्य रूप of noun. वरचा, आतला, बाहेरचा etc.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Example – वर (above)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Pot on table",
+            "टेबलावरचा माठ",
+            "TebalAvarachA mATh"
+          ],
+          [
+            "Jar on table",
+            "टेबलावरची बरणी",
+            "TebalAvarachI baraNI"
+          ],
+          [
+            "Leaf on table",
+            "टेबलावरचे पान",
+            "TebalAvarache pAn"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Example – आत (in)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Gift inside box",
+            "खोक्यातली भेटवस्तू",
+            "khokyAtalI bheTavastU"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Example – बाहेर (outside)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Area outside my home",
+            "माझ्या घराबाहेरचा परिसर",
+            "mAjhyA gharAbAherachA parisar"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Bookish form – वरील",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Pot on table",
+            "टेबलावरील माठ",
+            "TebalAvarIl mATh"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Frequently used",
+        "headers": [
+          "Preposition",
+          "Adjective",
+          "Bookish"
+        ],
+        "rows": [
+          [
+            "about बद्दल",
+            "बद्दलचा",
+            ""
+          ],
+          [
+            "above वर",
+            "वरचा",
+            "वरील"
+          ],
+          [
+            "across पलिकडे",
+            "पलीकडचा",
+            "पलीकडील"
+          ],
+          [
+            "among मध्ये",
+            "मधला",
+            "मधील"
+          ],
+          [
+            "before आधी",
+            "आधीचा",
+            ""
+          ],
+          [
+            "below खाली",
+            "खालचा",
+            "खालील"
+          ],
+          [
+            "in आत",
+            "आतला",
+            "आतील"
+          ],
+          [
+            "outside बाहेर",
+            "बाहेरचा",
+            "बाहेरील"
+          ],
+          [
+            "near जवळ",
+            "जवळचा",
+            "जवळील"
+          ],
+          [
+            "with बरोबर",
+            "बरोबरचा",
+            "बरोबरील"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 18,
@@ -739,7 +1123,177 @@
     "id": 24,
     "title": "Calling or Addressing someone in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/calling-or-addressing-someone-in-marathi/",
-    "content": "Suppose you want help and you want to get the attention of a person in front of you. In English, you may say “Hello!”, “Hey”, “Friend” etc. Or in general while talking you may say, “Hey friend, do you know? ”\nThese words “Hello!”, “Hey” etc. in what I mean by the title “Calling or Addressing” someone.\nThe way you call someone who is of your age or you are friendly with will differ from calling an elder.\nIn Marathi\n“अरे”/”अगं” (are/agaM) is used for casual or friendly address. “अहो” (aho) is used for calling with respect.\n“अरे”(are) is for calling boy. “अगं” (agaM) is for calling girl."
+    "content": "Calling or Addressing someone in Marathi",
+    "intro": "अरे/अगं for casual; अहो for respect. अरे for boy, अगं for girl. Do not call a girl अगं मैत्रिणी.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Casual address",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Hey friend",
+            "अरे मित्रा",
+            "are mitrA"
+          ],
+          [
+            "Hey brother",
+            "अरे दादा",
+            "are dAdA"
+          ],
+          [
+            "Hey lad/boy",
+            "अरे मुला / बाळा",
+            "are mulA / bALA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Respectful address",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Hey Sister (formal)",
+            "अहो ताई",
+            "aho tAI"
+          ],
+          [
+            "Hey Sister (known elder)",
+            "अगं ताई",
+            "agaM tAI"
+          ],
+          [
+            "Uncle!",
+            "अहो काका",
+            "aho kAkA"
+          ],
+          [
+            "Aunty!",
+            "अहो काकू / अहो मावशी",
+            "aho kAkU / aho mAvashI"
+          ],
+          [
+            "Hello Madam",
+            "अहो Madam",
+            "aho Madam"
+          ],
+          [
+            "Hello Sir",
+            "अहो Sir",
+            "aho Sir"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "With WH-words – कायरे/कायगं/कायहो",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Hey! How are you? (to boy)",
+            "कायरे? कसा आहेस?",
+            "kAyare? kasA Ahes?"
+          ],
+          [
+            "Hey! How are you? (to girl)",
+            "कायगं? कशी आहेस?",
+            "kAyagaM? kashI Ahes?"
+          ],
+          [
+            "Hello! How are you? (to elder)",
+            "कायहो? कसे आहात?",
+            "kAyaho? kase AhAt?"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Suffixes – रे/गं/हो",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Hey, Boss has come",
+            "साहेब आलेरे",
+            "sAheb Alere"
+          ],
+          [
+            "Come (to boy)",
+            "येरे",
+            "yere"
+          ],
+          [
+            "Come (to girl)",
+            "येगं",
+            "yegaM"
+          ],
+          [
+            "Come (to elder)",
+            "याहो",
+            "yAho"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "ना/नं – pleading",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Please sing",
+            "गाना/गानं",
+            "gAnA/gAnaM"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "हं – pleading/inviting",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Do come to my marriage",
+            "माझ्या लग्नाला ये. येहं",
+            "mAjhyA lagnAlA ye. yehaM"
+          ],
+          [
+            "Do talk to him",
+            "त्याच्याशी बोला. बोलाहं",
+            "tyAchyAshI bolA. bolAhaM"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 25,
@@ -1109,7 +1663,196 @@
     "id": 32,
     "title": "Combining sentences - change in form of verb असणे(asaNe)",
     "url": "https://learnmarathiwithkaushik.com/courses/combining-sentences-change-in-form-of-verb-%e0%a4%85%e0%a4%b8%e0%a4%a3%e0%a5%87asane/",
-    "content": "In previous lessons, we have seen conjunctions that are used to combine two phrases/sentences. In this lesson, I will highlight how two sentences are combined by changing the form of verb असणे (asaNe)\nConsider an example with three small sentences which are related to each other\nThis is an old video. I saw it just now. I am sharing it today -> हा जुना व्हिडिओ आहे. मी आत्ता बघितला. मी आज शेअर करत आहे (hA junA vhiDio Ahe. mI AttA baghitalA. mI Aj shear karat Ahe)\nNow to make it more meaningful you will say it\nThis is an old video, yet I saw it just now so I am sharing it today -> हा जुना व्हिडिओ असला तरी मी आत्ता बघितल्यामुळे आज शेअर करत आहे (hA junA vhiDio asalA tarI mI AttA baghitalyAmuLe Aj shear karat Ahe)\nSo while combining the first two sentence we changed “आहे(Ahe)” to असला तरी(asalAtarI) and बघितला (baghitalA) to बघितल्यामुळे(baghitalyAmuLe )\nThe second change बघितला -> बघितल्यामुळे is discussed in detail in another lesson of preposition with verbs\nhttp://kaushiklele-learnmarathi.blogspot.in/2012/05/prepositions-with-verbs.html"
+    "content": "Combining sentences – change in form of verb असणे(asaNe)",
+    "intro": "Combine sentences by changing असणे form: आहे→असला तरी, बघितला→बघितल्यामुळे. Use सामान्यरूप असल्या + मुळे/ने.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Example – combining with तरी and मुळे",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "This is old video. I saw it. I am sharing today",
+            "हा जुना व्हिडिओ आहे. मी आत्ता बघितला. मी आज शेअर करत आहे",
+            "hA junA vhiDio Ahe. mI AttA baghitalA. mI Aj shear karat Ahe"
+          ],
+          [
+            "This is old video, yet I saw it so I am sharing today",
+            "हा जुना व्हिडिओ असला तरी मी आत्ता बघितल्यामुळे आज शेअर करत आहे",
+            "hA junA vhiDio asalA tarI mI AttA baghitalyAmuLe Aj shear karat Ahe"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "असणे forms by pronoun",
+        "headers": [
+          "Pronoun",
+          "Form",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "I (m.)",
+            "असलो",
+            "asalo"
+          ],
+          [
+            "I (f.)",
+            "असले",
+            "asale"
+          ],
+          [
+            "we",
+            "असलो",
+            "asalo"
+          ],
+          [
+            "You (m.)",
+            "असलास",
+            "asalAs"
+          ],
+          [
+            "You (f.)",
+            "असलीस",
+            "asalIs"
+          ],
+          [
+            "You (pl.)",
+            "असलात",
+            "asalAt"
+          ],
+          [
+            "He",
+            "असला",
+            "asalA"
+          ],
+          [
+            "She",
+            "असली",
+            "asalI"
+          ],
+          [
+            "It",
+            "असले",
+            "asale"
+          ],
+          [
+            "They (m.)",
+            "असले",
+            "asale"
+          ],
+          [
+            "They (f.)",
+            "असल्या",
+            "asalyA"
+          ],
+          [
+            "They (n.)",
+            "असली",
+            "asalI"
+          ],
+          [
+            "सामान्यरूप",
+            "असल्या",
+            "asalyA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Example 1 – Present tense",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "This is old song. I heard it today",
+            "हे जुने गाणे आहे. मी आज ऐकले",
+            "he june gANe Ahe. mI Aj aikale"
+          ],
+          [
+            "Though it is old song, I heard it today",
+            "हे जुने गाणे असले तरी मी आज ऐकले",
+            "he june gANe asale tarI mI Aj aikale"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Example 2 – Past tense",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "My wife was standing there. He asked about girlfriend",
+            "माझी बायको तिथे उभी होती. त्याने माझ्या मैत्रिणीबद्दल विचारले",
+            "mAjhI bAyako tithe ubhI hotI. tyAne mAjhyA maitriNIbaddal vichArale"
+          ],
+          [
+            "My wife was standing there yet he asked",
+            "माझी बायको तिथे उभी असली तरी त्याने माझ्या मैत्रिणीबद्दल विचारले",
+            "mAjhI bAyako tithe ubhI asalI tarI tyAne mAjhyA maitriNIbaddal vichArale"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Example 3 – असल्यामुळे / असल्याने",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Policeman was watching. He did not dare to run",
+            "पोलिस त्याला बारकाईने बघत होता. त्याने पळून जायचे धाडस केले नाही",
+            "polis tyAlA bArakAIne baghat hotA. tyAne paLUn jAyache dhADas kele nAhI"
+          ],
+          [
+            "As policeman was watching he did not dare",
+            "पोलिस त्याला बारकाईने बघत असल्यामुळे त्याने पळून जायचे धाडस केले नाही",
+            "polis tyAlA bArakAIne baghat asalyAmuLe tyAne paLUn jAyache dhADas kele nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Example 4 – असल्या सारखा",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I had illusion of monsters coming",
+            "मोठे राक्षस येत आहेत असा मला भास झाला",
+            "moThe rAkShas yet Ahet asA malA bhAs jhAlA"
+          ],
+          [
+            "Monsters coming – असल्या सारखा",
+            "मोठे राक्षस येत असल्या सारखा मला भास झाला",
+            "moThe rAkShas yet asalyA sArakhA malA bhAs jhAlA"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 33,
@@ -1518,13 +2261,630 @@
     "id": 37,
     "title": "Compound verbs in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/compound-verbs-in-marathi/",
-    "content": "In Marathi verbs देणे, टाकणे, घेणे, बसणे (deNe, TAkaNe, gheNe, basaNe), etc. are used along with other verbs to emphasize the activity or specify the subtly different shade of meaning.\n1) टाकणे ( TAkaNe)\nThis verb is used to indicate that the person is not interested or ready to take action and still he is doing or being asked to do the activity.\nSentence structure is:-\nMain verb+ऊन(Un) then form of टाकणे ( TAkaNe)\nConsider this conversation:-\nSon to his mother:- I am very tired. I do not want to study.\nMother:- It very little. Finish it off in 10 minutes and go to bed.\nTo finish:- संपवणे (saMpavaNe)\nTo finish off:- संपवून टाकणे (saMpavUn TAkaNe)\nSo conversation will be\nSon:- आई मी खूप दमलो आहे. मला अभ्यास करायचा नाही. (AI mI khUp damalo Ahe. malA abhyAs karAyachA nAhI.)\nMother:-थोडासाच आहे. दहा मिनिटात संपवून टाक आणि जा झोपायला (thoDAsAch Ahe. dahA miniTAt saMpavUn TAk ANi jA jhopAyalA)\nOther examples\nDo not hesitate. Speak it out:- संकोच करू नकोस.\nबोलून टाक\n(saMkoch karU nakos. bolUn TAk)\nNobody is looking at us. Just do it:- कोणी आपल्याकडे बघत नाहिये.\nकरून टाक\nलवकर (koNI ApalyAkaDe baghat nAhiye. karUn TAk lavakar )\nThat dish tasted so bad; I somehow managed to gulp it:- तो पदार्थ इतका घाणेरडा होता की मी कसाबसा गिळून टाकला ( to padArth itakA ghANeraDA hotA kI mI kasAbasA giLUn TAkalA)\n2) देणे (deNe)\nIt is using in sentences like “Let him play”, “Let him study quietly”\nThis is separately discussed in the lesson\nUsing “Let” and “Shall we”\nRefer point\n2) Using “Let” for allowing activity\n3) घेणे (gheNe)\nIt is used to indicate that the person is using or being asked to use the opportunity to carry out the activity.\nOtherwise, the activity may not be possible or allowed.\nSentence structure is:-\nMain verb+ऊन(Un) then form of घेणे (gheNe)\ne.g. I was writing a confidential letter. I went out for a minute to drink water. He quickly came and read the letter.\nTo read:- वाचणे (vAchaNe)\nSo here we will use वाचून घेणे (vAchUn gheNe)\nAnd the sentence will be\nमी गोपनीय पत्र लिहीत होतो. एक मिनिटभर पाणी प्यायला बाहेर गेलो. तेवढ्यात त्याने येऊन पत्र वाचून घेतले. (mI gopanIy patr lihIt hoto. ek miniTabhar pANI pyAyalA bAher gelo. tevaDhyAt tyAne yeUn patr vAchUn ghetale)\nI am free now. Ask whatever you want to ask; right now:- मी आत्ता मोकळा आहे. तुला काय विचारायचे आहे ते आत्ताच\nविचारून घे\n(mI AttA mokaLA Ahe. tulA kAy vichArAyache Ahe te AttAch vichArUn ghe)\nI owe you money. I am helpless. You may call me whatever you want:- मी तुझं देणं लागतो. मी असहाय्य आहे. तुला हवं ते तू\nबोलून घे\n(mI tujhaM deNM lAgato. mI asahaayy Ahe. tulA havM te tU bolUn ghe)\nघेणे (gheNe) is also used to indicate the notion of “get it done by…”\nGet that work done by him:- त्याच्याकडून काम\nकरून घे\n(tyAchyAkaDUn kAm karUn ghe)\nI made her take exercise every day:- मी तीच्याकडून रोज व्यायाम\nकरून घेतला\n(mI tIchyAkaDUn roj vyAyAm karUn ghetalA)\n4) काढणे (kADhaNe)\nIt is added to emphasize that activity was done vigorously.\nSentence structure is:-\nMain verb+ऊन(Un) then form of काढणे (kADhaNe)\nThere were ink spots on the shirt. I washed clothes very hard:- शाईचे डाग पडले होते. मी कपडे\nधुवून काढले\n(shAIche DAg paDale hote. mI kapaDe dhuvUn kADhale )\nThe batsman hit every ball of novice bowler very hard:- फलंदाजाने नवशिक्या गोलंदाजाचा प्रत्येक बॉल\nफोडून काढला\n(phalaMdAjAne navashikyA golMdAjAchA pratyek b~ol phoDUn kADhalA)\n5a) बसणे (basaNe) / जाणे(jANe)\nTo indicate that action was done unknowingly and unintentionally.\nSentence structure is:-\nMain verb+ऊन(Un) then form of बसणे (basaNe)\nOr\nMain verb+ऊन(Un) then form of जाणे(jANe)\nI did not know he was your father. I just told him we drank liquor last night.\nमला माहित नव्हतं की ते तुझे वडील आहेत. मी त्यांना\nसांगून बसलो\nकी आपण काल दारू प्यायली\n(malA mAhit navhatM kI te tujhe vaDIl Ahet. mI tyAMnA sAMgUn basalo kI ApaN kAl dArU pyAyalI)\nमला माहित नव्हतं की ते तुझे वडील आहेत. मी त्यांना\nसांगून गेलो\nकी आपण काल दारू प्यायली\n(malA mAhit navhatM kI te tujhe vaDIl Ahet. mI tyAMnA sAMgUn gelo kI ApaN kAl dArU pyAyalI)\nOhh my God !! What a terrible thing I have done !!\nअरे देवा मी हे काय\nकरून बसलो\n( are devA mI he kAy karUn basalo)\nअरे देवा मी हे काय\nकरून गेलो\n( are devA mI he kAy karUn gelo)\n5b) It is also indicated that another person has no option but to do the activity.\nSentence structure is:-\nMain verb+त(t) then form of बसणे (basaNe)\nI warned you many times. But you paid no heed. Now keep crying: मी तुला सूचना दिली होती. पण तू ऐकले नाहीस. आता\nरडत बस\n(mI tulA sUchanA dilI hotI. paN tU aikale nAhIs. AtA raDat bas)\nI have hidden it in a secret place. Now she will search it forever.: मी ते एका गुप्त जागी लपवले आहे. आता ती कायम ते\nशोधत बसेल\n(mI te ekA gupt jAgI lapavale Ahe. AtA tI kAyam te shodhat basel)\n6) राहणे (rAhaNe)\nIt is used to To indicate the continuity of action i.e. we use it in “To keep doing” form of the sentence. It is discussed in details in the lesson\nUsing phrase “to keep doing”\nराहणे (rAhaNe) can be used to indicate that action was missed.\nSentence structure is:-\nMain verb+आयचा/आयची/आयचे(AyachA/AyachI/Ayache) etc. then form of राहणे (rAhaNe)\nOR\nMain verb+आयचा/आयची/आयचे(AyachA/AyachI/Ayache) etc. then राहून and then form of जाणे (jANe)\nForm of आयचा (AyachA) is decided as per gender and multiplicity of the noun.\nGenerally in such sentence subject is omitted.\nI forgot to tell you -> It was missed to tell you ->\nतुला सांगायचे राहिले (tulA sAMgAyache rAhile)\nतुला सांगायचे राहून गेले (tulA sAMgAyache rAhUn gele)\nShe was in hurry she could not see the sign.\nती घाईत होती. पाटी बघायची राहिली (tI ghAIt hotI. pATI baghAyachI rAhilI)\nती घाईत होती. पाटी बघायची राहून गेली (tI ghAIt hotI. pATI baghAyachI rAhUn gelI)\nThough verb राहणे (rAhaNe) is used for two different moods so observe difference in sentence structure to get correct meaning.\nबघत राहिलो ( baghat rAhilo) :- kept watching\nबघायचे राहिले (baghAyache rAhile) :- missed to watch\nबघायचे राहून गेले (baghAyache rAhUn gele) :- missed to watch\nबोलत राहीन (bolat rAhIn) :-will keep talking/saying\nबोलायचे राहील (bolAyache rAhIl) :- will miss talking/saying\nबोलायचे राहून जाईल (bolAyache rAhUn jAIl) :- will miss talking/saying\n7) जाणे (jANe)\nUsed when asking someone to start & continue the activity\nSentence structure is :-\nMain verb+त(t) then form of जाणे (jANe)\nYour plan failed. Now at least start following my advice\nतुझी योजना फसली. आता तरी माझे ऐकत जा\n(tujhI yojanA phasalI. AtA tarI mAjhe aikat jA)\nIf you had taken exercise everyday then ..\nजर तू रोज व्यायाम करत गेला असतास तर ..\n(jar tU roj vyAyAm karat gelA asatAs tar ..)\nIt is also used to indicate that activity was about to start when something else happened\nSentence structure is :-\nMain verb+आयला(AyalA) then form of जाणे (jANe)\nI was about to open door when I saw -> मी दरवाजा उघडायला गेलो तेवढ्यात मला पोलिस दिसले (mI daravAjA ughaDAyalA gelo tevaDhyAt malA polis disale)\nEvery time he tries to ask her for marriage; he comes back afraid -> प्रत्येकवेळी तो तिला मागणी घालायला जातो आणि घाबरून परत येतो (pratyekaveLI to tilA mAgaNI ghAlAyalA jAto ANi ghAbarUn parat yeto.)\nThus जाणे (jANe) is used in three different meanings in three different ways\nबोलत गेलो (bolat gelo ) :- kept speaking\nबोलून गेलो ( bolUn gelo ) :- spoke unintentionally\nबोलयला गेलो ( bolayalA gelo ) :- was about to speak\n8) म्हणणे (mhaNaNe)\nIt is used when you want to predict the consequences of some activity.\nSentence structure is:-\nMain verb+आयचा/आयची/आयचे(AyachA/AyachI/Ayache) then form of म्हणणे (mhaNaNe) then तर(tar)\nForm of आयचा & म्हणणे (mhaNaNe) is decided based on gender and multiplicity of noun.\nIf we think of eating mango then .. ->आंबा खायचा म्हटला तर .. (AMbA khAyachA mhaTalA tar ..)\nIf we think of eating mangos then .. ->आंबे खायचे म्हटले तर .. (AMbe khAyache mhaTale tar ..)\nIf he decides to take revenge then no one can stop him -> जर त्याने सूड\nघ्यायचा म्हटला तर\nकोणीही त्याला थांबवू शकत नाही (jar tyAne sUD ghyAyachA mhaTalA tar koNIhI tyAlA thAMbavU shakat nAhI)\n9) ठेवणे(ThevaNe)\nIt will be used to indicate that activity is done at that moment and its results/effect will be seen later.\nSentence structure is:-\nMain verb+ऊन(Un) then form of ठेवणे(ThevaNe)\nGive him your information so that he can tell you when he finds any suitable opportunity -> त्याला तुझी महिती\nदेऊन ठेव\nम्हणजे त्याला काही संधी दिसली की तो तुला सांगेल (tyAlA tujhI mahitI deUn Thev mhaNaje tyAlA kAhI saMdhI disalI kI to tulA sAMgel)\nKeep tea ready I am coming in two minutes -> चहा\nकरून ठेव\nमी दोन मिनिटात येतो आहे (chahA karUn Thev mI don miniTAt yeto Ahe)\nWe have booked tickets last week itself so that we can watch first-day-first-show -> आम्ही मागच्या आठवड्यातच तिकिटे\nकाढून ठेवली\nआहेत म्हणजे आम्ही पहिला शो बघू शकू (AmhI mAgachyA AThavaDyAtac tikiTe kADhUn ThevalI Ahet mhaNaje AmhI pahilA sho baghU shakU)\n10) चुकणे(chukaNe)\nIt is used to indicate that activity is completed which is it is difficult to revert or it may cause an unpleasant effects.\nSentence structure is:-\nMain verb+ऊन(Un) then form of चुकणे(chukaNe)\nI realized that it was a fraud call; I had already given my password.\nमाझ्या लक्षात आलं की तो फसवा फोनकॉल होता; पण मी तर आधीच पासवर्ड सांगून चुकलो होतो.\n(mAjhyA lakShAt AlaM kI to phasavA phonak~ol hotA; paN mI tar AdhIch pAsavarD sAMgUn chukalo hoto.\nKing had given him promise that he will give up throne; if the guest wins a bet.\nराजा त्याला वचन देऊन चुकला होता की जर पाहुणा जिंकला तर तो सिंहासन सोडेल\n(rAjA tyAlA vachan deUn chukalA hotA kI jar pAhuNA jiMkalA tar to siMhAsan soDel)\nA:- Can you come with me for dinner ?\nB:- No. I have decided a plan for tonight with Mr.C\nA:- आज रात्री जेवायला येशील का? (Aj rAtrI jevAyalA yeshIl kA?)\nB:- नाही. मी Mr. C बरोबर आजचा प्लॅन करून चुकलो आहे.\n(nAhI. mI shrI. c barobar AjachA pl~an karUn chukalo Ahe )\n11) येणे(yeNe)\nIn lesson related to Passive voice(Style 2) we have seen how verb येणे(yeNe) is used. Such sentences can be used to indicate the part of the activity which was done casually but it was noticed by the narrator.\ne.g.\nI was talking to him about his school life. That time\nhe happened to say\nthat he was also from India.\nमी त्याच्याशी त्याच्या लहानपणाबद्दल बोलत होतो. तेव्हा\nत्याच्या बोलण्यात आले\nकी तोही भारतामधील आहे. ( mI tyAchyAshI tyAchyA lahAnapaNAbaddal bolat hoto. tevhA tyAchyA bolaNyAt Ale kI tohI bhAratAmadhIl Ahe.)\nI was going to the office when\nI happened to hear\nabout auto-rickshaw-strike.\nमी ऑफिसला चाललो होतो तेव्हा रिक्षांच्या संपाबद्दल\nमाझ्या ऐकण्यात आले\n.\n(mI ~ophisalA chAlalo hoto tevhA rikShAMchyA saMpAbaddal mAjhyA aikaNyAt Ale)"
+    "content": "Compound verbs in Marathi",
+    "intro": "Verbs देणे, टाकणे, घेणे, बसणे, काढणे, राहणे, जाणे, म्हणणे, ठेवणे, चुकणे, येणे are used with other verbs to emphasize or specify meaning. Structure: Main verb+ऊन/त/आयचा then form of compound verb.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "1) टाकणे – not interested but doing (verb+ऊन)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Finish it off in 10 minutes",
+            "दहा मिनिटात संपवून टाक आणि जा झोपायला",
+            "dahA miniTAt saMpavUn TAk ANi jA jhopAyalA"
+          ],
+          [
+            "Do not hesitate. Speak it out",
+            "संकोच करू नकोस. बोलून टाक",
+            "saMkoch karU nakos. bolUn TAk"
+          ],
+          [
+            "Nobody is looking. Just do it",
+            "कोणी आपल्याकडे बघत नाहिये. करून टाक लवकर",
+            "koNI ApalyAkaDe baghat nAhiye. karUn TAk lavakar"
+          ],
+          [
+            "I somehow managed to gulp it",
+            "मी कसाबसा गिळून टाकला",
+            "mI kasAbasA giLUn TAkalA"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "2) देणे",
+        "content": "Used in 'Let him play' etc. See lesson Using 'Let' and 'Shall we'."
+      },
+      {
+        "type": "table",
+        "heading": "3) घेणे – use opportunity (verb+ऊन)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He quickly came and read the letter",
+            "तेवढ्यात त्याने येऊन पत्र वाचून घेतले",
+            "tevaDhyAt tyAne yeUn patr vAchUn ghetale"
+          ],
+          [
+            "Ask whatever you want; right now",
+            "तुला काय विचारायचे आहे ते आत्ताच विचारून घे",
+            "tulA kAy vichArAyache Ahe te AttAch vichArUn ghe"
+          ],
+          [
+            "You may call me whatever you want",
+            "तुला हवं ते तू बोलून घे",
+            "tulA havM te tU bolUn ghe"
+          ],
+          [
+            "Get that work done by him",
+            "त्याच्याकडून काम करून घे",
+            "tyAchyAkaDUn kAm karUn ghe"
+          ],
+          [
+            "I made her take exercise every day",
+            "मी तीच्याकडून रोज व्यायाम करून घेतला",
+            "mI tIchyAkaDUn roj vyAyAm karUn ghetalA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "4) काढणे – done vigorously (verb+ऊन)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I washed clothes very hard",
+            "मी कपडे धुवून काढले",
+            "mI kapaDe dhuvUn kADhale"
+          ],
+          [
+            "Batsman hit every ball very hard",
+            "फलंदाजाने प्रत्येक बॉल फोडून काढला",
+            "phalaMdAjAne pratyek b~ol phoDUn kADhalA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "5a) बसणे/जाणे – unintentionally (verb+ऊन)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I just told him we drank liquor",
+            "मी त्यांना सांगून बसलो/गेलो की आपण काल दारू प्यायली",
+            "mI tyAMnA sAMgUn basalo/gelo kI ApaN kAl dArU pyAyalI"
+          ],
+          [
+            "Oh my God! What have I done!",
+            "अरे देवा मी हे काय करून बसलो/गेलो",
+            "are devA mI he kAy karUn basalo/gelo"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "5b) बसणे – no option (verb+त)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Now keep crying",
+            "आता रडत बस",
+            "AtA raDat bas"
+          ],
+          [
+            "Now she will search it forever",
+            "आता ती कायम ते शोधत बसेल",
+            "AtA tI kAyam te shodhat basel"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "6) राहणे – keep doing / missed",
+        "headers": [
+          "Marathi",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "बघत राहिलो",
+            "kept watching"
+          ],
+          [
+            "बघायचे राहिले / राहून गेले",
+            "missed to watch"
+          ],
+          [
+            "बोलत राहीन",
+            "will keep talking"
+          ],
+          [
+            "बोलायचे राहील / राहून जाईल",
+            "will miss talking"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "7) जाणे – three uses",
+        "headers": [
+          "Marathi",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "बोलत गेलो",
+            "kept speaking"
+          ],
+          [
+            "बोलून गेलो",
+            "spoke unintentionally"
+          ],
+          [
+            "बोलायला गेलो",
+            "was about to speak"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "8) म्हणणे – predict consequences (verb+आयचा म्हटला तर)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "If we think of eating mango then..",
+            "आंबा खायचा म्हटला तर ..",
+            "AMbA khAyachA mhaTalA tar .."
+          ],
+          [
+            "If he decides to take revenge..",
+            "जर त्याने सूड घ्यायचा म्हटला तर कोणीही त्याला थांबवू शकत नाही",
+            "jar tyAne sUD ghyAyachA mhaTalA tar koNIhI tyAlA thAMbavU shakat nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "9) ठेवणे – done now, effect later (verb+ऊन)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Give him your information",
+            "त्याला तुझी महिती देऊन ठेव",
+            "tyAlA tujhI mahitI deUn Thev"
+          ],
+          [
+            "Keep tea ready",
+            "चहा करून ठेव",
+            "chahA karUn Thev"
+          ],
+          [
+            "We have booked tickets",
+            "आम्ही तिकिटे काढून ठेवली आहेत",
+            "AmhI tikiTe kADhUn ThevalI Ahet"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "10) चुकणे – completed, hard to revert (verb+ऊन)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I had already given my password",
+            "मी आधीच पासवर्ड सांगून चुकलो होतो",
+            "mI AdhIch pAsavarD sAMgUn chukalo hoto"
+          ],
+          [
+            "I have decided a plan for tonight",
+            "मी आजचा प्लॅन करून चुकलो आहे",
+            "mI AjachA pl~an karUn chukalo Ahe"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "11) येणे – happened casually (verb+ण्यात आले)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He happened to say he was from India",
+            "त्याच्या बोलण्यात आले की तोही भारतामधील आहे",
+            "tyAchyA bolaNyAt Ale kI tohI bhAratAmadhIl Ahe"
+          ],
+          [
+            "I happened to hear about strike",
+            "रिक्षांच्या संपाबद्दल माझ्या ऐकण्यात आले",
+            "rikShAMchyA saMpAbaddal mAjhyA aikaNyAt Ale"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 38,
     "title": "Compound verbs / Phrases in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/compound-verbs-phrases-in-marathi/",
-    "content": "In Marathi verbs देणे, टाकणे, घेणे, बसणे (deNe, TAkaNe, gheNe, basaNe) etc. are used along with other verbs to emphasize the activity or specify the subtly different shade of meaning.\n1) टाकणे ( TAkaNe):\nThis verb is used to indicate that a person is not interested or ready to take action and still he is doing or being asked to do the activity.\nSentence structure is:\nMain verb+ऊन(Un) then form of टाकणे ( TAkaNe)\nConsider this conversation:\nSon to his mother:- I am very tired. I do not want to study.\nMother:- It very little. Finish it off in 10 minutes and go to bed.\nTo finish:- संपवणे (saMpavaNe)\nTo finish off:- संपवून टाकणे (saMpavUn TAkaNe)\nSo conversation will be:\nSon:- आई मी खूप दमलो आहे. मला अभ्यास करायचा नाही. (AI mI khUp damalo Ahe. malA abhyAs karAyachA nAhI.)\nMother:- थोडासाच आहे. दहा मिनिटात संपवून टाक आणि जा झोपायला (thoDAsAch Ahe. dahA miniTAt saMpavUn TAk ANi jA jhopAyalA)\nAnother example:\nDo not hesitate. Speak it out:- संकोच करू नकोस. बोलून टाक (saMkoch karU nakos. bolUn TAk)\nNobody is looking at us. Just do it:- कोणी आपल्याकडे बघत नाहिये. करून टाक लवकर (koNI ApalyAkaDe baghat nAhiye. karUn TAk lavakar )\nThat dish tasted so bad; I somehow managed to gulp it:- तो पदार्थ इतका घाणेरडा होता की मी कसाबसा गिळून टाकला ( to padArth itakA ghANeraDA hotA kI mI kasAbasA giLUn TAkalA)\n2) देणे (deNe):\nIt is using in sentences like “Let him play”, “Let him study quietly”\nThis is separately discussed in the lesson\nUsing “Let” and “Shall we”\nRefer point 2) Using “Let” for allowing activity\n3) घेणे (gheNe):\nIt is used to indicate that a person is using or being asked to use the opportunity to carry out the activity.\nOtherwise, the activity may not be possible or allowed.\nSentence structure is:\nMain verb+ऊन(Un) then form of घेणे (gheNe)\ne.g.\nI was writing a confidential letter. I went out for a minute to drink water. He quickly came and\nread\nthe letter.\nTo read:- वाचणे (vAchaNe)\nSo here we will use वाचून घेणे (vAchUn gheNe)\nAnd senescence will be\nमी गोपनीय पत्र लिहीत होतो. एक मिनिटभर पाणी प्यायला बाहेर गेलो. तेवढ्यात त्याने येऊन पत्र वाचून घेतले. (mI gopanIy patr lihIt hoto. ek miniTabhar pANI pyAyalA bAher gelo. tevaDhyAt tyAne yeUn patr vAchUn ghetale)\nI am free now. Ask whatever you want to ask; right now:- मी आत्ता मोकळा आहे. तुला काय विचारायचे आहे ते आत्ताच विचारून घे (mI AttA mokaLA Ahe. tulA kAy vichArAyache Ahe te AttAch vichArUn ghe)\nI owe you money. I am helpless. You may call me whatever you want मी तुझं देणं लागतो. मी असहाय्य आहे. तुला हवं ते तू बोलून घे (mI tujhaM deNM lAgato. mI asahaayy Ahe. tulA havM te tU bolUn ghe)\nघेणे (gheNe) is also used to indicate the notion of “get it done by…”\nGet that work done by him:- त्याच्याकडून काम करून घे (tyAchyAkaDUn kAm karUn ghe)\nI made her take exercise every day:- मी तीच्याकडून रोज व्यायाम करून घेतला (mI tIchyAkaDUn roj vyAyAm karUn ghetalA)\n4) काढणे (kADhaNe):\nIt is added to emphasize that activity was done vigorously.\nSentence structure\nis:\nMain verb+ऊन(Un) then form of काढणे (kADhaNe)\nThere were ink spots on the shirt. I washed clothes very hard\nशाईचे डाग पडले होते. मी कपडे धुवून काढले (shAIche DAg paDale hote. mI kapaDe dhuvUn kADhale )\nThe batsman hit every ball of novice bowler very hard\nफलंदाजाने नवशिक्या गोलंदाजाचा प्रत्येक बॉल फोडून काढला (phalaMdAjAne navashikyA golMdAjAchA pratyek b~ol phoDUn kADhalA)\n5a) बसणे (basaNe) / जाणे(jANe):\nTo indicate that action was done unknowingly and unintentionally.\nSentence structure is:\nMain verb+ऊन(Un) then form of बसणे (basaNe)\nOr\nMain verb+ऊन(Un) then form of जाणे(jANe)\nI did not know he was your father. I just told him we drank liquor last night.\nमला माहित नव्हतं की ते तुझे वडील आहेत. मी त्यांना\nसांगून बसलो\nकी आपण काल दारू प्यायली\n(malA mAhit navhatM kI te tujhe vaDIl Ahet. mI tyAMnA sAMgUn basalo kI ApaN kAl dArU pyAyalI)\nमला माहित नव्हतं की ते तुझे वडील आहेत. मी त्यांना\nसांगून गेलो\nकी आपण काल दारू प्यायली\n(malA mAhit navhatM kI te tujhe vaDIl Ahet. mI tyAMnA sAMgUn gelo kI ApaN kAl dArU pyAyalI)\nOhh my God !! What a terrible thing I have done !!\nअरे देवा मी हे काय\nकरून बसलो\n( are devA mI he kAy karUn basalo)\nअरे देवा मी हे काय\nकरून गेलो\n( are devA mI he kAy karUn gelo)\n5b) It is also indicated that another person has no option but to do the activity.\nSentence structure is:\nMain verb+त(t) then form of बसणे (basaNe)\nI warned you many times. But you paid no heed. Now keep crying\nमी तुला सूचना दिली होती. पण तू ऐकले नाहीस. आता रडत बस\n(mI tulA sUchanA dilI hotI. paN tU aikale nAhIs. AtA raDat bas)\nI have hidden it in a secret place. Now she will search it forever.\nमी ते एका गुप्त जागी लपवले आहे. आता ती कायम ते शोधत बसेल\n(mI te ekA gupt jAgI lapavale Ahe. AtA tI kAyam te shodhat basel)\n6) राहणे (rAhaNe):\nIt is used to To indicate the continuity of action i.e. we use it in “To keep doing” form of a sentence. It is discussed in details in lesson\nUsing phrase “to keep doing”\nराहणे (\nrAhaNe\n) can be used to indicate that action was missed.\nSentence structure is:\nMain verb+आयचा/आयची/आयचे(AyachA/AyachI/Ayache) etc. then form of राहणे (rAhaNe)\nOR\nMain verb+आयचा/आयची/आयचे(AyachA/AyachI/Ayache) etc. then राहून and then form of जाणे (jANe)\nForm of आयचा (AyachA) is decided as per gender and multiplicity of the noun.\nGenerally in such sentence subject is omitted.\nI forgot to tell you -> It was missed to tell you ->तुला सांगायचे राहिले (tulA sAMgAyache rAhile)\nतुला सांगायचे राहून गेले (tulA sAMgAyache rAhUn gele)\nShe was in a hurry she could not see the sign.\nती घाईत होती. पाटी बघायची राहिली (tI ghAIt hotI. pATI baghAyachI rAhilI)\nती घाईत होती. पाटी बघायची राहून गेली (tI ghAIt hotI. pATI baghAyachI rAhUn gelI)\nThough verb राहणे (rAhaNe) is used for two different moods so observe the difference in sentence structure to get the correct meaning.\nबघत राहिलो ( baghat rAhilo):- kept watching\nबघायचे राहिले (baghAyache rAhile):- missed to watch\nबघायचे राहून गेले (baghAyache rAhUn gele):- missed to watch\nबोलत राहीन (bolat rain): -will keep talking/saying\nबोलायचे राहील (bolAyache rAhIl):- will miss talking/saying\nबोलायचे राहून जाईल (bolAyache rAhUn jAIl):- will miss talking/saying\n7) जाणे (jANe):\nUsed when asking some one to start & continue the activity\nSentence structure is:\nMain verb+त(t) then form of जाणे (jANe)\nYour plan failed. Now at least start following my advice\nतुझी योजना फसली. आता तरी माझे ऐकत जा (tujhI yojanA phasalI. AtA tarI mAjhe aikat jA)\nIf he had taken exercise every day then.\nजर तू रोज व्यायाम करत गेला असतास तर.\n(jar to from vyAyAm karat gelA asatAs tar ..)\nIt is also used to indicate that activity was about to start when something else happened\nSentence structure is:\nMain verb+आयला(AyalA) then form of जाणे (jANe)\nI was about to open the door when I saw ->\nमी दरवाजा उघडायला गेलो तेवढ्यात मला पोलिस दिसले (mI daravAjA ughaDAyalA gelo tevaDhyAt malA polis disale)\nEvery time he tries to ask her for marriage; he comes back afraid\nप्रत्येकवेळी तो तिला मागणी घालायला जातो आणि घाबरून परत येतो. (pratyekaveLI to tilA mAgaNI ghAlAyalA jAto ANi ghAbarUn parat yeto.)\nThus जाणे (jANe) is used in three different meanings in three different ways\nबोलत गेलो (bolat gelo):- kept speaking\nबोलून गेलो ( bolUn gelo):- spoke unintentionally\nबोलयला गेलो ( bolayalA gelo):- was about to speak\n8) म्हणणे (mhaNaNe):\nIt is used when you want to predict the consequences of some activity.\nSentence structure is:\nMain verb+आयचा/आयची/आयचे(AyachA/AyachI/Ayache) then form of म्हणणे (mhaNaNe) then तर(tar)\nForm of आयचा & म्हणणे (mhaNaNe) is decided based on gender and multiplicity of the noun.\nIf we think of eating mango then .. ->आंबा खायचा म्हटला तर .. (AMbA khAyachA mhaTalA tar ..)\nIf we think of eating mangos then .. ->आंबे खायचे म्हटले तर .. (AMbe khAyache mhaTale tar ..)\nIf he decides to take revenge then no one can stop him\nजर त्याने सूड घ्यायचा म्हटला तर कोणीही त्याला थांबवू शकत नाही (jar tyAne sUD ghyAyachA mhaTalA tar koNIhI tyAlA thAMbavU shakat nAhI)\n9) ठेवणे(ThevaNe):\nIt will be used to indicate that activity is done on that moment and its results/effect will be seen later.\nSentence structure is:\nMain verb+ऊन(Un) then form of ठेवणे(ThevaNe)\nGive him your information so that he can tell you when he finds any suitable opportunity\nत्याला तुझी महिती देऊन ठेव म्हणजे त्याला काही संधी दिसली की तो तुला सांगेल\n(tyAlA tujhI mahitI deUn Thev mhaNaje tyAlA kAhI saMdhI disalI kI to tulA sAMgel)\nKeep tea ready I am coming in two minutes\nचहा करून ठेव मी दोन मिनिटात येतो आहे (chahA karUn Thev mI don miniTAt yeto Ahe)\nWe have booked tickets last week itself so that we can watch first-day-first-show\nआम्ही मागच्या आठवड्यातच तिकिटे काढून ठेवली आहेत म्हणजे आम्ही पहिला शो बघू शकू\n(AmhI mAgachyA AThavaDyAtac tikiTe kADhUn ThevalI Ahet mhaNaje AmhI pahilA sho baghU shakU)\n10) चुकणे(chukaNe):\nIt is used to indicate that activity is completed which is it is difficult to revert or it may cause an unpleasant effect.\nSentence structure is:\nMain verb+ऊन(Un) then form of चुकणे(chukaNe)\nI realized that it was a fraud call; I had already given my password.\nमाझ्या लक्षात आलं की तो फसवा फोनकॉल होता; पण मी तर आधीच पासवर्ड सांगून चुकलो होतो.\n(mAjhyA lakShAt AlaM kI to phasavA phonak~ol hotA; paN mI tar AdhIch pAsavarD sAMgUn chukalo hoto.\nKing had given him promise that he will give up the throne; if guest wins a bet.\nराजा त्याला वचन देऊन चुकला होता की जर पाहुणा जिंकला तर तो सिंहासन सोडेल\n(rAjA tyAlA vachan deUn chukalA hotA kI jar pAhuNA jiMkalA tar to siMhAsan soDel)\nA:- Can you come with me for dinner ?\nB:- No. I have decided plan for tonight with Mr.C\nA:- आज रात्री जेवायला येशील का? (Aj rAtrI jevAyalA yeshIl kA?)\nB:- नाही. मी Mr. C बरोबर आजचा प्लॅन करून चुकलो आहे. (nAhI. mI shrI. c barobar AjachA pl~an karUn chukalo Ahe )\n11) येणे(yeNe):\nIn lesson related to Passive voice(Style 2), we have seen how verb येणे(yeNe) is used. Such sentences can be used to indicate the part of the activity which was done casually but it was noticed by the narrator.\ne.g.\nI was talking with him about his school life. That time\nhe happened to say\nthat he was also from India.\nमी त्याच्याशी त्याच्या लहानपणाबद्दल बोलत होतो. तेव्हा\nत्याच्या बोलण्यात आले\nकी तोही भारतामधील आहे. ( mI tyAchyAshI tyAchyA lahAnapaNAbaddal bolat hoto. tevhA tyAchyA bolaNyAt Ale kI tohI bhAratAmadhIl Ahe.)\nI was going to the office when\nI happened to hear\nabout auto-rickshaw-strike.\nमी ऑफिसला चाललो होतो तेव्हा रिक्षांच्या संपाबद्दल\nमाझ्या ऐकण्यात आले\n.\n(mI ~ophisalA chAlalo hoto tevhA rikShAMchyA saMpAbaddal mAjhyA aikaNyAt Ale)"
+    "content": "Compound verbs / Phrases in Marathi",
+    "intro": "Verbs देणे, टाकणे, घेणे, बसणे, काढणे, राहणे, जाणे, म्हणणे, ठेवणे, चुकणे, येणे are used with other verbs to emphasize or specify meaning.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "1) टाकणे – not interested but doing",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Finish it off in 10 minutes",
+            "दहा मिनिटात संपवून टाक आणि जा झोपायला",
+            "dahA miniTAt saMpavUn TAk ANi jA jhopAyalA"
+          ],
+          [
+            "Do not hesitate. Speak it out",
+            "संकोच करू नकोस. बोलून टाक",
+            "saMkoch karU nakos. bolUn TAk"
+          ],
+          [
+            "Nobody is looking. Just do it",
+            "कोणी आपल्याकडे बघत नाहिये. करून टाक लवकर",
+            "koNI ApalyAkaDe baghat nAhiye. karUn TAk lavakar"
+          ],
+          [
+            "I somehow managed to gulp it",
+            "मी कसाबसा गिळून टाकला",
+            "mI kasAbasA giLUn TAkalA"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "2) देणे",
+        "content": "Used in 'Let him play' etc. See lesson Using 'Let' and 'Shall we'."
+      },
+      {
+        "type": "table",
+        "heading": "3) घेणे – use opportunity",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He quickly came and read the letter",
+            "तेवढ्यात त्याने येऊन पत्र वाचून घेतले",
+            "tevaDhyAt tyAne yeUn patr vAchUn ghetale"
+          ],
+          [
+            "Ask whatever you want; right now",
+            "तुला काय विचारायचे आहे ते आत्ताच विचारून घे",
+            "tulA kAy vichArAyache Ahe te AttAch vichArUn ghe"
+          ],
+          [
+            "You may call me whatever you want",
+            "तुला हवं ते तू बोलून घे",
+            "tulA havM te tU bolUn ghe"
+          ],
+          [
+            "Get that work done by him",
+            "त्याच्याकडून काम करून घे",
+            "tyAchyAkaDUn kAm karUn ghe"
+          ],
+          [
+            "I made her take exercise every day",
+            "मी तीच्याकडून रोज व्यायाम करून घेतला",
+            "mI tIchyAkaDUn roj vyAyAm karUn ghetalA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "4) काढणे – done vigorously",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I washed clothes very hard",
+            "मी कपडे धुवून काढले",
+            "mI kapaDe dhuvUn kADhale"
+          ],
+          [
+            "Batsman hit every ball very hard",
+            "फलंदाजाने प्रत्येक बॉल फोडून काढला",
+            "phalaMdAjAne pratyek b~ol phoDUn kADhalA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "5a) बसणे/जाणे – unintentionally",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I just told him we drank liquor",
+            "मी त्यांना सांगून बसलो की आपण काल दारू प्यायली",
+            "mI tyAMnA sAMgUn basalo kI ApaN kAl dArU pyAyalI"
+          ],
+          [
+            "Oh my God! What have I done!",
+            "अरे देवा मी हे काय करून बसलो",
+            "are devA mI he kAy karUn basalo"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "5b) बसणे – no option",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Now keep crying",
+            "आता रडत बस",
+            "AtA raDat bas"
+          ],
+          [
+            "She will search it forever",
+            "ती कायम ते शोधत बसेल",
+            "tI kAyam te shodhat basel"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "6) राहणे – missed action",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I forgot to tell you",
+            "तुला सांगायचे राहिले",
+            "tulA sAMgAyache rAhile"
+          ],
+          [
+            "She could not see the sign",
+            "पाटी बघायची राहिली",
+            "pATI baghAyachI rAhilI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "राहणे – keep vs miss",
+        "headers": [
+          "Marathi",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "बघत राहिलो",
+            "kept watching"
+          ],
+          [
+            "बघायचे राहिले",
+            "missed to watch"
+          ],
+          [
+            "बोलत राहीन",
+            "will keep talking"
+          ],
+          [
+            "बोलायचे राहील",
+            "will miss talking"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "7) जाणे – start & continue",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Start following my advice",
+            "माझे ऐकत जा",
+            "mAjhe aikat jA"
+          ],
+          [
+            "If you had taken exercise every day then",
+            "जर तू रोज व्यायाम करत गेला असतास तर",
+            "jar tU roj vyAyAm karat gelA asatAs tar"
+          ],
+          [
+            "I was about to open the door when I saw",
+            "मी दरवाजा उघडायला गेलो तेवढ्यात मला पोलिस दिसले",
+            "mI daravAjA ughaDAyalA gelo tevaDhyAt malA polis disale"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "जाणे – three meanings",
+        "headers": [
+          "Marathi",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "बोलत गेलो",
+            "kept speaking"
+          ],
+          [
+            "बोलून गेलो",
+            "spoke unintentionally"
+          ],
+          [
+            "बोलायला गेलो",
+            "was about to speak"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "8) म्हणणे – predict consequences",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "If we think of eating mango then",
+            "आंबा खायचा म्हटला तर",
+            "AMbA khAyachA mhaTalA tar"
+          ],
+          [
+            "If he decides to take revenge",
+            "जर त्याने सूड घ्यायचा म्हटला तर कोणीही त्याला थांबवू शकत नाही",
+            "jar tyAne sUD ghyAyachA mhaTalA tar koNIhI tyAlA thAMbavU shakat nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "9) ठेवणे – done now, effect later",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Give him your information",
+            "त्याला तुझी महिती देऊन ठेव",
+            "tyAlA tujhI mahitI deUn Thev"
+          ],
+          [
+            "Keep tea ready",
+            "चहा करून ठेव",
+            "chahA karUn Thev"
+          ],
+          [
+            "We have booked tickets",
+            "आम्ही तिकिटे काढून ठेवली आहेत",
+            "AmhI tikiTe kADhUn ThevalI Ahet"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "10) चुकणे – completed, hard to revert",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I had already given my password",
+            "मी आधीच पासवर्ड सांगून चुकलो होतो",
+            "mI AdhIch pAsavarD sAMgUn chukalo hoto"
+          ],
+          [
+            "I have decided plan for tonight",
+            "मी आजचा प्लॅन करून चुकलो आहे",
+            "mI AjachA pl~an karUn chukalo Ahe"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "11) येणे – happened casually",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He happened to say he was from India",
+            "त्याच्या बोलण्यात आले की तोही भारतामधील आहे",
+            "tyAchyA bolaNyAt Ale kI tohI bhAratAmadhIl Ahe"
+          ],
+          [
+            "I happened to hear about strike",
+            "माझ्या ऐकण्यात आले",
+            "mAjhyA aikaNyAt Ale"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 39,
@@ -1548,25 +2908,543 @@
     "id": 42,
     "title": "Conjunctions in Marathi - Part 1 And,But,Because,So,That,Although,Though,Still,Yet",
     "url": "https://learnmarathiwithkaushik.com/courses/conjunctions-in-marathi-part-1-andbutbecausesothatalthoughthoughstillyet/",
-    "content": "Conjunctions are words that join two or more words or phrases or clauses.\nHere we will learn frequently use English conjunctions and their Marathi synonyms.\nWe will start with frequently use conjunctions and then move to less-used ones"
+    "content": "Conjunctions in Marathi – Part 1",
+    "intro": "And, But, Although, Because, So, That. आणि/व, पण/परंतु, तरीही, कारण, म्हणून, की.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "1) And – आणि, व",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He and me",
+            "तो आणि/व मी",
+            "to ANi/v mI"
+          ],
+          [
+            "Milk and sugar",
+            "दूध आणि/व साखर",
+            "dUdh ANi/v sAkhar"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "2) But – पण, परंतु",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I want to buy but shop is closed",
+            "मला खरेदी करायची आहे पण दुकान बंद आहे",
+            "malA kharedI karAyachI Ahe paN dukAn baMd Ahe"
+          ],
+          [
+            "He was clever but did not work hard",
+            "तो हुशार होता पण त्याने परिश्रम केले नाहीत",
+            "to hushAr hotA paN tyAne parishram kele nAhIt"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "3) Although/Though/Still – तरीही",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I had warned him, still he opened the box",
+            "मी त्याला इशारा दिला होता तरीही त्याने खोका उघडला",
+            "mI tyAlA ishArA dilA hotA tarIhI tyAne khokA ughaDalA"
+          ],
+          [
+            "He helped her still she insulted him",
+            "त्याने तिला मदत केली तरीही तीने त्याचा अपमान केला",
+            "tyAne tilA madat kelI tarIhI tIne tyAchA apamAn kelA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "4) Because – कारण",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I did not come yesterday, because I was sick",
+            "मी काल आलो नाही, कारण मी आजारी होतो",
+            "mI kAl Alo nAhI, kAraN mI AjArI hoto"
+          ],
+          [
+            "Car will not start because no petrol",
+            "गाडी चालू होणार नाही, कारण टाकीत पेट्रोल नाही",
+            "gADI chAlU hoNAr nAhI, kAraN TAkIt peTrol nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "5) So – म्हणून",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I was sick so I did not come",
+            "मी आजारी होतो म्हणून मी काल आलो नाही",
+            "mI AjArI hoto mhaNUn mI kAl Alo nAhI"
+          ],
+          [
+            "No petrol so car will not start",
+            "टाकीत पेट्रोल नाही म्हणून गाडी चालू होणार नाही",
+            "TAkIt peTrol nAhI mhaNUn gADI chAlU hoNAr nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "6) That – की",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He told her that he is happy",
+            "त्याने तीला सांगितले की तो खूप खूष आहे",
+            "tyAne tIlA sAMgitale kI to khUp khUSh Ahe"
+          ],
+          [
+            "I am sure that we will succeed",
+            "मला खात्री आहे की आपण यशस्वी होऊ",
+            "malA khAtrI Ahe kI ApaN yashasvI hoU"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 43,
     "title": "Conjunctions in Marathi - Part 2 As,As well as,Or, Neither, Nor, If,in case, provided",
     "url": "https://learnmarathiwithkaushik.com/courses/conjunctions-in-marathi-part-2-asas-well-asor-neither-nor-ifin-case-provided/",
-    "content": "Conjunction “As” is used in multiple ways.\nMain use of “As” is to indicate the way things happen. So Marathi word is जसा( jasA). Depending on gender and multiplicity of object form will change\nजसा-जशी-जसे-जसे-जश्या-जशी ( jasA-jashI-jase-jase-jashyA-jashI) as per\nआ-ई-ए-ए-या-ई (A-I-e-e-yA-I) rule\ne.g.\nAs you wish, my lord: जशी आपली इच्छा, साहेब ( jashI ApalI ichChA, sAheb )\nDo it the same way as he is doing -> तो जसे करतो आहे तसेच कर (to jase karato Ahe tasech kar )\nFor other usages of “As” refer to the section of frequently used conjunction for that usage. e.g. For usage of “As” as “because”, refer the previous lesson for conjunction “because”."
+    "content": "Conjunctions in Marathi – Part 2",
+    "intro": "As, As well as, Or, Neither-Nor, If. जसा-जशी-जसे, तसेच/आणि-सुद्धा, किंवा. If: जर-तर (see If-Then lesson).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "7) As – जसा (जसा-जशी-जसे-जसे-जश्या-जशी)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "As you wish, my lord",
+            "जशी आपली इच्छा, साहेब",
+            "jashI ApalI ichChA, sAheb"
+          ],
+          [
+            "Do it the same way as he is doing",
+            "तो जसे करतो आहे तसेच कर",
+            "to jase karato Ahe tasech kar"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "8) As well as – तसेच, आणि-सुद्धा",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He as well as me",
+            "तो तसेच मी / तो आणि मी सुद्धा",
+            "to tasech mI / to ANi mI suddhA"
+          ],
+          [
+            "She sang as well as danced",
+            "ती नाचली तसेच गायली",
+            "tI nAchalI tasech gAyalI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "9) Or – किंवा",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He or me",
+            "तो किंवा मी",
+            "to kiMvA mI"
+          ],
+          [
+            "Do or die",
+            "करा किंवा मरा",
+            "karA kiMvA marA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "10) Neither-Nor – convert to both",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Neither he nor I were interested",
+            "तो आणि मी दोघेही इच्छुक नव्हतो",
+            "to ANi mI doghehI ichChuk navhato"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "11) If / in case / provided",
+        "content": "जर-तर (jar-tar). See lesson Sentence using If-Then."
+      }
+    ]
   },
   {
     "id": 44,
     "title": "Conjunctions in Marathi - Part 3 After, then,As far as, As long as,As if, As though",
     "url": "https://learnmarathiwithkaushik.com/courses/conjunctions-in-marathi-part-3-after-thenas-far-as-as-long-asas-if-as-though/",
-    "content": "I went to play after I finished my study:- I finished my study then I went to play\nMarathi’s sentence is similar to the second form i.e using “then”.\nI finished my study then I went to play:- मी अभ्यास संपवला त्यानंतर खेळायला गेलो (mI abhyAs saMpavalA tyAnaMtar kheLAyalA gelo )\nI will call you then you enter on stage:- मी तुला बोलवीन त्यानंतर/मग तू स्टेज वर ये (mI tulA bolavIn tyAnaMtar/mag tU sTej var ye )"
+    "content": "Conjunctions in Marathi – Part 3",
+    "intro": "After/then, Till/Until/As long as, As far as, As if/as though. नंतर, जोपर्यंत-तोपर्यंत, जेवढे-त्याप्रमाणे, जणू.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "12) After, then – नंतर, त्यानंतर, मग",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I finished study then I went to play",
+            "मी अभ्यास संपवला त्यानंतर खेळायला गेलो",
+            "mI abhyAs saMpavalA tyAnaMtar kheLAyalA gelo"
+          ],
+          [
+            "I will call you then you enter on stage",
+            "मी तुला बोलवीन त्यानंतर/मग तू स्टेज वर ये",
+            "mI tulA bolavIn tyAnaMtar/mag tU sTej var ye"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "13) Till, Until, As long as – जोपर्यंत-तोपर्यंत",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "As long as you want me, I will stay",
+            "जोपर्यंत तुला हवे आहे, तोपर्यंत मी तुझ्याबरोबर राहीन",
+            "joparyMt tulA have Ahe, toparyaMt mI tujhyAbarobar rAhIn"
+          ],
+          [
+            "As long as you follow rules",
+            "जोपर्यंत तुम्ही नियम पाळता तोपर्यंत तुम्हाला काही अडचण येणार नाही",
+            "joparyMt tumhI niyam pALatA toparyaMt tumhAlA kAhI aDachaN yeNAr nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "14) As far as – जेवढे-त्याप्रमाणे",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "As far as I know, he is studious",
+            "जेवढे मला माहिती आहे त्याप्रमाणे तो अभ्यासू व्यक्ती आहे",
+            "jevaDhe malA mAhitI Ahe tyApramANe to abhyAsU vyaktI Ahe"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "15) As far as __ concerned – जोपर्यंत ___चा प्रश्न आहे",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "As far as India is concerned",
+            "जोपर्यंत भारताचा प्रश्न आहे, कंपनी चांगले काम करत आहे",
+            "joparyMt bhAratAchA prashn Ahe toparyaMt kaMpanI chAMgale kAm karat Ahe"
+          ],
+          [
+            "As far as literacy is concerned",
+            "जोपर्यंत साक्षरतेचा प्रश्न आहे, आपल्याला खूप मेहनत करावी लागेल",
+            "joparyMt sAkSharatechA prashn Ahe ApalyAlA khUp mehanat karAvI lAgel"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "16) As if, as though – जणू, जणू काही",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He is blaming me as if I have not tried",
+            "तो माझ्यावर असे आरोप करत आहे, जणू मी प्रयत्नच केले नाहीत",
+            "to mAjhyAvar ase Arop karat Ahe, jaNU mI prayatnach kele nAhIt"
+          ],
+          [
+            "He passed by as if she was not there",
+            "तो तिला स्मितहास्य न देता गेला, जणू ती तिथे नव्हतीच",
+            "to tilA smitahAsy na detA gelA, jaNU tI tithe navhatIch"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 45,
     "title": "Conjunctions in Marathi Part-4 As Soon as, Once,Rather Than, Instead of,So that,Whereas,Whether or not,also",
     "url": "https://learnmarathiwithkaushik.com/courses/conjunctions-in-marathi-part-4-as-soon-as-oncerather-than-instead-ofso-thatwhereaswhether-or-notalso/",
-    "content": "The suffix ल्या(lyA) is appended to past tense form of the verb and it is said twice\n.\nAs soon as he came -> तो आल्या आल्या (to AlyA AlyA) …\nAs soon as she saw -> तीने बघितल्या बघितल्या (tIne baghitalyA baghitalyA )\nAs soon as they become -> ते झाल्या झाल्या (te jhAlyA jhAlyA)\nAnother way is to append “ताच”(tAch) to the verb stem.\nAs soon as he came -> तो येताच (to yetAch)…\nAs soon as she saw -> तीने बघताच (tIne baghatAch )\nAs soon as they become -> ते होताच (te hotAch)"
+    "content": "Conjunctions in Marathi – Part 4",
+    "intro": "As soon as, Once, Rather than, Instead of, So that, Whereas, Whether, Otherwise, Also. ल्या ल्या / ताच, की, ऐवजी, जेणेकरून, उलट.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "17) As soon as – ल्या ल्या or ताच",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "As soon as he came",
+            "तो आल्या आल्या / तो येताच",
+            "to AlyA AlyA / to yetAch"
+          ],
+          [
+            "As soon as she saw",
+            "तीने बघितल्या बघितल्या / तीने बघताच",
+            "tIne baghitalyA baghitalyA / tIne baghatAch"
+          ],
+          [
+            "As soon as they become",
+            "ते झाल्या झाल्या / ते होताच",
+            "te jhAlyA jhAlyA / te hotAch"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "18) Once – की",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Let me know once he comes",
+            "तो आला की मला सांग",
+            "to AlA kI malA sAMg"
+          ],
+          [
+            "Once I see your story I will give review",
+            "मी तुझी गोष्ट बघितली की अभिप्राय देईन",
+            "mI tujhI goShT baghitalI kI abhiprAy deIn"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "19) Rather than, Instead of – ऐवजी",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Rather than surrendering soldier will accept death",
+            "शरण जाण्याऐवजी सैनिक मरण स्वीकारेल",
+            "sharaN jANyAaivajI sainik maraN svIkArel"
+          ],
+          [
+            "I will take tea rather than coffee",
+            "मी चहाच्या ऐवजी कॉफी घेईन",
+            "mI chahAchyA aivajI coffee gheIn"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "20) So that – जेणेकरून",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I will work hard so that I will win",
+            "मी परिश्रम करीन जेणेकरून मी यशस्वी होईन",
+            "mI parishram karIn jeNekarUn mI yashasvI hoIn"
+          ],
+          [
+            "We should avoid plastic so that less pollution",
+            "आपण प्लास्टिक टाळले पाहिजे जेणेकरून प्रदूषण कमी होईल",
+            "ApaN plAsTik TALale pAhije jeNekarUn pradUShaN kamI hoIl"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "21) Whereas – उलट, उलटपक्षी, प्रत्यक्षात",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He cheated me whereas I was helping him",
+            "त्याने मला फसवले उलट मी त्याला मदत करत होतो",
+            "tyAne malA phasavale ulaT mI tyAlA madat karat hoto"
+          ],
+          [
+            "Govt said prices declined whereas inflation rose",
+            "सरकारने सांगितले की भाव कमी झाले उलट महागाई वाढली",
+            "sarakArane sAMgitale kI bhAv kamI jhAle ulaT mahAgAI vADhalI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "22) Whether – का / का नाही",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I did not know whether he is going",
+            "तो जाणार आहे का मला माहित नाही",
+            "to jANAr Ahe kA malA mAhit nAhI"
+          ],
+          [
+            "She could not realize whether to speak or not",
+            "तीने बोलावे का नाही तीला कळले नाही",
+            "tIne bolAve kA nAhI tIlA kaLale nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "23) Otherwise – नाहीतर",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Do this otherwise you will not win",
+            "हे कर नाहीतर तू जिंकणार नाहीस",
+            "he kar nAhItar tU jiMkaNAr nAhIs"
+          ],
+          [
+            "He should inform me otherwise I will not know",
+            "त्याने मला लगेच कळवले पाहिजे नाहीतर मला कळणार नाही",
+            "tyAne malA lagech kaLavale nAhItar malA kaLaNAr nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "24) Also, as well – सुद्धा, ही",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I also ran",
+            "मी सुद्धा धावलो / मीही धावलो",
+            "mI suddhA dhAvalo / mIhI dhAvalo"
+          ],
+          [
+            "He will come tomorrow as well",
+            "तो उद्यासुद्धा / उद्याही येईल",
+            "to udyAsuddhA / udyAhI yeIl"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 46,
@@ -1799,7 +3677,226 @@
     "id": 55,
     "title": "Exclamations in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/exclamations-in-marathi/",
-    "content": "Exclamations are an attractive part of any language. It conveys feeling with added weight. In English, we say “Oh My God!!” , “Oh No!! ” “How beautiful” etc. The Marathi language also has many exclamations.\nThe Marathi language has many dialects and different styles of speaking based on the region in Maharashtra. Each dialect can have its special exclamations.\nBelow I have listed exclamation which is widely used in all the dialects.\nNot all Marathi exclamations can have similar words in English and vice-versa. Try to understand the example to know it better.\nTo Express surprise\n1)\nखरंच !\n( kharaMch )\nSimilar to “Really !!” in English\ne.g. Really !! I said so -> खरंच !! मी तसं बोललो (kharaMch mI tasaM bolalo )\n2)\nअरे !\n(are !) / अरेच्चा (arechchA!) / अरेच्च्या (arechchyA !)\ne.g. Hey ! When did you come ? -> अरे !/ अरेच्चा/ अरेच्च्या तुम्ही कधी आलात ( are !/ arechchA !/ arechchyA ! tumhI kadhI AlAt ? )\nTo express surprise of size\n3)\nअबब !\n( ababa !)\ne.g. How big !! -> अबब ! किती मोठा ( ababa !! kitI moThA )\nTo express pleasant feeling\n4)\nअहाहा !\n( ahAhA ! )\ne.g. nice smell -> अहाहा ! ( ahAhA ! )\nvery testy -> अहाहा ! ( ahAhA ! )\nTo express sorrow\n5)\nओहो!\n( oho ! )\ne.g. very bad -> ओहो ! वाईट झालं ( oho !! vAIT jhAlaM )\n6)\nअरे देवा!\n(are devaa ! )\nSame as “My God!” in English\ne.g. Oh my God !! Who did this -> अरे देवा ! हे कोणी केलं (are devaa ! he koNI kelM )\nTo express shock\n7)\nअरे बापरे\n(are baapare!)\ne.g. Ohh! He failed !! -> अरे बापरे ! तो नापास झाला ( are baapare ! to nApAs jhAlA )\nTo express disapproval\n8)\nछे!\n(Che!) /\nछट !\n(ChaT !)\ne.g. No! He will never do it -> छे! तो कधीही असं करणार नाही (Che! to kadhIhI asaM karaNAr nAhI )\nNo ! I do not believe -> छट! मझा नाही विश्वास (ChaT ! majhA nAhI vishvAs )\nTo express Approval\n9)\nहोय!\n(hoy !)\ne.g. Yes! I will surely come -> होय! मी नक्की येणार (hoy mI nakkI yeNAr )\n10)\nहं\n( haM )\nSame as “Hmm” in English\ne.g. Hmm! I got it -> हं! समजलं मला ते ( haM ! samajalM malA te )\nTo express appreciation\n11)\nशाब्बास!\n( shAbbAs )\nSame as “Well done!”\ne.g. Well done ! You won the match -> शाब्बास ! तू सामना जिंकलास (shAbbAs ! tU sAmanA jiMkalAs )\n12)\nअरे वा!\n(are vA !) /\nछान\n( ChAn !) /\nSame as “Good !”\ne.g. Good handwriting -> अरे वा ! / छान ! हस्ताक्षर ( are vA ! / ChAn ! hastAkShar )\n13)\nखूप छान\n( khUp ChAn )\nSame as “Very Good !”\n14)\nमस्त!\n( mast !) /\nजबरदस्त\n( jabaradast !)\nSame as “Excellent !” or “Awsome!”\nTo express pain\n15)\nअगं आई\n/\nअगं आईगं\n( agaM AI ! / agaM AIgaM! )\nSame as “Mother!” or “Oh mummy !”\ne.g. “Mummy! It is paining a lot”:- अगं आई /अगं आईगं खूप दुखतंय ( agaM AI ! / agaM AIgaM! khUp dukhataMy )\nTo express disgust\n16) शी! शीशी !! ( shI ! / shIshI ! )\nSimilar to “Yuck !!”\ne.g. Yuck ! it is looking ugly -> शी! / शीशी !! घाणेरडं दिसतंय ते ( shI ! / shIshI ! ghANeraDM disataMy te )\n17)\nthU!\n( थू !)\nLiterally sound of spitting\ne.g. I spit on your cowardice -> थू! तुमच्या भित्रेपणावर (thU ! tumachyA bhitrepaNAvar )\nTo ask to keep quiet\n18)\nशूऽऽऽ\n/\nश्श!\n(shU / shsh !!)\nExactly same as “Shh” in English\ne.g. Shhh !! Keep quiet -> शू / श्श ! शांत बसा! ( shU / shsh !! shAMt basA !! )"
+    "content": "Exclamations in Marathi",
+    "intro": "Common exclamations across Marathi dialects. Tone changes meaning.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Surprise",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Really!",
+            "खरंच!",
+            "kharaMch"
+          ],
+          [
+            "Hey! When did you come?",
+            "अरे! तुम्ही कधी आलात?",
+            "are! tumhI kadhI AlAt?"
+          ],
+          [
+            "How big!",
+            "अबब! किती मोठा",
+            "ababa! kitI moThA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Pleasant / Sorrow",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Nice smell / Very tasty",
+            "अहाहा!",
+            "ahAhA!"
+          ],
+          [
+            "Very bad",
+            "ओहो! वाईट झालं",
+            "oho! vAIT jhAlaM"
+          ],
+          [
+            "Oh my God! Who did this?",
+            "अरे देवा! हे कोणी केलं",
+            "are devaa! he koNI kelM"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Shock / Disapproval",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Oh! He failed!",
+            "अरे बापरे! तो नापास झाला",
+            "are baapare! to nApAs jhAlA"
+          ],
+          [
+            "No! He will never do it",
+            "छे! तो कधीही असं करणार नाही",
+            "Che! to kadhIhI asaM karaNAr nAhI"
+          ],
+          [
+            "No! I do not believe",
+            "छट! मझा नाही विश्वास",
+            "ChaT! majhA nAhI vishvAs"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Approval / Appreciation",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Yes! I will surely come",
+            "होय! मी नक्की येणार",
+            "hoy! mI nakkI yeNAr"
+          ],
+          [
+            "Hmm! I got it",
+            "हं! समजलं मला ते",
+            "haM! samajalM malA te"
+          ],
+          [
+            "Well done! You won",
+            "शाब्बास! तू सामना जिंकलास",
+            "shAbbAs! tU sAmanA jiMkalAs"
+          ],
+          [
+            "Good handwriting",
+            "अरे वा! / छान! हस्ताक्षर",
+            "are vA! / ChAn! hastAkShar"
+          ],
+          [
+            "Very Good",
+            "खूप छान",
+            "khUp ChAn"
+          ],
+          [
+            "Excellent!",
+            "मस्त! / जबरदस्त",
+            "mast! / jabaradast"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Pain / Disgust",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Mummy! It is paining",
+            "अगं आई! खूप दुखतंय",
+            "agaM AI! khUp dukhataMy"
+          ],
+          [
+            "Yuck! It looks ugly",
+            "शी! घाणेरडं दिसतंय ते",
+            "shI! ghANeraDM disataMy te"
+          ],
+          [
+            "I spit on your cowardice",
+            "थू! तुमच्या भित्रेपणावर",
+            "thU! tumachyA bhitrepaNAvar"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Keep quiet",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Shhh! Keep quiet",
+            "शू / श्श! शांत बसा!",
+            "shU / shsh! shAMt basA!"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Stress on adjective",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "How well you danced!",
+            "किती छान नाचलास तू!",
+            "kitI ChAn nAchalAs tU!"
+          ],
+          [
+            "What a fool he is!",
+            "काय मूर्ख आहे तो!",
+            "kAy mUrkha Ahe to!"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Women's exclamations",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Oh! What happened then?",
+            "अय्या! मग काय झालं?",
+            "ayyA! mag kAy jhAlaM?"
+          ],
+          [
+            "Oh! When did you come?",
+            "अगं बाई! तुम्ही कधी आलात?",
+            "agaM bAI! tumhI kadhI AlAt?"
+          ],
+          [
+            "Someone may see it! (blush)",
+            "इश्श्य कोणीतरी बघेल ना",
+            "ishshya koNItarI baghel nA"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 56,
@@ -2147,7 +4244,199 @@
     "id": 76,
     "title": "Generalizing words - somewhere somehow anything anybody etc.तरी(tarI) -ही(hI)",
     "url": "https://learnmarathiwithkaushik.com/courses/generalizing-words-somewhere-somehow-anything-anybody-etc-%e0%a4%a4%e0%a4%b0%e0%a5%80tari-%e0%a4%b9%e0%a5%80hi-2/",
-    "content": "Consider the conversation\n1)किसने यह गंदगी मचायी (kisane yah gaMdagI machAyI )\nकिसिने तो ( kisine to )\nतुम यह कैसे करोगे ( tum yah kaise karoge )\nकैसे तो, लेकीन करूंगा (kaise to, lekIn karUMgA )\nWhen we are not sure about the thing we say किसिने तो, कैसे तो, कोई भी , कहीं भी etc.\nIn Marathi also such words are present.\nIn words like किसिने तो, कैसे तो we prefixed तो to words like किसिने,कैसे etc. For such phrases in Marathi, we append तरी(tarI).\nIn words like कोई भी , कहीं भी we prefixed भी to words like कोई, कहीं etc. For such phrases in Marathi, we append ही(hI).\nBelow table lists such words. While adding these prefixes there is little change in the main word.\nकौन (kaun)\nकोण (koN)\nकोई तो (koI to)\nकोणीतरी (koNItarI)\nकोई भी (koI bhI)\nकोणीही (koNIhI)\nकब (kab)\nकधी (kadhI)\nकभी तो (kabhI to)\nकधीतरी (kadhItarI)\nकभी भी (kabhI bhI)\nकधीही (kadhIhI)\nकब (kab)\nकेव्हा (kevhA)\nकभी तो (kabhI to)\nकेव्हातरी (kevhAtarI)\nकभी भी (kabhI bhI)\nकेव्हाही\nकहां (kahAM)\nकुठे (kuThe)\nकहीं तो (kahIM to)\nकुठेतरी (kuThetarI)\nकहीं भी (kahIM bhI)\nकुठेही (kuThehI)\nक्या (kyA)\nकाय (kAy)\nकुछ तो (kuCh to)\nकाहीतरी (kAhItarI)\nकुछ भी (kuCh bhI)\nकाहीही (kAhIhI)\nकितने (kitane)\nकिती (kitI)\nकितने तो (kitane to)\nकितीतरी (kitItarI)\nकितने भी (kitane bhI)\nकितीही (kitIhI)\nकैसा (kaisA)\nकसा (kasA)\nकिसी तरह तो (kisI tarah to)\nकसातरी (kasAtarI)\nकैसा भी (kaisA bhI)\nकसाही (kasAhI)\nकौनसा (kaunasA)\nकुठला (kuThalA)\nकौनसा तो (kaunasa to)\nकुठलातरी (kuThalAtarI)\nकौनसा भी (kaunasA bhI)\nकुठलाही (kuThalAhI)\nकौनसा (kaunasA)\nकोणता (koNatA)\nकौनसा तो (kaunasa to)\nकोणतातरी (koNatAtarI)\nकौनसा भी (kaunasA bhI)\nकोणता\nTo use a preposition with these words, the preposition is appended to the main word and then तरी(tarI) or ही(hI) is used. Same as in Hindi.\ne.g.\nकोई तो (koI to) -> कोणीतरी (koNItarI)\nकिसीको तो (kisIko to)-> कोणाला तरी (koNAlA tarI)\nकौनसा तो (kaunasa to)-> कुठलातरी (kuThalAtarI)\nकौनसे बक्से में ( kaunase bakse meM )\nकुठल्या खोक्यात (kuThalyA khokyAt\nकोई तो बक्से में (koI to bakse meM )\nकुठल्या तरी खोक्यात (kuThalyA tarI khokyAt )"
+    "content": "Generalizing words – somewhere somehow anything anybody",
+    "intro": "तरी(tarI) = some (someone, somehow); ही(hI) = any (anyone, anyhow). तरी as separate word = still/at least. ही = also/even.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Indefinite pronouns",
+        "headers": [
+          "Base",
+          "Some (तरी)",
+          "Any (ही)"
+        ],
+        "rows": [
+          [
+            "कोण (who)",
+            "कोणीतरी (someone)",
+            "कोणीही (anyone)"
+          ],
+          [
+            "कधी (when)",
+            "कधीतरी (sometime)",
+            "कधीही (anytime)"
+          ],
+          [
+            "केव्हा (when)",
+            "केव्हातरी (sometime)",
+            "केव्हाही (anytime)"
+          ],
+          [
+            "कुठे (where)",
+            "कुठेतरी (somewhere)",
+            "कुठेही (anywhere)"
+          ],
+          [
+            "काय (what)",
+            "काहीतरी (something)",
+            "काहीही (anything)"
+          ],
+          [
+            "किती (how many)",
+            "कितीतरी (many)",
+            "कितीही (any)"
+          ],
+          [
+            "कसा (how)",
+            "कसातरी (somehow)",
+            "कसाही (anyhow)"
+          ],
+          [
+            "कुठला (which)",
+            "कुठलातरी (some)",
+            "कुठलाही (any)"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Full-sentence examples",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Call someone",
+            "कोणाला तरी बोलव",
+            "koNAlA tarI bolav"
+          ],
+          [
+            "Call anyone",
+            "कोणालाही बोलव",
+            "koNAlAhI bolav"
+          ],
+          [
+            "I reached there somehow",
+            "मी तिकडे कसातरी पोचलो",
+            "mI tikaDe kasAtarI pochalo"
+          ],
+          [
+            "I will reach there anyhow",
+            "मी तिकडे कसाही पोचेन",
+            "mI tikaDe kasAhI pochen"
+          ],
+          [
+            "He has gone somewhere",
+            "तो सकाळपासून कुठेतरी गेला आहे",
+            "to sakALapAsUn kuThetarI gelA Ahe"
+          ],
+          [
+            "He is not ready to go anywhere",
+            "तो कुठेही जायला तयार नाही",
+            "to kuThehI jAyalA tayAr nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "तरी = still / at least",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I told him, still he ate it",
+            "मी त्याला सांगितले तरी त्याने हे खाल्ले",
+            "mI tyAlA sAMgitale tarI tyAne he khAlle"
+          ],
+          [
+            "At least he came",
+            "तो तरी आला",
+            "to tarI AlA"
+          ],
+          [
+            "Finish work at least by tomorrow",
+            "उद्यापर्यंत तरी काम संपव",
+            "udyAparyMt tarI kAm saMpav"
+          ],
+          [
+            "You should have told me at least",
+            "तू मला तरी सांगायला हवे होतेस",
+            "tU malA tarI saMgAyalA have hotes"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "ही = also / even",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I will also come",
+            "मीही येईन",
+            "mIhI yeIn"
+          ],
+          [
+            "This program is tomorrow also",
+            "हा कार्यक्रम उद्याही आहे",
+            "hA kAryakram udyAhI Ahe"
+          ],
+          [
+            "He did not even tell it to me",
+            "त्याने मला हे सांगितलेही नाही",
+            "tyAne malA he sAMgitalehI nAhI"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "heading": "Indefinite Pronouns with Every",
+        "content": "प्रत्येक (pratyek) = every. Use with noun."
+      },
+      {
+        "type": "table",
+        "heading": "Every – examples",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "Everybody / Everyone",
+            "प्रत्येक जण",
+            "pratyek jaN"
+          ],
+          [
+            "Every time",
+            "प्रत्येक वेळी",
+            "pratyek veLI"
+          ],
+          [
+            "Everywhere",
+            "प्रत्येक ठिकाणी / सगळीकडे / सर्वत्र",
+            "pratyek ThikANI / sagaLIkaDe / sarvatr"
+          ],
+          [
+            "Everything",
+            "प्रत्येक गोष्ट",
+            "pratyek goShT"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 77,
@@ -2467,13 +4756,514 @@
     "id": 83,
     "title": "Idioms and Phrases in Marathi / different sentence formation in Marathi Part2",
     "url": "https://learnmarathiwithkaushik.com/courses/idioms-and-phrases-in-marathi-different-sentence-formation-in-marathi-part2/",
-    "content": "For first 60 Idioms refer\nIdioms and Phrases in Marathi / different sentence formation in Marathi\n61) कंगोरे उलगडणे (kaMgore ulagaDaNe)\nकंगोरा(kaMgorA) means curve, round edge,\nAnd the idiom means to show the different aspects of something or different shades of personalities.\nThe documentary included narration about the personal life of Mr.X and it explored unknown sides of his personalities ->… Xच्या व्यक्तिमत्त्वाचे कंगोरे उलगडले (chyA vyaktimattvAche kaMgore ulagaDale)\n62) मानगुटीवर बसणे (mAnaguTIvar basaNe)\nLiterally it means “to sit on neck/shoulders”. It means to follow up & constantly pressurize to do something.\nसरकार कमी पडेल तिथे माझा पक्ष सरकारच्या मानगुटीवर बसून राज्याचा विकास करेल (sarakAr kamI paDel tithe mAjhA pakSh sarakArachyA mAnaguTIvar basUn rAjyAchA vikAs karel) –> Wherever government is not fulfilling responsibilities, my party will follow up and force it to develop state\n63) घरोघरी मातीच्या चुली (gharogharI mAtIchyA chulI)\n-> Literally, every home has a clay stove. It implies that every home has same story\n64) पाणी मुरणे (pANI muraNe)\n-> Literally it means water is seeping through. Idiomatically it means there is something fishy, something doubtful.\n65) आधीच हौस अन्‌ त्यात पडला पाऊस (AdhIch haus an tyAt paDalA pAUs)\n->\nLiterally “already enthusiastic, and when it rains”. Here a lazy/uninterested person is sarcastically called ‘enthusiastic’. Something happens to him that further dampens his spirit to do any action. So now there is no chance that he will act.\nAnother proverb with the same meaning is “आधीच उल्हास त्यात फाल्गुन मास(AdhIch ulhAs tyAt phAlgun mAs)”\n66) शिक्कामोर्तब करणे (shikkAmortab karaNe)\n-> To approve/confirm formally\n67) दम भरणे (dam bharaNe)\n-> to threaten\n68) मोडकळीस आणणे (moDakaLIs ANaNe)\n-> To cause destruction; To destabilize\n69) पडसाद उमटणे (paDasAd umaTaNe)\n-> Reactions to be seen; emergence of after-effects\nControversial remarks by religious leader caused stir/reactions in social media\nधार्मिक नेत्याच्या वादग्रस्त विधानाचे पडसाद सोशल मिडियावर उमटले\n(dhArmika netyAchyA vAdagrast vidhaanaache paDasAd soshal miDiyAvar umaTale)\n70) पायमल्ली करणे/होणे (pAyamallI karaNe/hoNe)\n-> to override; to breach; to violate.\nThese government decisions are breaking human rights -> सरकारच्या या नियमामुळे मानवाधिकारांची पायमल्ली होते आहे\n(sarakArachyA yA niyamAmuLe mAnavAdhikArAMchI pAyamallI hote Ahe)\n71) टेप लावणे (Tepa lAvaNe)\n-> Repeating the same thing again and again like playing recorded tape/cassette.\n72) तिलांजली देणे (tilAMjalI deNe)\n-> To renounce, To abandon, To leave (principles, guidelines, morals, etc.)\nतिलांजली (tilAMjalI) is a Hindu ritual to pay homage to departed soul kind of final goodby to someone.\nHas the ruling party renounced their promises after coming to power?\nसत्ताधारी पक्षाने सत्तेत आल्यावर आपल्या वचनांना तिलांजली दिली आहे का?\n(sattAdhArI pakShAne sattet AlyAvar ApalyA vachanAMnA tilAMjalI dilI Ahe kA?)\n73) भाग पाडणे (bhAg pADaNe)\n-> to make parts. भाग (bhAg) means part.\nBut when this phrase is used along with other verbs it means to directly/ or indirectly compel/force to do that action.\nConstruct is\nverb+आवयास(AvayAs) भाग पाडणे (bhAg pADaNe)\nverb+आयला(AyalA) भाग पाडणे (bhAg pADaNe)\nHe force me to eat rice -> त्याने मला भात खायला भाग पाडले (tyAne malA bhAt khAyalA bhAg pADale)\nDespite warnings mob did not disperse so police had to fire ->\nसूचना देऊनही गर्दी पांगली नाही म्हणून पोलीसांना गोळीबार करणे भाग पडले (sUchanA deUnahI gardI pAMgalI nAhI mhaNUn polIsAMnA goLIbAr karaNe bhAg paDale)\n74) जिभेला हाड नसणे (jibhelA hAD nasaNe)\n-> To speak something very inappropriate to the moment, as if the speaker has no control on his tongue.\n75) कांगावा करणे (kAMgAvA karaNe)\n-> To pretend something & create a false picture… e.g. to pretend to be innocent; to pretend that another person has done mistake etc.\n76) कोंडी करणे (koMDI karaNe)\n-> To trap into a difficult situation\n77) अवाक्षर न काढणे (avAkShar n kADhaNe)\n-> To not utter a single word\n78) ठाव घेणे (ThAv gheNe)\n-> To take control ; To overpower\n79) ओशाळणे (oshALaNe)\n-> To feel embarrassed, To feel awkward about something did/said wrong\n80) गरळ ओकणे (garaL okaNe)\n-> To spew venom\n81) तळी उचलणे (taLI uchalaNe)\n-> To support\n82) गूढ उकलणे (gUDh ukalaNe)\n-> To uncover a mystery\n83) टोला हाणणे (TolA hANaNe)\n-> To strike\n84) पेचात पडणे (pechAt paDaNe)\n-> To be puzzled, To be in a dilemma\n85) धुव्वा उडवणे (dhuvvA uDavaNe)\n-> to defeat opponent/enemy completely. to give whitewash,\n86) गय करणे (gay karaNe)\n-> To pardon, To forgive"
+    "content": "Idioms and Phrases in Marathi Part 2",
+    "intro": "Idioms 61-86. For 1-60 see Part 1.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Idioms 61-86",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "To show different aspects",
+            "कंगोरे उलगडणे",
+            "kaMgore ulagaDaNe"
+          ],
+          [
+            "To follow up & pressurize",
+            "मानगुटीवर बसणे",
+            "mAnaguTIvar basaNe"
+          ],
+          [
+            "Every home same story",
+            "घरोघरी मातीच्या चुली",
+            "gharogharI mAtIchyA chulI"
+          ],
+          [
+            "Something fishy",
+            "पाणी मुरणे",
+            "pANI muraNe"
+          ],
+          [
+            "Dampen spirit",
+            "आधीच हौस अन् त्यात पडला पाऊस",
+            "AdhIch haus an tyAt paDalA pAUs"
+          ],
+          [
+            "To approve formally",
+            "शिक्कामोर्तब करणे",
+            "shikkAmortab karaNe"
+          ],
+          [
+            "To threaten",
+            "दम भरणे",
+            "dam bharaNe"
+          ],
+          [
+            "To cause destruction",
+            "मोडकळीस आणणे",
+            "moDakaLIs ANaNe"
+          ],
+          [
+            "After-effects",
+            "पडसाद उमटणे",
+            "paDasAd umaTaNe"
+          ],
+          [
+            "To override/violate",
+            "पायमल्ली करणे/होणे",
+            "pAyamallI karaNe/hoNe"
+          ],
+          [
+            "Repeat like tape",
+            "टेप लावणे",
+            "Tepa lAvaNe"
+          ],
+          [
+            "To renounce",
+            "तिलांजली देणे",
+            "tilAMjalI deNe"
+          ],
+          [
+            "To force to do",
+            "भाग पाडणे",
+            "bhAg pADaNe"
+          ],
+          [
+            "No control on tongue",
+            "जिभेला हाड नसणे",
+            "jibhelA hAD nasaNe"
+          ],
+          [
+            "To pretend",
+            "कांगावा करणे",
+            "kAMgAvA karaNe"
+          ],
+          [
+            "To trap",
+            "कोंडी करणे",
+            "koMDI karaNe"
+          ],
+          [
+            "Not utter a word",
+            "अवाक्षर न काढणे",
+            "avAkShar n kADhaNe"
+          ],
+          [
+            "To take control",
+            "ठाव घेणे",
+            "ThAv gheNe"
+          ],
+          [
+            "To feel embarrassed",
+            "ओशाळणे",
+            "oshALaNe"
+          ],
+          [
+            "To spew venom",
+            "गरळ ओकणे",
+            "garaL okaNe"
+          ],
+          [
+            "To support",
+            "तळी उचलणे",
+            "taLI uchalaNe"
+          ],
+          [
+            "To uncover mystery",
+            "गूढ उकलणे",
+            "gUDh ukalaNe"
+          ],
+          [
+            "To strike",
+            "टोला हाणणे",
+            "TolA hANaNe"
+          ],
+          [
+            "To be puzzled",
+            "पेचात पडणे",
+            "pechAt paDaNe"
+          ],
+          [
+            "To defeat completely",
+            "धुव्वा उडवणे",
+            "dhuvvA uDavaNe"
+          ],
+          [
+            "To pardon",
+            "गय करणे",
+            "gay karaNe"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 84,
     "title": "Idioms and Phrases in Marathi / different sentence formation in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/idioms-and-phrases-in-marathi-different-sentence-formation-in-marathi/",
-    "content": "Like any language, Marathi has many phrases. Learning phrases, idioms, sayings is an advanced part of the language learning process. Dictionaries & Thesaurus are ideal resources to learn them. So it is not possible to replace them with one or two blog posts. But it is surely possible to introduce to phrases.\nSo in this lesson, I am enlisting a few phrases & peculiar sentences in which where sentence formation is different in Marathi compared to English. These were either discussed\non facebook group\nor asked me over mail.\nI will keep updating this lesson as and when I found a good candidate.\nPlease note that phrases are not translated literally their equivalents are given.\nIt is assumed that the reader knows basic grammar details about nouns, pronouns, gender, tense, etc. So s/he can take a clue from meaning and make different sentences.\n1) To feel sleepy\nThe phrase “to feel sleepy” is said differently in Marathi. “X is feeling sleepy” is translated as if saying “Sleep is coming to X”.\nI am feeling sleepy -> Sleep is coming to me -> मला झोप येते आहे (malA jhop yete Ahe)\n2) नाक खुपसणे (nAk khupasaNe) / लुडबुड करणे (luDabuD karaNe)\n->To meddle / To poke nose\n3) जोखाडातून बाहेर येणे (jokahDAtUn bAher yeNe)\n-> To relieve from the burden\n4) सावट येणे (sAvaT yeNE)\n-> To come under evil\n5) झपाट्याने वाढणे (jhapATyAne vADhaNe)\n-> To grow by leaps and bounds\n6) जीवावर बेतणे (jIvAvar betaNe)\n-> To turn out to be fatal\nरेल्वेच्या टपावर चढणे जीवावर बेतले (relvechyA TapAvar chaDhaNe jIvAvar betale) = Climbing the roof of the train turned out fata\nl\n7) नवऱ्याने बायकोला टाकणे (navarxyAne bAyakolA TAkaNe)\n-> Husband to leave is wife or alienate from the relationship\n8) बाचाबाची होणे (bAchAbAchI hoNe)\n-> A verbal fight to take place\n9) टप्पा गाठणे (TappA gAThaNe)\n-> To achieve a level/benchmark\n10) सूर गवसणे (sUr gavasaNe )\n-> to find form (as in cricket)\n11) सर करणे (sar karaNe)\n-> To conquer\n12) आवर घालणे (Avar ghAlaNe)\n-> To control\n13) चारी मुंड्या चित करणे (chArI muMDyA chit karaNe)\n-> To give whitewash to rival; To defeat (an opponent) easily by winning every game, point, etc.\n14) रग उतरवणे (rag utaravaNe)\n-> Breaking one’s ego or self-boasting by defeating him\n15) __ची समस्या भेडसावणे (samasyA bheDasAvaNe)\n-> To face problem of __\n16) मुकाट्याने ऐकणे (mukATyAne aikaNe)\n-> To agree on something without saying a word\n17) संपुष्टात येणे (saMpuShTAt yeNe )\n-> To come to an end\n18) रंगू लागणे (raMgU lAgaNe)\n-> To become more interesting\ne.g. कौशिक आल्यावर गप्पा रंगू लागल्या -> After Kaushik joined our chat become more interesting\n19) __ची हमी देणे/घेणे (hamI deNe/gheNe)\n-> To give/take assurance of ___\n20) सुकर होणे (sukar hoNe)\n-> To become easy\n21) डच्चू देणे (DacchU deNe)\n-> To omit, To remove from an existing group)\n22) घाम गाळणे (ghAm gALaNe)\n-> To work very hard\n23) सापळ्यात अडकणे(sApaLyAt aDakaNe)\n-> To fall in trap\n24) थैमान घालणे(thaimAn ghAlaNe)\n-> To throw tantrum, To cause widespread destruction.\ne.g. प्लेगने देशभर थैमान घातले -> Plague caused causalities all over the country\n25) दणका देणे (daNakA deNe)\n-> To hit very strongly\n26) दांडी मारणे(dAMDI mAraNe)\n-> To bunk (class, office)\n27) वेठीस धरणे(veThIs dharaNe)\n-> To force someone to be in an uncomfortable situation\n28) चोंबडेपणा/चोमडेपणा करणे\n-> To be meddlesome/nosy, To share ones secret with others\n29) पितळ उघडे पडणे (pitaL ughaDe paDaNe)\n-> Reality or hidden motives of someone getting exposed\n30) काटा काढणे (kATA kADhaNe)\n-> To remove an obstacle that is stopping someone from wrongdoing.\n31) काट्याने काटा काढणे (kATyAne kATA kADhaNe)\n-> To do away with something/someone using other things/person of the same type.\ne.g. पोलिसांनी ए-टोळिच्या लोकांच्या मदतीने ब-टोळीला संपवले. काट्याने काटा काढला -> Police took help of gang-A and finished gang-B\n32) पातळी घसरणे(pAtaLI ghasaraNe)\n-> To degrade\n33) खडाजंगी उडणे (khaDAjaMgI uDaNe)\n-> high tempered verbal clashing\n34) अब्रूची लक्तरे वेशीवर टांगणे (abrUchI laktare veshIvar TAMgaNe)\n-> To defame publicly\n35) थरकाप उडवणे (tharakAp uDavaNe)\n-> To frighten so as to cause shivering\n36) धडपड करणे(dhaDapaD karaNe)\n-> To try, To struggle\n37) अंगावर काटा येणे(aMgAvar kATA yeNe)\n-> Goose bumping\n38) गवसणी घालणे (gavasaNI ghAlaNe)\n-> To embrace\nयशाला गवसणी घालणे (yashAlA gavasaNI ghAlaNe) ->to succeed/accomplish something.\nआकाशाला गवसणी घालणे (AkAshAlA gavasaNI ghAlaNe) = to achieve something that is really very difficult or almost impossible to.\n39)कोंबडा आरवणे(koMbaDA AravaNe)\n-> Cock crows in morning. Beginning of dawn\n40) बोहल्यावर चढणे(bohalyAvar chaDhaNe)\n-> To get married\n41)लंपास करणे (laMpAs karaNe)\n-> To steal\n42) खूळ लागणे (khUL lAgaNe)\n-> To behave a like a crazy/fanatic\n43) काळजी (kALajI)\n-> Worry\n__ची काळजी वाटणे (kALajI vATaNe) -> To worry / To worry about\nकाळजी घेणे (kALajI gheNe) -> To take care\nमाझ्या तब्येतीची काळजी करू नकोस, तुझ्या अभ्यासाची काळजी घे (mAjhyA tabyetIchI kALajI karU nakos, tujhyA abhyAsAchI kALajI ghe)\nDo not worry about my health, take care of your studies\n44) तोंडाला पाणी सुटणे (toMDAlA pANI suTaNe)\n-> Mouth to start watering\n45) इंगा दाखवणे (iMgA dAkhavaNe)\n-> to show strength by teaching a proper lesson to whoever messes with you\n46) कुणकुण लागणे (kuNakuN lAgaNe )\n-> To get a hint of something happening secretly. In Hindi भनक लगना (bhanak laganA)\n47) कंबरडे मोडणे\n-> “कंबरडे” is slang word for waist. So it literally means break one waist. In short, make some one disabled to carry out activity. e.g.\nमाझ्या सैनिकांनी शत्रू सैन्याचे कंबरडे मोडले (mAjhyA sainikAMnI shatrU sainyAche kaMbaraDe moDale)\nMy soldiers devastated army of enemy\n48) कूस बदलणे (kUs badalaNe)\n-> While sleeping on a side to turn/change from one side to other.\nIn Hindi करवट बदलना(karavaT badalanA)\n49) गंडा घालणे (gaMDA ghAlaNe)\n-> To cheat\n50) भुरळ घालणे / भुरळ पाडणे (bhuraL ghAlaNe / bhuraL pADaNe)\n-> To enchant / To charm\nThe beauty of Indian seashore enchanted me -> भारताच्या समुद्रकिनाऱ्याच्या सौंदर्याने मला भुरळ पाडली/घातली (bhAratAchyA samudrakinArxyAchyA sauMdaryAne malA bhuraL pADalI/ghAtalI)\n51) छडा लावणे (ChaDA lAvaNe)\n-> To find out the root cause\n52) केसाला धक्का लागणे (kesAlA dhakkA lAgaNe)\n-> To get trifle harm\nमाझ्या मुलाच्या केसाला जरी धक्का लागला तरी मी तुझा जीव घेईन (mAjhyA mulAchyA kesAlA jarI dhakkA lAgalA tarI mI tujhA jIv gheIn) -> If my son is hurt even a bit, I will kill you.\n53) शिवधनुष्य पेलणे (shivadhanuShy pelaNe)\n-> To carry out gigantic responsibility.\nशिवधनुष्य(shivadhanuShy) is name of Hindu mythological bow of Lord Shiva. It beyond anyone’s capacity to handle this this bow.\n54) अक्कल पाजळणे (akkal pAjaLaNe)\n-> To try to be over smart, To give opinion/suggestion about things in which one is not expert\n55) पोटात गोळा येणे (poTAt goLA yeNe)\n-> To get/have butterflies in your stomach, To be scared of something\n56) दणकून आपटणे (daNakUn ApaTaNe)\n-> To fall flat, To fail badly\nDespite his heavy propaganda, he failed in elections badly. -> भरपूर प्रचार करूनही तो निवडणुकीत दणकून आपटला (bharapUr prachAr karUnahI to nivaDaNukIt daNakUn ApaTalA)\n57) गृहित धरणे (gRuhita dharaNe)\n-> To assume. To take for granted.\n58) ___चा कळस (chA kaLas)\n-> height of ___\nHeight of nonsense -> आचरटपणाचा कळस (AcharaTapaNAchA kaLas)\n59) लोटांगण घालणे (loTAMgaN ghAlaNe)\n-> To prostrate\n60) टोकाचे पाऊल उचलणे (TokAche pAUl uchalaNe)\n-> To take extreme steps."
+    "content": "Idioms and Phrases in Marathi",
+    "intro": "Phrases where Marathi sentence formation differs from English. Equivalents given, not literal translations.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Idioms 1-10",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "To feel sleepy",
+            "मला झोप येते आहे (Sleep is coming to me)",
+            "malA jhop yete Ahe"
+          ],
+          [
+            "To meddle / poke nose",
+            "नाक खुपसणे / लुडबुड करणे",
+            "nAk khupasaNe / luDabuD karaNe"
+          ],
+          [
+            "To relieve from burden",
+            "जोखाडातून बाहेर येणे",
+            "jokahDAtUn bAher yeNe"
+          ],
+          [
+            "To come under evil",
+            "सावट येणे",
+            "sAvaT yeNe"
+          ],
+          [
+            "To grow by leaps and bounds",
+            "झपाट्याने वाढणे",
+            "jhapATyAne vADhaNe"
+          ],
+          [
+            "To turn out fatal",
+            "जीवावर बेतणे",
+            "jIvAvar betaNe"
+          ],
+          [
+            "Husband to leave wife",
+            "नवऱ्याने बायकोला टाकणे",
+            "navarxyAne bAyakolA TAkaNe"
+          ],
+          [
+            "Verbal fight",
+            "बाचाबाची होणे",
+            "bAchAbAchI hoNe"
+          ],
+          [
+            "To achieve level",
+            "टप्पा गाठणे",
+            "TappA gAThaNe"
+          ],
+          [
+            "To find form (cricket)",
+            "सूर गवसणे",
+            "sUr gavasaNe"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Idioms 11-20",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "To conquer",
+            "सर करणे",
+            "sar karaNe"
+          ],
+          [
+            "To control",
+            "आवर घालणे",
+            "Avar ghAlaNe"
+          ],
+          [
+            "To give whitewash",
+            "चारी मुंड्या चित करणे",
+            "chArI muMDyA chit karaNe"
+          ],
+          [
+            "Break one's ego",
+            "रग उतरवणे",
+            "rag utaravaNe"
+          ],
+          [
+            "To face problem",
+            "__ची समस्या भेडसावणे",
+            "samasyA bheDasAvaNe"
+          ],
+          [
+            "To agree silently",
+            "मुकाट्याने ऐकणे",
+            "mukATyAne aikaNe"
+          ],
+          [
+            "To come to end",
+            "संपुष्टात येणे",
+            "saMpuShTAt yeNe"
+          ],
+          [
+            "To become interesting",
+            "रंगू लागणे",
+            "raMgU lAgaNe"
+          ],
+          [
+            "To give/take assurance",
+            "__ची हमी देणे/घेणे",
+            "hamI deNe/gheNe"
+          ],
+          [
+            "To become easy",
+            "सुकर होणे",
+            "sukar hoNe"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Idioms 21-40",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "To omit",
+            "डच्चू देणे",
+            "DacchU deNe"
+          ],
+          [
+            "To work very hard",
+            "घाम गाळणे",
+            "ghAm gALaNe"
+          ],
+          [
+            "To fall in trap",
+            "सापळ्यात अडकणे",
+            "sApaLyAt aDakaNe"
+          ],
+          [
+            "To throw tantrum",
+            "थैमान घालणे",
+            "thaimAn ghAlaNe"
+          ],
+          [
+            "To hit strongly",
+            "दणका देणे",
+            "daNakA deNe"
+          ],
+          [
+            "To bunk",
+            "दांडी मारणे",
+            "dAMDI mAraNe"
+          ],
+          [
+            "To force",
+            "वेठीस धरणे",
+            "veThIs dharaNe"
+          ],
+          [
+            "To be meddlesome",
+            "चोंबडेपणा करणे",
+            "choMbaDepaNA karaNe"
+          ],
+          [
+            "Reality exposed",
+            "पितळ उघडे पडणे",
+            "pitaL ughaDe paDaNe"
+          ],
+          [
+            "To remove obstacle",
+            "काटा काढणे",
+            "kATA kADhaNe"
+          ],
+          [
+            "To use same against same",
+            "काट्याने काटा काढणे",
+            "kATyAne kATA kADhaNe"
+          ],
+          [
+            "To degrade",
+            "पातळी घसरणे",
+            "pAtaLI ghasaraNe"
+          ],
+          [
+            "Verbal clashing",
+            "खडाजंगी उडणे",
+            "khaDAjaMgI uDaNe"
+          ],
+          [
+            "To defame publicly",
+            "अब्रूची लक्तरे वेशीवर टांगणे",
+            "abrUchI laktare veshIvar TAMgaNe"
+          ],
+          [
+            "To frighten",
+            "थरकाप उडवणे",
+            "tharakAp uDavaNe"
+          ],
+          [
+            "To try/struggle",
+            "धडपड करणे",
+            "dhaDapaD karaNe"
+          ],
+          [
+            "Goose bumps",
+            "अंगावर काटा येणे",
+            "aMgAvar kATA yeNe"
+          ],
+          [
+            "To embrace",
+            "गवसणी घालणे",
+            "gavasaNI ghAlaNe"
+          ],
+          [
+            "Cock crows",
+            "कोंबडा आरवणे",
+            "koMbaDA AravaNe"
+          ],
+          [
+            "To get married",
+            "बोहल्यावर चढणे",
+            "bohalyAvar chaDhaNe"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Idioms 41-60",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "To steal",
+            "लंपास करणे",
+            "laMpAs karaNe"
+          ],
+          [
+            "To behave crazy",
+            "खूळ लागणे",
+            "khUL lAgaNe"
+          ],
+          [
+            "To worry",
+            "__ची काळजी वाटणे",
+            "kALajI vATaNe"
+          ],
+          [
+            "To take care",
+            "काळजी घेणे",
+            "kALajI gheNe"
+          ],
+          [
+            "Mouth watering",
+            "तोंडाला पाणी सुटणे",
+            "toMDAlA pANI suTaNe"
+          ],
+          [
+            "To show strength",
+            "इंगा दाखवणे",
+            "iMgA dAkhavaNe"
+          ],
+          [
+            "To get hint",
+            "कुणकुण लागणे",
+            "kuNakuN lAgaNe"
+          ],
+          [
+            "To devastate",
+            "कंबरडे मोडणे",
+            "kaMbaraDe moDaNe"
+          ],
+          [
+            "To turn in sleep",
+            "कूस बदलणे",
+            "kUs badalaNe"
+          ],
+          [
+            "To cheat",
+            "गंडा घालणे",
+            "gaMDA ghAlaNe"
+          ],
+          [
+            "To enchant",
+            "भुरळ घालणे/पाडणे",
+            "bhuraL ghAlaNe/pADaNe"
+          ],
+          [
+            "To find root cause",
+            "छडा लावणे",
+            "ChaDA lAvaNe"
+          ],
+          [
+            "Trifle harm",
+            "केसाला धक्का लागणे",
+            "kesAlA dhakkA lAgaNe"
+          ],
+          [
+            "Gigantic responsibility",
+            "शिवधनुष्य पेलणे",
+            "shivadhanuShy pelaNe"
+          ],
+          [
+            "To be over smart",
+            "अक्कल पाजळणे",
+            "akkal pAjaLaNe"
+          ],
+          [
+            "Butterflies in stomach",
+            "पोटात गोळा येणे",
+            "poTAt goLA yeNe"
+          ],
+          [
+            "To fail badly",
+            "दणकून आपटणे",
+            "daNakUn ApaTaNe"
+          ],
+          [
+            "To assume",
+            "गृहित धरणे",
+            "gRuhita dharaNe"
+          ],
+          [
+            "Height of ___",
+            "___चा कळस",
+            "chA kaLas"
+          ],
+          [
+            "To prostrate",
+            "लोटांगण घालणे",
+            "loTAMgaN ghAlaNe"
+          ],
+          [
+            "Extreme steps",
+            "टोकाचे पाऊल उचलणे",
+            "TokAche pAUl uchalaNe"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 85,
@@ -2914,7 +5704,66 @@
     "id": 102,
     "title": "List of Conjunctions in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/list-of-conjunctions-in-marathi/",
-    "content": "Conjunctions in Marathi are discussed over the last 4 lessons.\nFor ease of search, here I have summarized them and given the link to the corresponding lesson\nAnd, But, Although, Though, Yet, Still, Even if, Even though, Because, so, That\nhttps://learnmarathiwithkaushik.com/courses/conjunctions-in-marathi-part-1-andbutbecausesothatalthoughthoughstillyet/\nAs, As well as, Or, Nor,Neither-Nor, if, In case,if only, provided\nhttps://learnmarathiwithkaushik.com/courses/conjunctions-in-marathi-part-2-asas-well-asor-neither-nor-ifin-case-provided/\nAfter, then, Till, Until, As long as, As far as, As far as __ concerned, As if, as though\nhttps://learnmarathiwithkaushik.com/courses/conjunctions-in-marathi-part-3-after-thenas-far-as-as-long-asas-if-as-though/\nAs Soon as, Once, Rather Than, Instead of, So that, Whereas, Whether, Whether or not, Otherwise\nhttps://learnmarathiwithkaushik.com/courses/conjunctions-in-marathi-part-4-as-soon-as-oncerather-than-instead-ofso-thatwhereaswhether-or-notalso/"
+    "content": "List of Conjunctions in Marathi",
+    "intro": "Summary of conjunctions from Parts 1–4. See corresponding lessons for details.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Part 1",
+        "headers": [
+          "Conjunctions",
+          "Marathi"
+        ],
+        "rows": [
+          [
+            "And, But, Although, Though, Yet, Still, Even if, Even though, Because, So, That",
+            "आणि, पण, तरीही, कारण, म्हणून, की"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Part 2",
+        "headers": [
+          "Conjunctions",
+          "Marathi"
+        ],
+        "rows": [
+          [
+            "As, As well as, Or, Nor, Neither-Nor, If, In case, provided",
+            "जसा, तसेच, किंवा, जर-तर"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Part 3",
+        "headers": [
+          "Conjunctions",
+          "Marathi"
+        ],
+        "rows": [
+          [
+            "After, then, Till, Until, As long as, As far as, As far as __ concerned, As if, as though",
+            "नंतर, जोपर्यंत, जेवढे-त्याप्रमाणे, जणू"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Part 4",
+        "headers": [
+          "Conjunctions",
+          "Marathi"
+        ],
+        "rows": [
+          [
+            "As soon as, Once, Rather than, Instead of, So that, Whereas, Whether, Otherwise, Also",
+            "ल्या ल्या/ताच, की, ऐवजी, जेणेकरून, उलट, नाहीतर, सुद्धा"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 103,
@@ -6823,7 +9672,85 @@
     "id": 156,
     "title": "Phrase \"To Make Someone do something\"",
     "url": "https://learnmarathiwithkaushik.com/courses/phrase-to-make-someone-do-something/",
-    "content": "In English, we use sentences like “I will make him work”, “That joke made him laugh” etc.\nSo we use the phrase here as “to make one do something”.\nIn Marathi we say it मी करायला लावीन ( mI karAyalA lAvIn ), मी बोलायला लावीन( mI bolAyalA lAvIn ).\nSentence structure is:\nSubject i.e. कर्ता (kartA )\nObject or noun with preposition “To”\nVerb+आयला (AyalA)\nVerb form of  लावणे (lAvaNe) as per tense\nमी (mI)\nत्याला (tyAlA)\nबोलायला(bolAyalA)\nलावीन(lAvIn)\nNeedless to say, Form of लावणे (lAvaNe) follows the general rules of sentence formation. i.e.\nFor\npresent and future tense\nthe form of is as per subject i.e.\nकर्ता\nFor\npast tense\n, the form of लावणे (lAvaNe) is as per noun i.e.\nकर्म\nFor past tense अकर्मक verb ( i.e. the verb that does not require noun) form will be लावले ( lAvale )\netc."
+    "content": "Phrase To Make Someone do something",
+    "intro": "Subject + object (To) + verb+आयला + form of लावणे. Present/future: form as per subject. Past: form as per कर्म (object).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Structure",
+        "headers": [
+          "Subject",
+          "Object (To)",
+          "Verb+आयला",
+          "लावणे"
+        ],
+        "rows": [
+          [
+            "मी",
+            "त्याला",
+            "बोलायला",
+            "लावीन"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Examples",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I make him say",
+            "मी त्याला बोलायला लावतो",
+            "mI tyAlA bolAyalA lAvato"
+          ],
+          [
+            "I will make him say",
+            "मी त्याला बोलायला लावीन",
+            "mI tyAlA bolAyalA lAvIn"
+          ],
+          [
+            "I made him say",
+            "मी त्याला बोलायला लावले",
+            "mI tyAlA bolAyalA lAvale"
+          ],
+          [
+            "He made me work",
+            "त्याने मला काम करायला लावले",
+            "tyAne malA kAm karAyalA lAvale"
+          ],
+          [
+            "He makes me work",
+            "तो मला काम करायला लावतो",
+            "to malA kAm karAyalA lAvato"
+          ],
+          [
+            "He will make me work",
+            "तो मला काम करायला लावेल",
+            "to malA kAm karAyalA lAvel"
+          ],
+          [
+            "That joke made me laugh",
+            "त्या विनोदाने मला हसायला लावले",
+            "tyA vinodAne malA hasAyalA lAvale"
+          ],
+          [
+            "Peter made Mary eat mango",
+            "पीटरने मेरीला आंबा खायला लावला",
+            "pITarane merIlA AMbA khAyalA lAvalA"
+          ],
+          [
+            "Peter made Mary eat mangoes",
+            "पीटरने मेरीला आंबे खायला लावले",
+            "pITarane merIlA AMbe khAyalA lAvale"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 157,
@@ -8380,7 +11307,121 @@
     "id": 171,
     "title": "Requesting-someone-\"May-I\",\"Can-you\" etc.",
     "url": "https://learnmarathiwithkaushik.com/courses/requesting-someone-may-ican-you-etc/",
-    "content": "In English we take permission by asking “May I come in” , “May I use this”?\nIn Marathi we ask such questions as this format:-\nsubject ( मी/आम्ही )     verb+ऊ       का?\ne.g.\nFor verb “To come” i.e. “ये”(ye) -> मी येऊ का ? (mI yeU kA)\nFor verb “To go” i.e. “जा “(jA) -> मी जाऊ का ? ( mI jAU kA )\nExamples:-\nMay I come -> मी येऊ का? (mI yeU kA)\nMay I go -> मी जाऊ का? (mI jAU kA)\nMay we come -> आम्ही येऊ का? (AmhI yeU kA)\nMay we go -> आम्ही जाऊ का? (AmhI jAU kA)\nMay we speak -> आम्ही बोलू का ( AmhI bolU kA )\nIn English, we request others as “May you come” , “May you say”.\nThe same sentences can be said as “Can you come”, “Can you say”.\nIn Marathi there is not separate from “May you”, “May he” etc. So when using “May” with other than “I” or “We”, sentences should be said as “Can you”, “Can he” etc.\nRefer this lesson to know more details using “Can” in Marathi :\nUsing the verb “Can/To be able to”\nExamples:-\nMay you come -> Can you come -> तुम्ही येऊ शकता का? ( tumhI yeU shakatA kA ? )\nMay you speak -> Can you speak -> तुम्ही बोलू शकता का? ( tumhI bolU shakatA kA )\nMay he tell -> Can he tell -> तो सांगू शकतो का? ( to sAMgU shakato kA ? )\nCan I tell -> मी सांगू शकतो का? ( mI sAMgU shakato kA ? )\nCan I write -> मी लिहू शकतो का? ( mI lihU shakato kA ? )\nSometimes Marathi people request this way as well “पेन देता का” ( “pen detA kA”) ,”पत्ता सांगता का” ( “pattA sAMgatA kA” ). To translate it literally it is “Do you give pen”, “Do you tell address”. It might sound weird to an English speaker. But this is the style used in Marathi. This style is used only for “you” – single as well as plural.\nMay you come -> Do you come -> येता का ( yetA kA )\nMay you speak -> Can you speak -> बोलता का? ( bolatA kA? )\nMay you give pen -> Do you give pen -> “पेन देता का” ( “pen detA kA”)\nSometimes such sentences are started with words like जरा(jarA), थोडं ( thoDaM) to sound it more polite.\ne.g.\nजरा पेन देता का ? ( jarA pen detA kA),\nजरा पत्ता सांगता का ? ( jarA pattA sAMgatA kA )."
+    "content": "Requesting May-I Can-you etc.",
+    "intro": "May I: subject (मी/आम्ही) + verb+ऊ + का. May you/he: use Can format. Also: Do you give pen? style.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "May I / May we",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "May I come",
+            "मी येऊ का?",
+            "mI yeU kA"
+          ],
+          [
+            "May I go",
+            "मी जाऊ का?",
+            "mI jAU kA"
+          ],
+          [
+            "May we come",
+            "आम्ही येऊ का?",
+            "AmhI yeU kA"
+          ],
+          [
+            "May we go",
+            "आम्ही जाऊ का?",
+            "AmhI jAU kA"
+          ],
+          [
+            "May we speak",
+            "आम्ही बोलू का",
+            "AmhI bolU kA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "May you / May he – use Can",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "May you come",
+            "तुम्ही येऊ शकता का?",
+            "tumhI yeU shakatA kA?"
+          ],
+          [
+            "May you speak",
+            "तुम्ही बोलू शकता का?",
+            "tumhI bolU shakatA kA?"
+          ],
+          [
+            "May he tell",
+            "तो सांगू शकतो का?",
+            "to sAMgU shakato kA?"
+          ],
+          [
+            "Can I tell",
+            "मी सांगू शकतो का?",
+            "mI sAMgU shakato kA?"
+          ],
+          [
+            "Can I write",
+            "मी लिहू शकतो का?",
+            "mI lihU shakato kA?"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Do you style (polite)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "May you come",
+            "येता का",
+            "yetA kA"
+          ],
+          [
+            "May you speak",
+            "बोलता का?",
+            "bolatA kA?"
+          ],
+          [
+            "May you give pen",
+            "पेन देता का",
+            "pen detA kA"
+          ],
+          [
+            "Please give pen",
+            "जरा पेन देता का?",
+            "jarA pen detA kA?"
+          ],
+          [
+            "Please tell address",
+            "जरा पत्ता सांगता का?",
+            "jarA pattA sAMgatA kA?"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 172,
@@ -9447,7 +12488,92 @@
     "id": 181,
     "title": "Sentences using \"If-Then\" Style 2",
     "url": "https://learnmarathiwithkaushik.com/courses/sentences-using-if-then-style-2/",
-    "content": "In previous lesson we have learned how to say “If… then..” kind of sentences.\nSentence using “If-Then”\nIn the second half of the above lesson we have seen that  “If-Then” structure can be used to predict the future also. i.e. to indicate what will be the effect if some action is taken. Same type of sentences can also be prepared using different style which is seen more in formal text, news or old style writing. This style is rarely used in day to day communication.\nWe use past tense sentence as a base. And then change the suffix of verb root to ल्यास(lyAs)\ne.g. He spoke -> तो बोलला (to bolalA)\nHere, pronoun is तो(to). Verb form is बोलला (bolalA). Verb root is बोल(bol) and suffix is ला(lA). When we change suffix to ल्यास(lyAs); it becomes बोलल्यास (bolalyAas)\nSo the sentence becomes तो बोलल्यास (to bolalyAas) which is English is “If he speaks”\nAnother example\nI laughed -> मी हसलो (mI hasalo)\nHere, pronoun is मी(mI). Verb form is हसलो (hasalo). Verb root is हस(hasa) and suffix is लो(lo). When we change suffix to ल्यास(lyAs); it becomes हसल्यास (hasalyAas)\nSo the sentence becomes मी हसल्यास (mI hasalyAas) which is English is “If I laugh”\nLet’s take examples of transitive verbs(verbs which need an object)\nShe opened a box -> तिने खोका उघडला (tine khokA ughaDalA)\nHere, pronoun form is is तिने(tine). Verb form is उघडला (ughaDalA). Verb root is उघड(ughaDa) and suffix is ला(lA). When we change suffix to ल्यास(lyAs); it becomes उघडल्यास (ughaDalyAas)\nSo the sentence becomes तिने खोका उघडल्यास (tine khokA ughaDalyAas) which is English is “If she opens a box”\nAnother example\nThey ate mango -> त्यांनी आंबा खाल्ला (tyAMnI AMbA khAllA)\nIf they eat mango – > त्यांनी आंबा खाल्ल्यास (tyAMnI AMbA khAllyAs)\nNegative form is created by appending न(na) before the verb form\nIf he speaks -> तो बोलल्यास (to bolalyAas)\nIf he does not speak -> तो न बोलल्यास (to na bolalyAas)\nIf I laugh -> मी हसल्यास (mI hasalyAas)\nIf I do not laugh -> मी न हसल्यास (mI na hasalyAas)\nIf she opens a box -> तिने खोका उघडल्यास (tine khokA ughaDalyAas)\nIf she doesn’t open a box -> तिने खोका न उघडल्यास (tine khokA na ughaDalyAas)\nLet’s take real examples from news\n1 वर्ष काम\nकेल्यास\nकर्मचाऱ्याला Grtuityचा अधिकार मिळेल (1 varSh kAm kelyAs karmachAryAlA GrtuitychA adhikAr miLel) -> An employee will get right of gratuity if he/she works for 1 year.\nचुकीची माहिती\nदिल्यास\nशिस्तभंगाची कारवाई होईल (chukIchI mAhitI dilyAs shistabhMgAchI hoil ) -> If wrong information is given, then there will be disciplinary action\nजमल्यास मला भेटायला ये (jamalyAs malA bheTAyalA ye) -> If possible (If you can manage), then come to meet me."
+    "content": "Sentences using If-Then Style 2",
+    "intro": "Formal style: change verb suffix to ल्यास(lyAs). Past tense base: बोलला → बोलल्यास (If he speaks). Negative: न बोलल्यास.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "Structure",
+        "content": "Use past tense as base. Change verb suffix to ल्यास(lyAs). e.g. He spoke तो बोलला → If he speaks तो बोलल्यास."
+      },
+      {
+        "type": "table",
+        "heading": "Examples",
+        "headers": [
+          "Past tense",
+          "If-Then (ल्यास)"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "तो बोलला (He spoke)",
+            "तो बोलल्यास (If he speaks)"
+          ],
+          [
+            "मी हसलो (I laughed)",
+            "मी हसल्यास (If I laugh)"
+          ],
+          [
+            "तिने खोका उघडला",
+            "तिने खोका उघडल्यास (If she opens box)"
+          ],
+          [
+            "त्यांनी आंबा खाल्ला",
+            "त्यांनी आंबा खाल्ल्यास (If they eat mango)"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Negative form",
+        "headers": [
+          "If",
+          "If not"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "तो बोलल्यास",
+            "तो न बोलल्यास"
+          ],
+          [
+            "मी हसल्यास",
+            "मी न हसल्यास"
+          ],
+          [
+            "तिने खोका उघडल्यास",
+            "तिने खोका न उघडल्यास"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Real examples",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "If employee works 1 year, gratuity right",
+            "१ वर्ष काम केल्यास कर्मचाऱ्याला Gratuityचा अधिकार मिळेल",
+            "1 varSh kAm kelyAs karmachAryAlA GratuitychA adhikAr miLel"
+          ],
+          [
+            "If wrong info given, disciplinary action",
+            "चुकीची माहिती दिल्यास शिस्तभंगाची कारवाई होईल",
+            "chukIchI mAhitI dilyAs shistabhMgAchI kAravAI hoIl"
+          ],
+          [
+            "If possible, come to meet me",
+            "जमल्यास मला भेटायला ये",
+            "jamalyAs malA bheTAyalA ye"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 182,
@@ -9880,7 +13006,164 @@
     "id": 186,
     "title": "Showing uncertainty using May, Might",
     "url": "https://learnmarathiwithkaushik.com/courses/showing-uncertainty-using-may-might/",
-    "content": "e.g. “He may go”, “He might say so”, “He may not tell us” etc.\nThese sentences indicate uncertainty in future actions.\nInterestingly, in usual Marathi there no special form to indicate uncertainty in future action.\nIn Marathi, the sentence is formed in the simple future tense, but a word like कदाचित (kadAchit), एखादवेळेस (ekhAdaveLes), etc. are said to indicate uncertainty.\nExample:\nHe may go -> Probably, he will go -> कदाचित तो जाईल ( kadAchit to jAIl )\nI may sing -> Probably; I will sing -> एखादवेळेस मी गाईन ( ekhAdaveLes mI gAIn )\nHe might come -> Mostly, he will come -> बहुतेक तो येईल ( bahutek to yeIl )\n“Might” is used to show uncertainty in past action.\ne.g. “He might have finished it yesterday”, “He might have written this”"
+    "content": "Showing uncertainty using May, Might",
+    "intro": "Marathi uses simple future + कदाचित, एखादवेळेस, बहुतेक. For past uncertainty: future perfect + uncertainty word, or असावा form.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Future uncertainty",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He may go",
+            "कदाचित तो जाईल",
+            "kadAchit to jAIl"
+          ],
+          [
+            "I may sing",
+            "एखादवेळेस मी गाईन",
+            "ekhAdaveLes mI gAIn"
+          ],
+          [
+            "He might come",
+            "बहुतेक तो येईल",
+            "bahutek to yeIl"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Past uncertainty – future perfect",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He might have gone yesterday",
+            "कदाचित तो काल गेला असेल",
+            "kadAchit to kAl gelA asel"
+          ],
+          [
+            "She might have completed it",
+            "कदाचित तीने पूर्ण केला असेल",
+            "kadAchit tIne pUrN kelA asel"
+          ],
+          [
+            "They might have returned yesterday",
+            "बहुतेक ते काल परत गेले असतील",
+            "bahutek te kAla parat gele asatIl"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Past uncertainty – असावा form",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He had gone",
+            "तो गेला होता",
+            "to gelA hotA"
+          ],
+          [
+            "He might have gone",
+            "तो गेला असावा",
+            "to gelA asAvA"
+          ],
+          [
+            "She had said",
+            "ती बोलली आहे",
+            "tI bolalI Ahe"
+          ],
+          [
+            "She might have said",
+            "ती बोलली असावी",
+            "tI bolalI asAvI"
+          ],
+          [
+            "You have eaten mango",
+            "तू आंबा खाल्ला आहेस",
+            "tU AMbA khAllA Ahes"
+          ],
+          [
+            "You might have eaten mango",
+            "तू आंबा खाल्ला असावास",
+            "tU AMbA khAllA asAvAs"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "असावा forms by pronoun",
+        "headers": [
+          "Pronoun",
+          "Form"
+        ],
+        "rows": [
+          [
+            "I (m.)",
+            "असावा"
+          ],
+          [
+            "I (f.)",
+            "असावे"
+          ],
+          [
+            "we",
+            "असू"
+          ],
+          [
+            "You (m.)",
+            "असावास"
+          ],
+          [
+            "You (f.)",
+            "असावीस"
+          ],
+          [
+            "You (pl.)",
+            "असावेत"
+          ],
+          [
+            "He",
+            "असावा"
+          ],
+          [
+            "She",
+            "असावी"
+          ],
+          [
+            "It",
+            "असावे"
+          ],
+          [
+            "They (m.)",
+            "असावेत"
+          ],
+          [
+            "They (f.)",
+            "असाव्यात"
+          ],
+          [
+            "They (n.)",
+            "असावीत"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 187,
@@ -11395,7 +14678,72 @@
     "id": 239,
     "title": "To emphasize word using-च(ch)-in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/to-emphasize-word-using-%e0%a4%9ach-in-marathi/",
-    "content": "Consider the sentence “I will finish it tomorrow”. Now if you want to emphasize the time you will say “I will finish it tomorrow itself”.\nConsider the sentence “He told me that he got a lottery”. Now to emphasize who told you, you will say “He himself told me he got lottery”.\nSometimes Indians tend to create such sentences as “He only told me”, “You only asked me close door” etc.\nIn Marathi, we use च(ch) to emphasize on the word. च(ch) is a one-size-fits-all kind of suffix. You can add it कर्ता (kartA) i.e. doer of the action, कर्म (karm) noun, verb or any other word which you want to emphasize."
+    "content": "To emphasize word using -च(ch) in Marathi",
+    "intro": "Add च(ch) to कर्ता, कर्म, verb or any word to emphasize. One-size-fits-all suffix.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Examples",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I myself did it",
+            "मीच हे केले",
+            "mIch he kele"
+          ],
+          [
+            "I did this itself",
+            "मी हेच केले",
+            "mI hech kele"
+          ],
+          [
+            "I will come tomorrow itself",
+            "मी उद्याच येईन",
+            "mI udyAch yeIn"
+          ],
+          [
+            "I will surely come",
+            "मी येईनच",
+            "mI yeInach"
+          ],
+          [
+            "I have seen India only",
+            "मी भारतच बघितला आहे",
+            "mI bhAratach baghitalA Ahe"
+          ],
+          [
+            "He kept on talking",
+            "तो बोलतच राहिला",
+            "to bolatach rAhilA"
+          ],
+          [
+            "He kept on staring that car",
+            "तो ती गाडी बघतच राहिला",
+            "to tI gADI baghatach rAhilA"
+          ],
+          [
+            "I want only sedan car",
+            "मला सिडान कारच पाहिजे",
+            "malA siDAn kArach pAhije"
+          ],
+          [
+            "I must go there",
+            "मला तिथे जायलाच पाहिजे",
+            "malA tithe jAyalAch pAhije"
+          ],
+          [
+            "Why just me?",
+            "मीच का",
+            "mIch kA"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 240,
@@ -11407,7 +14755,89 @@
     "id": 241,
     "title": "\"To have\" to indicate possession and relation",
     "url": "https://learnmarathiwithkaushik.com/courses/to-have-to-indicate-possession-and-relation/",
-    "content": "To indicate possession\nof something we say “I have a car”, “I have a bungalow” etc.\nIn Marathi, such sentences are formed as follows :\nसामन्यरूप(sAmanyarUp)\nform of my/his/ ‘s etc.\nजवळ(javaL)/ कडे(kaDe )\nnoun\nform of “to be” i.e. असणे (asaNe) as per tense\nand gender, multiplicity of noun\nमाझ्या (mAjhyA)\nजवळ(javaL)/ कडे(kaDe )\nगाडी (gADI)\nआहे (Ahe)\nI have a car -> माझ्या जवळ/कडे गाडी आहे (mAjhyA javaL/kaDe gADIAhe)\nI have 10 cars -> माझ्या जवळ/कडे १० गाड्या आहेत (mAjhyA javaL/kaDe 10 gADyA Ahet)\nI had a car -> माझ्या जवळ/कडे गाडी होती (mAjhyA javaL/kaDe hotI )\nI had 10 cars -> माझ्या जवळ/कडे १० गाड्या होत्या(mAjhyA javaL/kaDe 10 gADyA  hotyA)\nAnup will have watch -> अनुप जवळ/कडे घड्याळ असेल (anup javaL/kaDe ghaDyAL asel)\nI do not have car ->  माझ्या जवळ/कडे गाडी नाही (mAjhyA javaL/kaDe nAhI)\nI did not have car ->  माझ्या जवळ/कडे गाडी नव्हती (mAjhyA javaL/kaDe navhatI)"
+    "content": "To have to indicate possession and relation",
+    "intro": "Possession: सामान्यरूप + जवळ/कडे + noun + असणे. Relation: ला(lA) + noun + असणे.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Possession – जवळ/कडे",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I have a car",
+            "माझ्या जवळ/कडे गाडी आहे",
+            "mAjhyA javaL/kaDe gADI Ahe"
+          ],
+          [
+            "I have 10 cars",
+            "माझ्या जवळ/कडे १० गाड्या आहेत",
+            "mAjhyA javaL/kaDe 10 gADyA Ahet"
+          ],
+          [
+            "I had a car",
+            "माझ्या जवळ/कडे गाडी होती",
+            "mAjhyA javaL/kaDe gADI hotI"
+          ],
+          [
+            "Anup will have watch",
+            "अनुप जवळ/कडे घड्याळ असेल",
+            "anup javaL/kaDe ghaDyAL asel"
+          ],
+          [
+            "I do not have car",
+            "माझ्या जवळ/कडे गाडी नाही",
+            "mAjhyA javaL/kaDe gADI nAhI"
+          ],
+          [
+            "I did not have car",
+            "माझ्या जवळ/कडे गाडी नव्हती",
+            "mAjhyA javaL/kaDe gADI navhatI"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Relation – ला",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I have 2 brothers",
+            "मला दोन भाऊ आहेत",
+            "malA don bhAU Ahet"
+          ],
+          [
+            "He has three paternal uncles",
+            "त्याला तीन काका आहेत",
+            "tyAlA tIn kAkA Ahet"
+          ],
+          [
+            "Ravi had 2 kids",
+            "रवीला दोन मुले होती",
+            "ravIlA don mule hotI"
+          ],
+          [
+            "He does not have a brother",
+            "त्याला भाऊ नाही",
+            "tyAlA bhAU nAhI"
+          ],
+          [
+            "She did not have any relatives",
+            "तिला कोणीही नातेवाईक नव्हते",
+            "tIlA koNIhI nAtevAIk navhate"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 242,
@@ -11747,7 +15177,143 @@
     "id": 253,
     "title": "Using May to express wish",
     "url": "https://learnmarathiwithkaushik.com/courses/using-may-to-express-wish/",
-    "content": "In English we say “May God bless you”, “May he help you”, “May door open soon”. Here we have used “may” express wish.\nIn Marathi, we say such wishes by appending ओ(o) for singular and ओत(ot) to plural.\ne.g.\nfor verb do i.e. करणे(karaNe) forms are करो(karo) and करोत (karot)\nfor verb speak i.e. बोलणे(bolaNe) forms are बोलो(bolo) and बोलोत (bolot)\nFor verbs not ending with अ(a) we append वो(vo) for singular and वोत(vot) for plural.\nfor verb give i.e.देणे (deNe) forms are देवो ( devo ) and देवोत ( devot )\nfor verb become i.e होणे ( hoNe ) forms are होवो ( hovo ) and होवोत ( hovot )\nMay God bless you -> देव तुम्हाला आशिर्वाद देवो ( dev tumhAlA AshirvAd devo )\nMay he help you -> तो तुम्हाला मदत करो ( to tumhAlA madat karo )\nMay they help you -> ते तुम्हाला मदत करोत ( te tumhAlA madat karot )\nMay new year be happy to you -> नवीन वर्ष सुखदायक असो ( navIn varSh sukhadAyak aso )\nMay shop open soon -> दुकान लवकर उघडो ( dukAn lavakar ughaDo)\nGive above is the word to word translation of “May God bless you”, but as custom, in Marathi, we say देव तुमचं भलं करो ( dev tumachaM bhalaM karo )\nIn Marathi, we generally use this form only for third-person. Not with first or second person i.e. not with मी, आम्ही, तू, तुम्ही.\nSo In English, we can form a sentence like “May you help me” which will be in Marathi as तू मला मदत करो ( tU malA madat karo ). So though grammatically perfect, it sounds a bit irregular in Marathi.\nWish / To wish\n“Wish” (noun) -> इच्छा (ichCA) it is feminine-singular noun. To wish -> इच्छा असणे (ichCA asaNe)\nThe sentence using इच्छा असणे (ichCA asaNe) is similar to saying “It is my wish that… may/should…”\nI wish he goes to school -> It is my wish that he should go to school -> माझी अशी इच्छा आहे की तो शाळेत गेला पाहिजे.(mAjhI ashI ichChA Ahe kI to shALet gelA pAhije.)\nHe wishes Kaushik wins -> It is his wish that may Kaushik win -> त्याची अशी इच्छा आहे की कौशिक जिंको(tyAchI ashI ichChA Ahe kI Kaushik jiMko)\nIt is his wish that Kaushik should win -> त्याची अशी इच्छा आहे की कौशिकने जिंकावे (tyAchI ashI ichChA Ahe kI kaushikane jiMkAve)\nWith अकर्मक(akarmak) verbs; when expressing wish; we create verb form as per gender and multiplicity of\nsubject\nSubject\nverb+ form of \"वा\" depending on gender and multiplicity of subject i.e.\nआवा-आवी-आवे-आवे-आव्या-आवी  (AvA-AvI-Ave-Ave-AvyA-AvI)\nतो (to)\nजावा (jAvA)\nTo speak:- बोलणे (bolaNe) Froms will be बोलावा – बोलावी -बोलावे -बोलावे -बोलाव्या -बोलावी (boAvA-boAvI-boAve-boAve-boAvyA-boAvI)\nExamples:\nI wish that he should win-> माझी अशी इच्छा आहे की तो जिंकावा (mAjhI ashI ichChA Ahe kI to jiMkAvA)\nI wish that she should win-> माझी अशी इच्छा आहे की ती जिंकावी (mAjhI ashI ichChA Ahe kI to jiMkAvI)\nHe wishes that I(boy) win-> त्याची अशी इच्छा आहे की मी जिंकावा (tyAchI ashI ichChA Ahe kI mI jiMkAvA)\nHe wishes that I(girl) win -> त्याची अशी इच्छा आहे की मी जिंकावी (tyAchI ashI ichChA Ahe kI mI jiMkAvI)\nHe wishes that we win -> त्याची अशी इच्छा आहे की आम्ही जिंकावे (tyAchI ashI ichChA Ahe kI AmhI jiMkAve)\n1) If the verb does not end with sound अ(a) then we simply omit आ(A) and appendवा-वी-वे-वे-व्या-वी (vA-vI-ve-ve-vyA-vI)\nTo eat:- खाणे(khANe)\nखावा-खावी-खावे-खावे-खाव्या-खावी (khAvA-khAvI-khAve-khAve-khAvyA-khAvI)\n2) Sometimes extra त (t) is added to the plural form. So both are acceptable forms.\nबोलावा – बोलावी -बोलावे -बोलावेत -बोलाव्यात -बोलावीत (boAvA-boAvI-boAve-boAvet-boAvyAt-boAvIt)\nखावा-खावी-खावे-खावेत-खाव्यात-खावीत (khAvA-khAvI-khAve-khAvet-khAvyAt-khAvIt)\ne.g.\nYou wish that they should win-> तुझी अशी इच्छा आहे की ते जिंकावे / जिंकावेत (mAjhI ashI ichChA Ahe kI te jiMkAvet)\n3) When the subject is You(singular) i.e. तू(tU); extra स(s) is appended to verb form.\nI wish that you(boy) should smile -> माझी अशी इच्छा आहे की तू हसावास (mAjhI ashi ichChA Ahe kI tU hasAvAs)\nHe wishes that you(boy) should cry ->त्याची अशी इच्छा आहे की तू रडावास (tyAchI ashi ichChA Ahe kI tU raDAvAs)\nI wish that you(girl) should smile ->माझी अशी इच्छा आहे की तू हसावीस (mAjhI ashi ichChA Ahe kI tU hasAvIs)\nHe wishes that you(girl) should cry ->त्याची अशी इच्छा आहे की तू रडावीस (tyAchI ashi ichChA Ahe kI tU raDAvIs)"
+    "content": "Using May to express wish",
+    "intro": "Append ओ/ओत for verbs ending with अ; वो/वोत for others. Use इच्छा असणे for 'I wish that...' with आवा-आवी-आवे forms. Generally third-person only.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Style 1 – ओ/ओत (verb ending अ)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "May God bless you",
+            "देव तुम्हाला आशिर्वाद देवो",
+            "dev tumhAlA AshirvAd devo"
+          ],
+          [
+            "May God bless you (custom)",
+            "देव तुमचं भलं करो",
+            "dev tumachaM bhalaM karo"
+          ],
+          [
+            "May he help you",
+            "तो तुम्हाला मदत करो",
+            "to tumhAlA madat karo"
+          ],
+          [
+            "May they help you",
+            "ते तुम्हाला मदत करोत",
+            "te tumhAlA madat karot"
+          ],
+          [
+            "May new year be happy",
+            "नवीन वर्ष सुखदायक असो",
+            "navIn varSh sukhadAyak aso"
+          ],
+          [
+            "May shop open soon",
+            "दुकान लवकर उघडो",
+            "dukAn lavakar ughaDo"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Style 2 – इच्छा असणे",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I wish he goes to school",
+            "माझी अशी इच्छा आहे की तो शाळेत गेला पाहिजे",
+            "mAjhI ashI ichChA Ahe kI to shALet gelA pAhije"
+          ],
+          [
+            "He wishes Kaushik wins",
+            "त्याची अशी इच्छा आहे की कौशिक जिंको",
+            "tyAchI ashI ichChA Ahe kI kaushik jiMko"
+          ],
+          [
+            "I wish that he should win",
+            "माझी अशी इच्छा आहे की तो जिंकावा",
+            "mAjhI ashI ichChA Ahe kI to jiMkAvA"
+          ],
+          [
+            "I wish that she should win",
+            "माझी अशी इच्छा आहे की ती जिंकावी",
+            "mAjhI ashI ichChA Ahe kI tI jiMkAvI"
+          ],
+          [
+            "He wishes that we win",
+            "त्याची अशी इच्छा आहे की आम्ही जिंकावे",
+            "tyAchI ashI ichChA Ahe kI AmhI jiMkAve"
+          ],
+          [
+            "I wish that you(boy) should smile",
+            "माझी अशी इच्छा आहे की तू हसावास",
+            "mAjhI ashI ichChA Ahe kI tU hasAvAs"
+          ],
+          [
+            "I wish that you(girl) should smile",
+            "माझी अशी इच्छा आहे की तू हसावीस",
+            "mAjhI ashI ichChA Ahe kI tU hasAvIs"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Negative – Style 1",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "May God not bless you",
+            "देव तुम्हाला आशिर्वाद न देवो",
+            "dev tumhAlA AshirvAd na devo"
+          ],
+          [
+            "May he not help you",
+            "तो तुम्हाला मदत न करो",
+            "to tumhAlA madat na karo"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Negative – Style 2 (ऊ नये)",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I wish that he should not win",
+            "माझी अशी इच्छा आहे की तो जिंकू नये",
+            "mAjhI ashI ichChA Ahe kI to jiMkU naye"
+          ],
+          [
+            "I wish that he should not eat mango",
+            "माझी अशी इच्छा आहे की त्याने आंबा खाऊ नये",
+            "mAjhI ashI ichChA Ahe kI tyAne AMbA khAU naye"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 254,
@@ -12497,7 +16063,67 @@
     "id": 260,
     "title": "Using \"To Feel\" & \"To think\"",
     "url": "https://learnmarathiwithkaushik.com/courses/using-to-feel-to-think/",
-    "content": "“To Think” in English is विचार करणे ( vichAr karaNe ) in Marathi\nI am thinking about Maths:- मी गणिताबद्दल विचार करत आहे ( mI gaNitAbaddal vichAr karat Ahe )\nShe is thinking of higher study :- ती उच्च शिक्षणाचा विचार करत आहे ( tI uchch shikShaNAchA vichAr karat Ahe )\nThere is another use of the verb “to think” or rather the phrase “To think that”. In such sentences “To Think” or “To think that” means “To feel”\nIn English we say “I feel I should go”, “I felt happy”, “He feels that everyone else is stupid”.\nIn these sentences, the phrase “To think that” can be used instead of “To feel”.\ne.g. “I think that I should go”, “He thinks that everyone else is stupid”.\nIn Marathi the verb for “To feel” or “To think that” is वाटणे ( vATaNe ).\nSentence structure is:\nProper noun or Pronoun with preposition “To”\nnoun\nForm of verb वाटणे (vATaNe)as per tense and  gender, multiplicity of noun\nमला malA\nअसे ase\nवाटते vATate\nSo sentence structure is Marathi is kind of saying “It is felt to me”"
+    "content": "Using To Feel & To Think",
+    "intro": "To think (about): विचार करणे. To feel / To think that: वाटणे. Structure: मला/त्याला + noun + वाटते/वाटले.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "To think (about)",
+        "content": "विचार करणे. I am thinking about Maths: मी गणिताबद्दल विचार करत आहे."
+      },
+      {
+        "type": "table",
+        "heading": "To feel / To think that – वाटणे",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I feel this way",
+            "मला असे वाटते",
+            "malA ase vATate"
+          ],
+          [
+            "I feel this",
+            "मला हे वाटते",
+            "malA he vATate"
+          ],
+          [
+            "He felt that I will not come",
+            "त्याला असे वाटले की मी येणार नाही",
+            "tyAlA ase vATale kI mI yeNAr nAhI"
+          ],
+          [
+            "What do you feel?",
+            "तुला काय वाटते?",
+            "tulA kAy vATate?"
+          ],
+          [
+            "He felt happiness",
+            "त्याला आनंद वाटला",
+            "tyAlA AnaMd vATalA"
+          ],
+          [
+            "Don't you feel ashamed?",
+            "तुला लाज वाटत नाही का?",
+            "tulA lAj vATat nAhI kA?"
+          ],
+          [
+            "Kaushik thinks he should go",
+            "कौशिकला असे वाटते की त्याने गेले पाहिजे",
+            "kaushikalA ase vATate kI tyAne gele pAhije"
+          ],
+          [
+            "He will feel bad",
+            "त्याला वाईट वाटेल",
+            "tyAlA vAIT vATel"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 261,
@@ -12748,7 +16374,91 @@
     "id": 263,
     "title": "Using \"To mean\". How to ask meaning in Marathi",
     "url": "https://learnmarathiwithkaushik.com/courses/using-to-mean-how-to-ask-meaning-in-marathi/",
-    "content": "In English, we use the verb “To Mean” e.g. “What does it mean”, “What is its meaning”. “I did not mean it” etc.\nIn Marathi “meaning” is अर्थ(arth).\nIn Marathi the translation of sentence “what does it mean” is actually similar to translation of “what is its meaning”\n1)What does it mean -> What is its meaning -> त्याचा अर्थ काय (tyAchA arth kAy)\n2)What does that signboard mean -> What is meaning of that signboard ->त्या पाटीचा अर्थ काय ( tyA pATIchA arth kAy )\n3)What did his speech mean -> What was the meaning of his speech -> त्याच्या भाषणाचा अर्थ काय होता (tyAchyA bhAShaNAchA arth kAy hotA)\nWhen you are asking the meaning of some word you can ask it, in short, using म्हणजे काय (mhaNaje kAy ) as follows:\nWhat does “encyclopedia” mean -> “encyclopedia” म्हणजे काय (mhaNaje kAy )\nWhat does “Sundar” mean in Marathi -> मराठीमधे सुंदर म्हणजे काय (marAThImadhe suMdar mhaNaje kAy )\nIn English, we also say “I did not mean it”\n, “He did not mean insulting you”. Such sentences are said bit differently in Marathi.\nI did mean it -> My saying meant this -> माझ्या बोलण्याचा अर्थ हा होता (mAjhyA bolaNyAchA arth hA hotA)\nI did not mean it -> My saying did not mean this -> माझ्या बोलण्याचा अर्थ हा नव्हता (mAjhyA bolaNyAchA arth hA navhatA)\nWhen we use “To mean” to indicate purpose\n, it is said differently in Marathi.\nPurpose in Marathi is उद्देश(uddesh)\n“He did not mean hurting you” -> His purpose was not to hurt you -> त्याचा उद्देश तुम्हाला दुखवण्याचा नव्हता (tyAchA uddesh tumhAlA dukhavaNyAchA navhatA)\nI meant to insult him -> My purpose was to insult him ->माझा उद्देश त्याचा अपमान करण्याचा होता (majhA uddesh tyAchA apamAn karaNyAchA hotA)"
+    "content": "Using To mean. How to ask meaning in Marathi",
+    "intro": "Meaning = अर्थ(arth). What does it mean = त्याचा अर्थ काय. Short: म्हणजे काय. Purpose = उद्देश.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Asking meaning",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "What does it mean?",
+            "त्याचा अर्थ काय",
+            "tyAchA arth kAy"
+          ],
+          [
+            "What does that signboard mean?",
+            "त्या पाटीचा अर्थ काय",
+            "tyA pATIchA arth kAy"
+          ],
+          [
+            "What did his speech mean?",
+            "त्याच्या भाषणाचा अर्थ काय होता",
+            "tyAchyA bhAShaNAchA arth kAy hotA"
+          ],
+          [
+            "What does encyclopedia mean?",
+            "encyclopedia म्हणजे काय",
+            "encyclopedia mhaNaje kAy"
+          ],
+          [
+            "What does Sundar mean in Marathi?",
+            "मराठीमधे सुंदर म्हणजे काय",
+            "marAThImadhe suMdar mhaNaje kAy"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "I did not mean it",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "I did mean it",
+            "माझ्या बोलण्याचा अर्थ हा होता",
+            "mAjhyA bolaNyAchA arth hA hotA"
+          ],
+          [
+            "I did not mean it",
+            "माझ्या बोलण्याचा अर्थ हा नव्हता",
+            "mAjhyA bolaNyAchA arth hA navhatA"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Purpose – उद्देश",
+        "headers": [
+          "English",
+          "Marathi",
+          "Transliteration"
+        ],
+        "speakCol": 1,
+        "rows": [
+          [
+            "He did not mean hurting you",
+            "त्याचा उद्देश तुम्हाला दुखवण्याचा नव्हता",
+            "tyAchA uddesh tumhAlA dukhavaNyAchA navhatA"
+          ],
+          [
+            "I meant to insult him",
+            "माझा उद्देश त्याचा अपमान करण्याचा होता",
+            "mAjhA uddesh tyAchA apamAn karaNyAchA hotA"
+          ]
+        ]
+      }
+    ]
   },
   {
     "id": 264,
