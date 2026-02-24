@@ -713,27 +713,6 @@
           "chapterId": 204
         }
       ]
-    },
-    {
-      "name": "Additional resources",
-      "sublessons": [
-        {
-          "title": "Practise Marathi online ! Let's talk on Skype or Hangout",
-          "chapterId": 157
-        },
-        {
-          "title": "Using LearnMarathiWithKaushik.com to practice grammar rules",
-          "chapterId": 249
-        },
-        {
-          "title": "\"Marathi Dictionary for Learners\" website and Android app on Gogle Play.",
-          "chapterId": 135
-        },
-        {
-          "title": "Type Marathi in Roman Marathi transliteration",
-          "chapterId": 248
-        }
-      ]
     }
   ]
 }

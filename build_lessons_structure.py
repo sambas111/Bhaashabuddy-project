@@ -193,12 +193,6 @@ USER_LESSONS = {
         "Learn Marathi for Shiv Thakre Marathi BigBoss Winner BigBoss 16",
         "Simple Marathi conversation – Quarrel at home",
     ],
-    "Additional resources": [
-        "Practise Marathi online ! Let's talk on Skype or Hangout",
-        "Using LearnMarathiWithKaushik.com to practice grammar rules",
-        "\"Marathi Dictionary for Learners\" website and Android app on Gogle Play.",
-        "Type Marathi in Roman Marathi transliteration",
-    ],
 }
 
 

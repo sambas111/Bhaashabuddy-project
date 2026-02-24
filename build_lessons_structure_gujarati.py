@@ -127,9 +127,6 @@ USER_LESSONS = {
         "I Love you In Gujarati. Proposing someone in Gujarati",
         "Simple Gujarati conversation: Linking AADHAR card to mobile number",
     ],
-    "Additional resources": [
-        "Type Gujarati in Roman. Gujarati transliteration",
-    ],
 }
 
 
