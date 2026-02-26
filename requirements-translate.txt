@@ -1,0 +1,17 @@
+# BhaashaBuddy Translation Pipeline
+# Install: pip install -r requirements-translate.txt
+
+# Groq backend (works on Windows, no compilation)
+groq>=0.4.0
+
+# IndicTrans2 backend (Linux/Mac - requires C++ compiler on Windows)
+# On Windows: use --backend groq, or install Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+transformers>=4.30.0
+torch>=2.0.0
+# indictranstoolkit>=1.1.0  # Optional: needs C++ Build Tools on Windows
+
+# For transliteration
+indic-transliteration>=2.2.0
+
+# Config (optional)
+pyyaml>=6.0

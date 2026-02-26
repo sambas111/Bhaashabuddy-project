@@ -1,0 +1,51 @@
+# BhaashaBuddy Translation Pipeline Config
+# Change target_language here, then run: python translate_pipeline.py
+# English content is preserved; Marathi and transliteration are translated.
+
+# Target language (one of the 22 scheduled Indic languages)
+# Examples: kannada, tamil, telugu, hindi, gujarati, bengali, malayalam, odia...
+target_language: kannada
+
+# Translation backend: "groq" | "indic_trans2"
+# - groq: Works on Windows, fast, requires GROQ_API_KEY.
+# - indic_trans2: Best for Indic languages, runs locally. On Windows needs C++ Build Tools for indictranstoolkit.
+backend: groq
+
+# Groq model (when backend is groq). See https://console.groq.com/docs/models
+# groq_model: llama-3.3-70b-versatile
+
+# IndicTrans2 language codes (for indic_trans2 backend)
+# See: https://github.com/AI4Bharat/IndicTrans2
+indic_codes:
+  marathi: mar_Deva
+  hindi: hin_Deva
+  bengali: ben_Beng
+  telugu: tel_Telu
+  tamil: tam_Taml
+  gujarati: guj_Gujr
+  kannada: kan_Knda
+  malayalam: mal_Mlym
+  odia: ory_Orya
+  punjabi: pan_Guru
+  assamese: asm_Beng
+  nepali: npi_Deva
+  sanskrit: san_Deva
+  urdu: urd_Arab
+  sindhi: snd_Deva
+  konkani: gom_Deva
+  maithili: mai_Deva
+  manipuri: mni_Mtei
+  bodo: brx_Deva
+  dogri: doi_Deva
+  kashmiri: kas_Deva
+  santali: sat_Olck
+
+# Input files (optional - auto-detected if they exist)
+# phrases_file: phrases_marathi.json
+# dictionary_file: dictionary_marathi.json
+
+# Output
+output_file: data_{target}.json  # e.g. data_kannada.json
+
+# Optional: limit to first N chapters (for testing)
+# limit_chapters: 5
