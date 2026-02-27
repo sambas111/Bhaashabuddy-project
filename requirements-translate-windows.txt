@@ -1,0 +1,7 @@
+# BhaashaBuddy Translation - Windows (Groq backend)
+# Use: pip install -r requirements-translate-windows.txt
+# Run: python translate_pipeline.py --backend groq
+
+groq>=0.4.0
+indic-transliteration>=2.2.0
+pyyaml>=6.0
