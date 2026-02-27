@@ -6384,8 +6384,8 @@ function formatChapterFromData(ch) {
     const rows = tbl.rows || [];
     if (headers.length !== 2 || rows.length === 0) return false;
     const hStr = (headers[0] + ' ' + headers[1]).toLowerCase();
-    if (!/letter|transliteration|sound|character/.test(hStr)) return false;
-    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u097F]/.test(String(r[0])));
+    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|script/.test(hStr)) return false;
+    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u097F\u0C80-\u0CFF]/.test(String(r[0])));
   };
 
   const renderAlphabetGrid = (tbl) => {
@@ -6403,7 +6403,7 @@ function formatChapterFromData(ch) {
       const textToSpeak = (roman || letter).trim();
       const dataSpeak = textToSpeak ? ' data-speak="' + escape(textToSpeak) + '"' : '';
       h += '<div class="alphabet-card">';
-      h += '<span class="alphabet-script">' + escape(letter) + '</span>';
+      h += '<span class="alphabet-script" style="font-family:' + getScriptFont() + '">' + escape(letter) + '</span>';
       h += '<span class="alphabet-roman">' + escape(roman) + '</span>';
       h += '<span class="alphabet-line"></span>';
       h += '<button type="button" class="alphabet-audio-btn"' + dataSpeak + ' onclick="var t=this.getAttribute(\'data-speak\');if(t)speakLessonPhrase(t)" title="Listen" aria-label="Play audio"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg></button>';

@@ -190,21 +190,6 @@
         {"title": "International Women's Day", "chapterId": 465},
         {"title": "Simple Kannada conversation – Quarrel at home", "chapterId": 466}
       ]
-    },
-    {
-      "name": "Kannada lessons",
-      "sublessons": [
-        {"title": "ಆ-ಇ-ಎ-ಎ-ಯಾ-ಈ (A-I-e-e-yA-I) rule", "chapterId": 1},
-        {"title": "ಜಾನಾ ಚಾಹಿಯೆ ಕರಣಾ ಚಹಿಯೆ – Should in Kannada", "chapterId": 2},
-        {"title": "ನಾಮ ಲಿಂಗ ವಚನ Nouns Gender and plurals", "chapterId": 3},
-        {"title": "ಕನ್ನಡ ಮುಹಾವರೆ Idioms and Phrases in Kannada", "chapterId": 4},
-        {"title": "ಮೆರೆ ಪಾಸ್ ಹೈ. ಮುಝೆ ದೋ ಭಾಈ ಹೈ. To Indicate possession and relation", "chapterId": 5},
-        {"title": "ಲಾಗಣೆ (lAgaNe) - one verb, multiple meanings !!", "chapterId": 6},
-        {"title": "ಲಾವಣೆ (lAvaNe) - one verb, multiple meanings !!", "chapterId": 7},
-        {"title": "Abuse-cursing-swear-words in Kannada", "chapterId": 8},
-        {"title": "Abuse Cursing Swear-words in Kannada", "chapterId": 9},
-        {"title": "Active Passive voice in Kannada", "chapterId": 10}
-      ]
     }
   ]
 }
