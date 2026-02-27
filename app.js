@@ -5805,8 +5805,8 @@ const LANGUAGES = {
     hasLessons: true,
     dataFile: "data_kannada.json",
     structureFile: "lessons_structure_kannada.json",
-    PHRASES: {},
-    DICTIONARY: []
+    PHRASES: typeof KANNADA_PHRASES !== "undefined" ? KANNADA_PHRASES : {},
+    DICTIONARY: typeof KANNADA_DICTIONARY !== "undefined" ? KANNADA_DICTIONARY : []
   }
 };
 
@@ -6283,7 +6283,8 @@ function initTheme() {
   const saved = localStorage.getItem('appTheme') || 'teal';
   setTheme(saved, true);
   document.getElementById('theme-options')?.addEventListener('click', (e) => {
-    const btn = e.target.closest('.theme-swatch');
+    const option = e.target.closest('.theme-option');
+    const btn = option?.querySelector('.theme-swatch') || e.target.closest('.theme-swatch');
     if (btn) setTheme(btn.getAttribute('data-theme'));
   });
 }
@@ -6824,9 +6825,27 @@ function switchTab(tab) {
   if (tab === 'chapters') loadChapters();
 }
 
+// ===== SCROLL TO TOP =====
+function scrollToTop() {
+  // Scroll the active screen (Phrases, Words, Lessons, lesson content – this is the main scroll container)
+  const active = document.querySelector('#app-content .screen.active');
+  if (active) active.scrollTop = 0;
+  // Scroll main and window in case the page scrolls instead
+  const main = document.getElementById('app-content');
+  if (main) main.scrollTop = 0;
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  document.documentElement.scrollTop = 0;
+  document.body.scrollTop = 0;
+}
+
+function initScrollToTop() {
+  /* Button is always visible when language selected (CSS body.nav-visible); no scroll-based show/hide */
+}
+
 // ===== INIT ON LOAD =====
 function initApp() {
   initTheme();
+  initScrollToTop();
   if (selectedLanguage && LANGUAGES[selectedLanguage]) {
     document.getElementById('screen-lang-select').classList.remove('active');
     document.getElementById('screen-lang-select').style.display = 'none';

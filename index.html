@@ -218,13 +218,57 @@
             <div class="settings-row-sub">Choose your preferred accent color</div>
           </div>
         </div>
-        <div class="theme-options" id="theme-options">
-          <button type="button" class="theme-swatch theme-teal" data-theme="teal" title="Teal (default)"></button>
-          <button type="button" class="theme-swatch theme-indigo" data-theme="indigo" title="Indigo"></button>
-          <button type="button" class="theme-swatch theme-violet" data-theme="violet" title="Violet"></button>
-          <button type="button" class="theme-swatch theme-rose" data-theme="rose" title="Rose"></button>
-          <button type="button" class="theme-swatch theme-emerald" data-theme="emerald" title="Emerald"></button>
-          <button type="button" class="theme-swatch theme-slate" data-theme="slate" title="Slate"></button>
+        <div class="theme-sections" id="theme-options">
+          <div class="theme-section">
+            <div class="theme-section-label">Light</div>
+            <div class="theme-options">
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-teal" data-theme="teal" title="Teal"></button>
+                <span class="theme-name">Teal</span>
+              </label>
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-emerald" data-theme="emerald" title="Emerald"></button>
+                <span class="theme-name">Emerald</span>
+              </label>
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-rose" data-theme="rose" title="Rose"></button>
+                <span class="theme-name">Rose</span>
+              </label>
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-sky" data-theme="sky" title="Sky"></button>
+                <span class="theme-name">Sky</span>
+              </label>
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-amber" data-theme="amber" title="Amber"></button>
+                <span class="theme-name">Amber</span>
+              </label>
+            </div>
+          </div>
+          <div class="theme-section">
+            <div class="theme-section-label">Dark</div>
+            <div class="theme-options">
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-indigo" data-theme="indigo" title="Indigo"></button>
+                <span class="theme-name">Indigo</span>
+              </label>
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-violet" data-theme="violet" title="Violet"></button>
+                <span class="theme-name">Violet</span>
+              </label>
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-slate" data-theme="slate" title="Slate"></button>
+                <span class="theme-name">Slate</span>
+              </label>
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-blue" data-theme="blue" title="Blue"></button>
+                <span class="theme-name">Blue</span>
+              </label>
+              <label class="theme-option">
+                <button type="button" class="theme-swatch theme-fuchsia" data-theme="fuchsia" title="Fuchsia"></button>
+                <span class="theme-name">Fuchsia</span>
+              </label>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -307,7 +351,7 @@
         </div>
         <div class="feedback-field">
           <label for="feedback-message">Your message (optional)</label>
-          <textarea id="feedback-message" rows="4" placeholder="Describe your feedback or bug report..."></textarea>
+          <textarea id="feedback-message" rows="4" placeholder="Describe your feedback or bug report...&#10;&#10;If you want to include any more data, please give the link or source here.&#10;We will consider it for future updates."></textarea>
         </div>
         <div class="feedback-field">
           <label for="feedback-email">Email for follow-up (optional)</label>
@@ -346,6 +390,12 @@
     </div>
   </nav>
 
+  <!-- Scroll to top (shown when user scrolls down) -->
+  <button type="button" class="scroll-to-top" id="scroll-to-top-btn" onclick="scrollToTop()" aria-label="Scroll to top" title="Back to top">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 15l-6-6-6 6"/></svg>
+  </button>
+
+<script src="kannada_data.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
