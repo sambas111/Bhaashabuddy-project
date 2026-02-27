@@ -83,6 +83,8 @@ function initLanguageUI() {
   if (el('dict-subtitle')) el('dict-subtitle').textContent = 'English → ' + lang.name;
   if (el('current-lang-display')) el('current-lang-display').textContent = 'Learning ' + lang.name;
   if (el('data-source-display')) el('data-source-display').textContent = lang.dataSource;
+  const chSub = document.getElementById('chapters-subtitle');
+  if (chSub) chSub.textContent = lang.dataSource;
   document.querySelectorAll('.nav-chapters').forEach(el => {
     el.style.display = lang.hasLessons ? '' : 'none';
   });
@@ -5792,6 +5794,19 @@ const LANGUAGES = {
     structureFile: "lessons_structure_gujarati.json",
     PHRASES: GUJARATI_PHRASES,
     DICTIONARY: GUJARATI_DICTIONARY
+  },
+  kannada: {
+    name: "Kannada",
+    code: "kn",
+    subtitle: "ಕನ್ನಡ ಕಲಿಯಿರಿ",
+    scriptFont: "'Noto Sans Kannada', sans-serif",
+    speechLang: "kn-IN",
+    dataSource: "BhaashaBuddy (Marathi → Kannada)",
+    hasLessons: true,
+    dataFile: "data_kannada.json",
+    structureFile: "lessons_structure_kannada.json",
+    PHRASES: {},
+    DICTIONARY: []
   }
 };
 
@@ -6410,8 +6425,10 @@ function formatChapterFromData(ch) {
     (tbl.rows || []).forEach(row => {
       h += '<tr>';
       row.forEach((cell, i) => {
-        const cls = i === 0 && /[\u0900-\u097F]/.test(cell) ? ' class="busuu-script-cell"' : '';
-        h += '<td' + cls + '>' + escape(cell) + '</td>';
+        const isScript = /[\u0900-\u097F\u0C80-\u0CFF]/.test(cell);
+        const cls = isScript ? ' class="busuu-script-cell"' : '';
+        const style = isScript ? ' style="font-family:' + getScriptFont() + '"' : '';
+        h += '<td' + cls + style + '>' + escape(cell) + '</td>';
       });
       if (speakCol >= 0 && row[speakCol]) {
         const textToSpeak = escape(String(row[speakCol]));
@@ -6459,8 +6476,10 @@ function formatChapterContentBusuu(chapterId) {
       (tbl.rows || []).forEach(row => {
         html += '<tr>';
         row.forEach((cell, i) => {
-          const cls = i === 0 && /[\u0900-\u097F]/.test(cell) ? ' class="busuu-script-cell"' : '';
-          html += '<td' + cls + '>' + escape(cell) + '</td>';
+          const isScript = /[\u0900-\u097F\u0C80-\u0CFF]/.test(cell);
+          const cls = isScript ? ' class="busuu-script-cell"' : '';
+          const style = isScript ? ' style="font-family:' + getScriptFont() + '"' : '';
+          html += '<td' + cls + style + '>' + escape(cell) + '</td>';
         });
         html += '</tr>';
       });

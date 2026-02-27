@@ -1,0 +1,1266 @@
+[
+  {
+    "id": 301,
+    "title": "Kannada Alphabets (ಅಕ್ಷರಮಾಲೆ)",
+    "url": "#",
+    "content": "Kannada uses its own script (ಕನ್ನಡ ಲಿಪಿ). Learn vowels (ಸ್ವರ) and consonants (ವ್ಯಂಜನ) below.",
+    "intro": "The Kannada script is an abugida of the Brahmic family. Below are the vowels and consonants with transliteration and usage examples.",
+    "tables": [
+      {
+        "heading": "Vowels in Kannada (ಸ್ವರಗಳು)",
+        "headers": ["Kannada", "Transliteration"],
+        "speakCol": 0,
+        "rows": [
+          ["ಅ", "a"],
+          ["ಆ", "ā"],
+          ["ಇ", "i"],
+          ["ಈ", "ī"],
+          ["ಉ", "u"],
+          ["ಊ", "ū"],
+          ["ಋ", "ṛ"],
+          ["ಎ", "e"],
+          ["ಏ", "ē"],
+          ["ಐ", "ai"],
+          ["ಒ", "o"],
+          ["ಓ", "ō"],
+          ["ಔ", "au"],
+          ["ಅಂ", "aṃ"],
+          ["ಅಃ", "aḥ"]
+        ]
+      },
+      {
+        "heading": "Vowel usage examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["food", "ಅನ್ನ", "anna"],
+          ["soul", "ಆತ್ಮ", "ātma"],
+          ["mouse", "ಇಲಿ", "ili"],
+          ["now", "ಈಗ", "īga"],
+          ["sunrise", "ಉದಯ", "udaya"],
+          ["meal", "ಊಟ", "ūṭa"],
+          ["oil", "ಎಣ್ಣೆ", "eṇṇe"],
+          ["what", "ಏನು", "ēnu"],
+          ["unity", "ಐಕ್ಯ", "aikya"],
+          ["one", "ಒಂದು", "ondu"],
+          ["read", "ಓದು", "ōdu"],
+          ["medicine", "ಔಷಧ", "auṣadha"],
+          ["body", "ಅಂಗ", "aṅga"],
+          ["sorrow", "ದುಃಖ", "duḥkha"]
+        ]
+      },
+      {
+        "heading": "Consonants in Kannada (ವ್ಯಂಜನಗಳು)",
+        "headers": ["Kannada", "Transliteration"],
+        "speakCol": 0,
+        "rows": [
+          ["ಕ", "ka"],
+          ["ಖ", "kha"],
+          ["ಗ", "ga"],
+          ["ಘ", "gha"],
+          ["ಙ", "ṅa"],
+          ["ಚ", "ca"],
+          ["ಛ", "cha"],
+          ["ಜ", "ja"],
+          ["ಝ", "jha"],
+          ["ಞ", "ña"],
+          ["ಟ", "ṭa"],
+          ["ಠ", "ṭha"],
+          ["ಡ", "ḍa"],
+          ["ಢ", "ḍha"],
+          ["ಣ", "ṇa"],
+          ["ತ", "ta"],
+          ["ಥ", "tha"],
+          ["ದ", "da"],
+          ["ಧ", "dha"],
+          ["ನ", "na"],
+          ["ಪ", "pa"],
+          ["ಫ", "pha"],
+          ["ಬ", "ba"],
+          ["ಭ", "bha"],
+          ["ಮ", "ma"],
+          ["ಯ", "ya"],
+          ["ರ", "ra"],
+          ["ಲ", "la"],
+          ["ವ", "va"],
+          ["ಶ", "śa"],
+          ["ಷ", "ṣa"],
+          ["ಸ", "sa"],
+          ["ಹ", "ha"],
+          ["ಳ", "ḷa"]
+        ]
+      },
+      {
+        "heading": "Consonant usage examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["lotus", "ಕಮಲ", "kamala"],
+          ["song", "ಗಾನ", "gāna"],
+          ["tea", "ಚಹಾ", "cahā"],
+          ["people", "ಜನ", "jana"],
+          ["star", "ತಾರೆ", "tāre"],
+          ["water", "ನೀರು", "nīru"],
+          ["drink", "ಪಾನೀಯ", "pānīya"],
+          ["garland", "ಮಾಲೆ", "māle"],
+          ["road", "ರಸ್ತೆ", "raste"],
+          ["sea", "ಸಾಗರ", "sāgara"],
+          ["air", "ಹವಾ", "havā"],
+          ["time", "ಕಾಳ", "kāḷa"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "title": "Vowels and Consonants in Kannada and their pronunciation",
+    "url": "#",
+    "content": "Kannada script has 13 vowel letters and 34 consonant letters. Each consonant has an inherent vowel 'a' (ಅ).",
+    "intro": "Kannada is written left-to-right. Short vowels are ಹ್ರಸ್ವ (hrasva), long vowels are ದೀರ್ಘ (dīrgha). Consonants are grouped by place of articulation: velar (ಕ-ಙ), palatal (ಚ-ಞ), retroflex (ಟ-ಣ), dental (ತ-ನ), labial (ಪ-ಮ), and unstructured (ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಳ).",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "Vowels (ಸ್ವರ)",
+        "content": "ಅ (a) as in 'America', ಆ (ā) as in 'father', ಇ (i) as in 'bit', ಈ (ī) as in 'see', ಉ (u) as in 'put', ಊ (ū) as in 'food'. ಋ (ṛ) is used in Sanskrit words. ಎ (e) short e, ಏ (ē) long e, ಐ (ai) as in 'kite', ಒ (o) short o, ಓ (ō) long o, ಔ (au) as in 'how'. ಅಂ (aṃ) is anusvara (nasal), ಅಃ (aḥ) is visarga."
+      },
+      {
+        "type": "paragraph",
+        "heading": "Structured consonants",
+        "content": "Velar: ಕ ಖ ಗ ಘ ಙ. Palatal: ಚ ಛ ಜ ಝ ಞ. Retroflex: ಟ ಠ ಡ ಢ ಣ. Dental: ತ ಥ ದ ಧ ನ. Labial: ಪ ಫ ಬ ಭ ಮ. Unstructured: ಯ ರ ಲ ವ ಶ ಷ ಸ ಹ ಳ."
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "title": "Kannada Barakhadi : Vowel signs with consonants",
+    "url": "#",
+    "content": "Kannada Barakhadi: how vowels combine with consonants using diacritics.",
+    "intro": "In Kannada, when a vowel follows a consonant, it is written with a diacritic (matra) rather than as a separate letter. The consonant without any diacritic has the inherent vowel ಅ (a). A consonant without a vowel is marked with halanta (್).",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "Introduction",
+        "content": "Like in other Brahmic scripts, vowels are added to consonants using different symbols (diacritics). Each vowel has a sign that attaches to the consonant to form a syllable (ಅಕ್ಷರ akshara)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಅ (a) – Inherent, no change",
+        "content": "Adding ಅ (a) has no visible change. ಕ (ka), ಬ (ba). Denoted as small 'a'."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಆ (ā) – Sign ಾ after consonant",
+        "content": "ಕ + ಆ = ಕಾ (kā), ಬ + ಆ = ಬಾ (bā). Vertical stroke after the consonant."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಇ (i) – Sign ಿ before consonant",
+        "content": "ಕ + ಇ = ಕಿ (ki), ಬ + ಇ = ಬಿ (bi). The sign appears before the consonant."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಈ (ī) – Sign ೀ after consonant",
+        "content": "ಕ + ಈ = ಕೀ (kī), ಬ + ಈ = ಬೀ (bī). Two strokes after the consonant."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಉ (u) – Sign ು below",
+        "content": "ಕ + ಉ = ಕು (ku), ಬ + ಉ = ಬು (bu). Curve below the consonant."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಊ (ū) – Sign ೂ below",
+        "content": "ಕ + ಊ = ಕೂ (kū), ಬ + ಊ = ಬೂ (bū). Double curve below."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಎ (e) – Sign ೆ above",
+        "content": "ಕ + ಎ = ಕೆ (ke), ಬ + ಎ = ಬೆ (be). Slanting line above."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಏ (ē) – Sign ೇ above",
+        "content": "ಕ + ಏ = ಕೇ (kē), ಬ + ಏ = ಬೇ (bē). Two strokes above."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಐ (ai) – Sign ೈ",
+        "content": "ಕ + ಐ = ಕೈ (kai), ಬ + ಐ = ಬೈ (bai). Used in words like ಕೈ (kai, hand)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಒ (o) – Sign ೊ",
+        "content": "ಕ + ಒ = ಕೊ (ko), ಬ + ಒ = ಬೊ (bo). Hook and stroke."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಓ (ō) – Sign ೋ",
+        "content": "ಕ + ಓ = ಕೋ (kō), ಬ + ಓ = ಬೋ (bō). Long o sound."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಔ (au) – Sign ೌ",
+        "content": "ಕ + ಔ = ಕೌ (kau), ಬ + ಔ = ಬೌ (bau). As in ಕೌಶಿಕ (Kauśika)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಅಂ (aṃ) – Anusvara ಂ",
+        "content": "ಕ + ಅಂ = ಕಂ (kaṃ). Dot above (anusvara) for nasalization."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಅಃ (aḥ) – Visarga ಃ",
+        "content": "ಕ + ಅಃ = ಕಃ (kaḥ). Two dots after for visarga (rare in modern Kannada)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "Half consonant (halanta ್)",
+        "content": "To write a consonant without the inherent vowel, add the halanta (್) below: ಕ್ (k), ಬ್ (b). The resulting form is ಅರ್ಧಾಕ್ಷರ (ardhākshara)."
+      },
+      {
+        "type": "table",
+        "heading": "ಕ (ka) barakhadi",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["ka", "ಕ", "ka"],
+          ["kā", "ಕಾ", "kā"],
+          ["ki", "ಕಿ", "ki"],
+          ["kī", "ಕೀ", "kī"],
+          ["ku", "ಕು", "ku"],
+          ["kū", "ಕೂ", "kū"],
+          ["kṛ", "ಕೃ", "kṛ"],
+          ["ke", "ಕೆ", "ke"],
+          ["kē", "ಕೇ", "kē"],
+          ["kai", "ಕೈ", "kai"],
+          ["ko", "ಕೊ", "ko"],
+          ["kō", "ಕೋ", "kō"],
+          ["kau", "ಕೌ", "kau"],
+          ["kaṃ", "ಕಂ", "kaṃ"],
+          ["kaḥ", "ಕಃ", "kaḥ"],
+          ["k (half)", "ಕ್", "k"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "title": "Frequently faced pronunciation problems in Kannada",
+    "url": "#",
+    "content": "Tips to differentiate similar-sounding consonants and vowels in Kannada.",
+    "intro": "Learners often confuse similar-sounding pairs. Listening to Kannada and practising pairs (ತ-ಟ, ದ-ಡ, ನ-ಣ, ಲ-ಳ, ಶ-ಷ-ಸ) helps. Use the speaker buttons to hear each pair.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "Dental vs Retroflex",
+        "content": "ತ (ta) is dental, ಟ (ṭa) is retroflex (tongue curled back). ದ (da) is dental, ಡ (ḍa) is retroflex. ನ (na) is dental, ಣ (ṇa) is retroflex. Practice: ತಾರೆ (star) vs ಟೋಪಿ (cap); ದಾರಿ (path) vs ಡಬ್ಬಿ (box)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "Sibilants ಶ ಷ ಸ",
+        "content": "ಶ (śa) – palatal, as in ಶಾಂತ (peace). ಷ (ṣa) – retroflex, used mainly in Sanskrit words. ಸ (sa) – dental, as in ಸಾಗರ (sea). In modern Kannada, ಶ and ಷ are often pronounced similarly."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಲ (la) vs ಳ (ḷa)",
+        "content": "ಲ is dental lateral; ಳ is retroflex lateral (tip of tongue curled). Example: ಕಾಲ (time/foot) vs ಕಾಳ (black)."
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "title": "Pronunciation of Anusvara (ಅಂ) and Visarga (ಅಃ)",
+    "url": "#",
+    "content": "How to pronounce anusvara (ಂ) and visarga (ಃ) in Kannada.",
+    "intro": "Anusvara (ಂ) is a nasal sign. Visarga (ಃ) is a breath sound, mostly in Sanskrit loanwords.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "Anusvara (ಅಂ)",
+        "content": "The anusvara (ಂ) is written as a dot above the consonant. It represents nasalization. Before velar consonants (ಕ, ಖ, ಗ, ಘ, ಙ) it sounds like ṅ; before palatals like ñ; before retroflex/dental like ṇ or n; before labials like m. Example: ಅಂಗ (aṅga, body), ಕಂಬಳಿ (kambali, blanket)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "Visarga (ಅಃ)",
+        "content": "Visarga (ಃ) is two dots after a vowel or consonant. It indicates a slight 'h' or breath release. Common in Sanskrit words: ದುಃಖ (sorrow), ಅಃ (ah). In everyday Kannada it is less frequent."
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "title": "Combining consonants in Kannada (ಒತ್ತಕ್ಷರ)",
+    "url": "#",
+    "content": "Combining consonants in Kannada – ಒತ್ತಕ್ಷರ (ottakshara).",
+    "intro": "When two or more consonants appear together without a vowel between them, the first consonant is written in a half (subjoined) form. Half form + full consonant = ಒತ್ತಕ್ಷರ (conjunct).",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "Introduction",
+        "content": "In English, consonants are written one after another (e.g. 'fact', 'plant'). In Kannada, the first consonant is written in a reduced form (halanta + shape) below or attached to the next consonant. For example: ಕ + ಕ = ಕ್ಕ (kka), ಕ + ನ = ಕ್ನ (kna)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "Halanta (್)",
+        "content": "The halanta (್) removes the inherent 'a' from a consonant. So ಕ್ is just 'k'. When another consonant follows, the conjunct is formed: ಕ್ + ನ = ಕ್ನ (kna), as in ವಿದ್ಯಾರ್ಥಿ (student)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "Common conjuncts",
+        "content": "ಕ್ರ (kra), ಗ್ರ (gra), ತ್ರ (tra), ದ್ರ (dra), ಪ್ರ (pra), ಕ್ಷ (kṣa). Example words: ಕರ್ಣಾಟಕ (Karnataka), ವಿದ್ಯಾರ್ಥಿ (student), ಕ್ಷಣ (moment)."
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "title": "Combining consonants with ರ (r) - Part 2",
+    "url": "#",
+    "content": "How ರ (r) combines with other consonants in Kannada.",
+    "intro": "ರ (r) has special conjunct forms. When ರ comes after another consonant (e.g. /pra/, /kra/), it is written as a sign (arkāvottu) above or attached to the preceding consonant. When ರ comes first (half r), the following consonant gets a curve or sign.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "ರ as second consonant",
+        "content": "ಕ + ರ = ಕ್ರ (kra), ಗ + ರ = ಗ್ರ (gra), ಪ + ರ = ಪ್ರ (pra), ತ + ರ = ತ್ರ (tra). Example: ಪ್ರೇಮ (love), ಕ್ರಮ (order). The ರ is written as a curved stroke (ರ್ಕಾವೊತ್ತು) attached to the first consonant."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ರ as first consonant",
+        "content": "When ರ is the first (half) consonant: ರ + ಕ = ರ್ಕ. In a word like ಕರ್ನಾಟಕ (Karnataka), the sequence /rna/ is written ರ್ನಾ – the conjunct form of ರ appears before ನ."
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "title": "Combining consonants with ಹ (h) - Part 3",
+    "url": "#",
+    "content": "Combining ಹ (h) with other consonants in Kannada.",
+    "intro": "ಹ (ha) is less commonly used in conjunct form than ರ. When ಹ is the first consonant (half), it may take a subjoined form in words borrowed from Sanskrit.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "ಹ in conjuncts",
+        "content": "Examples: ಹ + ನ = ಹ್ನ (hna), as in ಪ್ರಹ್ನ (Prahna). In modern Kannada, many such conjuncts are simplified or the word is written with halanta: ಹ್ + ನ = ಹ್ನ. Common words: ದುಃಖ (sorrow) uses visarga, not ಹ conjunct."
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "title": "Special or separate symbols for combined consonants",
+    "url": "#",
+    "content": "Special conjuncts and ligatures in Kannada script.",
+    "intro": "Some consonant combinations have special or traditional ligature forms. ಕ್ಷ (kṣa), ಜ್ಞ (jña), and ರ-conjuncts are among the most common.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "heading": "ಕ್ಷ (kṣa)",
+        "content": "ಕ + ಷ = ಕ್ಷ. Used in ಕ್ಷಣ (moment), ಕ್ಷೇತ್ರ (field), ವಿದ್ಯಾಕ್ಷರ (letter). Very common in Sanskrit-origin words."
+      },
+      {
+        "type": "paragraph",
+        "heading": "ಜ್ಞ (jña)",
+        "content": "ಜ + ಞ = ಜ್ಞ. Used in ಜ್ಞಾನ (knowledge), ವಿಜ್ಞಾನ (science)."
+      },
+      {
+        "type": "paragraph",
+        "heading": "Nasal + consonant",
+        "content": "Nasals (ಙ ಞ ಣ ನ ಮ) are often written as anusvara (ಂ) when preceding another consonant: ಬೆಂಗಳೂರು (Bengaluru) uses ಂ before ಗ."
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "title": "Pronouns and Articles in Kannada",
+    "url": "#",
+    "content": "Pronouns and Articles in Kannada",
+    "intro": "Learn Kannada pronouns. Use the speaker buttons to hear pronunciation. Kannada has no articles like 'a', 'an', 'the'.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Pronouns in Kannada",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I", "ನಾನು", "nānu"],
+          ["We", "ನಾವು", "nāvu"],
+          ["We (inclusive)", "ನಾವು", "nāvu"],
+          ["You (singular)", "ನೀನು", "nīnu"],
+          ["You (plural / respectful)", "ನೀವು", "nīvu"],
+          ["He", "ಅವನು", "avanu"],
+          ["She", "ಅವಳು", "avaḷu"],
+          ["It (neuter)", "ಅದು", "adu"],
+          ["They (honorific)", "ಅವರು", "avaru"],
+          ["This (m./f.)", "ಇವನು / ಇವಳು", "ivanu / ivaḷu"],
+          ["This (n.)", "ಇದು", "idu"],
+          ["That (m./f.)", "ಅವನು / ಅವಳು", "avanu / avaḷu"],
+          ["That (n.)", "ಅದು", "adu"],
+          ["Self", "ಸ್ವತಃ", "svataḥ"]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Articles – Examples (Kannada has no articles)",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["This is a horse", "ಇದು ಕುದುರೆ", "idu kudure"],
+          ["This is an ant", "ಇದು ಇರುವೆ", "idu iruve"],
+          ["Sun", "ಸೂರ್ಯ", "sūrya"],
+          ["Moon", "ಚಂದ್ರ", "candra"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "title": "Using plurals to indicate respect (ಆದರಾರ್ಥೀ ಬಹುವಚನ)",
+    "url": "#",
+    "content": "Using plurals to indicate respect in Kannada.",
+    "intro": "In Kannada, using plural forms for 'you' (ನೀವು) and 'they' (ಅವರು) shows respect. Singular ನೀನು is informal.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Respectful address",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["You (informal)", "ನೀನು", "nīnu"],
+          ["You (respectful)", "ನೀವು", "nīvu"],
+          ["He/She (respectful)", "ಅವರು", "avaru"],
+          ["We went (listener not included)", "ನಾವು ಪಾರ್ಟಿಗೆ ಹೋದೆವು", "nāvu pārṭige hōdevu"],
+          ["We went (listener included)", "ನಾವು ಪಾರ್ಟಿಗೆ ಹೋದೆವು", "nāvu pārṭige hōdevu"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "title": "Verbs in Kannada",
+    "url": "#",
+    "content": "Common verbs in Kannada with infinitive and usage.",
+    "intro": "Kannada verb stems combine with tense suffixes. Below are common verbs in infinitive form.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Common verbs",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["To do", "ಮಾಡು", "māḍu"],
+          ["To come", "ಬರು", "baru"],
+          ["To go", "ಹೋಗು", "hōgu"],
+          ["To eat", "ತಿನ್ನು", "tinnu"],
+          ["To drink", "ಕುಡಿ", "kuḍi"],
+          ["To speak", "ಮಾತನಾಡು", "mātanāḍu"],
+          ["To write", "ಬರೆ", "bare"],
+          ["To read", "ಓದು", "ōdu"],
+          ["To sleep", "ಮಲಗು", "malagu"],
+          ["To see", "ನೋಡು", "nōḍu"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "title": "Simple Present Tense in Kannada",
+    "url": "#",
+    "content": "Simple Present Tense in Kannada",
+    "intro": "Formula: Subject + verb stem + present suffix. Suffix depends on person and gender: -ತ್ತೇನೆ (I), -ತ್ತೀಯ (you sg), -ತ್ತಾನೆ (he), -ತ್ತಾಳೆ (she), -ತ್ತೇವೆ (we), -ತ್ತೀರಿ (you pl), -ತ್ತಾರೆ (they).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Present tense suffixes (verb stem + utta + suffix)",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I (male) do", "ನಾನು ಮಾಡುತ್ತೇನೆ", "nānu māḍuttēne"],
+          ["I (female) do", "ನಾನು ಮಾಡುತ್ತೇನೆ", "nānu māḍuttēne"],
+          ["You (sg) do", "ನೀನು ಮಾಡುತ್ತೀಯ", "nīnu māḍuttīya"],
+          ["He does", "ಅವನು ಮಾಡುತ್ತಾನೆ", "avanu māḍuttāne"],
+          ["She does", "ಅವಳು ಮಾಡುತ್ತಾಳೆ", "avaḷu māḍuttāḷe"],
+          ["We do", "ನಾವು ಮಾಡುತ್ತೇವೆ", "nāvu māḍuttēve"],
+          ["You (pl) do", "ನೀವು ಮಾಡುತ್ತೀರಿ", "nīvu māḍuttīri"],
+          ["They do", "ಅವರು ಮಾಡುತ್ತಾರೆ", "avaru māḍuttāre"]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Example sentences – To come (ಬರು)",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I come", "ನಾನು ಬರುತ್ತೇನೆ", "nānu baruttēne"],
+          ["You come", "ನೀನು ಬರುತ್ತೀಯ", "nīnu baruttīya"],
+          ["He comes", "ಅವನು ಬರುತ್ತಾನೆ", "avanu baruttāne"],
+          ["She comes", "ಅವಳು ಬರುತ್ತಾಳೆ", "avaḷu baruttāḷe"],
+          ["We come", "ನಾವು ಬರುತ್ತೇವೆ", "nāvu baruttēve"],
+          ["They come", "ಅವರು ಬರುತ್ತಾರೆ", "avaru baruttāre"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "title": "Simple Present Tense of \"To Be\" in Kannada",
+    "url": "#",
+    "content": "\"To Be\" in Kannada is ಇರು (iru). Different forms for each pronoun.",
+    "intro": "In Kannada \"To Be\" is ಇರು (iru). Present forms: ನಾನು ಇದ್ದೇನೆ (I am), ನೀನು ಇದ್ದೀಯ (you are), ಅವನು ಇದ್ದಾನೆ (he is), ಅವಳು ಇದ್ದಾಳೆ (she is), ನಾವು ಇದ್ದೇವೆ (we are), ಅವರು ಇದ್ದಾರೆ (they are).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "\"To Be\" (ಇರು) – Present tense",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I am", "ನಾನು ಇದ್ದೇನೆ", "nānu iddēne"],
+          ["You are (sg)", "ನೀನು ಇದ್ದೀಯ", "nīnu iddīya"],
+          ["He is", "ಅವನು ಇದ್ದಾನೆ", "avanu iddāne"],
+          ["She is", "ಅವಳು ಇದ್ದಾಳೆ", "avaḷu iddāḷe"],
+          ["We are", "ನಾವು ಇದ್ದೇವೆ", "nāvu iddēve"],
+          ["You are (pl)", "ನೀವು ಇದ್ದೀರಿ", "nīvu iddīri"],
+          ["They are", "ಅವರು ಇದ್ದಾರೆ", "avaru iddāre"]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Simple sentences with \"to be\"",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I am here", "ನಾನು ಇಲ್ಲಿ ಇದ್ದೇನೆ", "nānu illi iddēne"],
+          ["He is a teacher", "ಅವನು ಶಿಕ್ಷಕ", "avanu śikṣaka"],
+          ["They are at home", "ಅವರು ಮನೆಯಲ್ಲಿ ಇದ್ದಾರೆ", "avaru maneyalli iddāre"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "title": "Present Continuous Tense in Kannada",
+    "url": "#",
+    "content": "Present Continuous in Kannada – action happening now.",
+    "intro": "Form: subject + verb stem + -ತ್ತ + ಇರು in present. E.g. ನಾನು ಮಾಡುತ್ತಿದ್ದೇನೆ (I am doing).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Present continuous examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I am doing", "ನಾನು ಮಾಡುತ್ತಿದ್ದೇನೆ", "nānu māḍuttiddēne"],
+          ["You are eating", "ನೀನು ತಿನ್ನುತ್ತಿದ್ದೀಯ", "nīnu tinnuttiddīya"],
+          ["He is coming", "ಅವನು ಬರುತ್ತಿದ್ದಾನೆ", "avanu baruttiddāne"],
+          ["She is writing", "ಅವಳು ಬರೆಯುತ್ತಿದ್ದಾಳೆ", "avaḷu bareyuttiddāḷe"],
+          ["We are going", "ನಾವು ಹೋಗುತ್ತಿದ್ದೇವೆ", "nāvu hōguttiddēve"],
+          ["They are speaking", "ಅವರು ಮಾತನಾಡುತ್ತಿದ್ದಾರೆ", "avaru mātanāḍuttiddāre"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "title": "Simple Future Tense in Kannada",
+    "url": "#",
+    "content": "Simple Future Tense in Kannada.",
+    "intro": "Future is formed with verb stem + -ುವ/-ಉವ + personal suffix. E.g. ನಾನು ಮಾಡುವೆನೆ (I will do), ಅವನು ಬರುವಾನೆ (He will come).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Future tense examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I will do", "ನಾನು ಮಾಡುವೆನೆ", "nānu māḍuvene"],
+          ["You will come", "ನೀನು ಬರುವೀಯ", "nīnu baruvīya"],
+          ["He will go", "ಅವನು ಹೋಗುವಾನೆ", "avanu hōguvāne"],
+          ["She will eat", "ಅವಳು ತಿನ್ನುವಾಳೆ", "avaḷu tinnuvāḷe"],
+          ["We will see", "ನಾವು ನೋಡುವೇವೆ", "nāvu nōḍuvēve"],
+          ["They will speak", "ಅವರು ಮಾತನಾಡುವಾರೆ", "avaru mātanāḍuvāre"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "title": "Future Continuous Tense in Kannada",
+    "url": "#",
+    "content": "Future Continuous in Kannada.",
+    "intro": "Action that will be ongoing at a future time. Form: future of main verb + ಇರು.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Future continuous examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I will be doing", "ನಾನು ಮಾಡುತ್ತಿದ್ದೇನೆ (ಭವಿಷ್ಯತ್)", "nānu māḍuttiddēne"],
+          ["He will be coming", "ಅವನು ಬರುತ್ತಿದ್ದಾನೆ", "avanu baruttiddāne"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "title": "Simple Past Tense in Kannada – Part 1 (Verbs without object)",
+    "url": "#",
+    "content": "Simple Past Tense – intransitive verbs.",
+    "intro": "Past tense: verb stem changes + past suffix. ನಾನು ಹೋದೆ (I went), ಅವನು ಬಂದ (He came).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Past tense – To go (ಹೋಗು)",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I went", "ನಾನು ಹೋದೆ", "nānu hōde"],
+          ["You went", "ನೀನು ಹೋದೆ", "nīnu hōde"],
+          ["He went", "ಅವನು ಹೋದ", "avanu hōda"],
+          ["She went", "ಅವಳು ಹೋದಳು", "avaḷu hōdaḷu"],
+          ["We went", "ನಾವು ಹೋದೆವು", "nāvu hōdevu"],
+          ["They went", "ಅವರು ಹೋದರು", "avaru hōdaru"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "title": "Simple Past Tense in Kannada – Part 2 (Verbs with object)",
+    "url": "#",
+    "content": "Simple Past Tense – transitive verbs.",
+    "intro": "With object, same past stem; subject suffix agrees with subject. ನಾನು ಅನ್ನ ತಿಂದೆ (I ate food).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Past tense with object",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I ate food", "ನಾನು ಅನ್ನ ತಿಂದೆ", "nānu anna tinde"],
+          ["He did work", "ಅವನು ಕೆಲಸ ಮಾಡಿದ", "avanu kelasa māḍida"],
+          ["She wrote a letter", "ಅವಳು ಲೇಖನ ಬರೆದಳು", "avaḷu lēkhana baredaḷu"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "title": "Simple Past Tense in Kannada – Part 3 (Past tense of \"to be\")",
+    "url": "#",
+    "content": "Past tense of \"To Be\" (ಇರು) in Kannada.",
+    "intro": "ನಾನು ಇದ್ದೆ (I was), ಅವನು ಇದ್ದ (He was), ಅವರು ಇದ್ದರು (They were).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "\"To Be\" – Past tense",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I was", "ನಾನು ಇದ್ದೆ", "nānu idde"],
+          ["You were", "ನೀನು ಇದ್ದೀಯ", "nīnu iddīya"],
+          ["He was", "ಅವನು ಇದ್ದ", "avanu idda"],
+          ["She was", "ಅವಳು ಇದ್ದಳು", "avaḷu iddaḷu"],
+          ["We were", "ನಾವು ಇದ್ದೆವು", "nāvu iddevu"],
+          ["They were", "ಅವರು ಇದ್ದರು", "avaru iddaru"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "title": "Exceptional Verbs in Kannada which change in past tense form",
+    "url": "#",
+    "content": "Irregular past tense verbs in Kannada.",
+    "intro": "Some verbs have irregular past stems. E.g. ಬರು (come) → ಬಂದ (came), ತಿನ್ನು (eat) → ತಿಂದ (ate).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Irregular past forms",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["To come – He came", "ಅವನು ಬಂದ", "avanu banda"],
+          ["To eat – I ate", "ನಾನು ತಿಂದೆ", "nānu tinde"],
+          ["To give – She gave", "ಅವಳು ಕೊಟ್ಟಳು", "avaḷu koṭṭaḷu"],
+          ["To see – They saw", "ಅವರು ನೋಡಿದರು", "avaru nōḍidaru"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "title": "Past Continuous Tense in Kannada",
+    "url": "#",
+    "content": "Past Continuous in Kannada.",
+    "intro": "Action that was ongoing in the past. Verb + -ತ್ತ + ಇರು in past.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Past continuous examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I was doing", "ನಾನು ಮಾಡುತ್ತಿದ್ದೆ", "nānu māḍuttidde"],
+          ["He was coming", "ಅವನು ಬರುತ್ತಿದ್ದ", "avanu baruttidda"],
+          ["They were eating", "ಅವರು ತಿನ್ನುತ್ತಿದ್ದರು", "avaru tinnuttiddaru"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "title": "Present/Past/Future Perfect Tense in Kannada",
+    "url": "#",
+    "content": "Perfect tenses in Kannada.",
+    "intro": "Perfect: completed action. Form uses past participle + ಇರು in present/past/future.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Perfect tense examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I have done", "ನಾನು ಮಾಡಿದ್ದೇನೆ", "nānu māḍiddēne"],
+          ["He had come", "ಅವನು ಬಂದಿದ್ದ", "avanu bandidda"],
+          ["They will have eaten", "ಅವರು ತಿಂದಿದ್ದಾರೆ (ಭವಿಷ್ಯ)", "avaru tindiddāre"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "title": "Learn Prepositions in Kannada",
+    "url": "#",
+    "content": "Common prepositions and postpositions in Kannada.",
+    "intro": "Kannada uses postpositions (after the noun). Common ones: -ಅಲ್ಲಿ (at), -ಕ್ಕೆ/ಇಗೆ (to), -ದಿಂದ (from), -ಜೊತೆ (with).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Prepositions / Postpositions",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["in, at", "ಅಲ್ಲಿ / -ಇಲ್ಲಿ", "alli / -illi"],
+          ["to", "ಕ್ಕೆ / ಇಗೆ", "kke / ige"],
+          ["from", "ದಿಂದ / ಇಂದ", "dinda / inda"],
+          ["with", "ಜೊತೆ / ಜೊತೆಯಲ್ಲಿ", "jote / joteyalli"],
+          ["for", "ಆಗಿ / ಕ್ಕಾಗಿ", "āgi / kkāgi"],
+          ["on", "ಮೇಲೆ", "mēle"],
+          ["under", "ಕೆಳಗೆ", "keḷage"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "title": "Preposition \"TO\" in Kannada",
+    "url": "#",
+    "content": "How to say \"to\" (direction/goal) in Kannada.",
+    "intro": "\"To\" is usually -ಕ್ಕೆ (kke) or -ಇಗೆ (ige) added to the noun. ಮನೆ + ಕ್ಕೆ = ಮನೆಕ್ಕೆ (to home).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "\"To\" – examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["to home", "ಮನೆಗೆ", "manege"],
+          ["to school", "ಶಾಲೆಗೆ", "śālege"],
+          ["to the market", "ಮಾರುಕಟ್ಟೆಗೆ", "mārukaṭṭege"],
+          ["I went to Bangalore", "ನಾನು ಬೆಂಗಳೂರಿಗೆ ಹೋದೆ", "nānu beṅgaḷūrige hōde"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "title": "Sentences with person or living things as object",
+    "url": "#",
+    "content": "Using dative case for person as object in Kannada.",
+    "intro": "When the object is a person, use dative -ಕ್ಕೆ/ಇಗೆ or -ಅನು/ಅನ್ನು. ನನಗೆ ಕೊಡು (Give to me).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Person as object",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["Give me water", "ನನಗೆ ನೀರು ಕೊಡು", "nanage nīru koḍu"],
+          ["I told him", "ನಾನು ಅವನಿಗೆ ಹೇಳಿದೆ", "nānu avanige hēḷide"],
+          ["She asked you", "ಅವಳು ನಿನಗೆ ಕೇಳಿದಳು", "avaḷu ninage kēḷidaḷu"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "title": "Saying My/His/Her in Kannada",
+    "url": "#",
+    "content": "Possessive forms (my, your, his, her) in Kannada.",
+    "intro": "Possessives: ನನ್ನ (my), ನಿಮ್ಮ (your), ಅವನ (his), ಅವಳ (her), ನಮ್ಮ (our), ಅವರ (their).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Possessives",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["my house", "ನನ್ನ ಮನೆ", "nanna mane"],
+          ["your book", "ನಿಮ್ಮ ಪುಸ್ತಕ", "nimma pustaka"],
+          ["his name", "ಅವನ ಹೆಸರು", "avana hesaru"],
+          ["her mother", "ಅವಳ ತಾಯಿ", "avaḷa tāyi"],
+          ["our school", "ನಮ್ಮ ಶಾಲೆ", "namma śāle"],
+          ["their car", "ಅವರ ಕಾರು", "avara kāru"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "title": "Basic questions and \"WH\" questions in Kannada",
+    "url": "#",
+    "content": "Forming yes/no and WH questions in Kannada.",
+    "intro": "Add -ಅ (a) or -ಏ (ē) for yes/no. WH words: ಏನು (what), ಯಾರು (who), ಎಲ್ಲಿ (where), ಯಾವಾಗ (when), ಏಕೆ (why), ಹೇಗೆ (how).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "WH question words",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["What", "ಏನು", "ēnu"],
+          ["Who", "ಯಾರು", "yāru"],
+          ["Where", "ಎಲ್ಲಿ", "elli"],
+          ["When", "ಯಾವಾಗ", "yāvāga"],
+          ["Why", "ಏಕೆ", "ēke"],
+          ["How", "ಹೇಗೆ", "hēge"],
+          ["Which", "ಅದು / ಯಾವುದು", "adu / yāvudu"]
+        ]
+      },
+      {
+        "type": "table",
+        "heading": "Example questions",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["What is this?", "ಇದು ಏನು?", "idu ēnu?"],
+          ["Who is he?", "ಅವನು ಯಾರು?", "avanu yāru?"],
+          ["Where do you live?", "ನೀವು ಎಲ್ಲಿ ವಾಸವಾಗಿದ್ದೀರಿ?", "nīvu elli vāsavāgiddīri?"],
+          ["When did you come?", "ನೀವು ಯಾವಾಗ ಬಂದಿರಿ?", "nīvu yāvāga bandiri?"],
+          ["Why?", "ಏಕೆ?", "ēke?"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "title": "Negative Sentences – Present tense in Kannada",
+    "url": "#",
+    "content": "Negative present tense in Kannada.",
+    "intro": "Use ಇಲ್ಲ (illa) for \"is not\" / \"do not\". ನಾನು ಮಾಡುವದಿಲ್ಲ (I do not do).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Negative present",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I do not do", "ನಾನು ಮಾಡುವದಿಲ್ಲ", "nānu māḍuvadilla"],
+          ["He does not come", "ಅವನು ಬರುವದಿಲ್ಲ", "avanu baruvadilla"],
+          ["They are not here", "ಅವರು ಇಲ್ಲಿ ಇಲ್ಲ", "avaru illi illa"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "title": "Negative Sentences – Past tense in Kannada",
+    "url": "#",
+    "content": "Negative past tense in Kannada.",
+    "intro": "Past negative: ಮಾಡಲಿಲ್ಲ (did not do), ಬರಲಿಲ್ಲ (did not come).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Negative past",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I did not do", "ನಾನು ಮಾಡಲಿಲ್ಲ", "nānu māḍalilla"],
+          ["He did not come", "ಅವನು ಬರಲಿಲ್ಲ", "avanu baralilla"],
+          ["She was not there", "ಅವಳು ಅಲ್ಲಿ ಇರಲಿಲ್ಲ", "avaḷu alli iralilla"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "title": "Negative Sentence – Future Tense in Kannada",
+    "url": "#",
+    "content": "Negative future in Kannada.",
+    "intro": "Future negative: ಮಾಡುವದಿಲ್ಲ or ಮಾಡೆನು (will not do).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Negative future",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I will not do", "ನಾನು ಮಾಡುವದಿಲ್ಲ", "nānu māḍuvadilla"],
+          ["He will not come", "ಅವನು ಬರುವದಿಲ್ಲ", "avanu baruvadilla"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "title": "Working with nouns – Gender & Plurals in Kannada",
+    "url": "#",
+    "content": "Gender and plural formation in Kannada nouns.",
+    "intro": "Kannada has three genders: masculine, feminine, neuter. Plurals often add -ಗಳು (gaḷu) or -ರು (ru) for humans.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Plural examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["book – books", "ಪುಸ್ತಕ – ಪುಸ್ತಕಗಳು", "pustaka – pustakagaḷu"],
+          ["child – children", "ಮಗು – ಮಕ್ಕಳು", "magu – makkaḷu"],
+          ["man – men", "ಮನುಷ್ಯ – ಮನುಷ್ಯರು", "manuṣya – manuṣyaru"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "title": "Working with nouns – Prepositions in Kannada",
+    "url": "#",
+    "content": "Nouns with postpositions in Kannada.",
+    "intro": "Nouns take case suffixes: -ಅಲ್ಲಿ, -ಕ್ಕೆ, -ದಿಂದ, etc.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Noun + postposition",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["in the house", "ಮನೆಯಲ್ಲಿ", "maneyalli"],
+          ["to the market", "ಮಾರುಕಟ್ಟೆಗೆ", "mārukaṭṭege"],
+          ["from the school", "ಶಾಲೆಯಿಂದ", "śāleyinda"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "title": "Prepositions with similar pronunciation or similar meanings",
+    "url": "#",
+    "content": "Prepositions that sound similar or have close meanings.",
+    "intro": "ಕ್ಕೆ/ಇಗೆ (to), ಅಲ್ಲಿ/ಇಲ್ಲಿ (at), ದಿಂದ/ಇಂದ (from) – choose based on vowel harmony and context.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Similar postpositions",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["to (directional)", "ಕ್ಕೆ / ಇಗೆ", "kke / ige"],
+          ["at (location)", "ಅಲ್ಲಿ / ಇಲ್ಲಿ", "alli / illi"],
+          ["from", "ದಿಂದ / ಇಂದ", "dinda / inda"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "title": "Cases in Kannada. ವಿಭಕ್ತಿ Vibhakti and ವಿಭಕ್ತಿಪ್ರತ್ಯಯ",
+    "url": "#",
+    "content": "Grammatical cases (vibhakti) in Kannada.",
+    "intro": "Kannada has seven cases: nominative, accusative, instrumental, dative, ablative, genitive, locative. Suffixes attach to the noun stem.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Case suffixes (simplified)",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["nominative (subject)", "ಮನೆ", "mane"],
+          ["accusative (object)", "ಮನೆಯನ್ನು", "maneyannu"],
+          ["dative (to/for)", "ಮನೆಗೆ", "manege"],
+          ["ablative (from)", "ಮನೆಯಿಂದ", "maneyinda"],
+          ["genitive (of)", "ಮನೆಯ", "maneya"],
+          ["locative (in/at)", "ಮನೆಯಲ್ಲಿ", "maneyalli"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "title": "Commands / Imperative statements in Kannada",
+    "url": "#",
+    "content": "Imperative (commands) in Kannada.",
+    "intro": "Imperative: use verb stem or stem + -ಅಲಿ/-ಅಿ. ನೀನು: ಮಾಡು (do!), ನೀವು: ಮಾಡಿ (do! respectful).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Imperative examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["Do! (informal)", "ಮಾಡು", "māḍu"],
+          ["Do! (respectful)", "ಮಾಡಿ", "māḍi"],
+          ["Come here!", "ಇಲ್ಲಿ ಬಾ", "illi bā"],
+          ["Eat!", "ತಿನ್ನು", "tinnu"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "title": "Time related words",
+    "url": "#",
+    "content": "Time vocabulary in Kannada.",
+    "intro": "Words for time, day, hour, yesterday, tomorrow, etc.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Time words",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["time", "ಸಮಯ / ವೇಳೆ", "samaya / vēḷe"],
+          ["day", "ದಿನ", "dina"],
+          ["today", "ಇಂದು", "indu"],
+          ["yesterday", "ನಿನ್ನೆ", "ninne"],
+          ["tomorrow", "ನಾಳೆ", "nāḷe"],
+          ["now", "ಈಗ", "īga"],
+          ["morning", "ಬೆಳಿಗ್ಗೆ", "beḷigge"],
+          ["night", "ರಾತ್ರಿ", "rātri"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "title": "Verbs indicating cause of action. Causative verb",
+    "url": "#",
+    "content": "Causative verbs in Kannada.",
+    "intro": "Causative: make someone do something. Often -ಿಸು (-isu) suffix: ಕೇಳು (hear) → ಕೇಳಿಸು (make hear / ask).",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Causative examples",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["to do – to make do", "ಮಾಡು – ಮಾಡಿಸು", "māḍu – māḍisu"],
+          ["to eat – to feed", "ತಿನ್ನು – ತಿನ್ನಿಸು", "tinnu – tinnisu"],
+          ["He made me write", "ಅವನು ನನಗೆ ಬರೆಯಿಸಿದ", "avanu nanage bareyisida"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "title": "ಆ-ಇ-ಎ-ಎ-ಯಾ-ಈ (A-I-e-e-yA-I) rule",
+    "url": "#",
+    "content": "Adjective agreement rule in Kannada (like Marathi आ-ई-ए-ए-या-ई).",
+    "intro": "Adjectives and some modifiers change ending by gender/number: masculine singular -ಆ, feminine -ಇ/ಈ, neuter -ಎ, plural -ಅರು/ಗಳು etc.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Adjective forms (example: my)",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["my (m.sg)", "ನನ್ನ", "nanna"],
+          ["my (f.sg)", "ನನ್ನ", "nanna"],
+          ["my (n.sg)", "ನನ್ನ", "nanna"],
+          ["our", "ನಮ್ಮ", "namma"],
+          ["your", "ನಿಮ್ಮ", "nimma"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "title": "Past/Present/Future Perfect Tense – Second Style",
+    "url": "#",
+    "content": "Alternative perfect tense formation in Kannada.",
+    "intro": "Perfect can also be expressed with past participle + ಇರು in different tenses.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Perfect – second style",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I have done (it)", "ನಾನು ಮಾಡಿದ್ದೇನೆ", "nānu māḍiddēne"],
+          ["He had come", "ಅವನು ಬಂದಿದ್ದ", "avanu bandidda"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "title": "Past/Present/Future Perfect Continuous tense in Kannada",
+    "url": "#",
+    "content": "Perfect continuous tenses in Kannada.",
+    "intro": "Action that had been / has been / will have been ongoing. Verb + -ತ್ತ + ಇರು in perfect form.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "Perfect continuous",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["I had been doing", "ನಾನು ಮಾಡುತ್ತಿದ್ದೆ", "nānu māḍuttidde"],
+          ["He has been coming", "ಅವನು ಬರುತ್ತಿದ್ದಾನೆ", "avanu baruttiddāne"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "title": "Difference between ಇಲ್ಲ (illa) and ಬೇಡ (bēḍa)",
+    "url": "#",
+    "content": "When to use ಇಲ್ಲ (no/not) vs ಬೇಡ (don't want).",
+    "intro": "ಇಲ್ಲ (illa) = is not / do not / no. ಬೇಡ (bēḍa) = don't want / no thanks.",
+    "blocks": [
+      {
+        "type": "table",
+        "heading": "ಇಲ್ಲ vs ಬೇಡ",
+        "headers": ["English", "Kannada", "Transliteration"],
+        "speakCol": 1,
+        "rows": [
+          ["There is not / I don't", "ಇಲ್ಲ", "illa"],
+          ["I don't want it", "ನನಗೆ ಬೇಡ", "nanage bēḍa"],
+          ["No thanks", "ಬೇಡ", "bēḍa"],
+          ["He is not here", "ಅವನು ಇಲ್ಲಿ ಇಲ್ಲ", "avanu illi illa"]
+        ]
+      }
+    ]
+  },
+  {"id":343,"title":"Sentence using \"Going to\" phrase","url":"#","content":"\"Going to\" for future intention in Kannada.","intro":"Use ಹೋಗು (go) + infinitive or -ಲು/-ಕ್ಕೆ form to express 'going to do'.","blocks":[{"type":"table","heading":"Going to – examples","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I am going to eat","ನಾನು ತಿನ್ನಲು ಹೋಗುತ್ತೇನೆ","nānu tinnalu hōguttēne"],["He is going to come","ಅವನು ಬರಲು ಹೋಗುತ್ತಾನೆ","avanu baralu hōguttāne"],["We are going to the market","ನಾವು ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತೇವೆ","nāvu mārukaṭṭege hōguttēve"]]}]},
+  {"id":344,"title":"Sentence using \"Used to\" phrase","url":"#","content":"\"Used to\" (past habit) in Kannada.","intro":"Past habit: verb stem + -ತ್ತಿದ್ದ + past suffix. ಅವನು ಇಲ್ಲಿ ಬರುತ್ತಿದ್ದ (He used to come here).","blocks":[{"type":"table","heading":"Used to – examples","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I used to go there","ನಾನು ಅಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೆ","nānu allige hōguttidde"],["She used to sing","ಅವಳು ಹಾಡುತ್ತಿದ್ದಳು","avaḷu hāḍuttiddaḷu"]]}]},
+  {"id":345,"title":"Sentence using \"Used to\" phrase – old style","url":"#","content":"Alternative way to say \"used to\" in Kannada.","intro":"Same idea with different phrasing: ನಾನು ಹೋಗುತ್ತಿದ್ದೆ (I used to go).","blocks":[{"type":"table","heading":"Used to – old style","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["He used to drink tea","ಅವನು ಚಹಾ ಕುಡುತ್ತಿದ್ದ","avanu cahā kuḍuttidda"]]}]},
+  {"id":346,"title":"Sentence using \"If-Then\"","url":"#","content":"If-then conditional sentences in Kannada.","intro":"ಒಂದು ವೇಳೆ ... ಅಂದರೆ (if ... then). Or -ಅಲ್ಲಿ/-ಅಾದರೆ on verb.","blocks":[{"type":"table","heading":"If-Then examples","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["If you come, I will go","ನೀನು ಬಂದರೆ ನಾನು ಹೋಗುತ್ತೇನೆ","nīnu bandare nānu hōguttēne"],["If it rains, we will stay","ಮಳೆ ಬಂದರೆ ನಾವು ಇರುವೆವು","maḷe bandare nāvu iruvevu"]]}]},
+  {"id":347,"title":"Prepositions with Verbs","url":"#","content":"Verbs that take specific postpositions in Kannada.","intro":"Some verbs require -ಅನ್ನು, -ಇಗೆ, -ದಿಂದ etc.","blocks":[{"type":"table","heading":"Verb + postposition","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to depend on","ಅವಲಂಬಿಸು","avalambisu"],["to think about","ಯೋಚಿಸು","yōcisu"],["to wait for","ಕಾಯು","kāyu"]]}]},
+  {"id":348,"title":"Adjectives in Kannada","url":"#","content":"Adjectives and their agreement in Kannada.","intro":"Adjectives may agree in gender/number. ಚಿಕ್ಕ (small), ಚಿಕ್ಕದು (small thing), ಚಿಕ್ಕವನು (small boy).","blocks":[{"type":"table","heading":"Common adjectives","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["big","ದೊಡ್ಡ","doḍḍa"],["small","ಚಿಕ್ಕ","cikka"],["good","ಒಳ್ಳೆಯ","oḷḷeya"],["bad","ಕೆಟ್ಟ","keṭṭa"],["new","ಹೊಸ","hosa"],["old","ಹಳೆಯ","haḷeya"]]}]},
+  {"id":349,"title":"Using verb \"Can/To be able to\"","url":"#","content":"Expressing ability (can / be able to) in Kannada.","intro":"Use -ಲು ಸಾಧ್ಯ (can), or -ಬಲ್ಲ (able): ನಾನು ಮಾಡಬಲ್ಲೆ (I can do).","blocks":[{"type":"table","heading":"Can / be able to","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I can speak Kannada","ನಾನು ಕನ್ನಡ ಮಾತನಾಡಬಲ್ಲೆ","nānu kannaḍa mātanāḍaballe"],["He can come","ಅವನು ಬರಲು ಸಾಧ್ಯ","avanu baralu sādhya"],["She could not come","ಅವಳು ಬರಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ","avaḷu baralu sādhyavāgalilla"]]}]},
+  {"id":350,"title":"Using verb To Want/To Need","url":"#","content":"To want and to need in Kannada.","intro":"ಬೇಕು (want/need), ಬಯಸು (want). ನನಗೆ ಬೇಕು (I want/need).","blocks":[{"type":"table","heading":"Want / Need","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I want water","ನನಗೆ ನೀರು ಬೇಕು","nanage nīru bēku"],["He needs help","ಅವನಿಗೆ ಸಹಾಯ ಬೇಕು","avanige sahāya bēku"],["I want to go","ನಾನು ಹೋಗಬೇಕು","nānu hōgabēku"]]}]},
+  {"id":351,"title":"Verb \"To Become/To Happen\"","url":"#","content":"To become / to happen in Kannada.","intro":"ಆಗು (āgu) = become, happen. ಅವನು ಶಿಕ್ಷಕನಾಗಿದ್ದಾನೆ (He became a teacher).","blocks":[{"type":"table","heading":"Become / Happen","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["What happened?","ಏನಾಯಿತು?","ēnāyitu?"],["He became a doctor","ಅವನು ವೈದ್ಯನಾದ","avanu vaidyānāda"],["It will happen","ಅದು ಆಗುವುದು","adu āguvudu"]]}]},
+  {"id":352,"title":"Using \"Should\"","url":"#","content":"Expressing \"should\" (obligation/advice) in Kannada.","intro":"ಬೇಕು or -ಬೇಕು with verb. ನೀವು ಹೋಗಬೇಕು (You should go).","blocks":[{"type":"table","heading":"Should – examples","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["You should go","ನೀವು ಹೋಗಬೇಕು","nīvu hōgabēku"],["He should come","ಅವನು ಬರಬೇಕು","avanu barabēku"]]}]},
+  {"id":353,"title":"Using \"Must\"/\"to be have to\"","url":"#","content":"Must / have to in Kannada.","intro":"ಬೇಕು (must/have to). ನಾನು ಮಾಡಬೇಕು (I must do).","blocks":[{"type":"table","heading":"Must / Have to","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I must go","ನಾನು ಹೋಗಬೇಕು","nānu hōgabēku"],["You have to come","ನೀವು ಬರಬೇಕು","nīvu barabēku"]]}]},
+  {"id":354,"title":"Using phrase \"to keep doing\"","url":"#","content":"To keep doing (continuous repetition) in Kannada.","intro":"Verb + -ತ್ತಲೇ ಇರು or -ಉತ್ತಿರು. ಅವನು ಮಾಡುತ್ತಲೇ ಇದ್ದಾನೆ (He keeps doing).","blocks":[{"type":"table","heading":"Keep doing","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["He keeps talking","ಅವನು ಮಾತನಾಡುತ್ತಲೇ ಇದ್ದಾನೆ","avanu mātanāḍuttale iddāne"],["Keep going","ಹೋಗುತ್ತಲೇ ಇರು","hōguttale iru"]]}]},
+  {"id":355,"title":"Comparison and degrees of comparison","url":"#","content":"Comparatives and superlatives in Kannada.","intro":"More: -ಇಂದ (than). Most: ಅತ್ಯಂತ or -ಅವಳಲ್ಲಿ. ದೊಡ್ಡದು (big), ಅದಕ್ಕಿಂತ ದೊಡ್ಡದು (bigger).","blocks":[{"type":"table","heading":"Comparison","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["bigger","ಅಷ್ಟು ದೊಡ್ಡದು / ಹೆಚ್ಚು ದೊಡ್ಡ","aṣṭu doḍḍadu / heccu doḍḍa"],["biggest","ಅತ್ಯಂತ ದೊಡ್ಡ","atyanta doḍḍa"],["better","ಉತ್ತಮ","uttama"]]}]},
+  {"id":356,"title":"Using verb \"To Know\"","url":"#","content":"To know in Kannada.","intro":"ಅರಿ (ari) / ಗೊತ್ತು (gottu). ನನಗೆ ಗೊತ್ತು (I know). ಅವನಿಗೆ ಗೊತ್ತಿಲ್ಲ (He doesn't know).","blocks":[{"type":"table","heading":"To know","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I know","ನನಗೆ ಗೊತ್ತು","nanage gottu"],["Do you know?","ನಿಮಗೆ ಗೊತ್ತೇ?","nimage gottē?"],["He knows Kannada","ಅವನಿಗೆ ಕನ್ನಡ ಗೊತ್ತು","avanige kannaḍa gottu"]]}]},
+  {"id":357,"title":"Using \"Let\" and \"Shall we\"","url":"#","content":"Let (permission) and Shall we (suggestion) in Kannada.","intro":"ಬಿಡು (let). ನಾವು ... ಮಾಡಲೇ? (Shall we do ...?).","blocks":[{"type":"table","heading":"Let / Shall we","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Let me go","ನಾನು ಹೋಗಲಿ","nānu hōgali"],["Let him come","ಅವನು ಬರಲಿ","avanu barali"],["Shall we eat?","ನಾವು ತಿನ್ನಲೇ?","nāvu tinnalē?"]]}]},
+  {"id":358,"title":"Which-That / What-That sentences","url":"#","content":"Relative clauses (which/that, what) in Kannada.","intro":"ಅದು (that which), ಏನು (what). ಬಂದವನು (the one who came).","blocks":[{"type":"table","heading":"Which/What-That","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["the book that I gave","ನಾನು ಕೊಟ್ಟ ಪುಸ್ತಕ","nānu koṭṭa pustaka"],["what you said","ನೀವು ಹೇಳಿದ್ದು","nīvu hēḷiddu"]]}]},
+  {"id":359,"title":"Giving instructions formally","url":"#","content":"Formal instructions and requests in Kannada.","intro":"Use -ಅಿ (plural/respectful imperative): ಮಾಡಿ (please do), ಬನ್ನಿ (please come).","blocks":[{"type":"table","heading":"Formal instructions","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Please sit","ಕುಳ್ಳಿರಿ","kuḷḷiri"],["Please come in","ಒಳಗೆ ಬನ್ನಿ","oḷage banni"],["Please wait","ಕಾಯಿರಿ","kāyiri"]]}]},
+  {"id":360,"title":"Using \"To Like\"","url":"#","content":"To like in Kannada.","intro":"ಇಷ್ಟ (like). ನನಗೆ ಇಷ್ಟ (I like). ಅಥವಾ ಒಳ್ಳೆಯ (good) with verb.","blocks":[{"type":"table","heading":"To like","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I like this","ನನಗೆ ಇದು ಇಷ್ಟ","nanage idu iṣṭa"],["He likes coffee","ಅವನಿಗೆ ಕಾಫಿ ಇಷ್ಟ","avanige kāphi iṣṭa"],["Do you like it?","ನಿಮಗೆ ಇಷ್ಟವೇ?","nimage iṣṭavē?"]]}]},
+  {"id":361,"title":"Sentences using \"would\" in Kannada","url":"#","content":"Would (conditional/past habit) in Kannada.","intro":"Past habitual or polite: -ತ್ತಿದ್ದ (used to) or conditional -ಅಾದರೆ.","blocks":[{"type":"table","heading":"Would","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I would go","ನಾನು ಹೋಗುತ್ತಿದ್ದೆ","nānu hōguttidde"],["Would you come?","ನೀವು ಬರುವಿರೇ?","nīvu baruvirē?"]]}]},
+  {"id":362,"title":"\"To Understand\" & \"To come to know\"","url":"#","content":"To understand and to come to know in Kannada.","intro":"ಅರ್ಥಮಾಡು (understand), ತಿಳಿ (know/understand), ಗೊತ್ತಾಗು (come to know).","blocks":[{"type":"table","heading":"Understand / Come to know","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I understand","ನನಗೆ ಅರ್ಥವಾಯಿತು","nanage arthavāyitu"],["I came to know","ನನಗೆ ಗೊತ್ತಾಯಿತು","nanage gottāyitu"],["Do you understand?","ನಿಮಗೆ ಅರ್ಥವಾಯಿತೇ?","nimage arthavāyitē?"]]}]},
+  {"id":363,"title":"Add a question tag","url":"#","content":"Question tags in Kannada.","intro":"Add -ಅಲ್ವಾ? -ಅತ್ತೇ? -ಅಲ್ಲವೇ? (isn't it?, right?).","blocks":[{"type":"table","heading":"Question tags","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["You are coming, right?","ನೀವು ಬರುತ್ತೀರಿ, ಅಲ್ವಾ?","nīvu baruttīri, alvā?"],["It is good, isn't it?","ಒಳ್ಳೆಯದು, ಅಲ್ಲವೇ?","oḷḷeyadu, allavē?"]]}]},
+  {"id":364,"title":"Using verb \"To remember\" in Kannada","url":"#","content":"To remember in Kannada.","intro":"ನೆನಪು (memory), ನೆನಪಿರು (remember). ನನಗೆ ನೆನಪಿದೆ (I remember).","blocks":[{"type":"table","heading":"To remember","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I remember","ನನಗೆ ನೆನಪಿದೆ","nanage nenapide"],["Remember this","ಇದನ್ನು ನೆನಪಿಡಿ","idannu nenapiḍi"],["I don't remember","ನನಗೆ ನೆನಪಿಲ್ಲ","nanage nenapilla"]]}]},
+  {"id":365,"title":"Using \"To Want\"/\"To Need\" with other verbs","url":"#","content":"Want/Need with another verb in Kannada.","intro":"Verb in -ಲು + ಬೇಕು. ನಾನು ತಿನ್ನಲು ಬೇಕು (I want to eat).","blocks":[{"type":"table","heading":"Want/Need + verb","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I want to eat","ನಾನು ತಿನ್ನಲು ಬೇಕು","nānu tinnalu bēku"],["He needs to go","ಅವನು ಹೋಗಲು ಬೇಕು","avanu hōgalu bēku"]]}]},
+  {"id":366,"title":"Using \"To Want\" with other person","url":"#","content":"Want (someone else to do) in Kannada.","intro":"ನನಗೆ ಅವನು ಬರಲಿ ಬೇಕು (I want him to come).","blocks":[{"type":"table","heading":"Want + other person","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I want you to come","ನನಗೆ ನೀವು ಬರಲಿ ಬೇಕು","nanage nīvu barali bēku"],["He wants me to go","ಅವನಿಗೆ ನಾನು ಹೋಗಲಿ ಬೇಕು","avanige nānu hōgali bēku"]]}]},
+  {"id":367,"title":"Using phrase \"supposed to\" in Kannada","url":"#","content":"Supposed to (expected to) in Kannada.","intro":"ಬೇಕು or -ಬೇಕಾಗಿತ್ತು (was supposed to).","blocks":[{"type":"table","heading":"Supposed to","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I was supposed to come","ನಾನು ಬರಬೇಕಾಗಿತ್ತು","nānu barabēkāgittu"],["You are supposed to go","ನೀವು ಹೋಗಬೇಕು","nīvu hōgabēku"]]}]},
+  {"id":368,"title":"Using \"To Like\" with other verbs","url":"#","content":"Like + verb (enjoy doing) in Kannada.","intro":"ಇಷ್ಟ + verb or -ಲು ಇಷ್ಟ. ನನಗೆ ಓದಲು ಇಷ್ಟ (I like to read).","blocks":[{"type":"table","heading":"Like + verb","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I like to read","ನನಗೆ ಓದಲು ಇಷ್ಟ","nanage ōdalu iṣṭa"],["He likes to play","ಅವನಿಗೆ ಆಡಲು ಇಷ್ಟ","avanige āḍalu iṣṭa"]]}]},
+  {"id":369,"title":"Verbs which use preposition \"To\" with subject and verb form as per object","url":"#","content":"Verbs that take dative (to) and agree with object.","intro":"Some verbs take -ಇಗೆ/ಕ್ಕೆ and object controls agreement.","blocks":[{"type":"table","heading":"Verb + To (dative)","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Give to me","ನನಗೆ ಕೊಡು","nanage koḍu"],["Tell him","ಅವನಿಗೆ ಹೇಳು","avanige hēḷu"]]}]},
+  {"id":370,"title":"Short forms in spoken Kannada","url":"#","content":"Short forms and contractions in spoken Kannada.","intro":"ಅದು → ಅದ್, ನಾನು → ನಾ, ಇದ್ದೇನೆ → ಇದ್ನೆ in casual speech.","blocks":[{"type":"table","heading":"Short forms","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I (spoken)","ನಾ","nā"],["it (spoken)","ಅದ್","ad"],["is (spoken)","ಇದ್ನೆ","idne"]]}]},
+  {"id":371,"title":"Greeting, Wishes, Blessings, Slogans in Kannada","url":"#","content":"Greetings, wishes and blessings in Kannada.","intro":"ನಮಸ್ಕಾರ (hello), ಶುಭೋದಯ (good morning), ಧನ್ಯವಾದ (thank you).","blocks":[{"type":"table","heading":"Greetings & Wishes","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Hello / Hi","ನಮಸ್ಕಾರ","namaskāra"],["Good morning","ಶುಭೋದಯ","śubhōdaya"],["Thank you","ಧನ್ಯವಾದ","dhanyavāda"],["Happy birthday","ಜನ್ಮದಿನ ಶುಭಾಷಯಗಳು","janmadina śubhāṣayagaḷu"],["Good luck","ಒಳ್ಳೆಯದಾಗಲಿ","oḷḷeyadāgali"]]}]},
+  {"id":372,"title":"Abuse Cursing Swear-words in Kannada","url":"#","content":"Avoid – offensive words (listed for learning to avoid).","intro":"Swear words exist in every language; learn to recognise and avoid.","blocks":[{"type":"table","heading":"(Avoid – offensive)","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["(avoid)","(ನಾಚಿಕೆಗೇಡಿ)","(nācikegēḍi)"]]}]},
+  {"id":373,"title":"Compound verbs / Phrases in Kannada","url":"#","content":"Compound verbs (verb + verb) in Kannada.","intro":"ಮಾಡು + ಹಾಕು, ತೆಗೆ + ಕೊಳ್ಳು etc.","blocks":[{"type":"table","heading":"Compound verbs","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to finish (do + put)","ಮಾಡಿಹಾಕು","māḍihāku"],["to take out","ತೆಗೆದುಕೊಳ್ಳು","tegedukoḷḷu"]]}]},
+  {"id":374,"title":"Calling or Addressing someone in Kannada","url":"#","content":"How to call or address people in Kannada.","intro":"ಅಣ್ಣ (brother), ಅಕ್ಕ (sister), ಸಾರ್ (sir).","blocks":[{"type":"table","heading":"Addressing","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Brother (elder)","ಅಣ್ಣ","aṇṇa"],["Sister (elder)","ಅಕ್ಕ","akka"],["Sir","ಸಾರ್","sār"],["Madam","ಮೇಡಂ","mēḍam"]]}]},
+  {"id":375,"title":"Exclamations in Kannada","url":"#","content":"Exclamations and interjections in Kannada.","intro":"ಅಯ್ಯೋ!, ಓಹ್!, ಶಾಬಾಶ!","blocks":[{"type":"table","heading":"Exclamations","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Oh no!","ಅಯ್ಯೋ!","ayyō!"],["Wow!","ಓಹ್! / ಶಾಬಾಶ!","ōh! / śābāśa!"],["Alas!","ಅಯ್ಯೋ!","ayyō!"]]}]},
+  {"id":376,"title":"Requesting someone – \"May I\", \"Can you\" etc.","url":"#","content":"Polite requests in Kannada.","intro":"ಕೊಡು (give), ಮಾಡಿ (please do). ನನಗೆ ... ಕೊಡುವಿರಾ? (Can you give me ...?).","blocks":[{"type":"table","heading":"Requests","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["May I come in?","ನಾನು ಒಳಗೆ ಬರಲೇ?","nānu oḷage baralē?"],["Can you help me?","ನೀವು ನನಗೆ ಸಹಾಯ ಮಾಡುವಿರಾ?","nīvu nanage sahāya māḍuvirā?"]]}]},
+  {"id":377,"title":"Showing uncertainty using May, Might","url":"#","content":"May / Might (uncertainty) in Kannada.","intro":"ಇರಬಹುದು (may be), -ಅಹುದು. ಅವನು ಬರಬಹುದು (He may come).","blocks":[{"type":"table","heading":"May / Might","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["He may come","ಅವನು ಬರಬಹುದು","avanu barabahudu"],["It might rain","ಮಳೆ ಬರಬಹುದು","maḷe barabahudu"]]}]},
+  {"id":378,"title":"Adjectives made from verb","url":"#","content":"Verbal adjectives (participles) in Kannada.","intro":"Verb stem + -ಉವ (present), -ಇದ (past). ಬರುವ (coming), ಬಂದ (came).","blocks":[{"type":"table","heading":"Adjectives from verb","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["running (water)","ಓಡುವ","ōḍuva"],["broken (thing)","ಒಡೆದ","oḍeda"]]}]},
+  {"id":379,"title":"Adjectives related to prepositions","url":"#","content":"Adjectives that imply location/direction in Kannada.","intro":"ಮೇಲಿನ (upper), ಕೆಳಗಿನ (lower), ಒಳಗಿನ (inner).","blocks":[{"type":"table","heading":"Adjectives + place","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["upper","ಮೇಲಿನ","mēlina"],["inner","ಒಳಗಿನ","oḷagina"],["next","ಮುಂದಿನ","mundina"]]}]},
+  {"id":380,"title":"Using May to express wish","url":"#","content":"May (wish/blessing) in Kannada.","intro":"ಅಗಲಿ (may it be). ದೀರ್ಘಾಯುಷ್ಯವಾಗಲಿ (May you live long).","blocks":[{"type":"table","heading":"May (wish)","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["May you be happy","ನೀವು ಸಂತೋಷವಾಗಲಿ","nīvu santōṣavāgali"],["May God bless you","ದೇವರು ನಿಮ್ಮನ್ನು ಆಶೀರ್ವದಿಸಲಿ","dēvaru nimmannu āśīrvadisali"]]}]},
+  {"id":381,"title":"Phrase \"To Make Someone do something\"","url":"#","content":"Causative: make someone do in Kannada.","intro":"ಮಾಡಿಸು (make do), ತಿನ್ನಿಸು (make eat / feed).","blocks":[{"type":"table","heading":"Make someone do","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I made him write","ನಾನು ಅವನಿಂದ ಬರೆಯಿಸಿದೆ","nānu avaninda bareyiside"],["She made me eat","ಅವಳು ನನಗೆ ತಿನ್ನಿಸಿದಳು","avaḷu nanage tinnisidaḷu"]]}]},
+  {"id":382,"title":"To emphasize word in Kannada","url":"#","content":"Emphasis and focus in Kannada.","intro":"ನೇ (emphasis), -ಏ (even/only). ನಾನೇ (I myself), ಇದೇ (this very).","blocks":[{"type":"table","heading":"Emphasis","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I myself","ನಾನೇ","nānē"],["this very one","ಇದೇ","idē"],["only this","ಇದೇ ಮಾತ್ರ","idē mātra"]]}]},
+  {"id":383,"title":"Generalizing words – somewhere, somehow, anything, anybody etc.","url":"#","content":"Indefinite pronouns (someone, somewhere, etc.) in Kannada.","intro":"ಯಾರಾದರೂ (someone), ಎಲ್ಲಾದರೂ (somewhere), ಏನಾದರೂ (something).","blocks":[{"type":"table","heading":"Generalizing","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["someone","ಯಾರಾದರೂ","yārādarū"],["something","ಏನಾದರೂ","ēnādarū"],["somewhere","ಎಲ್ಲಾದರೂ","ellādarū"],["anyone","ಯಾರೇ ಆಗಲಿ","yārē āgali"]]}]},
+  {"id":384,"title":"\"To have\" to indicate possession and relation","url":"#","content":"To have (possession) in Kannada.","intro":"Kannada uses ಇರು (to be) with dative: ನನಗೆ ... ಇದೆ (I have).","blocks":[{"type":"table","heading":"To have","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I have a book","ನನಗೆ ಪುಸ್ತಕ ಇದೆ","nanage pustaka ide"],["He has two children","ಅವನಿಗೆ ಇಬ್ಬರು ಮಕ್ಕಳು ಇದ್ದಾರೆ","avanige ibbaru makkaḷu iddāre"]]}]},
+  {"id":385,"title":"Using \"To mean\". How to ask meaning in Kannada","url":"#","content":"Asking and giving meaning of words in Kannada.","intro":"ಅರ್ಥ (meaning). ಇದರ ಅರ್ಥ ಏನು? (What does this mean?).","blocks":[{"type":"table","heading":"Meaning","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["What does this mean?","ಇದರ ಅರ್ಥ ಏನು?","idara artha ēnu?"],["It means ...","ಇದರ ಅರ್ಥ ...","idara artha ..."],["I don't know the meaning","ನನಗೆ ಅರ್ಥ ಗೊತ್ತಿಲ್ಲ","nanage artha gottilla"]]}]},
+  {"id":386,"title":"Conjunctions in Kannada – Part 1 And, But, Because, So, That","url":"#","content":"Conjunctions Part 1 in Kannada.","intro":"ಮತ್ತು (and), ಆದರೆ (but), ಏಕೆಂದರೆ (because), ಅದಕ್ಕೆ (so), ಎಂದು (that).","blocks":[{"type":"table","heading":"Conjunctions 1","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["and","ಮತ್ತು","mattu"],["but","ಆದರೆ","ādare"],["because","ಏಕೆಂದರೆ","ēkendare"],["so","ಅದಕ್ಕೆ","adakke"],["that","ಎಂದು","endu"]]}]},
+  {"id":387,"title":"Conjunctions in Kannada – Part 2 As, Or, If, in case, provided","url":"#","content":"Conjunctions Part 2 in Kannada.","intro":"ಅಥವಾ (or), -ಅಲ್ಲಿ (if), ಹಾಗೆ (as).","blocks":[{"type":"table","heading":"Conjunctions 2","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["or","ಅಥವಾ","athavā"],["if","ಒಂದು ವೇಳೆ","ondu vēḷe"],["as","ಹಾಗೆ","hāge"]]}]},
+  {"id":388,"title":"Conjunctions in Kannada – Part 3 After, then, As far as, As long as","url":"#","content":"Conjunctions Part 3 in Kannada.","intro":"ಆಮೇಲೆ (then), ನಂತರ (after).","blocks":[{"type":"table","heading":"Conjunctions 3","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["after","ನಂತರ","nantara"],["then","ಆಮೇಲೆ","āmēle"],["as long as","ಅಷ್ಟು ಕಾಲ","aṣṭu kāla"]]}]},
+  {"id":389,"title":"Conjunctions in Kannada Part 4 – As soon as, Once, Rather than, So that","url":"#","content":"Conjunctions Part 4 in Kannada.","intro":"ಎಷ್ಟು ಬೇಗ (as soon as), ಅದಕ್ಕಾಗಿ (so that).","blocks":[{"type":"table","heading":"Conjunctions 4","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["as soon as","ಎಷ್ಟು ಬೇಗ ... ಅಷ್ಟು ಬೇಗ","eṣṭu bēga ... aṣṭu bēga"],["so that","ಅದಕ್ಕಾಗಿ","adakke āgi"]]}]},
+  {"id":390,"title":"List of Conjunctions in Kannada","url":"#","content":"List of common conjunctions in Kannada.","intro":"Summary of conjunctions.","blocks":[{"type":"table","heading":"Conjunctions list","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["and","ಮತ್ತು","mattu"],["but","ಆದರೆ","ādare"],["or","ಅಥವಾ","athavā"],["because","ಏಕೆಂದರೆ","ēkendare"],["therefore","ಆದ್ದರಿಂದ","āddarinda"]]}]},
+  {"id":391,"title":"Combining sentences – change in form of verb ಇರು (iru)","url":"#","content":"Combining two sentences using verb ಇರು in Kannada.","intro":"When combining clauses, ಇರು may change form.","blocks":[{"type":"table","heading":"Combining with ಇರು","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["He is there and I am here","ಅವನು ಅಲ್ಲಿದ್ದಾನೆ, ನಾನು ಇಲ್ಲಿದ್ದೇನೆ","avanu alliddāne, nānu illiddēne"]]}]},
+  {"id":392,"title":"Compound verbs in Kannada","url":"#","content":"Compound verbs (two verbs together) in Kannada.","intro":"ಮಾಡಿ + ಬಿಡು, ತೆಗೆ + ಹಾಕು etc.","blocks":[{"type":"table","heading":"Compound verbs","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to complete","ಮಾಡಿಬಿಡು","māḍibiḍu"],["to throw away","ತೆಗೆದುಹಾಕು","tegeduhāku"]]}]},
+  {"id":393,"title":"Active Passive voice in Kannada","url":"#","content":"Active and passive voice in Kannada.","intro":"Passive: object becomes subject, verb in passive form. ಅವನಿಂದ ಮಾಡಲಾಯಿತು (It was done by him).","blocks":[{"type":"table","heading":"Active / Passive","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I wrote the letter","ನಾನು ಲೇಖನ ಬರೆದೆ","nānu lēkhana barede"],["The letter was written by me","ಅವನಿಂದ ಲೇಖನ ಬರೆಯಲಾಯಿತು","avaninda lēkhana bareyalāyitu"]]}]},
+  {"id":394,"title":"Active Passive voice in Kannada – Style 2","url":"#","content":"Alternative passive construction in Kannada.","intro":"Different word order or -ಅಾಗು passive.","blocks":[{"type":"table","heading":"Passive style 2","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["It was done","ಅದು ಮಾಡಲಾಯಿತು","adu māḍalāyitu"],["It is said","ಅದು ಹೇಳಲಾಗುತ್ತದೆ","adu hēḷalāguttade"]]}]},
+  {"id":395,"title":"Using \"To Feel\" & \"To think\"","url":"#","content":"To feel and to think in Kannada.","intro":"ಅನುಭವಿಸು (feel), ಯೋಚಿಸು (think). ನನಗೆ ... ಅನುಭವವಾಗುತ್ತದೆ (I feel ...).","blocks":[{"type":"table","heading":"Feel / Think","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I think so","ನಾನು ಹಾಗೆ ಯೋಚಿಸುತ್ತೇನೆ","nānu hāge yōcisuttēne"],["I feel good","ನನಗೆ ಒಳ್ಳೆಯದಾಗುತ್ತದೆ","nanage oḷḷeyadāguttade"]]}]},
+  {"id":396,"title":"Idioms and Phrases in Kannada / different sentence formation","url":"#","content":"Common idioms and set phrases in Kannada.","intro":"ಕನ್ನಡ ಮುಹಾವರೆ (idioms).","blocks":[{"type":"table","heading":"Idioms","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to hit the nail on the head","ಅಡ್ಡ ಬಿದ್ದ ಹಾಗೆ","aḍḍa bidda hāge"],["piece of cake","ಸುಲಭ","sulabha"],["raining cats and dogs","ಭಾರಿ ಮಳೆ","bhāri maḷe"]]}]},
+  {"id":397,"title":"Idioms and Phrases in Kannada Part 2","url":"#","content":"More idioms and phrases in Kannada.","intro":"Additional common phrases.","blocks":[{"type":"table","heading":"Idioms Part 2","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["time is money","ಸಮಯವೇ ಧನ","samayavē dhana"],["slow and steady","ನಿಧಾನ ಮತ್ತು ಸ್ಥಿರ","nidhāna mattu sthira"]]}]},
+  {"id":398,"title":"Sentences using \"If-Then\" Style 2","url":"#","content":"If-Then conditional – alternative style in Kannada.","intro":"-ಅಾದರೆ/-ಅಲ್ಲಿ on verb. ಹೋದರೆ (if [you] go).","blocks":[{"type":"table","heading":"If-Then Style 2","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["If you go, I will come","ನೀವು ಹೋದರೆ ನಾನು ಬರುವೆನೆ","nīvu hōdare nānu baruvene"],["If he asks, tell him","ಅವನು ಕೇಳಿದರೆ ಹೇಳಿ","avanu kēḷidare hēḷi"]]}]},
+  {"id":399,"title":"List of Body parts in Kannada","url":"#","content":"Body parts vocabulary in Kannada.","intro":"Learn the names of body parts. Use the speaker to hear pronunciation.","blocks":[{"type":"table","heading":"Body parts","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["head","ತಲೆ","tale"],["eye","ಕಣ್ಣು","kaṇṇu"],["nose","ಮೂಗು","mūgu"],["ear","ಕಿವಿ","kivi"],["mouth","ಬಾಯಿ","bāyi"],["hand","ಕೈ","kai"],["leg","ಕಾಲು","kālu"],["stomach","ಹೊಟ್ಟೆ","hoṭṭe"],["heart","ಹೃದಯ","hṛdaya"],["finger","ಬೆರಳು","beraḷu"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["My head is paining","ನನ್ನ ತಲೆ ನೋವಾಗುತ್ತದೆ","nanna tale nōvāguttade"],["Wash your hands","ನಿನ್ನ ಕೈಗಳನ್ನು ಕ್ಷಾಲಿಸಿ","ninna kaigaḷannu kṣālisi"],["He has pain in his stomach","ಅವನಿಗೆ ಹೊಟ್ಟೆ ನೋವು","avanige hoṭṭe nōvu"],["Close your eyes","ನಿನ್ನ ಕಣ್ಣು ಮುಚ್ಚಿ","ninna kaṇṇu mucci"],["She has long hair","ಅವಳಿಗೆ ಉದ್ದ ಕೇಶವಿದೆ","avaḷige udda kēśavide"]]}]},
+  {"id":400,"title":"Frequently used words. Miscellaneous","url":"#","content":"Common everyday words in Kannada.","intro":"Words you will use often in conversation.","blocks":[{"type":"table","heading":"Frequently used words","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["water","ನೀರು","nīru"],["food","ಅನ್ನ","anna"],["house","ಮನೆ","mane"],["day","ದಿನ","dina"],["today","ಇಂದು","indu"],["tomorrow","ನಾಳೆ","nāḷe"],["yes","ಹೌದು","haudu"],["no","ಇಲ್ಲ","illa"],["please","ದಯವಿಟ್ಟು","dayaviṭṭu"],["thank you","ಧನ್ಯವಾದ","dhanyavāda"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Give me water","ನನಗೆ ನೀರು ಕೊಡಿ","nanage nīru koḍi"],["I am going home today","ನಾನು ಇಂದು ಮನೆಗೆ ಹೋಗುತ್ತೇನೆ","nānu indu manege hōguttēne"],["Come tomorrow","ನಾಳೆ ಬನ್ನಿ","nāḷe banni"],["Yes, I will come","ಹೌದು, ನಾನು ಬರುವೆನೆ","haudu, nānu baruvene"],["Thank you very much","ತುಂಬಾ ಧನ್ಯವಾದ","tumbā dhanyavāda"]]}]},
+  {"id":401,"title":"Relations in Kannada","url":"#","content":"Family and relation words in Kannada.","intro":"How to say father, mother, brother, sister, etc.","blocks":[{"type":"table","heading":"Relations","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["father","ತಂದೆ","tande"],["mother","ತಾಯಿ","tāyi"],["brother (elder)","ಅಣ್ಣ","aṇṇa"],["sister (elder)","ಅಕ್ಕ","akka"],["brother (younger)","ತಮ್ಮ","tamma"],["sister (younger)","ತಂಗಿ","taṅgi"],["grandfather","ಅಜ್ಜ","ajja"],["grandmother","ಅಜ್ಜಿ","ajji"],["husband","ಮಗನು / ಪತಿ","maganu / pati"],["wife","ಹೆಂಡತಿ","heṇḍati"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["My father is a teacher","ನನ್ನ ತಂದೆ ಶಿಕ್ಷಕ","nanna tande śikṣaka"],["My mother cooks well","ನನ್ನ ತಾಯಿ ಚನ್ನಾಗಿ ಅಡುಗೆ ಮಾಡುತ್ತಾಳೆ","nanna tāyi cannāgi aḍuge māḍuttāḷe"],["I have two brothers","ನನಗೆ ಇಬ್ಬರು ಸಹೋದರರು ಇದ್ದಾರೆ","nanage ibbaru sahōdararu iddāre"],["Her grandmother told a story","ಅವಳ ಅಜ್ಜಿ ಕಥೆ ಹೇಳಿದಳು","avaḷa ajji kathe hēḷidaḷu"],["Where is your father?","ನಿಮ್ಮ ತಂದೆ ಎಲ್ಲಿ?","nimma tande elli?"]]}]},
+  {"id":402,"title":"Numbers in Kannada – Part 1","url":"#","content":"Numbers 1 to 20 and basic counting in Kannada.","intro":"ಒಂದು (1), ಎರಡು (2), ಮೂರು (3)...","blocks":[{"type":"table","heading":"Numbers 1–20","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["one","ಒಂದು","ondu"],["two","ಎರಡು","eraḍu"],["three","ಮೂರು","mūru"],["four","ನಾಲ್ಕು","nālku"],["five","ಐದು","aidu"],["six","ಆರು","āru"],["seven","ಏಳು","ēḷu"],["eight","ಎಂಟು","eṇṭu"],["nine","ಒಂಬತ್ತು","ombattu"],["ten","ಹತ್ತು","hattu"],["eleven","ಹನ್ನೊಂದು","hannondu"],["twelve","ಹನ್ನೆರಡು","hanneraḍu"],["fifteen","ಹದಿನೈದು","hadinaidu"],["twenty","ಇಪ್ಪತ್ತು","ippattu"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I have one book","ನನಗೆ ಒಂದು ಪುಸ್ತಕ ಇದೆ","nanage ondu pustaka ide"],["Give me two bananas","ನನಗೆ ಎರಡು ಬಾಳೆಹಣ್ಣು ಕೊಡಿ","nanage eraḍu bāḷehaṇṇu koḍi"],["There are five people","ಐದು ಜನ ಇದ್ದಾರೆ","aidu jana iddāre"],["I wake up at six","ನಾನು ಆರು ಗಂಟೆಗೆ ಎದ್ದೇನೆ","nānu āru gaṇṭege eddēne"],["She is ten years old","ಅವಳಿಗೆ ಹತ್ತು ವಯಸ್ಸು","avaḷige hattu vayassu"]]}]},
+  {"id":403,"title":"Numbers in Kannada – Part 2","url":"#","content":"Numbers 21 to 100 and beyond in Kannada.","intro":"Combining tens and ones. ಇಪ್ಪತ್ತು (20) + ಒಂದು (1) = ಇಪ್ಪತ್ತೊಂದು (21).","blocks":[{"type":"table","heading":"Tens and hundreds","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["twenty","ಇಪ್ಪತ್ತು","ippattu"],["thirty","ಮೂವತ್ತು","mūvattu"],["forty","ನಾಲ್ವತ್ತು","nālvattu"],["fifty","ಐವತ್ತು","aivattu"],["hundred","ನೂರು","nūru"],["thousand","ಒಂದು ಸಾವಿರ","ondu sāvira"],["lakh","ಲಕ್ಷ","lakṣa"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I have thirty rupees","ನನಗೆ ಮೂವತ್ತು ರೂಪಾಯಿ ಇದೆ","nanage mūvattu rūpāyi ide"],["The book costs hundred rupees","ಪುಸ್ತಕಕ್ಕೆ ನೂರು ರೂಪಾಯಿ","pustakakke nūru rūpāyi"],["There are fifty students","ಐವತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳು ಇದ್ದಾರೆ","aivattu vidyārthigaḷu iddāre"],["She bought a thousand flowers","ಅವಳು ಒಂದು ಸಾವಿರ ಹೂವು ಕೊಂಡಳು","avaḷu ondu sāvira hūvu koṇḍaḷu"],["My salary is two lakhs","ನನ್ನ ಸಂಬಳ ಎರಡು ಲಕ್ಷ","nanna sambaḷa eraḍu lakṣa"]]}]},
+  {"id":404,"title":"Fractional numbers, sequence, percentage in Kannada","url":"#","content":"Fractions, ordinals and percentage in Kannada.","intro":"Half = ಅರ್ಧ, first = ಮೊದಲನೆಯ, 10% = ಹತ್ತು ಶತಮಾನ.","blocks":[{"type":"table","heading":"Fractions and sequence","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["half","ಅರ್ಧ","ardha"],["quarter","ಕಾಲು ಭಾಗ","kālu bhāga"],["first","ಮೊದಲನೆಯ","modalaneya"],["second","ಎರಡನೆಯ","eraḍaneya"],["third","ಮೂರನೆಯ","mūraneya"],["percentage","ಶತಮಾನ","śatamāna"],["once","ಒಂದು ಸಾರಿ","ondu sāri"],["twice","ಎರಡು ಸಾರಿ","eraḍu sāri"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Give me half","ನನಗೆ ಅರ್ಧ ಕೊಡಿ","nanage ardha koḍi"],["He came first","ಅವನು ಮೊದಲನೇ ಬಂದ","avanu modalanē banda"],["This is my second visit","ಇದು ನನ್ನ ಎರಡನೇ ಭೇಟಿ","idu nanna eraḍanē bhēṭi"],["Ten percent is complete","ಹತ್ತು ಶತಮಾನ ಪೂರ್ಣವಾಗಿದೆ","hattu śatamāna pūrṇavāgide"],["I told you twice","ನಾನು ನಿನಗೆ ಎರಡು ಸಾರಿ ಹೇಳಿದೆ","nānu ninage eraḍu sāri hēḷide"]]}]},
+  {"id":405,"title":"Frequently used verbs in Kannada – Part 1","url":"#","content":"Common verbs – daily actions (Part 1).","intro":"Verbs for eating, drinking, going, coming, sleeping.","blocks":[{"type":"table","heading":"Verbs Part 1","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to eat","ತಿನ್ನು","tinnu"],["to drink","ಕುಡಿ","kuḍi"],["to go","ಹೋಗು","hōgu"],["to come","ಬರು","baru"],["to sleep","ಮಲಗು","malagu"],["to wake up","ಎದ್ದು ನಿಲ್ಲು","eddu nillu"],["to sit","ಕುಳ್ಳಿರು","kuḷḷiru"],["to stand","ನಿಲ್ಲು","nillu"],["to run","ಓಡು","ōḍu"],["to walk","ನಡೆ","naḍe"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I eat breakfast at eight","ನಾನು ಎಂಟು ಗಂಟೆಗೆ ಉಪಾಹಾರ ತಿನ್ನುತ್ತೇನೆ","nānu eṇṭu gaṇṭege upāhāra tinnuttēne"],["She drinks coffee every morning","ಅವಳು ಪ್ರತಿ ಬೆಳಿಗ್ಗೆ ಕಾಫಿ ಕುಡಿಯುತ್ತಾಳೆ","avaḷu prati beḷigge kāphi kuḍiyuttāḷe"],["We are going to the market","ನಾವು ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತಿದ್ದೇವೆ","nāvu mārukaṭṭege hōguttiddēve"],["He came yesterday","ಅವನು ನಿನ್ನೆ ಬಂದ","avanu ninne banda"],["The child is sleeping","ಮಗು ಮಲಗುತ್ತಿದೆ","magu malaguttide"]]}]},
+  {"id":406,"title":"Frequently used verbs in Kannada – Part 2","url":"#","content":"Common verbs – communication and learning (Part 2).","intro":"Verbs for speaking, reading, writing, learning.","blocks":[{"type":"table","heading":"Verbs Part 2","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to speak","ಮಾತನಾಡು","mātanāḍu"],["to say / tell","ಹೇಳು","hēḷu"],["to read","ಓದು","ōdu"],["to write","ಬರೆ","bare"],["to learn","ಕಲಿ","kali"],["to teach","ಕಲಿಸು","kalisu"],["to ask","ಕೇಳು","kēḷu"],["to answer","ಉತ್ತರಿಸು","uttarisu"],["to listen","ಕೇಳು","kēḷu"],["to understand","ಅರ್ಥಮಾಡು","arthamāḍu"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I can speak Kannada","ನಾನು ಕನ್ನಡ ಮಾತನಾಡಬಲ್ಲೆ","nānu kannaḍa mātanāḍaballe"],["Please tell me the way","ದಯವಿಟ್ಟು ನನಗೆ ದಾರಿ ಹೇಳಿ","dayaviṭṭu nanage dāri hēḷi"],["She reads every day","ಅವಳು ಪ್ರತಿದಿನ ಓದುತ್ತಾಳೆ","avaḷu pratidina ōduttāḷe"],["He is writing a letter","ಅವನು ಲೇಖನ ಬರೆಯುತ್ತಿದ್ದಾನೆ","avanu lēkhana bareyuttiddāne"],["I am learning Kannada","ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ","nānu kannaḍa kaliyuttiddēne"]]}]},
+  {"id":407,"title":"Frequently used verbs in Kannada – Part 3","url":"#","content":"Common verbs – actions with objects (Part 3).","intro":"Verbs for giving, taking, buying, selling, making.","blocks":[{"type":"table","heading":"Verbs Part 3","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to give","ಕೊಡು","koḍu"],["to take","ತೆಗೆದುಕೊಳ್ಳು","tegedukoḷḷu"],["to buy","ಕೊಳ್ಳು","koḷḷu"],["to sell","ಅಮಾರು","amāru"],["to do / make","ಮಾಡು","māḍu"],["to open","ತೆರೆ","tere"],["to close","ಮುಚ್ಚು","muccu"],["to bring","ತರು","taru"],["to send","ಕಳುಹಿಸು","kaḷuhisu"],["to receive","ಸ್ವೀಕರಿಸು","svīkarisu"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Give me that book","ಆ ಪುಸ್ತಕ ನನಗೆ ಕೊಡಿ","ā pustaka nanage koḍi"],["I bought vegetables yesterday","ನಾನು ನಿನ್ನೆ ತರಕಾರಿ ಕೊಂಡೆ","nānu ninne tarakāri koṇde"],["She is making coffee","ಅವಳು ಕಾಫಿ ಮಾಡುತ್ತಿದ್ದಾಳೆ","avaḷu kāphi māḍuttiddāḷe"],["Open the door","ಕೈತೆರೆ","kai tere"],["He sent me a message","ಅವನು ನನಗೆ ಸಂದೇಶ ಕಳುಹಿಸಿದ","avanu nanage sandēśa kaḷuhisida"]]}]},
+  {"id":408,"title":"Frequently used verbs in Kannada – Part 4","url":"#","content":"Common verbs – mental and other actions (Part 4).","intro":"Verbs for thinking, liking, wanting, knowing.","blocks":[{"type":"table","heading":"Verbs Part 4","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to think","ಯೋಚಿಸು","yōcisu"],["to know","ಅರಿ / ಗೊತ್ತು","ari / gottu"],["to like","ಇಷ್ಟವಾಗು","iṣṭavāgu"],["to want","ಬೇಕು","bēku"],["to need","ಅಗತ್ಯ","agatya"],["to remember","ನೆನಪಿಡು","nenapiḍu"],["to forget","ಮರೆ","mare"],["to try","ಪ್ರಯತ್ನಿಸು","prayatnisu"],["to start","ಆರಂಭಿಸು","āraṃbhisu"],["to finish","ಮುಗಿಸು","mugisu"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I think you are right","ನಾನು ನೀವು ಸರಿ ಎಂದು ಯೋಚಿಸುತ್ತೇನೆ","nānu nīvu sari endu yōcisuttēne"],["Do you know his name?","ನಿಮಗೆ ಅವನ ಹೆಸರು ಗೊತ್ತೇ?","nimage avana hesaru gottē?"],["She likes mangoes","ಅವಳಿಗೆ ಮಾವಿನ ಹಣ್ಣು ಇಷ್ಟ","avaḷige māvina haṇṇu iṣṭa"],["I want to learn","ನಾನು ಕಲಿಯಲು ಬಯಸುತ್ತೇನೆ","nānu kaliyalu bayasuttēne"],["Please try again","ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ","dayaviṭṭu matte prayatnisi"]]}]},
+  {"id":409,"title":"ಲಾವಣೆ (lAvaNe) – one verb, multiple meanings !!","url":"#","content":"Verb ಲಾವಣೆ (to put on / apply / use) – many meanings in Kannada.","intro":"In Kannada similar verb: ಲಗತ್ತಿಸು / ಹಾಕು / ಮಾಡು – turn on, wear, apply, park, etc.","blocks":[{"type":"table","heading":"ಲಾವಣೆ type uses","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to turn on (light)","ದೀಪ ಹಾಕು","dīpa hāku"],["to wear (clothes)","ಧರಿಸು / ಹಾಕು","dharisu / hāku"],["to apply (cream)","ಲೇಪಿಸು","lēpisu"],["to park (vehicle)","ವಾಹನ ನಿಲ್ಲಿಸು","vāhana nillisu"],["to cook (rice)","ಅನ್ನ ಹಾಕು","anna hāku"],["to plant (tree)","ಮರ ನಾಟು","mara nāṭu"],["to call (phone)","ಫೋನ್ ಮಾಡು","phōn māḍu"],["to fix (price)","ಬೆಲೆ ನಿಗದಿ ಮಾಡು","bele nigadi māḍu"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Turn on the light","ದೀಪ ಹಾಕಿ","dīpa hāki"],["She is wearing a saree","ಅವಳು ಸೀರೆ ಧರಿಸಿದ್ದಾಳೆ","avaḷu sīre dharisiddāḷe"],["Apply this cream","ಈ ಕ್ರೀಮ್ ಲೇಪಿಸಿ","ī krīm lēpisi"],["Where did you park the car?","ನೀವು ಕಾರು ಎಲ್ಲಿ ನಿಲ್ಲಿಸಿದಿರಿ?","nīvu kāru elli nillisidiri?"],["He called me yesterday","ಅವನು ನಿನ್ನೆ ನನಗೆ ಫೋನ್ ಮಾಡಿದ","avanu ninne nanage phōn māḍida"]]}]},
+  {"id":410,"title":"ಲಾಗಣೆ (lAgaNe) – one verb, multiple meanings !!","url":"#","content":"Verb ಲಾಗಣೆ (to need / to feel / to start) – multiple meanings in Kannada.","intro":"Kannada equivalents: ಬೇಕಾಗು (need), ಅನುಭವಿಸು (feel), ಶುರುವಾಗು (start).","blocks":[{"type":"table","heading":"ಲಾಗಣೆ type uses","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["to need","ಬೇಕಾಗು","bēkāgu"],["to feel (hungry)","ಭೂಕ ಲಾಗು","bhūka lāgu"],["to feel (thirsty)","ದಾಹ ಲಾಗು","dāha lāgu"],["to get hurt","ನೋವು ಲಾಗು","nōvu lāgu"],["to start (TV show)","ಆರಂಭವಾಗು","āraṃbhavāgu"],["to feel (nausea)","ವಾಂತಿ ಲಾಗು","vāṃti lāgu"],["to be needed","ಅಗತ್ಯವಾಗು","agatyavāgu"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I need water","ನನಗೆ ನೀರು ಬೇಕು","nanage nīru bēku"],["I am hungry","ನನಗೆ ಭೂಕ ಲಾಗಿದೆ","nanage bhūka lāgide"],["I am thirsty","ನನಗೆ ದಾಹ ಲಾಗಿದೆ","nanage dāha lāgide"],["He got hurt","ಅವನಿಗೆ ನೋವು ಲಾಗಿದೆ","avanige nōvu lāgide"],["The serial starts at nine","ಮಾಲಿಕೆ ಒಂಬತ್ತು ಗಂಟೆಗೆ ಶುರುವಾಗುತ್ತದೆ","mālike ombattu gaṇṭege śuruvāguttade"]]}]},
+  {"id":411,"title":"List of Kannada Adjectives – Part 1","url":"#","content":"Common adjectives in Kannada.","intro":"Adjectives describe nouns. They may agree in gender and number.","blocks":[{"type":"table","heading":"Adjectives","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["big","ದೊಡ್ಡ","doḍḍa"],["small","ಚಿಕ್ಕ","cikka"],["good","ಒಳ್ಳೆಯ","oḷḷeya"],["bad","ಕೆಟ್ಟ","keṭṭa"],["new","ಹೊಸ","hosa"],["old","ಹಳೆಯ","haḷeya"],["hot","ಬಿಸಿ","bisi"],["cold","ತಣ್ಣನೆಯ","taṇṇaneya"],["beautiful","ಸುಂದರ","sundara"],["ugly","ಕುರೂಪ","kurūpa"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["This is a big house","ಇದು ದೊಡ್ಡ ಮನೆ","idu doḍḍa mane"],["She has a small bag","ಅವಳಿಗೆ ಚಿಕ್ಕ ಚೀಲ ಇದೆ","avaḷige cikka cīla ide"],["The food is good","ಅನ್ನ ಒಳ್ಳೆಯದು","anna oḷḷeyadu"],["I want cold water","ನನಗೆ ತಣ್ಣನೆಯ ನೀರು ಬೇಕು","nanage taṇṇaneya nīru bēku"],["She is beautiful","ಅವಳು ಸುಂದರ","avaḷu sundara"]]}]},
+  {"id":412,"title":"Adverbs in Kannada – Part 1","url":"#","content":"Common adverbs (how, when, where) in Kannada.","intro":"Adverbs modify verbs. ಚನ್ನಾಗಿ (well), ಬೇಗ (quickly), ಇಲ್ಲಿ (here).","blocks":[{"type":"table","heading":"Adverbs","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["well","ಚನ್ನಾಗಿ","cannāgi"],["quickly","ಬೇಗ","bēga"],["slowly","ನಿಧಾನವಾಗಿ","nidhānavāgi"],["here","ಇಲ್ಲಿ","illi"],["there","ಅಲ್ಲಿ","alli"],["now","ಈಗ","īga"],["today","ಇಂದು","indu"],["always","ಯಾವಾಗಲೂ","yāvāgalū"],["sometimes","ಒಂದೊಂದು ಸಾರಿ","ondondu sāri"],["never","ಎಂದಿಗೂ ... ಇಲ್ಲ","endigū ... illa"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["She sings well","ಅವಳು ಚನ್ನಾಗಿ ಹಾಡುತ್ತಾಳೆ","avaḷu cannāgi hāḍuttāḷe"],["Come here","ಇಲ್ಲಿ ಬನ್ನಿ","illi banni"],["Do it quickly","ಬೇಗ ಮಾಡಿ","bēga māḍi"],["I always drink coffee","ನಾನು ಯಾವಾಗಲೂ ಕಾಫಿ ಕುಡಿಯುತ್ತೇನೆ","nānu yāvāgalū kāphi kuḍiyuttēne"],["He never lies","ಅವನು ಎಂದಿಗೂ ಸುಳ್ಳು ಹೇಳುವುದಿಲ್ಲ","avanu endigū suḷḷu hēḷuvudilla"]]}]},
+  {"id":413,"title":"List of adverbs in Kannada","url":"#","content":"More adverbs in Kannada.","intro":"Additional adverbs for degree, manner and time.","blocks":[{"type":"table","heading":"More adverbs","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["very","ತುಂಬಾ","tumbā"],["a little","ಸ್ವಲ್ಪ","svalpa"],["enough","ಸಾಕು","sāku"],["together","ಒಟ್ಟಿಗೆ","oṭṭige"],["alone","ಏಕಾಂತದಲ್ಲಿ","ēkāṃtadalli"],["again","ಮತ್ತೆ","matte"],["early","ಅಗ್ಗದಲ್ಲಿ","aggadalli"],["late","ತಡವಾಗಿ","taḍavāgi"],["correctly","ಸರಿಯಾಗಿ","sariyāgi"],["wrongly","ತಪ್ಪಾಗಿ","tappāgi"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I am very happy","ನಾನು ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದೇನೆ","nānu tumbā santōṣavāgiddēne"],["Wait a little","ಸ್ವಲ್ಪ ಕಾಯಿ","svalpa kāyi"],["We went together","ನಾವು ಒಟ್ಟಿಗೆ ಹೋದೆವು","nāvu oṭṭige hōdevu"],["He came late","ಅವನು ತಡವಾಗಿ ಬಂದ","avanu taḍavāgi banda"],["You said it correctly","ನೀವು ಸರಿಯಾಗಿ ಹೇಳಿದಿರಿ","nīvu sariyāgi hēḷidiri"]]}]},
+  {"id":414,"title":"List of vegetable names in Kannada","url":"#","content":"Vegetable names in Kannada.","intro":"Common vegetables you will see in markets.","blocks":[{"type":"table","heading":"Vegetables","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["potato","ಆಲೂಗಡ್ಡೆ","ālūgaḍḍe"],["tomato","ಟೊಮಾಟೋ","ṭomāṭō"],["onion","ಈರುಳ್ಳಿ","īruḷḷi"],["brinjal","ಬದನೆ","badane"],["carrot","ಗಜ್ಜರಿ","gajjari"],["beans","ಹರಕೆ","harake"],["cabbage","ಎಲೆಕೋಸು","elekōsu"],["cauliflower","ಹೂಕೋಸು","hūkōsu"],["lady's finger","ಬೆಂಡೆಕಾಯಿ","beṇḍekāyi"],["cucumber","ಸೌತೆಕಾಯಿ","sautekāyi"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I bought potatoes and onions","ನಾನು ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಈರುಳ್ಳಿ ಕೊಂಡೆ","nānu ālūgaḍḍe mattu īruḷḷi koṇde"],["She cooks brinjal curry","ಅವಳು ಬದನೆ ಪಲ್ಯ ಮಾಡುತ್ತಾಳೆ","avaḷu badane palya māḍuttāḷe"],["Add tomatoes to the curry","ಪಲ್ಯಕ್ಕೆ ಟೊಮಾಟೋ ಸೇರಿಸಿ","palyakke ṭomāṭō sērisi"],["Do you like lady's finger?","ನಿಮಗೆ ಬೆಂಡೆಕಾಯಿ ಇಷ್ಟವೇ?","nimage beṇḍekāyi iṣṭavē?"],["Carrot is good for health","ಗಜ್ಜರಿ ಆರೋಗ್ಯಕ್ಕೆ ಒಳ್ಳೆಯದು","gajjari ārōgyakke oḷḷeyadu"]]}]},
+  {"id":415,"title":"List of names of fruits in Kannada","url":"#","content":"Fruit names in Kannada.","intro":"Common fruits.","blocks":[{"type":"table","heading":"Fruits","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["mango","ಮಾವಿನ ಹಣ್ಣು","māvina haṇṇu"],["banana","ಬಾಳೆಹಣ್ಣು","bāḷehaṇṇu"],["apple","ಸೇಬು","sēbu"],["orange","ಕಿತ್ತಳೆ","kittaḷe"],["grape","ದ್ರಾಕ್ಷಿ","drākṣi"],["papaya","ಪರಂಗಿ","paraṅgi"],["watermelon","ಕಲ್ಲಂಗಡಿ","kallaṃgaḍi"],["pomegranate","ದಾಳಿಂಬೆ","dāḷiṃbe"],["guava","ಸೀಬೆಹಣ್ಣು","sībehaṇṇu"],["coconut","ತೆಂಗಿನ ಕಾಯಿ","teṅgina kāyi"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Mango is my favourite fruit","ಮಾವಿನ ಹಣ್ಣು ನನ್ನ ಅಚ್ಚುಮೆಚ್ಚಿನ ಹಣ್ಣು","māvina haṇṇu nanna accumeccina haṇṇu"],["Eat one banana daily","ಪ್ರತಿದಿನ ಒಂದು ಬಾಳೆಹಣ್ಣು ತಿನ್ನಿ","pratidina ondu bāḷehaṇṇu tinni"],["She bought apples","ಅವಳು ಸೇಬು ಕೊಂಡಳು","avaḷu sēbu koṇḍaḷu"],["Orange juice is good","ಕಿತ್ತಳೆ ರಸ ಒಳ್ಳೆಯದು","kittaḷe rasa oḷḷeyadu"],["I love watermelon in summer","ನನಗೆ ಬೇಸಿಗೆಯಲ್ಲಿ ಕಲ್ಲಂಗಡಿ ಇಷ್ಟ","nanage bēsigeyalli kallaṃgaḍi iṣṭa"]]}]},
+  {"id":416,"title":"List of names of birds in Kannada","url":"#","content":"Bird names in Kannada.","intro":"Common birds.","blocks":[{"type":"table","heading":"Birds","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["crow","ಕಾಗೆ","kāge"],["sparrow","ಗುಬ್ಬಿ","gubbi"],["parrot","ಗಿಳಿ","giḷi"],["peacock","ನವಿಲು","navilu"],["eagle","ಗರುಡ","garuḍa"],["pigeon","ಪಾರಿವಾಳ","pārivāḷa"],["owl","ಗೂಬೆ","gūbe"],["hen","ಕೋಳಿ","kōḷi"],["duck","ಬಾತುಕೋಳಿ","bātukōḷi"],["crow (common)","ಕಾಗೆ","kāge"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["The crow is black","ಕಾಗೆ ಕಪ್ಪು","kāge kappu"],["I saw a peacock in the garden","ನಾನು ತೋಟದಲ್ಲಿ ನವಿಲು ನೋಡಿದೆ","nānu tōṭadalli navilu nōḍide"],["Parrots can talk","ಗಿಳಿಗಳು ಮಾತನಾಡಬಲ್ಲವು","giḷigaḷu mātanāḍaballavu"],["The owl comes at night","ಗೂಬೆ ರಾತ್ರಿ ಬರುತ್ತದೆ","gūbe rātri baruttade"],["We have a hen at home","ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಒಂದು ಕೋಳಿ ಇದೆ","namma maneyalli ondu kōḷi ide"]]}]},
+  {"id":417,"title":"List of names of insects in Kannada","url":"#","content":"Insect names in Kannada.","intro":"Common insects.","blocks":[{"type":"table","heading":"Insects","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["ant","ಇರುವೆ","iruve"],["bee","ಜೇನುನೊಣ","jēnunoṇa"],["mosquito","ಸೊಳ್ಳೆ","soḷḷe"],["fly","ಈಚ್","īc"],["butterfly","ಸೀತಾಕೋಕಿಲೆ","sītākōkile"],["cockroach","ಜಿರಳೆ","jiraḷe"],["spider","ಸಾಲಿ","sāli"],["grasshopper","ಮಿಡತೆ","miḍate"],["ladybug","ಕೀಟ","kīṭa"],["worm","ಹುಳು","huḷu"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["There are many ants here","ಇಲ್ಲಿ ಬಹು ಇರುವೆಗಳು ಇವೆ","illi bahu iruvegaḷu ive"],["The bee gives honey","ಜೇನುನೊಣ ಜೇನುತುಪ್ಪ ಕೊಡುತ್ತದೆ","jēnunoṇa jēnutuppa koḍuttade"],["Mosquitoes bite at night","ಸೊಳ್ಳೆಗಳು ರಾತ್ರಿ ಕಚ್ಚುತ್ತವೆ","soḷḷegaḷu rātri kaccuttave"],["I saw a butterfly","ನಾನು ಸೀತಾಕೋಕಿಲೆ ನೋಡಿದೆ","nānu sītākōkile nōḍide"],["There is a spider on the wall","ಗೋಡೆಯ ಮೇಲೆ ಸಾಲಿ ಇದೆ","gōḍeya mēle sāli ide"]]}]},
+  {"id":418,"title":"List of names of colours in Kannada","url":"#","content":"Colour names in Kannada.","intro":"Primary and common colours.","blocks":[{"type":"table","heading":"Colours","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["red","ಕೆಂಪು","kempu"],["blue","ನೀಲಿ","nīli"],["green","ಹಸಿರು","hasiru"],["yellow","ಹಳದಿ","haḷadi"],["white","ಬಿಳಿ","biḷi"],["black","ಕಪ್ಪು","kappu"],["orange","ನಾರಂಗಿ","nāraṃgi"],["pink","ಗುಲಾಬಿ","gulābi"],["brown","ಕಂದು","kandu"],["grey","ಬೂದಿ","būdi"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["The sky is blue","ಆಕಾಶ ನೀಲಿ","ākāśa nīli"],["She wore a red saree","ಅವಳು ಕೆಂಪು ಸೀರೆ ಧರಿಸಿದಳು","avaḷu kempu sīre dharisidaḷu"],["I like green colour","ನನಗೆ ಹಸಿರು ಬಣ್ಣ ಇಷ್ಟ","nanage hasiru baṇṇa iṣṭa"],["Snow is white","ಬರ್ಫ್ ಬಿಳಿ","barph biḷi"],["His shirt is black","ಅವನ ಅಂಗಿ ಕಪ್ಪು","avana aṃgi kappu"]]}]},
+  {"id":419,"title":"List of names of flowers in Kannada","url":"#","content":"Flower names in Kannada.","intro":"Common flowers.","blocks":[{"type":"table","heading":"Flowers","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["rose","ಗುಲಾಬಿ","gulābi"],["jasmine","ಮಲ್ಲಿಗೆ","mallige"],["lotus","ಕಮಲ","kamala"],["sunflower","ಸೂರ್ಯಕಾಂತಿ","sūryakāṃti"],["hibiscus","ದಾಸವಾಳ","dāsavāḷa"],["marigold","ಜೇನು","jēnu"],["lily","ಲಿಲಿ","lili"],["chrysanthemum","ಶೇವಂತಿಗೆ","śēvaṃtige"],["tulip","ಟ್ಯುಲಿಪ್","ṭyulip"],["daisy","ಡೈಸಿ","ḍaisi"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["She likes roses","ಅವಳಿಗೆ ಗುಲಾಬಿ ಹೂವು ಇಷ್ಟ","avaḷige gulābi hūvu iṣṭa"],["Jasmine smells good","ಮಲ್ಲಿಗೆ ಸುವಾಸನೆ","mallige suvāsane"],["The lotus grows in water","ಕಮಲ ನೀರಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ","kamala nīralli beḷeyuttade"],["I bought a sunflower","ನಾನು ಸೂರ್ಯಕಾಂತಿ ಕೊಂಡೆ","nānu sūryakāṃti koṇde"],["We offer flowers to God","ನಾವು ದೇವರಿಗೆ ಹೂವು ಅರ್ಪಿಸುತ್ತೇವೆ","nāvu dēvarige hūvu arpisuttēve"]]}]},
+  {"id":420,"title":"List of names of animals in Kannada","url":"#","content":"Animal names in Kannada.","intro":"Domestic and wild animals.","blocks":[{"type":"table","heading":"Animals","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["dog","ನಾಯಿ","nāyi"],["cat","ಬೆಕ್ಕು","bekku"],["cow","ಹಸು","hasu"],["buffalo","ಎಮ್ಮೆ","emme"],["horse","ಕುದುರೆ","kudure"],["elephant","ಆನೆ","āne"],["tiger","ಹುಲಿ","huli"],["lion","ಸಿಂಹ","siṃha"],["monkey","ಕೋತಿ","kōti"],["goat","ಮೇಕೆ","mēke"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["We have a dog at home","ನಮ್ಮ ಮನೆಯಲ್ಲಿ ನಾಯಿ ಇದೆ","namma maneyalli nāyi ide"],["The cat is sleeping","ಬೆಕ್ಕು ಮಲಗುತ್ತಿದೆ","bekku malaguttide"],["Cows give milk","ಹಸು ಹಾಲು ಕೊಡುತ್ತದೆ","hasu hālu koḍuttade"],["I saw an elephant in the forest","ನಾನು ಕಾಡಿನಲ್ಲಿ ಆನೆ ನೋಡಿದೆ","nānu kāḍinalli āne nōḍide"],["The tiger is the national animal","ಹುಲಿ ರಾಷ್ಟ್ರೀಯ ಪ್ರಾಣಿ","huli rāṣṭrīya prāṇi"]]}]},
+  {"id":421,"title":"Frequently used or common words in Kannada – Miscellaneous","url":"#","content":"More common words for daily use.","intro":"Words that don't fit other categories but are very useful.","blocks":[{"type":"table","heading":"Common words","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["problem","ಸಮಸ್ಯೆ","samasye"],["work","ಕೆಲಸ","kelasa"],["money","ಹಣ","haṇa"],["time","ಸಮಯ","samaya"],["way / path","ದಾರಿ","dāri"],["place","ಸ್ಥಳ","sthaḷa"],["thing","ವಸ್ತು","vastu"],["name","ಹೆಸರು","hesaru"],["question","ಪ್ರಶ್ನೆ","praśne"],["answer","ಉತ್ತರ","uttara"]]},{"type":"table","heading":"Example sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I have a problem","ನನಗೆ ಸಮಸ್ಯೆ ಇದೆ","nanage samasye ide"],["Where do you work?","ನೀವು ಎಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೀರಿ?","nīvu elli kelasa māḍuttīri?"],["I don't have money","ನನಗೆ ಹಣ ಇಲ್ಲ","nanage haṇa illa"],["What is your name?","ನಿಮ್ಮ ಹೆಸರು ಏನು?","nimma hesaru ēnu?"],["Tell me the way to the station","ನನಗೆ ನಿಲ್ದಾಣಕ್ಕೆ ದಾರಿ ಹೇಳಿ","nanage nildāṇakke dāri hēḷi"]]}]},
+  {"id":422,"title":"Diwali Festival","url":"#","content":"Diwali – festival of lights. Vocabulary and sentences.","intro":"ದೀಪಾವಳಿ (Diwali) – ದೀಪಗಳ ಹಬ್ಬ. Learn greetings and festival words.","blocks":[{"type":"table","heading":"Diwali – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Happy Diwali!","ದೀಪಾವಳಿ ಶುಭಾಷಯಗಳು!","dīpāvaḷi śubhāṣayagaḷu!"],["Diwali is the festival of lights","ದೀಪಾವಳಿ ದೀಪಗಳ ಹಬ್ಬ","dīpāvaḷi dīpagaḷa habba"],["We light lamps on Diwali","ನಾವು ದೀಪಾವಳಿಯಂದು ದೀಪ ಹಾಕುತ್ತೇವೆ","nāvu dīpāvaḷiyaṃdu dīpa hākuttēve"],["Children burst crackers","ಮಕ್ಕಳು ಫಟಾಕೆ ಸಿಡಿಸುತ್ತಾರೆ","makkaḷu phaṭāke siḍisuttāre"],["We eat sweets on Diwali","ನಾವು ದೀಪಾವಳಿಯಂದು ಮಿಠಾಯಿ ತಿನ್ನುತ್ತೇವೆ","nāvu dīpāvaḷiyaṃdu miṭhāyi tinnuttēve"],["I will come to your house for Diwali","ನಾನು ದೀಪಾವಳಿಗೆ ನಿಮ್ಮ ಮನೆಗೆ ಬರುವೆನೆ","nānu dīpāvaḷige nimma manege baruvene"],["Wish you a prosperous year","ಆರ್ಥಿಕ ಸಮೃದ್ಧಿಯ ವರ್ಷವಾಗಲಿ","ārthika samṛddhiya varṣavāgali"],["We draw rangoli at the door","ನಾವು ಬಾಗಿಲಲ್ಲಿ ರಂಗೋಲಿ ಬರೆಯುತ್ತೇವೆ","nāvu bāgillalli raṃgōli bareyuttēve"],["Do you celebrate Diwali?","ನೀವು ದೀಪಾವಳಿ ಆಚರಿಸುವಿರಾ?","nīvu dīpāvaḷi ācarisuvirā?"],["May this Diwali bring joy","ಈ ದೀಪಾವಳಿ ಸಂತೋಷ ತಂದೀತು","ī dīpāvaḷi santōṣa taṃdītu"]]}]},
+  {"id":423,"title":"Simple Sentences in Kannada – Introduction/Salutation","url":"#","content":"Greetings, introduction and salutation in Kannada.","intro":"ನಮಸ್ಕಾರ, ಹೆಸರು, ಪರಿಚಯ. Practice these daily phrases.","blocks":[{"type":"table","heading":"Greetings and introduction","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Hello / Namaste","ನಮಸ್ಕಾರ","namaskāra"],["Good morning","ಶುಭೋದಯ","śubhōdaya"],["Good afternoon","ಶುಭ ಮಧ್ಯಾಹ್ನ","śubha madhyāhna"],["Good evening","ಶುಭ ಸಂಜೆ","śubha saṃje"],["Good night","ಶುಭ ರಾತ್ರಿ","śubha rātri"],["What is your name?","ನಿಮ್ಮ ಹೆಸರು ಏನು?","nimma hesaru ēnu?"],["My name is Ramesh","ನನ್ನ ಹೆಸರು ರಮೇಶ","nanna hesaru ramēśa"],["Nice to meet you","ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷ","nimmannu bhēṭiyāgi santōṣa"],["Where do you live?","ನೀವು ಎಲ್ಲಿ ವಾಸವಾಗಿದ್ದೀರಿ?","nīvu elli vāsavāgiddīri?"],["I live in Bangalore","ನಾನು ಬೆಂಗಳೂರಲ್ಲಿ ವಾಸವಾಗಿದ್ದೇನೆ","nānu beṅgaḷūralli vāsavāgiddēne"],["How are you?","ನೀವು ಹೇಗಿದ್ದೀರಿ?","nīvu hēgiddīri?"],["I am fine, thank you","ನಾನು ಚನ್ನಾಗಿದ್ದೇನೆ, ಧನ್ಯವಾದ","nānu cannāgiddēne, dhanyavāda"],["See you later","ನಂತರ ಭೇಟಿಯಾಗಲಿ","nantara bhēṭiyāgali"],["Take care","ಜಾಗ್ರತೆ ಇರಿ","jāgrate iri"],["Goodbye","ವಿದಾಯ","vidāya"]]}]},
+  {"id":424,"title":"Simple Kannada Sentences – Time Related","url":"#","content":"Talking about time, day, and schedule in Kannada.","intro":"ಸಮಯ, ದಿನ, ಗಂಟೆ. Use these in daily conversation.","blocks":[{"type":"table","heading":"Time – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["What time is it?","ಈಗ ಎಷ್ಟು ಗಂಟೆ?","īga eṣṭu gaṇṭe?"],["It is six o'clock","ಈಗ ಆರು ಗಂಟೆ","īga āru gaṇṭe"],["I wake up at six","ನಾನು ಆರು ಗಂಟೆಗೆ ಎದ್ದೇನೆ","nānu āru gaṇṭege eddēne"],["When will you come?","ನೀವು ಯಾವಾಗ ಬರುವಿರಿ?","nīvu yāvāga baruviri?"],["I will come at eight","ನಾನು ಎಂಟು ಗಂಟೆಗೆ ಬರುವೆನೆ","nānu eṇṭu gaṇṭege baruvene"],["Today is Monday","ಇಂದು ಸೋಮವಾರ","indu sōmavāra"],["Tomorrow is a holiday","ನಾಳೆ ರಜಾ","nāḷe rajā"],["I am busy today","ನನಗೆ ಇಂದು ಕೆಲಸ ಇದೆ","nanage indu kelasa ide"],["We will meet tomorrow","ನಾವು ನಾಳೆ ಭೇಟಿಯಾಗುತ್ತೇವೆ","nāvu nāḷe bhēṭiyāguttēve"],["She came yesterday","ಅವಳು ನಿನ್ನೆ ಬಂದಳು","avaḷu ninne bandaḷu"],["The meeting is at ten","ಸಭೆ ಹತ್ತು ಗಂಟೆಗೆ","sabhe hattu gaṇṭege"],["I have been waiting for an hour","ನಾನು ಒಂದು ಗಂಟೆ ಕಾಯುತ್ತಿದ್ದೇನೆ","nānu ondu gaṇṭe kāyuttiddēne"],["What day is today?","ಇಂದು ಯಾವ ದಿನ?","indu yāva dina?"],["Last week I went to Mysore","ಕಳೆದ ವಾರ ನಾನು ಮೈಸೂರಿಗೆ ಹೋದೆ","kaḷeda vāra nānu maisūrige hōde"],["Next month we have a wedding","ಮುಂದಿನ ತಿಂಗಳು ನಮಗೆ ಮದುವೆ ಇದೆ","mundina tiṃgaḷu namage maduve ide"]]}]},
+  {"id":425,"title":"Simple Kannada Sentences – Where/Place Related","url":"#","content":"Asking and telling about places and location.","intro":"ಎಲ್ಲಿ (where), ಇಲ್ಲಿ (here), ಅಲ್ಲಿ (there).","blocks":[{"type":"table","heading":"Place – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Where is the hospital?","ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿ?","āspatre elli?"],["The hospital is near the market","ಆಸ್ಪತ್ರೆ ಮಾರುಕಟ್ಟೆಗೆ ಹತ್ತಿರ","āspatre mārukaṭṭege hattira"],["Where do you work?","ನೀವು ಎಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೀರಿ?","nīvu elli kelasa māḍuttīri?"],["I work in an office","ನಾನು ಕಛೇರಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ","nānu kacheriyalli kelasa māḍuttēne"],["Where is the bathroom?","ಸ್ನಾನಗೃಹ ಎಲ್ಲಿ?","snānagṛha elli?"],["Go straight and turn left","ನೇರ ಹೋಗಿ ಎಡಕ್ಕೆ ತಿರುಗಿ","nēra hōgi eḍakke tirugi"],["This is my house","ಇದು ನನ್ನ ಮನೆ","idu nanna mane"],["The school is behind the temple","ಶಾಲೆ ದೇವಾಲಯದ ಹಿಂದೆ","śāle dēvālayada hinde"],["We live in this city","ನಾವು ಈ ನಗರದಲ್ಲಿ ವಾಸವಾಗಿದ್ದೇವೆ","nāvu ī nagaradalli vāsavāgiddēve"],["Where are you from?","ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿರಿ?","nīvu ellinda bandiri?"],["I am from Karnataka","ನಾನು ಕರ್ನಾಟಕದಿಂದ ಬಂದಿದ್ದೇನೆ","nānu Karnāṭakadinda bandiddēne"],["Is there a bank nearby?","ಇಲ್ಲಿ ಹತ್ತಿರ ಬ್ಯಾಂಕ್ ಇದೆಯೇ?","illi hattira byāṃk ideyē?"],["The bus stop is in front of the shop","ಬಸ್ ನಿಲ್ದಾಣ ಅಂಗಡಿ ಮುಂದೆ","bas nildāṇa aṃgaḍi munde"],["Can you show me the way?","ನನಗೆ ದಾರಿ ತೋರಿಸುವಿರಾ?","nanage dāri tōrisuvirā?"],["I am lost","ನನಗೆ ದಾರಿ ತೋಚುವುದಿಲ್ಲ","nanage dāri tōcuvudilla"]]}]},
+  {"id":426,"title":"Simple Kannada Sentences – In Hotel","url":"#","content":"Hotel stay – checking in, room, food, checkout.","intro":"ಹೋಟೆಲ್, ಕೊಠಡಿ, ಆಹಾರ. Useful when travelling.","blocks":[{"type":"table","heading":"Hotel – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I need a room for two nights","ನನಗೆ ಎರಡು ರಾತ್ರಿಗಳಿಗೆ ಕೊಠಡಿ ಬೇಕು","nanage eraḍu rātrigaḷige koṭhaḍi bēku"],["Do you have a single room?","ನಿಮ್ಮಲ್ಲಿ ಒಂಟಿ ಕೊಠಡಿ ಇದೆಯೇ?","nimballi oṇṭi koṭhaḍi ideyē?"],["How much per night?","ಒಂದು ರಾತ್ರಿಗೆ ಎಷ್ಟು?","ondu rātrige eṣṭu?"],["The room has AC","ಕೊಠಡಿಗೆ ಏರ್ ಕಂಡಿಷನ್ ಇದೆ","koṭhaḍige ēr kaṃdiṣan ide"],["I want to see the room first","ನಾನು ಮೊದಲು ಕೊಠಡಿ ನೋಡಬೇಕು","nānu modalu koṭhaḍi nōḍabēku"],["Where is the restaurant?","ಊಟದ ಕೋಣೆ ಎಲ್ಲಿ?","ūṭada kōṇe elli?"],["I would like breakfast at eight","ನನಗೆ ಎಂಟು ಗಂಟೆಗೆ ಉಪಾಹಾರ ಬೇಕು","nanage eṇṭu gaṇṭege upāhāra bēku"],["Please bring water","ದಯವಿಟ್ಟು ನೀರು ತನ್ನಿ","dayaviṭṭu nīru tanni"],["I want to check out tomorrow","ನಾನು ನಾಳೆ ಚೆಕ್ ಔಟ್ ಮಾಡಬೇಕು","nānu nāḷe chek auṭ māḍabēku"],["Is there WiFi?","ವೈಫೈ ಇದೆಯೇ?","vaiphai ideyē?"],["The room is too noisy","ಕೊಠಡಿ ತುಂಬಾ ಶಬ್ದ","koṭhaḍi tumbā śabda"],["Can I get an extra blanket?","ನನಗೆ ಹೆಚ್ಚುವರಿ ಕಂಬಳಿ ಸಿಗುವುದೇ?","nanage heccuvari kaṃbaḷi siguvudē?"],["Please clean my room","ದಯವಿಟ್ಟು ನನ್ನ ಕೊಠಡಿ ಸ್ವಚ್ಛ ಮಾಡಿ","dayaviṭṭu nanna koṭhaḍi svaccha māḍi"],["What time is checkout?","ಚೆಕ್ ಔಟ್ ಎಷ್ಟು ಗಂಟೆ?","chek auṭ eṣṭu gaṇṭe?"],["Thank you for your service","ನಿಮ್ಮ ಸೇವೆಗೆ ಧನ್ಯವಾದ","nimma sēvege dhanyavāda"]]}]},
+  {"id":427,"title":"Simple Kannada sentences – Weather related","url":"#","content":"Talking about weather in Kannada.","intro":"ಹವಾಮಾನ, ಮಳೆ, ಬಿಸಿಲು.","blocks":[{"type":"table","heading":"Weather – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["How is the weather today?","ಇಂದು ಹವಾಮಾನ ಹೇಗಿದೆ?","indu havāmāna hēgide?"],["It is very hot today","ಇಂದು ತುಂಬಾ ಬಿಸಿಲು","indu tumbā bisilu"],["It is raining","ಮಳೆ ಬರುತ್ತಿದೆ","maḷe baruttide"],["It will rain tomorrow","ನಾಳೆ ಮಳೆ ಬರುವುದು","nāḷe maḷe baruvudu"],["The weather is pleasant","ಹವಾಮಾನ ಚನ್ನಾಗಿದೆ","havāmāna cannāgide"],["It is cold at night","ರಾತ್ರಿ ತಣ್ಣನೆಯಾಗುತ್ತದೆ","rātri taṇṇaneyāguttade"],["Summer is very hot here","ಇಲ್ಲಿ ಬೇಸಿಗೆ ತುಂಬಾ ಬಿಸಿ","illi bēsige tumbā bisi"],["Winter is cold","ಚಳಿಗಾಲ ತಣ್ಣನೆ","chaḷigāla taṇṇane"],["There is a lot of wind","ತುಂಬಾ ಗಾಳಿ ಬೀಸುತ್ತಿದೆ","tumbā gāḷi bīsuttide"],["The sky is cloudy","ಆಕಾಶ ಮೇಘಾವೃತ","ākāśa mēghāvṛta"],["It might rain in the evening","ಸಂಜೆ ಮಳೆ ಬರಬಹುದು","saṃje maḷe barabahudu"],["Bring an umbrella","ಛತ್ರಿ ತನ್ನಿ","chatri tanni"],["I like this weather","ನನಗೆ ಈ ಹವಾಮಾನ ಇಷ್ಟ","nanage ī havāmāna iṣṭa"],["What is the temperature?","ಉಷ್ಣಾಂಶ ಎಷ್ಟು?","uṣṇāṃśa eṣṭu?"],["It is humid today","ಇಂದು ಉಗ್ರಾಣ ಹೆಚ್ಚು","indu ugrāṇa heccu"]]}]},
+  {"id":428,"title":"Kannada conversation – with traffic police","url":"#","content":"Talking to traffic police – licence, rules, directions.","intro":"ಟ್ರಾಫಿಕ್ ಪೊಲೀಸ್, ಡ್ರೈವಿಂಗ್ ಲೈಸನ್ಸ್.","blocks":[{"type":"table","heading":"Traffic police – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Stop the vehicle","ವಾಹನ ನಿಲ್ಲಿಸಿ","vāhana nillisi"],["Show me your licence","ನಿಮ್ಮ ಡ್ರೈವಿಂಗ್ ಲೈಸನ್ಸ್ ತೋರಿಸಿ","nimma ḍraiviṃg laisans tōrisi"],["I forgot my licence at home","ನಾನು ಲೈಸನ್ಸ್ ಮನೆಯಲ್ಲಿ ಮರೆತೆ","nānu laisans maneyalli marete"],["Where did I make a mistake?","ನಾನು ಎಲ್ಲಿ ತಪ್ಪು ಮಾಡಿದೆ?","nānu elli tappu māḍide?"],["I am sorry, I did not see the signal","ಕ್ಷಮಿಸಿ, ನನಗೆ ಸಿಗ್ನಲ್ ಕಾಣಲಿಲ್ಲ","kṣamisi, nanage signal kāṇalilla"],["How much is the fine?","ಜುಲ್ಮಾನೆ ಎಷ್ಟು?","julmāne eṣṭu?"],["Which way to the hospital?","ಆಸ್ಪತ್ರೆಗೆ ಯಾವ ದಾರಿ?","āspatrege yāva dāri?"],["Is this a one-way street?","ಇದು ಒಂದು ದಿಕ್ಕಿನ ರಸ್ತೆಯೇ?","idu ondu dikkina rasteyē?"],["Please let me go this time","ದಯವಿಟ್ಟು ಈ ಸಾರಿ ಬಿಡಿ","dayaviṭṭu ī sāri biḍi"],["I will be more careful","ನಾನು ಹೆಚ್ಚು ಜಾಗ್ರತೆ ಇರುವೆನೆ","nānu heccu jāgrate iruvene"],["Where can I park?","ನಾನು ಎಲ್ಲಿ ಪಾರ್ಕ್ ಮಾಡಬಹುದು?","nānu elli pārk māḍabahudu?"],["The light was green","ಲೈಟ್ ಹಸಿರಾಗಿತ್ತು","laiṭ hasirāgittu"],["I have my papers","ನನ್ನ ಪೇಪರ್ಸ್ ಇದೆ","nanna pēpars ide"],["I am new to this city","ನಾನು ಈ ನಗರಕ್ಕೆ ಹೊಸಬ","nānu ī nagarakke hosaba"],["Thank you, officer","ಧನ್ಯವಾದ, ಸಾರ್","dhanyavāda, sār"]]}]},
+  {"id":429,"title":"Simple Kannada conversation – Rickshaw/Taxi driver","url":"#","content":"Taking a rickshaw or taxi – fare, destination.","intro":"ಆಟೋ, ಟ್ಯಾಕ್ಸಿ. ದಾರಿ, ಬಾಡಿ.","blocks":[{"type":"table","heading":"Rickshaw/Taxi – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Take me to the railway station","ನನ್ನನ್ನು ರೈಲ್ವೆ ನಿಲ್ದಾಣಕ್ಕೆ ಕರೆದುಕೊಂಡು ಹೋಗಿ","nannannu railve nildāṇakke karedukoṇḍu hōgi"],["How much to the market?","ಮಾರುಕಟ್ಟೆಗೆ ಎಷ್ಟು?","mārukaṭṭege eṣṭu?"],["Please use the meter","ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ","dayaviṭṭu mīṭar hāki"],["Stop here","ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ","illi nillisi"],["Wait for five minutes","ಐದು ನಿಮಿಷ ಕಾಯಿ","aidu nimiṣa kāyi"],["Go straight","ನೇರ ಹೋಗಿ","nēra hōgi"],["Turn left at the signal","ಸಿಗ್ನಲ್ ನಲ್ಲಿ ಎಡಕ್ಕೆ ತಿರುಗಿ","signal nalli eḍakke tirugi"],["It is too expensive","ತುಂಬಾ ದುಬಾರಿ","tumbā dubāri"],["Can you reduce the fare?","ಬಾಡಿ ಕಡಿಮೆ ಮಾಡುವಿರಾ?","bāḍi kaḍime māḍuvirā?"],["I am in a hurry","ನನಗೆ ತುರ್ತು","nanage turta"],["Drop me near the bank","ನನ್ನನ್ನು ಬ್ಯಾಂಕ್ ಹತ್ತಿರ ಇಳಿಸಿ","nannannu byāṃk hattira iḷisi"],["Do you know this address?","ನಿಮಗೆ ಈ ವಿಳಾಸ ಗೊತ್ತೇ?","nimage ī viḷāsa gottē?"],["Please drive slowly","ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಓಡಿಸಿ","dayaviṭṭu nidhānavāgi ōḍisi"],["Here is the fare","ಇದು ಬಾಡಿ","idu bāḍi"],["Keep the change","ಬದಲಾಗಿ ಇರಲಿ","badalāgi irali"]]}]},
+  {"id":430,"title":"Simple Kannada Conversation – Software Engineers","url":"#","content":"Office and tech talk – meetings, projects, deadlines.","intro":"ಕಛೇರಿ, ಪ್ರಾಜೆಕ್ಟ್, ಮೀಟಿಂಗ್.","blocks":[{"type":"table","heading":"Software/Office – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I am a software engineer","ನಾನು ಸಾಫ್ಟ್ ವೇರ್ ಇಂಜಿನಿಯರ್","nānu sāphṭ vēr iṃjiniyar"],["Where do you work?","ನೀವು ಎಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೀರಿ?","nīvu elli kelasa māḍuttīri?"],["I work in IT","ನಾನು ಐಟಿಐಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ","nānu aiṭīalli kelasa māḍuttēne"],["We have a meeting at ten","ನಮಗೆ ಹತ್ತು ಗಂಟೆಗೆ ಮೀಟಿಂಗ್ ಇದೆ","namage hattu gaṇṭege mīṭiṃg ide"],["The project deadline is next week","ಪ್ರಾಜೆಕ್ಟ್ ಡೆಡ್ ಲೈನ್ ಮುಂದಿನ ವಾರ","prājekṭ ḍeḍ lain mundina vāra"],["I am working from home today","ನಾನು ಇಂದು ಮನೆಯಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ","nānu indu maneyinda kelasa māḍuttiddēne"],["Can you send me the file?","ನನಗೆ ಫೈಲ್ ಕಳುಹಿಸುವಿರಾ?","nanage phail kaḷuhisuvirā?"],["The server is down","ಸರ್ವರ್ ಡೌನ್ ಆಗಿದೆ","sarvar ḍaun āgide"],["I need to finish this today","ನಾನು ಇಂದು ಇದನ್ನು ಮುಗಿಸಬೇಕು","nānu indu idannu mugisabēku"],["Let us discuss in the meeting","ಮೀಟಿಂಗ್ ನಲ್ಲಿ ಚರ್ಚಿಸೋಣ","mīṭiṃg nalli carcisōṇa"],["Are you free for a call?","ನಿಮಗೆ ಕಾಲ್ ಮಾಡಲು ಸಮಯ ಇದೆಯೇ?","nimage kāl māḍalu samaya ideyē?"],["I will send the report by evening","ನಾನು ಸಂಜೆಗೆ ರಿಪೋರ್ಟ್ ಕಳುಹಿಸುತ್ತೇನೆ","nānu saṃjege ripōrṭ kaḷuhisuttēne"],["Which technology do you use?","ನೀವು ಯಾವ ಟೆಕ್ನಾಲಜಿ ಉಪಯೋಗಿಸುತ್ತೀರಿ?","nīvu yāva ṭeknālaji upayōgisuttīri?"],["The code is ready","ಕೋಡ್ ರೆಡಿ ಆಗಿದೆ","kōḍ redi āgide"],["We have a release tomorrow","ನಾಳೆ ನಮಗೆ ರಿಲೀಸ್ ಇದೆ","nāḷe namage rilīs ide"]]}]},
+  {"id":431,"title":"Simple Kannada conversation – Grocery shop","url":"#","content":"Buying groceries – items, quantity, price.","intro":"ಕಿರಾಣಿ ಅಂಗಡಿ, ತರಕಾರಿ, ಬೆಲೆ.","blocks":[{"type":"table","heading":"Grocery – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I need a kilo of rice","ನನಗೆ ಒಂದು ಕಿಲೋ ಅನ್ನ ಬೇಕು","nanage ondu kilō anna bēku"],["Give me half a kilo of dal","ನನಗೆ ಅರ್ಧ ಕಿಲೋ ಬೇಳೆ ಬೇಕು","nanage ardha kilō bēḷe bēku"],["How much is this?","ಇದರ ಬೆಲೆ ಎಷ್ಟು?","idara bele eṣṭu?"],["Do you have curd?","ನಿಮ್ಮಲ್ಲಿ ಮೊಸರು ಇದೆಯೇ?","nimballi mosaru ideyē?"],["Give me two litres of milk","ನನಗೆ ಎರಡು ಲೀಟರ್ ಹಾಲು ಕೊಡಿ","nanage eraḍu līṭar hālu koḍi"],["Where is the oil?","ಎಣ್ಣೆ ಎಲ್ಲಿ?","eṇṇe elli?"],["I want fresh vegetables","ನನಗೆ ತಾಜಾ ತರಕಾರಿ ಬೇಕು","nanage tājā tarakāri bēku"],["Do you have change?","ನಿಮ್ಮಲ್ಲಿ ಚಿಲ್ಲರೆ ಇದೆಯೇ?","nimballi cillare ideyē?"],["This is too expensive","ಇದು ತುಂಬಾ ದುಬಾರಿ","idu tumbā dubāri"],["Can you reduce the price?","ಬೆಲೆ ಕಡಿಮೆ ಮಾಡುವಿರಾ?","bele kaḍime māḍuvirā?"],["Give me a bill","ನನಗೆ ಬಿಲ್ ಕೊಡಿ","nanage bil koḍi"],["I forgot to buy salt","ನಾನು ಉಪ್ಪು ಕೊಳ್ಳಲು ಮರೆತೆ","nānu uppu koḷḷalu marete"],["Do you sell eggs?","ನಿಮ್ಮಲ್ಲಿ ಮೊಟ್ಟೆ ಅಮಾರುತ್ತೀರಾ?","nimballi moṭṭe amārutteerā?"],["Pack everything together","ಎಲ್ಲವನ್ನೂ ಒಟ್ಟಿಗೆ ಪ್ಯಾಕ್ ಮಾಡಿ","ellavannū oṭṭige pyāk māḍi"],["Thank you","ಧನ್ಯವಾದ","dhanyavāda"]]}]},
+  {"id":432,"title":"Simple Kannada Conversation – Doctor-Patient","url":"#","content":"At the doctor – symptoms, medicine, advice.","intro":"ವೈದ್ಯರು, ರೋಗ, ಮಾತು.","blocks":[{"type":"table","heading":"Doctor-Patient – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I have a headache","ನನಗೆ ತಲೆ ನೋವು","nanage tale nōvu"],["I have fever","ನನಗೆ ಜ್ವರ","nanage jvara"],["I have a cold","ನನಗೆ ಜಲುಬು","nanage jalubu"],["I have stomach pain","ನನಗೆ ಹೊಟ್ಟೆ ನೋವು","nanage hoṭṭe nōvu"],["I cannot sleep well","ನನಗೆ ಚನ್ನಾಗಿ ನಿದ್ರೆ ಬರುವುದಿಲ್ಲ","nanage cannāgi nidre baruvudilla"],["How long have you had this?","ಇದು ಎಷ್ಟು ದಿನಗಳಿಂದ?","idu eṣṭu dinagaḷinda?"],["Take this medicine twice a day","ಈ ಔಷಧ ದಿನಕ್ಕೆ ಎರಡು ಸಾರಿ ತೆಗೆದುಕೊಳ್ಳಿ","ī auṣadha dinakke eraḍu sāri tegedukoḷḷi"],["Avoid oily food","ಎಣ್ಣೆ ಊಟ ತಿನ್ನಬೇಡಿ","eṇṇe ūṭa tinnabēḍi"],["Rest for two days","ಎರಡು ದಿನ ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಳ್ಳಿ","eraḍu dina viśrāṃti tegedukoḷḷi"],["Do I need to get tests done?","ನನಗೆ ಟೆಸ್ಟ್ ಮಾಡಿಸಬೇಕೇ?","nanage ṭesṭ māḍisabēkē?"],["When should I come again?","ನಾನು ಮತ್ತೆ ಯಾವಾಗ ಬರಬೇಕು?","nānu matte yāvāga barabēku?"],["Is it serious?","ಇದು ಗಂಭೀರವೇ?","idu gaṃbhīravē?"],["I feel better now","ಈಗ ನನಗೆ ಚನ್ನಾಗಿದೆ","īga nanage cannāgide"],["Thank you, doctor","ಧನ್ಯವಾದ, ಡಾಕ್ಟರ್","dhanyavāda, ḍākṭar"],["Should I take an injection?","ನನಗೆ ಇಂಜೆಕ್ಷನ್ ಬೇಕೇ?","nanage iṃjekṣan bēkē?"]]}]},
+  {"id":433,"title":"Simple Kannada Conversation – Teacher & Students","url":"#","content":"Classroom and school – questions, homework, exams.","intro":"ಶಾಲೆ, ಶಿಕ್ಷಕರು, ಪಾಠ.","blocks":[{"type":"table","heading":"Teacher-Students – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Good morning, sir","ಶುಭೋದಯ, ಸಾರ್","śubhōdaya, sār"],["May I come in?","ನಾನು ಒಳಗೆ ಬರಲೇ?","nānu oḷage baralē?"],["I did not understand","ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ","nanage arthavāgalilla"],["Can you explain again?","ಮತ್ತೆ ವಿವರಿಸುವಿರಾ?","matte vivarisuvirā?"],["I have a doubt","ನನಗೆ ಸಂಶಯ ಇದೆ","nanage saṃśaya ide"],["When is the exam?","ಪರೀಕ್ಷೆ ಯಾವಾಗ?","parīkṣe yāvāga?"],["I finished my homework","ನಾನು ನನ್ನ ಹೋಮ್ ವರ್ಕ್ ಮುಗಿಸಿದೆ","nānu nanna hōm vark mugiside"],["Please give me one more day","ದಯವಿಟ್ಟು ಒಂದು ದಿನ ಸಮಯ ಕೊಡಿ","dayaviṭṭu ondu dina samaya koḍi"],["I was absent yesterday","ನಾನು ನಿನ್ನೆ ಗೈರುಹಾಜರಾಗಿದ್ದೆ","nānu ninne gairuhājarāgidde"],["Can I go to the bathroom?","ನಾನು ಸ್ನಾನಗೃಹಕ್ಕೆ ಹೋಗಲೇ?","nānu snānagṛhakke hōgalē?"],["What is the answer?","ಉತ್ತರ ಏನು?","uttara ēnu?"],["Read the first paragraph","ಮೊದಲ ಪ್ಯಾರಾಗ್ರಾಫ್ ಓದಿ","modala pyārāgrāph ōdi"],["Open your books","ನಿಮ್ಮ ಪುಸ್ತಕ ತೆರೆಯಿರಿ","nimma pustaka tereyiri"],["Stand up","ಎದ್ದು ನಿಲ್ಲಿ","eddu nilli"],["Sit down","ಕುಳ್ಳಿರಿ","kuḷḷiri"]]}]},
+  {"id":434,"title":"Simple Kannada conversation – Informal phone conversation","url":"#","content":"Casual phone talk – calling, receiving, messages.","intro":"ಫೋನ್, ಕಾಲ್, ಸಂದೇಶ.","blocks":[{"type":"table","heading":"Phone – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Hello, who is this?","ಹಲೋ, ಯಾರಿದು?","halō, yāridu?"],["This is Ramesh","ಇದು ರಮೇಶ","idu ramēśa"],["Is Sita there?","ಸೀತಾ ಇದ್ದಾಳೆಯೇ?","sītā iddāḷeyē?"],["She is not at home","ಅವಳು ಮನೆಯಲ್ಲಿ ಇಲ್ಲ","avaḷu maneyalli illa"],["I will call back later","ನಾನು ನಂತರ ಫೋನ್ ಮಾಡುತ್ತೇನೆ","nānu nantara phōn māḍuttēne"],["Can you hear me?","ನಿಮಗೆ ನನ್ನ ಧ್ವನಿ ಕೇಳಿಸುತ್ತದೆಯೇ?","nimage nanna dhvani kēḷisuttadeyē?"],["The line is breaking","ಲೈನ್ ಕಡಿಯುತ್ತಿದೆ","lain kaḍiyuttide"],["I will send you a message","ನಾನು ನಿಮಗೆ ಸಂದೇಶ ಕಳುಹಿಸುತ್ತೇನೆ","nānu nimage sandēśa kaḷuhisuttēne"],["What is your number?","ನಿಮ್ಮ ನಂಬರ್ ಏನು?","nimma naṃbar ēnu?"],["Sorry, wrong number","ಕ್ಷಮಿಸಿ, ತಪ್ಪು ನಂಬರ್","kṣamisi, tappu naṃbar"],["I am in a meeting, I will call you back","ನಾನು ಮೀಟಿಂಗ್ ನಲ್ಲಿ ಇದ್ದೇನೆ, ನಂತರ ಫೋನ್ ಮಾಡುತ್ತೇನೆ","nānu mīṭiṃg nalli iddēne, nantara phōn māḍuttēne"],["Did you get my message?","ನಿಮಗೆ ನನ್ನ ಸಂದೇಶ ಬಂದಿತೇ?","nimage nanna sandēśa baṃditē?"],["My phone is switched off","ನನ್ನ ಫೋನ್ ಸ್ವಿಚ್ ಆಫ್ ಆಗಿತ್ತು","nanna phōn svic aph āgittu"],["Talk to you later","ನಂತರ ಮಾತಾಡುತ್ತೇವೆ","nantara mātāḍuttēve"],["Bye","ವಿದಾಯ","vidāya"]]}]},
+  {"id":435,"title":"Simple Kannada conversation – Vegetable Market","url":"#","content":"Buying vegetables – names, quantity, freshness.","intro":"ತರಕಾರಿ ಮಾರುಕಟ್ಟೆ, ತಾಜಾ.","blocks":[{"type":"table","heading":"Vegetable market – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["How much for a kilo of tomatoes?","ಟೊಮಾಟೋ ಒಂದು ಕಿಲೋಗೆ ಎಷ್ಟು?","ṭomāṭō ondu kilōge eṣṭu?"],["Give me two kilos of onions","ನನಗೆ ಎರಡು ಕಿಲೋ ಈರುಳ್ಳಿ ಕೊಡಿ","nanage eraḍu kilō īruḷḷi koḍi"],["Are these fresh?","ಇವು ತಾಜಾವೇ?","ivu tājāvē?"],["This potato is rotten","ಈ ಆಲೂಗಡ್ಡೆ ಕೆಡಿದಿದೆ","ī ālūgaḍḍe keḍidide"],["Reduce the price a little","ಸ್ವಲ್ಪ ಬೆಲೆ ಕಡಿಮೆ ಮಾಡಿ","svalpa bele kaḍime māḍi"],["I need coriander leaves","ನನಗೆ ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು ಬೇಕು","nanage kottaṃbari soppu bēku"],["Do you have green chillies?","ನಿಮ್ಮಲ್ಲಿ ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ ಇದೆಯೇ?","nimballi hasiru meṇasinakāyi ideyē?"],["Give me half a kilo of beans","ನನಗೆ ಅರ್ಧ ಕಿಲೋ ಹರಕೆ ಕೊಡಿ","nanage ardha kilō harake koḍi"],["How much in total?","ಒಟ್ಟು ಎಷ್ಟು?","oṭṭu eṣṭu?"],["Pack it in a bag","ಚೀಲದಲ್ಲಿ ಹಾಕಿ","cīladalli hāki"],["I come here every day","ನಾನು ಪ್ರತಿದಿನ ಇಲ್ಲಿಗೆ ಬರುತ್ತೇನೆ","nānu pratidina illige baruttēne"],["Do you have pumpkin?","ನಿಮ್ಮಲ್ಲಿ ಕುಂಬಳಕಾಯಿ ಇದೆಯೇ?","nimballi kuṃbaḷakāyi ideyē?"],["The brinjal is too expensive","ಬದನೆ ತುಂಬಾ ದುಬಾರಿ","badane tumbā dubāri"],["Give me one cabbage","ನನಗೆ ಒಂದು ಎಲೆಕೋಸು ಕೊಡಿ","nanage ondu elekōsu koḍi"],["Thank you","ಧನ್ಯವಾದ","dhanyavāda"]]}]},
+  {"id":436,"title":"Simple Kannada Conversation – at bus stop and in bus","url":"#","content":"Bus travel – stop, fare, seat, getting down.","intro":"ಬಸ್, ನಿಲ್ದಾಣ, ಟಿಕೆಟ್.","blocks":[{"type":"table","heading":"Bus – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Where is the bus stop?","ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿ?","bas nildāṇa elli?"],["Does this bus go to the market?","ಈ ಬಸ್ ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುವುದೇ?","ī bas mārukaṭṭege hōguvudē?"],["How much is the fare?","ಬಾಡಿ ಎಷ್ಟು?","bāḍi eṣṭu?"],["One ticket to the station","ನಿಲ್ದಾಣಕ್ಕೆ ಒಂದು ಟಿಕೆಟ್","nildāṇakke ondu ṭikeṭ"],["When does the next bus come?","ಮುಂದಿನ ಬಸ್ ಯಾವಾಗ ಬರುತ್ತದೆ?","mundina bas yāvāga baruttade?"],["Is this seat empty?","ಈ ಸೀಟ್ ಖಾಲಿಯೇ?","ī sīṭ khāliyē?"],["Please move a little","ಸ್ವಲ್ಪ ಜಾಗ ಕೊಡಿ","svalpa jāga koḍi"],["I need to get down at the next stop","ನಾನು ಮುಂದಿನ ಸ್ಟಾಪ್ ನಲ್ಲಿ ಇಳಿಯಬೇಕು","nānu mundina sṭāp nalli iḷiyabēku"],["Stop the bus","ಬಸ್ ನಿಲ್ಲಿಸಿ","bas nillisi"],["The bus is very crowded","ಬಸ್ ತುಂಬಾ ಜನದಿಂದ ತುಂಬಿದೆ","bas tumbā janadinda tumbide"],["Do you have change?","ನಿಮ್ಮಲ್ಲಿ ಚಿಲ್ಲರೆ ಇದೆಯೇ?","nimballi cillare ideyē?"],["This is my stop","ಇದು ನನ್ನ ಸ್ಟಾಪ್","idu nanna sṭāp"],["How many stops to the hospital?","ಆಸ್ಪತ್ರೆಗೆ ಎಷ್ಟು ಸ್ಟಾಪ್?","āspatrege eṣṭu sṭāp?"],["The bus is late today","ಇಂದು ಬಸ್ ತಡವಾಗಿ ಬರುತ್ತಿದೆ","indu bas taḍavāgi baruttide"],["Please give me a ticket","ದಯವಿಟ್ಟು ಟಿಕೆಟ್ ಕೊಡಿ","dayaviṭṭu ṭikeṭ koḍi"]]}]},
+  {"id":437,"title":"Asking address in Kannada","url":"#","content":"Asking and giving directions and address.","intro":"ವಿಳಾಸ, ದಾರಿ, ಹತ್ತಿರ.","blocks":[{"type":"table","heading":"Address and directions","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Where is this address?","ಈ ವಿಳಾಸ ಎಲ್ಲಿ?","ī viḷāsa elli?"],["Can you show me the way?","ನನಗೆ ದಾರಿ ತೋರಿಸುವಿರಾ?","nanage dāri tōrisuvirā?"],["Go straight and turn right","ನೇರ ಹೋಗಿ ಬಲಕ್ಕೆ ತಿರುಗಿ","nēra hōgi balakke tirugi"],["It is near the temple","ಅದು ದೇವಾಲಯದ ಹತ್ತಿರ","adu dēvālayada hattira"],["It is behind the bank","ಅದು ಬ್ಯಾಂಕ್ ಹಿಂದೆ","adu byāṃk hinde"],["What is the landmark?","ಲ್ಯಾಂಡ್ ಮಾರ್ಕ್ ಏನು?","lyāṃḍ mārk ēnu?"],["My address is number 5, MG Road","ನನ್ನ ವಿಳಾಸ ಎಂಜಿ ರೋಡ್ ೫ ನಂಬರ್","nanna viḷāsa eṃji rōḍ 5 naṃbar"],["Is it far from here?","ಇಲ್ಲಿಂದ ದೂರವೇ?","illinda dūravē?"],["You have to cross the bridge","ನೀವು ಸೇತುವೆ ದಾಟಬೇಕು","nīvu sētuve dāṭabēku"],["Take the first left","ಮೊದಲ ಎಡಕ್ಕೆ ತಿರುಗಿ","modala eḍakke tirugi"],["It is on the main road","ಅದು ಮುಖ್ಯ ರಸ್ತೆಯ ಮೇಲೆ","adu mukhya rasteya mēle"],["I am lost, can you help?","ನನಗೆ ದಾರಿ ತೋಚುವುದಿಲ್ಲ, ಸಹಾಯ ಮಾಡುವಿರಾ?","nanage dāri tōcuvudilla, sahāya māḍuvirā?"],["Walk for five minutes","ಐದು ನಿಮಿಷ ನಡೆಯಿರಿ","aidu nimiṣa naḍeyiri"],["You will see a big building","ನಿಮಗೆ ದೊಡ್ಡ ಕಟ್ಟಡ ಕಾಣಿಸುತ್ತದೆ","nimage doḍḍa kaṭṭaḍa kāṇisuttade"],["Thank you for the help","ಸಹಾಯಕ್ಕೆ ಧನ್ಯವಾದ","sahāyakke dhanyavāda"]]}]},
+  {"id":438,"title":"I Love you In Kannada. Proposing someone in Kannada","url":"#","content":"Expressing love and proposal in Kannada.","intro":"ಪ್ರೀತಿ, ಪ್ರೇಮ, ಪ್ರಸ್ತಾವ.","blocks":[{"type":"table","heading":"Love and proposal – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I love you","ನಾನು ನಿಮ್ಮನ್ನು ಪ್ರೀತಿಸುತ್ತೇನೆ","nānu nimmannu prītisuttēne"],["I like you a lot","ನನಗೆ ನೀವು ತುಂಬಾ ಇಷ್ಟ","nanage nīvu tumbā iṣṭa"],["Will you marry me?","ನೀವು ನನ್ನನ್ನು ಮದುವೆಯಾಗುವಿರಾ?","nīvu nannannu maduveyāguvirā?"],["You are very special to me","ನನಗೆ ನೀವು ತುಂಬಾ ವಿಶೇಷ","nanage nīvu tumbā viśēṣa"],["I cannot live without you","ನಾನು ನಿಮ್ಮಿಲ್ಲದೆ ಬದುಕಲಾರೆ","nānu nimmillade badukalāre"],["I have loved you for a long time","ನಾನು ಬಹುಕಾಲದಿಂದ ನಿಮ್ಮನ್ನು ಪ್ರೀತಿಸುತ್ತಿದ್ದೇನೆ","nānu bahukāladinda nimmannu prītisuttiddēne"],["You are beautiful","ನೀವು ಸುಂದರ","nīvu sundara"],["I want to spend my life with you","ನಾನು ನಿಮ್ಮ ಜೊತೆ ನನ್ನ ಜೀವನ ಕಳೆಯಲು ಬಯಸುತ್ತೇನೆ","nānu nimma jote nanna jīvana kaḷeyalu bayasuttēne"],["Do you love me?","ನೀವು ನನ್ನನ್ನು ಪ್ರೀತಿಸುವಿರಾ?","nīvu nannannu prītisuvirā?"],["I accept","ನಾನು ಒಪ್ಪುತ್ತೇನೆ","nānu opputtēne"],["I need some time to think","ನನಗೆ ಯೋಚಿಸಲು ಸಮಯ ಬೇಕು","nanage yōcisalu samaya bēku"],["You are my everything","ನೀವು ನನ್ನ ಎಲ್ಲವೂ","nīvu nanna ellavū"],["I will always be with you","ನಾನು ಯಾವಾಗಲೂ ನಿಮ್ಮ ಜೊತೆ ಇರುವೆನೆ","nānu yāvāgalū nimma jote iruvene"],["Thank you for saying yes","ಹೌದು ಎಂದು ಹೇಳಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದ","haudu endu hēḷiddakke dhanyavāda"],["I am the luckiest person","ನಾನು ಅತ್ಯಂತ ಅದೃಷ್ಟವಂತ","nānu atyanta adṛṣṭavaṃta"]]}]},
+  {"id":439,"title":"Simple Kannada Conversation – Interview in Kannada","url":"#","content":"Job interview – introduction, experience, salary.","intro":"ಇಂಟರ್ವ್ಯೂ, ಅನುಭವ, ವೇತನ.","blocks":[{"type":"table","heading":"Interview – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Good morning, I am here for the interview","ಶುಭೋದಯ, ನಾನು ಇಂಟರ್ವ್ಯೂಗೆ ಬಂದಿದ್ದೇನೆ","śubhōdaya, nānu iṇṭarvyūge bandiddēne"],["Tell me about yourself","ನಿಮ್ಮ ಬಗ್ಗೆ ಹೇಳಿ","nimma bagge hēḷi"],["I have five years of experience","ನನಗೆ ಐದು ವರ್ಷದ ಅನುಭವ ಇದೆ","nanage aidu varṣada anubhava ide"],["I worked at ABC Company","ನಾನು ಏಬಿಸಿ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದ್ದೇನೆ","nānu ēbisi kaṃpaniyalli kelasa māḍiddēne"],["What are your strengths?","ನಿಮ್ಮ ಶಕ್ತಿಗಳು ಏನು?","nimma śaktigaḷu ēnu?"],["I am a quick learner","ನಾನು ಬೇಗ ಕಲಿಯುವವನು","nānu bēga kaliyuvavanu"],["What are your salary expectations?","ನಿಮ್ಮ ವೇತನ ನಿರೀಕ್ಷೆ ಏನು?","nimma vētana nirīkṣe ēnu?"],["When can you join?","ನೀವು ಯಾವಾಗ ಜಾಯಿನ್ ಆಗುವಿರಿ?","nīvu yāvāga jāyin āguviri?"],["I can join from next month","ನಾನು ಮುಂದಿನ ತಿಂಗಳಿಂದ ಜಾಯಿನ್ ಆಗಬಲ್ಲೆ","nānu mundina tiṃgaḷinda jāyin āgaballe"],["Do you have any questions?","ನಿಮಗೆ ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳಿವೆಯೇ?","nimage yāvudē praśnegaḷiveyē?"],["Thank you for this opportunity","ಈ ಅವಕಾಶಕ್ಕೆ ಧನ್ಯವಾದ","ī avakāśakke dhanyavāda"],["I will wait for your response","ನಿಮ್ಮ ಉತ್ತರಕ್ಕೆ ಕಾಯುತ್ತೇನೆ","nimma uttarakke kāyuttēne"],["I am ready to take challenges","ನಾನು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಲು ಸಿದ್ಧ","nānu savālugaḷannu edurisalu siddha"],["I am good at teamwork","ನಾನು ತಂಡದ ಕೆಲಸದಲ್ಲಿ ಚನ್ನಾಗಿ ಇದ್ದೇನೆ","nānu taṃḍada kelasadalli cannāgi iddēne"],["When will you announce the result?","ನೀವು ಫಲಿತಾಂಶ ಯಾವಾಗ ಪ್ರಕಟಿಸುವಿರಿ?","nīvu phalitāṃśa yāvāga prakaṭisuviri?"]]}]},
+  {"id":440,"title":"Simple Kannada conversation – with housemaid","url":"#","content":"Talking to housemaid – cleaning, cooking, schedule.","intro":"ಮನೆ ಸೇವಕಿ, ಸ್ವಚ್ಛತೆ, ಅಡುಗೆ.","blocks":[{"type":"table","heading":"Housemaid – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Please clean the house today","ದಯವಿಟ್ಟು ಇಂದು ಮನೆ ಸ್ವಚ್ಛ ಮಾಡಿ","dayaviṭṭu indu mane svaccha māḍi"],["Wash the clothes","ಬಟ್ಟೆ ಜಾಲಿಸಿ","baṭṭe jālisi"],["Sweep the floor","ನೆಲ ಚಾಳಿಸಿ","nela cāḷisi"],["When will you come tomorrow?","ನೀವು ನಾಳೆ ಯಾವಾಗ ಬರುವಿರಿ?","nīvu nāḷe yāvāga baruviri?"],["Cook rice and dal","ಅನ್ನ ಮತ್ತು ಬೇಳೆ ಬೇಯಿಸಿ","anna mattu bēḷe bēyisi"],["The vessel is dirty","ಪಾತ್ರೆ ಕೊಳಕಾಗಿದೆ","pātre koḷakāgide"],["Please come early tomorrow","ದಯವಿಟ್ಟು ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಬನ್ನಿ","dayaviṭṭu nāḷe beḷigge banni"],["Do not use too much oil","ತುಂಬಾ ಎಣ್ಣೆ ಉಪಯೋಗಿಸಬೇಡಿ","tumbā eṇṇe upayōgisabēḍi"],["Keep the vegetables in the fridge","ತರಕಾರಿ ಫ್ರಿಜ್ ನಲ್ಲಿ ಇಡಿ","tarakāri phrij nalli iḍi"],["I will be on leave next week","ನನಗೆ ಮುಂದಿನ ವಾರ ರಜಾ","nanage mundina vāra rajā"],["Here is your salary","ಇದು ನಿಮ್ಮ ಸಂಬಳ","idu nimma sambaḷa"],["Clean the bathroom well","ಸ್ನಾನಗೃಹ ಚನ್ನಾಗಿ ಸ್ವಚ್ಛ ಮಾಡಿ","snānagṛha cannāgi svaccha māḍi"],["Do you need anything?","ನಿಮಗೆ ಏನಾದರೂ ಬೇಕೇ?","nimage ēnādarū bēkē?"],["Thank you for your work","ನಿಮ್ಮ ಕೆಲಸಕ್ಕೆ ಧನ್ಯವಾದ","nimma kelasakke dhanyavāda"],["Please lock the door when you leave","ನೀವು ಹೋಗುವಾಗ ಬಾಗಿಲು ಲಾಕ್ ಮಾಡಿ","nīvu hōguvāga bāgilu lāk māḍi"]]}]},
+  {"id":441,"title":"Simple Kannada conversation: Linking AADHAR card to mobile number","url":"#","content":"At mobile shop – linking Aadhar to mobile.","intro":"ಆಧಾರ್, ಮೊಬೈಲ್ ಲಿಂಕ್.","blocks":[{"type":"table","heading":"Aadhar-Mobile link – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I want to link my Aadhar to mobile","ನನ್ನ ಆಧಾರ್ ಅನ್ನು ಮೊಬೈಲ್ ಜೊತೆ ಲಿಂಕ್ ಮಾಡಬೇಕು","nanna ādhār annu mobail jote liṃk māḍabēku"],["Do you have your Aadhar card?","ನಿಮ್ಮಲ್ಲಿ ಆಧಾರ್ ಕಾರ್ಡ್ ಇದೆಯೇ?","nimballi ādhār kārḍ ideyē?"],["I have my Aadhar","ನನ್ನ ಆಧಾರ್ ಇದೆ","nanna ādhār ide"],["What documents do you need?","ನಿಮಗೆ ಯಾವ ಡಾಕ್ಯುಮೆಂಟ್ ಬೇಕು?","nimage yāva ḍākyumeṇṭ bēku?"],["Please fill this form","ದಯವಿಟ್ಟು ಈ ಫಾರ್ಮ್ ಭರ್ತಿ ಮಾಡಿ","dayaviṭṭu ī phārm bharti māḍi"],["You will get an OTP","ನಿಮಗೆ ಓಟಿಪಿ ಬರುವುದು","nimage ōṭipi baruvudu"],["Enter the OTP here","ಓಟಿಪಿ ಇಲ್ಲಿ ನಮೂದಿಸಿ","ōṭipi illi namūdisi"],["The link is complete","ಲಿಂಕ್ ಪೂರ್ಣವಾಗಿದೆ","liṃk pūrṇavāgide"],["How long will it take?","ಎಷ್ಟು ಸಮಯ ಬೇಕು?","eṣṭu samaya bēku?"],["Is there any charge?","ಯಾವುದೇ ಶುಲ್ಕ ಇದೆಯೇ?","yāvudē śulka ideyē?"],["Thank you for the help","ಸಹಾಯಕ್ಕೆ ಧನ್ಯವಾದ","sahāyakke dhanyavāda"],["When will it be active?","ಇದು ಯಾವಾಗ ಸಕ್ರಿಯವಾಗುತ್ತದೆ?","idu yāvāga sakriyavāguttade?"],["I have linked it already","ನಾನು ಈಗಾಗಲೇ ಲಿಂಕ್ ಮಾಡಿದ್ದೇನೆ","nānu īgāgalē liṃk māḍiddēne"],["Please verify my number","ದಯವಿಟ್ಟು ನನ್ನ ನಂಬರ್ ಪರಿಶೀಲಿಸಿ","dayaviṭṭu nanna naṃbar pariśīlisi"],["Do I need a new SIM?","ನನಗೆ ಹೊಸ ಸಿಮ್ ಬೇಕೇ?","nanage hosa sim bēkē?"]]}]},
+  {"id":442,"title":"Simple Kannada conversation: Linking mobile number to AADHAR card","url":"#","content":"Linking mobile number to Aadhar – same scenario.","intro":"ಮೊಬೈಲ್ ನಂಬರ್ ಅನ್ನು ಆಧಾರ್ ಜೊತೆ ಲಿಂಕ್ ಮಾಡುವುದು.","blocks":[{"type":"table","heading":"Mobile to Aadhar – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I need to link my mobile to Aadhar","ನನ್ನ ಮೊಬೈಲ್ ಅನ್ನು ಆಧಾರ್ ಜೊತೆ ಲಿಂಕ್ ಮಾಡಬೇಕು","nanna mobail annu ādhār jote liṃk māḍabēku"],["Give me your mobile number","ನಿಮ್ಮ ಮೊಬೈಲ್ ನಂಬರ್ ಕೊಡಿ","nimma mobail naṃbar koḍi"],["You will receive an OTP on your phone","ನಿಮ್ಮ ಫೋನ್ ನಲ್ಲಿ ಓಟಿಪಿ ಬರುವುದು","nimma phōn nalli ōṭipi baruvudu"],["The process is simple","ಪ್ರಕ್ರಿಯೆ ಸರಳ","prakriye saraḷa"],["It will take five minutes","ಐದು ನಿಮಿಷ ಬೇಕು","aidu nimiṣa bēku"],["Is my number already linked?","ನನ್ನ ನಂಬರ್ ಈಗಾಗಲೇ ಲಿಂಕ್ ಆಗಿದೆಯೇ?","nanna naṃbar īgāgalē liṃk āgideyē?"],["Please check once","ದಯವಿಟ್ಟು ಒಮ್ಮೆ ಪರಿಶೀಲಿಸಿ","dayaviṭṭu omme pariśīlisi"],["I have two numbers","ನನಗೆ ಎರಡು ನಂಬರ್ ಇದೆ","nanage eraḍu naṃbar ide"],["Can I link both?","ನಾನು ಎರಡನ್ನೂ ಲಿಂಕ್ ಮಾಡಬಹುದೇ?","nānu eraḍannū liṃk māḍabahudē?"],["Yes, you can","ಹೌದು, ಮಾಡಬಹುದು","haudu, māḍabahudu"],["Your Aadhar is already linked","ನಿಮ್ಮ ಆಧಾರ್ ಈಗಾಗಲೇ ಲಿಂಕ್ ಆಗಿದೆ","nimma ādhār īgāgalē liṃk āgide"],["You need to visit the bank","ನೀವು ಬ್ಯಾಂಕ್ ಗೆ ಹೋಗಬೇಕು","nīvu byāṃk ge hōgabēku"],["Bring original Aadhar","ಆಧಾರ್ ಒರಿಜಿನಲ್ ತನ್ನಿ","ādhār orijinal tanni"],["Thank you","ಧನ್ಯವಾದ","dhanyavāda"],["The link is successful","ಲಿಂಕ್ ಯಶಸ್ವಿಯಾಗಿದೆ","liṃk yaśasviyāgide"]]}]},
+  {"id":443,"title":"Simple Kannada conversation: Republic Day 26th January celebration in India","url":"#","content":"Republic Day – sentences and vocabulary.","intro":"ಗಣತಂತ್ರ ದಿನ, ಜನವರಿ ೨೬.","blocks":[{"type":"table","heading":"Republic Day – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Happy Republic Day!","ಗಣತಂತ್ರ ದಿನ ಶುಭಾಷಯಗಳು!","gaṇataṃtra dina śubhāṣayagaḷu!"],["Republic Day is on January 26","ಗಣತಂತ್ರ ದಿನ ಜನವರಿ ೨೬ ರಂದು","gaṇataṃtra dina janavari 26 raṃdu"],["We hoist the flag on this day","ಈ ದಿನ ನಾವು ಧ್ವಜ ಏರಿಸುತ್ತೇವೆ","ī dina nāvu dhvaja ērisuttēve"],["There is a parade in Delhi","ದೆಹಲಿಯಲ್ಲಿ ಪರೇಡ್ ನಡೆಯುತ್ತದೆ","dehaliyalli parēḍ naḍeyuttade"],["Schools celebrate Republic Day","ಶಾಲೆಗಳು ಗಣತಂತ್ರ ದಿನ ಆಚರಿಸುತ್ತವೆ","śālegaḷu gaṇataṃtra dina ācarisuttave"],["I love my country","ನಾನು ನನ್ನ ದೇಶವನ್ನು ಪ್ರೀತಿಸುತ್ತೇನೆ","nānu nanna dēśavannu prītisuttēne"],["Jai Hind!","ಜಯ ಹಿಂದ್!","jaya hind!"],["We sing the national anthem","ನಾವು ರಾಷ್ಟ್ರಗೀತೆ ಹಾಡುತ್ತೇವೆ","nāvu rāṣṭragīte hāḍuttēve"],["The President gives a speech","ರಾಷ್ಟ್ರಪತಿ ಭಾಷಣ ಮಾಡುತ್ತಾರೆ","rāṣṭrapati bhāṣaṇa māḍuttāre"],["Schools have a holiday","ಶಾಲೆಗಳಿಗೆ ರಜಾ","śālegaḷige rajā"],["We wear white clothes","ನಾವು ಬಿಳಿ ಬಟ್ಟೆ ಧರಿಸುತ್ತೇವೆ","nāvu biḷi baṭṭe dharisuttēve"],["Long live India!","ಭಾರತ ಚಿರಂಜೀವಿ ಆಗಲಿ!","bhārata ciraṃjīvi āgali!"],["I am proud to be Indian","ನಾನು ಭಾರತೀಯನಾಗಿ ಹೆಮ್ಮೆ ಪಡುತ್ತೇನೆ","nānu bhāratīyanāgi hemme paḍuttēne"],["The flag has three colours","ಧ್ವಜಕ್ಕೆ ಮೂರು ಬಣ್ಣ ಇದೆ","dhvajakke mūru baṇṇa ide"],["We remember our freedom fighters","ನಾವು ನಮ್ಮ ಸ್ವಾತಂತ್ರ್ಯ ಸೈನಿಕರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತೇವೆ","nāvu namma svātaṃtrya sainikarannu nenapisikoḷḷuttēve"]]}]},
+  {"id":444,"title":"Simple Kannada conversation: In Bank","url":"#","content":"Bank – account, deposit, withdraw, passbook.","intro":"ಬ್ಯಾಂಕ್, ಖಾತೆ, ಠೇವಣಿ.","blocks":[{"type":"table","heading":"Bank – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I want to open an account","ನನಗೆ ಖಾತೆ ತೆರೆಯಬೇಕು","nanage khāte tereyabēku"],["What documents do you need?","ನಿಮಗೆ ಯಾವ ಡಾಕ್ಯುಮೆಂಟ್ ಬೇಕು?","nimage yāva ḍākyumeṇṭ bēku?"],["I want to deposit money","ನಾನು ಹಣ ಠೇವಣಿ ಮಾಡಬೇಕು","nānu haṇa ṭhēvaṇi māḍabēku"],["I want to withdraw cash","ನಾನು ನಗದು ತೆಗೆದುಕೊಳ್ಳಬೇಕು","nānu nagadu tegedukoḷḷabēku"],["Please update my passbook","ದಯವಿಟ್ಟು ನನ್ನ ಪಾಸ್ ಬುಕ್ ಅಪ್ ಡೇಟ್ ಮಾಡಿ","dayaviṭṭu nanna pās buk ap ḍēṭ māḍi"],["What is the interest rate?","ವಡ್ಡಿ ದರ ಎಷ್ಟು?","vaḍḍi dara eṣṭu?"],["I need a cheque book","ನನಗೆ ಚೆಕ್ ಬುಕ್ ಬೇಕು","nanage chek buk bēku"],["Where is the ATM?","ಎಟಿಎಂ ಎಲ್ಲಿ?","eṭīṃ elli?"],["I forgot my PIN","ನನ್ನ ಪಿನ್ ಮರೆತೆ","nanna pin marete"],["Please help me reset the password","ದಯವಿಟ್ಟು ಪಾಸ್ ವರ್ಡ್ ರಿಸೆಟ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡಿ","dayaviṭṭu pās varḍ riseṭ māḍalu sahāya māḍi"],["I want to transfer money","ನಾನು ಹಣ ಟ್ರಾನ್ಸ್ಫರ್ ಮಾಡಬೇಕು","nānu haṇa ṭrānsphar māḍabēku"],["What is the minimum balance?","ಕನಿಷ್ಠ ಬಾಕಿ ಎಷ್ಟು?","kaniṣṭha bāki eṣṭu?"],["Please give me a statement","ದಯವಿಟ್ಟು ಸ್ಟೇಟ್ ಮೆಂಟ್ ಕೊಡಿ","dayaviṭṭu sṭēṭ meṇṭ koḍi"],["The cheque has bounced","ಚೆಕ್ ಬೌನ್ಸ್ ಆಗಿದೆ","chek bauns āgide"],["Thank you for your service","ನಿಮ್ಮ ಸೇವೆಗೆ ಧನ್ಯವಾದ","nimma sēvege dhanyavāda"]]}]},
+  {"id":445,"title":"Simple Kannada Conversation: Enquiry about Temple Visit","url":"#","content":"Asking about temple – timings, dress, darshan.","intro":"ದೇವಾಲಯ, ದರ್ಶನ, ಪೂಜೆ.","blocks":[{"type":"table","heading":"Temple visit – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["What time does the temple open?","ದೇವಾಲಯ ಯಾವಾಗ ತೆರೆಯುತ್ತದೆ?","dēvālaya yāvāga tereyuttade?"],["When is the morning pooja?","ಬೆಳಿಗ್ಗೆ ಪೂಜೆ ಯಾವಾಗ?","beḷigge pūje yāvāga?"],["Is there a dress code?","ಬಟ್ಟೆ ನಿಯಮ ಇದೆಯೇ?","baṭṭe niyama ideyē?"],["Where can I keep my slippers?","ನನ್ನ ಚಪ್ಪಲು ಎಲ್ಲಿ ಇಡಬಹುದು?","nanna cappalu elli iḍabahudu?"],["How long is the queue?","ಸಾಲು ಎಷ್ಟು ಉದ್ದ?","sālu eṣṭu udda?"],["I want to do special darshan","ನನಗೆ ಸ್ಪೆಷಲ್ ದರ್ಶನ ಬೇಕು","nanage speṣal darśana bēku"],["What is the ticket price?","ಟಿಕೆಟ್ ಬೆಲೆ ಎಷ್ಟು?","ṭikeṭ bele eṣṭu?"],["Where is the main deity?","ಮುಖ್ಯ ದೇವರು ಎಲ್ಲಿ?","mukhya dēvaru elli?"],["Can we take photos?","ನಾವು ಫೋಟೋ ತೆಗೆಯಬಹುದೇ?","nāvu phōṭō tegeyabahudē?"],["The temple closes at nine","ದೇವಾಲಯ ಒಂಬತ್ತು ಗಂಟೆಗೆ ಮುಚ್ಚುತ್ತದೆ","dēvālaya ombattu gaṇṭege muccuttade"],["Is there a canteen?","ಊಟದ ಕೋಣೆ ಇದೆಯೇ?","ūṭada kōṇe ideyē?"],["I want to offer flowers","ನಾನು ಹೂವು ಅರ್ಪಿಸಬೇಕು","nānu hūvu arpisabēku"],["Where is the donation counter?","ದಾನ ಕೌಂಟರ್ ಎಲ್ಲಿ?","dāna kaunṭar elli?"],["Thank you","ಧನ್ಯವಾದ","dhanyavāda"],["The temple is very peaceful","ದೇವಾಲಯ ತುಂಬಾ ಶಾಂತ","dēvālaya tumbā śāṃta"]]}]},
+  {"id":446,"title":"Simple Kannada conversation: with friend's parents at lunch table","url":"#","content":"At lunch with friend's family – polite conversation.","intro":"ಮಿತ್ರರ ಮನೆ, ಊಟ, ವಿನಯ.","blocks":[{"type":"table","heading":"Lunch at friend's house – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Thank you for inviting me","ನನ್ನನ್ನು ಕರೆದ್ದಕ್ಕೆ ಧನ್ಯವಾದ","nannannu kareddakke dhanyavāda"],["The food is very tasty","ಊಟ ತುಂಬಾ ರುಚಿಕರ","ūṭa tumbā rucikara"],["Your mother cooks very well","ನಿಮ್ಮ ತಾಯಿ ಚನ್ನಾಗಿ ಅಡುಗೆ ಮಾಡುತ್ತಾಳೆ","nimma tāyi cannāgi aḍuge māḍuttāḷe"],["May I have some more rice?","ನನಗೆ ಇನ್ನೂ ಅನ್ನ ಬೇಕು","nanage innū anna bēku"],["I am full, thank you","ನನಗೆ ಸಾಕು, ಧನ್ಯವಾದ","nanage sāku, dhanyavāda"],["Please do not stand on ceremony","ವಿನಯ ಮಾಡಬೇಡಿ","vinaya māḍabēḍi"],["What do you do?","ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ?","nīvu ēnu māḍuttīri?"],["I work in a bank","ನಾನು ಬ್ಯಾಂಕ್ ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ","nānu byāṃk nalli kelasa māḍuttēne"],["Your son is my best friend","ನಿಮ್ಮ ಮಗ ನನ್ನ ಅತ್ಯುತ್ತಮ ಮಿತ್ರ","nimma maga nanna atyuttama mitra"],["We study together","ನಾವು ಒಟ್ಟಿಗೆ ಓದುತ್ತೇವೆ","nāvu oṭṭige ōduttēve"],["Please have some sweets","ದಯವಿಟ್ಟು ಮಿಠಾಯಿ ತಿನ್ನಿ","dayaviṭṭu miṭhāyi tinni"],["I had a great time","ನನಗೆ ತುಂಬಾ ಚನ್ನಾಗಿ ಕಳೆಯಿತು","nanage tumbā cannāgi kaḷeyitu"],["I will leave now","ನಾನು ಈಗ ಹೋಗುತ್ತೇನೆ","nānu īga hōguttēne"],["Please visit us sometime","ದಯವಿಟ್ಟು ಒಂದು ಸಾರಿ ನಮ್ಮ ಮನೆಗೆ ಬನ್ನಿ","dayaviṭṭu ondu sāri namma manege banni"],["Thank you for everything","ಎಲ್ಲದಕ್ಕೂ ಧನ್ಯವಾದ","elladakkū dhanyavāda"]]}]},
+  {"id":447,"title":"Simple Kannada conversation: A friend talking about his football match","url":"#","content":"Talking about a football match.","intro":"ಫುಟ್ ಬಾಲ್, ಪಂದ್ಯ, ಗೋಲ್.","blocks":[{"type":"table","heading":"Football match – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["We won the match yesterday","ನಾವು ನಿನ್ನೆ ಪಂದ್ಯ ಗೆದ್ದೆವು","nāvu ninne paṃdya geddevu"],["The score was 2-1","ಸ್ಕೋರ್ ೨-೧ ಆಗಿತ್ತು","skōr 2-1 āgittu"],["I scored a goal","ನಾನು ಒಂದು ಗೋಲ್ ಹೊಡೆದೆ","nānu ondu gōl hoḍede"],["It was a tough match","ಅದು ಕಠಿಣ ಪಂದ್ಯ ಆಗಿತ್ತು","adu kaṭhiṇa paṃdya āgittu"],["The other team played well","ಇನ್ನೊಂದು ತಂಡ ಚನ್ನಾಗಿ ಆಡಿತು","innondu taṃḍa cannāgi āḍitu"],["Our captain was injured","ನಮ್ಮ ಕ್ಯಾಪ್ಟನ್ ಗಾಯವಾಗಿದ್ದ","nimma kyāpṭan gāyavāgidda"],["When is the next match?","ಮುಂದಿನ ಪಂದ್ಯ ಯಾವಾಗ?","mundina paṃdya yāvāga?"],["I love playing football","ನನಗೆ ಫುಟ್ ಬಾಲ್ ಆಡಲು ಇಷ್ಟ","nanage phuṭ bāl āḍalu iṣṭa"],["We practice every evening","ನಾವು ಪ್ರತಿ ಸಂಜೆ ಪ್ರಾಕ್ಟಿಸ್ ಮಾಡುತ್ತೇವೆ","nāvu prati saṃje prākṭis māḍuttēve"],["Did you watch the match?","ನೀವು ಪಂದ್ಯ ನೋಡಿದಿರಾ?","nīvu paṃdya nōḍidirā?"],["It was an exciting game","ಅದು ಉತ್ಸಾಹಭರಿತ ಆಟ ಆಗಿತ್ತು","adu utsāhabharita āṭa āgittu"],["We will win next time","ನಾವು ಮುಂದಿನ ಸಾರಿ ಗೆದ್ದೇವೆ","nāvu mundina sāri geddēve"],["Who is your favourite player?","ನಿಮ್ಮ ಅಚ್ಚುಮೆಚ್ಚಿನ ಆಟಗಾರ ಯಾರು?","nimma accumeccina āṭagāra yāru?"],["I want to join the team","ನಾನು ತಂಡಕ್ಕೆ ಸೇರಬೇಕು","nānu taṃḍakke sērabēku"],["Congratulations on the win!","ಗೆಲುವಿಗೆ ಅಭಿನಂದನೆ!","geluvige abhinandane!"]]}]},
+  {"id":448,"title":"Simple Kannada conversation: Friends plan to watch movie","url":"#","content":"Planning to watch a movie together.","intro":"ಚಲನಚಿತ್ರ, ಟಿಕೆಟ್, ಟೈಮ್.","blocks":[{"type":"table","heading":"Movie plan – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Let us watch a movie today","ಇಂದು ಚಲನಚಿತ್ರ ನೋಡೋಣ","indu canalacitra nōḍōṇa"],["Which movie do you want to see?","ನೀವು ಯಾವ ಚಿತ್ರ ನೋಡಬೇಕು?","nīvu yāva citra nōḍabēku?"],["I want to watch the new Kannada film","ನಾನು ಹೊಸ ಕನ್ನಡ ಚಿತ್ರ ನೋಡಬೇಕು","nānu hosa kannaḍa citra nōḍabēku"],["What time is the show?","ಶೋ ಎಷ್ಟು ಗಂಟೆ?","śō eṣṭu gaṇṭe?"],["Let us book tickets online","ನಾವು ಆನ್ ಲೈನ್ ಟಿಕೆಟ್ ಬುಕ್ ಮಾಡೋಣ","nāvu ān lain ṭikeṭ buk māḍōṇa"],["Do you want popcorn?","ನಿಮಗೆ ಪಾಪ್ ಕಾರ್ನ್ ಬೇಕೇ?","nimage pāp kārṇ bēkē?"],["I will reach by six","ನಾನು ಆರು ಗಂಟೆಗೆ ಬರುವೆನೆ","nānu āru gaṇṭege baruvene"],["Where shall we meet?","ನಾವು ಎಲ್ಲಿ ಭೇಟಿಯಾಗುವುದು?","nāvu elli bhēṭiyāguvudu?"],["Let us meet at the mall entrance","ನಾವು ಮಾಲ್ ಪ್ರವೇಶದ್ವಾರದಲ್ಲಿ ಭೇಟಿಯಾಗೋಣ","nāvu māl pravēśadvāradalli bhēṭiyāgōṇa"],["The movie was great","ಚಿತ್ರ ತುಂಬಾ ಚನ್ನಾಗಿತ್ತು","citra tumbā cannāgittu"],["I did not like the ending","ನನಗೆ ಕೊನೆ ಇಷ್ಟವಾಗಲಿಲ್ಲ","nanage kone iṣṭavāgalilla"],["Who is the hero?","ನಾಯಕ ಯಾರು?","nāyaka yāru?"],["Let us go for the evening show","ನಾವು ಸಂಜೆ ಶೋ ಗೆ ಹೋಗೋಣ","nāvu saṃje śō ge hōgōṇa"],["I have heard good reviews","ನನಗೆ ಒಳ್ಳೆಯ ರಿವ್ಯೂ ಕೇಳಿದೆ","nanage oḷḷeya rivyū kēḷide"],["Do not be late","ತಡವಾಗಬೇಡಿ","taḍavāgabēḍi"]]}]},
+  {"id":449,"title":"Simple Kannada conversation: Friends talking about football world cup","url":"#","content":"Discussing football World Cup.","intro":"ವಿಶ್ವಕಪ್, ತಂಡ, ಪಂದ್ಯ.","blocks":[{"type":"table","heading":"World Cup – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Are you watching the World Cup?","ನೀವು ವಿಶ್ವಕಪ್ ನೋಡುತ್ತೀರಾ?","nīvu viśvakap nōḍuttīrā?"],["Which team do you support?","ನೀವು ಯಾವ ತಂಡಕ್ಕೆ ಪಕ್ಷ?","nīvu yāva taṃḍakke pakṣa?"],["I support Brazil","ನಾನು ಬ್ರೆಜಿಲ್ ಗೆ ಪಕ್ಷ","nānu brejil ge pakṣa"],["Last night's match was amazing","ಕಳೆದ ರಾತ್ರಿಯ ಪಂದ್ಯ ಅದ್ಭುತವಾಗಿತ್ತು","kaḷeda rātriya paṃdya adbhutavāgittu"],["Who do you think will win?","ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ಯಾರು ಗೆಲ್ಲುತ್ತಾರೆ?","nimma abhiprāya yāru gelluttāre?"],["The final is next Sunday","ಫೈನಲ್ ಮುಂದಿನ ಭಾನುವಾರ","phainal mundina bhānuvāra"],["Let us watch it together","ನಾವು ಒಟ್ಟಿಗೆ ನೋಡೋಣ","nāvu oṭṭige nōḍōṇa"],["I cannot believe we lost","ನಾವು ಸೋತಿದ್ದು ನಂಬಲು ಆಗುವುದಿಲ್ಲ","nāvu sōtiddu naṃbalu āguvudilla"],["That was a great goal","ಅದು ಅದ್ಭುತ ಗೋಲ್ ಆಗಿತ್ತು","adu adbhuta gōl āgittu"],["The referee was unfair","ರೆಫರಿ ನ್ಯಾಯವಾಗಿ ನಡೆದುಕೊಳ್ಳಲಿಲ್ಲ","rephari nyāyavāgi naḍedukoḷḷalilla"],["We will win the next World Cup","ನಾವು ಮುಂದಿನ ವಿಶ್ವಕಪ್ ಗೆದ್ದೇವೆ","nāvu mundina viśvakap geddēve"],["Football is the best game","ಫುಟ್ ಬಾಲ್ ಅತ್ಯುತ್ತಮ ಆಟ","phuṭ bāl atyuttama āṭa"],["Did you see the penalty?","ನೀವು ಪೆನಾಲ್ಟಿ ನೋಡಿದಿರಾ?","nīvu peṇālṭi nōḍidirā?"],["I have been waiting for this match","ನಾನು ಈ ಪಂದ್ಯಕ್ಕೆ ಕಾಯುತ್ತಿದ್ದೇನೆ","nānu ī paṃdyakke kāyuttiddēne"],["The atmosphere was electric","ವಾತಾವರಣ ವಿದ್ಯುತ್ ಭರಿತವಾಗಿತ್ತು","vātāvaraṇa vidyut bharitavāgittu"]]}]},
+  {"id":450,"title":"Simple Kannada conversation – Tour guide with tourists","url":"#","content":"Tour guide showing places to tourists.","intro":"ಪ್ರವಾಸ, ಗೈಡ್, ದರ್ಶನೀಯ ಸ್ಥಳ.","blocks":[{"type":"table","heading":"Tour guide – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Welcome to Karnataka","ಕರ್ನಾಟಕಕ್ಕೆ ಸ್ವಾಗತ","Karnāṭakakke svāgata"],["This is a very old temple","ಇದು ಅತ್ಯಂತ ಹಳೆಯ ದೇವಾಲಯ","idu atyanta haḷeya dēvālaya"],["We will visit three places today","ಇಂದು ನಾವು ಮೂರು ಸ್ಥಳ ಭೇಟಿ ಮಾಡುತ್ತೇವೆ","indu nāvu mūru sthaḷa bhēṭi māḍuttēve"],["Please follow me","ದಯವಿಟ್ಟು ನನ್ನ ಹಿಂದೆ ಬನ್ನಿ","dayaviṭṭu nanna hinde banni"],["Take photos if you want","ನೀವು ಬಯಸಿದರೆ ಫೋಟೋ ತೆಗೆಯಿರಿ","nīvu bayasidare phōṭō tegeyiri"],["This fort is 500 years old","ಈ ಕೋಟೆ ೫೦೦ ವರ್ಷದ ಹಳೆಯದು","ī kōṭe 500 varṣada haḷeyadu"],["We have one hour here","ನಮಗೆ ಇಲ್ಲಿ ಒಂದು ಗಂಟೆ ಸಮಯ ಇದೆ","namage illi ondu gaṇṭe samaya ide"],["The next stop is the palace","ಮುಂದಿನ ನಿಲುಗಡೆ ಅರಮನೆ","mundina nilugaḍe aramane"],["Do you have any questions?","ನಿಮಗೆ ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳಿವೆಯೇ?","nimage yāvudē praśnegaḷiveyē?"],["Lunch will be at one o'clock","ಊಟ ಒಂದು ಗಂಟೆಗೆ","ūṭa ondu gaṇṭege"],["Please do not touch the carvings","ದಯವಿಟ್ಟು ಕೆತ್ತನೆ ಸ್ಪರ್ಶಿಸಬೇಡಿ","dayaviṭṭu ketane sparśisabēḍi"],["This is a UNESCO heritage site","ಇದು ಯುನೆಸ್ಕೋ ಪರಂಪರೆ ಸ್ಥಳ","idu yuneskō paraṃpare sthaḷa"],["We will be back by evening","ನಾವು ಸಂಜೆಗೆ ಹಿಂದಿರುಗುತ್ತೇವೆ","nāvu saṃjege hindiruguttēve"],["Thank you for visiting","ಭೇಟಿ ನೀಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದ","bhēṭi nīḍiddakke dhanyavāda"],["Hope you enjoyed the tour","ಪ್ರವಾಸ ನಿಮಗೆ ಇಷ್ಟವಾಗಿರಬೇಕು","pravāsa nimage iṣṭavāgirabēku"]]}]},
+  {"id":451,"title":"Simple Kannada Conversation – Language Proficiency Test for banks","url":"#","content":"Preparing for language test for bank jobs.","intro":"ಬ್ಯಾಂಕ್ ಭಾಷಾ ಪರೀಕ್ಷೆ, ಕನ್ನಡ.","blocks":[{"type":"table","heading":"Language test – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I am preparing for the bank exam","ನಾನು ಬ್ಯಾಂಕ್ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ಮಾಡುತ್ತಿದ್ದೇನೆ","nānu byāṃk parīkṣege tayāri māḍuttiddēne"],["The exam has a language section","ಪರೀಕ್ಷೆಗೆ ಭಾಷಾ ವಿಭಾಗ ಇದೆ","parīkṣege bhāṣā vibhāga ide"],["I need to improve my Kannada","ನನ್ನ ಕನ್ನಡ ಸುಧಾರಿಸಬೇಕು","nanna kannaḍa sudhārisabēku"],["How do I prepare for the Kannada paper?","ಕನ್ನಡ ಪೇಪರ್ ಗೆ ಹೇಗೆ ತಯಾರಿ ಮಾಡಬೇಕು?","kannaḍa pēpar ge hēge tayāri māḍabēku?"],["I practice reading every day","ನಾನು ಪ್ರತಿದಿನ ಓದುವುದನ್ನು ಅಭ್ಯಾಸ ಮಾಡುತ್ತೇನೆ","nānu pratidina ōduvudannu abhyāsa māḍuttēne"],["The test has translation","ಪರೀಕ್ಷೆಗೆ ಅನುವಾದ ಇದೆ","parīkṣege anuvāda ide"],["I find grammar difficult","ನನಗೆ ವ್ಯಾಕರಣ ಕಷ್ಟ","nanage vyākaraṇa kaṣṭa"],["Can you suggest a good book?","ನಿಮಗೆ ಒಳ್ಳೆಯ ಪುಸ್ತಕ ಸೂಚಿಸುವಿರಾ?","nimage oḷḷeya pustaka sūcisuvirā?"],["I have cleared the written exam","ನಾನು ಲಿಖಿತ ಪರೀಕ್ಷೆ ಪಾಸ್ ಆಗಿದ್ದೇನೆ","nānu likhita parīkṣe pās āgiddēne"],["When is the interview?","ಇಂಟರ್ವ್ಯೂ ಯಾವಾಗ?","iṇṭarvyū yāvāga?"],["I am nervous about the speaking test","ನನಗೆ ಮಾತು ಪರೀಕ್ಷೆ ಬಗ್ಗೆ ಭಯ","nanage mātu parīkṣe bagge bhaya"],["Practice will help","ಅಭ್ಯಾಸ ಸಹಾಯ ಮಾಡುವುದು","abhyāsa sahāya māḍuvudu"],["I want to score well in Kannada","ನಾನು ಕನ್ನಡದಲ್ಲಿ ಚನ್ನಾಗಿ ಸ್ಕೋರ್ ಮಾಡಬೇಕು","nānu kannaḍadalli cannāgi skōr māḍabēku"],["Thank you for the tips","ಸಲಹೆಗಳಿಗೆ ಧನ್ಯವಾದ","salahegaḷige dhanyavāda"],["I will try my best","ನಾನು ನನ್ನ ಅತ್ಯುತ್ತಮ ಪ್ರಯತ್ನ ಮಾಡುತ್ತೇನೆ","nānu nanna atyuttama prayatna māḍuttēne"]]}]},
+  {"id":452,"title":"Simple Kannada conversation about food, lunch, meal","url":"#","content":"Talking about food – taste, cooking, diet.","intro":"ಊಟ, ರುಚಿ, ಅಡುಗೆ.","blocks":[{"type":"table","heading":"Food and meal – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["What did you have for lunch?","ನೀವು ಊಟಕ್ಕೆ ಏನು ತಿಂದಿರಿ?","nīvu ūṭakke ēnu tindiri?"],["The food was delicious","ಊಟ ತುಂಬಾ ರುಚಿಕರವಾಗಿತ್ತು","ūṭa tumbā rucikaravāgittu"],["I am vegetarian","ನಾನು ಶಾಕಾಹಾರಿ","nānu śākāhāri"],["Do you eat non-veg?","ನೀವು ಮಾಂಸಾಹಾರ ತಿನ್ನುವಿರಾ?","nīvu māṃsāhāra tinnuvirā?"],["I am hungry","ನನಗೆ ಭೂಕ ಲಾಗಿದೆ","nanage bhūka lāgide"],["Let us have dinner together","ನಾವು ಒಟ್ಟಿಗೆ ರಾತ್ರಿ ಊಟ ಮಾಡೋಣ","nāvu oṭṭige rātri ūṭa māḍōṇa"],["What is your favourite dish?","ನಿಮ್ಮ ಅಚ್ಚುಮೆಚ್ಚಿನ ಭಕ್ಷ್ಯ ಏನು?","nimma accumeccina bhakṣya ēnu?"],["I love dosa and sambar","ನನಗೆ ದೋಸೆ ಮತ್ತು ಸಾಂಬಾರ್ ಇಷ್ಟ","nanage dōse mattu sāṃbār iṣṭa"],["The curry is too spicy","ಪಲ್ಯ ತುಂಬಾ ಮಸಾಲೆ","palya tumbā masāle"],["Can I have some water?","ನನಗೆ ನೀರು ಬೇಕು","nanage nīru bēku"],["I am on a diet","ನಾನು ಡೈಟ್ ಮಾಡುತ್ತಿದ್ದೇನೆ","nānu ḍaiṭ māḍuttiddēne"],["This is homemade","ಇದು ಮನೆಯಲ್ಲಿ ಮಾಡಿದ್ದು","idu maneyalli māḍiddu"],["I cannot eat oily food","ನಾನು ಎಣ್ಣೆ ಊಟ ತಿನ್ನಲಾರೆ","nānu eṇṇe ūṭa tinnalāre"],["The breakfast was good","ಉಪಾಹಾರ ಚನ್ನಾಗಿತ್ತು","upāhāra cannāgittu"],["Thank you for the meal","ಊಟಕ್ಕೆ ಧನ್ಯವಾದ","ūṭakke dhanyavāda"]]}]},
+  {"id":453,"title":"Simple Kannada Conversation – About hobby class","url":"#","content":"Talking about hobbies and classes.","intro":"ಹವ್ಯಾಸ, ಕ್ಲಾಸ್, ಕಲಿಕೆ.","blocks":[{"type":"table","heading":"Hobby class – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I have joined a music class","ನಾನು ಸಂಗೀತ ಕ್ಲಾಸ್ ಜಾಯಿನ್ ಆಗಿದ್ದೇನೆ","nānu saṃgīta klās jāyin āgiddēne"],["What is your hobby?","ನಿಮ್ಮ ಹವ್ಯಾಸ ಏನು?","nimma havyāsa ēnu?"],["I like painting","ನನಗೆ ಚಿತ್ರಕಲೆ ಇಷ್ಟ","nanage citrakale iṣṭa"],["When are the classes?","ಕ್ಲಾಸ್ ಗಳು ಯಾವಾಗ?","klās gaḷu yāvāga?"],["I go twice a week","ನಾನು ವಾರಕ್ಕೆ ಎರಡು ಸಾರಿ ಹೋಗುತ್ತೇನೆ","nānu vārakke eraḍu sāri hōguttēne"],["The teacher is very good","ಅಧ್ಯಾಪಕರು ತುಂಬಾ ಒಳ್ಳೆಯವರು","adhyāpakaru tumbā oḷḷeyavaru"],["I want to learn guitar","ನಾನು ಗಿಟಾರ್ ಕಲಿಯಬೇಕು","nānu giṭār kaliyabēku"],["How much is the fee?","ಫೀ ಎಷ್ಟು?","phī eṣṭu?"],["I have been learning for six months","ನಾನು ಆರು ತಿಂಗಳಿಂದ ಕಲಿಯುತ್ತಿದ್ದೇನೆ","nānu āru tiṃgaḷinda kaliyuttiddēne"],["It is very relaxing","ಇದು ತುಂಬಾ ವಿಶ್ರಾಂತಿ ನೀಡುತ್ತದೆ","idu tumbā viśrāṃti nīḍuttade"],["Do you have weekend batches?","ನಿಮ್ಮಲ್ಲಿ ವೀಕೆಂಡ್ ಬ್ಯಾಚ್ ಇದೆಯೇ?","nimballi vīkeṇḍ byāc ideyē?"],["I want to try dance class","ನಾನು ನೃತ್ಯ ಕ್ಲಾಸ್ ಪ್ರಯತ್ನಿಸಬೇಕು","nānu nṛtya klās prayatnisabēku"],["My daughter loves this class","ನನ್ನ ಮಗಳಿಗೆ ಈ ಕ್ಲಾಸ್ ತುಂಬಾ ಇಷ್ಟ","nanna magaḷige ī klās tumbā iṣṭa"],["Can I get a trial class?","ನನಗೆ ಟ್ರೈಯಲ್ ಕ್ಲಾಸ್ ಸಿಗುವುದೇ?","nanage ṭraiyal klās siguvudē?"],["Thank you for the information","ಮಾಹಿತಿಗೆ ಧನ್ಯವಾದ","māhitige dhanyavāda"]]}]},
+  {"id":454,"title":"Frequently used sentences in Kannada – miscellaneous","url":"#","content":"Very common daily sentences in Kannada.","intro":"ದೈನಂದಿನ ಉಪಯೋಗದ ವಾಕ್ಯಗಳು.","blocks":[{"type":"table","heading":"Frequently used – part 1","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I don't know","ನನಗೆ ಗೊತ್ತಿಲ್ಲ","nanage gottilla"],["No problem","ಸಮಸ್ಯೆ ಇಲ್ಲ","samasye illa"],["It is okay","ಒಳ್ಳೆಯದು","oḷḷeyadu"],["Wait a minute","ಒಂದು ನಿಮಿಷ ಕಾಯಿ","ondu nimiṣa kāyi"],["Come here","ಇಲ್ಲಿ ಬನ್ನಿ","illi banni"],["Go there","ಅಲ್ಲಿ ಹೋಗಿ","alli hōgi"],["Hurry up","ಬೇಗ ಮಾಡಿ","bēga māḍi"],["Slow down","ನಿಧಾನವಾಗಿ","nidhānavāgi"],["Be careful","ಜಾಗ್ರತೆ ಇರಿ","jāgrate iri"],["Don't worry","ಚಿಂತಿಸಬೇಡಿ","ciṃtisabēḍi"],["I am sorry","ಕ್ಷಮಿಸಿ","kṣamisi"],["Excuse me","ಕ್ಷಮಿಸಿ","kṣamisi"],["You are welcome","ಸ್ವಾಗತ","svāgata"],["See you","ಭೇಟಿಯಾಗಲಿ","bhēṭiyāgali"],["Take care","ಜಾಗ್ರತೆ ಇರಿ","jāgrate iri"]]}]},
+  {"id":455,"title":"Frequently used sentences in Kannada – miscellaneous part 2","url":"#","content":"More daily use sentences.","intro":"ಹೆಚ್ಚು ವಾಕ್ಯಗಳು.","blocks":[{"type":"table","heading":"Frequently used – part 2","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I agree","ನಾನು ಒಪ್ಪುತ್ತೇನೆ","nānu opputtēne"],["I disagree","ನಾನು ಒಪ್ಪುವುದಿಲ್ಲ","nānu oppuvudilla"],["Maybe","ಇರಬಹುದು","irabahudu"],["Of course","ಖಂಡಿತ","khaṃdita"],["That's right","ಅದು ಸರಿ","adu sari"],["That's wrong","ಅದು ತಪ್ಪು","adu tappu"],["I think so","ನಾನು ಹಾಗೆ ಯೋಚಿಸುತ್ತೇನೆ","nānu hāge yōcisuttēne"],["I hope so","ನಾನು ಹಾಗೆ ಭಾವಿಸುತ್ತೇನೆ","nānu hāge bhāvisuttēne"],["It depends","ಅದು ಅವಲಂಬಿಸಿದೆ","adu avalaṃbiside"],["Never mind","ಪರವಾಗಿಲ್ಲ","paravāgilla"],["Same to you","ನಿಮಗೂ ಅಷ್ಟೇ","nimagū aṣṭē"],["Good luck","ಒಳ್ಳೆಯದಾಗಲಿ","oḷḷeyadāgali"],["Congratulations","ಅಭಿನಂದನೆ","abhinandane"],["Well done","ಚನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ","cannāgi māḍiddīri"],["I am tired","ನನಗೆ ಸುಸ್ತಾಗಿದೆ","nanage sustāgide"]]}]},
+  {"id":456,"title":"Learn Kannada by Communicative Approach","url":"#","content":"Learning through conversation – key phrases.","intro":"ಸಂಭಾಷಣೆ ಮೂಲಕ ಕಲಿಕೆ.","blocks":[{"type":"table","heading":"Communicative phrases","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["How do you say this in Kannada?","ಇದನ್ನು ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಹೇಳುವುದು?","idannu kannaḍadalli hēge hēḷuvudu?"],["What does this word mean?","ಈ ಪದದ ಅರ್ಥ ಏನು?","ī padada artha ēnu?"],["Please repeat","ದಯವಿಟ್ಟು ಮತ್ತೆ ಹೇಳಿ","dayaviṭṭu matte hēḷi"],["Speak slowly","ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ","nidhānavāgi mātanāḍi"],["I am still learning","ನಾನು ಇನ್ನೂ ಕಲಿಯುತ್ತಿದ್ದೇನೆ","nānu innū kaliyuttiddēne"],["Can you write it down?","ನೀವು ಬರೆದು ಕೊಡುವಿರಾ?","nīvu baredu koḍuvirā?"],["I don't understand","ನನಗೆ ಅರ್ಥವಾಗುವುದಿಲ್ಲ","nanage arthavāguvudilla"],["Say it again","ಮತ್ತೆ ಹೇಳಿ","matte hēḷi"],["Is this correct?","ಇದು ಸರಿಯೇ?","idu sariyē?"],["How do I pronounce this?","ಇದನ್ನು ಹೇಗೆ ಉಚ್ಚರಿಸುವುದು?","idannu hēge uccarisuvudu?"],["Practice with me","ನನ್ನ ಜೊತೆ ಅಭ್ಯಾಸ ಮಾಡಿ","nanna jote abhyāsa māḍi"],["I want to speak fluently","ನಾನು ಸರಾಗವಾಗಿ ಮಾತನಾಡಲು ಬಯಸುತ್ತೇನೆ","nānu sarāgavāgi mātanāḍalu bayasuttēne"],["Thank you for teaching me","ನನಗೆ ಕಲಿಸಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದ","nanage kalisiddakke dhanyavāda"],["Let us converse in Kannada","ನಾವು ಕನ್ನಡದಲ್ಲಿ ಸಂಭಾಷಿಸೋಣ","nāvu kannaḍadalli saṃbhāṣisōṇa"],["I will try to speak only in Kannada","ನಾನು ಕೇವಲ ಕನ್ನಡದಲ್ಲಿ ಮಾತನಾಡಲು ಪ್ರಯತ್ನಿಸುತ್ತೇನೆ","nānu kēvala kannaḍadalli mātanāḍalu prayatnisuttēne"]]}]},
+  {"id":457,"title":"Simple Kannada sentences practice – 1","url":"#","content":"Mixed practice sentences for daily use.","intro":"ಅಭ್ಯಾಸ ವಾಕ್ಯಗಳು.","blocks":[{"type":"table","heading":"Practice sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I wake up at six every day","ನಾನು ಪ್ರತಿದಿನ ಆರು ಗಂಟೆಗೆ ಎದ್ದೇನೆ","nānu pratidina āru gaṇṭege eddēne"],["She goes to office by bus","ಅವಳು ಬಸ್ ನಿಂದ ಕಛೇರಿಗೆ ಹೋಗುತ್ತಾಳೆ","avaḷu bas ninda kacherige hōguttāḷe"],["We eat lunch at one","ನಾವು ಒಂದು ಗಂಟೆಗೆ ಊಟ ಮಾಡುತ್ತೇವೆ","nāvu ondu gaṇṭege ūṭa māḍuttēve"],["He reads the newspaper every morning","ಅವನು ಪ್ರತಿ ಬೆಳಿಗ್ಗೆ ವೃತ್ತಪತ್ರಿಕೆ ಓದುತ್ತಾನೆ","avanu prati beḷigge vṛttapatrike ōduttāne"],["The children play in the park","ಮಕ್ಕಳು ಪಾರ್ಕ್ ನಲ್ಲಿ ಆಡುತ್ತಾರೆ","makkaḷu pārk nalli āḍuttāre"],["I will call you tomorrow","ನಾನು ನಾಳೆ ನಿಮಗೆ ಫೋನ್ ಮಾಡುತ್ತೇನೆ","nānu nāḷe nimage phōn māḍuttēne"],["Please give me a glass of water","ದಯವಿಟ್ಟು ನನಗೆ ಒಂದು ಗ್ಲಾಸ್ ನೀರು ಕೊಡಿ","dayaviṭṭu nanage ondu glās nīru koḍi"],["My father works in a factory","ನನ್ನ ತಂದೆ ಫ್ಯಾಕ್ಟರಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಾರೆ","nanna tande phyākṭariyalli kelasa māḍuttāre"],["We went to the beach last week","ನಾವು ಕಳೆದ ವಾರ ಕಡಲ ತೀರಕ್ಕೆ ಹೋದೆವು","nāvu kaḷeda vāra kaḍala tīrakke hōdevu"],["She is learning to drive","ಅವಳು ಡ್ರೈವ್ ಕಲಿಯುತ್ತಿದ್ದಾಳೆ","avaḷu ḍraiv kaliyuttiddāḷe"],["The movie was very long","ಚಿತ್ರ ತುಂಬಾ ಉದ್ದವಾಗಿತ್ತು","citra tumbā uddavāgittu"],["I have two brothers and one sister","ನನಗೆ ಇಬ್ಬರು ಸಹೋದರರು ಮತ್ತು ಒಬ್ಬ ತಂಗಿ ಇದ್ದಾಳೆ","nanage ibbaru sahōdararu mattu obba taṅgi iddāḷe"],["He speaks three languages","ಅವನು ಮೂರು ಭಾಷೆ ಮಾತನಾಡುತ್ತಾನೆ","avanu mūru bhāṣe mātanāḍuttāne"],["We need to leave now","ನಾವು ಈಗ ಹೊರಡಬೇಕು","nāvu īga horaḍabēku"],["She is wearing a blue saree","ಅವಳು ನೀಲಿ ಸೀರೆ ಧರಿಸಿದ್ದಾಳೆ","avaḷu nīli sīre dharisiddāḷe"]]}]},
+  {"id":458,"title":"Kannada practice session – prepositions","url":"#","content":"Sentences using prepositions/postpositions.","intro":"ವಿಭಕ್ತಿ, ಪೂರ್ವನಾಮ – ವಾಕ್ಯಗಳು.","blocks":[{"type":"table","heading":"Prepositions practice","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["The book is on the table","ಪುಸ್ತಕ ಮೇಜಿನ ಮೇಲೆ ಇದೆ","pustaka mējina mēle ide"],["The cat is under the bed","ಬೆಕ್ಕು ಹಾಸಿಗೆಯ ಕೆಳಗೆ ಇದೆ","bekku hāsigeya keḷage ide"],["I live in Bangalore","ನಾನು ಬೆಂಗಳೂರಲ್ಲಿ ವಾಸವಾಗಿದ್ದೇನೆ","nānu beṅgaḷūralli vāsavāgiddēne"],["She came from Mysore","ಅವಳು ಮೈಸೂರಿಂದ ಬಂದಳು","avaḷu maisūrinda bandaḷu"],["We went to the market","ನಾವು ಮಾರುಕಟ್ಟೆಗೆ ಹೋದೆವು","nāvu mārukaṭṭege hōdevu"],["He is sitting beside me","ಅವನು ನನ್ನ ಪಕ್ಕದಲ್ಲಿ ಕುಳ್ಳಿರಿದ್ದಾನೆ","avanu nanna pakkadalli kuḷḷiriddāne"],["The shop is behind the temple","ಅಂಗಡಿ ದೇವಾಲಯದ ಹಿಂದೆ ಇದೆ","aṃgaḍi dēvālayada hinde ide"],["Stand in front of the building","ಕಟ್ಟಡದ ಮುಂದೆ ನಿಲ್ಲಿ","kaṭṭaḍada munde nilli"],["I will meet you at the station","ನಾನು ನಿಲ್ದಾಣದಲ್ಲಿ ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗುತ್ತೇನೆ","nānu nildāṇadalli nimmannu bhēṭiyāguttēne"],["She is good at singing","ಅವಳು ಹಾಡುವುದರಲ್ಲಿ ಚನ್ನಾಗಿದ್ದಾಳೆ","avaḷu hāḍuvudaralli cannāgiddāḷe"],["We talked about the project","ನಾವು ಪ್ರಾಜೆಕ್ಟ್ ಬಗ್ಗೆ ಮಾತಾಡಿದೆವು","nāvu prājekṭ bagge mātāḍidevu"],["The keys are in the bag","ಕೀಗಳು ಚೀಲದಲ್ಲಿ ಇವೆ","kīgaḷu cīladalli ive"],["He walked through the park","ಅವನು ಪಾರ್ಕ್ ಮೂಲಕ ನಡೆದ","avanu pārk mūlaka naḍeda"],["She ran towards the bus","ಅವಳು ಬಸ್ ಕಡೆಗೆ ಓಡಿದಳು","avaḷu bas kaḍege ōḍidaḷu"],["I have been waiting since morning","ನಾನು ಬೆಳಿಗ್ಗೆಯಿಂದಲೇ ಕಾಯುತ್ತಿದ್ದೇನೆ","nānu beḷiggeyindalē kāyuttiddēne"]]}]},
+  {"id":459,"title":"Kannada practice session – prepositions part 2","url":"#","content":"More sentences with postpositions.","intro":"ಹೆಚ್ಚು ವಿಭಕ್ತಿ ವಾಕ್ಯಗಳು.","blocks":[{"type":"table","heading":"Prepositions practice 2","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Put the box inside the room","ಪೆಟ್ಟಿಗೆಯನ್ನು ಕೋಣೆಯ ಒಳಗೆ ಇಡಿ","peṭṭigeyannu kōṇeya oḷage iḍi"],["The bird flew over the house","ಹಕ್ಕಿ ಮನೆಯ ಮೇಲೆ ಹಾರಿತು","hakki maneya mēle hāritu"],["He is among the crowd","ಅವನು ಜನಸಮೂಹದಲ್ಲಿ ಇದ್ದಾನೆ","avanu janasamūhadalli iddāne"],["Walk along the road","ರಸ್ತೆಯುದ್ದಕ್ಕೂ ನಡೆಯಿರಿ","rasteyuddakkū naḍeyiri"],["The village is near the river","ಗ್ರಾಮ ನದಿಯ ಹತ್ತಿರ ಇದೆ","grāma nadiya hattira ide"],["I will finish by evening","ನಾನು ಸಂಜೆಗೆ ಮುಗಿಸುತ್ತೇನೆ","nānu saṃjege mugisuttēne"],["She wrote a letter to her mother","ಅವಳು ತಾಯಿಗೆ ಲೇಖನ ಬರೆದಳು","avaḷu tāyige lēkhana baredaḷu"],["We stayed at a hotel","ನಾವು ಹೋಟೆಲ್ ನಲ್ಲಿ ಇದ್ದೆವು","nāvu hōṭel nalli iddevu"],["The picture is on the wall","ಚಿತ್ರ ಗೋಡೆಯ ಮೇಲೆ ಇದೆ","citra gōḍeya mēle ide"],["He jumped into the water","ಅವನು ನೀರಿಗೆ ಜಿಗಿದ","avanu nīrige jigida"],["She came out of the room","ಅವಳು ಕೋಣೆಯಿಂದ ಹೊರಬಂದಳು","avaḷu kōṇeyinda horabaṃdaḷu"],["The train goes through the tunnel","ರೈಲು ಸುರಂಗ ಮೂಲಕ ಹೋಗುತ್ತದೆ","railu suraṃga mūlaka hōguttade"],["I am going to the office","ನಾನು ಕಛೇರಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ","nānu kacherige hōguttiddēne"],["They live across the street","ಅವರು ರಸ್ತೆಯ ಅಡ್ಡಲಾಗಿ ವಾಸವಾಗಿದ್ದಾರೆ","avaru rasteya aḍḍalāgi vāsavāgiddāre"],["Wait until I come back","ನಾನು ಹಿಂದಿರುಗುವವರೆಗೂ ಕಾಯಿ","nānu hindiruguvavaregū kāyi"]]}]},
+  {"id":460,"title":"Kannada practice session – prepositions part 3","url":"#","content":"More preposition usage in context.","intro":"ವಿಭಕ್ತಿ – ಮತ್ತಷ್ಟು ವಾಕ್ಯಗಳು.","blocks":[{"type":"table","heading":"Prepositions practice 3","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Without you I cannot do it","ನಿಮ್ಮಿಲ್ಲದೆ ನಾನು ಮಾಡಲಾರೆ","nimmillade nānu māḍalāre"],["According to the news","ಸುದ್ದಿಯ ಪ್ರಕಾರ","suddiya prakāra"],["Despite the rain we went out","ಮಳೆ ಇದ್ದರೂ ನಾವು ಹೊರಗೆ ಹೋದೆವು","maḷe iddarū nāvu horage hōdevu"],["Because of you I am happy","ನಿಮ್ಮ ಕಾರಣ ನಾನು ಸಂತೋಷವಾಗಿದ್ದೇನೆ","nimma kāraṇa nānu santōṣavāgiddēne"],["Instead of coffee I had tea","ನಾನು ಕಾಫಿ ಬದಲು ಚಹಾ ಕುಡಿದೆ","nānu kāphi badalu cahā kuḍide"],["I will do it for you","ನಾನು ನಿಮ್ಮಿಗಾಗಿ ಮಾಡುತ್ತೇನೆ","nānu nimmigāgi māḍuttēne"],["The meeting is at three","ಸಭೆ ಮೂರು ಗಂಟೆಗೆ","sabhe mūru gaṇṭege"],["She walked past the shop","ಅವಳು ಅಂಗಡಿಯನ್ನು ದಾಟಿ ನಡೆದಳು","avaḷu aṃgaḍiyannu dāṭi naḍedaḷu"],["We stayed for a week","ನಾವು ಒಂದು ವಾರ ಇದ್ದೆವು","nāvu ondu vāra iddevu"],["He is like his father","ಅವನು ತಂದೆಯ ಹಾಗೆ ಇದ್ದಾನೆ","avanu tandeya hāge iddāne"],["I work from nine to five","ನಾನು ಒಂಬತ್ತುಿಂದ ಐದು ವರೆಗೆ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ","nānu ombattinda aidu varege kelasa māḍuttēne"],["She sat next to me","ಅವಳು ನನ್ನ ಪಕ್ಕದಲ್ಲಿ ಕುಳ್ಳಿರಿದಳು","avaḷu nanna pakkadalli kuḷḷiridaḷu"],["The answer is in the book","ಉತ್ತರ ಪುಸ್ತಕದಲ್ಲಿ ಇದೆ","uttara pustakadalli ide"],["We argued about the price","ನಾವು ಬೆಲೆ ಬಗ್ಗೆ ವಾದಿಸಿದೆವು","nāvu bele bagge vādisidevu"],["He left without saying goodbye","ಅವನು ವಿದಾಯ ಹೇಳದೆ ಹೊರಟ","avanu vidāya hēḷade horaṭa"]]}]},
+  {"id":461,"title":"Kannada jokes – Learn Kannada in a fun way","url":"#","content":"Simple jokes and humour in Kannada.","intro":"ನಗೆ, ಹಾಸ್ಯ – ಕನ್ನಡದಲ್ಲಿ.","blocks":[{"type":"table","heading":"Jokes and fun phrases","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Why did the book go to the doctor? It had too many pages!","ಪುಸ್ತಕ ಏಕೆ ಡಾಕ್ಟರ್ ಗೆ ಹೋಯಿತು? ಅದಕ್ಕೆ ತುಂಬಾ ಪುಟಗಳು ಇದ್ದವು!","pustaka ēke ḍākṭar ge hōyitu? adakke tumbā puṭagaḷu iddavu!"],["I am not lazy, I am on energy saving mode","ನಾನು ಸೋಮಾರಿ ಅಲ್ಲ, ನಾನು ಶಕ್ತಿ ಉಳಿತಾಯ ಮೋಡ್ ನಲ್ಲಿ ಇದ್ದೇನೆ","nānu sōmāri alla, nānu śakti uḷitāya mōḍ nalli iddēne"],["Teacher: What is the full form of OK? Student: Only Kannada!","ಅಧ್ಯಾಪಕ: ಓಕೆ ಯ ಪೂರ್ಣ ರೂಪ ಏನು? ವಿದ್ಯಾರ್ಥಿ: ಓನ್ಲಿ ಕನ್ನಡ!","adhyāpaka: ōke ya pūrṇa rūpa ēnu? vidyārthi: ōnli kannaḍa!"],["Why do we never tell secrets in the garden? Because the potatoes have eyes!","ನಾವು ಏಕೆ ತೋಟದಲ್ಲಿ ರಹಸ್ಯ ಹೇಳುವುದಿಲ್ಲ? ಏಕೆಂದರೆ ಆಲೂಗಡ್ಡೆಗೆ ಕಣ್ಣು ಇದೆ!","nāvu ēke tōṭadalli rahasya hēḷuvudilla? ēkendare ālūgaḍḍege kaṇṇu ide!"],["I told my computer I need a break. Now it won't stop sending me Kit Kat ads","ನಾನು ನನ್ನ ಕಂಪ್ಯೂಟರ್ ಗೆ ವಿರಾಮ ಬೇಕು ಎಂದೆ. ಈಗ ಅದು ಕಿಟ್ ಕ್ಯಾಟ್ ಜಾಹೀರಾತು ಕಳುಹಿಸುವುದನ್ನು ನಿಲ್ಲಿಸುವುದಿಲ್ಲ","nānu nanna kaṃpyūṭar ge virāma bēku ende. īga adu kiṭ kyāṭ jāhīrātu kaḷuhisuvudannu nillisuvudilla"],["What do you call a bear with no teeth? A gummy bear!","ಹಲ್ಲಿಲ್ಲದ ಕರಡಿಗೆ ಏನು ಹೇಳುವಿರಿ? ಗಮಿ ಬೇರ್!","hallillada karaḍige ēnu hēḷuviri? gami bēr!"],["I am not short, I am concentrated awesome","ನಾನು ಕುಳ್ಳು ಅಲ್ಲ, ನಾನು ಸಾಂದ್ರೀಕೃತ ಅದ್ಭುತ","nānu kuḷḷu alla, nānu sāṃdrīkṛta adbhuta"],["Why did the scarecrow win an award? He was outstanding in his field!","ಬೆಚ್ಚಿಸುವವ ಏಕೆ ಪ್ರಶಸ್ತಿ ಗೆದ್ದ? ಅವನು ತನ್ನ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅತ್ಯುತ್ತಮನಾಗಿದ್ದ!","beccisuvava ēke praśasti gedda? avanu nanna kṣētradalli atyuttamanāgidda!"],["I am reading a book about anti-gravity. It is impossible to put down!","ನಾನು ಗುರುತ್ವ ವಿರೋಧಿ ಪುಸ್ತಕ ಓದುತ್ತಿದ್ದೇನೆ. ಅದನ್ನು ಕೆಳಗೆ ಇಡುವುದು ಅಸಾಧ್ಯ!","nānu gurutva virōdhi pustaka ōduttiddēne. adannu keḷage iḍuvudu asādhya!"],["Laughter is the best medicine","ನಗುವು ಅತ್ಯುತ್ತಮ ಔಷಧ","naguvu atyuttama auṣadha"],["Keep smiling","ನಗುತ್ತಾ ಇರಿ","naguttā iri"],["Life is short, smile while you still have teeth","ಜೀವನ ಕಿರಿದು, ಇನ್ನೂ ಹಲ್ಲು ಇರುವಾಗಲೇ ನಗಿ","jīvana kiridu, innū hallu iruvāgalē nagi"],["A day without laughter is a day wasted","ನಗು ಇಲ್ಲದ ದಿನ ವ್ಯರ್ಥ ದಿನ","nagu illada dina vyartha dina"],["Humour is the spice of life","ಹಾಸ್ಯ ಜೀವನದ ಸುವಾಸನೆ","hāsya jīvanada suvāsane"],["Learn Kannada with a smile","ನಗುತ್ತಾ ಕನ್ನಡ ಕಲಿಯಿರಿ","naguttā kannaḍa kaliyiri"]]}]},
+  {"id":462,"title":"Daily Kannada reading practice – jokes, thoughts, quotes","url":"#","content":"Short quotes and thoughts in Kannada for reading practice.","intro":"ಉಲ್ಲೇಖ, ಚಿಂತನೆ – ಓದುವ ಅಭ್ಯಾಸ.","blocks":[{"type":"table","heading":"Quotes and thoughts","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Knowledge is power","ಜ್ಞಾನವೇ ಶಕ್ತಿ","jñānavē śakti"],["Time is money","ಸಮಯವೇ ಧನ","samayavē dhana"],["Practice makes perfect","ಅಭ್ಯಾಸದಿಂದ ಪರಿಪೂರ್ಣ","abhyāsadinda paripūrṇa"],["Where there is a will there is a way","ಇಚ್ಛೆ ಇದ್ದರೆ ಮಾರ್ಗ ಸಿಗುವುದು","icche iddare mārga siguvudu"],["Never give up","ಎಂದಿಗೂ ಬಿಡಬೇಡಿ","endigū biḍabēḍi"],["Success comes to those who try","ಪ್ರಯತ್ನಿಸುವವರಿಗೆ ಯಶಸ್ಸು ಸಿಗುವುದು","prayatnisuvavarige yaśassu siguvudu"],["Learn something new every day","ಪ್ರತಿದಿನ ಹೊಸದನ್ನು ಕಲಿಯಿರಿ","pratidina hosadannu kaliyiri"],["Respect everyone","ಎಲ್ಲರನ್ನೂ ಗೌರವಿಸಿ","ellarannū gauravisi"],["Honesty is the best policy","ಪ್ರಾಮಾಣಿಕತೆ ಅತ್ಯುತ್ತಮ ನೀತಿ","prāmāṇikate atyuttama nīti"],["Health is wealth","ಆರೋಗ್ಯವೇ ಸಂಪತ್ತು","ārōgyavē saṃpattu"],["Think before you speak","ಮಾತನಾಡುವ ಮೊದಲು ಯೋಚಿಸಿ","mātanāḍuva modalu yōcisi"],["Actions speak louder than words","ಕ್ರಿಯೆ ಮಾತಿಗಿಂತ ಜೋರಾಗಿ ಮಾತನಾಡುತ್ತದೆ","kriye mātigiṃta jōrāgi mātanāḍuttade"],["Unity is strength","ಏಕತೆ ಶಕ್ತಿ","ēkate śakti"],["The early bird catches the worm","ಬೆಳಿಗ್ಗೆ ಎದ್ದವನಿಗೆ ಲಾಭ","beḷigge eddavanige lābha"],["Reading is to the mind what exercise is to the body","ಓದುವುದು ಮನಸ್ಸಿಗೆ ವ್ಯಾಯಾಮ ಏನೋ ಅದು ಶರೀರಕ್ಕೆ","ōduvudu manassige vyāyāma ēnō adu śarīrakke"]]}]},
+  {"id":463,"title":"Simple Kannada sentences – My experience with Social Media","url":"#","content":"Talking about social media in Kannada.","intro":"ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ, ಫೇಸ್ ಬುಕ್, ವಾಟ್ಸಾಪ್.","blocks":[{"type":"table","heading":"Social media – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["I use Facebook daily","ನಾನು ಪ್ರತಿದಿನ ಫೇಸ್ ಬುಕ್ ಉಪಯೋಗಿಸುತ್ತೇನೆ","nānu pratidina phēs buk upayōgisuttēne"],["She posted a photo yesterday","ಅವಳು ನಿನ್ನೆ ಫೋಟೋ ಪೋಸ್ಟ್ ಮಾಡಿದಳು","avaḷu ninne phōṭō pōsṭ māḍidaḷu"],["Do you have WhatsApp?","ನಿಮಗೆ ವಾಟ್ಸಾಪ್ ಇದೆಯೇ?","nimage vāṭsāp ideyē?"],["I will send you on WhatsApp","ನಾನು ನಿಮಗೆ ವಾಟ್ಸಾಪ್ ನಲ್ಲಿ ಕಳುಹಿಸುತ್ತೇನೆ","nānu nimage vāṭsāp nalli kaḷuhisuttēne"],["I have many followers on Instagram","ನನಗೆ ಇನ್ಸ್ಟಾಗ್ರಾಮ್ ನಲ್ಲಿ ಬಹು ಫಾಲೋವರ್ ಗಳು ಇದ್ದಾರೆ","nanage insṭāgrām nalli bahu phālōvar gaḷu iddāre"],["She shared the video","ಅವಳು ವೀಡಿಯೋ ಶೇರ್ ಮಾಡಿದಳು","avaḷu vīḍiyō śēr māḍidaḷu"],["I deleted my account","ನಾನು ನನ್ನ ಅಕೌಂಟ್ ಡಿಲೀಟ್ ಮಾಡಿದೆ","nānu nanna akaunṭ ḍilīṭ māḍide"],["Social media is addictive","ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಅಡಿಕ್ಟಿವ್","sāmājika mādhayama aḍikṭiv"],["I spend two hours on phone","ನಾನು ಫೋನ್ ನಲ್ಲಿ ಎರಡು ಗಂಟೆ ಕಳೆಯುತ್ತೇನೆ","nānu phōn nalli eraḍu gaṇṭe kaḷeyuttēne"],["She commented on my post","ಅವಳು ನನ್ನ ಪೋಸ್ಟ್ ನಲ್ಲಿ ಕಾಮೆಂಟ್ ಮಾಡಿದಳು","avaḷu nanna pōsṭ nalli kāmeṇṭ māḍidaḷu"],["I like your profile picture","ನನಗೆ ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಫೋಟೋ ಇಷ್ಟ","nanage nimma prophail phōṭō iṣṭa"],["Do not believe everything on the internet","ಇಂಟರ್ನೆಟ್ ನಲ್ಲಿ ಎಲ್ಲವನ್ನೂ ನಂಬಬೇಡಿ","iṇṭarneṭ nalli ellavannū naṃbabēḍi"],["I learned Kannada through YouTube","ನಾನು ಯೂಟ್ಯೂಬ್ ಮೂಲಕ ಕನ್ನಡ ಕಲಿತೆ","nānu yūṭyūb mūlaka kannaḍa kalite"],["She went viral","ಅವಳು ವೈರಲ್ ಆಗಿದ್ದಾಳೆ","avaḷu vairal āgiddāḷe"],["Turn off notifications","ನೋಟಿಫಿಕೇಶನ್ ಆಫ್ ಮಾಡಿ","nōṭiphikēśan aph māḍi"],["I have blocked him","ನಾನು ಅವನನ್ನು ಬ್ಲಾಕ್ ಮಾಡಿದ್ದೇನೆ","nānu avanannu blāk māḍiddēne"]]}]},
+  {"id":464,"title":"Conversation about the eclipse","url":"#","content":"Talking about solar/lunar eclipse in Kannada.","intro":"ಗ್ರಹಣ, ಸೂರ್ಯ ಗ್ರಹಣ, ಚಂದ್ರ ಗ್ರಹಣ.","blocks":[{"type":"table","heading":"Eclipse – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["There is a solar eclipse today","ಇಂದು ಸೂರ್ಯ ಗ್ರಹಣ ಇದೆ","indu sūrya grahaṇa ide"],["Do not look at the sun directly","ಸೂರ್ಯನನ್ನು ನೇರವಾಗಿ ನೋಡಬೇಡಿ","sūryanannu nēravāgi nōḍabēḍi"],["The eclipse will start at nine","ಗ್ರಹಣ ಒಂಬತ್ತು ಗಂಟೆಗೆ ಶುರುವಾಗುತ್ತದೆ","grahaṇa ombattu gaṇṭege śuruvāguttade"],["We should not eat during eclipse","ಗ್ರಹಣದ ಸಮಯದಲ್ಲಿ ಊಟ ಮಾಡಬಾರದು","grahaṇada samayadalli ūṭa māḍabāradu"],["The lunar eclipse is at night","ಚಂದ್ರ ಗ್ರಹಣ ರಾತ್ರಿ","candra grahaṇa rātri"],["I have never seen an eclipse","ನಾನು ಯಾವತ್ತೂ ಗ್ರಹಣ ನೋಡಿಲ್ಲ","nānu yāvattū grahaṇa nōḍilla"],["Use special glasses to watch","ನೋಡಲು ಸ್ಪೆಷಲ್ ಗ್ಲಾಸ್ ಉಪಯೋಗಿಸಿ","nōḍalu speṣal glās upayōgisi"],["The eclipse lasts for an hour","ಗ್ರಹಣ ಒಂದು ಗಂಟೆ ನಡೆಯುತ್ತದೆ","grahaṇa ondu gaṇṭe naḍeyuttade"],["In olden days people were afraid of eclipse","ಹಿಂದೆ ಜನರು ಗ್ರಹಣಕ್ಕೆ ಭಯ ಪಡುತ್ತಿದ್ದರು","hinde janaru grahaṇakke bhaya paḍuttiddaru"],["Science has explained the eclipse","ವಿಜ್ಞಾನ ಗ್ರಹಣವನ್ನು ವಿವರಿಸಿದೆ","vijñāna grahaṇavannu vivariside"],["When is the next eclipse?","ಮುಂದಿನ ಗ್ರಹಣ ಯಾವಾಗ?","mundina grahaṇa yāvāga?"],["The sky will become dark","ಆಕಾಶ ಕತ್ತಲೆಯಾಗುತ್ತದೆ","ākāśa kattaleyāguttade"],["We will watch it on TV","ನಾವು ಟಿವಿ ಯಲ್ಲಿ ನೋಡುತ್ತೇವೆ","nāvu ṭivi yalli nōḍuttēve"],["Did you see the eclipse?","ನೀವು ಗ್ರಹಣ ನೋಡಿದಿರಾ?","nīvu grahaṇa nōḍidirā?"],["It was a total eclipse","ಅದು ಪೂರ್ಣ ಗ್ರಹಣ ಆಗಿತ್ತು","adu pūrṇa grahaṇa āgittu"]]}]},
+  {"id":465,"title":"International Women's Day","url":"#","content":"Sentences about Women's Day and respect for women.","intro":"ಅಂತರಾಷ್ಟ್ರೀಯ ಮಹಿಳಾ ದಿನ, ಮಾರ್ಚ್ ೮.","blocks":[{"type":"table","heading":"Women's Day – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Happy Women's Day!","ಮಹಿಳಾ ದಿನ ಶುಭಾಷಯಗಳು!","mahiḷā dina śubhāṣayagaḷu!"],["International Women's Day is on March 8","ಅಂತರಾಷ್ಟ್ರೀಯ ಮಹಿಳಾ ದಿನ ಮಾರ್ಚ್ ೮ ರಂದು","aṃtarāṣṭrīya mahiḷā dina mārc 8 raṃdu"],["We celebrate women's achievements","ನಾವು ಮಹಿಳೆಯರ ಸಾಧನೆಗಳನ್ನು ಆಚರಿಸುತ್ತೇವೆ","nāvu mahiḷeyara sādhanegaḷannu ācarisuttēve"],["Respect every woman","ಪ್ರತಿ ಮಹಿಳೆಯನ್ನು ಗೌರವಿಸಿ","prati mahiḷeyannu gauravisi"],["Women are strong","ಮಹಿಳೆಯರು ಬಲಶಾಲಿ","mahiḷeyaru balaśāli"],["My mother is my inspiration","ನನ್ನ ತಾಯಿ ನನ್ನ ಪ್ರೇರಣೆ","nanna tāyi nanna prēraṇe"],["We need gender equality","ನಮಗೆ ಲಿಂಗ ಸಮಾನತೆ ಬೇಕು","namage liṃga samānate bēku"],["She is a successful entrepreneur","ಅವಳು ಯಶಸ್ವಿ ಉದ್ಯಮಿ","avaḷu yaśasvi udyami"],["Thank you to all the women in my life","ನನ್ನ ಜೀವನದ ಎಲ್ಲ ಮಹಿಳೆಯರಿಗೆ ಧನ್ಯವಾದ","nanna jīvanada ella mahiḷeyarige dhanyavāda"],["Women can do anything","ಮಹಿಳೆಯರು ಏನಾದರೂ ಮಾಡಬಲ್ಲರು","mahiḷeyaru ēnādarū māḍaballaru"],["Education is important for girls","ಹುಡುಗಿಯರಿಗೆ ಶಿಕ್ಷಣ ಮುಖ್ಯ","huḍugiyarige śikṣaṇa mukhya"],["Equal pay for equal work","ಒಂದೇ ಕೆಲಸಕ್ಕೆ ಒಂದೇ ವೇತನ","onde kelasakke onde vētana"],["She broke all barriers","ಅವಳು ಎಲ್ಲ ಅಡೆತಡೆಗಳನ್ನು ಭೇದಿಸಿದಳು","avaḷu ella aḍetaḍegaḷannu bhēdisidaḷu"],["We support women's rights","ನಾವು ಮಹಿಳಾ ಹಕ್ಕುಗಳಿಗೆ ಪಕ್ಷ","nāvu mahiḷā hakkugaḷige pakṣa"],["Happy Women's Day to my sister","ನನ್ನ ತಂಗಿಗೆ ಮಹಿಳಾ ದಿನ ಶುಭಾಷಯಗಳು","nanna taṅgige mahiḷā dina śubhāṣayagaḷu"]]}]},
+  {"id":466,"title":"Simple Kannada conversation – Quarrel at home","url":"#","content":"Expressing disagreement and resolving at home.","intro":"ವಾಗ್ವಾದ, ಜಗಳ – ಮನೆಯಲ್ಲಿ.","blocks":[{"type":"table","heading":"Quarrel / disagreement – sentences","headers":["English","Kannada","Transliteration"],"speakCol":1,"rows":[["Why are you shouting?","ನೀವು ಏಕೆ ಕೂಗುತ್ತಿದ್ದೀರಿ?","nīvu ēke kūguttiddīri?"],["Please listen to me","ದಯವಿಟ್ಟು ನನ್ನ ಮಾತು ಕೇಳಿ","dayaviṭṭu nanna mātu kēḷi"],["I did not do it","ನಾನು ಮಾಡಲಿಲ್ಲ","nānu māḍalilla"],["You always blame me","ನೀವು ಯಾವಾಗಲೂ ನನ್ನನ್ನು ದೂಷಿಸುತ್ತೀರಿ","nīvu yāvāgalū nannannu dūṣisuttīri"],["Let us talk calmly","ನಾವು ಶಾಂತವಾಗಿ ಮಾತಾಡೋಣ","nāvu śāṃtavāgi mātāḍōṇa"],["I am sorry for what I said","ನಾನು ಹೇಳಿದ್ದಕ್ಕೆ ಕ್ಷಮಿಸಿ","nānu hēḷiddakke kṣamisi"],["I did not mean to hurt you","ನಾನು ನಿಮ್ಮನ್ನು ನೋವುಂಟು ಮಾಡಲು ಉದ್ದೇಶಿಸಲಿಲ್ಲ","nānu nimmannu nōvuṃṭu māḍalu uddēśisalilla"],["Let us forget this","ನಾವು ಇದನ್ನು ಮರೆಯೋಣ","nāvu idannu mareyōṇa"],["You are right","ನೀವು ಸರಿ","nīvu sari"],["I was wrong","ನಾನು ತಪ್ಪು ಮಾಡಿದೆ","nānu tappu māḍide"],["Do not be angry","ಕೋಪಿಸಿಕೊಳ್ಳಬೇಡಿ","kōpisikoḷḷabēḍi"],["We should not fight","ನಾವು ಜಗಳ ಮಾಡಬಾರದು","nāvu jagaḷa māḍabāradu"],["I love you no matter what","ಏನೇ ಆದರೂ ನಾನು ನಿಮ್ಮನ್ನು ಪ್ರೀತಿಸುತ್ತೇನೆ","ēnē ādarū nānu nimmannu prītisuttēne"],["Let us make up","ನಾವು ಸರಿದುಕೊಳ್ಳೋಣ","nāvu saridukoḷḷōṇa"],["Family should stay together","ಕುಟುಂಬ ಒಟ್ಟಿಗೆ ಇರಬೇಕು","kuṭuṃba oṭṭige irabēku"]]}]}
+]
