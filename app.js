@@ -6155,72 +6155,90 @@ function speakMarathi() {
   }
 }
 
-// ===== SETTINGS =====
-let offlineEnabled = true;
+// ===== SETTINGS (OFFLINE MODE) =====
+const OFFLINE_STORAGE_KEY = 'offlineModeEnabled';
+const OFFLINE_CACHE_PREFIX = 'offline_lessons_';
+
+let offlineEnabled = localStorage.getItem(OFFLINE_STORAGE_KEY) !== 'false';
+
+function initOfflineToggle() {
+  const t = document.getElementById('offline-toggle');
+  if (t) t.className = 'toggle' + (offlineEnabled ? '' : ' off');
+}
+
 function toggleOffline() {
   offlineEnabled = !offlineEnabled;
+  localStorage.setItem(OFFLINE_STORAGE_KEY, offlineEnabled ? 'true' : 'false');
   const t = document.getElementById('offline-toggle');
-  t.className = 'toggle' + (offlineEnabled ? '' : ' off');
+  if (t) t.className = 'toggle' + (offlineEnabled ? '' : ' off');
   showToast(offlineEnabled ? 'Offline mode enabled' : 'Offline mode disabled');
 }
 
-// ===== FEEDBACK =====
-// Paste your Google Apps Script Web App URL here after deploying (see google-apps-script/Code.gs)
-const FEEDBACK_SHEET_URL = 'https://script.google.com/macros/s/AKfycbwuQVHBxBaDLohbvFg1Ux_eqWEiRmJORTgOZUEZ0N_SqKEMLCqE8YQDcGgkbl1bj60/exec'; // e.g. 'https://script.google.com/macros/s/XXXXX/exec'
+function getOfflineCacheKey() {
+  return OFFLINE_CACHE_PREFIX + (selectedLanguage || 'marathi');
+}
 
-function openFeedback() {
-  const overlay = document.getElementById('feedback-overlay');
-  const form = document.getElementById('feedback-form');
-  if (overlay) {
-    overlay.classList.add('show');
-    form?.reset();
-    document.querySelectorAll('input[name="rating"]').forEach(r => r.checked = false);
-    document.addEventListener('keydown', feedbackEscapeHandler);
+function saveLessonsToCache(data, structure) {
+  if (!offlineEnabled || !selectedLanguage) return;
+  try {
+    localStorage.setItem(getOfflineCacheKey(), JSON.stringify({ data, structure }));
+  } catch (e) {
+    console.warn('Offline cache save failed', e);
   }
 }
 
-function feedbackEscapeHandler(e) {
-  if (e.key === 'Escape') {
-    closeFeedbackModal();
-    document.removeEventListener('keydown', feedbackEscapeHandler);
+function loadLessonsFromCache() {
+  try {
+    const raw = localStorage.getItem(getOfflineCacheKey());
+    if (!raw) return null;
+    return JSON.parse(raw);
+  } catch (e) {
+    return null;
   }
 }
 
-function closeFeedbackModal(e) {
-  if (e && e.target !== e.currentTarget) return;
-  document.getElementById('feedback-overlay')?.classList.remove('show');
-  document.removeEventListener('keydown', feedbackEscapeHandler);
+// ===== DATA ADDITION & RATE THE APP =====
+// Google Apps Script Web App URL – receives data addition (and feedback) submissions
+const FEEDBACK_SHEET_URL = 'https://script.google.com/macros/s/AKfycbwuQVHBxBaDLohbvFg1Ux_eqWEiRmJORTgOZUEZ0N_SqKEMLCqE8YQDcGgkbl1bj60/exec';
+
+function onDataAdditionTypeChange(value) {
+  const form = document.getElementById('data-addition-form');
+  if (!form) return;
+  if (!value) {
+    form.style.display = 'none';
+    const msg = document.getElementById('data-addition-message');
+    if (msg) msg.value = '';
+    return;
+  }
+  form.style.display = 'block';
 }
 
-function submitFeedback(e) {
-  e.preventDefault();
-  const typeEl = document.getElementById('feedback-type');
-  const ratingEl = document.querySelector('input[name="rating"]:checked');
-  const messageEl = document.getElementById('feedback-message');
-  const emailEl = document.getElementById('feedback-email');
-  const submitBtn = document.getElementById('feedback-submit');
+function sendDataSuggestion() {
+  const typeEl = document.getElementById('data-addition-type');
+  const messageEl = document.getElementById('data-addition-message');
+  const type = (typeEl && typeEl.value) || '';
+  const labels = { phrase: 'Phrase', words: 'Words', lessons: 'Lessons' };
+  const typeLabel = labels[type] || type;
 
-  const type = typeEl?.value || '';
-  const rating = ratingEl?.value || '';
-  const message = messageEl?.value?.trim() || '';
-  const email = emailEl?.value?.trim() || '';
-
-  if (!type || !rating) {
-    showToast('Please select type and rating');
+  if (!type) {
+    showToast('Please select Phrase, Words or Lessons first');
     return;
   }
 
+  const message = (messageEl && messageEl.value.trim()) || '';
   if (!FEEDBACK_SHEET_URL) {
-    showToast('Google Sheet not connected. See setup in google-apps-script folder.');
+    showToast('Feedback sheet not configured');
     return;
   }
 
-  submitBtn.disabled = true;
-  submitBtn.textContent = 'Sending...';
+  const btn = document.querySelector('.data-addition-btn');
+  if (btn) {
+    btn.disabled = true;
+    btn.textContent = 'Sending...';
+  }
 
-  // Use form POST to iframe - avoids CORS (form submissions are not restricted by CORS)
   const iframe = document.createElement('iframe');
-  iframe.name = 'feedback-frame-' + Date.now();
+  iframe.name = 'data-suggestion-frame-' + Date.now();
   iframe.style.cssText = 'position:absolute;width:0;height:0;border:0;visibility:hidden';
   document.body.appendChild(iframe);
 
@@ -6231,7 +6249,8 @@ function submitFeedback(e) {
   form.style.display = 'none';
 
   const fields = {
-    type, rating, message, email,
+    type: 'Data addition: ' + typeLabel,
+    message: message || '(No message)',
     language: getLang().name || 'Marathi',
     version: '1.0.0'
   };
@@ -6244,29 +6263,33 @@ function submitFeedback(e) {
   }
   document.body.appendChild(form);
 
+  function done() {
+    form.remove();
+    if (iframe.parentNode) iframe.remove();
+    if (btn) {
+      btn.disabled = false;
+      btn.textContent = 'Send suggestion';
+    }
+    if (messageEl) messageEl.value = '';
+    showToast('Thank you! Suggestion sent.');
+  }
+
   iframe.onload = function() {
     iframe.onload = null;
-    setTimeout(function() {
-      form.remove();
-      iframe.remove();
-      closeFeedbackModal();
-      showToast('Thank you! Feedback sent.');
-      submitBtn.disabled = false;
-      submitBtn.textContent = 'Submit';
-    }, 300);
+    setTimeout(done, 300);
   };
-  // Fallback if onload never fires (e.g. network error)
-  setTimeout(function() {
-    if (iframe.parentNode) {
-      form.remove();
-      iframe.remove();
-      submitBtn.disabled = false;
-      submitBtn.textContent = 'Submit';
-      showToast('Thank you! Feedback sent.');
-    }
-  }, 8000);
-
+  setTimeout(done, 6000);
   form.submit();
+}
+
+// Replace with your app’s store URLs when published
+const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=YOUR_PACKAGE_ID';
+const APP_STORE_URL = 'https://apps.apple.com/app/idYOUR_APP_ID';
+
+function openStoreRating(store) {
+  const url = store === 'play' ? PLAY_STORE_URL : APP_STORE_URL;
+  if (url && !url.includes('YOUR_')) window.open(url, '_blank');
+  else showToast('Rate us on ' + (store === 'play' ? 'Google Play Store' : 'App Store'));
 }
 
 // ===== THEME =====
@@ -6533,6 +6556,40 @@ async function loadChapters() {
   error.style.display   = 'none';
   list.innerHTML        = '';
 
+  function applyChaptersData(data, structure) {
+    allChapters = data;
+    lessonsStructure = structure;
+    chaptersById = {};
+    if (allChapters) allChapters.forEach(ch => { chaptersById[ch.id] = ch; });
+    chaptersLoaded = true;
+    chaptersLoadedForLang = selectedLanguage;
+    loading.style.display = 'none';
+    error.style.display = 'none';
+    renderLessonsList();
+  }
+
+  function showLoadError(msg) {
+    loading.style.display = 'none';
+    error.style.display = 'block';
+    document.getElementById('chapters-error').innerHTML = `
+      <div class="error-icon" style="margin:0 auto 12px;"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></div>
+      <div style="font-weight:800;color:var(--text);margin-bottom:6px;">${msg}</div>
+      <div style="font-size:12px;color:var(--text-muted);font-weight:600;">Enable offline mode and load lessons once while online to use them offline.</div>`;
+  }
+
+  const cached = loadLessonsFromCache();
+  const isOffline = typeof navigator !== 'undefined' && !navigator.onLine;
+
+  if (isOffline && cached && cached.data && cached.structure) {
+    applyChaptersData(cached.data, cached.structure);
+    showToast('Showing cached lessons (offline)');
+    return;
+  }
+  if (isOffline) {
+    showLoadError('You\'re offline');
+    return;
+  }
+
   try {
     const [chaptersRes, structureRes] = await Promise.all([
       fetch(dataFile),
@@ -6540,23 +6597,17 @@ async function loadChapters() {
     ]);
     if (!chaptersRes.ok) throw new Error(dataFile + ' not found');
     if (!structureRes.ok) throw new Error(structureFile + ' not found');
-    allChapters = await chaptersRes.json();
-    lessonsStructure = await structureRes.json();
-    chaptersById = {};
-    allChapters.forEach(ch => { chaptersById[ch.id] = ch; });
-    chaptersLoaded = true;
-    chaptersLoadedForLang = selectedLanguage;
-    renderLessonsList();
-  } catch(e) {
-    loading.style.display = 'none';
-    error.style.display   = 'block';
-    document.getElementById('chapters-error').innerHTML = `
-      <div class="error-icon" style="margin:0 auto 12px;"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></div>
-      <div style="font-weight:800;color:var(--text);margin-bottom:6px;">${e.message || 'Failed to load'}</div>
-      <div style="font-size:12px;color:var(--text-muted);font-weight:600;">
-        Ensure <code style="background:var(--border);padding:2px 6px;border-radius:4px;">data.json</code> and
-        <code style="background:var(--border);padding:2px 6px;border-radius:4px;">lessons_structure.json</code> are in project root
-      </div>`;
+    const data = await chaptersRes.json();
+    const structure = await structureRes.json();
+    applyChaptersData(data, structure);
+    saveLessonsToCache(data, structure);
+  } catch (e) {
+    if (cached && cached.data && cached.structure) {
+      applyChaptersData(cached.data, cached.structure);
+      showToast('Using cached lessons (network failed)');
+      return;
+    }
+    showLoadError(e.message || 'Failed to load');
   }
 }
 
@@ -6845,6 +6896,7 @@ function initScrollToTop() {
 // ===== INIT ON LOAD =====
 function initApp() {
   initTheme();
+  initOfflineToggle();
   initScrollToTop();
   if (selectedLanguage && LANGUAGES[selectedLanguage]) {
     document.getElementById('screen-lang-select').classList.remove('active');
