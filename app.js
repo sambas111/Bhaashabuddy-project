@@ -5807,6 +5807,19 @@ const LANGUAGES = {
     structureFile: "lessons_structure_kannada.json",
     PHRASES: typeof KANNADA_PHRASES !== "undefined" ? KANNADA_PHRASES : {},
     DICTIONARY: typeof KANNADA_DICTIONARY !== "undefined" ? KANNADA_DICTIONARY : []
+  },
+  tamil: {
+    name: "Tamil",
+    code: "ta",
+    subtitle: "தமிழ் கற்க",
+    scriptFont: "'Noto Sans Tamil', sans-serif",
+    speechLang: "ta-IN",
+    dataSource: "BhaashaBuddy (web)",
+    hasLessons: true,
+    dataFile: "data_tamil.json",
+    structureFile: "lessons_structure_tamil.json",
+    PHRASES: typeof TAMIL_PHRASES !== "undefined" ? TAMIL_PHRASES : {},
+    DICTIONARY: typeof TAMIL_DICTIONARY !== "undefined" ? TAMIL_DICTIONARY : []
   }
 };
 
@@ -6408,8 +6421,8 @@ function formatChapterFromData(ch) {
     const rows = tbl.rows || [];
     if (headers.length !== 2 || rows.length === 0) return false;
     const hStr = (headers[0] + ' ' + headers[1]).toLowerCase();
-    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|script/.test(hStr)) return false;
-    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u097F\u0C80-\u0CFF]/.test(String(r[0])));
+    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|script/.test(hStr)) return false;
+    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u097F\u0B80-\u0BFF\u0C80-\u0CFF]/.test(String(r[0])));
   };
 
   const renderAlphabetGrid = (tbl) => {
@@ -6449,7 +6462,7 @@ function formatChapterFromData(ch) {
     (tbl.rows || []).forEach(row => {
       h += '<tr>';
       row.forEach((cell, i) => {
-        const isScript = /[\u0900-\u097F\u0C80-\u0CFF]/.test(cell);
+        const isScript = /[\u0900-\u097F\u0B80-\u0BFF\u0C80-\u0CFF]/.test(cell);
         const cls = isScript ? ' class="busuu-script-cell"' : '';
         const style = isScript ? ' style="font-family:' + getScriptFont() + '"' : '';
         h += '<td' + cls + style + '>' + escape(cell) + '</td>';
@@ -6500,7 +6513,7 @@ function formatChapterContentBusuu(chapterId) {
       (tbl.rows || []).forEach(row => {
         html += '<tr>';
         row.forEach((cell, i) => {
-          const isScript = /[\u0900-\u097F\u0C80-\u0CFF]/.test(cell);
+          const isScript = /[\u0900-\u097F\u0B80-\u0BFF\u0C80-\u0CFF]/.test(cell);
           const cls = isScript ? ' class="busuu-script-cell"' : '';
           const style = isScript ? ' style="font-family:' + getScriptFont() + '"' : '';
           html += '<td' + cls + style + '>' + escape(cell) + '</td>';
