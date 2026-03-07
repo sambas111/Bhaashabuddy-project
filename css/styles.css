@@ -728,6 +728,66 @@ body.nav-visible .bottom-nav {
   border-bottom: 1px solid var(--border);
 }
 .settings-row:last-child { border-bottom: none; }
+.settings-row-select { padding: 0 16px 16px; justify-content: flex-start; }
+.settings-row-select select {
+  width: 100%;
+  max-width: 240px;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  background: var(--bg);
+  border: 2px solid var(--border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+}
+.settings-row-select select:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+.data-addition-form {
+  padding: 0 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.data-addition-label {
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+}
+.data-addition-form textarea {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  background: var(--bg);
+  border: 2px solid var(--border);
+  border-radius: var(--radius-sm);
+  resize: vertical;
+  min-height: 100px;
+  font-family: inherit;
+}
+.data-addition-form textarea:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+.data-addition-btn {
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 800;
+  color: white;
+  background: var(--primary);
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.data-addition-btn:hover {
+  background: var(--primary-dark);
+}
 .settings-row-left { display: flex; flex-direction: column; gap: 2px; }
 .settings-row-title { font-size: 14px; font-weight: 700; }
 .settings-row-sub { font-size: 12px; color: var(--text-muted); font-weight: 600; }

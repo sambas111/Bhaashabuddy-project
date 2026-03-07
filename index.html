@@ -283,12 +283,42 @@
         </div>
       </div>
 
-      <div class="settings-label">Support</div>
+      <div class="settings-label">Data addition to app</div>
       <div class="settings-card">
-        <div class="settings-row clickable" onclick="openFeedback()">
+        <div class="settings-row">
           <div class="settings-row-left">
-            <div class="settings-row-title">Send feedback</div>
-            <div class="settings-row-sub">Share feedback or report a bug</div>
+            <div class="settings-row-title">Suggest content</div>
+            <div class="settings-row-sub">Choose type, then add your phrases, words or lesson ideas below</div>
+          </div>
+        </div>
+        <div class="settings-row settings-row-select">
+          <select id="data-addition-type" onchange="onDataAdditionTypeChange(this.value)">
+            <option value="">Select...</option>
+            <option value="phrase">Phrase</option>
+            <option value="words">Words</option>
+            <option value="lessons">Lessons</option>
+          </select>
+        </div>
+        <div id="data-addition-form" class="data-addition-form" style="display:none;">
+          <label for="data-addition-message" class="data-addition-label">Your suggestion (or paste link/source)</label>
+          <textarea id="data-addition-message" rows="4" placeholder="Type your phrases, words or lesson content here. You can also paste a link or source – we will consider it for future updates."></textarea>
+          <button type="button" class="data-addition-btn" onclick="sendDataSuggestion()">Send suggestion</button>
+        </div>
+      </div>
+
+      <div class="settings-label">Rate the app</div>
+      <div class="settings-card">
+        <div class="settings-row clickable" onclick="openStoreRating('play')">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Rate on Google Play Store</div>
+            <div class="settings-row-sub">Leave a review on Play Store</div>
+          </div>
+          <span class="settings-arrow">›</span>
+        </div>
+        <div class="settings-row clickable" onclick="openStoreRating('appstore')">
+          <div class="settings-row-left">
+            <div class="settings-row-title">Rate on App Store</div>
+            <div class="settings-row-sub">Leave a review on App Store</div>
           </div>
           <span class="settings-arrow">›</span>
         </div>
@@ -314,56 +344,6 @@
 
   <div class="toast" id="toast"></div>
 
-  <!-- ===================== FEEDBACK MODAL ===================== -->
-  <div class="feedback-overlay" id="feedback-overlay" onclick="closeFeedbackModal(event)">
-    <div class="feedback-modal" onclick="event.stopPropagation()">
-      <div class="feedback-modal-header">
-        <div class="feedback-header-icon">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-        </div>
-        <div class="feedback-header-text">
-          <h2>Send feedback</h2>
-          <p>Help us improve BhaashaBuddy</p>
-        </div>
-        <button type="button" class="feedback-close" onclick="closeFeedbackModal()" aria-label="Close">&times;</button>
-      </div>
-      <form id="feedback-form" onsubmit="submitFeedback(event)">
-        <div class="feedback-field">
-          <label for="feedback-type">What type of feedback?</label>
-          <select id="feedback-type" required>
-            <option value="">Select...</option>
-            <option value="Bug report">Bug report</option>
-            <option value="Feature request">Feature request</option>
-            <option value="General feedback">General feedback</option>
-            <option value="Other">Other</option>
-          </select>
-        </div>
-        <div class="feedback-field">
-          <label>How would you rate the app?</label>
-          <div class="feedback-rating" role="radiogroup" aria-label="Rate from 1 to 5 stars">
-            <label class="feedback-star" title="1 star"><input type="radio" name="rating" value="1"><span class="feedback-star-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span></label>
-            <label class="feedback-star" title="2 stars"><input type="radio" name="rating" value="2"><span class="feedback-star-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span></label>
-            <label class="feedback-star" title="3 stars"><input type="radio" name="rating" value="3"><span class="feedback-star-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span></label>
-            <label class="feedback-star" title="4 stars"><input type="radio" name="rating" value="4"><span class="feedback-star-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span></label>
-            <label class="feedback-star" title="5 stars"><input type="radio" name="rating" value="5"><span class="feedback-star-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span></label>
-          </div>
-          <div class="feedback-rating-labels"><span>Poor</span><span>Great</span></div>
-        </div>
-        <div class="feedback-field">
-          <label for="feedback-message">Your message (optional)</label>
-          <textarea id="feedback-message" rows="4" placeholder="Describe your feedback or bug report...&#10;&#10;If you want to include any more data, please give the link or source here.&#10;We will consider it for future updates."></textarea>
-        </div>
-        <div class="feedback-field">
-          <label for="feedback-email">Email for follow-up (optional)</label>
-          <input type="email" id="feedback-email" placeholder="your@email.com">
-        </div>
-        <div class="feedback-actions">
-          <button type="button" class="feedback-btn feedback-btn-secondary" onclick="closeFeedbackModal()">Cancel</button>
-          <button type="submit" class="feedback-btn feedback-btn-primary" id="feedback-submit">Submit</button>
-        </div>
-      </form>
-    </div>
-  </div>
   </main>
 
   <!-- ===================== BOTTOM NAV (mobile) ===================== -->
