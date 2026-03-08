@@ -5820,6 +5820,19 @@ const LANGUAGES = {
     structureFile: "lessons_structure_tamil.json",
     PHRASES: typeof TAMIL_PHRASES !== "undefined" ? TAMIL_PHRASES : {},
     DICTIONARY: typeof TAMIL_DICTIONARY !== "undefined" ? TAMIL_DICTIONARY : []
+  },
+  maithili: {
+    name: "Maithili",
+    code: "mai",
+    subtitle: "मैथिली सीखू",
+    scriptFont: "'Noto Sans Devanagari', sans-serif",
+    speechLang: "hi-IN",
+    dataSource: "BhaashaBuddy (web)",
+    hasLessons: true,
+    dataFile: "data_maithili.json",
+    structureFile: "lessons_structure_maithili.json",
+    PHRASES: typeof MAITHILI_PHRASES !== "undefined" ? MAITHILI_PHRASES : {},
+    DICTIONARY: typeof MAITHILI_DICTIONARY !== "undefined" ? MAITHILI_DICTIONARY : []
   }
 };
 
