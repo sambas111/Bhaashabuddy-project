@@ -1,5 +1,30 @@
 // ===== LANGUAGE SYSTEM =====
-const CAT_INITIALS = { greetings:'Hi', reading:'Rd', writing:'Wr', numbers:'#', animals:'An', dailyLife:'DL', environment:'En', food:'Fd', health:'He', schoolWork:'Sw', socialInteractions:'So', time:'Ti', tourism:'To', transportation:'Tr', travel:'Go', shopping:'Sh', emergency:'!' };
+const CAT_INITIALS = {
+  greetings: 'Hi',
+  reading: 'Rd',
+  writing: 'Wr',
+  numbers: '#',
+  animals: 'An',
+  dailyLife: 'DL',
+  environment: 'En',
+  food: 'Fd',
+  health: 'He',
+  schoolWork: 'Sw',
+  socialInteractions: 'So',
+  time: 'Ti',
+  tourism: 'To',
+  transportation: 'Tr',
+  travel: 'Go',
+  shopping: 'Sh',
+  emergency: '!',
+  common: 'CP',
+  body: 'Bd',
+  family: 'Fm',
+  home: 'Hm',
+  nature: 'Na',
+  colours: 'Cl',
+  questions: 'Q?'
+};
 // Real images for categories (Unsplash, free to use)
 const CAT_IMAGES = {
   greetings: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=80&h=80&fit=crop',
@@ -18,7 +43,14 @@ const CAT_IMAGES = {
   socialInteractions: 'https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=80&h=80&fit=crop',
   time: 'https://images.unsplash.com/photo-1501139083538-0139583c060f?w=80&h=80&fit=crop',
   tourism: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=80&h=80&fit=crop',
-  transportation: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=80&h=80&fit=crop'
+  transportation: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=80&h=80&fit=crop',
+  common: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=80&h=80&fit=crop',
+  body: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=80&h=80&fit=crop',
+  family: 'https://images.unsplash.com/photo-1511895426328-dc8714191300?w=80&h=80&fit=crop',
+  home: 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=80&h=80&fit=crop',
+  nature: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=80&h=80&fit=crop',
+  colours: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=80&h=80&fit=crop',
+  questions: 'https://images.unsplash.com/photo-1496200186974-4293800e2c20?w=80&h=80&fit=crop'
 };
 let selectedLanguage = localStorage.getItem('selectedLanguage') || '';
 
@@ -158,8 +190,9 @@ function renderCategories() {
   const list = document.getElementById('cat-grid');
   if (!list) return;
   list.innerHTML = Object.entries(phrases).map(([id, data]) => {
-    const iconUrl = CAT_IMAGES[id] || '';
-    const fallback = CAT_INITIALS[id] || id.slice(0, 2);
+    const baseId = id.split('_')[0]; // support Set 1/2/3 ids like greetings_1
+    const iconUrl = CAT_IMAGES[id] || CAT_IMAGES[baseId] || '';
+    const fallback = CAT_INITIALS[id] || CAT_INITIALS[baseId] || id.slice(0, 2);
     const iconHtml = iconUrl
       ? `<img class="cat-icon-img" src="${iconUrl}" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" /><span class="cat-icon cat-icon-fallback" style="display:none" data-initial="${fallback}"></span>`
       : `<span class="cat-icon" data-initial="${fallback}"></span>`;
@@ -6036,8 +6069,9 @@ function renderDict(query) {
       if (!secData || !secData.words || !secData.words.length) return '';
       const words = secData.words;
       const isExpanded = expandedDictSection === secId;
-      const iconUrl = CAT_IMAGES[secId] || '';
-      const fallback = CAT_INITIALS[secId] || secId.slice(0, 2);
+      const baseId = secId.split('_')[0]; // support Set 1/2/3 ids like greetings_1
+      const iconUrl = CAT_IMAGES[secId] || CAT_IMAGES[baseId] || '';
+      const fallback = CAT_INITIALS[secId] || CAT_INITIALS[baseId] || secId.slice(0, 2);
       const iconHtml = iconUrl
         ? `<img class="cat-icon-img" src="${iconUrl}" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" /><span class="cat-icon cat-icon-fallback" style="display:none" data-initial="${fallback}"></span>`
         : `<span class="cat-icon" data-initial="${fallback}"></span>`;
@@ -6650,11 +6684,13 @@ function toggleMajorLesson(name) {
 
 function getChapterDisplayNumber(chapterId) {
   if (!lessonsStructure || !lessonsStructure.majorLessons) return chapterId;
-  let n = 0;
+  let majorIdx = 0;
   for (const major of lessonsStructure.majorLessons) {
+    majorIdx++;
+    let subIdx = 0;
     for (const s of major.sublessons || []) {
-      n++;
-      if (s.chapterId === chapterId) return n;
+      subIdx++;
+      if (s.chapterId === chapterId) return majorIdx + '.' + subIdx;
     }
   }
   return chapterId;
@@ -6755,14 +6791,16 @@ function renderLessonsList() {
         (ch.content || '').toLowerCase().includes(searchLower);
     });
 
-    const sublessonsHtml = isMajorExpanded ? sublessons.map(s => {
+    const majorNum = lessonsStructure.majorLessons.indexOf(major) + 1;
+    const sublessonsHtml = isMajorExpanded ? sublessons.map((s) => {
       const ch = s.chapterId != null ? chaptersById[s.chapterId] : null;
       const hasContent = !!ch;
       const headerOnclick = hasContent ? `onclick="openChapter(${s.chapterId})"` : '';
+      const subNum = majorNum + '.' + ((major.sublessons || []).indexOf(s) + 1);
       return `
       <div class="chapter-sub-row">
         <div class="chapter-row-header" ${headerOnclick}>
-          <div class="chapter-row-title">${s.title}</div>
+          <div class="chapter-row-title"><span class="lesson-sub-num">${subNum}</span> ${s.title}</div>
           ${hasContent ? '<span class="chapter-expand">→</span>' : ''}
         </div>
       </div>
@@ -6772,7 +6810,7 @@ function renderLessonsList() {
     return `
     <div class="major-lesson-row">
       <div class="major-lesson-header" onclick="toggleMajorLesson('${major.name.replace(/'/g, "\\'")}')">
-        <div class="major-lesson-name">${major.name}</div>
+        <div class="major-lesson-name">Lesson ${majorNum}: ${major.name}</div>
         <span class="chapter-expand">${isMajorExpanded ? '−' : '+'}</span>
       </div>
       ${isMajorExpanded && sublessons.length ? `
