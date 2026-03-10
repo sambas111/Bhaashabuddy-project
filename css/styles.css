@@ -1010,6 +1010,11 @@ body.nav-visible .scroll-to-top {
   font-size: 13px;
   font-weight: 600;
 }
+.lesson-sub-num {
+  color: var(--primary);
+  font-weight: 800;
+  margin-right: 6px;
+}
 .chapter-sub-row .chapter-row-content {
   padding: 12px 16px 16px;
 }
