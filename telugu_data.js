@@ -1,0 +1,281 @@
+// Telugu dictionary – for Words section (like Kannada/Tamil)
+const TELUGU_DICTIONARY = {
+  greetings: {
+    name: "Greetings & Basics",
+    words: [
+      { en: "Hello / Namaste", mr: "నమస్తే", roman: "namastē" },
+      { en: "Good morning", mr: "శుభోదయం", roman: "śubhōdayaṃ" },
+      { en: "Good afternoon", mr: "శుభ మధ్యాహ్నం", roman: "śubha madhyāhnaṃ" },
+      { en: "Good evening", mr: "శుభ సాయంత్రం", roman: "śubha sāyantraṃ" },
+      { en: "Good night", mr: "శుభరాత్రి", roman: "śubharātri" },
+      { en: "How are you? (informal)", mr: "ఎలా ఉన్నావు?", roman: "elā unnāvu?" },
+      { en: "How are you? (formal/plural)", mr: "ఎలా ఉన్నారు?", roman: "elā unnāru?" },
+      { en: "I am fine", mr: "నేను బాగున్నాను", roman: "nēnu bāgunnānu" },
+      { en: "What is your name?", mr: "నీ పేరు ఏమిటి?", roman: "nī pēru ēmiṭi?" },
+      { en: "My name is …", mr: "నా పేరు …", roman: "nā pēru …" },
+      { en: "Thank you", mr: "ధన్యవాదాలు", roman: "dhanyavādālu" },
+      { en: "Please", mr: "దయచేసి", roman: "dayacēsi" },
+      { en: "Yes", mr: "అవును", roman: "avunu" },
+      { en: "No", mr: "కాదు", roman: "kādu" },
+      { en: "Excuse me / Sorry", mr: "క్షమించండి", roman: "kṣamin̄caṇḍi" },
+      { en: "Welcome", mr: "స్వాగతం", roman: "svāgataṃ" },
+      { en: "See you again", mr: "మళ్లీ కలుద్దాం", roman: "mallī kaluddāṃ" },
+      { en: "Good bye", mr: "వీడ్కోలు", roman: "vīḍkōlu" },
+      { en: "This (near, generic)", mr: "ఇది", roman: "idi" },
+      { en: "That (far, generic)", mr: "అది", roman: "adi" }
+    ]
+  },
+  reading: {
+    name: "Reading",
+    words: [
+      { en: "book", mr: "పుస్తకం", roman: "pustakaṃ" },
+      { en: "to read", mr: "చదువు", roman: "caduvu" },
+      { en: "letter", mr: "అక్షరం", roman: "akṣaraṃ" },
+      { en: "word", mr: "పదం", roman: "padaṃ" },
+      { en: "sentence", mr: "వాక్యం", roman: "vākyaṃ" },
+      { en: "story", mr: "కథ", roman: "katha" },
+      { en: "newspaper", mr: "వార్తాపత్రిక", roman: "vārtāpatrika" },
+      { en: "magazine", mr: "మ్యాగజైన్", roman: "myāgajain" },
+      { en: "page", mr: "పేజీ", roman: "pējī" },
+      { en: "paragraph", mr: "పేరా", roman: "pērā" }
+    ]
+  },
+  writing: {
+    name: "Writing & Script",
+    words: [
+      { en: "to write", mr: "రాయు", roman: "rāyu" },
+      { en: "pen", mr: "పెన్", roman: "pen" },
+      { en: "pencil", mr: "పెన్సిల్", roman: "pensil" },
+      { en: "paper", mr: "కాగితం", roman: "kāgitaṃ" },
+      { en: "notebook", mr: "నోట్బుక్", roman: "nōṭbuk" },
+      { en: "script", mr: "లిపి", roman: "lipi" },
+      { en: "alphabet", mr: "అక్షరమాల", roman: "akṣaramāla" },
+      { en: "vowel", mr: "అచ్చు", roman: "accu" },
+      { en: "consonant", mr: "హల్లు", roman: "hallu" },
+      { en: "signature", mr: "సంతకం", roman: "saṃtakaṃ" }
+    ]
+  },
+  numbers: {
+    name: "Numbers",
+    words: [
+      { en: "zero", mr: "సున్నా", roman: "sunnā" },
+      { en: "one", mr: "ఒక్కటి", roman: "okkaṭi" },
+      { en: "two", mr: "రెండు", roman: "reṇḍu" },
+      { en: "three", mr: "మూడు", roman: "mūḍu" },
+      { en: "four", mr: "నాలుగు", roman: "nālugu" },
+      { en: "five", mr: "ఐదు", roman: "aidu" },
+      { en: "six", mr: "ఆరు", roman: "āru" },
+      { en: "seven", mr: "ఏడు", roman: "ēḍu" },
+      { en: "eight", mr: "ఎనిమిది", roman: "enimidi" },
+      { en: "nine", mr: "తొమ్మిది", roman: "tommidi" },
+      { en: "ten", mr: "పది", roman: "padi" },
+      { en: "twenty", mr: "ఇరవై", roman: "iravai" },
+      { en: "fifty", mr: "యాబై", roman: "yābai" },
+      { en: "hundred", mr: "వంద", roman: "vanda" },
+      { en: "thousand", mr: "వెయ్యి", roman: "veyyi" }
+    ]
+  },
+  animals: {
+    name: "Animals & Nature",
+    words: [
+      { en: "dog", mr: "కుక్క", roman: "kukka" },
+      { en: "cat", mr: "పిల్లి", roman: "pilli" },
+      { en: "cow", mr: "ఆవు", roman: "āvu" },
+      { en: "buffalo", mr: "ఎద్దు", roman: "eddu" },
+      { en: "goat", mr: "మేక", roman: "mēka" },
+      { en: "sheep", mr: "గొర్రె", roman: "gorre" },
+      { en: "horse", mr: "గుర్రం", roman: "gurraṃ" },
+      { en: "elephant", mr: "ఏనుగు", roman: "ēnugu" },
+      { en: "tiger", mr: "పులి", roman: "puli" },
+      { en: "lion", mr: "సింహం", roman: "siṃhaṃ" },
+      { en: "monkey", mr: "కోతి", roman: "kōti" },
+      { en: "snake", mr: "పాము", roman: "pāmu" },
+      { en: "bird", mr: "పక్షి", roman: "pakṣi" },
+      { en: "fish", mr: "చేప", roman: "cēpa" },
+      { en: "crocodile", mr: "మొసలి", roman: "mosali" }
+    ]
+  },
+  dailyLife: {
+    name: "Daily Life",
+    words: [
+      { en: "house", mr: "ఇల్లు", roman: "illu" },
+      { en: "room", mr: "గది", roman: "gadi" },
+      { en: "door", mr: "తలుపు", roman: "talupu" },
+      { en: "window", mr: "కిటికీ", roman: "kiṭikī" },
+      { en: "water", mr: "నీరు", roman: "nīru" },
+      { en: "food", mr: "ఆహారం", roman: "āhāraṃ" },
+      { en: "sleep", mr: "నిద్ర", roman: "nidra" },
+      { en: "work", mr: "పని", roman: "pani" },
+      { en: "money", mr: "డబ్బు", roman: "ḍabbu" },
+      { en: "day", mr: "రోజు", roman: "rōju" },
+      { en: "night", mr: "రాత్రి", roman: "rātri" },
+      { en: "morning", mr: "ఉదయం", roman: "udayaṃ" },
+      { en: "evening", mr: "సాయంత్రం", roman: "sāyantraṃ" },
+      { en: "today", mr: "ఈ రోజు", roman: "ī rōju" },
+      { en: "tomorrow", mr: "రేపు", roman: "rēpu" }
+    ]
+  },
+  environment: {
+    name: "Environment & Weather",
+    words: [
+      { en: "sun", mr: "సూర్యుడు", roman: "sūryuḍu" },
+      { en: "moon", mr: "చంద్రుడు", roman: "candruḍu" },
+      { en: "rain", mr: "వర్షం", roman: "varṣaṃ" },
+      { en: "cloud", mr: "మేఘం", roman: "mēghaṃ" },
+      { en: "wind", mr: "గాలి", roman: "gāli" },
+      { en: "hot", mr: "వేడి", roman: "vēḍi" },
+      { en: "cold", mr: "చలి", roman: "cali" },
+      { en: "tree", mr: "చెట్టు", roman: "ceṭṭu" },
+      { en: "flower", mr: "పువ్వు", roman: "puvvu" },
+      { en: "earth", mr: "భూమి", roman: "bhūmi" }
+    ]
+  },
+  food: {
+    name: "Food & Drink",
+    words: [
+      { en: "rice", mr: "బియ్యం", roman: "biyyaṃ" },
+      { en: "bread", mr: "రొట్టె", roman: "roṭṭe" },
+      { en: "vegetable", mr: "కూరగాయలు", roman: "kūragāyalu" },
+      { en: "fruit", mr: "పండు", roman: "paṇḍu" },
+      { en: "milk", mr: "పాలు", roman: "pālu" },
+      { en: "curd", mr: "పెరుగు", roman: "perugu" },
+      { en: "salt", mr: "ఉప్పు", roman: "uppu" },
+      { en: "sugar", mr: "చక్కెర", roman: "cakkera" },
+      { en: "oil", mr: "నూనె", roman: "nūne" },
+      { en: "water", mr: "నీరు", roman: "nīru" },
+      { en: "tea", mr: "టీ", roman: "ṭī" },
+      { en: "coffee", mr: "కాఫీ", roman: "kāphī" },
+      { en: "eat", mr: "తిను", roman: "tinu" },
+      { en: "drink", mr: "త్రాగు", roman: "trāgu" },
+      { en: "cook", mr: "వంటచేయు", roman: "vaṇṭacēyu" }
+    ]
+  },
+  health: {
+    name: "Health & Body",
+    words: [
+      { en: "head", mr: "తల", roman: "tala" },
+      { en: "eye", mr: "కన్ను", roman: "kannu" },
+      { en: "ear", mr: "చెవి", roman: "cevi" },
+      { en: "nose", mr: "ముక్కు", roman: "mukku" },
+      { en: "mouth", mr: "నోరు", roman: "nōru" },
+      { en: "hand", mr: "చెయ్యి", roman: "ceyyi" },
+      { en: "leg", mr: "కాలు", roman: "kālu" },
+      { en: "heart", mr: "గుండె", roman: "guṇḍe" },
+      { en: "stomach", mr: "కడుపు", roman: "kaḍupu" },
+      { en: "doctor", mr: "డాక్టర్", roman: "ḍākṭar" },
+      { en: "medicine", mr: "మందు", roman: "mandu" },
+      { en: "hospital", mr: "ఆసుపత్రి", roman: "āsupatri" },
+      { en: "pain", mr: "నొప్పి", roman: "noppi" },
+      { en: "fever", mr: "జ్వరం", roman: "jvaraṃ" }
+    ]
+  },
+  schoolWork: {
+    name: "School & Work",
+    words: [
+      { en: "school", mr: "బడి", roman: "baḍi" },
+      { en: "teacher", mr: "ఉపాధ్యాయుడు", roman: "upādhyāyuḍu" },
+      { en: "student", mr: "విద్యార్థి", roman: "vidyārthi" },
+      { en: "to study", mr: "చదువు", roman: "caduvu" },
+      { en: "exam", mr: "పరీక్ష", roman: "parīkṣa" },
+      { en: "job", mr: "ఉద్యోగం", roman: "udyōgaṃ" },
+      { en: "office", mr: "ఆఫీసు", roman: "āphīsu" },
+      { en: "salary", mr: "జీతం", roman: "jītaṃ" },
+      { en: "meeting", mr: "మీటింగ్", roman: "mīṭiṅg" },
+      { en: "business", mr: "వ్యాపారం", roman: "vyāpāraṃ" }
+    ]
+  },
+  socialInteractions: {
+    name: "Social & People",
+    words: [
+      { en: "father", mr: "నాన్న", roman: "nānna" },
+      { en: "mother", mr: "అమ్మ", roman: "amma" },
+      { en: "brother", mr: "సోదరుడు", roman: "sōdaruḍu" },
+      { en: "sister", mr: "సోదరి", roman: "sōdari" },
+      { en: "friend", mr: "స్నేహితుడు", roman: "snēhituḍu" },
+      { en: "child", mr: "బిడ్డ", roman: "biḍḍa" },
+      { en: "man", mr: "మనిషి", roman: "maniṣi" },
+      { en: "woman", mr: "అమ్మాయి", roman: "ammāyi" },
+      { en: "family", mr: "కుటుంబం", roman: "kuṭuṃbaṃ" },
+      { en: "name", mr: "పేరు", roman: "pēru" }
+    ]
+  },
+  time: {
+    name: "Time & Dates",
+    words: [
+      { en: "time", mr: "సమయం", roman: "samayaṃ" },
+      { en: "hour", mr: "గంట", roman: "gaṇṭa" },
+      { en: "minute", mr: "నిమిషం", roman: "nimiṣaṃ" },
+      { en: "second", mr: "సెకను", roman: "sekannu" },
+      { en: "Monday", mr: "సోమవారం", roman: "sōmavāraṃ" },
+      { en: "Tuesday", mr: "మంగళవారం", roman: "maṃgaḷavāraṃ" },
+      { en: "Wednesday", mr: "బుధవారం", roman: "budhavāraṃ" },
+      { en: "Thursday", mr: "గురువారం", roman: "guruvāraṃ" },
+      { en: "Friday", mr: "శుక్రవారం", roman: "śukravāraṃ" },
+      { en: "Saturday", mr: "శనివారం", roman: "śanivāraṃ" },
+      { en: "Sunday", mr: "ఆదివారం", roman: "ādivāraṃ" },
+      { en: "week", mr: "వారం", roman: "vāraṃ" },
+      { en: "month", mr: "నెల", roman: "nela" },
+      { en: "year", mr: "సంవత్సరం", roman: "saṃvatsaraṃ" }
+    ]
+  },
+  transportation: {
+    name: "Transportation",
+    words: [
+      { en: "bus", mr: "బస్సు", roman: "bassu" },
+      { en: "train", mr: "రైలు", roman: "railu" },
+      { en: "car", mr: "కారు", roman: "kāru" },
+      { en: "bicycle", mr: "సైకిల్", roman: "saikil" },
+      { en: "auto", mr: "ఆటో", roman: "āṭō" },
+      { en: "road", mr: "రోడ్", roman: "rōḍ" },
+      { en: "station", mr: "స్టేషన్", roman: "sṭēṣan" },
+      { en: "airport", mr: "విమానాశ్రయం", roman: "vimānāśrayaṃ" },
+      { en: "to go", mr: "వెళ్ళు", roman: "veḷḷu" },
+      { en: "to come", mr: "రా", roman: "rā" }
+    ]
+  },
+  travel: {
+    name: "Travel",
+    words: [
+      { en: "travel", mr: "ప్రయాణం", roman: "prayāṇaṃ" },
+      { en: "ticket", mr: "టికెట్", roman: "ṭikeṭ" },
+      { en: "hotel", mr: "హోటల్", roman: "hōṭal" },
+      { en: "room", mr: "గది", roman: "gadi" },
+      { en: "baggage", mr: "సామాను", roman: "sāmānu" },
+      { en: "passport", mr: "పాస్పోర్ట్", roman: "pāspōrṭ" },
+      { en: "where", mr: "ఎక్కడ", roman: "ekkaḍa" },
+      { en: "here", mr: "ఇక్కడ", roman: "ikkaḍa" },
+      { en: "there", mr: "అక్కడ", roman: "akkaḍa" },
+      { en: "near", mr: "దగ్గర", roman: "daggara" }
+    ]
+  },
+  shopping: {
+    name: "Shopping",
+    words: [
+      { en: "shop", mr: "దుకాణం", roman: "dukāṇaṃ" },
+      { en: "market", mr: "మార్కెట్", roman: "mārkeṭ" },
+      { en: "price", mr: "ధర", roman: "dhara" },
+      { en: "cheap", mr: "చౌక", roman: "cauka" },
+      { en: "expensive", mr: "ఖరీదైన", roman: "kharīdaina" },
+      { en: "to buy", mr: "కొను", roman: "konu" },
+      { en: "to sell", mr: "అమ్ము", roman: "ammu" },
+      { en: "how much", mr: "ఎంత", roman: "eṃta" },
+      { en: "discount", mr: "డిస్కౌంట్", roman: "ḍiskauṇṭ" },
+      { en: "bill", mr: "బిల్లు", roman: "billu" }
+    ]
+  },
+  emergency: {
+    name: "Emergency",
+    words: [
+      { en: "help", mr: "సహాయం", roman: "sahāyaṃ" },
+      { en: "police", mr: "పోలీసు", roman: "pōlīsu" },
+      { en: "fire", mr: "అగ్ని", roman: "agni" },
+      { en: "danger", mr: "అపాయం", roman: "apāyaṃ" },
+      { en: "stop", mr: "ఆపు", roman: "āpu" },
+      { en: "call", mr: "కాల్ చేయు", roman: "kāl cēyu" },
+      { en: "doctor", mr: "డాక్టర్", roman: "ḍākṭar" },
+      { en: "ambulance", mr: "ఆంబులెన్స్", roman: "āṃbulens" },
+      { en: "I need help", mr: "నాకు సహాయం కావాలి", roman: "nāku sahāyaṃ kāvāli" },
+      { en: "emergency", mr: "అత్యవసరం", roman: "atyavasaraṃ" }
+    ]
+  }
+};

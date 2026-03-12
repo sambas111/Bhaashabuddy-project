@@ -1,0 +1,713 @@
+{
+  "majorLessons": [
+    {
+      "name": "Telugu Script - Writing & Pronunciation",
+      "sublessons": [
+        {
+          "title": "Telugu Alphabets (అక్షరమాల)",
+          "chapterId": 701
+        },
+        {
+          "title": "Vowels and Consonants in Telugu and their pronunciation",
+          "chapterId": 702
+        },
+        {
+          "title": "Telugu Barakhadi: Vowel signs with consonants (గుణింతాలు)",
+          "chapterId": 703
+        },
+        {
+          "title": "Frequently faced pronunciation problems in Telugu",
+          "chapterId": 704
+        },
+        {
+          "title": "Pronunciation of Anusvara (ం), Chandrabindu (ఁ) and Visarga (ః)",
+          "chapterId": 705
+        },
+        {
+          "title": "Combining consonants in Telugu (సమ్యుక్తాక్షరాలు)",
+          "chapterId": 706
+        },
+        {
+          "title": "Combining consonants with ర (ra) – Part 2",
+          "chapterId": 707
+        },
+        {
+          "title": "Combining consonants with హ (ha) – Part 3",
+          "chapterId": 708
+        },
+        {
+          "title": "Special or frequently used combined consonant patterns",
+          "chapterId": 709
+        }
+      ]
+    },
+    {
+      "name": "Sentence formation rules in different tenses & pronouns forms",
+      "sublessons": [
+        {
+          "title": "Pronouns and Articles in Telugu",
+          "chapterId": 710
+        },
+        {
+          "title": "Using plurals to indicate respect in Telugu",
+          "chapterId": 711
+        },
+        {
+          "title": "Verbs in Telugu",
+          "chapterId": 712
+        },
+        {
+          "title": "Simple Present Tense in Telugu",
+          "chapterId": 713
+        },
+        {
+          "title": "Simple Present Tense of \"To Be\" in Telugu",
+          "chapterId": 714
+        },
+        {
+          "title": "Present Continuous Tense in Telugu",
+          "chapterId": 715
+        },
+        {
+          "title": "Simple Future Tense in Telugu",
+          "chapterId": 716
+        },
+        {
+          "title": "Future Continuous Tense in Telugu",
+          "chapterId": 717
+        },
+        {
+          "title": "Simple Past Tense in Telugu – Part 1 (Verbs without object)",
+          "chapterId": 718
+        },
+        {
+          "title": "Simple Past Tense in Telugu – Part 2 (Verbs with object)",
+          "chapterId": 719
+        },
+        {
+          "title": "Simple Past Tense in Telugu – Part 3 (Past tense of \"to be\")",
+          "chapterId": 720
+        },
+        {
+          "title": "Exceptional Verbs in Telugu which change in past tense form",
+          "chapterId": 721
+        },
+        {
+          "title": "Past Continuous Tense in Telugu",
+          "chapterId": 722
+        },
+        {
+          "title": "Present/Past/Future Perfect Tense in Telugu",
+          "chapterId": 723
+        },
+        {
+          "title": "Learn Prepositions in Telugu",
+          "chapterId": 724
+        },
+        {
+          "title": "Preposition \"TO\" in Telugu",
+          "chapterId": 725
+        },
+        {
+          "title": "Sentences with person or living things as object in Telugu",
+          "chapterId": 726
+        },
+        {
+          "title": "Saying My/His/Her in Telugu",
+          "chapterId": 727
+        },
+        {
+          "title": "Basic questions and \"WH\" questions in Telugu",
+          "chapterId": 728
+        },
+        {
+          "title": "Negative Sentences – Present tense in Telugu",
+          "chapterId": 729
+        },
+        {
+          "title": "Negative Sentences – Past tense in Telugu",
+          "chapterId": 730
+        },
+        {
+          "title": "Negative Sentence – Future Tense in Telugu",
+          "chapterId": 731
+        },
+        {
+          "title": "Working with nouns – Gender & Plurals in Telugu",
+          "chapterId": 732
+        },
+        {
+          "title": "Working with nouns – Prepositions in Telugu",
+          "chapterId": 733
+        },
+        {
+          "title": "Prepositions with similar pronunciation or similar meanings in Telugu",
+          "chapterId": 734
+        },
+        {
+          "title": "Cases in Telugu (విభక్తులు)",
+          "chapterId": 735
+        },
+        {
+          "title": "Commands / Imperative statements in Telugu",
+          "chapterId": 736
+        },
+        {
+          "title": "Time related words in Telugu",
+          "chapterId": 737
+        },
+        {
+          "title": "Verbs indicating cause of action. Causative verb in Telugu",
+          "chapterId": 738
+        },
+        {
+          "title": "Vowel‑pattern style rule in Telugu (sound patterns)",
+          "chapterId": 739
+        },
+        {
+          "title": "Past/Present/Future Perfect Tense – Second Style in Telugu",
+          "chapterId": 740
+        },
+        {
+          "title": "Past/Present/Future Perfect Continuous tense in Telugu",
+          "chapterId": 741
+        },
+        {
+          "title": "Difference between కాదు (kādu) / వద్దు (vaddhu) and \"don’t want\"",
+          "chapterId": 742
+        }
+      ]
+    },
+    {
+      "name": "Phrases & other sentence structures",
+      "sublessons": [
+        {
+          "title": "Sentence using \"Going to\" phrase in Telugu",
+          "chapterId": 743
+        },
+        {
+          "title": "Sentence using \"Used to\" phrase in Telugu",
+          "chapterId": 744
+        },
+        {
+          "title": "Sentence using \"Used to\" phrase – old style in Telugu",
+          "chapterId": 745
+        },
+        {
+          "title": "Sentence using \"If-Then\" in Telugu",
+          "chapterId": 746
+        },
+        {
+          "title": "Prepositions with Verbs in Telugu",
+          "chapterId": 747
+        },
+        {
+          "title": "Adjectives in Telugu",
+          "chapterId": 748
+        },
+        {
+          "title": "Using verb \"Can / To be able to\" in Telugu",
+          "chapterId": 749
+        },
+        {
+          "title": "Using verb \"To Want / To Need\" in Telugu",
+          "chapterId": 750
+        },
+        {
+          "title": "Verb \"To Become / To Happen\" in Telugu",
+          "chapterId": 751
+        },
+        {
+          "title": "Using \"Should\" in Telugu",
+          "chapterId": 752
+        },
+        {
+          "title": "Using \"Must\" / \"to have to\" in Telugu",
+          "chapterId": 753
+        },
+        {
+          "title": "Using phrase \"to keep doing\" in Telugu",
+          "chapterId": 754
+        },
+        {
+          "title": "Comparison and degrees of comparison in Telugu",
+          "chapterId": 755
+        },
+        {
+          "title": "Using verb \"To Know\" in Telugu",
+          "chapterId": 756
+        },
+        {
+          "title": "Using \"Let\" and \"Shall we\" in Telugu",
+          "chapterId": 757
+        },
+        {
+          "title": "Which-That / What-That sentences in Telugu",
+          "chapterId": 758
+        },
+        {
+          "title": "Giving instructions formally in Telugu",
+          "chapterId": 759
+        },
+        {
+          "title": "Using \"To Like\" in Telugu",
+          "chapterId": 760
+        },
+        {
+          "title": "Sentences using \"Would\" in Telugu",
+          "chapterId": 761
+        },
+        {
+          "title": "\"To Understand\" & \"To come to know\" in Telugu",
+          "chapterId": 762
+        },
+        {
+          "title": "Add a question tag in Telugu",
+          "chapterId": 763
+        },
+        {
+          "title": "Using verb \"To remember\" in Telugu",
+          "chapterId": 764
+        },
+        {
+          "title": "Using \"To Want\" / \"To Need\" with other verbs in Telugu",
+          "chapterId": 765
+        },
+        {
+          "title": "Using \"To Want\" with other person in Telugu",
+          "chapterId": 766
+        },
+        {
+          "title": "Using phrase \"supposed to\" in Telugu",
+          "chapterId": 767
+        },
+        {
+          "title": "Using \"To Like\" with other verbs in Telugu",
+          "chapterId": 768
+        },
+        {
+          "title": "Verbs which use preposition \"To\" with subject and verb form as per object in Telugu",
+          "chapterId": 769
+        },
+        {
+          "title": "Short forms in spoken Telugu",
+          "chapterId": 770
+        },
+        {
+          "title": "Greetings, Wishes, Blessings, Slogans in Telugu",
+          "chapterId": 771
+        },
+        {
+          "title": "Compound verbs / Phrases in Telugu",
+          "chapterId": 772
+        },
+        {
+          "title": "Calling or Addressing someone in Telugu",
+          "chapterId": 773
+        },
+        {
+          "title": "Exclamations in Telugu",
+          "chapterId": 774
+        },
+        {
+          "title": "Requesting someone – \"May I\", \"Can you\" etc. in Telugu",
+          "chapterId": 775
+        },
+        {
+          "title": "Showing uncertainty using May, Might in Telugu",
+          "chapterId": 776
+        },
+        {
+          "title": "Adjectives made from verb in Telugu",
+          "chapterId": 777
+        },
+        {
+          "title": "Adjectives related to prepositions in Telugu",
+          "chapterId": 778
+        },
+        {
+          "title": "Using May to express wish in Telugu",
+          "chapterId": 779
+        },
+        {
+          "title": "Phrase \"To Make Someone do something\" in Telugu",
+          "chapterId": 780
+        },
+        {
+          "title": "To emphasize word in Telugu",
+          "chapterId": 781
+        },
+        {
+          "title": "Generalising words – somewhere, somehow, anything, anybody etc. in Telugu",
+          "chapterId": 782
+        },
+        {
+          "title": "\"To have\" to indicate possession and relation in Telugu",
+          "chapterId": 783
+        },
+        {
+          "title": "Using \"To mean\". How to ask meaning in Telugu",
+          "chapterId": 784
+        },
+        {
+          "title": "Conjunctions in Telugu – Part 1 And, But, Because, So, That",
+          "chapterId": 785
+        },
+        {
+          "title": "Conjunctions in Telugu – Part 2 As, Or, If, in case, provided",
+          "chapterId": 786
+        },
+        {
+          "title": "Conjunctions in Telugu – Part 3 After, then, As far as, As long as",
+          "chapterId": 787
+        },
+        {
+          "title": "Conjunctions in Telugu Part 4 – As soon as, Once, Rather than, So that",
+          "chapterId": 788
+        },
+        {
+          "title": "List of Conjunctions in Telugu",
+          "chapterId": 789
+        },
+        {
+          "title": "Combining sentences – change in form of verb in Telugu",
+          "chapterId": 790
+        },
+        {
+          "title": "Compound verbs in Telugu",
+          "chapterId": 791
+        },
+        {
+          "title": "Active Passive voice in Telugu",
+          "chapterId": 792
+        },
+        {
+          "title": "Active Passive voice in Telugu – Style 2",
+          "chapterId": 793
+        },
+        {
+          "title": "Using \"To Feel\" & \"To think\" in Telugu",
+          "chapterId": 794
+        },
+        {
+          "title": "Idioms and Phrases in Telugu / different sentence formation",
+          "chapterId": 795
+        },
+        {
+          "title": "Idioms and Phrases in Telugu Part 2",
+          "chapterId": 796
+        },
+        {
+          "title": "Sentences using \"If-Then\" Style 2 in Telugu",
+          "chapterId": 797
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "sublessons": [
+        {
+          "title": "List of Body parts in Telugu",
+          "chapterId": 798
+        },
+        {
+          "title": "Greetings & Basics in Telugu",
+          "chapterId": 799
+        },
+        {
+          "title": "Frequently used words – Miscellaneous in Telugu",
+          "chapterId": 800
+        },
+        {
+          "title": "Relations in Telugu",
+          "chapterId": 801
+        },
+        {
+          "title": "Numbers in Telugu – Part 1",
+          "chapterId": 802
+        },
+        {
+          "title": "Numbers in Telugu – Part 2",
+          "chapterId": 803
+        },
+        {
+          "title": "Fractional numbers, sequence, percentage in Telugu",
+          "chapterId": 804
+        },
+        {
+          "title": "Frequently used verbs in Telugu – Part 1",
+          "chapterId": 805
+        },
+        {
+          "title": "Frequently used verbs in Telugu – Part 2",
+          "chapterId": 806
+        },
+        {
+          "title": "Frequently used verbs in Telugu – Part 3",
+          "chapterId": 807
+        },
+        {
+          "title": "Frequently used verbs in Telugu – Part 4",
+          "chapterId": 808
+        },
+        {
+          "title": "పెట్టడం (peṭṭaḍaṃ) – one verb, multiple meanings in Telugu",
+          "chapterId": 809
+        },
+        {
+          "title": "చేయడం (cēyaḍaṃ) – one verb, multiple meanings in Telugu",
+          "chapterId": 810
+        },
+        {
+          "title": "List of Telugu Adjectives – Part 1",
+          "chapterId": 811
+        },
+        {
+          "title": "Adverbs in Telugu – Part 1",
+          "chapterId": 812
+        },
+        {
+          "title": "List of adverbs in Telugu",
+          "chapterId": 813
+        },
+        {
+          "title": "List of vegetable names in Telugu",
+          "chapterId": 814
+        },
+        {
+          "title": "List of names of fruits in Telugu",
+          "chapterId": 815
+        },
+        {
+          "title": "List of names of birds in Telugu",
+          "chapterId": 816
+        },
+        {
+          "title": "List of names of insects in Telugu",
+          "chapterId": 817
+        },
+        {
+          "title": "List of names of colours in Telugu",
+          "chapterId": 818
+        },
+        {
+          "title": "List of names of flowers in Telugu",
+          "chapterId": 819
+        },
+        {
+          "title": "List of names of animals in Telugu",
+          "chapterId": 820
+        },
+        {
+          "title": "Food & Drink in Telugu",
+          "chapterId": 821
+        },
+        {
+          "title": "Daily Life, Time, Transportation in Telugu",
+          "chapterId": 822
+        },
+        {
+          "title": "Shopping, Travel, Emergency in Telugu",
+          "chapterId": 823
+        },
+        {
+          "title": "Frequently used or common words in Telugu – Miscellaneous",
+          "chapterId": 824
+        }
+      ]
+    },
+    {
+      "name": "Conversation practice",
+      "sublessons": [
+        {
+          "title": "Diwali Festival in Telugu",
+          "chapterId": 825
+        },
+        {
+          "title": "Sankranti Festival in Telugu",
+          "chapterId": 826
+        },
+        {
+          "title": "Simple Sentences in Telugu – Introduction/Salutation",
+          "chapterId": 827
+        },
+        {
+          "title": "Simple Telugu Sentences – Time Related",
+          "chapterId": 828
+        },
+        {
+          "title": "Simple Telugu Sentences – Where/Place Related",
+          "chapterId": 829
+        },
+        {
+          "title": "Simple Telugu Sentences – In Hotel",
+          "chapterId": 830
+        },
+        {
+          "title": "Simple Telugu sentences – Weather related",
+          "chapterId": 831
+        },
+        {
+          "title": "Telugu conversation – with traffic police",
+          "chapterId": 832
+        },
+        {
+          "title": "Simple Telugu conversation – Auto/Taxi driver",
+          "chapterId": 833
+        },
+        {
+          "title": "Simple Telugu Conversation – Software Engineers",
+          "chapterId": 834
+        },
+        {
+          "title": "Simple Telugu conversation – Grocery shop",
+          "chapterId": 835
+        },
+        {
+          "title": "Simple Telugu Conversation – Doctor-Patient",
+          "chapterId": 836
+        },
+        {
+          "title": "Simple Telugu Conversation – Teacher & Students",
+          "chapterId": 837
+        },
+        {
+          "title": "Simple Telugu conversation – Informal phone conversation",
+          "chapterId": 838
+        },
+        {
+          "title": "Simple Telugu conversation – Vegetable Market",
+          "chapterId": 839
+        },
+        {
+          "title": "Simple Telugu Conversation – at bus stop and in bus",
+          "chapterId": 840
+        },
+        {
+          "title": "Asking address in Telugu",
+          "chapterId": 841
+        },
+        {
+          "title": "I Love you in Telugu – Proposing someone",
+          "chapterId": 842
+        },
+        {
+          "title": "Simple Telugu Conversation – Interview",
+          "chapterId": 843
+        },
+        {
+          "title": "Simple Telugu conversation – with housemaid",
+          "chapterId": 844
+        },
+        {
+          "title": "Simple Telugu conversation – In Bank",
+          "chapterId": 845
+        },
+        {
+          "title": "Simple Telugu conversation – Enquiry about Temple Visit",
+          "chapterId": 846
+        },
+        {
+          "title": "Simple Telugu conversation – with friend's parents at lunch table",
+          "chapterId": 847
+        },
+        {
+          "title": "Simple Telugu conversation – Friends talking about food and meal",
+          "chapterId": 848
+        },
+        {
+          "title": "Frequently used sentences in Telugu – miscellaneous",
+          "chapterId": 849
+        },
+        {
+          "title": "Frequently used sentences in Telugu – miscellaneous part 2",
+          "chapterId": 850
+        },
+        {
+          "title": "Simple Telugu conversation – Quarrel at home",
+          "chapterId": 851
+        },
+        {
+          "title": "Simple Telugu conversation – Linking AADHAR card to mobile number",
+          "chapterId": 852
+        },
+        {
+          "title": "Simple Telugu conversation – Linking mobile number to AADHAR card",
+          "chapterId": 853
+        },
+        {
+          "title": "Simple Telugu conversation – Republic Day 26th January celebration in India",
+          "chapterId": 854
+        },
+        {
+          "title": "Simple Telugu conversation – Friends talking about football match",
+          "chapterId": 855
+        },
+        {
+          "title": "Simple Telugu conversation – Friends plan to watch movie",
+          "chapterId": 856
+        },
+        {
+          "title": "Simple Telugu conversation – Friends talking about football world cup",
+          "chapterId": 857
+        },
+        {
+          "title": "Simple Telugu conversation – Tour guide with Telugu tourists",
+          "chapterId": 858
+        },
+        {
+          "title": "Simple Telugu Conversation – Telugu Language Proficiency Test (LPT) for banks",
+          "chapterId": 859
+        },
+        {
+          "title": "Simple Telugu conversation – About hobby class",
+          "chapterId": 860
+        },
+        {
+          "title": "Learn Telugu by Communicative Approach",
+          "chapterId": 861
+        },
+        {
+          "title": "Simple Telugu sentences practice – 1",
+          "chapterId": 862
+        },
+        {
+          "title": "Telugu practice session – prepositions 4",
+          "chapterId": 863
+        },
+        {
+          "title": "Telugu practice session – prepositions 5",
+          "chapterId": 864
+        },
+        {
+          "title": "Telugu practice session – prepositions 6",
+          "chapterId": 865
+        },
+        {
+          "title": "Telugu jokes – Learn Telugu in a fun way",
+          "chapterId": 866
+        },
+        {
+          "title": "Daily Telugu reading practice – jokes, thoughts, quotes",
+          "chapterId": 867
+        },
+        {
+          "title": "Simple Telugu sentences – My experience with Social Media",
+          "chapterId": 868
+        },
+        {
+          "title": "Conversation about the eclipse in Telugu",
+          "chapterId": 869
+        },
+        {
+          "title": "International Women's Day in Telugu",
+          "chapterId": 870
+        },
+        {
+          "title": "Learning Telugu with Celebrities",
+          "chapterId": 871
+        }
+      ]
+    }
+  ]
+}

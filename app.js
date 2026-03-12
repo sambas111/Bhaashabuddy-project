@@ -5879,6 +5879,19 @@ const LANGUAGES = {
     structureFile: "lessons_structure_maithili.json",
     PHRASES: typeof MAITHILI_PHRASES !== "undefined" ? MAITHILI_PHRASES : {},
     DICTIONARY: typeof MAITHILI_DICTIONARY !== "undefined" ? MAITHILI_DICTIONARY : []
+  },
+  telugu: {
+    name: "Telugu",
+    code: "te",
+    subtitle: "తెలుగు నేర్చుకోండి",
+    scriptFont: "'Noto Sans Telugu', sans-serif",
+    speechLang: "te-IN",
+    dataSource: "BhaashaBuddy (web)",
+    hasLessons: true,
+    dataFile: "data_telugu.json",
+    structureFile: "lessons_structure_telugu.json",
+    PHRASES: typeof TELUGU_PHRASES !== "undefined" ? TELUGU_PHRASES : {},
+    DICTIONARY: typeof TELUGU_DICTIONARY !== "undefined" ? TELUGU_DICTIONARY : []
   }
 };
 
@@ -6481,8 +6494,9 @@ function formatChapterFromData(ch) {
     const rows = tbl.rows || [];
     if (headers.length !== 2 || rows.length === 0) return false;
     const hStr = (headers[0] + ' ' + headers[1]).toLowerCase();
-    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|script/.test(hStr)) return false;
-    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u097F\u0B80-\u0BFF\u0C80-\u0CFF]/.test(String(r[0])));
+    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|telugu|script/.test(hStr)) return false;
+    // Any Indian-script letter (Devanagari, Gurmukhi, Gujarati, Bengali, Telugu, Kannada, Tamil, etc.)
+    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u0D7F]/.test(String(r[0])));
   };
 
   const renderAlphabetGrid = (tbl) => {
@@ -6522,7 +6536,7 @@ function formatChapterFromData(ch) {
     (tbl.rows || []).forEach(row => {
       h += '<tr>';
       row.forEach((cell, i) => {
-        const isScript = /[\u0900-\u097F\u0A00-\u0A7F\u0B80-\u0BFF\u0C80-\u0CFF]/.test(cell);
+        const isScript = /[\u0900-\u0D7F]/.test(cell);
         const cls = isScript ? ' class="busuu-script-cell"' : '';
         const style = isScript ? ' style="font-family:' + getScriptFont() + '"' : '';
         h += '<td' + cls + style + '>' + escape(cell) + '</td>';
