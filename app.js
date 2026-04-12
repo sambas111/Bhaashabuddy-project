@@ -5931,6 +5931,19 @@ const LANGUAGES = {
     structureFile: "lessons_structure_malayalam.json",
     PHRASES: typeof MALAYALAM_PHRASES !== "undefined" ? MALAYALAM_PHRASES : {},
     DICTIONARY: typeof MALAYALAM_DICTIONARY !== "undefined" ? MALAYALAM_DICTIONARY : []
+  },
+  nepali: {
+    name: "Nepali",
+    code: "ne",
+    subtitle: "नेपाली सिकौं",
+    scriptFont: "'Noto Sans Devanagari', sans-serif",
+    speechLang: "ne-NP",
+    dataSource: "BhaashaBuddy (web)",
+    hasLessons: true,
+    dataFile: "data_nepali.json",
+    structureFile: "lessons_structure_nepali.json",
+    PHRASES: {},
+    DICTIONARY: []
   }
 };
 
@@ -6533,7 +6546,7 @@ function formatChapterFromData(ch) {
     const rows = tbl.rows || [];
     if (headers.length !== 2 || rows.length === 0) return false;
     const hStr = (headers[0] + ' ' + headers[1]).toLowerCase();
-    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|telugu|bengali|bangla|assamese|malayalam|script/.test(hStr)) return false;
+    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|telugu|bengali|bangla|assamese|malayalam|nepali|script/.test(hStr)) return false;
     // Any Indian-script letter (Devanagari, Gurmukhi, Gujarati, Bengali, Telugu, Kannada, Tamil, etc.)
     return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u0D7F]/.test(String(r[0])));
   };
