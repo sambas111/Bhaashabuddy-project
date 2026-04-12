@@ -5892,6 +5892,45 @@ const LANGUAGES = {
     structureFile: "lessons_structure_telugu.json",
     PHRASES: typeof TELUGU_PHRASES !== "undefined" ? TELUGU_PHRASES : {},
     DICTIONARY: typeof TELUGU_DICTIONARY !== "undefined" ? TELUGU_DICTIONARY : []
+  },
+  bengali: {
+    name: "Bengali",
+    code: "bn",
+    subtitle: "বাংলা শিখুন",
+    scriptFont: "'Noto Sans Bengali', sans-serif",
+    speechLang: "bn-IN",
+    dataSource: "BhaashaBuddy (web)",
+    hasLessons: true,
+    dataFile: "data_bengali.json",
+    structureFile: "lessons_structure_bengali.json",
+    PHRASES: typeof BENGALI_PHRASES !== "undefined" ? BENGALI_PHRASES : {},
+    DICTIONARY: typeof BENGALI_DICTIONARY !== "undefined" ? BENGALI_DICTIONARY : []
+  },
+  assamese: {
+    name: "Assamese",
+    code: "as",
+    subtitle: "অসমীয়া শিকক",
+    scriptFont: "'Noto Sans Bengali', sans-serif",
+    speechLang: "as-IN",
+    dataSource: "BhaashaBuddy (web)",
+    hasLessons: true,
+    dataFile: "data_assamese.json",
+    structureFile: "lessons_structure_assamese.json",
+    PHRASES: typeof ASSAMESE_PHRASES !== "undefined" ? ASSAMESE_PHRASES : {},
+    DICTIONARY: typeof ASSAMESE_DICTIONARY !== "undefined" ? ASSAMESE_DICTIONARY : []
+  },
+  malayalam: {
+    name: "Malayalam",
+    code: "ml",
+    subtitle: "മലയാളം പഠിക്കാം",
+    scriptFont: "'Noto Sans Malayalam', sans-serif",
+    speechLang: "ml-IN",
+    dataSource: "BhaashaBuddy (web)",
+    hasLessons: true,
+    dataFile: "data_malayalam.json",
+    structureFile: "lessons_structure_malayalam.json",
+    PHRASES: typeof MALAYALAM_PHRASES !== "undefined" ? MALAYALAM_PHRASES : {},
+    DICTIONARY: typeof MALAYALAM_DICTIONARY !== "undefined" ? MALAYALAM_DICTIONARY : []
   }
 };
 
@@ -6494,7 +6533,7 @@ function formatChapterFromData(ch) {
     const rows = tbl.rows || [];
     if (headers.length !== 2 || rows.length === 0) return false;
     const hStr = (headers[0] + ' ' + headers[1]).toLowerCase();
-    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|telugu|script/.test(hStr)) return false;
+    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|telugu|bengali|bangla|assamese|malayalam|script/.test(hStr)) return false;
     // Any Indian-script letter (Devanagari, Gurmukhi, Gujarati, Bengali, Telugu, Kannada, Tamil, etc.)
     return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u0D7F]/.test(String(r[0])));
   };

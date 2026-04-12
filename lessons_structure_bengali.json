@@ -1,0 +1,218 @@
+{
+  "majorLessons": [
+    {
+      "name": "Bengali Script - Writing & Pronunciation",
+      "sublessons": [
+        {
+          "title": "Bengali Alphabets – Bangla Barnamala (Eastern Nagari)",
+          "chapterId": 501
+        },
+        {
+          "title": "Vowels, Consonants in Bengali and their pronunciation",
+          "chapterId": 502
+        },
+        {
+          "title": "Bengali Barakhadi: Symbols for vowels with consonants",
+          "chapterId": 503
+        },
+        {
+          "title": "Frequently faced pronunciation problems in Bengali (Bangla script)",
+          "chapterId": 504
+        },
+        {
+          "title": "Pronunciation of Anusvara (ং) and related symbols in Bengali",
+          "chapterId": 505
+        },
+        {
+          "title": "Combining consonants in Bengali (যুক্তাক্ষর)",
+          "chapterId": 506
+        },
+        {
+          "title": "Combining consonants with র (r) – Bengali যুক্তাক্ষর Part 2",
+          "chapterId": 507
+        },
+        {
+          "title": "Combining consonants with হ (h) – Bengali যুক্তাক্ষর Part 3",
+          "chapterId": 508
+        },
+        {
+          "title": "Special or separate symbols for combined consonants in Bengali",
+          "chapterId": 509
+        }
+      ]
+    },
+    {
+      "name": "Sentence formation rules in different tenses & pronouns forms",
+      "sublessons": [
+        { "title": "Pronouns and Articles in Bengali", "chapterId": 510 },
+        { "title": "Using plurals to indicate respect in Bengali", "chapterId": 511 },
+        { "title": "Verbs in Bengali", "chapterId": 512 },
+        { "title": "Simple Present Tense in Bengali", "chapterId": 513 },
+        { "title": "Simple Present Tense of \"To Be\" in Bengali", "chapterId": 514 },
+        { "title": "Present Continuous Tense in Bengali", "chapterId": 515 },
+        { "title": "Simple Future Tense in Bengali", "chapterId": 516 },
+        { "title": "Future Continuous Tense in Bengali", "chapterId": 517 },
+        { "title": "Simple Past Tense in Bengali – Part 1 (Verbs without object)", "chapterId": 518 },
+        { "title": "Simple Past Tense in Bengali – Part 2 (Verbs with object)", "chapterId": 519 },
+        { "title": "Simple Past Tense in Bengali – Part 3 (Past tense of \"to be\")", "chapterId": 520 },
+        { "title": "Exceptional Verbs in Bengali which change in past tense form", "chapterId": 521 },
+        { "title": "Past Continuous Tense in Bengali", "chapterId": 522 },
+        { "title": "Present/Past/Future Perfect Tense in Bengali", "chapterId": 523 },
+        { "title": "Learn Prepositions in Bengali", "chapterId": 524 },
+        { "title": "Preposition \"TO\" in Bengali", "chapterId": 525 },
+        { "title": "Sentences with person or living things as object in Bengali", "chapterId": 526 },
+        { "title": "Saying My/His/Her in Bengali", "chapterId": 527 },
+        { "title": "Basic questions and \"WH\" questions in Bengali", "chapterId": 528 },
+        { "title": "Negative Sentences – Present tense in Bengali", "chapterId": 529 },
+        { "title": "Negative Sentences – Past tense in Bengali", "chapterId": 530 },
+        { "title": "Negative Sentence – Future Tense in Bengali", "chapterId": 531 },
+        { "title": "Working with nouns – Gender & Plurals in Bengali", "chapterId": 532 },
+        { "title": "Working with nouns – Prepositions in Bengali", "chapterId": 533 },
+        { "title": "Prepositions with similar pronunciation or similar meanings in Bengali", "chapterId": 534 },
+        { "title": "Cases in Bengali (কারক)", "chapterId": 535 },
+        { "title": "Commands / Imperative statements in Bengali", "chapterId": 536 },
+        { "title": "Time related words in Bengali", "chapterId": 537 },
+        { "title": "Verbs indicating cause of action (Causative verb) in Bengali", "chapterId": 538 },
+        { "title": "Gender-number agreement rule in Bengali", "chapterId": 539 },
+        { "title": "Past/Present/Future Perfect Tense – Second Style in Bengali", "chapterId": 540 },
+        { "title": "Past/Present/Future Perfect Continuous tense in Bengali", "chapterId": 541 },
+        { "title": "Difference between \"no/not\" and \"don't want\" in Bengali", "chapterId": 542 }
+      ]
+    },
+    {
+      "name": "Phrases & other sentence structures",
+      "sublessons": [
+        { "title": "Sentence using \"Going to\" phrase in Bengali", "chapterId": 543 },
+        { "title": "Sentence using \"Used to\" phrase in Bengali", "chapterId": 544 },
+        { "title": "Sentence using \"Used to\" phrase – old style in Bengali", "chapterId": 545 },
+        { "title": "Sentence using \"If-Then\" in Bengali", "chapterId": 546 },
+        { "title": "Prepositions with Verbs in Bengali", "chapterId": 547 },
+        { "title": "Adjectives in Bengali", "chapterId": 548 },
+        { "title": "Using verb \"Can/To be able to\" in Bengali", "chapterId": 549 },
+        { "title": "Using verb To Want/To Need in Bengali", "chapterId": 550 },
+        { "title": "Verb \"To Become/To Happen\" in Bengali", "chapterId": 551 },
+        { "title": "Using \"Should\" in Bengali", "chapterId": 552 },
+        { "title": "Using \"Must\"/\"to be have to\" in Bengali", "chapterId": 553 },
+        { "title": "Using phrase \"to keep doing\" in Bengali", "chapterId": 554 },
+        { "title": "Comparison and degrees of comparison in Bengali", "chapterId": 555 },
+        { "title": "Using verb \"To Know\" in Bengali", "chapterId": 556 },
+        { "title": "Using \"Let\" and \"Shall we\" in Bengali", "chapterId": 557 },
+        { "title": "Which-That / What-That sentences in Bengali", "chapterId": 558 },
+        { "title": "Giving instructions formally in Bengali", "chapterId": 559 },
+        { "title": "Using \"To Like\" in Bengali", "chapterId": 560 },
+        { "title": "Sentences using \"would\" in Bengali", "chapterId": 561 },
+        { "title": "\"To Understand\" & \"To come to know\" in Bengali", "chapterId": 562 },
+        { "title": "Add a question tag in Bengali", "chapterId": 563 },
+        { "title": "Using verb \"To remember\" in Bengali", "chapterId": 564 },
+        { "title": "Using \"To Want\"/\"To Need\" with other verbs in Bengali", "chapterId": 565 },
+        { "title": "Using \"To Want\" with other person in Bengali", "chapterId": 566 },
+        { "title": "Using phrase \"supposed to\" in Bengali", "chapterId": 567 },
+        { "title": "Using \"To Like\" with other verbs in Bengali", "chapterId": 568 },
+        { "title": "Verbs which use preposition \"To\" with subject and verb form as per object in Bengali", "chapterId": 569 },
+        { "title": "Short forms in spoken Bengali", "chapterId": 570 },
+        { "title": "Greeting, Wishes, Blessings, Slogans in Bengali", "chapterId": 571 },
+        { "title": "Compound verbs / Phrases in Bengali", "chapterId": 572 },
+        { "title": "Calling or Addressing someone in Bengali", "chapterId": 573 },
+        { "title": "Exclamations in Bengali", "chapterId": 574 },
+        { "title": "Requesting someone – \"May I\", \"Can you\" etc. in Bengali", "chapterId": 575 },
+        { "title": "Showing uncertainty using May, Might in Bengali", "chapterId": 576 },
+        { "title": "Adjectives made from verb in Bengali", "chapterId": 577 },
+        { "title": "Adjectives related to prepositions in Bengali", "chapterId": 578 },
+        { "title": "Using May to express wish in Bengali", "chapterId": 579 },
+        { "title": "Phrase \"To Make Someone do something\" in Bengali", "chapterId": 580 },
+        { "title": "Generalizing words – somewhere, somehow, anything, anybody etc. in Bengali", "chapterId": 581 },
+        { "title": "\"To have\" to indicate possession and relation in Bengali", "chapterId": 582 },
+        { "title": "Using \"To mean\". How to ask meaning in Bengali", "chapterId": 583 },
+        { "title": "Conjunctions in Bengali – Part 1 (And, But, Because, So, That, Although, Though, Still, Yet)", "chapterId": 584 },
+        { "title": "Conjunctions in Bengali – Part 2 (As, Or, Neither, Nor, If, in case, provided)", "chapterId": 585 },
+        { "title": "Conjunctions in Bengali – Part 3 (After, then, As far as, As long as, As if)", "chapterId": 586 },
+        { "title": "Conjunctions in Bengali – Part 4 (As Soon as, Once, Rather Than, Instead of, So that)", "chapterId": 587 },
+        { "title": "List of Conjunctions in Bengali", "chapterId": 588 },
+        { "title": "Combining sentences in Bengali", "chapterId": 589 },
+        { "title": "Compound verbs in Bengali", "chapterId": 590 },
+        { "title": "Active Passive voice in Bengali", "chapterId": 591 },
+        { "title": "Active Passive voice in Bengali – Style 2", "chapterId": 592 },
+        { "title": "Using \"To Feel\" & \"To think\" in Bengali", "chapterId": 593 },
+        { "title": "Idioms and Phrases in Bengali", "chapterId": 594 },
+        { "title": "Idioms and Phrases in Bengali – Part 2", "chapterId": 595 },
+        { "title": "Sentences using \"If-Then\" Style 2 in Bengali", "chapterId": 596 }
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "sublessons": [
+        { "title": "List of Body parts in Bengali", "chapterId": 597 },
+        { "title": "Frequently used words – Miscellaneous in Bengali", "chapterId": 598 },
+        { "title": "Relations in Bengali", "chapterId": 599 },
+        { "title": "Numbers in Bengali – Part 1", "chapterId": 600 },
+        { "title": "Numbers in Bengali – Part 2", "chapterId": 601 },
+        { "title": "Fractional numbers, sequence, percentage in Bengali", "chapterId": 602 },
+        { "title": "Frequently used verbs in Bengali – Part 1", "chapterId": 603 },
+        { "title": "Frequently used verbs in Bengali – Part 2", "chapterId": 604 },
+        { "title": "Frequently used verbs in Bengali – Part 3", "chapterId": 605 },
+        { "title": "Frequently used verbs in Bengali – Part 4", "chapterId": 606 },
+        { "title": "One verb, multiple meanings – দেওয়া / দেয়া in Bengali", "chapterId": 607 },
+        { "title": "One verb, multiple meanings – লাগা in Bengali", "chapterId": 608 },
+        { "title": "List of Bengali Adjectives – Part 1", "chapterId": 609 },
+        { "title": "Adverbs in Bengali – Part 1", "chapterId": 610 },
+        { "title": "List of adverbs in Bengali", "chapterId": 611 },
+        { "title": "List of vegetable names in Bengali", "chapterId": 612 },
+        { "title": "List of names of fruits in Bengali", "chapterId": 613 },
+        { "title": "List of names of birds in Bengali", "chapterId": 614 },
+        { "title": "List of names of insects in Bengali", "chapterId": 615 },
+        { "title": "List of colours in Bengali", "chapterId": 616 },
+        { "title": "List of names of flowers in Bengali", "chapterId": 617 },
+        { "title": "List of names of animals in Bengali", "chapterId": 618 },
+        { "title": "Frequently used or common words in Bengali – Miscellaneous", "chapterId": 619 }
+      ]
+    },
+    {
+      "name": "Conversation practice",
+      "sublessons": [
+        { "title": "Diwali Festival in Bengali", "chapterId": 620 },
+        { "title": "Simple Sentences in Bengali – Introduction/Salutation", "chapterId": 621 },
+        { "title": "Simple Bengali Sentences – Time Related", "chapterId": 622 },
+        { "title": "Simple Bengali Sentences – Where/Place Related", "chapterId": 623 },
+        { "title": "Simple Bengali Sentences – In Hotel", "chapterId": 624 },
+        { "title": "Simple Bengali sentences – Weather related", "chapterId": 625 },
+        { "title": "Bengali conversation – with traffic police", "chapterId": 626 },
+        { "title": "Simple Bengali conversation – Rickshaw/Taxi driver", "chapterId": 627 },
+        { "title": "Simple Bengali Conversation – Software Engineers", "chapterId": 628 },
+        { "title": "Simple Bengali conversation – Grocery shop", "chapterId": 629 },
+        { "title": "Simple Bengali Conversation – Doctor-Patient", "chapterId": 630 },
+        { "title": "Simple Bengali Conversation – Teacher & Students", "chapterId": 631 },
+        { "title": "Simple Bengali conversation – Informal phone conversation", "chapterId": 632 },
+        { "title": "Simple Bengali conversation – Vegetable Market", "chapterId": 633 },
+        { "title": "Simple Bengali Conversation – at bus stop and in bus", "chapterId": 634 },
+        { "title": "Asking address in Bengali", "chapterId": 635 },
+        { "title": "I Love you in Bengali – Proposing someone", "chapterId": 636 },
+        { "title": "Simple Bengali Conversation – Interview", "chapterId": 637 },
+        { "title": "Simple Bengali conversation – with housemaid", "chapterId": 638 },
+        { "title": "Simple Bengali conversation: Linking AADHAR card to mobile number", "chapterId": 639 },
+        { "title": "Simple Bengali conversation: Linking mobile number to AADHAR card", "chapterId": 640 },
+        { "title": "Simple Bengali conversation – Republic Day 26th January celebration", "chapterId": 641 },
+        { "title": "Simple Bengali conversation – In Bank", "chapterId": 642 },
+        { "title": "Simple Bengali conversation – Enquiry about Temple Visit", "chapterId": 643 },
+        { "title": "Simple Bengali conversation – with friend's parents at lunch table", "chapterId": 644 },
+        { "title": "Simple Bengali conversation – Friend talking about football match", "chapterId": 645 },
+        { "title": "Simple Bengali conversation – Friends plan to watch movie", "chapterId": 646 },
+        { "title": "Simple Bengali conversation – Friends talking about football world cup", "chapterId": 647 },
+        { "title": "Simple Bengali conversation – Tour guide with tourists", "chapterId": 648 },
+        { "title": "Simple Bengali Conversation – Language Proficiency Test for banks", "chapterId": 649 },
+        { "title": "Simple Bengali conversation about food, lunch, meal", "chapterId": 650 },
+        { "title": "Simple Bengali Conversation – About hobby class", "chapterId": 651 },
+        { "title": "Frequently used sentences in Bengali – miscellaneous", "chapterId": 652 },
+        { "title": "Frequently used sentences in Bengali – miscellaneous part 2", "chapterId": 653 },
+        { "title": "Learn Bengali by Communicative Approach", "chapterId": 654 },
+        { "title": "Simple Bengali sentences practice – 1", "chapterId": 655 },
+        { "title": "Bengali practice session – prepositions", "chapterId": 656 },
+        { "title": "Bengali jokes – Learn Bengali in a fun way", "chapterId": 657 },
+        { "title": "Daily Bengali reading practice – jokes, thoughts, quotes", "chapterId": 658 },
+        { "title": "Simple Bengali sentences – My experience with Social Media", "chapterId": 659 },
+        { "title": "Conversation about the eclipse in Bengali", "chapterId": 660 },
+        { "title": "International Women's Day in Bengali", "chapterId": 661 },
+        { "title": "Simple Bengali conversation – Quarrel at home", "chapterId": 662 }
+      ]
+    }
+  ]
+}
