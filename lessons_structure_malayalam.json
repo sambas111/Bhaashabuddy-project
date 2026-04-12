@@ -4,7 +4,7 @@
       "name": "Malayalam Script - Writing & Pronunciation",
       "sublessons": [
         {
-          "title": "Malayalam Alphabets – Malayalam Lipi",
+          "title": "Malayalam Alphabets – Malayalam Barnamala (Malayalam script)",
           "chapterId": 501
         },
         {
@@ -24,15 +24,15 @@
           "chapterId": 505
         },
         {
-          "title": "Combining consonants in Malayalam (കൂട്ടക്ഷരം)",
+          "title": "Combining consonants in Malayalam (যুক্তাক্ষর)",
           "chapterId": 506
         },
         {
-          "title": "Combining consonants with ര (r) – Malayalam കൂട്ടക്ഷരം Part 2",
+          "title": "Combining consonants with র (r) – Malayalam যুক্তাক্ষর Part 2",
           "chapterId": 507
         },
         {
-          "title": "Combining consonants with ഹ (h) – Malayalam കൂട്ടക്ഷരം Part 3",
+          "title": "Combining consonants with হ (h) – Malayalam যুক্তাক্ষর Part 3",
           "chapterId": 508
         },
         {
@@ -145,7 +145,7 @@
           "chapterId": 534
         },
         {
-          "title": "Cases in Malayalam (വിഭക്തി)",
+          "title": "Cases in Malayalam (কারক)",
           "chapterId": 535
         },
         {
@@ -443,11 +443,11 @@
           "chapterId": 606
         },
         {
-          "title": "One verb, multiple meanings – ചെയ്യുക in Malayalam",
+          "title": "One verb, multiple meanings – দেওয়া / দেয়া in Malayalam",
           "chapterId": 607
         },
         {
-          "title": "One verb, multiple meanings – വേണം in Malayalam",
+          "title": "One verb, multiple meanings – লাগা in Malayalam",
           "chapterId": 608
         },
         {
