@@ -1,0 +1,677 @@
+{
+  "majorLessons": [
+    {
+      "name": "Hindi Script - Writing & Pronunciation",
+      "sublessons": [
+        {
+          "title": "Hindi Alphabets – Devanagari Alphabets",
+          "chapterId": 501
+        },
+        {
+          "title": "Vowels, Consonants in Hindi and their pronunciation",
+          "chapterId": 502
+        },
+        {
+          "title": "Hindi Barakhadi: Symbols for vowels with consonants",
+          "chapterId": 503
+        },
+        {
+          "title": "Frequently faced pronunciation problems in Hindi (Devanagari)",
+          "chapterId": 504
+        },
+        {
+          "title": "Pronunciation of Anusvar (अनुस्वार) in Hindi",
+          "chapterId": 505
+        },
+        {
+          "title": "Combining consonants in Hindi (हिन्दी जोडाक्षरे)",
+          "chapterId": 506
+        },
+        {
+          "title": "Combining consonants with र (r) – Hindi जोडाक्षरे Part 2",
+          "chapterId": 507
+        },
+        {
+          "title": "Combining consonants with ह (h) – Hindi जोडाक्षरे Part 3",
+          "chapterId": 508
+        },
+        {
+          "title": "Special or separate symbols for combined consonants in Hindi",
+          "chapterId": 509
+        }
+      ]
+    },
+    {
+      "name": "Sentence formation rules in different tenses & pronouns forms",
+      "sublessons": [
+        {
+          "title": "Pronouns and Articles in Hindi",
+          "chapterId": 510
+        },
+        {
+          "title": "Using plurals to indicate respect in Hindi",
+          "chapterId": 511
+        },
+        {
+          "title": "Verbs in Hindi",
+          "chapterId": 512
+        },
+        {
+          "title": "Simple Present Tense in Hindi",
+          "chapterId": 513
+        },
+        {
+          "title": "Simple Present Tense of \"To Be\" in Hindi",
+          "chapterId": 514
+        },
+        {
+          "title": "Present Continuous Tense in Hindi",
+          "chapterId": 515
+        },
+        {
+          "title": "Simple Future Tense in Hindi",
+          "chapterId": 516
+        },
+        {
+          "title": "Future Continuous Tense in Hindi",
+          "chapterId": 517
+        },
+        {
+          "title": "Simple Past Tense in Hindi – Part 1 (Verbs without object)",
+          "chapterId": 518
+        },
+        {
+          "title": "Simple Past Tense in Hindi – Part 2 (Verbs with object)",
+          "chapterId": 519
+        },
+        {
+          "title": "Simple Past Tense in Hindi – Part 3 (Past tense of \"to be\")",
+          "chapterId": 520
+        },
+        {
+          "title": "Exceptional Verbs in Hindi which change in past tense form",
+          "chapterId": 521
+        },
+        {
+          "title": "Past Continuous Tense in Hindi",
+          "chapterId": 522
+        },
+        {
+          "title": "Present/Past/Future Perfect Tense in Hindi",
+          "chapterId": 523
+        },
+        {
+          "title": "Learn Prepositions in Hindi",
+          "chapterId": 524
+        },
+        {
+          "title": "Preposition \"TO\" in Hindi",
+          "chapterId": 525
+        },
+        {
+          "title": "Sentences with person or living things as object in Hindi",
+          "chapterId": 526
+        },
+        {
+          "title": "Saying My/His/Her in Hindi",
+          "chapterId": 527
+        },
+        {
+          "title": "Basic questions and \"WH\" questions in Hindi",
+          "chapterId": 528
+        },
+        {
+          "title": "Negative Sentences – Present tense in Hindi",
+          "chapterId": 529
+        },
+        {
+          "title": "Negative Sentences – Past tense in Hindi",
+          "chapterId": 530
+        },
+        {
+          "title": "Negative Sentence – Future Tense in Hindi",
+          "chapterId": 531
+        },
+        {
+          "title": "Working with nouns – Gender & Plurals in Hindi",
+          "chapterId": 532
+        },
+        {
+          "title": "Working with nouns – Prepositions in Hindi",
+          "chapterId": 533
+        },
+        {
+          "title": "Prepositions with similar pronunciation or similar meanings in Hindi",
+          "chapterId": 534
+        },
+        {
+          "title": "Cases in Hindi (विभक्ति)",
+          "chapterId": 535
+        },
+        {
+          "title": "Commands / Imperative statements in Hindi",
+          "chapterId": 536
+        },
+        {
+          "title": "Time related words in Hindi",
+          "chapterId": 537
+        },
+        {
+          "title": "Verbs indicating cause of action (Causative verb) in Hindi",
+          "chapterId": 538
+        },
+        {
+          "title": "Gender-number agreement rule in Hindi",
+          "chapterId": 539
+        },
+        {
+          "title": "Past/Present/Future Perfect Tense – Second Style in Hindi",
+          "chapterId": 540
+        },
+        {
+          "title": "Past/Present/Future Perfect Continuous tense in Hindi",
+          "chapterId": 541
+        },
+        {
+          "title": "Difference between \"no/not\" and \"don't want\" in Hindi",
+          "chapterId": 542
+        }
+      ]
+    },
+    {
+      "name": "Phrases & other sentence structures",
+      "sublessons": [
+        {
+          "title": "Sentence using \"Going to\" phrase in Hindi",
+          "chapterId": 543
+        },
+        {
+          "title": "Sentence using \"Used to\" phrase in Hindi",
+          "chapterId": 544
+        },
+        {
+          "title": "Sentence using \"Used to\" phrase – old style in Hindi",
+          "chapterId": 545
+        },
+        {
+          "title": "Sentence using \"If-Then\" in Hindi",
+          "chapterId": 546
+        },
+        {
+          "title": "Prepositions with Verbs in Hindi",
+          "chapterId": 547
+        },
+        {
+          "title": "Adjectives in Hindi",
+          "chapterId": 548
+        },
+        {
+          "title": "Using verb \"Can/To be able to\" in Hindi",
+          "chapterId": 549
+        },
+        {
+          "title": "Using verb To Want/To Need in Hindi",
+          "chapterId": 550
+        },
+        {
+          "title": "Verb \"To Become/To Happen\" in Hindi",
+          "chapterId": 551
+        },
+        {
+          "title": "Using \"Should\" in Hindi",
+          "chapterId": 552
+        },
+        {
+          "title": "Using \"Must\"/\"to be have to\" in Hindi",
+          "chapterId": 553
+        },
+        {
+          "title": "Using phrase \"to keep doing\" in Hindi",
+          "chapterId": 554
+        },
+        {
+          "title": "Comparison and degrees of comparison in Hindi",
+          "chapterId": 555
+        },
+        {
+          "title": "Using verb \"To Know\" in Hindi",
+          "chapterId": 556
+        },
+        {
+          "title": "Using \"Let\" and \"Shall we\" in Hindi",
+          "chapterId": 557
+        },
+        {
+          "title": "Which-That / What-That sentences in Hindi",
+          "chapterId": 558
+        },
+        {
+          "title": "Giving instructions formally in Hindi",
+          "chapterId": 559
+        },
+        {
+          "title": "Using \"To Like\" in Hindi",
+          "chapterId": 560
+        },
+        {
+          "title": "Sentences using \"would\" in Hindi",
+          "chapterId": 561
+        },
+        {
+          "title": "\"To Understand\" & \"To come to know\" in Hindi",
+          "chapterId": 562
+        },
+        {
+          "title": "Add a question tag in Hindi",
+          "chapterId": 563
+        },
+        {
+          "title": "Using verb \"To remember\" in Hindi",
+          "chapterId": 564
+        },
+        {
+          "title": "Using \"To Want\"/\"To Need\" with other verbs in Hindi",
+          "chapterId": 565
+        },
+        {
+          "title": "Using \"To Want\" with other person in Hindi",
+          "chapterId": 566
+        },
+        {
+          "title": "Using phrase \"supposed to\" in Hindi",
+          "chapterId": 567
+        },
+        {
+          "title": "Using \"To Like\" with other verbs in Hindi",
+          "chapterId": 568
+        },
+        {
+          "title": "Verbs which use preposition \"To\" with subject and verb form as per object in Hindi",
+          "chapterId": 569
+        },
+        {
+          "title": "Short forms in spoken Hindi",
+          "chapterId": 570
+        },
+        {
+          "title": "Greeting, Wishes, Blessings, Slogans in Hindi",
+          "chapterId": 571
+        },
+        {
+          "title": "Compound verbs / Phrases in Hindi",
+          "chapterId": 572
+        },
+        {
+          "title": "Calling or Addressing someone in Hindi",
+          "chapterId": 573
+        },
+        {
+          "title": "Exclamations in Hindi",
+          "chapterId": 574
+        },
+        {
+          "title": "Requesting someone – \"May I\", \"Can you\" etc. in Hindi",
+          "chapterId": 575
+        },
+        {
+          "title": "Showing uncertainty using May, Might in Hindi",
+          "chapterId": 576
+        },
+        {
+          "title": "Adjectives made from verb in Hindi",
+          "chapterId": 577
+        },
+        {
+          "title": "Adjectives related to prepositions in Hindi",
+          "chapterId": 578
+        },
+        {
+          "title": "Using May to express wish in Hindi",
+          "chapterId": 579
+        },
+        {
+          "title": "Phrase \"To Make Someone do something\" in Hindi",
+          "chapterId": 580
+        },
+        {
+          "title": "Generalizing words – somewhere, somehow, anything, anybody etc. in Hindi",
+          "chapterId": 581
+        },
+        {
+          "title": "\"To have\" to indicate possession and relation in Hindi",
+          "chapterId": 582
+        },
+        {
+          "title": "Using \"To mean\". How to ask meaning in Hindi",
+          "chapterId": 583
+        },
+        {
+          "title": "Conjunctions in Hindi – Part 1 (And, But, Because, So, That, Although, Though, Still, Yet)",
+          "chapterId": 584
+        },
+        {
+          "title": "Conjunctions in Hindi – Part 2 (As, Or, Neither, Nor, If, in case, provided)",
+          "chapterId": 585
+        },
+        {
+          "title": "Conjunctions in Hindi – Part 3 (After, then, As far as, As long as, As if)",
+          "chapterId": 586
+        },
+        {
+          "title": "Conjunctions in Hindi – Part 4 (As Soon as, Once, Rather Than, Instead of, So that)",
+          "chapterId": 587
+        },
+        {
+          "title": "List of Conjunctions in Hindi",
+          "chapterId": 588
+        },
+        {
+          "title": "Combining sentences in Hindi",
+          "chapterId": 589
+        },
+        {
+          "title": "Compound verbs in Hindi",
+          "chapterId": 590
+        },
+        {
+          "title": "Active Passive voice in Hindi",
+          "chapterId": 591
+        },
+        {
+          "title": "Active Passive voice in Hindi – Style 2",
+          "chapterId": 592
+        },
+        {
+          "title": "Using \"To Feel\" & \"To think\" in Hindi",
+          "chapterId": 593
+        },
+        {
+          "title": "Idioms and Phrases in Hindi",
+          "chapterId": 594
+        },
+        {
+          "title": "Idioms and Phrases in Hindi – Part 2",
+          "chapterId": 595
+        },
+        {
+          "title": "Sentences using \"If-Then\" Style 2 in Hindi",
+          "chapterId": 596
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "sublessons": [
+        {
+          "title": "List of Body parts in Hindi",
+          "chapterId": 597
+        },
+        {
+          "title": "Frequently used words – Miscellaneous in Hindi",
+          "chapterId": 598
+        },
+        {
+          "title": "Relations in Hindi",
+          "chapterId": 599
+        },
+        {
+          "title": "Numbers in Hindi – Part 1",
+          "chapterId": 600
+        },
+        {
+          "title": "Numbers in Hindi – Part 2",
+          "chapterId": 601
+        },
+        {
+          "title": "Fractional numbers, sequence, percentage in Hindi",
+          "chapterId": 602
+        },
+        {
+          "title": "Frequently used verbs in Hindi – Part 1",
+          "chapterId": 603
+        },
+        {
+          "title": "Frequently used verbs in Hindi – Part 2",
+          "chapterId": 604
+        },
+        {
+          "title": "Frequently used verbs in Hindi – Part 3",
+          "chapterId": 605
+        },
+        {
+          "title": "Frequently used verbs in Hindi – Part 4",
+          "chapterId": 606
+        },
+        {
+          "title": "One verb, multiple meanings – लावब/देब in Hindi",
+          "chapterId": 607
+        },
+        {
+          "title": "One verb, multiple meanings – लागब in Hindi",
+          "chapterId": 608
+        },
+        {
+          "title": "List of Hindi Adjectives – Part 1",
+          "chapterId": 609
+        },
+        {
+          "title": "Adverbs in Hindi – Part 1",
+          "chapterId": 610
+        },
+        {
+          "title": "List of adverbs in Hindi",
+          "chapterId": 611
+        },
+        {
+          "title": "List of vegetable names in Hindi",
+          "chapterId": 612
+        },
+        {
+          "title": "List of names of fruits in Hindi",
+          "chapterId": 613
+        },
+        {
+          "title": "List of names of birds in Hindi",
+          "chapterId": 614
+        },
+        {
+          "title": "List of names of insects in Hindi",
+          "chapterId": 615
+        },
+        {
+          "title": "List of colours in Hindi",
+          "chapterId": 616
+        },
+        {
+          "title": "List of names of flowers in Hindi",
+          "chapterId": 617
+        },
+        {
+          "title": "List of names of animals in Hindi",
+          "chapterId": 618
+        },
+        {
+          "title": "Frequently used or common words in Hindi – Miscellaneous",
+          "chapterId": 619
+        }
+      ]
+    },
+    {
+      "name": "Conversation practice",
+      "sublessons": [
+        {
+          "title": "Diwali Festival in Hindi",
+          "chapterId": 620
+        },
+        {
+          "title": "Simple Sentences in Hindi – Introduction/Salutation",
+          "chapterId": 621
+        },
+        {
+          "title": "Simple Hindi Sentences – Time Related",
+          "chapterId": 622
+        },
+        {
+          "title": "Simple Hindi Sentences – Where/Place Related",
+          "chapterId": 623
+        },
+        {
+          "title": "Simple Hindi Sentences – In Hotel",
+          "chapterId": 624
+        },
+        {
+          "title": "Simple Hindi sentences – Weather related",
+          "chapterId": 625
+        },
+        {
+          "title": "Hindi conversation – with traffic police",
+          "chapterId": 626
+        },
+        {
+          "title": "Simple Hindi conversation – Rickshaw/Taxi driver",
+          "chapterId": 627
+        },
+        {
+          "title": "Simple Hindi Conversation – Software Engineers",
+          "chapterId": 628
+        },
+        {
+          "title": "Simple Hindi conversation – Grocery shop",
+          "chapterId": 629
+        },
+        {
+          "title": "Simple Hindi Conversation – Doctor-Patient",
+          "chapterId": 630
+        },
+        {
+          "title": "Simple Hindi Conversation – Teacher & Students",
+          "chapterId": 631
+        },
+        {
+          "title": "Simple Hindi conversation – Informal phone conversation",
+          "chapterId": 632
+        },
+        {
+          "title": "Simple Hindi conversation – Vegetable Market",
+          "chapterId": 633
+        },
+        {
+          "title": "Simple Hindi Conversation – at bus stop and in bus",
+          "chapterId": 634
+        },
+        {
+          "title": "Asking address in Hindi",
+          "chapterId": 635
+        },
+        {
+          "title": "I Love you in Hindi – Proposing someone",
+          "chapterId": 636
+        },
+        {
+          "title": "Simple Hindi Conversation – Interview",
+          "chapterId": 637
+        },
+        {
+          "title": "Simple Hindi conversation – with housemaid",
+          "chapterId": 638
+        },
+        {
+          "title": "Simple Hindi conversation: Linking AADHAR card to mobile number",
+          "chapterId": 639
+        },
+        {
+          "title": "Simple Hindi conversation: Linking mobile number to AADHAR card",
+          "chapterId": 640
+        },
+        {
+          "title": "Simple Hindi conversation – Republic Day 26th January celebration",
+          "chapterId": 641
+        },
+        {
+          "title": "Simple Hindi conversation – In Bank",
+          "chapterId": 642
+        },
+        {
+          "title": "Simple Hindi conversation – Enquiry about Temple Visit",
+          "chapterId": 643
+        },
+        {
+          "title": "Simple Hindi conversation – with friend's parents at lunch table",
+          "chapterId": 644
+        },
+        {
+          "title": "Simple Hindi conversation – Friend talking about football match",
+          "chapterId": 645
+        },
+        {
+          "title": "Simple Hindi conversation – Friends plan to watch movie",
+          "chapterId": 646
+        },
+        {
+          "title": "Simple Hindi conversation – Friends talking about football world cup",
+          "chapterId": 647
+        },
+        {
+          "title": "Simple Hindi conversation – Tour guide with tourists",
+          "chapterId": 648
+        },
+        {
+          "title": "Simple Hindi Conversation – Language Proficiency Test for banks",
+          "chapterId": 649
+        },
+        {
+          "title": "Simple Hindi conversation about food, lunch, meal",
+          "chapterId": 650
+        },
+        {
+          "title": "Simple Hindi Conversation – About hobby class",
+          "chapterId": 651
+        },
+        {
+          "title": "Frequently used sentences in Hindi – miscellaneous",
+          "chapterId": 652
+        },
+        {
+          "title": "Frequently used sentences in Hindi – miscellaneous part 2",
+          "chapterId": 653
+        },
+        {
+          "title": "Learn Hindi by Communicative Approach",
+          "chapterId": 654
+        },
+        {
+          "title": "Simple Hindi sentences practice – 1",
+          "chapterId": 655
+        },
+        {
+          "title": "Hindi practice session – prepositions",
+          "chapterId": 656
+        },
+        {
+          "title": "Hindi jokes – Learn Hindi in a fun way",
+          "chapterId": 657
+        },
+        {
+          "title": "Daily Hindi reading practice – jokes, thoughts, quotes",
+          "chapterId": 658
+        },
+        {
+          "title": "Simple Hindi sentences – My experience with Social Media",
+          "chapterId": 659
+        },
+        {
+          "title": "Conversation about the eclipse in Hindi",
+          "chapterId": 660
+        },
+        {
+          "title": "International Women's Day in Hindi",
+          "chapterId": 661
+        },
+        {
+          "title": "Simple Hindi conversation – Quarrel at home",
+          "chapterId": 662
+        }
+      ]
+    }
+  ]
+}
