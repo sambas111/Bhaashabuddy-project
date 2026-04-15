@@ -1,4 +1,143 @@
-// Telugu dictionary – for Words section (like Kannada/Tamil)
+// Telugu phrases & dictionary – Phrases and Words tabs (Lessons use data_telugu.json)
+const TELUGU_PHRASES = {
+  greetings_1: {
+    name: "Telugu Greetings",
+    color: "#2B6CB0",
+    icon: "👋",
+    phrases: [
+      { en: "Hello / Namaste", mr: "నమస్తే", roman: "namastē", hint: "" },
+      { en: "How are you? (formal)", mr: "మీరు ఎలా ఉన్నారు?", roman: "mīru elā unnāru?", hint: "" },
+      { en: "How are you? (informal)", mr: "ఎలా ఉన్నావు?", roman: "elā unnāvu?", hint: "" },
+      { en: "I am fine", mr: "నేను బాగున్నాను", roman: "nēnu bāgunnānu", hint: "" },
+      { en: "Good morning", mr: "శుభోదయం", roman: "śubhōdayaṃ", hint: "" },
+      { en: "Good evening", mr: "శుభ సాయంత్రం", roman: "śubha sāyantraṃ", hint: "" },
+      { en: "Good night", mr: "శుభరాత్రి", roman: "śubharātri", hint: "" },
+      { en: "What is your name?", mr: "మీ పేరు ఏమిటి?", roman: "mī pēru ēmiṭi?", hint: "" },
+      { en: "My name is…", mr: "నా పేరు …", roman: "nā pēru …", hint: "" },
+      { en: "Thank you", mr: "ధన్యవాదాలు", roman: "dhanyavādālu", hint: "" },
+      { en: "Please", mr: "దయచేసి", roman: "dayacēsi", hint: "" },
+      { en: "Sorry", mr: "క్షమించండి", roman: "kṣamin̄caṇḍi", hint: "" },
+      { en: "Welcome", mr: "స్వాగతం", roman: "svāgataṃ", hint: "" },
+      { en: "Nice to meet you", mr: "మిమ్మల్ని కలవడం సంతోషం", roman: "mimmalni kalavaḍaṃ saṃtōṣaṃ", hint: "" },
+      { en: "See you again", mr: "మళ్లీ కలుద్దాం", roman: "mallī kaluddāṃ", hint: "" },
+      { en: "Goodbye", mr: "వీడ్కోలు", roman: "vīḍkōlu", hint: "" },
+      { en: "Come in", mr: "లోపలికి రండి", roman: "lōpaliki raṇḍi", hint: "" },
+      { en: "Sit down", mr: "కూర్చోండి", roman: "kūrcōṇḍi", hint: "" }
+    ]
+  },
+  travel_1: {
+    name: "Travel",
+    color: "#38A169",
+    icon: "🚌",
+    phrases: [
+      { en: "Where is the bus stop?", mr: "బస్ స్టాప్ ఎక్కడ ఉంది?", roman: "bas sṭāp ekkaḍa undi?", hint: "" },
+      { en: "Where is the railway station?", mr: "రైల్వే స్టేషన్ ఎక్కడ ఉంది?", roman: "railve sṭēṣan ekkaḍa undi?", hint: "" },
+      { en: "I want to go to…", mr: "నేను … కి వెళ్ళాలి", roman: "nēnu … ki veḷḷāli", hint: "" },
+      { en: "How far is it?", mr: "ఎంత దూరం?", roman: "eṃta dūraṃ?", hint: "" },
+      { en: "One ticket to Hyderabad", mr: "హైదరాబాద్‌కు ఒక టిక్కెట్", roman: "haidarābāḍku oka ṭikkeṭ", hint: "" },
+      { en: "Stop here", mr: "ఇక్కడ ఆపండి", roman: "ikkaḍa āpaṇḍi", hint: "" },
+      { en: "Turn left", mr: "ఎడమవైపు తిరగండి", roman: "eḍamavaipu tiragaṇḍi", hint: "" },
+      { en: "Turn right", mr: "కుడివైపు తిరగండి", roman: "kuḍivaipu tiragaṇḍi", hint: "" },
+      { en: "Go straight", mr: "నేరుగా వెళ్ళండి", roman: "nērugā veḷḷaṇḍi", hint: "" },
+      { en: "How much is the fare?", mr: "చార్జి ఎంత?", roman: "cārji eṃta?", hint: "" },
+      { en: "I am lost", mr: "నాకు దారి తెలియడం లేదు", roman: "nāku dāri teliyaḍaṃ lēdu", hint: "" },
+      { en: "Where is the hotel?", mr: "హోటల్ ఎక్కడ ఉంది?", roman: "hōṭal ekkaḍa undi?", hint: "" },
+      { en: "Call a taxi", mr: "ఒక టాక్సీ పిలవండి", roman: "oka ṭāksī pilavaṇḍi", hint: "" },
+      { en: "When does the train leave?", mr: "రైలు ఎప్పుడు బయలుదేరుతుంది?", roman: "railu eppuḍu bayaludērutundi?", hint: "" },
+      { en: "Which platform?", mr: "ఏ ప్లాట్‌ఫారం?", roman: "ē plāṭphāraṃ?", hint: "" },
+      { en: "Is this seat taken?", mr: "ఈ సీట్ ఖాళీగా ఉందా?", roman: "ī sīṭ khāḷīgā undā?", hint: "" }
+    ]
+  },
+  food_1: {
+    name: "Food",
+    color: "#DD6B20",
+    icon: "🍛",
+    phrases: [
+      { en: "I am hungry", mr: "నాకు ఆకలిగా ఉంది", roman: "nāku ākaligā undi", hint: "" },
+      { en: "Give me water", mr: "నాకు నీరు ఇవ్వండి", roman: "nāku nīru ivvaṇḍi", hint: "" },
+      { en: "The food is delicious", mr: "ఆహారం చాలా రుచిగా ఉంది", roman: "āhāraṃ cālā rucigā undi", hint: "" },
+      { en: "I am vegetarian", mr: "నేను శాకాహారిని", roman: "nēnu śākāhārini", hint: "" },
+      { en: "Not too spicy", mr: "ఎక్కువ మసాలా వేయొద్దు", roman: "ekkuva masālā veyoddu", hint: "" },
+      { en: "Bring the bill", mr: "బిల్లు తీసుకురండి", roman: "billu tīsukuraṇḍi", hint: "" },
+      { en: "Tea without sugar", mr: "చక్కెర లేకుండా టీ", roman: "cakkera lēkuṇḍā ṭī", hint: "" },
+      { en: "What do you recommend?", mr: "మీరు ఏమి సిఫారసు చేస్తారు?", roman: "mīru ēmi siphārasu cēstāru?", hint: "" },
+      { en: "One plate of rice", mr: "అన్నం ఒక ప్లేటు", roman: "annaṃ oka plēṭu", hint: "" },
+      { en: "Is this pure veg?", mr: "ఇది శుద్ధ శాకాహారమా?", roman: "idi śuddha śākāhāramā?", hint: "" },
+      { en: "Less oil, please", mr: "తక్కువ నూనె, దయచేసి", roman: "takkuva nūne, dayacēsi", hint: "" },
+      { en: "Breakfast time?", mr: "ఉదయం భోజనం ఎప్పుడు?", roman: "udayaṃ bhōjanaṃ eppuḍu?", hint: "" },
+      { en: "Table for two", mr: "ఇద్దరికి టేబుల్", roman: "iddariki ṭēbul", hint: "" },
+      { en: "I would like juice", mr: "నాకు జ్యూస్ కావాలి", roman: "nāku jyūs kāvāli", hint: "" },
+      { en: "Pack this to go", mr: "దీన్ని ప్యాక్ చేయండి", roman: "dīnni pyāk cēyaṇḍi", hint: "" }
+    ]
+  },
+  daily_1: {
+    name: "Daily life",
+    color: "#805AD5",
+    icon: "🏠",
+    phrases: [
+      { en: "What time is it?", mr: "ఇప్పుడు గంట ఎంత అయింది?", roman: "ippuḍu gaṇṭa eṃta ayindi?", hint: "" },
+      { en: "Where do you live?", mr: "మీరు ఎక్కడ నివసిస్తారు?", roman: "mīru ekkaḍa nivasistāru?", hint: "" },
+      { en: "I live in Hyderabad", mr: "నేను హైదరాబాద్‌లో నివసిస్తున్నాను", roman: "nēnu haidarābāḍlō nivasistunnānu", hint: "" },
+      { en: "What work do you do?", mr: "మీరు ఏ పని చేస్తారు?", roman: "mīru ē pani cēstāru?", hint: "" },
+      { en: "I need to go home", mr: "నేను ఇంటికి వెళ్ళాలి", roman: "nēnu iṇṭiki veḷḷāli", hint: "" },
+      { en: "Open the door", mr: "తలుపు తెరవండి", roman: "talupu teravaṇḍi", hint: "" },
+      { en: "Switch on the light", mr: "లైట్ వెలిగించండి", roman: "laiṭ veligiṃcaṇḍi", hint: "" },
+      { en: "What day is today?", mr: "ఈ రోజు ఏ రోజు?", roman: "ī rōju ē rōju?", hint: "" },
+      { en: "I am tired", mr: "నాకు అలసటగా ఉంది", roman: "nāku alasaṭagā undi", hint: "" },
+      { en: "The weather is nice", mr: "వాతావరణం బాగుంది", roman: "vātāvaraṇaṃ bāgundi", hint: "" },
+      { en: "It is very hot", mr: "చాలా వేడిగా ఉంది", roman: "cālā vēḍigā undi", hint: "" },
+      { en: "Let us take a walk", mr: "సాయంకాలం నడుద్దాం", roman: "sāyaṃkālaṃ naḍuddāṃ", hint: "" },
+      { en: "I will call you", mr: "నేను మీకు ఫోన్ చేస్తాను", roman: "nēnu mīku phōn cēstānu", hint: "" },
+      { en: "Wake up", mr: "లేచండి", roman: "lēcaṇḍi", hint: "" },
+      { en: "I will come tomorrow", mr: "నేను రేపు వస్తాను", roman: "nēnu rēpu vastānu", hint: "" }
+    ]
+  },
+  shopping_1: {
+    name: "Shopping",
+    color: "#D69E2E",
+    icon: "🛒",
+    phrases: [
+      { en: "How much does this cost?", mr: "దీని ధర ఎంత?", roman: "dīni dhara eṃta?", hint: "" },
+      { en: "It is expensive", mr: "ఇది ఖరీదు", roman: "idi kharīdu", hint: "" },
+      { en: "Lower the price, please", mr: "ధర తగ్గించండి, దయచేసి", roman: "dhara taggiṃcaṇḍi, dayacēsi", hint: "" },
+      { en: "Show me that one", mr: "ఆది చూపించండి", roman: "ādi cūpiṃcaṇḍi", hint: "" },
+      { en: "I want to buy this", mr: "దీన్ని కొనాలని ఉంది", roman: "dīnni konālani undi", hint: "" },
+      { en: "Do you have change?", mr: "మార్పు ఉందా?", roman: "mārpu undā?", hint: "" },
+      { en: "Where is the market?", mr: "మార్కెట్ ఎక్కడ ఉంది?", roman: "mārkeṭ ekkaḍa undi?", hint: "" },
+      { en: "One kilogram of potatoes", mr: "బంగాళదుంప ఒక కిలో", roman: "baṃgāḷaduṃpa oka kilo", hint: "" },
+      { en: "Give me a bag", mr: "ఒక సంచి ఇవ్వండి", roman: "oka saṃci ivvaṇḍi", hint: "" },
+      { en: "Is the shop open?", mr: "దుకాణం తెరిచి ఉందా?", roman: "dukāṇaṃ terici undā?", hint: "" },
+      { en: "Fresh vegetables", mr: "తాజా కూరగాయలు", roman: "tājā kūragāyalu", hint: "" },
+      { en: "No plastic bag", mr: "ప్లాస్టిక్ బ్యాగ్ వద్దు", roman: "plāsṭik byāg vaddu", hint: "" },
+      { en: "Receipt, please", mr: "రసీదు ఇవ్వండి", roman: "rasīdu ivvaṇḍi", hint: "" },
+      { en: "Discount?", mr: "డిస్కౌంట్ ఉందా?", roman: "ḍiskauṇṭ undā?", hint: "" },
+      { en: "Cash only", mr: "నగదు మాత్రమే", roman: "nagadu mātramē", hint: "" }
+    ]
+  },
+  emergency_1: {
+    name: "Emergency",
+    color: "#E53E3E",
+    icon: "🚨",
+    phrases: [
+      { en: "Help!", mr: "సహాయం!", roman: "sahāyaṃ!", hint: "" },
+      { en: "Call the police", mr: "పోలీసులను పిలవండి", roman: "pōlīsulanu pilavaṇḍi", hint: "" },
+      { en: "Call a doctor", mr: "డాక్టర్‌ను పిలవండి", roman: "ḍākṭarnu pilavaṇḍi", hint: "" },
+      { en: "I need a hospital", mr: "నాకు ఆస్పత్రి కావాలి", roman: "nāku āspatri kāvāli", hint: "" },
+      { en: "There is a fire", mr: "అగ్నిప్రమాదం జరిగింది", roman: "agnipramādaṃ jarigindi", hint: "" },
+      { en: "Accident", mr: "ప్రమాదం జరిగింది", roman: "pramādaṃ jarigindi", hint: "" },
+      { en: "I have chest pain", mr: "నా ఛాతీ నొప్పి", roman: "nā chātī noppi", hint: "" },
+      { en: "Where is the pharmacy?", mr: "ఫార్మసీ ఎక్కడ ఉంది?", roman: "phārmasī ekkaḍa undi?", hint: "" },
+      { en: "Ambulance", mr: "ఆంబులెన్స్", roman: "āṃbulens", hint: "" },
+      { en: "Please help me", mr: "దయచేసి నాకు సహాయం చేయండి", roman: "dayacēsi nāku sahāyaṃ cēyaṇḍi", hint: "" },
+      { en: "I lost my phone", mr: "నా ఫోన్ పోయింది", roman: "nā phōn pōyindi", hint: "" },
+      { en: "Police station?", mr: "పోలీస్ స్టేషన్ ఎక్కడ?", roman: "pōlīs sṭēṣan ekkaḍa?", hint: "" },
+      { en: "I feel dizzy", mr: "నాకు తిరుగుతోంది", roman: "nāku tirugutōndi", hint: "" },
+      { en: "Bleeding", mr: "రక్తం కారుతోంది", roman: "raktaṃ kārutōndi", hint: "" },
+      { en: "Emergency number", mr: "అత్యవసర నంబర్", roman: "atyavasara nambar", hint: "" }
+    ]
+  }
+};
+
 const TELUGU_DICTIONARY = {
   greetings: {
     name: "Greetings & Basics",
