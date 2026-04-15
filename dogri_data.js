@@ -1,0 +1,283 @@
+const DOGRI_PHRASES = {
+    greetings_1: {
+        name: "Dogri Greetings",
+        color: "#2B6CB0",
+        icon: "👋",
+        phrases: [
+            { en: "Hello", mr: "नमस्कार", roman: "Namaskaar", hint: "Formal greeting" },
+            { en: "How are you?", mr: "तुस कनै ओ?", roman: "Tus kanai o?", hint: "Polite inquiry" },
+            { en: "I am fine", mr: "मैं ठीक आं", roman: "Main theek aan", hint: "Response to how are you" },
+            { en: "Good morning", mr: "शुभ सवेर", roman: "Shubh saver", hint: "Morning greeting" },
+            { en: "Good night", mr: "शुभ रात", roman: "Shubh raat", hint: "Night greeting" },
+            { en: "What is your name?", mr: "तुसदा नां की ऐ?", roman: "Tusda naan ki ai?", hint: "Asking someone's name" },
+            { en: "My name is...", mr: "मेरा नां ... ऐ", roman: "Mera naan ... ai", hint: "Telling your name" },
+            { en: "Thank you", mr: "धन्नवाद", roman: "Dhanvaad", hint: "Expressing gratitude" },
+            { en: "Please", mr: "कृपा करियै", roman: "Kripa kariyai", hint: "Polite request" },
+            { en: "Sorry", mr: "माफ करो", roman: "Maaf karo", hint: "Apologizing" },
+            { en: "Welcome", mr: "खुश आमदीद", roman: "Khush aamdeed", hint: "Welcoming someone" },
+            { en: "See you again", mr: "फिर मिलने", roman: "Phir milne", hint: "Saying goodbye" },
+            { en: "How are things?", mr: "की हाल ऐ?", roman: "Ki haal ai?", hint: "Casual inquiry" },
+            { en: "Very good", mr: "बड़ा चंगा", roman: "Bada changa", hint: "Expressing approval" },
+            { en: "Nice to meet you", mr: "मिलदे आं खुशी होई", roman: "Milde aan khushi hoi", hint: "First meeting" },
+            { en: "Come in", mr: "अंदर आओ", roman: "Andar aao", hint: "Inviting inside" },
+            { en: "Sit down", mr: "बैठो जी", roman: "Baitho ji", hint: "Offering a seat" },
+            { en: "Goodbye", mr: "अलविदा", roman: "Alvida", hint: "Parting greeting" }
+        ]
+    },
+    travel_1: {
+        name: "Travel Phrases",
+        color: "#38A169",
+        icon: "🚌",
+        phrases: [
+            { en: "Where is the bus station?", mr: "बस अड्डा कुत्थै ऐ?", roman: "Bus adda kutthai ai?", hint: "Finding bus stop" },
+            { en: "Where is the railway station?", mr: "रेलवे स्टेशन कुत्थै ऐ?", roman: "Railway station kutthai ai?", hint: "Finding train station" },
+            { en: "I need to go to...", mr: "मिगी ... जाना ऐ", roman: "Migi ... jaana ai", hint: "Stating destination" },
+            { en: "How far is it?", mr: "किन्ना दूर ऐ?", roman: "Kinna door ai?", hint: "Asking distance" },
+            { en: "Where can I get a ticket?", mr: "टिकट कित्थूं मिलग?", roman: "Ticket kitthoon milga?", hint: "Buying ticket" },
+            { en: "Where does this road go?", mr: "एह् सड़क कुत्थै जंदी ऐ?", roman: "Eh sadak kutthai jandi ai?", hint: "Asking direction" },
+            { en: "Stop here", mr: "इत्थै रुको", roman: "Itthai ruko", hint: "Telling driver to stop" },
+            { en: "Turn left", mr: "खब्बे पासे मुड़ो", roman: "Khabbe paase mudo", hint: "Left direction" },
+            { en: "Turn right", mr: "सज्जे पासे मुड़ो", roman: "Sajje paase mudo", hint: "Right direction" },
+            { en: "Go straight", mr: "सिद्धा जाओ", roman: "Siddha jaao", hint: "Straight ahead" },
+            { en: "Is it nearby?", mr: "नेड़ै ऐ?", roman: "Nedai ai?", hint: "Asking proximity" },
+            { en: "I am lost", mr: "मैं रस्ता भूली गेआ", roman: "Main rasta bhooli geya", hint: "When lost" },
+            { en: "Take me to this place", mr: "मिगी एह् जगह लै चलो", roman: "Migi eh jagah lai chalo", hint: "Requesting ride" },
+            { en: "How much time will it take?", mr: "किन्ना टैम लग्गा?", roman: "Kinna taim lagga?", hint: "Asking travel time" },
+            { en: "When does the bus come?", mr: "बस कदूं आग?", roman: "Bus kadoon aaga?", hint: "Bus schedule" },
+            { en: "I want to go to Jammu", mr: "मिगी जम्मू जाना ऐ", roman: "Migi Jammu jaana ai", hint: "Common destination" },
+            { en: "Where is the hotel?", mr: "होटल कुत्थै ऐ?", roman: "Hotel kutthai ai?", hint: "Finding hotel" },
+            { en: "Call a taxi", mr: "टैक्सी बुलाओ", roman: "Taxi bulaao", hint: "Getting a taxi" }
+        ]
+    },
+    food_1: {
+        name: "Food & Dining",
+        color: "#DD6B20",
+        icon: "🍛",
+        phrases: [
+            { en: "I am hungry", mr: "मिगी भूख लग्गी ऐ", roman: "Migi bhookh laggi ai", hint: "Expressing hunger" },
+            { en: "I am thirsty", mr: "मिगी तिह् लग्गी ऐ", roman: "Migi tih laggi ai", hint: "Expressing thirst" },
+            { en: "Give me water", mr: "पानी दियो", roman: "Paani diyo", hint: "Asking for water" },
+            { en: "Is the food ready?", mr: "खाना तैयार ऐ?", roman: "Khaana taiyaar ai?", hint: "Checking on food" },
+            { en: "Very tasty", mr: "बड़ा सुआदी ऐ", roman: "Bada suaadi ai", hint: "Praising food" },
+            { en: "Give me tea", mr: "चाह दियो", roman: "Chaah diyo", hint: "Ordering tea" },
+            { en: "I want rice", mr: "मिगी चौल चाहिदे न", roman: "Migi chaul chaahide ne", hint: "Ordering rice" },
+            { en: "Give me roti", mr: "रोटी दियो", roman: "Roti diyo", hint: "Ordering bread" },
+            { en: "It is very spicy", mr: "बड़ा तिक्खा ऐ", roman: "Bada tikkha ai", hint: "Food is spicy" },
+            { en: "It is sweet", mr: "मिट्ठा ऐ", roman: "Mittha ai", hint: "Food is sweet" },
+            { en: "Bring the bill", mr: "बिल ल्याओ", roman: "Bill lyaao", hint: "Asking for bill" },
+            { en: "What will you eat?", mr: "तुस की खाओगे?", roman: "Tus ki khaoge?", hint: "Asking preference" },
+            { en: "I eat vegetarian food", mr: "मैं शाकाहारी खाना खांदा", roman: "Main shakahaari khaana khaanda", hint: "Dietary preference" },
+            { en: "Give me more", mr: "होर दियो", roman: "Hor diyo", hint: "Asking for more" },
+            { en: "Enough, no more", mr: "बस, होर नेईं", roman: "Bas, hor nayeen", hint: "Saying enough" },
+            { en: "The food is cold", mr: "खाना ठंडा ऐ", roman: "Khaana thanda ai", hint: "Food temperature" },
+            { en: "Give me milk", mr: "दूध दियो", roman: "Doodh diyo", hint: "Asking for milk" },
+            { en: "I want fruits", mr: "मिगी फल चाहिदे न", roman: "Migi phal chaahide ne", hint: "Asking for fruits" }
+        ]
+    },
+    daily_1: {
+        name: "Daily Life",
+        color: "#805AD5",
+        icon: "🏠",
+        phrases: [
+            { en: "What time is it?", mr: "किन्ने बजे न?", roman: "Kinne baje ne?", hint: "Asking time" },
+            { en: "Where do you live?", mr: "तुस कुत्थै रौंदे ओ?", roman: "Tus kutthai raunde o?", hint: "Asking address" },
+            { en: "I live in Jammu", mr: "मैं जम्मू च रौंदा", roman: "Main Jammu ch raunda", hint: "Telling residence" },
+            { en: "What work do you do?", mr: "तुस की कम्म करदे ओ?", roman: "Tus ki kamm karde o?", hint: "Asking occupation" },
+            { en: "I need to go home", mr: "मिगी घरै जाना ऐ", roman: "Migi gharai jaana ai", hint: "Going home" },
+            { en: "Open the door", mr: "बूहा खोलो", roman: "Booha kholo", hint: "Door request" },
+            { en: "Close the window", mr: "खिड़की बंद करो", roman: "Khidki band karo", hint: "Window request" },
+            { en: "Switch on the light", mr: "बत्ती जगाओ", roman: "Batti jagaao", hint: "Light request" },
+            { en: "What day is today?", mr: "अज्ज किह्ड़ा दिन ऐ?", roman: "Ajj kihhda din ai?", hint: "Asking the day" },
+            { en: "I am tired", mr: "मैं थक्की गेआ", roman: "Main thakki geya", hint: "Expressing tiredness" },
+            { en: "I am going to sleep", mr: "मैं सौना लग्गा", roman: "Main sauna lagga", hint: "Going to bed" },
+            { en: "Wake up", mr: "उठो", roman: "Utho", hint: "Waking someone" },
+            { en: "Get ready quickly", mr: "छेती तैयार होओ", roman: "Chheti taiyaar hoo", hint: "Hurrying up" },
+            { en: "I will come tomorrow", mr: "मैं कल्ह आग्गा", roman: "Main kalh aagga", hint: "Coming tomorrow" },
+            { en: "The weather is good", mr: "मौसम बड़ा चंगा ऐ", roman: "Mausam bada changa ai", hint: "Weather comment" },
+            { en: "It is very hot", mr: "बड़ी गर्मी ऐ", roman: "Badi garmi ai", hint: "Hot weather" },
+            { en: "It is very cold", mr: "बड़ी ठंड ऐ", roman: "Badi thand ai", hint: "Cold weather" },
+            { en: "Let us go for a walk", mr: "चलो सैर करने", roman: "Chalo sair karne", hint: "Suggesting walk" }
+        ]
+    },
+    shopping_1: {
+        name: "Shopping",
+        color: "#D69E2E",
+        icon: "🛒",
+        phrases: [
+            { en: "How much does this cost?", mr: "एह् किन्ने दा ऐ?", roman: "Eh kinne da ai?", hint: "Asking price" },
+            { en: "This is too expensive", mr: "एह् बड़ा महिंगा ऐ", roman: "Eh bada mahinga ai", hint: "Price too high" },
+            { en: "Reduce the price", mr: "दाम घट्ट करो", roman: "Daam ghatt karo", hint: "Bargaining" },
+            { en: "Show me this", mr: "एह् दिखाओ", roman: "Eh dikhaao", hint: "Viewing item" },
+            { en: "I want to buy this", mr: "मिगी एह् खरीदना ऐ", roman: "Migi eh khareedna ai", hint: "Purchasing" },
+            { en: "Do you have another one?", mr: "तुसदे कोल होर ऐ?", roman: "Tusde kol hor ai?", hint: "Asking for more options" },
+            { en: "Give me a bag", mr: "थैला दियो", roman: "Thaila diyo", hint: "Asking for bag" },
+            { en: "Where is the market?", mr: "बजार कुत्थै ऐ?", roman: "Bajaar kutthai ai?", hint: "Finding market" },
+            { en: "I need vegetables", mr: "मिगी सब्जी चाहिदी ऐ", roman: "Migi sabji chaahidi ai", hint: "Buying vegetables" },
+            { en: "Give me one kilo", mr: "इक किलो दियो", roman: "Ik kilo diyo", hint: "Specifying quantity" },
+            { en: "This is not good", mr: "एह् चंगा नेईं ऐ", roman: "Eh changa nayeen ai", hint: "Quality complaint" },
+            { en: "Do you accept cash?", mr: "नकद चलग?", roman: "Nakad chalga?", hint: "Payment method" },
+            { en: "Give me the change", mr: "बाकी पैसे दियो", roman: "Baaki paise diyo", hint: "Getting change" },
+            { en: "I don't want this", mr: "मिगी एह् नेईं चाहिदा", roman: "Migi eh nayeen chaahida", hint: "Declining item" },
+            { en: "Is the shop open?", mr: "दुकान खुल्ली ऐ?", roman: "Dukaan khulli ai?", hint: "Shop status" },
+            { en: "What time does the shop close?", mr: "दुकान कदूं बंद होग?", roman: "Dukaan kadoon band hoga?", hint: "Shop hours" },
+            { en: "Give me fresh ones", mr: "ताजे दियो", roman: "Taaje diyo", hint: "Requesting fresh items" },
+            { en: "Pack it properly", mr: "ठीक तरीकें पैक करो", roman: "Theek tareekai pack karo", hint: "Packing request" }
+        ]
+    },
+    emergency_1: {
+        name: "Emergency",
+        color: "#E53E3E",
+        icon: "🚨",
+        phrases: [
+            { en: "Help!", mr: "बचाओ!", roman: "Bachaao!", hint: "Calling for help" },
+            { en: "Call the police", mr: "पुलिस गी बुलाओ", roman: "Police gi bulaao", hint: "Police emergency" },
+            { en: "Call a doctor", mr: "डाक्टर गी बुलाओ", roman: "Doctor gi bulaao", hint: "Medical emergency" },
+            { en: "I am not well", mr: "मेरी तबीयत ठीक नेईं ऐ", roman: "Meri tabiyat theek nayeen ai", hint: "Feeling unwell" },
+            { en: "Where is the hospital?", mr: "हस्पताल कुत्थै ऐ?", roman: "Haspataal kutthai ai?", hint: "Finding hospital" },
+            { en: "I need medicine", mr: "मिगी दवाई चाहिदी ऐ", roman: "Migi davaai chaahidi ai", hint: "Needing medicine" },
+            { en: "There has been an accident", mr: "हादसा होई गेआ", roman: "Haadsa hoi geya", hint: "Reporting accident" },
+            { en: "Call an ambulance", mr: "एम्बुलेंस बुलाओ", roman: "Ambulance bulaao", hint: "Ambulance needed" },
+            { en: "Fire! Fire!", mr: "अग्ग! अग्ग!", roman: "Agg! Agg!", hint: "Fire emergency" },
+            { en: "I have a headache", mr: "मेरा सिर दुखदा ऐ", roman: "Mera sir dukhda ai", hint: "Head pain" },
+            { en: "I have a fever", mr: "मिगी बुखार ऐ", roman: "Migi bukhaar ai", hint: "Fever symptom" },
+            { en: "My stomach hurts", mr: "मेरा पेट दुखदा ऐ", roman: "Mera pet dukhda ai", hint: "Stomach pain" },
+            { en: "I lost my wallet", mr: "मेरा बटुआ गुआची गेआ", roman: "Mera batua guaachi geya", hint: "Lost wallet" },
+            { en: "Please help me", mr: "कृपा करियै मेरी मदद करो", roman: "Kripa kariyai meri madad karo", hint: "Requesting help" },
+            { en: "I need to make a phone call", mr: "मिगी फोन करना ऐ", roman: "Migi phone karna ai", hint: "Phone needed" },
+            { en: "It is an emergency", mr: "एह् जरूरी ऐ", roman: "Eh zaroori ai", hint: "Urgent situation" },
+            { en: "Where is the pharmacy?", mr: "दवाई दी दुकान कुत्थै ऐ?", roman: "Davaai di dukaan kutthai ai?", hint: "Finding pharmacy" },
+            { en: "I am allergic to this", mr: "मिगी एह्दी एलर्जी ऐ", roman: "Migi ehdi allergy ai", hint: "Allergy warning" }
+        ]
+    }
+};
+
+const DOGRI_DICTIONARY = {
+    basics_1: {
+        name: "Basic Words Set 1",
+        words: [
+            { en: "I", mr: "मैं", roman: "Main" },
+            { en: "You", mr: "तू", roman: "Tu" },
+            { en: "You (polite)", mr: "तुस", roman: "Tus" },
+            { en: "He/She", mr: "ओह्", roman: "Oh" },
+            { en: "We", mr: "अस", roman: "As" },
+            { en: "House", mr: "घर", roman: "Ghar" },
+            { en: "Water", mr: "पानी", roman: "Paani" },
+            { en: "Food", mr: "खाना", roman: "Khaana" },
+            { en: "Village", mr: "पिंड", roman: "Pind" },
+            { en: "Morning", mr: "सवेर", roman: "Saver" },
+            { en: "Today", mr: "अज्ज", roman: "Ajj" },
+            { en: "Tomorrow", mr: "कल्ह", roman: "Kalh" },
+            { en: "Yesterday", mr: "कल्ह", roman: "Kalh" },
+            { en: "Night", mr: "रात", roman: "Raat" },
+            { en: "Day", mr: "दिन", roman: "Din" },
+            { en: "Yes", mr: "हां", roman: "Haan" },
+            { en: "No", mr: "नेईं", roman: "Nayeen" },
+            { en: "This", mr: "एह्", roman: "Eh" },
+            { en: "That", mr: "ओह्", roman: "Oh" },
+            { en: "What", mr: "की", roman: "Ki" }
+        ]
+    },
+    family_1: {
+        name: "Family & People Set 1",
+        words: [
+            { en: "Mother", mr: "मांह्", roman: "Maanh" },
+            { en: "Father", mr: "पिउ", roman: "Piu" },
+            { en: "Brother", mr: "भ्राह्", roman: "Bhraah" },
+            { en: "Sister", mr: "भैण", roman: "Bhain" },
+            { en: "Son", mr: "पुत्तर", roman: "Puttar" },
+            { en: "Daughter", mr: "धी", roman: "Dhee" },
+            { en: "Husband", mr: "घरआला", roman: "Gharaala" },
+            { en: "Wife", mr: "घरआली", roman: "Gharaali" },
+            { en: "Grandfather", mr: "बाबा", roman: "Baaba" },
+            { en: "Grandmother", mr: "बेबे", roman: "Bebe" },
+            { en: "Child", mr: "बालक", roman: "Baalak" }
+        ]
+    },
+    verbs_1: {
+        name: "Common Verbs Set 1",
+        words: [
+            { en: "To come", mr: "औना", roman: "Auna" },
+            { en: "To go", mr: "जाना", roman: "Jaana" },
+            { en: "To eat", mr: "खाना", roman: "Khaana" },
+            { en: "To drink", mr: "पीना", roman: "Peena" },
+            { en: "To speak", mr: "बोलना", roman: "Bolna" },
+            { en: "To listen", mr: "सुनना", roman: "Sunna" },
+            { en: "To see", mr: "दिक्खना", roman: "Dikkhna" },
+            { en: "To do", mr: "करना", roman: "Karna" },
+            { en: "To give", mr: "देना", roman: "Dena" },
+            { en: "To take", mr: "लैना", roman: "Laina" },
+            { en: "To sit", mr: "बैठना", roman: "Baithna" },
+            { en: "To stand", mr: "खड़ना", roman: "Khadna" },
+            { en: "To sleep", mr: "सौना", roman: "Sauna" },
+            { en: "To walk", mr: "तुरना", roman: "Turna" },
+            { en: "To read", mr: "पढ़ना", roman: "Padhna" },
+            { en: "To write", mr: "लिखना", roman: "Likhna" }
+        ]
+    },
+    common_1: {
+        name: "Common Words Set 1",
+        words: [
+            { en: "Good", mr: "चंगा", roman: "Changa" },
+            { en: "Bad", mr: "मंदा", roman: "Manda" },
+            { en: "Big", mr: "बड्डा", roman: "Badda" },
+            { en: "Small", mr: "छोटा", roman: "Chhota" },
+            { en: "Hot", mr: "गर्म", roman: "Garm" },
+            { en: "Cold", mr: "ठंडा", roman: "Thanda" },
+            { en: "New", mr: "नमां", roman: "Namaan" },
+            { en: "Old", mr: "पुराना", roman: "Puraana" },
+            { en: "Many/Much", mr: "बड़ा", roman: "Bada" },
+            { en: "Less", mr: "घट्ट", roman: "Ghatt" },
+            { en: "Near", mr: "नेड़ै", roman: "Nedai" },
+            { en: "Far", mr: "दूर", roman: "Door" },
+            { en: "Up", mr: "उप्पर", roman: "Uppar" },
+            { en: "Down", mr: "थल्लै", roman: "Thallai" },
+            { en: "Fast", mr: "छेती", roman: "Chheti" },
+            { en: "Slow", mr: "हौली", roman: "Hauli" },
+            { en: "Here", mr: "इत्थै", roman: "Itthai" },
+            { en: "There", mr: "ओत्थै", roman: "Otthai" },
+            { en: "Where", mr: "कुत्थै", roman: "Kutthai" }
+        ]
+    },
+    nature_1: {
+        name: "Nature & Food Set 1",
+        words: [
+            { en: "Sun", mr: "सूरज", roman: "Sooraj" },
+            { en: "Moon", mr: "चंद", roman: "Chand" },
+            { en: "Star", mr: "तारा", roman: "Taara" },
+            { en: "Sky", mr: "अस्मान", roman: "Asmaan" },
+            { en: "Rain", mr: "मींह", roman: "Meenh" },
+            { en: "Wind", mr: "हवा", roman: "Hawa" },
+            { en: "Mountain", mr: "पहाड़", roman: "Pahaad" },
+            { en: "River", mr: "दरिया", roman: "Dariya" },
+            { en: "Tree", mr: "बूटा", roman: "Boota" },
+            { en: "Flower", mr: "फुल्ल", roman: "Phull" },
+            { en: "Earth", mr: "धरती", roman: "Dharti" },
+            { en: "Rice", mr: "चौल", roman: "Chaul" },
+            { en: "Bread", mr: "रोटी", roman: "Roti" },
+            { en: "Milk", mr: "दूध", roman: "Doodh" },
+            { en: "Tea", mr: "चाह", roman: "Chaah" },
+            { en: "Sugar", mr: "खंड", roman: "Khand" },
+            { en: "Salt", mr: "लून", roman: "Loon" },
+            { en: "Vegetable", mr: "सब्जी", roman: "Sabji" },
+            { en: "Fruit", mr: "फल", roman: "Phal" },
+            { en: "Corn/Maize", mr: "मक्की", roman: "Makki" }
+        ]
+    },
+    everyday_1: {
+        name: "Everyday Items Set 1",
+        words: [
+            { en: "Clothes", mr: "कपड़े", roman: "Kapde" },
+            { en: "Shoes", mr: "जूत्ते", roman: "Joothe" },
+            { en: "Book", mr: "किताब", roman: "Kitaab" },
+            { en: "Pen", mr: "कलम", roman: "Kalam" },
+            { en: "Money", mr: "पैसे", roman: "Paise" },
+            { en: "Road", mr: "सड़क", roman: "Sadak" },
+            { en: "Door", mr: "बूहा", roman: "Booha" },
+            { en: "Window", mr: "खिड़की", roman: "Khidki" },
+            { en: "Bed", mr: "मंजा", roman: "Manja" },
+            { en: "Chair", mr: "कुर्सी", roman: "Kursi" },
+            { en: "Bag", mr: "थैला", roman: "Thaila" },
+            { en: "Lamp/Light", mr: "बत्ती", roman: "Batti" }
+        ]
+    }
+};

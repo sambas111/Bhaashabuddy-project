@@ -5944,6 +5944,136 @@ const LANGUAGES = {
     structureFile: "lessons_structure_nepali.json",
     PHRASES: {},
     DICTIONARY: []
+  },
+  meitei: {
+    name: "Meitei (Manipuri)",
+    code: "mni",
+    subtitle: "ꯃꯩꯇꯩ ꯂꯣꯟ",
+    scriptFont: "'Noto Sans Meetei Mayek', sans-serif",
+    speechLang: "mni-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_meitei.json",
+    structureFile: "lessons_structure_meitei.json",
+    PHRASES: typeof MEITEI_PHRASES !== "undefined" ? MEITEI_PHRASES : {},
+    DICTIONARY: typeof MEITEI_DICTIONARY !== "undefined" ? MEITEI_DICTIONARY : []
+  },
+  sindhi: {
+    name: "Sindhi",
+    code: "sd",
+    subtitle: "سنڌي سکو",
+    scriptFont: "'Noto Nastaliq Urdu', 'Noto Sans Arabic', sans-serif",
+    speechLang: "sd-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_sindhi.json",
+    structureFile: "lessons_structure_sindhi.json",
+    PHRASES: typeof SINDHI_PHRASES !== "undefined" ? SINDHI_PHRASES : {},
+    DICTIONARY: typeof SINDHI_DICTIONARY !== "undefined" ? SINDHI_DICTIONARY : []
+  },
+  santali: {
+    name: "Santali",
+    code: "sat",
+    subtitle: "ᱥᱟᱱᱛᱟᱲᱤ ᱚᱞ",
+    scriptFont: "'Noto Sans Ol Chiki', sans-serif",
+    speechLang: "sat-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_santali.json",
+    structureFile: "lessons_structure_santali.json",
+    PHRASES: typeof SANTALI_PHRASES !== "undefined" ? SANTALI_PHRASES : {},
+    DICTIONARY: typeof SANTALI_DICTIONARY !== "undefined" ? SANTALI_DICTIONARY : []
+  },
+  kashmiri: {
+    name: "Kashmiri",
+    code: "ks",
+    subtitle: "کٲشُر / कॉशुर सीखो",
+    scriptFont: "'Noto Sans Devanagari', sans-serif",
+    speechLang: "hi-IN",
+    dataSource: "BhaashaBuddy (phrasebooks & grammar refs)",
+    hasLessons: true,
+    dataFile: "data_kashmiri.json",
+    structureFile: "lessons_structure_kashmiri.json",
+    PHRASES: {},
+    DICTIONARY: []
+  },
+  odia: {
+    name: "Odia",
+    code: "or",
+    subtitle: "ଓଡ଼ିଆ ଶିଖନ୍ତୁ",
+    scriptFont: "'Noto Sans Oriya', sans-serif",
+    speechLang: "or-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_odia.json",
+    structureFile: "lessons_structure_odia.json",
+    PHRASES: typeof ODIA_PHRASES !== "undefined" ? ODIA_PHRASES : {},
+    DICTIONARY: typeof ODIA_DICTIONARY !== "undefined" ? ODIA_DICTIONARY : []
+  },
+  dogri: {
+    name: "Dogri",
+    code: "doi",
+    subtitle: "डोगरी सिक्खो",
+    scriptFont: "'Noto Sans Devanagari', sans-serif",
+    speechLang: "hi-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_dogri.json",
+    structureFile: "lessons_structure_dogri.json",
+    PHRASES: typeof DOGRI_PHRASES !== "undefined" ? DOGRI_PHRASES : {},
+    DICTIONARY: typeof DOGRI_DICTIONARY !== "undefined" ? DOGRI_DICTIONARY : []
+  },
+  sanskrit: {
+    name: "Sanskrit",
+    code: "sa",
+    subtitle: "संस्कृतं पठत",
+    scriptFont: "'Noto Sans Devanagari', sans-serif",
+    speechLang: "sa-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_sanskrit.json",
+    structureFile: "lessons_structure_sanskrit.json",
+    PHRASES: typeof SANSKRIT_PHRASES !== "undefined" ? SANSKRIT_PHRASES : {},
+    DICTIONARY: typeof SANSKRIT_DICTIONARY !== "undefined" ? SANSKRIT_DICTIONARY : []
+  },
+  bodo: {
+    name: "Bodo",
+    code: "brx",
+    subtitle: "बर' सिख",
+    scriptFont: "'Noto Sans Devanagari', sans-serif",
+    speechLang: "hi-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_bodo.json",
+    structureFile: "lessons_structure_bodo.json",
+    PHRASES: typeof BODO_PHRASES !== "undefined" ? BODO_PHRASES : {},
+    DICTIONARY: typeof BODO_DICTIONARY !== "undefined" ? BODO_DICTIONARY : []
+  },
+  urdu: {
+    name: "Urdu",
+    code: "ur",
+    subtitle: "اردو سیکھیں",
+    scriptFont: "'Noto Nastaliq Urdu', 'Noto Sans Arabic', sans-serif",
+    speechLang: "ur-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_urdu.json",
+    structureFile: "lessons_structure_urdu.json",
+    PHRASES: typeof URDU_PHRASES !== "undefined" ? URDU_PHRASES : {},
+    DICTIONARY: typeof URDU_DICTIONARY !== "undefined" ? URDU_DICTIONARY : []
+  },
+  konkani: {
+    name: "Konkani",
+    code: "kok",
+    subtitle: "कोंकणी शिका",
+    scriptFont: "'Noto Sans Devanagari', sans-serif",
+    speechLang: "hi-IN",
+    dataSource: "BhaashaBuddy (web references)",
+    hasLessons: true,
+    dataFile: "data_konkani.json",
+    structureFile: "lessons_structure_konkani.json",
+    PHRASES: typeof KONKANI_PHRASES !== "undefined" ? KONKANI_PHRASES : {},
+    DICTIONARY: typeof KONKANI_DICTIONARY !== "undefined" ? KONKANI_DICTIONARY : []
   }
 };
 
@@ -6546,9 +6676,9 @@ function formatChapterFromData(ch) {
     const rows = tbl.rows || [];
     if (headers.length !== 2 || rows.length === 0) return false;
     const hStr = (headers[0] + ' ' + headers[1]).toLowerCase();
-    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|telugu|bengali|bangla|assamese|malayalam|nepali|script/.test(hStr)) return false;
+    if (!/letter|transliteration|sound|character|kannada|marathi|devanagari|tamil|telugu|bengali|bangla|assamese|malayalam|nepali|meitei|manipuri|script/.test(hStr)) return false;
     // Any Indian-script letter (Devanagari, Gurmukhi, Gujarati, Bengali, Telugu, Kannada, Tamil, etc.)
-    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0900-\u0D7F]/.test(String(r[0])));
+    return rows.every(r => Array.isArray(r) && r.length >= 2 && /[\u0600-\u06FF\u0900-\u0D7F\u1C50-\u1C7F\uABC0-\uABFF]/.test(String(r[0])));
   };
 
   const renderAlphabetGrid = (tbl) => {
@@ -6588,7 +6718,7 @@ function formatChapterFromData(ch) {
     (tbl.rows || []).forEach(row => {
       h += '<tr>';
       row.forEach((cell, i) => {
-        const isScript = /[\u0900-\u0D7F]/.test(cell);
+        const isScript = /[\u0600-\u06FF\u0900-\u0D7F\u1C50-\u1C7F\uABC0-\uABFF]/.test(cell);
         const cls = isScript ? ' class="busuu-script-cell"' : '';
         const style = isScript ? ' style="font-family:' + getScriptFont() + '"' : '';
         h += '<td' + cls + style + '>' + escape(cell) + '</td>';
@@ -6639,7 +6769,7 @@ function formatChapterContentBusuu(chapterId) {
       (tbl.rows || []).forEach(row => {
         html += '<tr>';
         row.forEach((cell, i) => {
-          const isScript = /[\u0900-\u097F\u0A00-\u0A7F\u0B80-\u0BFF\u0C80-\u0CFF]/.test(cell);
+          const isScript = /[\u0600-\u06FF\u0900-\u097F\u0A00-\u0A7F\u0B80-\u0BFF\u0C80-\u0CFF\u1C50-\u1C7F\uABC0-\uABFF]/.test(cell);
           const cls = isScript ? ' class="busuu-script-cell"' : '';
           const style = isScript ? ' style="font-family:' + getScriptFont() + '"' : '';
           html += '<td' + cls + style + '>' + escape(cell) + '</td>';

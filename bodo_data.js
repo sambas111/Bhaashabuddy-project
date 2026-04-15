@@ -1,0 +1,283 @@
+const BODO_PHRASES = {
+  greetings_1: {
+    name: "Greetings Set 1",
+    color: "#2B6CB0",
+    icon: "👋",
+    phrases: [
+      { en: "Welcome", mr: "मोजांग बे", roman: "Mojang be", hint: "" },
+      { en: "Good morning", mr: "मोजांग ओंखारनाय", roman: "Mojang ongkharnai", hint: "" },
+      { en: "Good evening", mr: "मोजांग बेलासे", roman: "Mojang belase", hint: "" },
+      { en: "Good night", mr: "मोजांग मोसानदि", roman: "Mojang mosandi", hint: "" },
+      { en: "How are you?", mr: "नों मोजांग दंना?", roman: "Nong mojang dongna?", hint: "" },
+      { en: "I am fine", mr: "आं मोजांग दं", roman: "Ang mojang dong", hint: "" },
+      { en: "What is your name?", mr: "नोंनि मुं मा?", roman: "Nongniy mung ma?", hint: "" },
+      { en: "My name is ...", mr: "आंनि मुं ...", roman: "Angniy mung ...", hint: "" },
+      { en: "Thank you", mr: "नोंथांग", roman: "Nongthang", hint: "" },
+      { en: "You're welcome", mr: "जेबो गोनांआ", roman: "Jebo gonanga", hint: "" },
+      { en: "Goodbye", mr: "थांनानै फैनानै", roman: "Thangnai phainai", hint: "" },
+      { en: "Please come", mr: "फैनानै बे", roman: "Phainai be", hint: "" },
+      { en: "Please help me", mr: "आंखौ होनानै बे", roman: "Angkhou honainai be", hint: "" },
+      { en: "I don't understand", mr: "आं बुजिआ", roman: "Ang bujia", hint: "" },
+      { en: "Are you well today?", mr: "दिनै नों मोजांग दंना?", roman: "Dinai nong mojang dongna?", hint: "" },
+      { en: "Please sit down", mr: "सोलिनानै बे", roman: "Solinainai be", hint: "" },
+      { en: "Where are you going?", mr: "नों बेलायाव थांगोन?", roman: "Nong belayaw thanggon?", hint: "" },
+      { en: "Excuse me / Sorry", mr: "माफ खालामनानै", roman: "Maph khalamnainai", hint: "" }
+    ]
+  },
+  travel_1: {
+    name: "Travel Set 1",
+    color: "#38A169",
+    icon: "🚌",
+    phrases: [
+      { en: "Where is the railway station?", mr: "रेल स्टेशन बेलायाव?", roman: "Rel steson belayaw?", hint: "" },
+      { en: "When does the bus come?", mr: "बास मानो फैगोन?", roman: "Bas mano phaigon?", hint: "" },
+      { en: "I want to go to ...", mr: "आं ...आव थांनो लांगौ", roman: "Ang ...aw thangno langou", hint: "" },
+      { en: "I need a ticket", mr: "आंनो टिकेट गोनां", roman: "Angno tiket gonang", hint: "" },
+      { en: "Where is the market?", mr: "बजार बेलायाव?", roman: "Bajar belayaw?", hint: "" },
+      { en: "Can you help me?", mr: "नों आंखौ होनो हागोन ना?", roman: "Nong angkhou hono hagon na?", hint: "" },
+      { en: "Where is the hotel?", mr: "होटेल बेलायाव?", roman: "Hotel belayaw?", hint: "" },
+      { en: "Where is the restaurant?", mr: "जानो नोफ्लाइ बेलायाव?", roman: "Jano nophlai belayaw?", hint: "" },
+      { en: "How can I go?", mr: "आं बेसो थांनो हागोन?", roman: "Ang beso thangno hagon?", hint: "" },
+      { en: "I have lost the way", mr: "आं लामा जाहोनानै", roman: "Ang lama jahonainai", hint: "" },
+      { en: "Where is the hospital?", mr: "हासपाताल बेलायाव?", roman: "Haspatal belayaw?", hint: "" },
+      { en: "I arrived today", mr: "आं दिनै फैनानै", roman: "Ang dinai phainainai", hint: "" },
+      { en: "When does the train leave?", mr: "रेल गाडि मानो थांगोन?", roman: "Rel gadi mano thanggon?", hint: "" },
+      { en: "I want to go to Guwahati", mr: "आं गुवाहाटीआव थांनो लांगौ", roman: "Ang Guwahatiaw thangno langou", hint: "" },
+      { en: "Is it very far?", mr: "बेसेन गोब्राब ना?", roman: "Besen gobrab na?", hint: "" },
+      { en: "Do you have a vehicle?", mr: "नोंनि गाडि दंना?", roman: "Nongniy gadi dongna?", hint: "" },
+      { en: "I will come in a little while", mr: "आं साखाथि फैगोन", roman: "Ang sakhathi phaigon", hint: "" },
+      { en: "From where does the bus start?", mr: "बास बेलायनिफ्राय ओंखारा?", roman: "Bas belayniphrai ongkhara?", hint: "" }
+    ]
+  },
+  food_1: {
+    name: "Food & Dining Set 1",
+    color: "#DD6B20",
+    icon: "🍛",
+    phrases: [
+      { en: "I want to eat", mr: "आं जानो लांगौ", roman: "Ang jano langou", hint: "" },
+      { en: "I want to drink water", mr: "आं दै नानो लांगौ", roman: "Ang dai nano langou", hint: "" },
+      { en: "Please eat food", mr: "जा नो बे", roman: "Ja no be", hint: "" },
+      { en: "What are you eating?", mr: "नों मा जायो?", roman: "Nong ma jayo?", hint: "" },
+      { en: "The food is very tasty", mr: "जोंनि हायार बेसेन मोजांग दं", roman: "Jongniy hayar besen mojang dong", hint: "" },
+      { en: "The rice is hot", mr: "ओंसै गोजां दं", roman: "Onsai gojang dong", hint: "" },
+      { en: "I want tea", mr: "आं सा नानो लांगौ", roman: "Ang sa nano langou", hint: "" },
+      { en: "Is rice ready?", mr: "ओंसै जाफा ना?", roman: "Onsai japha na?", hint: "" },
+      { en: "I cannot eat meat", mr: "आं मोसौ जानो हायाआ", roman: "Ang mosou jano hayaa", hint: "" },
+      { en: "I want to eat vegetables", mr: "आं लावथि जानो लांगौ", roman: "Ang lawthi jano langou", hint: "" },
+      { en: "Give me milk", mr: "आंनो दुध हो", roman: "Angno dudh ho", hint: "" },
+      { en: "This food is spicy", mr: "बे हायार गोजां दं", roman: "Be hayar gojang dong", hint: "" },
+      { en: "I have eaten", mr: "आं जानानै", roman: "Ang janainai", hint: "" },
+      { en: "Give me a glass of water", mr: "मोनसे गिलास दै होनो", roman: "Monse gilas dai hono", hint: "" },
+      { en: "How much is the food?", mr: "जोंनि हायार बेसेबो?", roman: "Jongniy hayar besebo?", hint: "" },
+      { en: "I want sweets", mr: "आं गाजा लांगौ", roman: "Ang gaja langou", hint: "" },
+      { en: "What are you cooking?", mr: "नों मा रांनो?", roman: "Nong ma rangno?", hint: "" },
+      { en: "I want to eat fruit", mr: "आं बिथाइ जानो लांगौ", roman: "Ang bithai jano langou", hint: "" }
+    ]
+  },
+  daily_1: {
+    name: "Daily Life Set 1",
+    color: "#805AD5",
+    icon: "🏠",
+    phrases: [
+      { en: "I wake up early", mr: "आं गोबां उदं", roman: "Ang gobang udong", hint: "" },
+      { en: "I am going to school", mr: "आं फोरोंसालिआव थांनो", roman: "Ang phorongsaliaw thangno", hint: "" },
+      { en: "I want to study", mr: "आं फोरोंनो लांगौ", roman: "Ang phorongno langou", hint: "" },
+      { en: "I am going to work", mr: "आं खामानियाव थांनो", roman: "Ang khamaniyaw thangno", hint: "" },
+      { en: "What day is today?", mr: "दिनै मा सान?", roman: "Dinai ma san?", hint: "" },
+      { en: "I am tired", mr: "आं गोसोंनानै", roman: "Ang gosongnainai", hint: "" },
+      { en: "I bought sweets", mr: "आं गाजा गंसेनानै", roman: "Ang gaja gonsenainai", hint: "" },
+      { en: "I am going to the market", mr: "आं बजारआव थांनो", roman: "Ang bajaraw thangno", hint: "" },
+      { en: "I am at home", mr: "आं नोआव दं", roman: "Ang noaw dong", hint: "" },
+      { en: "I want to go with you", mr: "आं नोंजों थांनो लांगौ", roman: "Ang nongjong thangno langou", hint: "" },
+      { en: "Today is a good day", mr: "दिनै मोजांग सान", roman: "Dinai mojang san", hint: "" },
+      { en: "I want to sleep", mr: "आं सोंनो लांगौ", roman: "Ang songno langou", hint: "" },
+      { en: "I get up early morning", mr: "आं गोबां फुंनि उदं", roman: "Ang gobang phungniy udong", hint: "" },
+      { en: "I have finished studying", mr: "आं फोरोंनानै", roman: "Ang phorongnainai", hint: "" },
+      { en: "I do my work", mr: "आं आंनि खामानि खालामो", roman: "Ang angniy khamaniy khalamo", hint: "" },
+      { en: "I am watching a show", mr: "आं नायनो दं", roman: "Ang naino dong", hint: "" },
+      { en: "I need rest", mr: "आंनो सोंनो गोनां", roman: "Angno songno gonang", hint: "" },
+      { en: "I am reading a book", mr: "आं बिजाब फोरोंनो", roman: "Ang bijab phorongno", hint: "" }
+    ]
+  },
+  shopping_1: {
+    name: "Shopping Set 1",
+    color: "#D69E2E",
+    icon: "🛒",
+    phrases: [
+      { en: "How much is this?", mr: "बेनि बेसेबो?", roman: "Beniy besebo?", hint: "" },
+      { en: "I want to buy this", mr: "आं बेखौ गंसेनो लांगौ", roman: "Ang bekhou gongseno langou", hint: "" },
+      { en: "That's too expensive", mr: "बेसेन मोनथाम", roman: "Besen montham", hint: "" },
+      { en: "Please reduce the price", mr: "मोनथाम गोथार खालामनानै", roman: "Montham gothar khalamnainai", hint: "" },
+      { en: "I want a dokhona", mr: "आं दखना लांगौ", roman: "Ang dokhona langou", hint: "" },
+      { en: "What do you have?", mr: "नोंनि मा मा दंना?", roman: "Nongniy ma ma dongna?", hint: "" },
+      { en: "I want shoes", mr: "आं लाथाइ लांगौ", roman: "Ang lathai langou", hint: "" },
+      { en: "Show me another one", mr: "गुबुन मोनसे देखानो", roman: "Gubun monse dekhano", hint: "" },
+      { en: "I will pay you", mr: "आं नोंनो फिसा होगोन", roman: "Ang nongno phisa hogon", hint: "" },
+      { en: "I want clothes", mr: "आं गांसे लांगौ", roman: "Ang ganse langou", hint: "" },
+      { en: "How much per kilo?", mr: "मोन किलोनि बेसेबो?", roman: "Mon kiloniy besebo?", hint: "" },
+      { en: "I want good quality", mr: "आं मोजांग लेका लांगौ", roman: "Ang mojang leka langou", hint: "" },
+      { en: "It's nice", mr: "मोजांग दं", roman: "Mojang dong", hint: "" },
+      { en: "I don't need this", mr: "आंनो बे गोनांआ", roman: "Angno be gonanga", hint: "" },
+      { en: "Can I see more?", mr: "आं गुबुनखौबो नायनो हागोन ना?", roman: "Ang gubunkhoubo naino hagon na?", hint: "" },
+      { en: "I want oil", mr: "आं तेल लांगौ", roman: "Ang tel langou", hint: "" },
+      { en: "I want sugar", mr: "आं सिनि लांगौ", roman: "Ang sini langou", hint: "" },
+      { en: "I want salt", mr: "आं नून लांगौ", roman: "Ang nun langou", hint: "" }
+    ]
+  },
+  emergency_1: {
+    name: "Emergency Set 1",
+    color: "#E53E3E",
+    icon: "🚨",
+    phrases: [
+      { en: "Help!", mr: "होनानै बे!", roman: "Honainai be!", hint: "" },
+      { en: "I am sick", mr: "आं गोसा दं", roman: "Ang gosa dong", hint: "" },
+      { en: "Call a doctor", mr: "दाक्तोरखौ रा", roman: "Daktorkhou ra", hint: "" },
+      { en: "I need to go to the hospital", mr: "आंनो हासपातालआव थांनो गोनां", roman: "Angno haspatalaaw thangno gonang", hint: "" },
+      { en: "Call the police", mr: "पुलिसखौ रा", roman: "Puliskhou ra", hint: "" },
+      { en: "I need medicine", mr: "आंनो ओसाद गोनां", roman: "Angno osad gonang", hint: "" },
+      { en: "I am lost", mr: "आं लामा जाहोनानै", roman: "Ang lama jahonainai", hint: "" },
+      { en: "Please help me!", mr: "आंखौ होनानै बे!", roman: "Angkhou honainai be!", hint: "" },
+      { en: "My money was stolen", mr: "आंनि फिसा खुसियानानै", roman: "Angniy phisa khusiyanainai", hint: "" },
+      { en: "Call an ambulance", mr: "एम्बुलेन्सखौ रा", roman: "Ambulenskhou ra", hint: "" },
+      { en: "There is a fire!", mr: "मोइ दं!", roman: "Moi dong!", hint: "" },
+      { en: "There is danger!", mr: "गोसोख दं!", roman: "Gosokh dong!", hint: "" },
+      { en: "I am not feeling well", mr: "आं मोजांग दंआ", roman: "Ang mojang donga", hint: "" },
+      { en: "I have a headache", mr: "आंनि खोला जुनायदं", roman: "Angniy khola junaidong", hint: "" },
+      { en: "I have a stomach ache", mr: "आंनि फोथा जुनायदं", roman: "Angniy photha junaidong", hint: "" },
+      { en: "Give me water", mr: "आंनो दै हो", roman: "Angno dai ho", hint: "" },
+      { en: "I need to go home", mr: "आंनो नोयाव थांनो गोनां", roman: "Angno noyaw thangno gonang", hint: "" },
+      { en: "Help in an emergency!", mr: "गोसोखनि समाव होनानै बे!", roman: "Gosokhniy samaw honainai be!", hint: "" }
+    ]
+  }
+};
+
+const BODO_DICTIONARY = {
+  basics_1: {
+    name: "Basic Words Set 1",
+    words: [
+      { en: "I / me", mr: "आं", roman: "ang" },
+      { en: "you", mr: "नों", roman: "nong" },
+      { en: "he / she", mr: "बि", roman: "bi" },
+      { en: "we", mr: "जों", roman: "jong" },
+      { en: "they", mr: "बिसोर", roman: "bisor" },
+      { en: "house", mr: "नो", roman: "no" },
+      { en: "water", mr: "दै", roman: "dai" },
+      { en: "rice (cooked)", mr: "ओंसै", roman: "onsai" },
+      { en: "rice (raw)", mr: "माइ", roman: "mai" },
+      { en: "land / earth", mr: "हा", roman: "ha" },
+      { en: "sun / day", mr: "सान", roman: "san" },
+      { en: "moon / month", mr: "हान", roman: "han" },
+      { en: "road / path", mr: "लामा", roman: "lama" },
+      { en: "market", mr: "बजार", roman: "bajar" },
+      { en: "village", mr: "गामि", roman: "gami" },
+      { en: "morning", mr: "फुं", roman: "phung" },
+      { en: "evening", mr: "बेलासे", roman: "belase" },
+      { en: "today", mr: "दिनै", roman: "dinai" },
+      { en: "yesterday", mr: "मैया", roman: "maiya" },
+      { en: "tomorrow", mr: "गाबोन", roman: "gabon" }
+    ]
+  },
+  family_1: {
+    name: "Family & People Set 1",
+    words: [
+      { en: "father", mr: "आफा", roman: "apha" },
+      { en: "mother", mr: "आमा", roman: "ama" },
+      { en: "elder brother", mr: "दादा", roman: "dada" },
+      { en: "elder sister", mr: "बियो", roman: "biyo" },
+      { en: "husband", mr: "गोथो", roman: "gotho" },
+      { en: "wife", mr: "गोसानि", roman: "gosani" },
+      { en: "child", mr: "उन्दै", roman: "undai" },
+      { en: "son", mr: "गथा", roman: "gotha" },
+      { en: "daughter", mr: "गुथि", roman: "guthi" },
+      { en: "grandfather", mr: "आबौ", roman: "abou" },
+      { en: "grandmother", mr: "आबि", roman: "abi" }
+    ]
+  },
+  verbs_1: {
+    name: "Common Verbs Set 1",
+    words: [
+      { en: "go", mr: "थां", roman: "thang" },
+      { en: "come", mr: "फै", roman: "phai" },
+      { en: "eat", mr: "जा", roman: "ja" },
+      { en: "drink", mr: "ना", roman: "na" },
+      { en: "see / look", mr: "नाय", roman: "nai" },
+      { en: "hear / listen", mr: "खौ", roman: "khou" },
+      { en: "speak / say", mr: "बुं", roman: "bung" },
+      { en: "write", mr: "राय", roman: "rai" },
+      { en: "read / study", mr: "फोरों", roman: "phorong" },
+      { en: "work / do", mr: "खालाम", roman: "khalam" },
+      { en: "sleep", mr: "सोंन", roman: "songn" },
+      { en: "run", mr: "लुफुं", roman: "luphung" },
+      { en: "give", mr: "हो", roman: "ho" },
+      { en: "bring", mr: "लां", roman: "lang" },
+      { en: "buy", mr: "गंसे", roman: "gongse" },
+      { en: "call", mr: "रा", roman: "ra" }
+    ]
+  },
+  common_1: {
+    name: "Common Words Set 1",
+    words: [
+      { en: "no / not", mr: "नंगौ", roman: "nangou" },
+      { en: "yes", mr: "होय", roman: "hoi" },
+      { en: "good", mr: "मोजांग", roman: "mojang" },
+      { en: "bad", mr: "गाज", roman: "gaj" },
+      { en: "big / great", mr: "गेदेर", roman: "geder" },
+      { en: "small / little", mr: "सानजा", roman: "sanja" },
+      { en: "new", mr: "नोगोद", roman: "nogod" },
+      { en: "old", mr: "गोदान", roman: "godan" },
+      { en: "far", mr: "गोब्राब", roman: "gobrab" },
+      { en: "near", mr: "लोगो", roman: "logo" },
+      { en: "beautiful", mr: "गांसोर", roman: "gansor" },
+      { en: "want", mr: "लांगौ", roman: "langou" },
+      { en: "need", mr: "गोनां", roman: "gonang" },
+      { en: "with / together", mr: "जों", roman: "jong" },
+      { en: "in / at", mr: "आव", roman: "aw" },
+      { en: "from", mr: "निफ्राय", roman: "niphrai" },
+      { en: "where", mr: "बेलायाव", roman: "belayaw" },
+      { en: "what", mr: "मा", roman: "ma" },
+      { en: "who", mr: "सोर", roman: "sor" }
+    ]
+  },
+  nature_1: {
+    name: "Nature & Food Set 1",
+    words: [
+      { en: "tea", mr: "सा", roman: "sa" },
+      { en: "milk", mr: "दुध", roman: "dudh" },
+      { en: "vegetable", mr: "लावथि", roman: "lawthi" },
+      { en: "meat", mr: "मोसौ", roman: "mosou" },
+      { en: "fish", mr: "ना", roman: "na" },
+      { en: "fruit", mr: "बिथाइ", roman: "bithai" },
+      { en: "tree", mr: "बिफां", roman: "biphang" },
+      { en: "flower", mr: "बिबार", roman: "bibar" },
+      { en: "sun", mr: "सान", roman: "san" },
+      { en: "moon", mr: "हान", roman: "han" },
+      { en: "star", mr: "हानथि", roman: "hanthi" },
+      { en: "fire", mr: "मोइ", roman: "moi" },
+      { en: "wind", mr: "बार", roman: "bar" },
+      { en: "salt", mr: "नून", roman: "nun" },
+      { en: "sugar", mr: "सिनि", roman: "sini" },
+      { en: "oil", mr: "तेल", roman: "tel" },
+      { en: "cow", mr: "गाइ", roman: "gai" },
+      { en: "rice beer", mr: "जु", roman: "ju" },
+      { en: "mountain / hill", mr: "हाजो", roman: "hajo" },
+      { en: "egg", mr: "बुथुर", roman: "buthur" }
+    ]
+  },
+  everyday_1: {
+    name: "Everyday Items Set 1",
+    words: [
+      { en: "thank you", mr: "नोंथांग", roman: "nongthang" },
+      { en: "money", mr: "फिसा", roman: "phisa" },
+      { en: "book", mr: "बिजाब", roman: "bijab" },
+      { en: "shop", mr: "दोकान", roman: "dokan" },
+      { en: "shoe", mr: "लाथाइ", roman: "lathai" },
+      { en: "cloth / clothes", mr: "गांसे", roman: "ganse" },
+      { en: "traditional dress", mr: "दखना", roman: "dokhona" },
+      { en: "sickness", mr: "गोसा", roman: "gosa" },
+      { en: "pain / ache", mr: "जुनाय", roman: "junai" },
+      { en: "head", mr: "खोला", roman: "khola" },
+      { en: "stomach", mr: "फोथा", roman: "photha" },
+      { en: "hand", mr: "आखाइ", roman: "akhai" }
+    ]
+  }
+};
