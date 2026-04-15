@@ -5880,6 +5880,19 @@ const LANGUAGES = {
     PHRASES: typeof MAITHILI_PHRASES !== "undefined" ? MAITHILI_PHRASES : {},
     DICTIONARY: typeof MAITHILI_DICTIONARY !== "undefined" ? MAITHILI_DICTIONARY : []
   },
+  hindi: {
+    name: "Hindi",
+    code: "hi",
+    subtitle: "हिन्दी सीखें",
+    scriptFont: "'Noto Sans Devanagari', sans-serif",
+    speechLang: "hi-IN",
+    dataSource: "BhaashaBuddy (curriculum aligned with Maithili track)",
+    hasLessons: true,
+    dataFile: "data_hindi.json",
+    structureFile: "lessons_structure_hindi.json",
+    PHRASES: typeof HINDI_PHRASES !== "undefined" ? HINDI_PHRASES : {},
+    DICTIONARY: typeof HINDI_DICTIONARY !== "undefined" ? HINDI_DICTIONARY : []
+  },
   telugu: {
     name: "Telugu",
     code: "te",
@@ -5942,8 +5955,8 @@ const LANGUAGES = {
     hasLessons: true,
     dataFile: "data_nepali.json",
     structureFile: "lessons_structure_nepali.json",
-    PHRASES: {},
-    DICTIONARY: []
+    PHRASES: typeof NEPALI_PHRASES !== "undefined" ? NEPALI_PHRASES : {},
+    DICTIONARY: typeof NEPALI_DICTIONARY !== "undefined" ? NEPALI_DICTIONARY : []
   },
   meitei: {
     name: "Meitei (Manipuri)",
@@ -5994,8 +6007,8 @@ const LANGUAGES = {
     hasLessons: true,
     dataFile: "data_kashmiri.json",
     structureFile: "lessons_structure_kashmiri.json",
-    PHRASES: {},
-    DICTIONARY: []
+    PHRASES: typeof KASHMIRI_PHRASES !== "undefined" ? KASHMIRI_PHRASES : {},
+    DICTIONARY: typeof KASHMIRI_DICTIONARY !== "undefined" ? KASHMIRI_DICTIONARY : []
   },
   odia: {
     name: "Odia",
@@ -6427,7 +6440,7 @@ function speakMarathi() {
 const OFFLINE_STORAGE_KEY = 'offlineModeEnabled';
 const OFFLINE_CACHE_PREFIX = 'offline_lessons_';
 /** Bump when any data_*.json content is meaningfully updated so browsers and offline cache pick up new rows. */
-const LESSONS_DATA_REVISION = '2026-04-15-lessons-data-v10-kashmiri-l5-conversation-banks';
+const LESSONS_DATA_REVISION = '2026-04-15-lessons-data-v17-hindi-standard-phrasing';
 
 function invalidateStaleLessonCaches() {
   try {

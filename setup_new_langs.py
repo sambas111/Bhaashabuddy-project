@@ -1,4 +1,4 @@
-import json, re, copy
+import json, re, copy, sys
 
 BASE = 'lessons_structure_maithili.json'
 base = json.load(open(BASE, 'r', encoding='utf-8'))
@@ -50,9 +50,21 @@ LANGS = {
             ('Maithili', 'Konkani'), ('मैथिली', 'कोंकणी'),
         ]
     },
+    'hindi': {
+        'name': 'Hindi',
+        'script_name': 'Devanagari Script',
+        'devanagari_replace': [
+            ('Maithili', 'Hindi'), ('मैथिली', 'हिन्दी'),
+        ]
+    },
 }
 
+# Optional: python setup_new_langs.py hindi odia  (only listed keys). No args = all keys.
+_only = [x.strip().lower() for x in sys.argv[1:] if x.strip()]
+
 for lang_key, info in LANGS.items():
+    if _only and lang_key.lower() not in _only:
+        continue
     # 1. Create lessons_structure
     text = json.dumps(base, ensure_ascii=False, indent=2)
     for old, new in info['devanagari_replace']:
