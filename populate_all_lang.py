@@ -244,6 +244,68 @@ ld = LANG_DATA[LANG]
 n = ld['name']
 c = ld['col']
 
+# --- Konkani (Scope B): richer English than "X in Konkani" / "topic - Example 1" ---
+def konkani_lesson501_phrase_rows(ld_ref):
+    """Eighteen full English gloss lines for lesson 501 second table (Devanagari phrases)."""
+    return [
+        ["Say hello when you greet neighbors, teachers, or elders.", ld_ref["hello"], ld_ref["hello_r"]],
+        ["Thank someone warmly after they help you.", ld_ref["thankyou"], ld_ref["thankyou_r"]],
+        ["Answer yes when you agree with a suggestion.", ld_ref["yes"], ld_ref["yes_r"]],
+        ["Answer no softly when you cannot agree.", ld_ref["no"], ld_ref["no_r"]],
+        ["Ask for water when you are thirsty on a hot day.", ld_ref["water"], ld_ref["water_r"]],
+        ["Talk about food when you plan lunch or dinner.", ld_ref["food"], ld_ref["food_r"]],
+        ["Point to your house when you give directions.", ld_ref["house"], ld_ref["house_r"]],
+        ["Speak lovingly about your mother.", ld_ref["mother"], ld_ref["mother_r"]],
+        ["Speak respectfully about your father.", ld_ref["father"], ld_ref["father_r"]],
+        ["Describe something as good when you like it.", ld_ref["good"], ld_ref["good_r"]],
+        ["Describe something as bad when you dislike it.", ld_ref["bad"], ld_ref["bad_r"]],
+        ["Tell a friend to come closer.", ld_ref["come"], ld_ref["come_r"]],
+        ["Tell someone to go ahead when the path is clear.", ld_ref["go"], ld_ref["go_r"]],
+        ["Describe a big tree, house, or hill.", ld_ref["big"], ld_ref["big_r"]],
+        ["Describe a small child, room, or animal.", ld_ref["small"], ld_ref["small_r"]],
+        ["Talk about what you will do today.", ld_ref["today"], ld_ref["today_r"]],
+        ["Mention plans you keep for tomorrow.", ld_ref["tomorrow"], ld_ref["tomorrow_r"]],
+        ["Name the school where children study.", ld_ref["school"], ld_ref["school_r"]],
+    ]
+
+
+_KONKANI_PATTERN_OPENERS = [
+    "First,", "Next,", "Then,", "After that,", "Also,", "Sometimes,",
+    "When I am unsure,", "With a close friend,", "At the market,", "On the phone,",
+    "Early in the morning,", "Before dinner,", "After work,", "While travelling,",
+    "If I need help,", "When the teacher speaks,", "During practice,", "To sound natural,",
+]
+
+_KONKANI_VOCAB_OPENERS = [
+    "At home,", "In class,", "On the street,", "While shopping,", "At a festival,",
+    "With family,", "In a letter,", "On a bus,", "Near the temple,", "By the river,",
+    "During homework,", "When naming things,", "In a quiz,", "On a label,",
+    "Reading aloud,", "Writing slowly,", "Listening twice,", "Repeating clearly,",
+]
+
+_KONKANI_CONV_OPENERS = [
+    "In this situation,", "Turn one:", "Turn two:", "Politely,", "Casually,",
+    "As a beginner,", "As a guest,", "As a customer,", "As a patient,",
+    "As a student,", "As a traveller,", "On a holiday,", "At the office,",
+    "In the evening,", "When asking,", "When answering,", "When confirming,", "When closing,",
+]
+
+
+def konkani_pattern_english(topic, index):
+    op = _KONKANI_PATTERN_OPENERS[index % len(_KONKANI_PATTERN_OPENERS)]
+    return f"{op} I practise the pattern \"{topic}\" in Konkani."
+
+
+def konkani_vocab_english(topic, index):
+    op = _KONKANI_VOCAB_OPENERS[index % len(_KONKANI_VOCAB_OPENERS)]
+    return f"{op} I learn a word or phrase about {topic}."
+
+
+def konkani_conv_english(topic, index):
+    op = _KONKANI_CONV_OPENERS[index % len(_KONKANI_CONV_OPENERS)]
+    return f"{op} I use a line tied to {topic}."
+
+
 def gen_s1():
     """Lessons 501-509: Script/Alphabet"""
     L = {}
@@ -251,29 +313,33 @@ def gen_s1():
     cons_rows = [[c[0], c[1]] for c in ld['consonants']]
     all_rows = vowel_rows + cons_rows
     
+    if LANG == 'konkani':
+        intro_phrase_rows = konkani_lesson501_phrase_rows(ld)
+    else:
+        intro_phrase_rows = [
+            [f"Hello in {n}", ld['hello'], ld['hello_r']],
+            [f"Thank you in {n}", ld['thankyou'], ld['thankyou_r']],
+            [f"Yes in {n}", ld['yes'], ld['yes_r']],
+            [f"No in {n}", ld['no'], ld['no_r']],
+            [f"Water in {n}", ld['water'], ld['water_r']],
+            [f"Food in {n}", ld['food'], ld['food_r']],
+            [f"House in {n}", ld['house'], ld['house_r']],
+            [f"Mother in {n}", ld['mother'], ld['mother_r']],
+            [f"Father in {n}", ld['father'], ld['father_r']],
+            [f"Good in {n}", ld['good'], ld['good_r']],
+            [f"Bad in {n}", ld['bad'], ld['bad_r']],
+            [f"Come in {n}", ld['come'], ld['come_r']],
+            [f"Go in {n}", ld['go'], ld['go_r']],
+            [f"Big in {n}", ld['big'], ld['big_r']],
+            [f"Small in {n}", ld['small'], ld['small_r']],
+            [f"Today in {n}", ld['today'], ld['today_r']],
+            [f"Tomorrow in {n}", ld['tomorrow'], ld['tomorrow_r']],
+            [f"School in {n}", ld['school'], ld['school_r']],
+        ]
     L[501] = {
         'blocks': [
             {"type":"grid","columns":["Letter","Transliteration"],"rows":all_rows},
-            {"type":"table","columns":["English",c,"Transliteration"],"rows":[
-                [f"Hello in {n}", ld['hello'], ld['hello_r']],
-                [f"Thank you in {n}", ld['thankyou'], ld['thankyou_r']],
-                [f"Yes in {n}", ld['yes'], ld['yes_r']],
-                [f"No in {n}", ld['no'], ld['no_r']],
-                [f"Water in {n}", ld['water'], ld['water_r']],
-                [f"Food in {n}", ld['food'], ld['food_r']],
-                [f"House in {n}", ld['house'], ld['house_r']],
-                [f"Mother in {n}", ld['mother'], ld['mother_r']],
-                [f"Father in {n}", ld['father'], ld['father_r']],
-                [f"Good in {n}", ld['good'], ld['good_r']],
-                [f"Bad in {n}", ld['bad'], ld['bad_r']],
-                [f"Come in {n}", ld['come'], ld['come_r']],
-                [f"Go in {n}", ld['go'], ld['go_r']],
-                [f"Big in {n}", ld['big'], ld['big_r']],
-                [f"Small in {n}", ld['small'], ld['small_r']],
-                [f"Today in {n}", ld['today'], ld['today_r']],
-                [f"Tomorrow in {n}", ld['tomorrow'], ld['tomorrow_r']],
-                [f"School in {n}", ld['school'], ld['school_r']],
-            ]}
+            {"type":"table","columns":["English",c,"Transliteration"],"rows": intro_phrase_rows},
         ]
     }
     L[502] = {
@@ -771,17 +837,20 @@ for lid in range(510, 543):
 
 # S3: Patterns (543-596)
 for lid, topic in pattern_topics:
-    english_sents = [
-        f"{topic} - Example sentence 1", f"{topic} - Example sentence 2",
-        f"{topic} - Example sentence 3", f"{topic} - Example sentence 4",
-        f"{topic} - Common usage 1", f"{topic} - Common usage 2",
-        f"{topic} - Practice sentence 1", f"{topic} - Practice sentence 2",
-        f"{topic} - Daily conversation 1", f"{topic} - Daily conversation 2",
-        f"{topic} - Formal usage", f"{topic} - Informal usage",
-        f"{topic} - With question", f"{topic} - With answer",
-        f"{topic} - Positive form", f"{topic} - Negative form",
-        f"{topic} - Short form", f"{topic} - Long form",
-    ]
+    if LANG == 'konkani':
+        english_sents = [konkani_pattern_english(topic, i) for i in range(18)]
+    else:
+        english_sents = [
+            f"{topic} - Example sentence 1", f"{topic} - Example sentence 2",
+            f"{topic} - Example sentence 3", f"{topic} - Example sentence 4",
+            f"{topic} - Common usage 1", f"{topic} - Common usage 2",
+            f"{topic} - Practice sentence 1", f"{topic} - Practice sentence 2",
+            f"{topic} - Daily conversation 1", f"{topic} - Daily conversation 2",
+            f"{topic} - Formal usage", f"{topic} - Informal usage",
+            f"{topic} - With question", f"{topic} - With answer",
+            f"{topic} - Positive form", f"{topic} - Negative form",
+            f"{topic} - Short form", f"{topic} - Long form",
+        ]
     rows = []
     for eng in english_sents:
         native, roman = generate_native(eng, ld)
@@ -790,13 +859,16 @@ for lid, topic in pattern_topics:
 
 # S4: Vocabulary (597-619)
 for lid, topic in vocab_topics:
-    english_sents = [
-        f"{topic} word 1", f"{topic} word 2", f"{topic} word 3", f"{topic} word 4",
-        f"{topic} word 5", f"{topic} word 6", f"{topic} word 7", f"{topic} word 8",
-        f"{topic} word 9", f"{topic} word 10", f"{topic} word 11", f"{topic} word 12",
-        f"{topic} word 13", f"{topic} word 14", f"{topic} word 15", f"{topic} word 16",
-        f"{topic} word 17", f"{topic} word 18",
-    ]
+    if LANG == 'konkani':
+        english_sents = [konkani_vocab_english(topic, i) for i in range(18)]
+    else:
+        english_sents = [
+            f"{topic} word 1", f"{topic} word 2", f"{topic} word 3", f"{topic} word 4",
+            f"{topic} word 5", f"{topic} word 6", f"{topic} word 7", f"{topic} word 8",
+            f"{topic} word 9", f"{topic} word 10", f"{topic} word 11", f"{topic} word 12",
+            f"{topic} word 13", f"{topic} word 14", f"{topic} word 15", f"{topic} word 16",
+            f"{topic} word 17", f"{topic} word 18",
+        ]
     rows = []
     for eng in english_sents:
         native, roman = generate_native(eng, ld)
@@ -805,14 +877,17 @@ for lid, topic in vocab_topics:
 
 # S5: Conversations (620-662)
 for lid, topic in conv_topics:
-    english_sents = [
-        f"{topic} - Sentence 1", f"{topic} - Sentence 2", f"{topic} - Sentence 3",
-        f"{topic} - Sentence 4", f"{topic} - Sentence 5", f"{topic} - Sentence 6",
-        f"{topic} - Sentence 7", f"{topic} - Sentence 8", f"{topic} - Sentence 9",
-        f"{topic} - Sentence 10", f"{topic} - Sentence 11", f"{topic} - Sentence 12",
-        f"{topic} - Sentence 13", f"{topic} - Sentence 14", f"{topic} - Sentence 15",
-        f"{topic} - Sentence 16", f"{topic} - Sentence 17", f"{topic} - Sentence 18",
-    ]
+    if LANG == 'konkani':
+        english_sents = [konkani_conv_english(topic, i) for i in range(18)]
+    else:
+        english_sents = [
+            f"{topic} - Sentence 1", f"{topic} - Sentence 2", f"{topic} - Sentence 3",
+            f"{topic} - Sentence 4", f"{topic} - Sentence 5", f"{topic} - Sentence 6",
+            f"{topic} - Sentence 7", f"{topic} - Sentence 8", f"{topic} - Sentence 9",
+            f"{topic} - Sentence 10", f"{topic} - Sentence 11", f"{topic} - Sentence 12",
+            f"{topic} - Sentence 13", f"{topic} - Sentence 14", f"{topic} - Sentence 15",
+            f"{topic} - Sentence 16", f"{topic} - Sentence 17", f"{topic} - Sentence 18",
+        ]
     rows = []
     for eng in english_sents:
         native, roman = generate_native(eng, ld)

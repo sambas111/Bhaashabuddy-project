@@ -1394,324 +1394,6 @@
         ],
         "rows": [
           [
-            "Boy",
-            "ପୁଅ",
-            "pua"
-          ],
-          [
-            "Girl",
-            "ଝିଅ",
-            "jhia"
-          ],
-          [
-            "Man",
-            "ପୁରୁଷ",
-            "purusha"
-          ],
-          [
-            "Woman",
-            "ସ୍ତ୍ରୀ",
-            "stri"
-          ],
-          [
-            "King",
-            "ରାଜା",
-            "raja"
-          ],
-          [
-            "Queen",
-            "ରାଣୀ",
-            "rani"
-          ],
-          [
-            "Lion",
-            "ସିଂହ",
-            "simha"
-          ],
-          [
-            "Lioness",
-            "ସିଂହୀ",
-            "simhi"
-          ],
-          [
-            "God",
-            "ଦେବତା",
-            "debata"
-          ],
-          [
-            "Goddess",
-            "ଦେବୀ",
-            "debi"
-          ],
-          [
-            "Actor",
-            "ଅଭିନେତା",
-            "abhineta"
-          ],
-          [
-            "Actress",
-            "ଅଭିନେତ୍ରୀ",
-            "abhinetri"
-          ],
-          [
-            "Horse",
-            "ଘୋଡ଼ା",
-            "ghoda"
-          ],
-          [
-            "Mare",
-            "ଘୋଡ଼ୀ",
-            "ghodi"
-          ],
-          [
-            "The boy is tall",
-            "ପୁଅଟି ଲମ୍ବା",
-            "puati lamba"
-          ],
-          [
-            "The girl is smart",
-            "ଝିଅଟି ଚତୁର",
-            "jhiati chatura"
-          ],
-          [
-            "He is a good man",
-            "ସେ ଜଣେ ଭଲ ପୁରୁଷ",
-            "se jane bhala purusha"
-          ],
-          [
-            "She is a brave woman",
-            "ସେ ଜଣେ ସାହସୀ ସ୍ତ୍ରୀ",
-            "se jane sahasi stri"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 511,
-    "url": "Using plurals to indicate respect in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "Book",
-            "ବହି",
-            "bahi"
-          ],
-          [
-            "Books",
-            "ବହିଗୁଡ଼ିକ",
-            "bahigudika"
-          ],
-          [
-            "Child",
-            "ପିଲା",
-            "pila"
-          ],
-          [
-            "Children",
-            "ପିଲାମାନେ",
-            "pilamane"
-          ],
-          [
-            "Tree",
-            "ଗଛ",
-            "gachha"
-          ],
-          [
-            "Trees",
-            "ଗଛଗୁଡ଼ିକ",
-            "gachhagudika"
-          ],
-          [
-            "Flower",
-            "ଫୁଲ",
-            "phula"
-          ],
-          [
-            "Flowers",
-            "ଫୁଲଗୁଡ଼ିକ",
-            "phulagudika"
-          ],
-          [
-            "Bird",
-            "ପକ୍ଷୀ",
-            "pakshi"
-          ],
-          [
-            "Birds",
-            "ପକ୍ଷୀମାନେ",
-            "pakshimane"
-          ],
-          [
-            "The boy came",
-            "ପୁଅଟି ଆସିଲା",
-            "puati asila"
-          ],
-          [
-            "The boys came",
-            "ପୁଅମାନେ ଆସିଲେ",
-            "puamane asile"
-          ],
-          [
-            "The dog is running",
-            "କୁକୁରଟି ଦୌଡ଼ୁଛି",
-            "kukurati dauduchhi"
-          ],
-          [
-            "The dogs are running",
-            "କୁକୁରଗୁଡ଼ିକ ଦୌଡ଼ୁଛନ୍ତି",
-            "kukuragudika dauduchanti"
-          ],
-          [
-            "Give me a pen",
-            "ମୋତେ ଗୋଟିଏ କଲମ ଦିଅ",
-            "mote gotie kalama dia"
-          ],
-          [
-            "Give me the pens",
-            "ମୋତେ କଲମଗୁଡ଼ିକ ଦିଅ",
-            "mote kalamagudika dia"
-          ],
-          [
-            "The star shines",
-            "ତାରାଟି ଜଳୁଛି",
-            "tarati jaluchhi"
-          ],
-          [
-            "The stars shine",
-            "ତାରାଗୁଡ଼ିକ ଜଳୁଛନ୍ତି",
-            "taragudika jaluchanti"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 512,
-    "url": "Verbs in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "Nominative: The boy reads",
-            "ପୁଅଟି ପଢ଼େ",
-            "puati padhe"
-          ],
-          [
-            "Accusative: I see him",
-            "ମୁଁ ତାକୁ ଦେଖୁଛି",
-            "mun taku dekhuchhi"
-          ],
-          [
-            "Instrumental: He writes with a pen",
-            "ସେ କଲମରେ ଲେଖେ",
-            "se kalamare lekhe"
-          ],
-          [
-            "Dative: Give the book to me",
-            "ମୋତେ ବହିଟି ଦିଅ",
-            "mote bahiti dia"
-          ],
-          [
-            "Ablative: He came from the village",
-            "ସେ ଗାଁରୁ ଆସିଲା",
-            "se ganru asila"
-          ],
-          [
-            "Genitive: This is my house",
-            "ଏହା ମୋ ଘର",
-            "eha mo ghara"
-          ],
-          [
-            "Locative: The cat is on the roof",
-            "ବିଲେଇ ଛାତ ଉପରେ ଅଛି",
-            "bilei chhata upare achhi"
-          ],
-          [
-            "I gave money to him",
-            "ମୁଁ ତାକୁ ଟଙ୍କା ଦେଲି",
-            "mun taku tanka deli"
-          ],
-          [
-            "She came by bus",
-            "ସେ ବସ୍‌ରେ ଆସିଲା",
-            "se basre asila"
-          ],
-          [
-            "The pen is in the box",
-            "କଲମଟି ବାକ୍ସ ଭିତରେ ଅଛି",
-            "kalamati baksa bhitare achhi"
-          ],
-          [
-            "Father's shirt is white",
-            "ବାପାଙ୍କ ସାର୍ଟ ଧଳା",
-            "bapanka sarta dhala"
-          ],
-          [
-            "He hit me with a stick",
-            "ସେ ମୋତେ ବାଡ଼ିରେ ମାରିଲା",
-            "se mote badire marila"
-          ],
-          [
-            "Water flows from the hill",
-            "ପାହାଡ଼ରୁ ପାଣି ଗଡ଼େ",
-            "pahadru pani gade"
-          ],
-          [
-            "I am going to the market",
-            "ମୁଁ ବଜାରକୁ ଯାଉଛି",
-            "mun bajaraku jauchhi"
-          ],
-          [
-            "The bird is on the tree",
-            "ପକ୍ଷୀଟି ଗଛ ଉପରେ ଅଛି",
-            "pakshiti gachha upare achhi"
-          ],
-          [
-            "This is Rama's book",
-            "ଏହା ରାମର ବହି",
-            "eha Ramara bahi"
-          ],
-          [
-            "I went with my friend",
-            "ମୁଁ ମୋ ସାଙ୍ଗ ସହିତ ଗଲି",
-            "mun mo sanga sahita gali"
-          ],
-          [
-            "Sit on the chair",
-            "ଚେୟାର ଉପରେ ବସ",
-            "cheyara upare basa"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 513,
-    "url": "Simple Present Tense in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
             "I",
             "ମୁଁ",
             "mun"
@@ -1722,12 +1404,12 @@
             "tu"
           ],
           [
-            "You (formal)",
+            "You (formal / respectful)",
             "ଆପଣ",
             "apana"
           ],
           [
-            "He / She",
+            "He / she / that one",
             "ସେ",
             "se"
           ],
@@ -1735,6 +1417,11 @@
             "We",
             "ଆମେ",
             "ame"
+          ],
+          [
+            "You (plural)",
+            "ତୁମେ",
+            "tume"
           ],
           [
             "They",
@@ -1752,62 +1439,68 @@
             "seha"
           ],
           [
-            "Who",
-            "କିଏ",
-            "kie"
+            "A book (one book)",
+            "ଗୋଟିଏ ବହି",
+            "gotie bahi"
           ],
           [
-            "What",
-            "କ'ଣ",
-            "kana"
+            "The book (emphatic this/that)",
+            "ଏହି ବହି",
+            "ehi bahi"
           ],
           [
-            "My name is Sita",
-            "ମୋ ନାମ ସୀତା",
-            "mo nama Sita"
+            "My book",
+            "ମୋ ବହି",
+            "mo bahi"
           ],
           [
-            "You are my friend",
-            "ତୁ ମୋ ସାଙ୍ଗ",
-            "tu mo sanga"
+            "Your book (informal)",
+            "ତୋ ବହି",
+            "to bahi"
           ],
           [
-            "He is a teacher",
-            "ସେ ଜଣେ ଶିକ୍ଷକ",
-            "se jane shikshaka"
+            "His / her book",
+            "ତା ବହି",
+            "ta bahi"
           ],
           [
-            "We are students",
-            "ଆମେ ଛାତ୍ର",
-            "ame chatra"
+            "Our school",
+            "ଆମ ସ୍କୁଲ",
+            "ama skula"
           ],
           [
-            "They went home",
-            "ସେମାନେ ଘରକୁ ଗଲେ",
-            "semane gharaku gale"
+            "These children",
+            "ଏ ପିଲାମାନେ",
+            "e pilamane"
           ],
           [
-            "This is mine",
-            "ଏହା ମୋର",
-            "eha mora"
+            "Those houses",
+            "ସେ ଘରଗୁଡ଼ିକ",
+            "se gharagudika"
           ],
           [
-            "Who came yesterday?",
-            "ଗତକାଲି କିଏ ଆସିଥିଲା?",
-            "gatakali kie asithila?"
+            "Who is he?",
+            "ସେ କିଏ?",
+            "se kie?"
           ],
           [
-            "What do you want?",
-            "ତୁ କ'ଣ ଚାହୁଁଛ?",
-            "tu kana chahunchha?"
+            "What is this?",
+            "ଏହା କ'ଣ?",
+            "eha kana?"
+          ],
+          [
+            "Some water (partitive sense)",
+            "କିଛି ପାଣି",
+            "kichi pani"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Pronouns and Articles in Odia"
   },
   {
-    "id": 514,
-    "url": "Simple Present Tense of \"To Be\" in Odia",
+    "id": 511,
+    "url": "Using plurals to indicate respect in Odia",
     "blocks": [
       {
         "type": "table",
@@ -1818,14 +1511,176 @@
         ],
         "rows": [
           [
-            "I eat rice",
-            "ମୁଁ ଭାତ ଖାଏ",
-            "mun bhata khae"
+            "How are you? (formal)",
+            "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+            "apana kemiti achhanti?"
           ],
           [
-            "You eat fruit",
-            "ତୁ ଫଳ ଖାଉଛ",
-            "tu phala khauchha"
+            "Please sit down (formal)",
+            "ଦୟାକରି ବସନ୍ତୁ",
+            "dayakari basantu"
+          ],
+          [
+            "Father is reading (honorific verb)",
+            "ବାପା ପଢ଼ୁଛନ୍ତି",
+            "bapa padhuchhanti"
+          ],
+          [
+            "Mother is cooking (honorific)",
+            "ମାଆ ରାନ୍ଧୁଛନ୍ତି",
+            "maa randhuchhanti"
+          ],
+          [
+            "Grandfather spoke (respect plural past)",
+            "ଅଜା କହିଲେ",
+            "aja kahile"
+          ],
+          [
+            "The teacher has come (respect)",
+            "ଶିକ୍ଷକ ଆସିଛନ୍ତି",
+            "shikshaka asichhanti"
+          ],
+          [
+            "Uncle went (respect past)",
+            "କାକା ଗଲେ",
+            "kaka gale"
+          ],
+          [
+            "The doctor is at home (honorific)",
+            "ଡାକ୍ତର ଘରେ ଅଛନ୍ତି",
+            "daktara ghare achhanti"
+          ],
+          [
+            "Please tell me (formal)",
+            "ଦୟାକରି ମୋତେ କୁହନ୍ତୁ",
+            "dayakari mote kuhantu"
+          ],
+          [
+            "He is eating (respectful of elder)",
+            "ସେ ଖାଉଛନ୍ତି",
+            "se khauchhanti"
+          ],
+          [
+            "She speaks softly (honorific)",
+            "ସେ ଧୀରେ କହନ୍ତି",
+            "se dhire kahanti"
+          ],
+          [
+            "They (honorific 'they' for elders) said",
+            "ସେ କହିଲେ",
+            "se kahile"
+          ],
+          [
+            "You (formal) will go",
+            "ଆପଣ ଯିବେ",
+            "apana jibe"
+          ],
+          [
+            "We ask you (formal) humbly",
+            "ଆମେ ଆପଣଙ୍କୁ ପଚାରୁ",
+            "ame apananku pacharu"
+          ],
+          [
+            "Respected sir",
+            "ମାନ୍ୟବର",
+            "manyabara"
+          ],
+          [
+            "Please eat (formal)",
+            "ଦୟାକରି ଖାଆନ୍ତୁ",
+            "dayakari khaantu"
+          ],
+          [
+            "The officer is sitting (honorific)",
+            "ଅଧିକାରୀ ବସିଛନ୍ତି",
+            "adhikari basichhanti"
+          ],
+          [
+            "May I leave? (to elder)",
+            "ମୁଁ ଯାଇପାରେ କି?",
+            "mun jaipare ki?"
+          ],
+          [
+            "Thank you (formal)",
+            "ଆପଣଙ୍କୁ ଧନ୍ୟବାଦ",
+            "apananku dhanyabada"
+          ],
+          [
+            "Grandmother is resting (honorific)",
+            "ଅଜୀ ବିଶ୍ରାମ ନେଉଛନ୍ତି",
+            "aji bishrama neuchhanti"
+          ]
+        ]
+      }
+    ],
+    "title": "Using plurals to indicate respect in Odia"
+  },
+  {
+    "id": 512,
+    "url": "Verbs in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "To eat (infinitive)",
+            "ଖାଇବା",
+            "khaiba"
+          ],
+          [
+            "To go",
+            "ଯିବା",
+            "jiba"
+          ],
+          [
+            "To come",
+            "ଆସିବା",
+            "asiba"
+          ],
+          [
+            "To read",
+            "ପଢ଼ିବା",
+            "padhiba"
+          ],
+          [
+            "To write",
+            "ଲେଖିବା",
+            "lekhiba"
+          ],
+          [
+            "To speak",
+            "କହିବା",
+            "kahiba"
+          ],
+          [
+            "To see",
+            "ଦେଖିବା",
+            "dekhiba"
+          ],
+          [
+            "To do / make",
+            "କରିବା",
+            "kariba"
+          ],
+          [
+            "To sit",
+            "ବସିବା",
+            "basiba"
+          ],
+          [
+            "To sleep",
+            "ଶୋଇବା",
+            "shoiba"
+          ],
+          [
+            "I eat rice (daily habit)",
+            "ମୁଁ ଭାତ ଖାଏ",
+            "mun bhata khae"
           ],
           [
             "He reads a book",
@@ -1843,73 +1698,273 @@
             "ame skula jau"
           ],
           [
-            "They play cricket",
-            "ସେମାନେ କ୍ରିକେଟ୍ ଖେଳନ୍ତି",
-            "semane kriket khelanti"
+            "They play in the field",
+            "ସେମାନେ ମୟଦାନରେ ଖେଳନ୍ତି",
+            "semane mayadanare khelanti"
           ],
+          [
+            "Mother cooks food",
+            "ମାଆ ଖାଦ୍ୟ ରାନ୍ଧନ୍ତି",
+            "maa khadya randhanti"
+          ],
+          [
+            "The boy runs fast",
+            "ପୁଅଟି ଜୋରରେ ଦୌଡ଼େ",
+            "puati jorare daude"
+          ],
+          [
+            "I want to learn Odia",
+            "ମୁଁ ଓଡ଼ିଆ ଶିଖିବାକୁ ଚାହେଁ",
+            "mun odia shikhibaku chahen"
+          ],
+          [
+            "It is good to help others",
+            "ଅନ୍ୟକୁ ସାହାଯ୍ୟ କରିବା ଭଲ",
+            "anyakku sahayya kariba bhala"
+          ],
+          [
+            "They came to see us",
+            "ସେମାନେ ଆମକୁ ଦେଖିବାକୁ ଆସିଲେ",
+            "semane amaku dekhibaku asile"
+          ]
+        ]
+      }
+    ],
+    "title": "Verbs in Odia"
+  },
+  {
+    "id": 513,
+    "url": "Simple Present Tense in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
           [
             "I drink water",
             "ମୁଁ ପାଣି ପିଏ",
             "mun pani pie"
           ],
           [
-            "You speak Odia",
-            "ତୁ ଓଡ଼ିଆ କହୁଛ",
-            "tu odia kahuchha"
+            "You (informal) speak loudly",
+            "ତୁ ଜୋରରେ କହୁଛ",
+            "tu jorare kahuchha"
           ],
           [
-            "He works daily",
-            "ସେ ପ୍ରତିଦିନ କାମ କରେ",
-            "se pratidina kama kare"
+            "He works in Bhubaneswar",
+            "ସେ ଭୁବନେଶ୍ୱରରେ କାମ କରେ",
+            "se Bhubaneswarare kama kare"
           ],
           [
-            "She sings well",
-            "ସେ ଭଲ ଗାଏ",
-            "se bhala gae"
+            "She teaches Odia",
+            "ସେ ଓଡ଼ିଆ ପଢ଼ାଏ",
+            "se odia padhae"
           ],
           [
-            "We live in Odisha",
-            "ଆମେ ଓଡ଼ିଶାରେ ରହୁ",
-            "ame odishare rahu"
+            "We live in Cuttack",
+            "ଆମେ କଟକରେ ରହୁ",
+            "ame Katakkare rahu"
           ],
           [
-            "They come every day",
-            "ସେମାନେ ପ୍ରତିଦିନ ଆସନ୍ତି",
-            "semane pratidina asanti"
+            "They sell fruit",
+            "ସେମାନେ ଫଳ ବିକେ",
+            "semane phala bike"
           ],
           [
-            "I know the answer",
-            "ମୁଁ ଉତ୍ତର ଜାଣେ",
-            "mun uttara jane"
+            "The sun rises in the east",
+            "ସୂର୍ଯ୍ୟ ପୂର୍ବଦିଗରୁ ଉଠେ",
+            "surya purbadigaru uthe"
           ],
           [
-            "He teaches children",
-            "ସେ ପିଲାମାନଙ୍କୁ ପଢ଼ାଏ",
-            "se pilamanunku padhae"
+            "Birds fly in the sky",
+            "ପକ୍ଷୀମାନେ ଆକାଶରେ ଉଡ଼ନ୍ତି",
+            "pakshimane akashire udanti"
           ],
           [
-            "She cooks food",
-            "ସେ ଖାଦ୍ୟ ରାନ୍ଧେ",
-            "se khadya randhe"
+            "I know this story",
+            "ମୁଁ ଏହି କାହାଣୀ ଜାଣେ",
+            "mun ehi kahani jane"
           ],
           [
-            "We study Odia",
-            "ଆମେ ଓଡ଼ିଆ ପଢ଼ୁ",
-            "ame odia padhu"
+            "You understand the lesson",
+            "ତୁ ଧଡ଼ା ବୁଝୁଛ",
+            "tu dhada bujuchha"
           ],
           [
-            "I love my mother",
-            "ମୁଁ ମୋ ମାଆକୁ ଭଲ ପାଏ",
-            "mun mo maaku bhala pae"
+            "He likes sweet rice",
+            "ସେ କଞ୍ଚା ଭାତ ଭଲ ପାଏ",
+            "se kancha bhata bhala pae"
           ],
           [
-            "He sells vegetables",
-            "ସେ ପରିବା ବିକେ",
-            "se pariba bike"
+            "She sings every morning",
+            "ସେ ପ୍ରତି ସକାଳ ଗାଏ",
+            "se prati sakala gae"
+          ],
+          [
+            "We finish homework at night",
+            "ଆମେ ରାତିରେ ଗୃହକାର୍ଯ୍ୟ ସାରୁ",
+            "ame ratire gruhakaryya saru"
+          ],
+          [
+            "They wait at the bus stop",
+            "ସେମାନେ ବସ୍ ଷ୍ଟପ୍‌ରେ ଅପେକ୍ଷା କରନ୍ତି",
+            "semane bas stopre apeksha karanti"
+          ],
+          [
+            "The train leaves at six",
+            "ଟ୍ରେନ୍ ଛଟାରେ ଛାଡ଼େ",
+            "tren chhatare chhade"
+          ],
+          [
+            "I pay the bill",
+            "ମୁଁ ବିଲ୍ ଦେଇ ଦିଏ",
+            "mun bil dei die"
+          ],
+          [
+            "You wash your hands",
+            "ତୁ ହାତ ଧୋଇଛ",
+            "tu hat dhoichha"
+          ],
+          [
+            "Children play in the park",
+            "ପିଲାମାନେ ପାର୍କରେ ଖେଳନ୍ତି",
+            "pilamane parkare khelanti"
+          ],
+          [
+            "He reads the newspaper daily",
+            "ସେ ପ୍ରତିଦିନ ଖବରକାଗଜ ପଢ଼େ",
+            "se pratidina khabarakagaja padhe"
+          ],
+          [
+            "We respect our teachers",
+            "ଆମେ ଆମ ଶିକ୍ଷକଙ୍କୁ ସମ୍ମାନ କରୁ",
+            "ame ama shikshakanku sammana karu"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Simple Present Tense in Odia"
+  },
+  {
+    "id": 514,
+    "url": "Simple Present Tense of \"To Be\" in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "I am a student",
+            "ମୁଁ ଜଣେ ଛାତ୍ର",
+            "mun jane chatra"
+          ],
+          [
+            "You (informal) are tall",
+            "ତୁ ଲମ୍ବା",
+            "tu lamba"
+          ],
+          [
+            "You (formal) are kind",
+            "ଆପଣ ଦୟାଳୁ",
+            "apana dayalu"
+          ],
+          [
+            "He is my brother",
+            "ସେ ମୋ ଭାଇ",
+            "se mo bhai"
+          ],
+          [
+            "She is a doctor",
+            "ସେ ଜଣେ ଡାକ୍ତର",
+            "se jane daktara"
+          ],
+          [
+            "We are ready",
+            "ଆମେ ପ୍ରସ୍ତୁତ",
+            "ame prastuta"
+          ],
+          [
+            "They are friends",
+            "ସେମାନେ ସାଙ୍ଗ",
+            "semane sanga"
+          ],
+          [
+            "This is my house",
+            "ଏହା ମୋ ଘର",
+            "eha mo ghara"
+          ],
+          [
+            "That is a temple",
+            "ସେହା ଏକ ମନ୍ଦିର",
+            "seha eka mandira"
+          ],
+          [
+            "It is cold today",
+            "ଆଜି ଥଣ୍ଡା",
+            "aji thanda"
+          ],
+          [
+            "I am at home",
+            "ମୁଁ ଘରେ ଅଛି",
+            "mun ghare achhi"
+          ],
+          [
+            "We are in Odisha",
+            "ଆମେ ଓଡ଼ିଶାରେ ଅଛୁ",
+            "ame odishare achhu"
+          ],
+          [
+            "They are on the road",
+            "ସେମାନେ ରାସ୍ତାରେ ଅଛନ୍ତି",
+            "semane rastare achhanti"
+          ],
+          [
+            "The keys are on the table",
+            "ଚାବି ଟେବୁଲ ଉପରେ ଅଛି",
+            "chabi tebula upare achhi"
+          ],
+          [
+            "There is water in the pot",
+            "କୁଣ୍ଡରେ ପାଣି ଅଛି",
+            "kundare pani achhi"
+          ],
+          [
+            "There are many people",
+            "ଅନେକ ଲୋକ ଅଛନ୍ତି",
+            "aneka loka achhanti"
+          ],
+          [
+            "I am fine",
+            "ମୁଁ ଭଲ ଅଛି",
+            "mun bhala achhi"
+          ],
+          [
+            "How are you? (informal)",
+            "ତୁ କେମିତି ଅଛୁ?",
+            "tu kemiti achhu?"
+          ],
+          [
+            "How are you? (formal)",
+            "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+            "apana kemiti achhanti?"
+          ],
+          [
+            "This book is new",
+            "ଏହି ବହି ନୂଆ",
+            "ehi bahi nua"
+          ]
+        ]
+      }
+    ],
+    "title": "Simple Present Tense of \"To Be\" in Odia"
   },
   {
     "id": 515,
@@ -1924,98 +1979,109 @@
         ],
         "rows": [
           [
-            "I ate rice",
-            "ମୁଁ ଭାତ ଖାଇଲି",
-            "mun bhata khaili"
+            "I am eating now",
+            "ମୁଁ ଏବେ ଖାଉଛି",
+            "mun ebe khauchhi"
           ],
           [
-            "You went to school",
-            "ତୁ ସ୍କୁଲ ଗଲୁ",
-            "tu skula galu"
+            "You are going to school",
+            "ତୁ ସ୍କୁଲ ଯାଉଛ",
+            "tu skula jauchha"
           ],
           [
-            "He came yesterday",
-            "ସେ ଗତକାଲି ଆସିଲା",
-            "se gatakali asila"
+            "He is reading",
+            "ସେ ପଢ଼ୁଛି",
+            "se padhuchhi"
           ],
           [
-            "She wrote a letter",
-            "ସେ ଚିଠି ଲେଖିଲା",
-            "se chithi lekhila"
+            "She is cooking",
+            "ସେ ରାନ୍ଧୁଛି",
+            "se randhuchhi"
           ],
           [
-            "We played football",
-            "ଆମେ ଫୁଟ୍‌ବଲ୍ ଖେଳିଲୁ",
-            "ame phutbal khelilu"
+            "We are coming",
+            "ଆମେ ଆସୁଛୁ",
+            "ame asuchhu"
           ],
           [
-            "They sang a song",
-            "ସେମାନେ ଗୀତ ଗାଇଲେ",
-            "semane gita gaile"
+            "They are playing",
+            "ସେମାନେ ଖେଳୁଛନ୍ତି",
+            "semane kheluchanti"
           ],
           [
-            "I drank water",
-            "ମୁଁ ପାଣି ପିଇଲି",
-            "mun pani piili"
+            "It is raining",
+            "ବର୍ଷା ହେଉଛି",
+            "barsha heuchhi"
           ],
           [
-            "He read the book",
-            "ସେ ବହିଟି ପଢ଼ିଲା",
-            "se bahiti padhila"
+            "The baby is sleeping",
+            "ଶିଶୁ ଶୋଇଛି",
+            "shishu shoichhi"
           ],
           [
-            "She cooked food",
-            "ସେ ଖାଦ୍ୟ ରାନ୍ଧିଲା",
-            "se khadya randhila"
+            "I am writing a letter",
+            "ମୁଁ ଚିଠି ଲେଖୁଛି",
+            "mun chithi lekhuchhi"
           ],
           [
-            "We saw a movie",
-            "ଆମେ ସିନେମା ଦେଖିଲୁ",
-            "ame sinema dekhilu"
+            "You are listening",
+            "ତୁ ଶୁଣୁଛ",
+            "tu shunuchha"
           ],
           [
-            "They went home",
-            "ସେମାନେ ଘରକୁ ଗଲେ",
-            "semane gharaku gale"
+            "He is driving the car",
+            "ସେ ଗାଡ଼ି ଚଳାଉଛି",
+            "se gadi chalachhuchhi"
           ],
           [
-            "I slept early",
-            "ମୁଁ ଲଗେ ଶୋଇଲି",
-            "mun lage soili"
+            "She is singing",
+            "ସେ ଗାଉଛି",
+            "se gauchhi"
           ],
           [
-            "He bought a shirt",
-            "ସେ ଗୋଟିଏ ସାର୍ଟ କିଣିଲା",
-            "se gotie sarta kinila"
+            "We are waiting for the bus",
+            "ଆମେ ବସ୍‌ର ଅପେକ୍ଷା କରୁଛୁ",
+            "ame basra apeksha karuchhu"
           ],
           [
-            "She told a story",
-            "ସେ ଗୋଟିଏ କାହାଣୀ କହିଲା",
-            "se gotie kahani kahila"
+            "They are building a house",
+            "ସେମାନେ ଘର ତିଆରି କରୁଛନ୍ତି",
+            "semane ghara tiari karuchanti"
           ],
           [
-            "We finished the work",
-            "ଆମେ କାମ ସାରିଲୁ",
-            "ame kama sarilu"
+            "I am learning Odia",
+            "ମୁଁ ଓଡ଼ିଆ ଶିଖୁଛି",
+            "mun odia shikhuchhi"
           ],
           [
-            "They arrived today",
-            "ସେମାନେ ଆଜି ପହଞ୍ଚିଲେ",
-            "semane aji pahanchile"
+            "The dog is barking",
+            "କୁକୁର ଭୁକୁଛି",
+            "kukur bhukuchhi"
           ],
           [
-            "I gave him money",
-            "ମୁଁ ତାକୁ ଟଙ୍କା ଦେଲି",
-            "mun taku tanka deli"
+            "Children are studying",
+            "ପିଲାମାନେ ପଢ଼ୁଛନ୍ତି",
+            "pilamane padhuchanti"
           ],
           [
-            "He ran very fast",
-            "ସେ ବହୁତ ଜୋରରେ ଦୌଡ଼ିଲା",
-            "se bahuta jorare daudila"
+            "Mother is calling you",
+            "ମାଆ ତୋତେ ଡାକୁଛନ୍ତି",
+            "maa tote dakuchhanti"
+          ],
+          [
+            "Why are you laughing?",
+            "ତୁ କାହିଁକି ହସୁଛ?",
+            "tu kahinki hasuchha?"
+          ],
+          [
+            "We are not leaving yet",
+            "ଆମେ ଏବେ ବି ଚାଲୁ ନାହୁଁ",
+            "ame ebe bi chalu nahun"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Present Continuous Tense in Odia"
   },
   {
     "id": 516,
@@ -2035,64 +2101,79 @@
             "mun kali jibi"
           ],
           [
-            "You will eat",
-            "ତୁ ଖାଇବୁ",
-            "tu khaibu"
+            "You will eat later",
+            "ତୁ ପରେ ଖାଇବୁ",
+            "tu pare khaibu"
           ],
           [
-            "He will come",
-            "ସେ ଆସିବ",
-            "se asiba"
+            "He will come soon",
+            "ସେ ଶୀଘ୍ର ଆସିବ",
+            "se shighra asiba"
           ],
           [
-            "She will read",
-            "ସେ ପଢ଼ିବ",
-            "se padhiba"
+            "She will read this book",
+            "ସେ ଏହି ବହି ପଢ଼ିବ",
+            "se ehi bahi padhiba"
           ],
           [
-            "We will play",
-            "ଆମେ ଖେଳିବୁ",
-            "ame khelibu"
+            "We will meet again",
+            "ଆମେ ପୁଣି ଭେଟିବୁ",
+            "ame puni bhetibu"
           ],
           [
-            "They will sing",
-            "ସେମାନେ ଗାଇବେ",
-            "semane gaibe"
+            "They will return home",
+            "ସେମାନେ ଘରକୁ ଫେରି ଆସିବେ",
+            "semane gharaku pheri asibe"
           ],
           [
-            "I will write a letter",
-            "ମୁଁ ଚିଠି ଲେଖିବି",
-            "mun chithi lekhibi"
+            "It will rain today",
+            "ଆଜି ବର୍ଷା ହେବ",
+            "aji barsha heba"
           ],
           [
-            "He will go to Puri",
+            "I will call you",
+            "ମୁଁ ତୋତେ ଫୋନ୍ କରିବି",
+            "mun tote phon karibi"
+          ],
+          [
+            "You will pass the exam",
+            "ତୁ ପରୀକ୍ଷା ପାସ କରିବୁ",
+            "tu pariksha pasa karibu"
+          ],
+          [
+            "He will buy rice",
+            "ସେ ଚାଉଳ କିଣିବ",
+            "se chaula kiniba"
+          ],
+          [
+            "She will visit Puri",
             "ସେ ପୁରୀ ଯିବ",
             "se Puri jiba"
           ],
           [
-            "She will cook dinner",
-            "ସେ ରାତି ଖାଣା ରାନ୍ଧିବ",
-            "se rati khana randhiba"
+            "We will help you",
+            "ଆମେ ତୋତେ ସାହାଯ୍ୟ କରିବୁ",
+            "ame tote sahayya karibu"
           ],
           [
-            "We will study hard",
-            "ଆମେ କଠିନ ପରିଶ୍ରମ କରିବୁ",
-            "ame kathina parishrama karibu"
+            "They will sing at the function",
+            "ସେମାନେ କାର୍ଯ୍ୟକ୍ରମରେ ଗାଇବେ",
+            "semane karyyakramare gaibe"
           ],
           [
-            "They will come back",
-            "ସେମାନେ ଫେରି ଆସିବେ",
-            "semane pheri asibe"
+            "The train will arrive at eight",
+            "ଟ୍ରେନ୍ ଆଠଟାରେ ପହଞ୍ଚିବ",
+            "tren athatare pahanchiba"
           ],
           [
-            "I will drink tea",
-            "ମୁଁ ଚା ପିଇବି",
-            "mun cha piibi"
+            "I will not lie",
+            "ମୁଁ ମିଛ କହିବି ନାହିଁ",
+            "mun michha kahibi nahin"
           ],
           [
-            "You will understand",
-            "ତୁ ବୁଝିବୁ",
-            "tu bujibu"
+            "Will you come with me?",
+            "ତୁ ମୋ ସହିତ ଆସିବୁ କି?",
+            "tu mo sahita asibu ki?"
           ],
           [
             "He will finish the work",
@@ -2100,28 +2181,24 @@
             "se kama sariba"
           ],
           [
-            "She will buy vegetables",
-            "ସେ ପରିବା କିଣିବ",
-            "se pariba kiniba"
+            "We will celebrate Diwali",
+            "ଆମେ ଦୀପାବଳି ପାଳନ କରିବୁ",
+            "ame Dipabali palana karibu"
           ],
           [
-            "Will you come with me?",
-            "ତୁ ମୋ ସହ ଆସିବୁ କି?",
-            "tu mo saha asibu ki?"
+            "They will build a school",
+            "ସେମାନେ ଏକ ସ୍କୁଲ ତିଆରି କରିବେ",
+            "semane eka skula tiari karibe"
           ],
           [
-            "I will learn Odia",
-            "ମୁଁ ଓଡ଼ିଆ ଶିଖିବି",
-            "mun odia shikhibi"
-          ],
-          [
-            "We will meet tomorrow",
-            "ଆମେ କାଲି ଭେଟିବୁ",
-            "ame kali bhetibu"
+            "I will send a message",
+            "ମୁଁ ଏକ ସନ୍ଦେଶ ପଠାଇବି",
+            "mun eka sandesha pathaibi"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Simple Future Tense in Odia"
   },
   {
     "id": 517,
@@ -2136,98 +2213,109 @@
         ],
         "rows": [
           [
-            "Come!",
-            "ଆସ!",
-            "asa!"
+            "I will be studying at night",
+            "ମୁଁ ରାତିରେ ପଢ଼ୁଥିବି",
+            "mun ratire padhuthibi"
           ],
           [
-            "Go!",
-            "ଯାଅ!",
-            "jaa!"
+            "You will be waiting here",
+            "ତୁ ଏଠି ଅପେକ୍ଷା କରୁଥିବୁ",
+            "tu ethi apeksha karuthibu"
           ],
           [
-            "Sit down!",
-            "ବସ!",
-            "basa!"
+            "He will be working then",
+            "ସେ ସେତେବେଳେ କାମ କରୁଥିବ",
+            "se setebele kama karuthiba"
           ],
           [
-            "Eat!",
-            "ଖାଅ!",
-            "khaa!"
+            "She will be cooking in the evening",
+            "ସେ ସନ୍ଧ୍ୟାରେ ରାନ୍ଧୁଥିବ",
+            "se sandhyare randhuthiba"
           ],
           [
-            "Drink water!",
-            "ପାଣି ପିଅ!",
-            "pani pia!"
+            "We will be travelling tomorrow",
+            "ଆମେ କାଲି ଘୂରୁଥିବୁ",
+            "ame kali ghuruthibu"
           ],
           [
-            "Read the book!",
-            "ବହି ପଢ଼!",
-            "bahi padha!"
+            "They will be playing at four",
+            "ସେମାନେ ଚାରିଟାରେ ଖେଳୁଥିବେ",
+            "semane charitare kheluthibe"
           ],
           [
-            "Write your name!",
-            "ତୁମ ନାମ ଲେଖ!",
-            "tuma nama lekha!"
+            "It will be raining there",
+            "ସେଠି ବର୍ଷା ହେଉଥିବ",
+            "sethi barsha heuthiba"
           ],
           [
-            "Open the door!",
-            "କବାଟ ଖୋଲ!",
-            "kabata khola!"
+            "I will be reading on the train",
+            "ମୁଁ ଟ୍ରେନ୍‌ରେ ପଢ଼ୁଥିବି",
+            "mun trenre padhuthibi"
           ],
           [
-            "Close the window!",
-            "ଝରକା ବନ୍ଦ କର!",
-            "jharaka banda kara!"
+            "You will be resting at home",
+            "ତୁ ଘରେ ବିଶ୍ରାମ ନେଉଥିବୁ",
+            "tu ghare bishrama neuthibu"
           ],
           [
-            "Run fast!",
-            "ଜୋରରେ ଦୌଡ଼!",
-            "jorare dauda!"
+            "He will be speaking at the meeting",
+            "ସେ ବୈଠକରେ କହୁଥିବ",
+            "se baithakare kahuthiba"
           ],
           [
-            "Please come (formal)",
-            "ଦୟାକରି ଆସନ୍ତୁ",
-            "dayakari asantu"
+            "She will be teaching that day",
+            "ସେ ସେ ଦିନ ପଢ଼ାଉଥିବ",
+            "se se dina padhauthiba"
           ],
           [
-            "Please sit (formal)",
-            "ଦୟାକରି ବସନ୍ତୁ",
-            "dayakari basantu"
+            "We will be watching the match",
+            "ଆମେ ମ୍ୟାଚ୍ ଦେଖୁଥିବୁ",
+            "ame myach dekhuthibu"
           ],
           [
-            "Listen carefully!",
-            "ଧ୍ୟାନରେ ଶୁଣ!",
-            "dhyanare shuna!"
+            "They will be helping the guests",
+            "ସେମାନେ ଅତିଥିଙ୍କୁ ସାହାଯ୍ୟ କରୁଥିବେ",
+            "semane atithinku sahayya karuthibe"
           ],
           [
-            "Don't go!",
-            "ଯାଅ ନାହିଁ!",
-            "jaa nahin!"
+            "The bus will be leaving soon",
+            "ବସ୍ ଶୀଘ୍ର ଛାଡ଼ିବାକୁ ଯାଉଥିବ",
+            "bas shighra chhadibaku jauthiba"
           ],
           [
-            "Speak the truth!",
-            "ସତ କୁହ!",
-            "sata kuha!"
+            "I will be coming by that road",
+            "ମୁଁ ସେ ରାସ୍ତା ଦେଇ ଆସୁଥିବି",
+            "mun se rasta dei asuthibi"
           ],
           [
-            "Give me the pen!",
-            "ମୋତେ କଲମ ଦିଅ!",
-            "mote kalama dia!"
+            "Will you be staying here?",
+            "ତୁ ଏଠି ରହୁଥିବୁ କି?",
+            "tu ethi rahuthibu ki?"
           ],
           [
-            "Stop here!",
-            "ଏଠାରେ ଅଟକ!",
-            "ethare ataka!"
+            "He will not be going alone",
+            "ସେ ଏକୁଟିଆ ଯାଉଥିବ ନାହିଁ",
+            "se ekutia jauthiba nahin"
           ],
           [
-            "Let us go together!",
-            "ଆସ ଏକାଠି ଯିବା!",
-            "asa ekathi jiba!"
+            "We will be waiting until evening",
+            "ଆମେ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଅପେକ୍ଷା କରୁଥିବୁ",
+            "ame sandhya paryanta apeksha karuthibu"
+          ],
+          [
+            "They will be building the bridge",
+            "ସେମାନେ ସେତୁ ତିଆରି କରୁଥିବେ",
+            "semane setu tiari karuthibe"
+          ],
+          [
+            "I will be sleeping by then",
+            "ମୁଁ ସେତେବେଳେ ଶୋଇଥିବି",
+            "mun setebele shoithibi"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Future Continuous Tense in Odia"
   },
   {
     "id": 518,
@@ -2242,102 +2330,1161 @@
         ],
         "rows": [
           [
-            "I don't eat meat",
-            "ମୁଁ ମାଂସ ଖାଏ ନାହିଁ",
-            "mun mansa khae nahin"
+            "I went yesterday",
+            "ମୁଁ ଗତକାଲି ଗଲି",
+            "mun gatakali gali"
           ],
           [
-            "He doesn't go to school",
-            "ସେ ସ୍କୁଲ ଯାଏ ନାହିଁ",
-            "se skula jae nahin"
+            "You came early",
+            "ତୁ ଲଗେ ଆସିଲୁ",
+            "tu lage asilu"
           ],
           [
-            "She doesn't read",
-            "ସେ ପଢ଼େ ନାହିଁ",
-            "se padhe nahin"
+            "He slept well",
+            "ସେ ଭଲରେ ଶୋଇଲା",
+            "se bhalore soila"
           ],
           [
-            "We don't play today",
-            "ଆମେ ଆଜି ଖେଳୁ ନାହିଁ",
-            "ame aji khelu nahin"
+            "She laughed loudly",
+            "ସେ ଜୋରରେ ହସିଲା",
+            "se jorare hasila"
           ],
           [
-            "They didn't come",
-            "ସେମାନେ ଆସିଲେ ନାହିଁ",
-            "semane asile nahin"
+            "We sat there",
+            "ଆମେ ସେଠି ବସିଲୁ",
+            "ame sethi basilu"
           ],
           [
-            "I don't know",
-            "ମୁଁ ଜାଣେ ନାହିଁ",
-            "mun jane nahin"
+            "They stood up",
+            "ସେମାନେ ଠିଆ ହୋଇଲେ",
+            "semane thia hoile"
           ],
           [
-            "He didn't eat food",
-            "ସେ ଖାଦ୍ୟ ଖାଇଲା ନାହିଁ",
-            "se khadya khaila nahin"
+            "I ran fast",
+            "ମୁଁ ଜୋରରେ ଦୌଡ଼ିଲି",
+            "mun jorare daudili"
           ],
           [
-            "She will not go",
-            "ସେ ଯିବ ନାହିଁ",
-            "se jiba nahin"
+            "You walked slowly",
+            "ତୁ ଧୀରେ ଚାଲିଲୁ",
+            "tu dhire chalilu"
           ],
           [
-            "I don't understand",
-            "ମୁଁ ବୁଝୁ ନାହିଁ",
-            "mun buju nahin"
+            "He fell down",
+            "ସେ ପଡ଼ିଗଲା",
+            "se padigala"
           ],
           [
-            "He is not at home",
-            "ସେ ଘରେ ନାହିଁ",
-            "se ghare nahin"
+            "She woke up late",
+            "ସେ ଡେରିରେ ଉଠିଲା",
+            "se derire uthila"
           ],
           [
-            "Don't tell anyone",
-            "କାହାକୁ କୁହ ନାହିଁ",
-            "kahaku kuha nahin"
+            "We danced at the festival",
+            "ଆମେ ପର୍ବରେ ନାଚିଲୁ",
+            "ame parbare nachilu"
           ],
           [
-            "This is not correct",
-            "ଏହା ଠିକ୍ ନୁହେଁ",
-            "eha thik nuhen"
+            "They shouted with joy",
+            "ସେମାନେ ଆନନ୍ଦରେ ଚିତ୍କାର କଲେ",
+            "semane anandare chitkara kale"
           ],
           [
-            "I didn't sleep well",
-            "ମୁଁ ଭଲରେ ଶୋଇଲି ନାହିଁ",
-            "mun bhalore soili nahin"
+            "The bird flew away",
+            "ପକ୍ଷୀ ଉଡ଼ିଗଲା",
+            "pakshi udigala"
           ],
           [
-            "She is not a doctor",
-            "ସେ ଡାକ୍ତର ନୁହଁନ୍ତି",
-            "se daktara nuhanti"
+            "It rained heavily",
+            "ପ୍ରବଳ ବର୍ଷା ହେଲା",
+            "prabala barsha hela"
           ],
           [
-            "We will not forget",
-            "ଆମେ ଭୁଲିବୁ ନାହିଁ",
-            "ame bhulibu nahin"
+            "I cried once",
+            "ମୁଁ ଥରେ କାନ୍ଦିଲି",
+            "mun thare kandili"
           ],
           [
-            "He never lies",
-            "ସେ କେବେ ମିଛ କହେ ନାହିଁ",
-            "se kebe michha kahe nahin"
+            "You arrived on time",
+            "ତୁ ସମୟରେ ପହଞ୍ଚିଲୁ",
+            "tu samayare pahanchilu"
           ],
           [
-            "I have no money",
-            "ମୋ ପାଖରେ ଟଙ୍କା ନାହିଁ",
-            "mo pakhare tanka nahin"
+            "He hurried home",
+            "ସେ ଶୀଘ୍ର ଘରକୁ ଗଲା",
+            "se shighra gharaku gala"
           ],
           [
-            "There is no water",
-            "ପାଣି ନାହିଁ",
-            "pani nahin"
+            "We rested under the tree",
+            "ଆମେ ଗଛ ତଳେ ବିଶ୍ରାମ ନେଲୁ",
+            "ame gachha tale bishrama nelu"
+          ],
+          [
+            "They returned late",
+            "ସେମାନେ ଡେରିରେ ଫେରିଲେ",
+            "semane derire pherile"
+          ],
+          [
+            "The sun set in the west",
+            "ସୂର୍ଯ୍ୟ ପଶ୍ଚିମରେ ଅସ୍ତ ଗଲା",
+            "surya paschimare asta gala"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Simple Past Tense in Odia – Part 1 (Verbs without object)"
   },
   {
     "id": 519,
     "url": "Simple Past Tense in Odia – Part 2 (Verbs with object)",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "I ate rice",
+            "ମୁଁ ଭାତ ଖାଇଲି",
+            "mun bhata khaili"
+          ],
+          [
+            "You read the book",
+            "ତୁ ବହି ପଢ଼ିଲୁ",
+            "tu bahi padhilu"
+          ],
+          [
+            "He opened the door",
+            "ସେ କବାଟ ଖୋଲିଲା",
+            "se kabata kholila"
+          ],
+          [
+            "She wrote a letter",
+            "ସେ ଚିଠି ଲେଖିଲା",
+            "se chithi lekhila"
+          ],
+          [
+            "We saw a film",
+            "ଆମେ ଏକ ଫିଲ୍ମ ଦେଖିଲୁ",
+            "ame eka film dekhilu"
+          ],
+          [
+            "They bought vegetables",
+            "ସେମାନେ ପରିବା କିଣିଲେ",
+            "semane pariba kinile"
+          ],
+          [
+            "I gave him money",
+            "ମୁଁ ତାକୁ ଟଙ୍କା ଦେଲି",
+            "mun taku tanka deli"
+          ],
+          [
+            "You told the truth",
+            "ତୁ ସତ କହିଲୁ",
+            "tu sata kahilu"
+          ],
+          [
+            "He caught the ball",
+            "ସେ ବଲ୍ ଧରିଲା",
+            "se bal dharila"
+          ],
+          [
+            "She made tea",
+            "ସେ ଚା ତିଆରି କଲା",
+            "se cha tiari kala"
+          ],
+          [
+            "We finished the work",
+            "ଆମେ କାମ ସାରିଲୁ",
+            "ame kama sarilu"
+          ],
+          [
+            "They broke the glass",
+            "ସେମାନେ ଗ୍ଲାସ ଭାଙ୍ଗିଲେ",
+            "semane glasa bhangile"
+          ],
+          [
+            "I lost my pen",
+            "ମୁଁ ମୋ କଲମ ହରାଇଲି",
+            "mun mo kalama haraili"
+          ],
+          [
+            "You found the keys",
+            "ତୁ ଚାବି ପାଇଲୁ",
+            "tu chabi pailu"
+          ],
+          [
+            "He closed the window",
+            "ସେ ଝରକା ବନ୍ଦ କଲା",
+            "se jharaka banda kala"
+          ],
+          [
+            "She washed the clothes",
+            "ସେ ଲୁଗା ଧୋଇଲା",
+            "se luga dhoila"
+          ],
+          [
+            "We heard the news",
+            "ଆମେ ଖବର ଶୁଣିଲୁ",
+            "ame khabara shunilu"
+          ],
+          [
+            "They answered every question",
+            "ସେମାନେ ପ୍ରତ୍ୟେକ ପ୍ରଶ୍ନର ଉତ୍ତର ଦେଲେ",
+            "semane pratyeka prashnara uttara dele"
+          ],
+          [
+            "I drank milk",
+            "ମୁଁ କ୍ଷୀର ପିଇଲି",
+            "mun kshira piili"
+          ],
+          [
+            "You helped your friend",
+            "ତୁ ତୋ ସାଙ୍ଗକୁ ସାହାଯ୍ୟ କଲୁ",
+            "tu to sangaku sahayya kalu"
+          ]
+        ]
+      }
+    ],
+    "title": "Simple Past Tense in Odia – Part 2 (Verbs with object)"
+  },
+  {
+    "id": 520,
+    "url": "Simple Past Tense in Odia – Part 3 (Past tense of \"to be\")",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "I was at home",
+            "ମୁଁ ଘରେ ଥିଲି",
+            "mun ghare thili"
+          ],
+          [
+            "You were tired",
+            "ତୁ ଥକିଥିଲୁ",
+            "tu thakithilu"
+          ],
+          [
+            "He was ill",
+            "ସେ ଅସୁସ୍ଥ ଥିଲା",
+            "se asustha thila"
+          ],
+          [
+            "She was happy",
+            "ସେ ଖୁସି ଥିଲା",
+            "se khusi thila"
+          ],
+          [
+            "We were students",
+            "ଆମେ ଛାତ୍ର ଥିଲୁ",
+            "ame chatra thilu"
+          ],
+          [
+            "They were teachers",
+            "ସେମାନେ ଶିକ୍ଷକ ଥିଲେ",
+            "semane shikshaka thile"
+          ],
+          [
+            "It was cold",
+            "ଥଣ୍ଡା ଥିଲା",
+            "thanda thila"
+          ],
+          [
+            "There was a problem",
+            "ଏକ ସମସ୍ୟା ଥିଲା",
+            "eka samasya thila"
+          ],
+          [
+            "There were many guests",
+            "ଅନେକ ଅତିଥି ଥିଲେ",
+            "aneka atithi thile"
+          ],
+          [
+            "I was in Cuttack",
+            "ମୁଁ କଟକରେ ଥିଲି",
+            "mun Katakkare thili"
+          ],
+          [
+            "You were late",
+            "ତୁ ଡେରିରେ ଥିଲୁ",
+            "tu derire thilu"
+          ],
+          [
+            "He was my neighbour",
+            "ସେ ମୋ ପଡ଼ୋଶୀ ଥିଲା",
+            "se mo paroshi thila"
+          ],
+          [
+            "She was ready",
+            "ସେ ପ୍ରସ୍ତୁତ ଥିଲା",
+            "se prastuta thila"
+          ],
+          [
+            "We were together",
+            "ଆମେ ଏକାଠି ଥିଲୁ",
+            "ame ekathi thilu"
+          ],
+          [
+            "They were absent",
+            "ସେମାନେ ଅନୁପସ୍ଥିତ ଥିଲେ",
+            "semane anupasthita thile"
+          ],
+          [
+            "The shop was closed",
+            "ଦୋକାନ ବନ୍ଦ ଥିଲା",
+            "dokana banda thila"
+          ],
+          [
+            "The roads were wet",
+            "ରାସ୍ତା ଗିଳା ଥିଲା",
+            "rasta gila thila"
+          ],
+          [
+            "I was not afraid",
+            "ମୁଁ ଭୟଭୀତ ନଥିଲି",
+            "mun bhayabita nathili"
+          ],
+          [
+            "Were you there?",
+            "ତୁ ସେଠି ଥିଲୁ କି?",
+            "tu sethi thilu ki?"
+          ],
+          [
+            "It was a good day",
+            "ଭଲ ଦିନ ଥିଲା",
+            "bhala dina thila"
+          ]
+        ]
+      }
+    ],
+    "title": "Simple Past Tense in Odia – Part 3 (Past tense of \"to be\")"
+  },
+  {
+    "id": 521,
+    "url": "Exceptional Verbs in Odia which change in past tense form",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "He goes → He went",
+            "ସେ ଯାଏ → ସେ ଗଲା",
+            "se jae → se gala"
+          ],
+          [
+            "He does → He did",
+            "ସେ କରେ → ସେ କଲା",
+            "se kare → se kala"
+          ],
+          [
+            "He gives → He gave",
+            "ସେ ଦିଏ → ସେ ଦେଲା",
+            "se die → se dela"
+          ],
+          [
+            "He takes → He took",
+            "ସେ ନିଏ → ସେ ନେଲା",
+            "se nie → se nela"
+          ],
+          [
+            "He says → He said",
+            "ସେ କହେ → ସେ କହିଲା",
+            "se kahe → se kahila"
+          ],
+          [
+            "He sees → He saw",
+            "ସେ ଦେଖେ → ସେ ଦେଖିଲା",
+            "se dekhe → se dekhila"
+          ],
+          [
+            "He sits → He sat",
+            "ସେ ବସେ → ସେ ବସିଲା",
+            "se base → se basila"
+          ],
+          [
+            "He comes → He came",
+            "ସେ ଆସେ → ସେ ଆସିଲା",
+            "se ase → se asila"
+          ],
+          [
+            "I go → I went",
+            "ମୁଁ ଯାଏ → ମୁଁ ଗଲି",
+            "mun jae → mun gali"
+          ],
+          [
+            "I eat → I ate",
+            "ମୁଁ ଖାଏ → ମୁଁ ଖାଇଲି",
+            "mun khae → mun khaili"
+          ],
+          [
+            "You drink → You drank",
+            "ତୁ ପିଏ → ତୁ ପିଇଲୁ",
+            "tu pie → tu piilu"
+          ],
+          [
+            "We come → We came",
+            "ଆମେ ଆସୁ → ଆମେ ଆସିଲୁ",
+            "ame asu → ame asilu"
+          ],
+          [
+            "They go → They went",
+            "ସେମାନେ ଯାନ୍ତି → ସେମାନେ ଗଲେ",
+            "semane janti → semane gale"
+          ],
+          [
+            "He sleeps → He slept",
+            "ସେ ଶୋଏ → ସେ ଶୋଇଲା",
+            "se shoe → se soila"
+          ],
+          [
+            "She reads → She read",
+            "ସେ ପଢ଼େ → ସେ ପଢ଼ିଲା",
+            "se padhe → se padhila"
+          ],
+          [
+            "He runs → He ran",
+            "ସେ ଦୌଡ଼େ → ସେ ଦୌଡ଼ିଲା",
+            "se daude → se daudila"
+          ],
+          [
+            "It falls → It fell",
+            "ତାହା ପଡ଼େ → ପଡ଼ିଲା",
+            "taha pade → padila"
+          ],
+          [
+            "He knows → He knew",
+            "ସେ ଜାଣେ → ସେ ଜାଣିଲା",
+            "se jane → se janila"
+          ],
+          [
+            "I bring → I brought",
+            "ମୁଁ ଆଣେ → ମୁଁ ଆଣିଲି",
+            "mun ane → mun anili"
+          ],
+          [
+            "You forget → You forgot",
+            "ତୁ ଭୁଲେ → ତୁ ଭୁଲିଲୁ",
+            "tu bhule → tu bhulilu"
+          ]
+        ]
+      }
+    ],
+    "title": "Exceptional Verbs in Odia which change in past tense form"
+  },
+  {
+    "id": 522,
+    "url": "Past Continuous Tense in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "I was reading then",
+            "ମୁଁ ସେତେବେଳେ ପଢ଼ୁଥିଲି",
+            "mun setebele padhuthili"
+          ],
+          [
+            "You were sleeping",
+            "ତୁ ଶୋଇଥିଲୁ",
+            "tu shoithilu"
+          ],
+          [
+            "He was walking home",
+            "ସେ ଘରକୁ ଚାଲୁଥିଲା",
+            "se gharaku chaluthila"
+          ],
+          [
+            "She was cooking rice",
+            "ସେ ଭାତ ରାନ୍ଧୁଥିଲା",
+            "se bhata randhuthila"
+          ],
+          [
+            "We were talking",
+            "ଆମେ କଥା ହେଉଥିଲୁ",
+            "ame katha heuthilu"
+          ],
+          [
+            "They were playing",
+            "ସେମାନେ ଖେଳୁଥିଲେ",
+            "semane kheluthile"
+          ],
+          [
+            "It was raining",
+            "ବର୍ଷା ହେଉଥିଲା",
+            "barsha heuthila"
+          ],
+          [
+            "The baby was crying",
+            "ଶିଶୁ କାନ୍ଦୁଥିଲା",
+            "shishu kanduthila"
+          ],
+          [
+            "I was waiting for you",
+            "ମୁଁ ତୋ ଅପେକ୍ଷା କରୁଥିଲି",
+            "mun to apeksha karuthili"
+          ],
+          [
+            "You were driving fast",
+            "ତୁ ଜୋରରେ ଗାଡ଼ି ଚଳାଉଥିଲୁ",
+            "tu jorare gadi chalachauthilu"
+          ],
+          [
+            "He was writing a letter",
+            "ସେ ଚିଠି ଲେଖୁଥିଲା",
+            "se chithi lekhuthila"
+          ],
+          [
+            "She was singing on stage",
+            "ସେ ମଞ୍ଚରେ ଗାଉଥିଲା",
+            "se manchare gauuthila"
+          ],
+          [
+            "We were watching TV",
+            "ଆମେ ଟିଭି ଦେଖୁଥିଲୁ",
+            "ame TV dekhuthilu"
+          ],
+          [
+            "They were building a wall",
+            "ସେମାନେ ଦେଓଳ ତିଆରି କରୁଥିଲେ",
+            "semane deola tiari karuthile"
+          ],
+          [
+            "The dog was barking",
+            "କୁକୁର ଭୁକୁଥିଲା",
+            "kukur bhukuthila"
+          ],
+          [
+            "I was not listening",
+            "ମୁଁ ଶୁଣୁନଥିଲି",
+            "mun shununathili"
+          ],
+          [
+            "Why were you late?",
+            "ତୁ ଡେରି କାହିଁକି କରୁଥିଲୁ?",
+            "tu deri kahinki karuthilu?"
+          ],
+          [
+            "He was helping his father",
+            "ସେ ତା ବାପାଙ୍କୁ ସାହାଯ୍ୟ କରୁଥିଲା",
+            "se ta bapanku sahayya karuthila"
+          ],
+          [
+            "We were studying all day",
+            "ଆମେ ସାରା ଦିନ ପଢ଼ୁଥିଲୁ",
+            "ame sara dina padhuthilu"
+          ],
+          [
+            "They were laughing loudly",
+            "ସେମାନେ ଜୋରରେ ହସୁଥିଲେ",
+            "semane jorare hasuthile"
+          ]
+        ]
+      }
+    ],
+    "title": "Past Continuous Tense in Odia"
+  },
+  {
+    "id": 523,
+    "url": "Present/Past/Future Perfect Tense in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "I have eaten",
+            "ମୁଁ ଖାଇସାରିଛି",
+            "mun khaisarichhi"
+          ],
+          [
+            "You have come",
+            "ତୁ ଆସିସାରିଛ",
+            "tu asisarichha"
+          ],
+          [
+            "He has gone",
+            "ସେ ଯାଇସାରିଛି",
+            "se jaisarichhi"
+          ],
+          [
+            "She has finished",
+            "ସେ ସାରିସାରିଛି",
+            "se sarisarichhi"
+          ],
+          [
+            "We have seen it",
+            "ଆମେ ଦେଖିସାରିଛୁ",
+            "ame dekhisarichhu"
+          ],
+          [
+            "They have left",
+            "ସେମାନେ ଚାଲିସାରିଛନ୍ତି",
+            "semane chalisarichhanti"
+          ],
+          [
+            "I had slept",
+            "ମୁଁ ଶୋଇସାରିଥିଲି",
+            "mun shoisarithili"
+          ],
+          [
+            "You had told me",
+            "ତୁ ମୋତେ କହିସାରିଥିଲୁ",
+            "tu mote kahisarithilu"
+          ],
+          [
+            "He had arrived",
+            "ସେ ପହଞ୍ଚିସାରିଥିଲା",
+            "se pahanchisarithila"
+          ],
+          [
+            "She had cooked",
+            "ସେ ରାନ୍ଧିସାରିଥିଲା",
+            "se randhisarithila"
+          ],
+          [
+            "We had agreed",
+            "ଆମେ ରାଜି ହୋଇସାରିଥିଲୁ",
+            "ame raji hoi sarithilu"
+          ],
+          [
+            "They had gone before us",
+            "ସେମାନେ ଆମ ଆଗରୁ ଯାଇସାରିଥିଲେ",
+            "semane ama agaru jaisarithile"
+          ],
+          [
+            "I will have finished",
+            "ମୁଁ ସାରିସାରିଥିବି",
+            "mun sarisarithibi"
+          ],
+          [
+            "You will have left",
+            "ତୁ ଚାଲିସାରିଥିବୁ",
+            "tu chalisarithibu"
+          ],
+          [
+            "He will have read",
+            "ସେ ପଢ଼ିସାରିଥିବ",
+            "se padhisarithiba"
+          ],
+          [
+            "By then I will have gone",
+            "ସେତେବେଳେ ମୁଁ ଯାଇସାରିଥିବି",
+            "setebele mun jaisarithibi"
+          ],
+          [
+            "She will have cooked by evening",
+            "ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ସେ ରାନ୍ଧିସାରିଥିବ",
+            "sandhya paryanta se randhisarithiba"
+          ],
+          [
+            "We have not met yet",
+            "ଆମେ ଏବେ ବି ଭେଟିନୁ",
+            "ame ebe bi bhetinu"
+          ],
+          [
+            "Have you heard?",
+            "ତୁ ଶୁଣିଛ କି?",
+            "tu shunicha ki?"
+          ],
+          [
+            "They had never seen snow",
+            "ସେମାନେ କେବେ ବରଫ ଦେଖିନଥିଲେ",
+            "semane kebe barafa dekhinathile"
+          ]
+        ]
+      }
+    ],
+    "title": "Present/Past/Future Perfect Tense in Odia"
+  },
+  {
+    "id": 524,
+    "url": "Learn Prepositions in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "In the room",
+            "ଘର ଭିତରେ / ରୁମ୍‌ରେ",
+            "ghara bhitare / rumre"
+          ],
+          [
+            "On the table",
+            "ଟେବୁଲ ଉପରେ",
+            "tebula upare"
+          ],
+          [
+            "Under the bed",
+            "ଖାଟ ତଳେ",
+            "khata tale"
+          ],
+          [
+            "Near the river",
+            "ନଦୀ ପାଖରେ",
+            "nadi pakhare"
+          ],
+          [
+            "From the city",
+            "ସହରରୁ",
+            "saharraru"
+          ],
+          [
+            "To the market",
+            "ବଜାରକୁ",
+            "bajaraku"
+          ],
+          [
+            "With my mother",
+            "ମୋ ମାଆ ସହିତ",
+            "mo maa sahita"
+          ],
+          [
+            "Without money",
+            "ଟଙ୍କା ବିନା",
+            "tanka bina"
+          ],
+          [
+            "Between two trees",
+            "ଦୁଇ ଗଛ ମଝିରେ",
+            "dui gachha majhire"
+          ],
+          [
+            "Behind the house",
+            "ଘର ପଛରେ",
+            "ghara pachhare"
+          ],
+          [
+            "In front of the gate",
+            "କବାଟ ଆଗରେ",
+            "kabata agare"
+          ],
+          [
+            "Inside the box",
+            "ବାକ୍ସ ଭିତରେ",
+            "baksa bhitare"
+          ],
+          [
+            "Outside the village",
+            "ଗାଁ ବାହାରେ",
+            "gaan bahare"
+          ],
+          [
+            "Across the bridge",
+            "ସେତୁ ପାରିହୋଇ",
+            "setu parihoi"
+          ],
+          [
+            "Until tomorrow",
+            "କାଲି ପର୍ଯ୍ୟନ୍ତ",
+            "kali paryanta"
+          ],
+          [
+            "After lunch",
+            "ମଧ୍ୟାହ୍ନ ଭୋଜନ ପରେ",
+            "madhyahna bhojana pare"
+          ],
+          [
+            "Before sunrise",
+            "ସୂର୍ଯ୍ୟୋଦୟ ପୂର୍ବରୁ",
+            "suryodaya purbaru"
+          ],
+          [
+            "I am at school",
+            "ମୁଁ ସ୍କୁଲରେ ଅଛି",
+            "mun skulare achhi"
+          ],
+          [
+            "The book is in the bag",
+            "ବହି ଥୈଲି ଭିତରେ ଅଛି",
+            "bahi thaili bhitare achhi"
+          ],
+          [
+            "He sat beside me",
+            "ସେ ମୋ ପାଖରେ ବସିଲା",
+            "se mo pakhare basila"
+          ]
+        ]
+      }
+    ],
+    "title": "Learn Prepositions in Odia"
+  },
+  {
+    "id": 525,
+    "url": "Preposition \"TO\" in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "Go to school",
+            "ସ୍କୁଲକୁ ଯାଅ",
+            "skulaku jaa"
+          ],
+          [
+            "Come to my house",
+            "ମୋ ଘରକୁ ଆସ",
+            "mo gharaku asa"
+          ],
+          [
+            "Return to work",
+            "କାମକୁ ଫେର",
+            "kamaku phera"
+          ],
+          [
+            "Walk to the shop",
+            "ଦୋକାନକୁ ଚାଲି ଯାଅ",
+            "dokanaku chali jaa"
+          ],
+          [
+            "Run to the field",
+            "ମୟଦାନକୁ ଦୌଡ଼",
+            "mayadanaku dauda"
+          ],
+          [
+            "Send a letter to him",
+            "ତାକୁ ଚିଠି ପଠାଅ",
+            "taku chitha pathaa"
+          ],
+          [
+            "Give water to the dog",
+            "କୁକୁରକୁ ପାଣି ଦିଅ",
+            "kukuraku pani dia"
+          ],
+          [
+            "I am going to Puri",
+            "ମୁଁ ପୁରୀକୁ ଯାଉଛି",
+            "mun Puriku jauchhi"
+          ],
+          [
+            "We went to the temple",
+            "ଆମେ ମନ୍ଦିରକୁ ଗଲୁ",
+            "ame mandiraku galu"
+          ],
+          [
+            "They came to help",
+            "ସେମାନେ ସାହାଯ୍ୟ କରିବାକୁ ଆସିଲେ",
+            "semane sahayya karibaku asile"
+          ],
+          [
+            "Take this to father",
+            "ଏହା ବାପାଙ୍କୁ ନେଇ ଯାଅ",
+            "eha bapanku nei jaa"
+          ],
+          [
+            "Come to me",
+            "ମୋ ପାଖକୁ ଆସ",
+            "mo pakhaku asa"
+          ],
+          [
+            "Fly to Delhi",
+            "ଦିଲ୍ଲୀକୁ ଉଡ଼ି ଯାଅ",
+            "Dilliku udi jaa"
+          ],
+          [
+            "Drive to the station",
+            "ଷ୍ଟେସନକୁ ଗାଡ଼ି ଚଳାଅ",
+            "sṭesnaku gadi chalaa"
+          ],
+          [
+            "I will go to the bank",
+            "ମୁଁ ବ୍ୟାଙ୍କକୁ ଯିବି",
+            "mun byankaku jibi"
+          ],
+          [
+            "She ran to the door",
+            "ସେ କବାଟକୁ ଦୌଡ଼ିଲା",
+            "se kabataku daudila"
+          ],
+          [
+            "Bring fruit to me",
+            "ମୋତେ ଫଳ ଆଣ",
+            "mote phala ana"
+          ],
+          [
+            "Do not go to the river alone",
+            "ଏକୁଟିଆ ନଦୀକୁ ଯାଅ ନାହିଁ",
+            "ekutia nadiku jaa nahin"
+          ],
+          [
+            "We are going to Cuttack",
+            "ଆମେ କଟକକୁ ଯାଉଛୁ",
+            "ame Katakkaku jauchhu"
+          ]
+        ]
+      }
+    ],
+    "title": "Preposition \"TO\" in Odia"
+  },
+  {
+    "id": 526,
+    "url": "Sentences with person or living things as object in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "I saw him",
+            "ମୁଁ ତାକୁ ଦେଖିଲି",
+            "mun taku dekhili"
+          ],
+          [
+            "You called her",
+            "ତୁ ତାକୁ ଡାକିଲୁ",
+            "tu taku dakilu"
+          ],
+          [
+            "He helped them",
+            "ସେ ସେମାନଙ୍କୁ ସାହାଯ୍ୟ କଲା",
+            "se semanunku sahayya kala"
+          ],
+          [
+            "She loves her mother",
+            "ସେ ତା ମାଆକୁ ଭଲ ପାଏ",
+            "se ta maaku bhala pae"
+          ],
+          [
+            "We invited the guests",
+            "ଆମେ ଅତିଥିମାନଙ୍କୁ ନିମନ୍ତ୍ରଣ କଲୁ",
+            "ame atithimanunku nimantrana kalu"
+          ],
+          [
+            "They praised the teacher",
+            "ସେମାନେ ଶିକ୍ଷକଙ୍କୁ ପ୍ରଶଂସା କଲେ",
+            "semane shikshakanku prashansa kale"
+          ],
+          [
+            "I gave the child a sweet",
+            "ମୁଁ ପିଲାକୁ ମିଠା ଦେଲି",
+            "mun pilaku mitha deli"
+          ],
+          [
+            "You told us the story",
+            "ତୁ ଆମକୁ କାହାଣୀ କହିଲୁ",
+            "tu amaku kahani kahilu"
+          ],
+          [
+            "He sent me a message",
+            "ସେ ମୋତେ ଏକ ସନ୍ଦେଶ ପଠାଇଲା",
+            "se mote eka sandesha pathaila"
+          ],
+          [
+            "She showed me the photo",
+            "ସେ ମୋତେ ଫଟୋ ଦେଖାଇଲା",
+            "se mote photo dekhaila"
+          ],
+          [
+            "Find the boy",
+            "ପୁଅକୁ ଖୋଜ",
+            "puaku khoja"
+          ],
+          [
+            "Call the doctor",
+            "ଡାକ୍ତରଙ୍କୁ ଡାକ",
+            "daktaranku daka"
+          ],
+          [
+            "Respect your elders",
+            "ବଡ଼ମାନଙ୍କୁ ସମ୍ମାନ କର",
+            "badamanunku sammana kara"
+          ],
+          [
+            "I met my friend",
+            "ମୁଁ ମୋ ସାଙ୍ଗକୁ ଭେଟିଲି",
+            "mun mo sangaku bhetili"
+          ],
+          [
+            "We missed you",
+            "ଆମେ ତୋତେ ମିସ୍ କଲୁ",
+            "ame tote mis kalu"
+          ],
+          [
+            "They forgot him",
+            "ସେମାନେ ତାକୁ ଭୁଲିଗଲେ",
+            "semane taku bhuligale"
+          ],
+          [
+            "Do not hurt anyone",
+            "କାହାକୁ ବି କଷ୍ଟ ଦିଅ ନାହିଁ",
+            "kahaku bi kashta dia nahin"
+          ],
+          [
+            "I taught the students",
+            "ମୁଁ ଛାତ୍ରମାନଙ୍କୁ ପଢ଼ାଇଲି",
+            "mun chhatramanunku padhaili"
+          ],
+          [
+            "She fed the baby",
+            "ସେ ଶିଶୁକୁ ଖୁଆଇଲା",
+            "se shishuku khuaila"
+          ],
+          [
+            "He thanked his parents",
+            "ସେ ତା ପିତାମାତାଙ୍କୁ ଧନ୍ୟବାଦ ଦେଲା",
+            "se ta pitamatanku dhanyabada dela"
+          ]
+        ]
+      }
+    ],
+    "title": "Sentences with person or living things as object in Odia"
+  },
+  {
+    "id": 527,
+    "url": "Saying My/His/Her in Odia",
+    "blocks": [
+      {
+        "type": "table",
+        "columns": [
+          "English",
+          "Odia",
+          "Transliteration"
+        ],
+        "rows": [
+          [
+            "My book",
+            "ମୋ ବହି",
+            "mo bahi"
+          ],
+          [
+            "Your book (informal)",
+            "ତୋ ବହି",
+            "to bahi"
+          ],
+          [
+            "Your book (formal)",
+            "ଆପଣଙ୍କ ବହି",
+            "apananka bahi"
+          ],
+          [
+            "His book / her book",
+            "ତା ବହି",
+            "ta bahi"
+          ],
+          [
+            "Our house",
+            "ଆମ ଘର",
+            "ama ghara"
+          ],
+          [
+            "Your house (plural you)",
+            "ତୁମ ଘର",
+            "tuma ghara"
+          ],
+          [
+            "Their house",
+            "ସେମାନଙ୍କ ଘର",
+            "semananka ghara"
+          ],
+          [
+            "My father",
+            "ମୋ ବାପା",
+            "mo bapa"
+          ],
+          [
+            "His father",
+            "ତା ବାପା",
+            "ta bapa"
+          ],
+          [
+            "Her mother",
+            "ତା ମାଆ",
+            "ta maa"
+          ],
+          [
+            "Our teacher",
+            "ଆମ ଶିକ୍ଷକ",
+            "ama shikshaka"
+          ],
+          [
+            "Their children",
+            "ସେମାନଙ୍କ ପିଲା",
+            "semananka pila"
+          ],
+          [
+            "This is mine",
+            "ଏହା ମୋର",
+            "eha mora"
+          ],
+          [
+            "That is yours",
+            "ସେହା ତୁମର",
+            "seha tumara"
+          ],
+          [
+            "The pen is his",
+            "କଲମଟି ତାର",
+            "kalamati tara"
+          ],
+          [
+            "These are our books",
+            "ଏଗୁଡ଼ିକ ଆମର",
+            "egudika amara"
+          ],
+          [
+            "I lost my keys",
+            "ମୁଁ ମୋ ଚାବି ହରାଇଲି",
+            "mun mo chabi haraili"
+          ],
+          [
+            "She took her bag",
+            "ସେ ତା ଥୈଲି ନେଲା",
+            "se ta thaili nela"
+          ],
+          [
+            "We love our village",
+            "ଆମେ ଆମ ଗାଁକୁ ଭଲ ପାଉ",
+            "ame ama ganku bhala pau"
+          ],
+          [
+            "They sold their car",
+            "ସେମାନେ ସେମାନଙ୍କ ଗାଡ଼ି ବିକ୍ରି କଲେ",
+            "semane semananka gadi bikri kale"
+          ]
+        ]
+      }
+    ],
+    "title": "Saying My/His/Her in Odia"
+  },
+  {
+    "id": 528,
+    "url": "Basic questions and \"WH\" questions in Odia",
     "blocks": [
       {
         "type": "table",
@@ -2363,24 +3510,24 @@
             "se kebe asila?"
           ],
           [
-            "Why are you late?",
-            "ତୁ ଡେରି କାହିଁକି?",
-            "tu deri kahinki?"
+            "Why are you sad?",
+            "ତୁ ଦୁଃଖିତ କାହିଁକି?",
+            "tu duhkhita kahinki?"
           ],
           [
             "How are you?",
-            "ତୁମେ କେମିତି ଅଛ?",
-            "tume kemiti achha?"
+            "ତୁ କେମିତି ଅଛ?",
+            "tu kemiti achha?"
           ],
           [
-            "Who is he?",
+            "Who is that?",
             "ସେ କିଏ?",
             "se kie?"
           ],
           [
-            "How much does this cost?",
-            "ଏହାର ଦାମ କେତେ?",
-            "ehara dama kete?"
+            "How much is this?",
+            "ଏହା କେତେ ଟଙ୍କା?",
+            "eha kete tanka?"
           ],
           [
             "Which book do you want?",
@@ -2388,1012 +3535,69 @@
             "tu keun bahi chahunchha?"
           ],
           [
-            "Is he a teacher?",
-            "ସେ ଶିକ୍ଷକ କି?",
-            "se shikshaka ki?"
-          ],
-          [
-            "Do you understand Odia?",
-            "ତୁ ଓଡ଼ିଆ ବୁଝୁଛ କି?",
-            "tu odia bujuchha ki?"
-          ],
-          [
-            "Where is the hospital?",
-            "ଡାକ୍ତରଖାନା କେଉଁଠି?",
-            "daktarakhana keunthi?"
-          ],
-          [
-            "How many children are there?",
-            "କେତେ ପିଲା ଅଛନ୍ତି?",
-            "kete pila achhanti?"
-          ],
-          [
             "Whose pen is this?",
             "ଏହା କାହାର କଲମ?",
             "eha kahara kalama?"
           ],
           [
-            "Can you speak English?",
-            "ତୁ ଇଂରାଜୀ କହିପାରୁଛ କି?",
-            "tu ingraji kahiparuchha ki?"
-          ],
-          [
-            "What time is it?",
-            "ବର୍ତ୍ତମାନ କେତେ ବେଳ?",
-            "bartamana kete bela?"
+            "How many people came?",
+            "କେତେ ଲୋକ ଆସିଲେ?",
+            "kete loka asile?"
           ],
           [
             "Where do you live?",
-            "ତୁ କେଉଁଠି ରହୁଛ?",
-            "tu keunthi rahuchha?"
+            "ତୁ କେଉଁଠି ରହ?",
+            "tu keunthi raha?"
           ],
           [
-            "Did you eat food?",
-            "ତୁ ଖାଇଲୁ କି?",
-            "tu khailu ki?"
+            "What do you do?",
+            "ତୁ କ'ଣ କାମ କର?",
+            "tu kana kama kara?"
           ],
           [
-            "Will you come tomorrow?",
-            "ତୁ କାଲି ଆସିବୁ କି?",
-            "tu kali asibu ki?"
+            "When will you return?",
+            "ତୁ କେବେ ଫେରିବ?",
+            "tu kebe pheriba?"
+          ],
+          [
+            "Why did she leave?",
+            "ସେ କାହିଁକି ଚାଲିଗଲା?",
+            "se kahinki chaligala?"
+          ],
+          [
+            "How did you come?",
+            "ତୁ କିପରି ଆସିଲୁ?",
+            "tu kipari asilu?"
+          ],
+          [
+            "Is this yours?",
+            "ଏହା ତୁମର କି?",
+            "eha tumara ki?"
+          ],
+          [
+            "Are they ready?",
+            "ସେମାନେ ପ୍ରସ୍ତୁତ କି?",
+            "semane prastuta ki?"
+          ],
+          [
+            "Can you help me?",
+            "ତୁ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବ କି?",
+            "tu mote sahayya karipariba ki?"
+          ],
+          [
+            "Do you know Odia?",
+            "ତୁ ଓଡ଼ିଆ ଜାଣିଛ କି?",
+            "tu odia janicha ki?"
+          ],
+          [
+            "What happened?",
+            "କ'ଣ ହେଲା?",
+            "kana hela?"
           ]
         ]
       }
-    ]
-  },
-  {
-    "id": 520,
-    "url": "Simple Past Tense in Odia – Part 3 (Past tense of \"to be\")",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "In the house (re)",
-            "ଘରେ",
-            "ghare"
-          ],
-          [
-            "From the village (ru)",
-            "ଗାଁରୁ",
-            "ganru"
-          ],
-          [
-            "To the market (ku)",
-            "ବଜାରକୁ",
-            "bajaraku"
-          ],
-          [
-            "On the table (upare)",
-            "ଟେବୁଲ ଉପରେ",
-            "tebula upare"
-          ],
-          [
-            "Under the tree (talare)",
-            "ଗଛ ତଳରେ",
-            "gachha talare"
-          ],
-          [
-            "Near the river (pakhare)",
-            "ନଦୀ ପାଖରେ",
-            "nadi pakhare"
-          ],
-          [
-            "With my friend (saha)",
-            "ମୋ ସାଙ୍ଗ ସହ",
-            "mo sanga saha"
-          ],
-          [
-            "Without water (bina)",
-            "ପାଣି ବିନା",
-            "pani bina"
-          ],
-          [
-            "In front of the school (agare)",
-            "ସ୍କୁଲ ଆଗରେ",
-            "skula agare"
-          ],
-          [
-            "Behind the house (pachhare)",
-            "ଘର ପଛରେ",
-            "ghara pachhare"
-          ],
-          [
-            "I am going to school",
-            "ମୁଁ ସ୍କୁଲକୁ ଯାଉଛି",
-            "mun skulaku jauchhi"
-          ],
-          [
-            "He came from Delhi",
-            "ସେ ଦିଲ୍ଲୀରୁ ଆସିଲା",
-            "se Dilliru asila"
-          ],
-          [
-            "The book is on the shelf",
-            "ବହିଟି ତାକରେ ଅଛି",
-            "bahiti takare achhi"
-          ],
-          [
-            "Sit beside me",
-            "ମୋ ପାଖରେ ବସ",
-            "mo pakhare basa"
-          ],
-          [
-            "The cat is inside the room",
-            "ବିଲେଇ ରୁମ୍ ଭିତରେ ଅଛି",
-            "bilei rum bhitare achhi"
-          ],
-          [
-            "He is standing outside",
-            "ସେ ବାହାରେ ଠିଆ ହୋଇଛି",
-            "se bahare thia hoichhi"
-          ],
-          [
-            "The temple is across the river",
-            "ମନ୍ଦିର ନଦୀ ପାରିରେ ଅଛି",
-            "mandira nadi parire achhi"
-          ],
-          [
-            "I went for his sake",
-            "ମୁଁ ତା ପାଇଁ ଗଲି",
-            "mun ta pain gali"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 521,
-    "url": "Exceptional Verbs in Odia which change in past tense form",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "Big house",
-            "ବଡ଼ ଘର",
-            "bada ghara"
-          ],
-          [
-            "Small child",
-            "ସାନ ପିଲା",
-            "sana pila"
-          ],
-          [
-            "Good boy",
-            "ଭଲ ପୁଅ",
-            "bhala pua"
-          ],
-          [
-            "Bad habit",
-            "ଖରାପ ଅଭ୍ୟାସ",
-            "kharapa abhyasa"
-          ],
-          [
-            "Beautiful flower",
-            "ସୁନ୍ଦର ଫୁଲ",
-            "sundara phula"
-          ],
-          [
-            "Old man",
-            "ବୁଢ଼ା ଲୋକ",
-            "budha loka"
-          ],
-          [
-            "New clothes",
-            "ନୂଆ ଲୁଗା",
-            "nua luga"
-          ],
-          [
-            "Hot water",
-            "ଗରମ ପାଣି",
-            "garama pani"
-          ],
-          [
-            "Cold milk",
-            "ଥଣ୍ଡା କ୍ଷୀର",
-            "thanda kshira"
-          ],
-          [
-            "Sweet mango",
-            "ମିଠା ଆମ୍ବ",
-            "mitha amba"
-          ],
-          [
-            "The tall tree is green",
-            "ଲମ୍ବା ଗଛଟି ସବୁଜ",
-            "lamba gachhati sabuja"
-          ],
-          [
-            "She has long hair",
-            "ତାର ଲମ୍ବା ଚୁଟି ଅଛି",
-            "tara lamba chuti achhi"
-          ],
-          [
-            "This road is wide",
-            "ଏ ରାସ୍ତା ଚଉଡ଼ା",
-            "e rasta chauda"
-          ],
-          [
-            "That river is deep",
-            "ସେ ନଦୀ ଗଭୀର",
-            "se nadi gabhira"
-          ],
-          [
-            "He is a brave soldier",
-            "ସେ ଜଣେ ସାହସୀ ସୈନିକ",
-            "se jane sahasi sainika"
-          ],
-          [
-            "The red flower is beautiful",
-            "ଲାଲ ଫୁଲଟି ସୁନ୍ଦର",
-            "lala phulati sundara"
-          ],
-          [
-            "I want fresh vegetables",
-            "ମୁଁ ତାଜା ପରିବା ଚାହେଁ",
-            "mun taja pariba chahen"
-          ],
-          [
-            "This is an easy question",
-            "ଏହା ଏକ ସହଜ ପ୍ରଶ୍ନ",
-            "eha eka sahaja prashna"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 522,
-    "url": "Past Continuous Tense in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "He is taller than me",
-            "ସେ ମୋଠାରୁ ଲମ୍ବା",
-            "se motharu lamba"
-          ],
-          [
-            "She is smarter than him",
-            "ସେ ତା'ଠାରୁ ଚତୁର",
-            "se ta'tharu chatura"
-          ],
-          [
-            "This book is better",
-            "ଏ ବହି ଅଧିକ ଭଲ",
-            "e bahi adhika bhala"
-          ],
-          [
-            "Mango is sweeter than guava",
-            "ଆମ୍ବ ପେଅରାଠାରୁ ମିଠା",
-            "amba pearatharu mitha"
-          ],
-          [
-            "The elephant is bigger than the horse",
-            "ହାତୀ ଘୋଡ଼ାଠାରୁ ବଡ଼",
-            "hati ghodatharu bada"
-          ],
-          [
-            "Today is hotter than yesterday",
-            "ଆଜି ଗତକାଲିଠାରୁ ଅଧିକ ଗରମ",
-            "aji gatakalitharu adhika garama"
-          ],
-          [
-            "He runs faster than you",
-            "ସେ ତୁମଠାରୁ ଜୋରରେ ଦୌଡ଼େ",
-            "se tumatharu jorare daude"
-          ],
-          [
-            "This is the tallest building",
-            "ଏହା ସବୁଠାରୁ ଲମ୍ବା ଅଟ୍ଟାଳିକା",
-            "eha sabutharu lamba attalika"
-          ],
-          [
-            "She is the best student",
-            "ସେ ସବୁଠାରୁ ଭଲ ଛାତ୍ରୀ",
-            "se sabutharu bhala chhatri"
-          ],
-          [
-            "This is the oldest temple",
-            "ଏହା ସବୁଠାରୁ ପୁରୁଣା ମନ୍ଦିର",
-            "eha sabutharu puruna mandira"
-          ],
-          [
-            "Iron is harder than wood",
-            "ଲୁହା କାଠଠାରୁ ଶକ୍ତ",
-            "luha kathatharu shakta"
-          ],
-          [
-            "The Ganges is the longest river",
-            "ଗଙ୍ଗା ସବୁଠାରୁ ଲମ୍ବା ନଦୀ",
-            "Ganga sabutharu lamba nadi"
-          ],
-          [
-            "He is less patient",
-            "ସେ କମ୍ ଧୈର୍ଯ୍ୟଶୀଳ",
-            "se kama dhairyashila"
-          ],
-          [
-            "This pen is cheaper",
-            "ଏ କଲମ ଅଧିକ ସସ୍ତା",
-            "e kalama adhika sasta"
-          ],
-          [
-            "She sings the most beautifully",
-            "ସେ ସବୁଠାରୁ ସୁନ୍ଦର ଗାଏ",
-            "se sabutharu sundara gae"
-          ],
-          [
-            "My house is farther",
-            "ମୋ ଘର ଅଧିକ ଦୂର",
-            "mo ghara adhika dura"
-          ],
-          [
-            "He is the youngest child",
-            "ସେ ସବୁଠାରୁ ସାନ ପିଲା",
-            "se sabutharu sana pila"
-          ],
-          [
-            "This road is the widest",
-            "ଏ ରାସ୍ତା ସବୁଠାରୁ ଚଉଡ଼ା",
-            "e rasta sabutharu chauda"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 523,
-    "url": "Present/Past/Future Perfect Tense in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "He walks slowly",
-            "ସେ ଧୀରେ ଚାଲେ",
-            "se dhire chale"
-          ],
-          [
-            "She speaks softly",
-            "ସେ ଧୀରେ କହେ",
-            "se dhire kahe"
-          ],
-          [
-            "He runs quickly",
-            "ସେ ଜୋରରେ ଦୌଡ଼େ",
-            "se jorare daude"
-          ],
-          [
-            "I will come soon",
-            "ମୁଁ ଶୀଘ୍ର ଆସିବି",
-            "mun shighra asibi"
-          ],
-          [
-            "She always helps others",
-            "ସେ ସବୁବେଳେ ଅନ୍ୟକୁ ସାହାଯ୍ୟ କରେ",
-            "se sabubelе anyaku sahayya kare"
-          ],
-          [
-            "He never tells lies",
-            "ସେ କେବେ ମିଛ କହେ ନାହିଁ",
-            "se kebe michha kahe nahin"
-          ],
-          [
-            "She sings very well",
-            "ସେ ବହୁତ ଭଲ ଗାଏ",
-            "se bahuta bhala gae"
-          ],
-          [
-            "I go there daily",
-            "ମୁଁ ସେଠି ପ୍ରତିଦିନ ଯାଏ",
-            "mun sethi pratidina jae"
-          ],
-          [
-            "He came here yesterday",
-            "ସେ ଗତକାଲି ଏଠି ଆସିଲା",
-            "se gatakali ethi asila"
-          ],
-          [
-            "She suddenly started crying",
-            "ସେ ହଠାତ୍ କାନ୍ଦିବା ଆରମ୍ଭ କଲା",
-            "se hathat kandiba arambha kala"
-          ],
-          [
-            "He still lives here",
-            "ସେ ଏବେ ବି ଏଠି ରହେ",
-            "se ebe bi ethi rahe"
-          ],
-          [
-            "We often go to the temple",
-            "ଆମେ ପ୍ରାୟ ମନ୍ଦିରକୁ ଯାଉ",
-            "ame praya mandiraku jau"
-          ],
-          [
-            "He works very hard",
-            "ସେ ବହୁତ କଠିନ ପରିଶ୍ରମ କରେ",
-            "se bahuta kathina parishrama kare"
-          ],
-          [
-            "She immediately agreed",
-            "ସେ ସଙ୍ଗେ ସଙ୍ଗେ ରାଜି ହେଲା",
-            "se sange sange raji hela"
-          ],
-          [
-            "I just came now",
-            "ମୁଁ ବର୍ତ୍ତମାନ ଆସିଲି",
-            "mun bartamana asili"
-          ],
-          [
-            "He almost fell down",
-            "ସେ ପ୍ରାୟ ପଡ଼ିଯାଇଥିଲା",
-            "se praya padijaithi la"
-          ],
-          [
-            "She certainly knows this",
-            "ସେ ନିଶ୍ଚୟ ଏହା ଜାଣେ",
-            "se nishchaya eha jane"
-          ],
-          [
-            "They together did the work",
-            "ସେମାନେ ଏକାଠି କାମ କଲେ",
-            "semane ekathi kama kale"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 524,
-    "url": "Learn Prepositions in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "He and I went",
-            "ସେ ଓ ମୁଁ ଗଲୁ",
-            "se o mun galu"
-          ],
-          [
-            "Tea or coffee?",
-            "ଚା କି କଫି?",
-            "cha ki kaphi?"
-          ],
-          [
-            "He came but she didn't",
-            "ସେ ଆସିଲା କିନ୍ତୁ ସେ ଆସିଲା ନାହିଁ",
-            "se asila kintu se asila nahin"
-          ],
-          [
-            "I am tired so I will rest",
-            "ମୁଁ ଥକିଛି ତେଣୁ ବିଶ୍ରାମ ନେବି",
-            "mun thakichhi tenu bishrama nebi"
-          ],
-          [
-            "Study hard otherwise you will fail",
-            "କଠିନ ପଢ଼ ନଚେତ୍ ଫେଲ ହେବୁ",
-            "kathina padha nachet phela hebu"
-          ],
-          [
-            "He is poor but honest",
-            "ସେ ଗରୀବ କିନ୍ତୁ ସଚ୍ଚୋଟ",
-            "se gariba kintu sachchota"
-          ],
-          [
-            "Both Ram and Sita came",
-            "ରାମ ଓ ସୀତା ଦୁହେଁ ଆସିଲେ",
-            "Rama o Sita duhen asile"
-          ],
-          [
-            "I will go if you come",
-            "ତୁ ଆସିଲେ ମୁଁ ଯିବି",
-            "tu asile mun jibi"
-          ],
-          [
-            "He is smart as well as kind",
-            "ସେ ଚତୁର ଏବଂ ଦୟାଳୁ",
-            "se chatura ebam dayalu"
-          ],
-          [
-            "Either he or she will go",
-            "ସେ କିମ୍ବା ସେ ଯିବ",
-            "se kimba se jiba"
-          ],
-          [
-            "He studied so he passed",
-            "ସେ ପଢ଼ିଲା ତେଣୁ ସେ ପାସ କଲା",
-            "se padhila tenu se pasa kala"
-          ],
-          [
-            "Wait until I come",
-            "ମୁଁ ଆସିବା ପର୍ଯ୍ୟନ୍ତ ଅପେକ୍ଷା କର",
-            "mun asiba paryanta apeksha kara"
-          ],
-          [
-            "I went although it rained",
-            "ବର୍ଷା ହେଲା ସତ୍ତ୍ୱେ ମୁଁ ଗଲି",
-            "barsha hela sattwe mun gali"
-          ],
-          [
-            "He works so that he can earn",
-            "ସେ ଉପାର୍ଜନ ପାଇଁ କାମ କରେ",
-            "se uparjana pain kama kare"
-          ],
-          [
-            "Unless you try, you won't succeed",
-            "ଚେଷ୍ଟା ନ କଲେ ସଫଳ ହେବୁ ନାହିଁ",
-            "cheshta na kale saphala hebu nahin"
-          ],
-          [
-            "While eating, don't talk",
-            "ଖାଉଥିବା ବେଳେ କଥା କହ ନାହିଁ",
-            "khauthi ba bele katha kaha nahin"
-          ],
-          [
-            "He is neither tall nor short",
-            "ସେ ଲମ୍ବା ନୁହେଁ ଖାଟୋ ବି ନୁହେଁ",
-            "se lamba nuhen khato bi nuhen"
-          ],
-          [
-            "As soon as he came, I left",
-            "ସେ ଆସିବା ମାତ୍ରେ ମୁଁ ଚାଲିଗଲି",
-            "se asiba matre mun chaligali"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 525,
-    "url": "Preposition \"TO\" in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "The boy who came is my friend",
-            "ଯେଉଁ ପୁଅ ଆସିଲା ସେ ମୋ ସାଙ୍ଗ",
-            "jeun pua asila se mo sanga"
-          ],
-          [
-            "The book that I read is good",
-            "ଯେଉଁ ବହି ମୁଁ ପଢ଼ିଲି ତାହା ଭଲ",
-            "jeun bahi mun padhili taha bhala"
-          ],
-          [
-            "The girl who sings is my sister",
-            "ଯେଉଁ ଝିଅ ଗାଏ ସେ ମୋ ଭଉଣୀ",
-            "jeun jhia gae se mo bhauni"
-          ],
-          [
-            "The place where I was born",
-            "ଯେଉଁ ସ୍ଥାନରେ ମୁଁ ଜନ୍ମ ହୋଇଥିଲି",
-            "jeun sthanare mun janma hoithili"
-          ],
-          [
-            "The teacher who teaches us is kind",
-            "ଯେଉଁ ଶିକ୍ଷକ ଆମକୁ ପଢ଼ାନ୍ତି ସେ ଦୟାଳୁ",
-            "jeun shikshaka amaku padhanti se dayalu"
-          ],
-          [
-            "The man whom I met is a doctor",
-            "ଯାହାକୁ ମୁଁ ଭେଟିଲି ସେ ଡାକ୍ତର",
-            "jahaku mun bhetili se daktara"
-          ],
-          [
-            "The house which is red is mine",
-            "ଯେଉଁ ଘର ଲାଲ ସେ ମୋର",
-            "jeun ghara lala se mora"
-          ],
-          [
-            "Whoever works hard will succeed",
-            "ଯିଏ ପରିଶ୍ରମ କରେ ସେ ସଫଳ ହେବ",
-            "jie parishrama kare se saphala heba"
-          ],
-          [
-            "Whatever you say is true",
-            "ତୁମେ ଯାହା କହ ସେ ସତ",
-            "tume jaha kaha se sata"
-          ],
-          [
-            "The day when he came was Monday",
-            "ଯେଉଁ ଦିନ ସେ ଆସିଲା ସେ ସୋମବାର",
-            "jeun dina se asila se somabara"
-          ],
-          [
-            "I know the reason why he left",
-            "ସେ କାହିଁକି ଗଲା ମୁଁ ଜାଣେ",
-            "se kahinki gala mun jane"
-          ],
-          [
-            "The way in which he spoke was good",
-            "ଯେଉଁ ଢଙ୍ଗରେ ସେ କହିଲା ଭଲ ଥିଲା",
-            "jeun dhangare se kahila bhala thila"
-          ],
-          [
-            "Those who study will pass",
-            "ଯେଉଁମାନେ ପଢ଼ନ୍ତି ସେମାନେ ପାସ ହେବେ",
-            "jeunmane padhanti semane pasa hebe"
-          ],
-          [
-            "The food that she cooks is tasty",
-            "ଯେଉଁ ଖାଦ୍ୟ ସେ ରାନ୍ଧେ ତାହା ସ୍ୱାଦିଷ୍ଟ",
-            "jeun khadya se randhe taha swadishta"
-          ],
-          [
-            "The pen which I lost was expensive",
-            "ଯେଉଁ କଲମ ମୁଁ ହରାଇଲି ସେ ମହଙ୍ଗା ଥିଲା",
-            "jeun kalama mun haraili se mahanga thila"
-          ],
-          [
-            "The village where I grew up is small",
-            "ଯେଉଁ ଗାଁରେ ମୁଁ ବଢ଼ିଲି ସେ ଛୋଟ",
-            "jeun ganre mun badhili se chhota"
-          ],
-          [
-            "He who is honest is respected",
-            "ଯିଏ ସଚ୍ଚୋଟ ତାକୁ ସମ୍ମାନ ମିଳେ",
-            "jie sachchota taku sammana mile"
-          ],
-          [
-            "The time when we met was special",
-            "ଯେଉଁ ସମୟରେ ଆମେ ଭେଟିଲୁ ସେ ବିଶେଷ ଥିଲା",
-            "jeun samayare ame bhetilu se bishesha thila"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 526,
-    "url": "Sentences with person or living things as object in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "If it rains, I will stay home",
-            "ଯଦି ବର୍ଷା ହୁଏ, ମୁଁ ଘରେ ରହିବି",
-            "jadi barsha hue, mun ghare rahibi"
-          ],
-          [
-            "If you study, you will pass",
-            "ଯଦି ପଢ଼ିବ, ପାସ ହେବୁ",
-            "jadi padhiba, pasa hebu"
-          ],
-          [
-            "If he comes, tell me",
-            "ଯଦି ସେ ଆସେ, ମୋତେ କୁହ",
-            "jadi se ase, mote kuha"
-          ],
-          [
-            "If I had money, I would buy it",
-            "ଯଦି ମୋ ପାଖରେ ଟଙ୍କା ଥାନ୍ତା, ମୁଁ କିଣିଥାନ୍ତି",
-            "jadi mo pakhare tanka thanta, mun kinithanti"
-          ],
-          [
-            "If she had studied, she would have passed",
-            "ଯଦି ସେ ପଢ଼ିଥାନ୍ତା, ପାସ ହୋଇଥାନ୍ତା",
-            "jadi se padhithanta, pasa hoithanta"
-          ],
-          [
-            "If you help me, I will be grateful",
-            "ଯଦି ତୁ ସାହାଯ୍ୟ କରିବ, ମୁଁ କୃତଜ୍ଞ ହେବି",
-            "jadi tu sahayya kariba, mun krutajna hebi"
-          ],
-          [
-            "If we go early, we can get seats",
-            "ଯଦି ଆମେ ଲଗେ ଯିବୁ, ସିଟ୍ ପାଇବୁ",
-            "jadi ame lage jibu, sit paibu"
-          ],
-          [
-            "If they invite me, I will go",
-            "ଯଦି ସେମାନେ ନିମନ୍ତ୍ରଣ କରନ୍ତି, ମୁଁ ଯିବି",
-            "jadi semane nimantrana karanti, mun jibi"
-          ],
-          [
-            "If the weather is good, we will play",
-            "ଯଦି ପାଗ ଭଲ ହୁଏ, ଆମେ ଖେଳିବୁ",
-            "jadi paga bhala hue, ame khelibu"
-          ],
-          [
-            "If you don't hurry, you will miss the bus",
-            "ଯଦି ଶୀଘ୍ର ନ କର, ବସ୍ ଛୁଟିଯିବ",
-            "jadi shighra na kara, bas chhutijiba"
-          ],
-          [
-            "Had I known, I would have come",
-            "ଯଦି ଜାଣିଥାନ୍ତି, ଆସିଥାନ୍ତି",
-            "jadi janithanti, asithanti"
-          ],
-          [
-            "If he works hard, he will succeed",
-            "ଯଦି ସେ ପରିଶ୍ରମ କରେ, ସଫଳ ହେବ",
-            "jadi se parishrama kare, saphala heba"
-          ],
-          [
-            "If you eat too much, you will fall sick",
-            "ଯଦି ଅଧିକ ଖାଇବ, ଅସୁସ୍ଥ ହେବୁ",
-            "jadi adhika khaiba, asustha hebu"
-          ],
-          [
-            "If I were a bird, I would fly",
-            "ଯଦି ମୁଁ ପକ୍ଷୀ ହୋଇଥାନ୍ତି, ଉଡ଼ିଥାନ୍ତି",
-            "jadi mun pakshi hoithanti, udithanti"
-          ],
-          [
-            "If she calls, answer the phone",
-            "ଯଦି ସେ ଫୋନ୍ କରେ, ଉତ୍ତର ଦିଅ",
-            "jadi se phon kare, uttara dia"
-          ],
-          [
-            "If we save money, we can travel",
-            "ଯଦି ଟଙ୍କା ବଞ୍ଚାଇବୁ, ବୁଲିପାରିବୁ",
-            "jadi tanka banchaibu, buliparibu"
-          ],
-          [
-            "If it had not rained, we would have gone",
-            "ଯଦି ବର୍ଷା ନ ହୋଇଥାନ୍ତା, ଯାଇଥାନ୍ତୁ",
-            "jadi barsha na hoithanta, jaithanta"
-          ],
-          [
-            "If you want, you can stay",
-            "ଯଦି ଚାହୁଁଛ, ରହିପାରିବ",
-            "jadi chahunchha, rahipariba"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 527,
-    "url": "Saying My/His/Her in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "The book was read by me",
-            "ବହିଟି ମୋ ଦ୍ୱାରା ପଢ଼ାଗଲା",
-            "bahiti mo dwara padhagala"
-          ],
-          [
-            "Food is cooked by mother",
-            "ଖାଦ୍ୟ ମାଆ ଦ୍ୱାରା ରନ୍ଧାଯାଏ",
-            "khadya maa dwara randhajae"
-          ],
-          [
-            "The letter was written by him",
-            "ଚିଠିଟି ତା ଦ୍ୱାରା ଲେଖାଗଲା",
-            "chithiti ta dwara lekhagala"
-          ],
-          [
-            "The song is sung by her",
-            "ଗୀତଟି ସେ ଦ୍ୱାରା ଗାଆଯାଏ",
-            "gitati se dwara gaajae"
-          ],
-          [
-            "Rice is eaten",
-            "ଭାତ ଖିଆଯାଏ",
-            "bhata khiajae"
-          ],
-          [
-            "The door was opened",
-            "କବାଟ ଖୋଲାଗଲା",
-            "kabata kholagala"
-          ],
-          [
-            "The work will be done",
-            "କାମ କରାଯିବ",
-            "kama karajiba"
-          ],
-          [
-            "He was called by the teacher",
-            "ସେ ଶିକ୍ଷକଙ୍କ ଦ୍ୱାରା ଡକାଗଲା",
-            "se shikshakanka dwara dakagala"
-          ],
-          [
-            "The thief was caught by police",
-            "ଚୋରଟି ପୋଲିସ ଦ୍ୱାରା ଧରାଗଲା",
-            "chorati polisa dwara dharagala"
-          ],
-          [
-            "Odia is spoken in Odisha",
-            "ଓଡ଼ିଶାରେ ଓଡ଼ିଆ କୁହାଯାଏ",
-            "odishare odia kuhajae"
-          ],
-          [
-            "The game was won by our team",
-            "ଖେଳ ଆମ ଦଳ ଦ୍ୱାରା ଜିତାଗଲା",
-            "khela ama dala dwara jitagala"
-          ],
-          [
-            "Mangoes are sold in summer",
-            "ଗ୍ରୀଷ୍ମରେ ଆମ୍ବ ବିକାଯାଏ",
-            "grishmre amba bikajae"
-          ],
-          [
-            "The homework was completed",
-            "ଗୃହକାର୍ଯ୍ୟ ସମ୍ପନ୍ନ ହେଲା",
-            "gruhakaryya sampanna hela"
-          ],
-          [
-            "Trees are planted in monsoon",
-            "ବର୍ଷାରେ ଗଛ ଲଗାଯାଏ",
-            "barshare gachha lagajae"
-          ],
-          [
-            "The bridge was built last year",
-            "ସେତୁ ଗତ ବର୍ଷ ତିଆରି ହୋଇଥିଲା",
-            "setu gata barsha tiari hoithila"
-          ],
-          [
-            "Children are taught by teachers",
-            "ପିଲାମାନଙ୍କୁ ଶିକ୍ଷକ ପଢ଼ାନ୍ତି",
-            "pilamanunku shikshaka padhanti"
-          ],
-          [
-            "The news was heard by everyone",
-            "ଖବର ସମସ୍ତଙ୍କ ଦ୍ୱାରା ଶୁଣାଗଲା",
-            "khabara samastanka dwara shunagala"
-          ],
-          [
-            "This poem was composed by Sarala Das",
-            "ଏ କବିତା ସାରଳା ଦାସ ଦ୍ୱାରା ରଚିତ",
-            "e kabita Sarala Dasa dwara rachita"
-          ]
-        ]
-      }
-    ]
-  },
-  {
-    "id": 528,
-    "url": "Basic questions and \"WH\" questions in Odia",
-    "blocks": [
-      {
-        "type": "table",
-        "columns": [
-          "English",
-          "Odia",
-          "Transliteration"
-        ],
-        "rows": [
-          [
-            "I eat → I make him eat",
-            "ମୁଁ ଖାଏ → ମୁଁ ତାକୁ ଖୁଆଏ",
-            "mun khae → mun taku khuae"
-          ],
-          [
-            "He reads → I make him read",
-            "ସେ ପଢ଼େ → ମୁଁ ତାକୁ ପଢ଼ାଏ",
-            "se padhe → mun taku padhae"
-          ],
-          [
-            "She sleeps → I make her sleep",
-            "ସେ ଶୋଏ → ମୁଁ ତାକୁ ଶୋଇଆଏ",
-            "se shoe → mun taku shoiae"
-          ],
-          [
-            "He writes → I make him write",
-            "ସେ ଲେଖେ → ମୁଁ ତାକୁ ଲେଖାଏ",
-            "se lekhe → mun taku lekhae"
-          ],
-          [
-            "Mother feeds the child",
-            "ମାଆ ପିଲାକୁ ଖୁଆଏ",
-            "maa pilaku khuae"
-          ],
-          [
-            "The teacher makes students read",
-            "ଶିକ୍ଷକ ଛାତ୍ରମାନଙ୍କୁ ପଢ଼ାନ୍ତି",
-            "shikshaka chhatramanunku padhanti"
-          ],
-          [
-            "I got the house built",
-            "ମୁଁ ଘର ତିଆରି କରାଇଲି",
-            "mun ghara tiari karaili"
-          ],
-          [
-            "She got the clothes washed",
-            "ସେ ଲୁଗା ଧୋଇଆଇଲା",
-            "se luga dhoiaila"
-          ],
-          [
-            "He got the letter written",
-            "ସେ ଚିଠି ଲେଖାଇଲା",
-            "se chithi lekhaila"
-          ],
-          [
-            "Father made the son study",
-            "ବାପା ପୁଅକୁ ପଢ଼ାଇଲେ",
-            "bapa puaku padhaile"
-          ],
-          [
-            "I will get the work done",
-            "ମୁଁ କାମ କରାଇବି",
-            "mun kama karaibi"
-          ],
-          [
-            "She made the children sit",
-            "ସେ ପିଲାମାନଙ୍କୁ ବସାଇଲା",
-            "se pilamanunku basaila"
-          ],
-          [
-            "He made me laugh",
-            "ସେ ମୋତେ ହସାଇଲା",
-            "se mote hasaila"
-          ],
-          [
-            "Mother put the baby to sleep",
-            "ମାଆ ଶିଶୁକୁ ଶୋଇଆଇଲା",
-            "maa shishuku shoiaila"
-          ],
-          [
-            "I got the car washed",
-            "ମୁଁ ଗାଡ଼ି ଧୋଇଆଇଲି",
-            "mun gadi dhoiaili"
-          ],
-          [
-            "The doctor made him drink medicine",
-            "ଡାକ୍ତର ତାକୁ ଔଷଧ ପିଆଇଲେ",
-            "daktara taku aushadha piaile"
-          ],
-          [
-            "He got the field ploughed",
-            "ସେ ଜମି ଚଷାଇଲା",
-            "se jami chashaila"
-          ],
-          [
-            "She made them understand",
-            "ସେ ସେମାନଙ୍କୁ ବୁଝାଇଲା",
-            "se semanunku bujaila"
-          ]
-        ]
-      }
-    ]
+    ],
+    "title": "Basic questions and \"WH\" questions in Odia"
   },
   {
     "id": 529,
@@ -3408,98 +3612,109 @@
         ],
         "rows": [
           [
-            "He fell down",
-            "ସେ ପଡ଼ିଗଲା",
-            "se padigala"
+            "I do not eat meat",
+            "ମୁଁ ମାଂସ ଖାଏ ନାହିଁ",
+            "mun mansa khae nahin"
           ],
           [
-            "She woke up",
-            "ସେ ଉଠିଗଲା",
-            "se uthigala"
+            "You do not understand",
+            "ତୁ ବୁଝୁ ନାହିଁ",
+            "tu buju nahin"
           ],
           [
-            "I ran away",
-            "ମୁଁ ପଳାଇଗଲି",
-            "mun palaigali"
+            "He does not lie",
+            "ସେ ମିଛ କହେ ନାହିଁ",
+            "se michha kahe nahin"
           ],
           [
-            "He sat down",
-            "ସେ ବସିପଡ଼ିଲା",
-            "se basipadi la"
+            "She does not sing today",
+            "ସେ ଆଜି ଗାଏ ନାହିଁ",
+            "se aji gae nahin"
           ],
           [
-            "The food got burnt",
-            "ଖାଦ୍ୟ ଜଳିଗଲା",
-            "khadya jaligala"
+            "We do not play now",
+            "ଆମେ ଏବେ ଖେଳୁ ନାହିଁ",
+            "ame ebe khelu nahin"
           ],
           [
-            "He broke down and cried",
-            "ସେ ଭାଙ୍ଗିପଡ଼ିଲା ଓ କାନ୍ଦିଲା",
-            "se bhangipadi la o kandila"
+            "They do not come here",
+            "ସେମାନେ ଏଠି ଆସନ୍ତି ନାହିଁ",
+            "semane ethi asanti nahin"
           ],
           [
-            "She went away",
-            "ସେ ଚାଲିଗଲା",
-            "se chaligala"
+            "I do not know",
+            "ମୁଁ ଜାଣେ ନାହିଁ",
+            "mun jane nahin"
           ],
           [
-            "The flower bloomed",
-            "ଫୁଲ ଫୁଟିଗଲା",
-            "phula phutigala"
+            "You do not listen",
+            "ତୁ ଶୁଣୁ ନାହିଁ",
+            "tu shunu nahin"
           ],
           [
-            "He finished eating",
-            "ସେ ଖାଇସାରିଲା",
-            "se khaisarila"
+            "He does not work on Sunday",
+            "ସେ ରବିବାର କାମ କରେ ନାହିଁ",
+            "se rabibara kama kare nahin"
           ],
           [
-            "She kept on reading",
-            "ସେ ପଢ଼ିଚାଲିଲା",
-            "se padhichalila"
+            "She does not like tea",
+            "ସେ ଚା ପସନ୍ଦ କରେ ନାହିଁ",
+            "se cha pasanda kare nahin"
           ],
           [
-            "He began to speak",
-            "ସେ କହିବା ଆରମ୍ଭ କଲା",
-            "se kahiba arambha kala"
+            "We do not forget",
+            "ଆମେ ଭୁଲୁ ନାହିଁ",
+            "ame bhulu nahin"
           ],
           [
-            "The glass broke into pieces",
-            "ଗ୍ଲାସ ଭାଙ୍ଗିଗଲା",
-            "glasa bhangigala"
+            "They do not agree",
+            "ସେମାନେ ରାଜି ହୁଅନ୍ତି ନାହିଁ",
+            "semane raji huanti nahin"
           ],
           [
-            "I wrote it down",
-            "ମୁଁ ଲେଖିରଖିଲି",
-            "mun lekhirakhili"
+            "There is no water",
+            "ପାଣି ନାହିଁ",
+            "pani nahin"
           ],
           [
-            "She put on her shoes",
-            "ସେ ଜୋତା ପିନ୍ଧିନେଲା",
-            "se jota pindhinela"
+            "I am not afraid",
+            "ମୁଁ ଭୟଭୀତ ନୁହେଁ",
+            "mun bhayabita nuhen"
           ],
           [
-            "He picked it up",
-            "ସେ ଉଠାଇନେଲା",
-            "se uthainela"
+            "This is not mine",
+            "ଏହା ମୋର ନୁହେଁ",
+            "eha mora nuhen"
           ],
           [
-            "The river dried up",
-            "ନଦୀ ଶୁଖିଗଲା",
-            "nadi shukhigala"
+            "We are not late",
+            "ଆମେ ଡେରି ନୁହୁଁ",
+            "ame deri nuhun"
           ],
           [
-            "He threw it away",
-            "ସେ ଫୋପାଡ଼ିଦେଲା",
-            "se phopadidela"
+            "He is not at home",
+            "ସେ ଘରେ ନାହିଁ",
+            "se ghare nahin"
           ],
           [
-            "She came running",
-            "ସେ ଦୌଡ଼ି ଆସିଲା",
-            "se daudi asila"
+            "Do not run here",
+            "ଏଠି ଦୌଡ଼ ନାହିଁ",
+            "ethi dauda nahin"
+          ],
+          [
+            "I do not want it",
+            "ମୋତେ ଏହା ଦରକାର ନାହିଁ",
+            "mote eha darakara nahin"
+          ],
+          [
+            "You do not need to go",
+            "ତୁମକୁ ଯିବା ଦରକାର ନାହିଁ",
+            "tumaku jiba darakara nahin"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Negative Sentences – Present tense in Odia"
   },
   {
     "id": 530,
@@ -3514,98 +3729,109 @@
         ],
         "rows": [
           [
-            "You (informal)",
-            "ତୁ",
-            "tu"
+            "I did not go",
+            "ମୁଁ ଯାଇ ନଥିଲି",
+            "mun jai nathili"
           ],
           [
-            "You (semi-formal)",
-            "ତୁମେ",
-            "tume"
+            "You did not eat",
+            "ତୁ ଖାଇ ନଥିଲୁ",
+            "tu khai nathilu"
           ],
           [
-            "You (formal/respectful)",
-            "ଆପଣ",
-            "apana"
+            "He did not come",
+            "ସେ ଆସି ନଥିଲା",
+            "se asi nathila"
           ],
           [
-            "Please come (formal)",
-            "ଦୟାକରି ଆସନ୍ତୁ",
-            "dayakari asantu"
+            "She did not sleep",
+            "ସେ ଶୋଇ ନଥିଲା",
+            "se soi nathila"
           ],
           [
-            "Please sit (formal)",
-            "ଦୟାକରି ବସନ୍ତୁ",
-            "dayakari basantu"
+            "We did not see him",
+            "ଆମେ ତାକୁ ଦେଖି ନଥିଲୁ",
+            "ame taku dekhi nathilu"
           ],
           [
-            "He goes (informal)",
-            "ସେ ଯାଏ",
-            "se jae"
+            "They did not hear",
+            "ସେମାନେ ଶୁଣି ନଥିଲେ",
+            "semane shuni nathile"
           ],
           [
-            "He goes (respectful)",
-            "ସେ ଯାଆନ୍ତି",
-            "se jaanti"
+            "I did not buy it",
+            "ମୁଁ ଏହା କିଣି ନଥିଲି",
+            "mun eha kini nathili"
           ],
           [
-            "What do you want? (informal)",
-            "ତୁ କ'ଣ ଚାହୁଁଛ?",
-            "tu kana chahunchha?"
+            "You did not tell me",
+            "ତୁ ମୋତେ କହି ନଥିଲୁ",
+            "tu mote kahi nathilu"
           ],
           [
-            "What do you want? (formal)",
-            "ଆପଣ କ'ଣ ଚାହାନ୍ତି?",
-            "apana kana chahanti?"
+            "He did not open the door",
+            "ସେ କବାଟ ଖୋଲି ନଥିଲା",
+            "se kabata kholinathila"
           ],
           [
-            "Teacher came (respectful)",
-            "ଶିକ୍ଷକ ଆସିଲେ",
-            "shikshaka asile"
+            "She did not write",
+            "ସେ ଲେଖି ନଥିଲା",
+            "se lekhinathila"
           ],
           [
-            "Father said (respectful)",
-            "ବାପା କହିଲେ",
-            "bapa kahile"
+            "We did not finish",
+            "ଆମେ ସାରି ନଥିଲୁ",
+            "ame sari nathilu"
           ],
           [
-            "Mother cooked (respectful)",
-            "ମାଆ ରାନ୍ଧିଲେ",
-            "maa randhile"
+            "They did not wait",
+            "ସେମାନେ ଅପେକ୍ଷା କରି ନଥିଲେ",
+            "semane apeksha kari nathile"
           ],
           [
-            "Grandfather told a story",
-            "ଅଜା ଗୋଟିଏ କାହାଣୀ କହିଲେ",
-            "aja gotie kahani kahile"
+            "I was not there",
+            "ମୁଁ ସେଠି ନଥିଲି",
+            "mun sethi nathili"
           ],
           [
-            "Please speak slowly",
-            "ଦୟାକରି ଧୀରେ କୁହନ୍ତୁ",
-            "dayakari dhire kuhantu"
+            "It did not rain",
+            "ବର୍ଷା ହେଲା ନାହିଁ",
+            "barsha hela nahin"
           ],
           [
-            "Respected sir/madam",
-            "ମାନ୍ୟବର / ମାନ୍ୟବରୀ",
-            "manyabara / manyabari"
+            "He did not agree",
+            "ସେ ରାଜି ହେଲା ନାହିଁ",
+            "se raji hela nahin"
           ],
           [
-            "Please tell me (formal)",
-            "ଦୟାକରି ମୋତେ କୁହନ୍ତୁ",
-            "dayakari mote kuhantu"
+            "We did not meet",
+            "ଆମେ ଭେଟି ନଥିଲୁ",
+            "ame bheti nathilu"
           ],
           [
-            "He is eating (respectful)",
-            "ସେ ଖାଉଛନ୍ତି",
-            "se khauchhanti"
+            "She did not answer",
+            "ସେ ଉତ୍ତର ଦେଲା ନାହିଁ",
+            "se uttara dela nahin"
           ],
           [
-            "Thank you very much (formal)",
-            "ଆପଣଙ୍କୁ ବହୁତ ଧନ୍ୟବାଦ",
-            "apanunku bahuta dhanyabada"
+            "I did not forget",
+            "ମୁଁ ଭୁଲି ନଥିଲି",
+            "mun bhuli nathili"
+          ],
+          [
+            "You did not try",
+            "ତୁ ଚେଷ୍ଟା କଲୁ ନାହିଁ",
+            "tu cheshta kalu nahin"
+          ],
+          [
+            "They did not return",
+            "ସେମାନେ ଫେରି ଆସିଲେ ନାହିଁ",
+            "semane pheri asile nahin"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Negative Sentences – Past tense in Odia"
   },
   {
     "id": 531,
@@ -3620,98 +3846,109 @@
         ],
         "rows": [
           [
-            "Present: I go",
-            "ମୁଁ ଯାଏ",
-            "mun jae"
+            "I will not go",
+            "ମୁଁ ଯିବି ନାହିଁ",
+            "mun jibi nahin"
           ],
           [
-            "Present continuous: I am going",
-            "ମୁଁ ଯାଉଛି",
-            "mun jauchhi"
+            "You will not eat",
+            "ତୁ ଖାଇବୁ ନାହିଁ",
+            "tu khaibu nahin"
           ],
           [
-            "Past: I went",
-            "ମୁଁ ଗଲି",
-            "mun gali"
+            "He will not come",
+            "ସେ ଆସିବ ନାହିଁ",
+            "se asiba nahin"
           ],
           [
-            "Past continuous: I was going",
-            "ମୁଁ ଯାଉଥିଲି",
-            "mun jauthili"
+            "She will not leave",
+            "ସେ ଚାଲିଯିବ ନାହିଁ",
+            "se chalijiba nahin"
           ],
           [
-            "Future: I will go",
-            "ମୁଁ ଯିବି",
-            "mun jibi"
+            "We will not forget",
+            "ଆମେ ଭୁଲିବୁ ନାହିଁ",
+            "ame bhulibu nahin"
           ],
           [
-            "Present perfect: I have gone",
-            "ମୁଁ ଯାଇଛି",
-            "mun jaichhi"
+            "They will not come tomorrow",
+            "ସେମାନେ କାଲି ଆସିବେ ନାହିଁ",
+            "semane kali asibe nahin"
           ],
           [
-            "Past perfect: I had gone",
-            "ମୁଁ ଯାଇଥିଲି",
-            "mun jaithili"
+            "I will not tell anyone",
+            "ମୁଁ କାହାକୁ କହିବି ନାହିଁ",
+            "mun kahaku kahibi nahin"
           ],
           [
-            "He eats (habitual present)",
-            "ସେ ଖାଏ",
-            "se khae"
+            "You will not regret it",
+            "ତୁ ପଛେ ପଛେ ହେବୁ ନାହିଁ",
+            "tu pache pache hebu nahin"
           ],
           [
-            "He is eating (present continuous)",
-            "ସେ ଖାଉଛି",
-            "se khauchhi"
+            "He will not agree",
+            "ସେ ରାଜି ହେବ ନାହିଁ",
+            "se raji heba nahin"
           ],
           [
-            "He ate (simple past)",
-            "ସେ ଖାଇଲା",
-            "se khaila"
+            "She will not sing",
+            "ସେ ଗାଇବ ନାହିଁ",
+            "se gaiba nahin"
           ],
           [
-            "He was eating (past continuous)",
-            "ସେ ଖାଉଥିଲା",
-            "se khauthila"
+            "We will not stop",
+            "ଆମେ ବନ୍ଦ କରିବୁ ନାହିଁ",
+            "ame banda karibu nahin"
           ],
           [
-            "He will eat (simple future)",
-            "ସେ ଖାଇବ",
-            "se khaiba"
+            "They will not pay",
+            "ସେମାନେ ଦେବେ ନାହିଁ",
+            "semane debe nahin"
           ],
           [
-            "He has eaten (present perfect)",
-            "ସେ ଖାଇସାରିଛି",
-            "se khaisarichhi"
+            "It will not happen",
+            "ତାହା ହେବ ନାହିଁ",
+            "taha heba nahin"
           ],
           [
-            "He had eaten (past perfect)",
-            "ସେ ଖାଇସାରିଥିଲା",
-            "se khaisarithila"
+            "I will not be late",
+            "ମୁଁ ଡେରି କରିବି ନାହିଁ",
+            "mun deri karibi nahin"
           ],
           [
-            "I was reading when he came",
-            "ସେ ଆସିବାବେଳେ ମୁଁ ପଢ଼ୁଥିଲି",
-            "se asibabele mun padhuthili"
+            "You will not fail",
+            "ତୁ ଫେଲ ହେବୁ ନାହିଁ",
+            "tu phela hebu nahin"
           ],
           [
-            "She has been singing since morning",
-            "ସେ ସକାଳୁ ଗାଉଛି",
-            "se sakalu gauchhi"
+            "He will not return alone",
+            "ସେ ଏକୁଟିଆ ଫେରିବ ନାହିଁ",
+            "se ekutia pheriba nahin"
           ],
           [
-            "They will have finished by then",
-            "ସେମାନେ ସେତେବେଳକୁ ସାରିଥିବେ",
-            "semane setebel aku sarithibe"
+            "We will not give up",
+            "ଆମେ ହାର ମାନିବୁ ନାହିଁ",
+            "ame hara manibu nahin"
           ],
           [
-            "I had already left before he arrived",
-            "ସେ ପହଞ୍ଚିବା ଆଗରୁ ମୁଁ ଯାଇଥିଲି",
-            "se pahanchiba agaru mun jaithili"
+            "They will not build here",
+            "ସେମାନେ ଏଠି ତିଆରି କରିବେ ନାହିଁ",
+            "semane ethi tiari karibe nahin"
+          ],
+          [
+            "I will never lie",
+            "ମୁଁ କେବେ ମିଛ କହିବି ନାହିଁ",
+            "mun kebe michha kahibi nahin"
+          ],
+          [
+            "She will not marry him",
+            "ସେ ତାକୁ ବିବାହ କରିବ ନାହିଁ",
+            "se taku bibaha kariba nahin"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Negative Sentence – Future Tense in Odia"
   },
   {
     "id": 532,
@@ -3726,98 +3963,109 @@
         ],
         "rows": [
           [
-            "I can speak Odia",
-            "ମୁଁ ଓଡ଼ିଆ କହି ପାରେ",
-            "mun odia kahi pare"
+            "Boy",
+            "ପୁଅ",
+            "pua"
           ],
           [
-            "He can swim",
-            "ସେ ପହଁରି ପାରେ",
-            "se pahanri pare"
+            "Boys",
+            "ପୁଅମାନେ",
+            "puamane"
           ],
           [
-            "She must go now",
-            "ସେ ବର୍ତ୍ତମାନ ଯିବା ଉଚିତ",
-            "se bartamana jiba uchita"
+            "Girl",
+            "ଝିଅ",
+            "jhia"
           ],
           [
-            "You should study daily",
-            "ତୁ ପ୍ରତିଦିନ ପଢ଼ିବା ଉଚିତ",
-            "tu pratidina padhiba uchita"
+            "Girls",
+            "ଝିଅମାନେ",
+            "jhiamane"
           ],
           [
-            "May I come in?",
-            "ମୁଁ ଭିତରକୁ ଆସିପାରିବି କି?",
-            "mun bhitaraku asipaaribi ki?"
+            "Man",
+            "ପୁରୁଷ",
+            "purusha"
           ],
           [
-            "He may come tomorrow",
-            "ସେ କାଲି ଆସିପାରେ",
-            "se kali asipare"
+            "Men",
+            "ପୁରୁଷମାନେ",
+            "purushamane"
           ],
           [
-            "I want to eat",
-            "ମୁଁ ଖାଇବାକୁ ଚାହେଁ",
-            "mun khaibaku chahen"
+            "Woman",
+            "ସ୍ତ୍ରୀ",
+            "stri"
           ],
           [
-            "She has to go to school",
-            "ସେ ସ୍କୁଲ ଯିବାକୁ ହେବ",
-            "se skula jibaku heba"
+            "Women",
+            "ସ୍ତ୍ରୀମାନେ",
+            "strimane"
           ],
           [
-            "You need not worry",
-            "ତୁ ଚିନ୍ତା କରିବା ଦରକାର ନାହିଁ",
-            "tu chinta kariba darakara nahin"
+            "Lion",
+            "ସିଂହ",
+            "simha"
           ],
           [
-            "I could not come yesterday",
-            "ମୁଁ ଗତକାଲି ଆସିପାରିଲି ନାହିଁ",
-            "mun gatakali asiparili nahin"
+            "Lioness",
+            "ସିଂହୀ",
+            "simhi"
           ],
           [
-            "He might have left",
-            "ସେ ଯାଇଥାଇପାରେ",
-            "se jaithaipare"
+            "Teacher (male)",
+            "ଶିକ୍ଷକ",
+            "shikshaka"
           ],
           [
-            "We must respect elders",
-            "ଆମେ ବୟସ୍କମାନଙ୍କୁ ସମ୍ମାନ କରିବା ଉଚିତ",
-            "ame bayaskamanunku sammana kariba uchita"
+            "Teacher (female)",
+            "ଶିକ୍ଷୟିତ୍ରୀ",
+            "shikshayitri"
           ],
           [
-            "Can you help me?",
-            "ତୁ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବ କି?",
-            "tu mote sahayya karipariba ki?"
+            "A tree",
+            "ଗୋଟିଏ ଗଛ",
+            "gotie gachha"
           ],
           [
-            "She ought to apologize",
-            "ସେ କ୍ଷମା ମାଗିବା ଉଚିତ",
-            "se kshama magiba uchita"
+            "Many trees",
+            "ଅନେକ ଗଛ",
+            "aneka gachha"
           ],
           [
-            "I am able to understand",
-            "ମୁଁ ବୁଝି ପାରୁଛି",
-            "mun buji paruchhi"
+            "One book",
+            "ଗୋଟିଏ ବହି",
+            "gotie bahi"
           ],
           [
-            "He used to play here",
-            "ସେ ଏଠି ଖେଳୁଥିଲା",
-            "se ethi kheluthila"
+            "Several books",
+            "କେତେକ ବହି",
+            "keteka bahi"
           ],
           [
-            "You may take a seat",
-            "ଆପଣ ବସି ପାରନ୍ତି",
-            "apana basi paranti"
+            "The boy runs",
+            "ପୁଅଟି ଦୌଡ଼େ",
+            "puati daude"
           ],
           [
-            "We should help the poor",
-            "ଆମେ ଗରୀବମାନଙ୍କୁ ସାହାଯ୍ୟ କରିବା ଉଚିତ",
-            "ame garibamanunku sahayya kariba uchita"
+            "The girls sang",
+            "ଝିଅମାନେ ଗାଇଲେ",
+            "jhiamane gaile"
+          ],
+          [
+            "Good men help others",
+            "ଭଲ ପୁରୁଷମାନେ ଅନ୍ୟକୁ ସାହାଯ୍ୟ କରନ୍ତି",
+            "bhala purushamane anyaku sahayya karanti"
+          ],
+          [
+            "Those women are teachers",
+            "ସେ ସ୍ତ୍ରୀମାନେ ଶିକ୍ଷୟିତ୍ରୀ",
+            "se strimane shikshayitri"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Working with nouns – Gender & Plurals in Odia"
   },
   {
     "id": 533,
@@ -3832,98 +4080,109 @@
         ],
         "rows": [
           [
-            "He said, 'I am going'",
-            "ସେ କହିଲା, 'ମୁଁ ଯାଉଛି'",
-            "se kahila, 'mun jauchhi'"
+            "Fish in the river",
+            "ନଦୀରେ ମାଛ",
+            "nadire machha"
           ],
           [
-            "He said that he was going",
-            "ସେ କହିଲା ଯେ ସେ ଯାଉଛି",
-            "se kahila je se jauchhi"
+            "Birds on the roof",
+            "ଛାତ ଉପରେ ପକ୍ଷୀ",
+            "chhata upare pakshi"
           ],
           [
-            "She said, 'I will come'",
-            "ସେ କହିଲା, 'ମୁଁ ଆସିବି'",
-            "se kahila, 'mun asibi'"
+            "Fruit in the basket",
+            "ଟୋକରିରେ ଫଳ",
+            "tokarire phala"
           ],
           [
-            "She told me that she would come",
-            "ସେ ମୋତେ କହିଲା ଯେ ସେ ଆସିବ",
-            "se mote kahila je se asiba"
+            "Money in the pocket",
+            "ପକେଟରେ ଟଙ୍କା",
+            "paketare tanka"
           ],
           [
-            "He asked, 'Where are you going?'",
-            "ସେ ପଚାରିଲା, 'ତୁ କେଉଁଠି ଯାଉଛ?'",
-            "se pacharila, 'tu keunthi jauchha?'"
+            "Cat under the chair",
+            "ଚେୟାର ତଳେ ବିଲେଇ",
+            "cheyara tale bilei"
           ],
           [
-            "He asked me where I was going",
-            "ସେ ମୋତେ ପଚାରିଲା ମୁଁ କେଉଁଠି ଯାଉଛି",
-            "se mote pacharila mun keunthi jauchhi"
+            "Dog near the gate",
+            "କବାଟ ପାଖରେ କୁକୁର",
+            "kabata pakhare kukur"
           ],
           [
-            "Teacher said, 'Study well'",
-            "ଶିକ୍ଷକ କହିଲେ, 'ଭଲ ପଢ଼'",
-            "shikshaka kahile, 'bhala padha'"
+            "Books on the shelf",
+            "ତାକରେ ବହି",
+            "takare bahi"
           ],
           [
-            "Teacher told us to study well",
-            "ଶିକ୍ଷକ ଆମକୁ ଭଲ ପଢ଼ିବାକୁ କହିଲେ",
-            "shikshaka amaku bhala padhibaku kahile"
+            "Flowers in the garden",
+            "ବଗିଚାରେ ଫୁଲ",
+            "bagichare phula"
           ],
           [
-            "Mother said, 'Eat your food'",
-            "ମାଆ କହିଲେ, 'ତୁମ ଖାଣା ଖାଅ'",
-            "maa kahile, 'tuma khana khaa'"
+            "Students in the class",
+            "କ୍ଲାସରେ ଛାତ୍ର",
+            "klasare chatra"
           ],
           [
-            "Mother told me to eat my food",
-            "ମାଆ ମୋତେ ଖାଣା ଖାଇବାକୁ କହିଲେ",
-            "maa mote khana khaibaku kahile"
+            "People at the market",
+            "ବଜାରରେ ଲୋକ",
+            "bajarare loka"
           ],
           [
-            "He said, 'I did not go'",
-            "ସେ କହିଲା, 'ମୁଁ ଯାଇ ନଥିଲି'",
-            "se kahila, 'mun jai nathili'"
+            "Stars in the sky",
+            "ଆକାଶରେ ତାରା",
+            "akashire tara"
           ],
           [
-            "He said that he had not gone",
-            "ସେ କହିଲା ଯେ ସେ ଯାଇ ନଥିଲା",
-            "se kahila je se jai nathila"
+            "Boat on the water",
+            "ପାଣି ଉପରେ ନାଓ",
+            "pani upare nao"
           ],
           [
-            "She asked, 'Can I help you?'",
-            "ସେ ପଚାରିଲା, 'ମୁଁ ସାହାଯ୍ୟ କରିପାରିବି କି?'",
-            "se pacharila, 'mun sahayya karipaaribi ki?'"
+            "I put rice in the pot",
+            "ମୁଁ ହାଣ୍ଡିରେ ଚାଉଳ ପକାଇଲି",
+            "mun handire chaula pakaili"
           ],
           [
-            "She asked if she could help me",
-            "ସେ ପଚାରିଲା ସେ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବ କି",
-            "se pacharila se mote sahayya karipariba ki"
+            "There is a hole in the wall",
+            "ଦେଓଳରେ ଗୋଟିଏ ଛିଦ୍ର ଅଛି",
+            "deolare gotie chhidra achhi"
           ],
           [
-            "He exclaimed that it was beautiful",
-            "ସେ ଆଶ୍ଚର୍ଯ୍ୟ ହୋଇ କହିଲା ଏହା ସୁନ୍ଦର",
-            "se ashcharyya hoi kahila eha sundara"
+            "She kept fruit in the fridge",
+            "ସେ ଫ୍ରିଜରେ ଫଳ ରଖିଲା",
+            "se phrijare phala rakhila"
           ],
           [
-            "They said they would come",
-            "ସେମାନେ କହିଲେ ସେମାନେ ଆସିବେ",
-            "semane kahile semane asibe"
+            "We sat on the grass",
+            "ଆମେ ଘାସ ଉପରେ ବସିଲୁ",
+            "ame ghasa upare basilu"
           ],
           [
-            "Father told me not to lie",
-            "ବାପା ମୋତେ ମିଛ ନ କହିବାକୁ କହିଲେ",
-            "bapa mote michha na kahibaku kahile"
+            "The keys are in the drawer",
+            "ଚାବି ଦରାଜରେ ଅଛି",
+            "chabi darajare achhi"
           ],
           [
-            "She replied that she was fine",
-            "ସେ ଉତ୍ତର ଦେଲା ଯେ ସେ ଭଲ ଅଛି",
-            "se uttara dela je se bhala achhi"
+            "Children played in the field",
+            "ପିଲାମାନେ ମୟଦାନରେ ଖେଳିଲେ",
+            "pilamane mayadanare khelile"
+          ],
+          [
+            "There is a temple on the hill",
+            "ପାହାଡ଼ ଉପରେ ଏକ ମନ୍ଦିର ଅଛି",
+            "pahada upare eka mandira achhi"
+          ],
+          [
+            "He works at the office",
+            "ସେ ଅଫିସରେ କାମ କରେ",
+            "se ofisare kama kare"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Working with nouns – Prepositions in Odia"
   },
   {
     "id": 534,
@@ -3938,98 +4197,109 @@
         ],
         "rows": [
           [
-            "Running boy",
-            "ଦୌଡ଼ୁଥିବା ପୁଅ",
-            "dauduthiba pua"
+            "Near / beside (pakhare)",
+            "ପାଖରେ",
+            "pakhare"
           ],
           [
-            "Singing girl",
-            "ଗାଉଥିବା ଝିଅ",
-            "gauthiba jhia"
+            "Close / near (nikata)",
+            "ନିକଟରେ",
+            "nikatare"
           ],
           [
-            "Written letter",
-            "ଲେଖା ଚିଠି",
-            "lekha chithi"
+            "Inside (bhitare)",
+            "ଭିତରେ",
+            "bhitare"
           ],
           [
-            "Broken glass",
-            "ଭାଙ୍ଗିଯାଇଥିବା ଗ୍ଲାସ",
-            "bhangijaithi ba glasa"
+            "In (often -re)",
+            "ରେ",
+            "re"
           ],
           [
-            "Sleeping child",
-            "ଶୋଇଥିବା ପିଲା",
-            "shoithiba pila"
+            "On / upon (upare)",
+            "ଉପରେ",
+            "upare"
           ],
           [
-            "Cooked food",
-            "ରନ୍ଧା ଖାଦ୍ୟ",
-            "randha khadya"
+            "Under (tale)",
+            "ତଳେ",
+            "tale"
           ],
           [
-            "Having eaten, he went",
-            "ଖାଇସାରି ସେ ଗଲା",
-            "khaisari se gala"
+            "Behind (pachhare)",
+            "ପଛରେ",
+            "pachhare"
           ],
           [
-            "Having read, she slept",
-            "ପଢ଼ିସାରି ସେ ଶୋଇଲା",
-            "padhisari se soila"
+            "In front (agare)",
+            "ଆଗରେ",
+            "agare"
           ],
           [
-            "The fallen leaves are dry",
-            "ଝଡ଼ିଯାଇଥିବା ପତ୍ର ଶୁଖିଲା",
-            "jhadijaithi ba patra shukhila"
+            "Between (majhire)",
+            "ମଝିରେ",
+            "majhire"
           ],
           [
-            "The boiling water is hot",
-            "ଫୁଟୁଥିବା ପାଣି ଗରମ",
-            "phututhiba pani garama"
+            "Until (paryanta)",
+            "ପର୍ଯ୍ୟନ୍ତ",
+            "paryanta"
           ],
           [
-            "A learned person",
-            "ଶିକ୍ଷିତ ବ୍ୟକ୍ତି",
-            "shikshita byakti"
+            "Sit beside me (pakhare)",
+            "ମୋ ପାଖରେ ବସ",
+            "mo pakhare basa"
           ],
           [
-            "A broken heart",
-            "ଭାଙ୍ଗିଯାଇଥିବା ହୃଦୟ",
-            "bhangijaithi ba hrudaya"
+            "Stand near the door (nikatare)",
+            "କବାଟ ନିକଟରେ ଠିଆ ହୋଇରୁହ",
+            "kabata nikatare thia hoiruha"
           ],
           [
-            "While walking, I saw a bird",
-            "ଚାଲୁଥିଲାବେଳେ ମୁଁ ଏକ ପକ୍ଷୀ ଦେଖିଲି",
-            "chaluthilabele mun eka pakshi dekhili"
+            "The cat is under the table",
+            "ବିଲେଇ ଟେବୁଲ ତଳେ",
+            "bilei tebula tale"
           ],
           [
-            "Being tired, he rested",
-            "ଥକି ସେ ବିଶ୍ରାମ ନେଲା",
-            "thaki se bishrama nela"
+            "The picture is on the wall",
+            "ଛବି ଦେଓଳ ଉପରେ",
+            "chhabi deola upare"
           ],
           [
-            "The washed clothes are clean",
-            "ଧୋଇଥିବା ଲୁଗା ସଫା",
-            "dhoithiba luga sapha"
+            "We work until evening",
+            "ଆମେ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ କାମ କରୁ",
+            "ame sandhya paryanta kama karu"
           ],
           [
-            "A flying bird",
-            "ଉଡ଼ୁଥିବା ପକ୍ଷୀ",
-            "uduthiba pakshi"
+            "He lives near the river",
+            "ସେ ନଦୀ ପାଖରେ ରହେ",
+            "se nadi pakhare rahe"
           ],
           [
-            "The completed work",
-            "ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିବା କାମ",
-            "sampurna hoithiba kama"
+            "The shop is behind the post office",
+            "ଦୋକାନ ପୋଷ୍ଟ ଅଫିସ ପଛରେ",
+            "dokana post ofisa pachhare"
           ],
           [
-            "Having arrived, he called me",
-            "ପହଞ୍ଚି ସେ ମୋତେ ଡାକିଲା",
-            "pahanchi se mote dakila"
+            "Keep the shoes under the bed",
+            "ଖାଟ ତଳେ ଜୋତା ରଖ",
+            "khata tale jota rakha"
+          ],
+          [
+            "Between you and me",
+            "ତୁ ଓ ମୋ ମଝିରେ",
+            "tu o mo majhire"
+          ],
+          [
+            "Wait until I come",
+            "ମୁଁ ଆସିବା ପର୍ଯ୍ୟନ୍ତ ଅପେକ୍ଷା କର",
+            "mun asiba paryanta apeksha kara"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Prepositions with similar pronunciation or similar meanings in Odia"
   },
   {
     "id": 535,
@@ -4044,98 +4314,109 @@
         ],
         "rows": [
           [
-            "I want to eat",
-            "ମୁଁ ଖାଇବାକୁ ଚାହେଁ",
-            "mun khaibaku chahen"
+            "Subject: The boy reads",
+            "ପୁଅଟି ପଢ଼େ",
+            "puati padhe"
           ],
           [
-            "She wants to go",
-            "ସେ ଯିବାକୁ ଚାହେଁ",
-            "se jibaku chahen"
+            "Object: I see him",
+            "ମୁଁ ତାକୁ ଦେଖେ",
+            "mun taku dekhe"
           ],
           [
-            "He likes to read",
-            "ସେ ପଢ଼ିବାକୁ ଭଲ ପାଏ",
-            "se padhibaku bhala pae"
+            "With a pen (instrument)",
+            "କଲମରେ",
+            "kalamare"
           ],
           [
-            "I need to study",
-            "ମୋତେ ପଢ଼ିବାକୁ ଦରକାର",
-            "mote padhibaku darakara"
+            "To me (dative)",
+            "ମୋତେ",
+            "mote"
           ],
           [
-            "They decided to go",
-            "ସେମାନେ ଯିବାକୁ ନିଷ୍ପତ୍ତି ନେଲେ",
-            "semane jibaku nishpatti nele"
+            "From the village (ablative)",
+            "ଗାଁରୁ",
+            "ganru"
           ],
           [
-            "To err is human",
-            "ଭୁଲ କରିବା ମାନବ ସ୍ୱଭାବ",
-            "bhula kariba manaba swabhaba"
+            "Of Rama (genitive)",
+            "ରାମର",
+            "Ramara"
           ],
           [
-            "To swim is good exercise",
-            "ପହଁରିବା ଭଲ ବ୍ୟାୟାମ",
-            "pahanriba bhala byayama"
+            "On the roof (locative)",
+            "ଛାତ ଉପରେ",
+            "chhata upare"
           ],
           [
-            "I came here to learn Odia",
-            "ମୁଁ ଓଡ଼ିଆ ଶିଖିବାକୁ ଆସିଛି",
-            "mun odia shikhibaku asichhi"
+            "Give the book to her",
+            "ତାକୁ ବହି ଦିଅ",
+            "taku bahi dia"
           ],
           [
-            "He went to buy vegetables",
-            "ସେ ପରିବା କିଣିବାକୁ ଗଲା",
-            "se pariba kinibaku gala"
+            "He came by bus",
+            "ସେ ବସ୍‌ରେ ଆସିଲା",
+            "se basre asila"
           ],
           [
-            "She started to cry",
-            "ସେ କାନ୍ଦିବାକୁ ଲାଗିଲା",
-            "se kandibaku lagila"
+            "She wrote with chalk",
+            "ସେ ଚକ ଦେଇ ଲେଖିଲା",
+            "se chaka dei lekhila"
           ],
           [
-            "It is easy to learn",
-            "ଶିଖିବା ସହଜ",
-            "shikhiba sahaja"
+            "Water flows from the tap",
+            "ଟୋପରୁ ପାଣି ଗଡ଼େ",
+            "toparu pani gade"
           ],
           [
-            "It is difficult to understand",
-            "ବୁଝିବା କଷ୍ଟକର",
-            "bujhiba kashtakara"
+            "This is mother's sari",
+            "ଏହା ମାଆଙ୍କ ସାରି",
+            "eha maanka sari"
           ],
           [
-            "I forgot to bring the book",
-            "ମୁଁ ବହି ଆଣିବାକୁ ଭୁଲିଗଲି",
-            "mun bahi anibaku bhuligali"
+            "The boy hid behind the door",
+            "ପୁଅ କବାଟ ପଛରେ ଲୁଚିଲା",
+            "pua kabata pachhare luchila"
           ],
           [
-            "He promised to come",
-            "ସେ ଆସିବାକୁ ପ୍ରତିଜ୍ଞା କଲା",
-            "se asibaku pratijna kala"
+            "I sat on the floor",
+            "ମୁଁ ଫରସ ଉପରେ ବସିଲି",
+            "mun pharasa upare basili"
           ],
           [
-            "She asked me to wait",
-            "ସେ ମୋତେ ଅପେକ୍ଷା କରିବାକୁ କହିଲା",
-            "se mote apeksha karibaku kahila"
+            "They came from Kolkata",
+            "ସେମାନେ କଲିକତାରୁ ଆସିଲେ",
+            "semane Kolkata ru asile"
           ],
           [
-            "He refused to help",
-            "ସେ ସାହାଯ୍ୟ କରିବାକୁ ମନା କଲା",
-            "se sahayya karibaku mana kala"
+            "She cut with a knife",
+            "ସେ ଚାକୁ ଦେଇ କାଟିଲା",
+            "se chaku dei katila"
           ],
           [
-            "I hope to see you again",
-            "ମୁଁ ତୁମକୁ ପୁଣି ଦେଖିବାକୁ ଆଶା କରେ",
-            "mun tumaku puni dekhibaku asha kare"
+            "We sent money to him",
+            "ଆମେ ତାକୁ ଟଙ୍କା ପଠାଇଲୁ",
+            "ame taku tanka pathailu"
           ],
           [
-            "We plan to travel next month",
-            "ଆମେ ଆସନ୍ତା ମାସରେ ଘୂରିବାକୁ ଯୋଜନା କରୁଛୁ",
-            "ame asanta masare ghuribaku yojana karuchhu"
+            "The bird is on the branch",
+            "ପକ୍ଷୀ ଡାଳ ଉପରେ",
+            "pakshi dala upare"
+          ],
+          [
+            "I learned from the teacher",
+            "ମୁଁ ଶିକ୍ଷକଙ୍କ ଠାରୁ ଶିଖିଲି",
+            "mun shikshakanku tharu shikhili"
+          ],
+          [
+            "He died of fever",
+            "ସେ ଜ୍ୱରରେ ମରିଗଲା",
+            "se jware marigala"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Cases in Odia (विभक्ति)"
   },
   {
     "id": 536,
@@ -4150,98 +4431,109 @@
         ],
         "rows": [
           [
-            "Slowly slowly",
-            "ଧୀରେ ଧୀରେ",
-            "dhire dhire"
+            "Come!",
+            "ଆସ!",
+            "asa!"
           ],
           [
-            "Each and every house",
-            "ଘରେ ଘରେ",
-            "ghare ghare"
+            "Go!",
+            "ଯାଅ!",
+            "jaa!"
           ],
           [
-            "Sometimes sometimes",
-            "କେବେ କେବେ",
-            "kebe kebe"
+            "Sit!",
+            "ବସ!",
+            "basa!"
           ],
           [
-            "Hot hot (very hot)",
-            "ଗରମ ଗରମ",
-            "garama garama"
+            "Eat!",
+            "ଖାଅ!",
+            "khaa!"
           ],
           [
-            "One by one",
-            "ଗୋଟିଏ ଗୋଟିଏ",
-            "gotie gotie"
+            "Drink water!",
+            "ପାଣି ପିଅ!",
+            "pani pia!"
           ],
           [
-            "Day by day",
-            "ଦିନେ ଦିନେ",
-            "dine dine"
+            "Read!",
+            "ପଢ଼!",
+            "padha!"
           ],
           [
-            "Big big trees",
-            "ବଡ଼ ବଡ଼ ଗଛ",
-            "bada bada gachha"
+            "Write!",
+            "ଲେଖ!",
+            "lekha!"
           ],
           [
-            "Small small children",
-            "ସାନ ସାନ ପିଲା",
-            "sana sana pila"
+            "Listen!",
+            "ଶୁଣ!",
+            "shuna!"
           ],
           [
-            "Walk slowly slowly",
-            "ଧୀରେ ଧୀରେ ଚାଲ",
-            "dhire dhire chala"
+            "Open the door!",
+            "କବାଟ ଖୋଲ!",
+            "kabata khola!"
           ],
           [
-            "Various types",
-            "ବିଭିନ୍ନ ବିଭିନ୍ନ ପ୍ରକାର",
-            "bibhinna bibhinna prakara"
+            "Close it!",
+            "ବନ୍ଦ କର!",
+            "banda kara!"
           ],
           [
-            "Here and there",
-            "ଏଠି ସେଠି",
-            "ethi sethi"
+            "Please come (formal)",
+            "ଦୟାକରି ଆସନ୍ତୁ",
+            "dayakari asantu"
           ],
           [
-            "Now and then",
-            "ମାଝେ ମାଝେ",
-            "majhe majhe"
+            "Please sit (formal)",
+            "ଦୟାକରି ବସନ୍ତୁ",
+            "dayakari basantu"
           ],
           [
-            "Little by little",
-            "ଅଳ୍ପ ଅଳ୍ପ",
-            "alpa alpa"
+            "Do not go!",
+            "ଯାଅ ନାହିଁ!",
+            "jaa nahin!"
           ],
           [
-            "Sweet sweet mangoes",
-            "ମିଠା ମିଠା ଆମ୍ବ",
-            "mitha mitha amba"
+            "Do not shout!",
+            "ଚିତ୍କାର କର ନାହିଁ!",
+            "chitkara kara nahin!"
           ],
           [
-            "Red red flowers",
-            "ଲାଲ ଲାଲ ଫୁଲ",
-            "lala lala phula"
+            "Let's go together",
+            "ଆସ ଏକାଠି ଯିବା",
+            "asa ekathi jiba"
           ],
           [
-            "Early in the morning",
-            "ସକାଳ ସକାଳ",
-            "sakala sakala"
+            "Tell the truth!",
+            "ସତ କୁହ!",
+            "sata kuha!"
           ],
           [
-            "Again and again",
-            "ବାରମ୍ବାର",
-            "barambara"
+            "Help him!",
+            "ତାକୁ ସାହାଯ୍ୟ କର!",
+            "taku sahayya kara!"
           ],
           [
-            "Each and every person",
-            "ଜଣେ ଜଣେ ଲୋକ",
-            "jane jane loka"
+            "Wait here!",
+            "ଏଠି ଅପେକ୍ଷା କର!",
+            "ethi apeksha kara!"
+          ],
+          [
+            "Bring the book!",
+            "ବହି ଆଣ!",
+            "bahi ana!"
+          ],
+          [
+            "Forgive me!",
+            "ମୋତେ କ୍ଷମା କର!",
+            "mote kshama kara!"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Commands / Imperative statements in Odia"
   },
   {
     "id": 537,
@@ -4256,98 +4548,114 @@
         ],
         "rows": [
           [
-            "Tea and snacks (cha-pani)",
-            "ଚା-ପାଣି",
-            "cha-pani"
+            "Today",
+            "ଆଜି",
+            "aji"
           ],
           [
-            "Food and such (khana-pina)",
-            "ଖାଣା-ପିଣା",
-            "khana-pina"
+            "Tomorrow",
+            "ଆସନ୍ତାକାଲି / କାଲି",
+            "asantakali / kali"
           ],
           [
-            "Clothes etc (luga-pata)",
-            "ଲୁଗାପଟା",
-            "lugapata"
+            "Yesterday",
+            "ଗତକାଲି",
+            "gatakali"
           ],
           [
-            "Fruits etc (phala-mula)",
-            "ଫଳମୂଳ",
-            "phalamula"
+            "Day before yesterday",
+            "ଗତପରସୁ",
+            "gataparasu"
           ],
           [
-            "Reading-writing (padha-lekha)",
-            "ପଢ଼ା-ଲେଖା",
-            "padha-lekha"
+            "Now",
+            "ଏବେ / ବର୍ତ୍ତମାନ",
+            "ebe / bartamana"
           ],
           [
-            "Hustle-bustle",
-            "ହଲ୍‌ଚଲ୍",
-            "halchal"
+            "Morning",
+            "ସକାଳ",
+            "sakala"
           ],
           [
-            "Bit by bit (thoda-bahut)",
-            "ଟିକେ-ଟୁକେ",
-            "tike-tuke"
+            "Afternoon",
+            "ଅପରାହ୍ଣ",
+            "aparAhna"
           ],
           [
-            "Give me some tea etc",
-            "ମୋତେ ଚା-ପାଣି ଦିଅ",
-            "mote cha-pani dia"
+            "Evening",
+            "ସନ୍ଧ୍ୟା",
+            "sandhya"
           ],
           [
-            "Bring fruits etc",
-            "ଫଳମୂଳ ଆଣ",
-            "phalamula ana"
+            "Night",
+            "ରାତି",
+            "rati"
           ],
           [
-            "Rice and such (bhata-tarkari)",
-            "ଭାତ-ତରକାରୀ",
-            "bhata-tarakari"
+            "Week",
+            "ସପ୍ତାହ",
+            "saptaha"
           ],
           [
-            "Come-go (aasa-jiba)",
-            "ଆସା-ଯିବା",
-            "asa-jiba"
+            "Month",
+            "ମାସ",
+            "masa"
           ],
           [
-            "Big and small (bada-sana)",
-            "ବଡ଼-ସାନ",
-            "bada-sana"
+            "Year",
+            "ବର୍ଷ",
+            "barsha"
           ],
           [
-            "Good and bad (bhala-manda)",
-            "ଭଲ-ମନ୍ଦ",
-            "bhala-manda"
+            "Sometimes",
+            "କେବେ କେବେ",
+            "kebe kebe"
           ],
           [
-            "Pots and pans",
-            "ହାଣ୍ଡି-କୁଣ୍ଡି",
-            "handi-kundi"
+            "Always",
+            "ସର୍ବଦା",
+            "sarbada"
           ],
           [
-            "Relatives and such",
-            "ଆତ୍ମୀୟ-ସ୍ୱଜନ",
-            "atmiya-swajana"
+            "Never",
+            "କେବେ ନାହିଁ",
+            "kebe nahin"
           ],
           [
-            "Here and there (ethi-sethi)",
-            "ଏଠି-ସେଠି",
-            "ethi-sethi"
+            "I will come tomorrow morning",
+            "ମୁଁ ଆସନ୍ତାକାଲି ସକାଳେ ଆସିବି",
+            "mun asantakali sakale asibi"
           ],
           [
-            "Buy groceries etc",
-            "ବଜାର-ସଉଦା କିଣ",
-            "bajara-sauda kina"
+            "We met yesterday evening",
+            "ଆମେ ଗତକାଲି ସନ୍ଧ୍ୟାରେ ଭେଟିଲୁ",
+            "ame gatakali sandhyare bhetilu"
           ],
           [
-            "Do household work etc",
-            "ଘର-ସଂସାର ସମ୍ଭାଳ",
-            "ghara-samsara sambhala"
+            "He works every day",
+            "ସେ ପ୍ରତିଦିନ କାମ କରେ",
+            "se pratidina kama kare"
+          ],
+          [
+            "At night it is quiet",
+            "ରାତିରେ ଶାନ୍ତ ଥାଏ",
+            "ratire shanta thae"
+          ],
+          [
+            "See you next week",
+            "ଆଗାମୀ ସପ୍ତାହ ଭେଟ",
+            "agami saptaha bheta"
+          ],
+          [
+            "She was born in 2005",
+            "ସେ ଦୁହେଜାର ପାଞ୍ଚ ମସିହାରେ ଜନ୍ମ ହୋଇଥିଲା",
+            "se duhezara panch masihare janma hoithila"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Time related words in Odia"
   },
   {
     "id": 538,
@@ -4362,98 +4670,109 @@
         ],
         "rows": [
           [
-            "One person (jana)",
-            "ଜଣେ ଲୋକ",
-            "jane loka"
+            "I feed the child (cause to eat)",
+            "ମୁଁ ପିଲାକୁ ଖୁଆଏ",
+            "mun pilaku khuae"
           ],
           [
-            "One thing/item (gotie)",
-            "ଗୋଟିଏ ଜିନିଷ",
-            "gotie jinisha"
+            "She makes him study",
+            "ସେ ତାକୁ ପଢ଼ାଏ",
+            "se taku padhae"
           ],
           [
-            "One piece (khanda)",
-            "ଖଣ୍ଡେ କପଡ଼ା",
-            "khande kapada"
+            "Mother puts the baby to sleep",
+            "ମାଆ ଶିଶୁକୁ ଶୋଇଆଏ",
+            "maa shishuku shoiae"
           ],
           [
-            "One glass of water",
-            "ଗ୍ଲାସେ ପାଣି",
-            "glase pani"
+            "The teacher makes us read",
+            "ଶିକ୍ଷକ ଆମକୁ ପଢ଼ାନ୍ତି",
+            "shikshaka amaku padhanti"
           ],
           [
-            "One cup of tea",
-            "ଏକ କପ୍ ଚା",
-            "eka kap cha"
+            "I got the letter written",
+            "ମୁଁ ଚିଠି ଲେଖାଇଲି",
+            "mun chithi lekhaili"
           ],
           [
-            "Two people",
-            "ଦୁଇ ଜଣ",
-            "dui jana"
+            "He had the house painted",
+            "ସେ ଘର ରଙ୍ଗ କରାଇଲା",
+            "se ghara ranga karaila"
           ],
           [
-            "Three books",
-            "ତିନୋଟି ବହି",
-            "tinoti bahi"
+            "She made me laugh",
+            "ସେ ମୋତେ ହସାଇଲା",
+            "se mote hasaila"
           ],
           [
-            "Four fruits",
-            "ଚାରୋଟି ଫଳ",
-            "charoti phala"
+            "We let them go",
+            "ଆମେ ସେମାନଙ୍କୁ ଯିବାକୁ ଦେଲୁ",
+            "ame semanunku jibaku delu"
           ],
           [
-            "Five flowers",
-            "ପାଞ୍ଚଟି ଫୁଲ",
-            "panchati phula"
+            "He showed the way",
+            "ସେ ରାସ୍ତା ଦେଖାଇଲା",
+            "se rasta dekhaila"
           ],
           [
-            "A bunch of bananas",
-            "ଏକ କନ୍ଦି କଦଳୀ",
-            "eka kandi kadali"
+            "I will get the work done",
+            "ମୁଁ କାମ କରାଇବି",
+            "mun kama karaibi"
           ],
           [
-            "A pair of shoes",
-            "ଏକ ଯୋଡ଼ା ଜୋତା",
-            "eka joda jota"
+            "They made him understand",
+            "ସେମାନେ ତାକୁ ବୁଝାଇଲେ",
+            "semane taku bujaile"
           ],
           [
-            "A group of students",
-            "ଏକ ଦଳ ଛାତ୍ର",
-            "eka dala chhatra"
+            "Father made me sit",
+            "ବାପା ମୋତେ ବସାଇଲେ",
+            "bapa mote basaile"
           ],
           [
-            "Give me two mangoes",
-            "ମୋତେ ଦୁଇଟି ଆମ୍ବ ଦିଅ",
-            "mote duiti amba dia"
+            "The doctor made him drink medicine",
+            "ଡାକ୍ତର ତାକୁ ଔଷଧ ପିଆଇଲେ",
+            "daktara taku aushadha piaile"
           ],
           [
-            "I bought one kilogram of rice",
-            "ମୁଁ ଏକ କିଲୋ ଚାଉଳ କିଣିଲି",
-            "mun eka kilo chaula kinili"
+            "I had the car repaired",
+            "ମୁଁ ଗାଡ଼ି ଠିକ୍ କରାଇଲି",
+            "mun gadi thik karaili"
           ],
           [
-            "A flock of birds",
-            "ଏକ ଝୁଣ୍ଡ ପକ୍ଷୀ",
-            "eka jhunda pakshi"
+            "She gets clothes washed",
+            "ସେ ଲୁଗା ଧୋଇଆଏ",
+            "se luga dhoiae"
           ],
           [
-            "A piece of bread",
-            "ଏକ ଖଣ୍ଡ ରୁଟି",
-            "eka khanda ruti"
+            "We teach children to write",
+            "ଆମେ ପିଲାଙ୍କୁ ଲେଖାଇବୁ",
+            "ame pilanku lekhaibu"
           ],
           [
-            "A bottle of milk",
-            "ଏକ ବୋତଲ କ୍ଷୀର",
-            "eka botala kshira"
+            "He made the dog run",
+            "ସେ କୁକୁରକୁ ଦୌଡ଼ାଇଲା",
+            "se kukuraku daudaila"
           ],
           [
-            "Several people came",
-            "ଅନେକ ଜଣ ଆସିଲେ",
-            "aneka jana asile"
+            "Let me speak",
+            "ମୋତେ କହିବାକୁ ଦିଅ",
+            "mote kahibaku dia"
+          ],
+          [
+            "I will make you see",
+            "ମୁଁ ତୋତେ ଦେଖାଇବି",
+            "mun tote dekhaibi"
+          ],
+          [
+            "They caused a problem",
+            "ସେମାନେ ଅସୁବିଧା ସୃଷ୍ଟି କଲେ",
+            "semane asubidha srishti kale"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Verbs indicating cause of action (Causative verb) in Odia"
   },
   {
     "id": 539,
@@ -4468,98 +4787,109 @@
         ],
         "rows": [
           [
-            "I only will go",
-            "ମୁଁ ହିଁ ଯିବି",
-            "mun hin jibi"
+            "The boy went (masc. sing.)",
+            "ପୁଅଟି ଗଲା",
+            "puati gala"
           ],
           [
-            "He himself did it",
-            "ସେ ନିଜେ କଲା",
-            "se nije kala"
+            "The girl went (fem. sing.)",
+            "ଝିଅଟି ଗଲା",
+            "jhiati gala"
           ],
           [
-            "Even he came",
-            "ସେ ମଧ୍ୟ ଆସିଲା",
-            "se madhya asila"
+            "The boys went (masc. pl.)",
+            "ପୁଅମାନେ ଗଲେ",
+            "puamane gale"
           ],
           [
-            "Only you can do this",
-            "କେବଳ ତୁ ଏହା କରିପାରିବ",
-            "kebala tu eha karipariba"
+            "The girls went (fem. pl.)",
+            "ଝିଅମାନେ ଗଲେ",
+            "jhiamane gale"
           ],
           [
-            "He too went there",
-            "ସେ ବି ସେଠିକୁ ଗଲା",
-            "se bi sethiku gala"
+            "He is a good student",
+            "ସେ ଭଲ ଛାତ୍ର",
+            "se bhala chatra"
           ],
           [
-            "Just give me one",
-            "ମୋତେ ବସ୍ ଗୋଟିଏ ଦିଅ",
-            "mote bas gotie dia"
+            "She is a good student",
+            "ସେ ଭଲ ଛାତ୍ରୀ",
+            "se bhala chhatri"
           ],
           [
-            "I really liked it",
-            "ମୋତେ ସତରେ ଭଲ ଲାଗିଲା",
-            "mote satare bhala lagila"
+            "They (men) are teachers",
+            "ସେମାନେ ଶିକ୍ଷକ",
+            "semane shikshaka"
           ],
           [
-            "Even children know this",
-            "ପିଲାମାନେ ମଧ୍ୟ ଏହା ଜାଣନ୍ତି",
-            "pilamane madhya eha jananti"
+            "They (women) are teachers",
+            "ସେମାନେ ଶିକ୍ଷୟିତ୍ରୀ",
+            "semane shikshayitri"
           ],
           [
-            "Indeed he is honest",
-            "ସତରେ ସେ ସଚ୍ଚୋଟ",
-            "satare se sachchota"
+            "This boy reads",
+            "ଏ ପୁଅ ପଢ଼େ",
+            "e pua padhe"
           ],
           [
-            "Only this much",
-            "ଏତିକି ହିଁ",
-            "etiki hin"
+            "This girl reads",
+            "ଏ ଝିଅ ପଢ଼େ",
+            "e jhia padhe"
           ],
           [
-            "He especially came for you",
-            "ସେ ବିଶେଷ କରି ତୁମ ପାଇଁ ଆସିଲା",
-            "se bishesha kari tuma pain asila"
+            "Those men work",
+            "ସେ ପୁରୁଷମାନେ କାମ କରନ୍ତି",
+            "se purushamane kama karanti"
           ],
           [
-            "That very book",
-            "ସେହି ବହି",
-            "sehi bahi"
+            "Those women work",
+            "ସେ ସ୍ତ୍ରୀମାନେ କାମ କରନ୍ତି",
+            "se strimane kama karanti"
           ],
           [
-            "At least come once",
-            "ଅନ୍ତତଃ ଥରେ ଆସ",
-            "antatah thare asa"
+            "The lion roared",
+            "ସିଂହ ଗର୍ଜନ କଲା",
+            "simha garjana kala"
           ],
           [
-            "He alone did all the work",
-            "ସେ ଏକୁଟିଆ ସମସ୍ତ କାମ କଲା",
-            "se ekutia samasta kama kala"
+            "The cow mooed",
+            "ଗାଈ ଡାକିଲା",
+            "gai dakila"
           ],
           [
-            "Definitely I will come",
-            "ନିଶ୍ଚୟ ମୁଁ ଆସିବି",
-            "nishchaya mun asibi"
+            "Many children play",
+            "ଅନେକ ପିଲା ଖେଳନ୍ତି",
+            "aneka pila khelanti"
           ],
           [
-            "I myself saw it",
-            "ମୁଁ ନିଜେ ଦେଖିଲି",
-            "mun nije dekhili"
+            "One boy, two boys",
+            "ଗୋଟିଏ ପୁଅ, ଦୁଇ ପୁଅ",
+            "gotie pua, dui pua"
           ],
           [
-            "Surely he knows",
-            "ନିଶ୍ଚିତ ସେ ଜାଣେ",
-            "nishchita se jane"
+            "One girl, two girls",
+            "ଗୋଟିଏ ଝିଅ, ଦୁଇ ଝିଅ",
+            "gotie jhia, dui jhia"
           ],
           [
-            "This only is the truth",
-            "ଏହା ହିଁ ସତ",
-            "eha hin sata"
+            "He speaks politely",
+            "ସେ ଭଦ୍ରତାର ସହ କହେ",
+            "se bhadrotara saha kahe"
+          ],
+          [
+            "They (mixed group) left",
+            "ସେମାନେ ଚାଲିଗଲେ",
+            "semane chaligale"
+          ],
+          [
+            "Elder goes (honorific verb form)",
+            "ସେ ଯାଆନ୍ତି",
+            "se jaanti"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Gender-number agreement rule in Odia"
   },
   {
     "id": 540,
@@ -4574,98 +4904,109 @@
         ],
         "rows": [
           [
-            "Therefore, he went home",
-            "ତେଣୁ ସେ ଘରକୁ ଗଲା",
-            "tenu se gharaku gala"
+            "The work is done",
+            "କାମ ହୋଇସାରିଛି",
+            "kama hoisarichhi"
           ],
           [
-            "However, she stayed",
-            "ତଥାପି ସେ ରହିଲା",
-            "tathapi se rahila"
+            "The letter has been sent",
+            "ଚିଠି ପଠାଇସାରିଛି",
+            "chithi pathaisarichhi"
           ],
           [
-            "Moreover, he is smart",
-            "ଏତଦ୍‌ବ୍ୟତୀତ ସେ ଚତୁର",
-            "etadbyatita se chatura"
+            "Food has been cooked",
+            "ଖାଦ୍ୟ ରନ୍ଧାହୋଇଛି",
+            "khadya randha hoichhi"
           ],
           [
-            "Meanwhile, I waited",
-            "ଏହି ସମୟରେ ମୁଁ ଅପେକ୍ଷା କଲି",
-            "ehi samayare mun apeksha kali"
+            "The house was built",
+            "ଘର ତିଆରି ହୋଇଥିଲା",
+            "ghara tiari hoithila"
           ],
           [
-            "First he ate, then he left",
-            "ପ୍ରଥମେ ସେ ଖାଇଲା, ତା'ପରେ ଚାଲିଗଲା",
-            "prathame se khaila, ta'pare chaligala"
+            "He had been informed",
+            "ତାକୁ ଜଣାଇସାରିଥିଲା",
+            "taku janaisarithila"
           ],
           [
-            "In addition, she is kind",
-            "ଏହା ସହିତ ସେ ଦୟାଳୁ",
-            "eha sahita se dayalu"
+            "The match had started",
+            "ମ୍ୟାଚ୍ ଆରମ୍ଭ ହୋଇସାରିଥିଲା",
+            "myach arambha hoisarithila"
           ],
           [
-            "On the other hand",
-            "ଅନ୍ୟ ପକ୍ଷରେ",
-            "anya pakshare"
+            "It has been decided",
+            "ନିଷ୍ପତ୍ତି ହୋଇସାରିଛି",
+            "nishpatti hoisarichhi"
           ],
           [
-            "For example, Puri is beautiful",
-            "ଉଦାହରଣ ସ୍ୱରୂପ, ପୁରୀ ସୁନ୍ଦର",
-            "udaharana swarupa, Puri sundara"
+            "The bill was paid",
+            "ବିଲ୍ ଦେଇସାରିଥିଲା",
+            "bil deisarithila"
           ],
           [
-            "In conclusion, he agreed",
-            "ଶେଷରେ ସେ ରାଜି ହେଲା",
-            "sheshare se raji hela"
+            "The door was closed",
+            "କବାଟ ବନ୍ଦ ହୋଇଥିଲା",
+            "kabata banda hoithila"
           ],
           [
-            "As a result, he passed",
-            "ଫଳସ୍ୱରୂପ ସେ ପାସ କଲା",
-            "phalaswarupa se pasa kala"
+            "The work will have been finished",
+            "କାମ ସାରିହୋଇଥିବ",
+            "kama sarihoithiba"
           ],
           [
-            "In other words",
-            "ଅର୍ଥାତ୍",
-            "arthat"
+            "The news has spread",
+            "ଖବର ପ୍ରସାରିତ ହୋଇସାରିଛି",
+            "khabara prasarita hoisarichhi"
           ],
           [
-            "Similarly, she also won",
-            "ସେହିପରି ସେ ମଧ୍ୟ ଜିତିଲା",
-            "sehipari se madhya jitila"
+            "He has been called",
+            "ତାକୁ ଡକାଯାଇଛି",
+            "taku dakajaichhi"
           ],
           [
-            "Afterwards, we went home",
-            "ପରେ ଆମେ ଘରକୁ ଗଲୁ",
-            "pare ame gharaku galu"
+            "She has been chosen",
+            "ତାକୁ ବାଛାଯାଇଛି",
+            "taku bachhajaichhi"
           ],
           [
-            "In fact, this is true",
-            "ବାସ୍ତବରେ ଏହା ସତ",
-            "bastabare eha sata"
+            "We have been invited",
+            "ଆମକୁ ନିମନ୍ତ୍ରଣ କରାଯାଇଛି",
+            "amaku nimantrana karajaichhi"
           ],
           [
-            "Besides, it is cheap",
-            "ଏହା ସହିତ ଏହା ସସ୍ତା",
-            "eha sahita eha sasta"
+            "The field has been ploughed",
+            "ଜମି ଚଷାହୋଇଛି",
+            "jami chasahoichhi"
           ],
           [
-            "Consequently, they lost",
-            "ଫଳରେ ସେମାନେ ହାରିଲେ",
-            "phalare semane harile"
+            "The letter had been lost",
+            "ଚିଠି ହରାଇହୋଇଥିଲା",
+            "chithi harai hoithila"
           ],
           [
-            "Finally, he arrived",
-            "ଶେଷରେ ସେ ପହଞ୍ଚିଲା",
-            "sheshare se pahanchila"
+            "Money has been returned",
+            "ଟଙ୍କା ଫେରାଇଦିଆଯାଇଛି",
+            "tanka pheraidiajaichhi"
           ],
           [
-            "Nevertheless, he tried",
-            "ତଥାପି ସେ ଚେଷ୍ଟା କଲା",
-            "tathapi se cheshta kala"
+            "The problem was solved",
+            "ସମସ୍ୟା ସମାଧାନ ହୋଇଥିଲା",
+            "samAsya samAdhAn hoithila"
+          ],
+          [
+            "The book has been found",
+            "ବହି ମିଳିଯାଇଛି",
+            "bahi milijaichhi"
+          ],
+          [
+            "The rule has been changed",
+            "ନିୟମ ବଦଳାଯାଇଛି",
+            "niyama badalajaichhi"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Past/Present/Future Perfect Tense – Second Style in Odia"
   },
   {
     "id": 541,
@@ -4680,98 +5021,109 @@
         ],
         "rows": [
           [
-            "Come (informal)",
-            "ଆସ",
-            "asa"
+            "I have been reading since morning",
+            "ମୁଁ ସକାଳୁ ପଢ଼ୁଛି",
+            "mun sakalu padhuchhi"
           ],
           [
-            "Come (formal)",
-            "ଆସନ୍ତୁ",
-            "asantu"
+            "He has been working for hours",
+            "ସେ ଘଣ୍ଟା ଧରି କାମ କରୁଛି",
+            "se ghanta dhari kama karuchhi"
           ],
           [
-            "Sit (informal)",
-            "ବସ",
-            "basa"
+            "She has been waiting long",
+            "ସେ ବହୁତ ସମୟ ଧରି ଅପେକ୍ଷା କରୁଛି",
+            "se bahuta samaya dhari apeksha karuchhi"
           ],
           [
-            "Sit (formal)",
-            "ବସନ୍ତୁ",
-            "basantu"
+            "We have been living here for years",
+            "ଆମେ ଏଠି ବର୍ଷ ଧରି ରହୁଛୁ",
+            "ame ethi barsha dhari rahuchhu"
           ],
           [
-            "Tell me (informal)",
-            "ମୋତେ କୁହ",
-            "mote kuha"
+            "They have been playing all day",
+            "ସେମାନେ ସାରା ଦିନ ଖେଳୁଛନ୍ତି",
+            "semane sara dina kheluchanti"
           ],
           [
-            "Tell me (formal)",
-            "ମୋତେ କୁହନ୍ତୁ",
-            "mote kuhantu"
+            "It had been raining",
+            "ବର୍ଷା ହେଉଥିଲା",
+            "barsha heuthila"
           ],
           [
-            "What's your name? (informal)",
-            "ତୋ ନାମ କ'ଣ?",
-            "to nama kana?"
+            "I had been studying before you came",
+            "ତୁ ଆସିବା ପୂର୍ବରୁ ମୁଁ ପଢ଼ୁଥିଲି",
+            "tu asiba purbaru mun padhuthili"
           ],
           [
-            "What is your name? (formal)",
-            "ଆପଣଙ୍କ ନାମ କ'ଣ?",
-            "apananka nama kana?"
+            "He had been ill",
+            "ସେ ଅସୁସ୍ଥ ହୋଇଥିଲା",
+            "se asustha hoithila"
           ],
           [
-            "How are you? (informal)",
-            "ତୁ କେମିତି ଅଛୁ?",
-            "tu kemiti achhu?"
+            "She had been singing",
+            "ସେ ଗାଉଥିଲା",
+            "se gauuthila"
           ],
           [
-            "How are you? (formal)",
-            "ଆପଣ କେମିତି ଅଛନ୍ତି?",
-            "apana kemiti achhanti?"
+            "We had been walking",
+            "ଆମେ ଚାଲୁଥିଲୁ",
+            "ame chaluthilu"
           ],
           [
-            "Eat food (informal)",
-            "ଖାଣା ଖାଅ",
-            "khana khaa"
+            "They had been building the road",
+            "ସେମାନେ ରାସ୍ତା ତିଆରି କରୁଥିଲେ",
+            "semane rasta tiari karuthile"
           ],
           [
-            "Please eat (formal)",
-            "ଦୟାକରି ଖାଆନ୍ତୁ",
-            "dayakari khaantu"
+            "How long have you been here?",
+            "ତୁ କେତେ ସମୟ ଧରି ଏଠି ଅଛ?",
+            "tu kete samaya dhari ethi achha?"
           ],
           [
-            "Go now (informal)",
-            "ଏବେ ଯାଅ",
-            "ebe jaa"
+            "I have not been sleeping well",
+            "ମୁଁ ଭଲରେ ଶୋଇନାହିଁ",
+            "mun bhalore shoinahin"
           ],
           [
-            "Please go now (formal)",
-            "ଦୟାକରି ଏବେ ଯାଆନ୍ତୁ",
-            "dayakari ebe jaantu"
+            "He has been absent",
+            "ସେ ଅନୁପସ୍ଥିତ ରହିଛି",
+            "se anupasthita rahichhi"
           ],
           [
-            "Listen (informal)",
-            "ଶୁଣ",
-            "shuna"
+            "She has been teaching here",
+            "ସେ ଏଠି ପଢ଼ାଉଛି",
+            "se ethi padhauchhi"
           ],
           [
-            "Please listen (formal)",
-            "ଦୟାକରି ଶୁଣନ୍ତୁ",
-            "dayakari shunantu"
+            "We have been trying hard",
+            "ଆମେ କଠିନ ଚେଷ୍ଟା କରୁଛୁ",
+            "ame kathina cheshta karuchhu"
           ],
           [
-            "You did well (informal)",
-            "ତୁ ଭଲ କଲୁ",
-            "tu bhala kalu"
+            "They have been friends for long",
+            "ସେମାନେ ବହୁତ ଦିନ ଧରି ସାଙ୍ଗ",
+            "semane bahuta dina dhari sanga"
           ],
           [
-            "You did well (formal)",
-            "ଆପଣ ଭଲ କଲେ",
-            "apana bhala kale"
+            "The baby has been crying",
+            "ଶିଶୁ କାନ୍ଦୁଛି",
+            "shishu kanduchhi"
+          ],
+          [
+            "I will have been working ten years",
+            "ମୁଁ ଦଶ ବର୍ଷ ଧରି କାମ କରିଥିବି",
+            "mun dasa barsha dhari kama karithibi"
+          ],
+          [
+            "By then she will have been studying",
+            "ସେତେବେଳେ ସେ ପଢ଼ୁଥିବ",
+            "setebele se padhuthiba"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Past/Present/Future Perfect Continuous tense in Odia"
   },
   {
     "id": 542,
@@ -4786,98 +5138,109 @@
         ],
         "rows": [
           [
-            "Wrong: ମୁଁ ଯାଇଛେ → Right: ମୁଁ ଯାଇଛି",
-            "ମୁଁ ଯାଇଛି (I have gone)",
-            "mun jaichhi"
+            "I do not eat (simple negation)",
+            "ମୁଁ ଖାଏ ନାହିଁ",
+            "mun khae nahin"
           ],
           [
-            "Wrong: ସେ ଆସିଲି → Right: ସେ ଆସିଲା",
-            "ସେ ଆସିଲା (He came)",
-            "se asila"
+            "I do not want to eat (no desire)",
+            "ମୁଁ ଖାଇବାକୁ ଚାହେ ନାହିଁ",
+            "mun khaibaku chahe nahin"
           ],
           [
-            "Wrong: ମୋର ଯାଇଛି → Right: ମୁଁ ଯାଇଛି",
-            "ମୁଁ ଯାଇଛି (I have gone)",
-            "mun jaichhi"
+            "He is not here (absence)",
+            "ସେ ଏଠି ନାହିଁ",
+            "se ethi nahin"
           ],
           [
-            "Wrong: ତୁମେ ଯାଅ → Right: ତୁ ଯାଅ / ଆପଣ ଯାଆନ୍ତୁ",
-            "ତୁ ଯାଅ (You go, informal)",
-            "tu jaa"
+            "He does not want to go",
+            "ସେ ଯିବାକୁ ଚାହେ ନାହିଁ",
+            "se jibaku chahe nahin"
           ],
           [
-            "Don't mix tu/tume/apana forms",
-            "ତୁ/ତୁମେ/ଆପଣ ସଠିକ ବ୍ୟବହାର କର",
-            "tu/tume/apana sathika byabahara kara"
+            "There is no sugar (not any)",
+            "ଚିନି ନାହିଁ",
+            "chini nahin"
           ],
           [
-            "Wrong verb ending with subject",
-            "କର୍ତ୍ତା ସହ କ୍ରିୟାର ମେଳ ରଖ",
-            "kartta saha kriyara mela rakha"
+            "I don't want sugar",
+            "ମୋତେ ଚିନି ଦରକାର ନାହିଁ",
+            "mote chini darakara nahin"
           ],
           [
-            "Wrong: ମୁଁ ଯାଏ → Right: ମୁଁ ଯାଏ / ଯାଉଛି",
-            "ମୁଁ ଯାଉଛି (I am going)",
-            "mun jauchhi"
+            "She did not come",
+            "ସେ ଆସିଲା ନାହିଁ",
+            "se asila nahin"
           ],
           [
-            "Wrong postposition: ଘରକୁ ଯାଏ vs ଘରେ ଅଛି",
-            "ଘରକୁ ଯାଏ (going to) vs ଘରେ ଅଛି (is at)",
-            "gharaku jae vs ghare achhi"
+            "She did not want to come",
+            "ସେ ଆସିବାକୁ ଚାହିଲା ନାହିଁ",
+            "se asibaku chahila nahin"
           ],
           [
-            "Wrong: ସେମାନେ ଆସିଲା → Right: ସେମାନେ ଆସିଲେ",
-            "ସେମାନେ ଆସିଲେ (They came)",
-            "semane asile"
+            "We will not buy it",
+            "ଆମେ ଏହା କିଣିବୁ ନାହିଁ",
+            "ame eha kinibu nahin"
           ],
           [
-            "Honorific mismatch with elders",
-            "ବଡ଼ ଲୋକଙ୍କ ସହ ସମ୍ମାନ ସୂଚକ ଶବ୍ଦ ବ୍ୟବହାର କର",
-            "bada lokanka saha sammana suchaka shabda byabahara kara"
+            "We don't want to buy it",
+            "ଆମେ ଏହା କିଣିବାକୁ ଚାହୁଁ ନାହିଁ",
+            "ame eha kinibaku chahu nahin"
           ],
           [
-            "Wrong: ମୋତେ ବହି ଦେ → Right: ମୋତେ ବହି ଦିଅ",
-            "ମୋତେ ବହି ଦିଅ (Give me the book)",
-            "mote bahi dia"
+            "No, that is wrong",
+            "ନା, ଏହା ଭୁଲ",
+            "na, eha bhula"
           ],
           [
-            "Wrong plural: ବହିସବୁ → Right: ବହିଗୁଡ଼ିକ",
-            "ବହିଗୁଡ଼ିକ (The books)",
-            "bahigudika"
+            "I need not go (not necessary)",
+            "ମୋତେ ଯିବା ଦରକାର ନାହିଁ",
+            "mote jiba darakara nahin"
           ],
           [
-            "Wrong: ସେ ଖାଇଲା ଖାଣା → Right: ସେ ଖାଣା ଖାଇଲା",
-            "ସେ ଖାଣା ଖାଇଲା (He ate food)",
-            "se khana khaila"
+            "I refuse / I don't want",
+            "ମୁଁ ଚାହେ ନାହିଁ",
+            "mun chahe nahin"
           ],
           [
-            "Subject-Object-Verb is Odia word order",
-            "ଓଡ଼ିଆରେ କର୍ତ୍ତା-କର୍ମ-କ୍ରିୟା କ୍ରମ",
-            "odiare kartta-karma-kriya krama"
+            "He has no fear (lack)",
+            "ତାର ଭୟ ନାହିଁ",
+            "tara bhaya nahin"
           ],
           [
-            "Wrong: ମୁଁ ତାର ସାଙ୍ଗ → Right: ମୁଁ ତା ସାଙ୍ଗ",
-            "ମୁଁ ତା ସାଙ୍ଗ (I am his friend)",
-            "mun ta sanga"
+            "He doesn't want to try",
+            "ସେ ଚେଷ୍ଟା କରିବାକୁ ଚାହେ ନାହିଁ",
+            "se cheshta karibaku chahe nahin"
           ],
           [
-            "Wrong negation: ମୁଁ ନାହିଁ ଯାଏ → Right: ମୁଁ ଯାଏ ନାହିଁ",
-            "ମୁଁ ଯାଏ ନାହିଁ (I don't go)",
-            "mun jae nahin"
+            "Don't! (prohibition)",
+            "କର ନାହିଁ!",
+            "kara nahin!"
           ],
           [
-            "Wrong: ମୋ ପାଖରେ ଦୁଇ ବହି → Right: ମୋ ପାଖରେ ଦୁଇଟି ବହି",
-            "ମୋ ପାଖରେ ଦୁଇଟି ବହି (I have two books)",
-            "mo pakhare duiti bahi"
+            "Please don't (request)",
+            "ଦୟାକରି ... କରନ୍ତୁ ନାହିଁ",
+            "dayakari ... karantu nahin"
           ],
           [
-            "Always use classifiers with numbers",
-            "ସଂଖ୍ୟା ସହ ସର୍ବଦା ବିଭକ୍ତି ବ୍ୟବହାର କର",
-            "sankhya saha sarbada bibhakti byabahara kara"
+            "I am not hungry (state)",
+            "ମୋର ଭୋକ ନାହିଁ",
+            "mora bhoka nahin"
+          ],
+          [
+            "I don't feel like eating",
+            "ମୋତେ ଖାଇବାକୁ ଇଚ୍ଛା ନାହିଁ",
+            "mote khaibaku ichha nahin"
+          ],
+          [
+            "They said no",
+            "ସେମାନେ ନା କହିଲେ",
+            "semane na kahile"
           ]
         ]
       }
-    ]
+    ],
+    "title": "Difference between \"no/not\" and \"don't want\" in Odia"
   },
   {
     "id": 543,

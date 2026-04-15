@@ -6426,6 +6426,20 @@ function speakMarathi() {
 // ===== SETTINGS (OFFLINE MODE) =====
 const OFFLINE_STORAGE_KEY = 'offlineModeEnabled';
 const OFFLINE_CACHE_PREFIX = 'offline_lessons_';
+/** Bump when any data_*.json content is meaningfully updated so browsers and offline cache pick up new rows. */
+const LESSONS_DATA_REVISION = '2026-04-15-lessons-data-v6';
+
+function invalidateStaleLessonCaches() {
+  try {
+    const key = 'lessons_data_revision';
+    if (localStorage.getItem(key) === LESSONS_DATA_REVISION) return;
+    for (let i = localStorage.length - 1; i >= 0; i--) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith(OFFLINE_CACHE_PREFIX)) localStorage.removeItem(k);
+    }
+    localStorage.setItem(key, LESSONS_DATA_REVISION);
+  } catch (e) { /* ignore */ }
+}
 
 let offlineEnabled = localStorage.getItem(OFFLINE_STORAGE_KEY) !== 'false';
 
@@ -6671,8 +6685,10 @@ function formatChapterFromData(ch) {
   const escape = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   const bold = (t) => escape(t).replace(/\*\*(.+?)\*\*/g, (_, x) => '<strong>' + escape(x) + '</strong>');
 
+  const tableHeaders = (tbl) => tbl.headers || tbl.columns || [];
+
   const isAlphabetTable = (tbl) => {
-    const headers = tbl.headers || [];
+    const headers = tableHeaders(tbl);
     const rows = tbl.rows || [];
     if (headers.length !== 2 || rows.length === 0) return false;
     const hStr = (headers[0] + ' ' + headers[1]).toLowerCase();
@@ -6708,10 +6724,11 @@ function formatChapterFromData(ch) {
 
   const renderTable = (tbl) => {
     if (isAlphabetTable(tbl)) return renderAlphabetGrid(tbl);
-    let h = '<h3 class="busuu-section-heading">' + escape(tbl.heading) + '</h3>';
+    const hdrs = tableHeaders(tbl);
+    let h = (tbl.heading ? '<h3 class="busuu-section-heading">' + escape(tbl.heading) + '</h3>' : '');
     h += '<div class="busuu-table-wrap"><table class="busuu-table">';
     h += '<thead><tr>';
-    (tbl.headers || []).forEach(hd => { h += '<th>' + escape(hd) + '</th>'; });
+    hdrs.forEach(hd => { h += '<th>' + escape(hd) + '</th>'; });
     if (tbl.speakCol != null) h += '<th></th>';
     h += '</tr></thead><tbody>';
     const speakCol = tbl.speakCol != null ? tbl.speakCol : -1;
@@ -6860,9 +6877,11 @@ async function loadChapters() {
   }
 
   try {
+    invalidateStaleLessonCaches();
+    const fetchOpts = { cache: 'no-store' };
     const [chaptersRes, structureRes] = await Promise.all([
-      fetch(dataFile),
-      fetch(structureFile)
+      fetch(dataFile, fetchOpts),
+      fetch(structureFile, fetchOpts)
     ]);
     if (!chaptersRes.ok) throw new Error(dataFile + ' not found');
     if (!structureRes.ok) throw new Error(structureFile + ' not found');
@@ -6905,6 +6924,16 @@ function getChapterDisplayNumber(chapterId) {
   return chapterId;
 }
 
+/** Lesson title from chapter data (data_odia.json uses `url`; other langs may use `title`). */
+function getChapterTitle(ch) {
+  if (!ch) return '';
+  const t = ch.title;
+  if (t != null && String(t).trim() !== '') return String(t).trim();
+  const u = ch.url;
+  if (u != null && String(u).trim() !== '') return String(u).trim();
+  return '';
+}
+
 function openChapter(chapterId) {
   const ch = chaptersById[chapterId];
   if (!ch) return;
@@ -6914,7 +6943,7 @@ function openChapter(chapterId) {
   const formattedContent = dataTablesHtml || busuuHtml || formatChapterContent(ch.content || '');
 
   document.getElementById('chapter-detail-id').textContent = getChapterDisplayNumber(chapterId);
-  document.getElementById('chapter-detail-title').textContent = ch.title;
+  document.getElementById('chapter-detail-title').textContent = getChapterTitle(ch);
   document.getElementById('chapter-detail-body').innerHTML = formattedContent;
   const linkEl = document.getElementById('chapter-detail-link');
   linkEl.href = ch.url || '#';
@@ -6946,7 +6975,7 @@ function saveLessonInline(chapterId) {
     savedLessons = savedLessons.filter(s => s.id !== chapterId);
     showToast('Removed from saved');
   } else {
-    savedLessons.push({ id: chapterId, title: ch.title, url: ch.url || '' });
+    savedLessons.push({ id: chapterId, title: getChapterTitle(ch), url: ch.url || '' });
     showToast('Lesson saved!');
   }
   saveSavedLessons();
@@ -6984,7 +7013,7 @@ function renderLessonsList() {
     const hasMatch = (major.sublessons || []).some(s => {
       const ch = chaptersById[s.chapterId];
       return s.title.toLowerCase().includes(searchLower) ||
-        (ch && (ch.title.toLowerCase().includes(searchLower) || (ch.content || '').toLowerCase().includes(searchLower)));
+        (ch && (getChapterTitle(ch).toLowerCase().includes(searchLower) || (ch.content || '').toLowerCase().includes(searchLower)));
     });
     return hasMatch;
   });
@@ -6996,7 +7025,7 @@ function renderLessonsList() {
       const ch = chaptersById[s.chapterId];
       if (!ch) return s.title.toLowerCase().includes(searchLower);
       return s.title.toLowerCase().includes(searchLower) ||
-        ch.title.toLowerCase().includes(searchLower) ||
+        getChapterTitle(ch).toLowerCase().includes(searchLower) ||
         (ch.content || '').toLowerCase().includes(searchLower);
     });
 
@@ -7037,7 +7066,7 @@ function handleChaptersSearch(val) {
     return (m.sublessons || []).some(s => {
       const ch = chaptersById[s.chapterId];
       return s.title.toLowerCase().includes(q) ||
-        (ch && (ch.title.toLowerCase().includes(q) || (ch.content || '').toLowerCase().includes(q)));
+        (ch && (getChapterTitle(ch).toLowerCase().includes(q) || (ch.content || '').toLowerCase().includes(q)));
     });
   }) : lessonsStructure.majorLessons;
   if (expandedMajorLesson && !majorsToShow.some(m => m.name === expandedMajorLesson)) {
