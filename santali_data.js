@@ -1,0 +1,283 @@
+const SANTALI_PHRASES = {
+  greetings_1: {
+    name: "Greetings Set 1",
+    color: "#2B6CB0",
+    icon: "👋",
+    phrases: [
+      { en: "Hello / Greetings", mr: "ᱡᱚᱦᱟᱨ", roman: "Johar", hint: "" },
+      { en: "Good morning", mr: "ᱥᱟᱨᱟᱭ ᱡᱚᱦᱟᱨ", roman: "Saray johar", hint: "" },
+      { en: "Good evening", mr: "ᱧᱤᱸᱫᱟ ᱡᱚᱦᱟᱨ", roman: "Nyinda johar", hint: "" },
+      { en: "How are you?", mr: "ᱟᱢ ᱚᱠᱟ ᱠᱟᱱᱟ?", roman: "Am oka kana?", hint: "" },
+      { en: "I am fine", mr: "ᱤᱧ ᱵᱟᱝ ᱢᱮᱱᱟᱜ ᱟ", roman: "Inj bang menag a", hint: "" },
+      { en: "What is your name?", mr: "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱮᱫ?", roman: "Amag nyutum ced?", hint: "" },
+      { en: "My name is ...", mr: "ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ... ᱠᱟᱱᱟ", roman: "Injag nyutum ... kana", hint: "" },
+      { en: "Thank you very much", mr: "ᱥᱮᱨᱢᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱢᱟ", roman: "Serma dareyag ma", hint: "" },
+      { en: "You're welcome", mr: "ᱦᱮᱡ ᱵᱟᱝ", roman: "Hej bang", hint: "" },
+      { en: "Goodbye, go well", mr: "ᱡᱚᱦᱟᱨ, ᱥᱮᱱ ᱢᱮ", roman: "Johar, sen me", hint: "" },
+      { en: "Please come", mr: "ᱦᱮᱡ ᱟᱢ ᱫᱚ", roman: "Hej am do", hint: "" },
+      { en: "Please help me", mr: "ᱢᱟᱹᱱᱢᱤ ᱥᱟᱹᱜᱟᱹᱭ ᱢᱮ", roman: "Manmi sagay me", hint: "" },
+      { en: "I don't understand", mr: "ᱤᱧ ᱵᱟᱝ ᱵᱩᱡᱷᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱟ", roman: "Inj bang bujhaw dareyag a", hint: "" },
+      { en: "Are you well today?", mr: "ᱟᱡ ᱵᱷᱟᱞᱮ ᱢᱮᱱᱟᱜ ᱢᱟ?", roman: "Aj bhale menag ma?", hint: "" },
+      { en: "Please sit down", mr: "ᱦᱮᱡ ᱦᱩᱭᱩᱜ ᱢᱮ", roman: "Hej huyug me", hint: "" },
+      { en: "Where are you going?", mr: "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱥᱮᱱ ᱟᱢ?", roman: "Am oka khon sen am?", hint: "" },
+      { en: "I am going home", mr: "ᱤᱧ ᱚᱲᱟᱜ ᱥᱮᱱ ᱟᱭᱟ", roman: "Inj orag sen aya", hint: "" },
+      { en: "Excuse me / Sorry", mr: "ᱢᱟᱹᱧᱡᱷᱤ ᱞᱟᱜᱤᱫ ᱟ", roman: "Manjhi lagid a", hint: "" }
+    ]
+  },
+  travel_1: {
+    name: "Travel Set 1",
+    color: "#38A169",
+    icon: "🚌",
+    phrases: [
+      { en: "Where is the railway station?", mr: "ᱨᱮᱞ ᱥᱴᱮᱥᱚᱱ ᱚᱠᱟ ᱨᱮ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Rel steson oka re menag a?", hint: "" },
+      { en: "What day does the bus come?", mr: "ᱵᱟᱥ ᱚᱠᱟ ᱫᱤᱱ ᱦᱤᱡᱩᱜ ᱟ?", roman: "Bas oka din hijug a?", hint: "" },
+      { en: "I want to go to ...", mr: "ᱤᱧ ... ᱥᱮᱱ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj ... sen sanam a", hint: "" },
+      { en: "I need a ticket", mr: "ᱱᱚᱣᱟ ᱴᱤᱠᱤᱴ ᱞᱟᱜᱤᱫ ᱟ", roman: "Nowa tikit lagid a", hint: "" },
+      { en: "Where is the market?", mr: "ᱱᱤᱛ ᱵᱟᱡᱟᱨ ᱚᱠᱟ ᱨᱮ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Nit bajar oka re menag a?", hint: "" },
+      { en: "Can you help me?", mr: "ᱟᱢ ᱤᱧ ᱠᱮ ᱥᱟᱹᱜᱟᱹᱭ ᱫᱟᱲᱮᱭᱟᱢ ᱢᱟ?", roman: "Am inj ke sagay dareyam ma?", hint: "" },
+      { en: "Where is the hotel?", mr: "ᱱᱚᱣᱟ ᱦᱚᱴᱮᱞ ᱚᱠᱟ ᱨᱮ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Nowa hotel oka re menag a?", hint: "" },
+      { en: "Where is the restaurant?", mr: "ᱫᱟᱹᱠ ᱫᱚᱠᱟᱱ ᱚᱠᱟ ᱨᱮ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Dak dokan oka re menag a?", hint: "" },
+      { en: "How can I go?", mr: "ᱚᱠᱟ ᱞᱮᱠᱟ ᱥᱮᱱ ᱫᱟᱲᱮᱭᱟᱜ ᱟ?", roman: "Oka leka sen dareyag a?", hint: "" },
+      { en: "I have lost the way", mr: "ᱤᱧ ᱨᱟᱦᱟ ᱵᱟᱲᱟᱭ ᱮᱱᱟ", roman: "Inj raha baray ena", hint: "" },
+      { en: "Where is the hospital?", mr: "ᱦᱟᱥᱯᱟᱛᱟᱞ ᱚᱠᱟ ᱨᱮ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Haspatal oka re menag a?", hint: "" },
+      { en: "I arrived today", mr: "ᱤᱧ ᱟᱡ ᱦᱤᱡᱩᱜ ᱮᱱᱟ", roman: "Inj aj hijug ena", hint: "" },
+      { en: "When does the train leave?", mr: "ᱱᱚᱣᱟ ᱜᱟᱰᱤ ᱠᱷᱚᱱ ᱥᱮᱱ ᱟ?", roman: "Nowa gadi khon sen a?", hint: "" },
+      { en: "I want to go to Delhi", mr: "ᱤᱧ ᱫᱤᱞᱞᱤ ᱥᱮᱱ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj Dilli sen sanam a", hint: "" },
+      { en: "Is it very far?", mr: "ᱚᱛᱚ ᱫᱩᱨ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Oto dur menag a?", hint: "" },
+      { en: "Do you have a vehicle?", mr: "ᱟᱢᱟᱜ ᱜᱟᱰᱤ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Amag gadi menag a?", hint: "" },
+      { en: "I will come in a little while", mr: "ᱤᱧ ᱟᱹᱛᱩ ᱦᱮᱞᱟ ᱨᱮ ᱦᱤᱡᱩᱜ ᱟ", roman: "Inj atu hela re hijug a", hint: "" },
+      { en: "From where does the bus start?", mr: "ᱵᱟᱥ ᱟᱫ ᱠᱷᱚᱱ ᱪᱟᱞᱟᱜ ᱟ?", roman: "Bas ad khon chalag a?", hint: "" }
+    ]
+  },
+  food_1: {
+    name: "Food & Dining Set 1",
+    color: "#DD6B20",
+    icon: "🍛",
+    phrases: [
+      { en: "I want to eat", mr: "ᱤᱧ ᱡᱚᱢ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj jom sanam a", hint: "" },
+      { en: "I want to drink water", mr: "ᱤᱧ ᱫᱟᱜ ᱧᱩ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj dag nyu sanam a", hint: "" },
+      { en: "Please eat food", mr: "ᱫᱟᱹᱠ ᱡᱚᱢ ᱢᱮ", roman: "Dak jom me", hint: "" },
+      { en: "What are you eating?", mr: "ᱟᱢ ᱪᱮᱫ ᱡᱚᱢ ᱟᱢ?", roman: "Am ced jom am?", hint: "" },
+      { en: "The food is very tasty", mr: "ᱱᱚᱣᱟ ᱫᱟᱹᱠ ᱫᱷᱟᱹᱨᱤ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ ᱟ", roman: "Nowa dak dhari leka menag a", hint: "" },
+      { en: "The rice is hot", mr: "ᱟᱹᱨᱟᱹᱜ ᱫᱩᱨᱩᱵ ᱢᱮᱱᱟᱜ ᱟ", roman: "Arag durub menag a", hint: "" },
+      { en: "I want tea", mr: "ᱤᱧ ᱪᱟᱹ ᱧᱩ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj cha nyu sanam a", hint: "" },
+      { en: "Is rice ready?", mr: "ᱫᱟᱹᱠ ᱦᱟᱹᱸᱰᱤ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Dak handi menag a?", hint: "" },
+      { en: "I cannot eat meat", mr: "ᱤᱧ ᱢᱟᱹᱨᱟᱝ ᱵᱟᱝ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜ ᱟ", roman: "Inj marang bang jom dareyag a", hint: "" },
+      { en: "I want to eat vegetables", mr: "ᱤᱧ ᱥᱟᱜ ᱡᱚᱢ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj sag jom sanam a", hint: "" },
+      { en: "Give me milk", mr: "ᱫᱩᱫᱷ ᱮᱢ ᱢᱮ", roman: "Dudh em me", hint: "" },
+      { en: "This food is spicy", mr: "ᱱᱚᱣᱟ ᱫᱟᱹᱠ ᱢᱟᱹᱨᱥᱟᱹ ᱢᱮᱱᱟᱜ ᱟ", roman: "Nowa dak marsa menag a", hint: "" },
+      { en: "I have eaten", mr: "ᱤᱧ ᱫᱟᱹᱠ ᱡᱚᱢ ᱮᱱᱟ", roman: "Inj dak jom ena", hint: "" },
+      { en: "Give me a glass of water", mr: "ᱢᱤᱫ ᱜᱤᱞᱟᱥ ᱫᱟᱜ ᱮᱢ ᱢᱮ", roman: "Mid gilas dag em me", hint: "" },
+      { en: "How much is the food?", mr: "ᱫᱟᱹᱠ ᱚᱛᱚ ᱠᱟᱱᱟ?", roman: "Dak oto kana?", hint: "" },
+      { en: "I want jalebi (sweets)", mr: "ᱤᱧ ᱡᱤᱞᱤᱯᱤ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj jilipi sanam a", hint: "" },
+      { en: "What are you cooking?", mr: "ᱟᱢ ᱪᱮᱫ ᱨᱟᱸᱰᱷᱟ ᱟᱢ?", roman: "Am ced randha am?", hint: "" },
+      { en: "I want to eat fruit", mr: "ᱤᱧ ᱥᱤᱨᱢᱟ ᱡᱚᱢ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj sirma jom sanam a", hint: "" }
+    ]
+  },
+  daily_1: {
+    name: "Daily Life Set 1",
+    color: "#805AD5",
+    icon: "🏠",
+    phrases: [
+      { en: "I wake up early", mr: "ᱤᱧ ᱥᱮᱛᱟᱜ ᱪᱟᱹᱞᱩ ᱟ", roman: "Inj setag chalu a", hint: "" },
+      { en: "I am going to school", mr: "ᱤᱧ ᱥᱠᱩᱞ ᱥᱮᱱ ᱟᱭᱟ", roman: "Inj skul sen aya", hint: "" },
+      { en: "I want to study", mr: "ᱤᱧ ᱚᱞ ᱯᱟᱲᱦᱟᱣ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj ol parhaw sanam a", hint: "" },
+      { en: "I am going to work", mr: "ᱤᱧ ᱠᱟᱹᱢᱤ ᱨᱮ ᱥᱮᱱ ᱟᱭᱟ", roman: "Inj kami re sen aya", hint: "" },
+      { en: "What day is today?", mr: "ᱟᱡ ᱚᱠᱟ ᱢᱟᱦᱟᱸ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Aj oka mahang menag a?", hint: "" },
+      { en: "I am tired", mr: "ᱤᱧ ᱛᱷᱟᱠᱟᱣ ᱮᱱᱟ", roman: "Inj thakaw ena", hint: "" },
+      { en: "I bought sweets", mr: "ᱤᱧ ᱡᱤᱞᱤᱯᱤ ᱠᱤᱱ ᱮᱱᱟ", roman: "Inj jilipi kin ena", hint: "" },
+      { en: "I am going to the market", mr: "ᱤᱧ ᱵᱟᱡᱟᱨ ᱥᱮᱱ ᱟᱭᱟ", roman: "Inj bajar sen aya", hint: "" },
+      { en: "I am at home", mr: "ᱤᱧ ᱚᱲᱟᱜ ᱨᱮ ᱦᱩᱭᱩᱜ ᱟ", roman: "Inj orag re huyug a", hint: "" },
+      { en: "I want to go with you", mr: "ᱤᱧ ᱟᱢ ᱥᱟᱶ ᱥᱮᱱ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj am saw sen sanam a", hint: "" },
+      { en: "Today is a good day", mr: "ᱟᱡ ᱵᱷᱟᱞᱮ ᱫᱤᱱ ᱠᱟᱱᱟ", roman: "Aj bhale din kana", hint: "" },
+      { en: "I want to sleep", mr: "ᱤᱧ ᱧᱤᱫ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj nyid sanam a", hint: "" },
+      { en: "I get up early morning", mr: "ᱤᱧ ᱥᱮᱛᱟᱜ ᱟᱹᱲᱟᱹᱜ ᱟ", roman: "Inj setag arag a", hint: "" },
+      { en: "I have studied", mr: "ᱤᱧ ᱚᱞ ᱯᱟᱲᱦᱟᱣ ᱮᱱᱟ", roman: "Inj ol parhaw ena", hint: "" },
+      { en: "I do social work", mr: "ᱤᱧ ᱥᱟᱹᱜᱟᱹᱭ ᱠᱟᱹᱢᱤ ᱠᱮᱫ ᱟ", roman: "Inj sagay kami ked a", hint: "" },
+      { en: "I am watching a movie", mr: "ᱤᱧ ᱮᱱᱮᱡ ᱧᱮᱞ ᱟᱭᱟ", roman: "Inj enej nyel aya", hint: "" },
+      { en: "I need rest", mr: "ᱤᱧ ᱥᱮᱨᱮᱧ ᱞᱟᱜᱤᱫ ᱟ", roman: "Inj sereny lagid a", hint: "" },
+      { en: "I am reading a book", mr: "ᱤᱧ ᱯᱩᱛᱷᱤ ᱯᱟᱲᱦᱟᱣ ᱟᱭᱟ", roman: "Inj puthi parhaw aya", hint: "" }
+    ]
+  },
+  shopping_1: {
+    name: "Shopping Set 1",
+    color: "#D69E2E",
+    icon: "🛒",
+    phrases: [
+      { en: "How much is this?", mr: "ᱱᱚᱣᱟ ᱚᱛᱚ ᱠᱟᱱᱟ?", roman: "Nowa oto kana?", hint: "" },
+      { en: "I want to buy this", mr: "ᱤᱧ ᱱᱚᱣᱟ ᱠᱤᱱ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj nowa kin sanam a", hint: "" },
+      { en: "That's too expensive", mr: "ᱟᱹᱰᱤ ᱟᱛᱚ ᱢᱮᱱᱟᱜ ᱟ", roman: "Adi ato menag a", hint: "" },
+      { en: "Please reduce the price", mr: "ᱟᱹᱰᱤ ᱠᱚᱢ ᱠᱟᱢ ᱢᱮ", roman: "Adi kom kam me", hint: "" },
+      { en: "I want a saree", mr: "ᱤᱧ ᱞᱩᱜᱲᱤ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj lugri sanam a", hint: "" },
+      { en: "What do you have?", mr: "ᱟᱢᱟᱜ ᱪᱮᱫ ᱪᱮᱫ ᱢᱮᱱᱟᱜ ᱟ?", roman: "Amag ced ced menag a?", hint: "" },
+      { en: "I want shoes", mr: "ᱤᱧ ᱡᱩᱛᱟ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj juta sanam a", hint: "" },
+      { en: "Show me another one", mr: "ᱟᱨ ᱢᱤᱫ ᱫᱮᱠᱷᱟᱣ ᱢᱮ", roman: "Ar mid dekhaw me", hint: "" },
+      { en: "I will pay you", mr: "ᱤᱧ ᱴᱟᱠᱟ ᱮᱢ ᱟᱢ ᱢᱟ", roman: "Inj taka em am ma", hint: "" },
+      { en: "I want clothes", mr: "ᱤᱧ ᱠᱟᱹᱯᱲᱟ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj kapra sanam a", hint: "" },
+      { en: "How much per kilo?", mr: "ᱱᱚᱣᱟ ᱠᱤᱞᱚ ᱚᱛᱚ?", roman: "Nowa kilo oto?", hint: "" },
+      { en: "I want good quality", mr: "ᱤᱧ ᱵᱷᱟᱞᱮ ᱞᱮᱠᱟ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj bhale leka sanam a", hint: "" },
+      { en: "It's nice", mr: "ᱵᱮᱥ ᱢᱮᱱᱟᱜ ᱟ", roman: "Bes menag a", hint: "" },
+      { en: "I don't need this", mr: "ᱱᱚᱣᱟ ᱵᱟᱝ ᱞᱟᱜᱤᱫ ᱟ", roman: "Nowa bang lagid a", hint: "" },
+      { en: "Can I see more?", mr: "ᱟᱨ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱢᱟ?", roman: "Ar ko nyel dareyag ma?", hint: "" },
+      { en: "I want oil", mr: "ᱤᱧ ᱛᱮᱞ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj tel sanam a", hint: "" },
+      { en: "I want sugar", mr: "ᱤᱧ ᱪᱤᱱᱤ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj chini sanam a", hint: "" },
+      { en: "I want salt", mr: "ᱤᱧ ᱱᱩᱱ ᱥᱟᱱᱟᱢ ᱟ", roman: "Inj nun sanam a", hint: "" }
+    ]
+  },
+  emergency_1: {
+    name: "Emergency Set 1",
+    color: "#E53E3E",
+    icon: "🚨",
+    phrases: [
+      { en: "Help!", mr: "ᱥᱟᱹᱜᱟᱹᱭ ᱢᱮ!", roman: "Sagay me!", hint: "" },
+      { en: "I am sick", mr: "ᱤᱧ ᱨᱚᱜ ᱢᱮᱱᱟᱜ ᱟ", roman: "Inj rog menag a", hint: "" },
+      { en: "Call a doctor", mr: "ᱫᱚᱠᱛᱚᱨ ᱠᱮ ᱠᱩᱞ ᱢᱮ", roman: "Doktor ke kul me", hint: "" },
+      { en: "I need to go to the hospital", mr: "ᱦᱟᱥᱯᱟᱛᱟᱞ ᱥᱮᱱ ᱞᱟᱜᱤᱫ ᱟ", roman: "Haspatal sen lagid a", hint: "" },
+      { en: "Call the police", mr: "ᱯᱩᱞᱤᱥ ᱠᱮ ᱠᱩᱞ ᱢᱮ", roman: "Pulis ke kul me", hint: "" },
+      { en: "I need medicine", mr: "ᱤᱧ ᱟᱜ ᱞᱟᱜᱤᱫ ᱟ", roman: "Inj ag lagid a", hint: "" },
+      { en: "I am lost", mr: "ᱤᱧ ᱨᱟᱦᱟ ᱵᱟᱲᱟᱭ ᱮᱱᱟ", roman: "Inj raha baray ena", hint: "" },
+      { en: "Please help me!", mr: "ᱤᱧ ᱠᱮ ᱥᱟᱹᱜᱟᱹᱭ ᱢᱮ!", roman: "Inj ke sagay me!", hint: "" },
+      { en: "My money was stolen", mr: "ᱤᱧᱟᱜ ᱴᱟᱠᱟ ᱪᱚᱨ ᱦᱩᱭ ᱮᱱᱟ", roman: "Injag taka chor huy ena", hint: "" },
+      { en: "Call an ambulance", mr: "ᱟᱢᱵᱩᱞᱮᱱᱥ ᱠᱮ ᱠᱩᱞ ᱢᱮ", roman: "Ambulens ke kul me", hint: "" },
+      { en: "I need company", mr: "ᱤᱧ ᱠᱮ ᱥᱟᱶ ᱞᱟᱜᱤᱫ ᱟ", roman: "Inj ke saw lagid a", hint: "" },
+      { en: "There is danger!", mr: "ᱥᱮᱱᱫᱨᱟ ᱢᱮᱱᱟᱜ ᱟ!", roman: "Sendra menag a!", hint: "" },
+      { en: "I am not feeling well", mr: "ᱤᱧ ᱵᱷᱟᱞᱮ ᱵᱟᱝ ᱢᱮᱱᱟᱜ ᱟ", roman: "Inj bhale bang menag a", hint: "" },
+      { en: "I have a headache", mr: "ᱤᱧᱟᱜ ᱛᱚᱞᱟ ᱰᱟᱦᱟ ᱢᱮᱱᱟᱜ ᱟ", roman: "Injag tola daha menag a", hint: "" },
+      { en: "I have a stomach ache", mr: "ᱤᱧᱟᱜ ᱞᱟᱜ ᱰᱟᱦᱟ ᱢᱮᱱᱟᱜ ᱟ", roman: "Injag lag daha menag a", hint: "" },
+      { en: "Give me water", mr: "ᱫᱟᱜ ᱮᱢ ᱢᱮ", roman: "Dag em me", hint: "" },
+      { en: "I need to go home", mr: "ᱤᱧ ᱠᱮ ᱚᱲᱟᱜ ᱥᱮᱱ ᱞᱟᱜᱤᱫ ᱟ", roman: "Inj ke orag sen lagid a", hint: "" },
+      { en: "Help in an emergency!", mr: "ᱥᱮᱱᱫᱨᱟ ᱨᱮ ᱥᱟᱹᱜᱟᱹᱭ ᱢᱮ!", roman: "Sendra re sagay me!", hint: "" }
+    ]
+  }
+};
+
+const SANTALI_DICTIONARY = {
+  basics_1: {
+    name: "Basic Words Set 1",
+    words: [
+      { en: "I / me", mr: "ᱤᱧ", roman: "inj" },
+      { en: "you", mr: "ᱟᱢ", roman: "am" },
+      { en: "he / she", mr: "ᱩᱱᱤ", roman: "uni" },
+      { en: "we (inclusive)", mr: "ᱟᱞᱮ", roman: "ale" },
+      { en: "we (exclusive)", mr: "ᱟᱵᱚ", roman: "abo" },
+      { en: "you (plural)", mr: "ᱟᱯᱮ", roman: "ape" },
+      { en: "they", mr: "ᱩᱱᱠᱩ", roman: "unku" },
+      { en: "house", mr: "ᱚᱲᱟᱜ", roman: "orag" },
+      { en: "water", mr: "ᱫᱟᱜ", roman: "dag" },
+      { en: "rice / food", mr: "ᱫᱟᱹᱠ", roman: "dak" },
+      { en: "forest / jungle", mr: "ᱵᱤᱨ", roman: "bir" },
+      { en: "hill / mountain", mr: "ᱵᱩᱨᱩ", roman: "buru" },
+      { en: "country / land", mr: "ᱫᱤᱥᱚᱢ", roman: "disom" },
+      { en: "village", mr: "ᱟᱹᱛᱩ", roman: "atu" },
+      { en: "market", mr: "ᱦᱟᱹᱴᱤᱧ", roman: "hating" },
+      { en: "morning", mr: "ᱥᱮᱛᱟᱜ", roman: "setag" },
+      { en: "evening / night", mr: "ᱧᱤᱸᱫᱟ", roman: "nyinda" },
+      { en: "today", mr: "ᱟᱡ", roman: "aj" },
+      { en: "yesterday", mr: "ᱜᱟᱞᱟ", roman: "gala" },
+      { en: "tomorrow", mr: "ᱜᱟᱯᱟ", roman: "gapa" }
+    ]
+  },
+  family_1: {
+    name: "Family & People Set 1",
+    words: [
+      { en: "father", mr: "ᱟᱯᱟ", roman: "apa" },
+      { en: "mother", mr: "ᱟᱭᱚ", roman: "ayo" },
+      { en: "brother", mr: "ᱦᱟᱯᱲᱟᱢ", roman: "hapram" },
+      { en: "sister", mr: "ᱢᱤᱥᱤ", roman: "misi" },
+      { en: "child", mr: "ᱜᱤᱫᱽᱨᱟᱹ", roman: "gidra" },
+      { en: "person / people", mr: "ᱦᱚᱲ", roman: "hor" },
+      { en: "girl", mr: "ᱠᱩᱲᱤ", roman: "kuri" },
+      { en: "boy", mr: "ᱠᱚᱲᱟ", roman: "kora" },
+      { en: "village head", mr: "ᱢᱟᱹᱧᱡᱷᱤ", roman: "manjhi" },
+      { en: "grandfather", mr: "ᱵᱟᱵᱟ", roman: "baba" },
+      { en: "grandmother", mr: "ᱟᱡᱤ", roman: "aji" }
+    ]
+  },
+  verbs_1: {
+    name: "Common Verbs Set 1",
+    words: [
+      { en: "go", mr: "ᱥᱮᱱ", roman: "sen" },
+      { en: "come", mr: "ᱦᱤᱡᱩᱜ", roman: "hijug" },
+      { en: "eat", mr: "ᱡᱚᱢ", roman: "jom" },
+      { en: "drink", mr: "ᱧᱩ", roman: "nyu" },
+      { en: "see / look", mr: "ᱧᱮᱞ", roman: "nyel" },
+      { en: "hear / listen", mr: "ᱟᱹᱭᱠᱟᱹᱣ", roman: "aykaw" },
+      { en: "speak / say", mr: "ᱨᱚᱲ", roman: "ror" },
+      { en: "write", mr: "ᱚᱞ", roman: "ol" },
+      { en: "read / study", mr: "ᱯᱟᱲᱦᱟᱣ", roman: "parhaw" },
+      { en: "work", mr: "ᱠᱟᱹᱢᱤ", roman: "kami" },
+      { en: "sleep", mr: "ᱧᱤᱫ", roman: "nyid" },
+      { en: "run", mr: "ᱫᱟᱹᱲ", roman: "dar" },
+      { en: "give", mr: "ᱮᱢ", roman: "em" },
+      { en: "bring", mr: "ᱟᱹᱜᱩ", roman: "agu" },
+      { en: "buy", mr: "ᱠᱤᱱ", roman: "kin" },
+      { en: "call", mr: "ᱠᱩᱞ", roman: "kul" }
+    ]
+  },
+  common_1: {
+    name: "Common Words Set 1",
+    words: [
+      { en: "no / not", mr: "ᱵᱟᱝ", roman: "bang" },
+      { en: "yes / please", mr: "ᱦᱮᱡ", roman: "hej" },
+      { en: "good", mr: "ᱵᱷᱟᱞᱮ", roman: "bhale" },
+      { en: "bad", mr: "ᱯᱩᱨᱟᱹ", roman: "pura" },
+      { en: "big / great", mr: "ᱢᱟᱨᱟᱝ", roman: "marang" },
+      { en: "small / little", mr: "ᱦᱩᱰᱤᱧ", roman: "huding" },
+      { en: "new", mr: "ᱱᱟᱣᱟ", roman: "nawa" },
+      { en: "far", mr: "ᱫᱩᱨ", roman: "dur" },
+      { en: "near", mr: "ᱱᱮᱰᱟ", roman: "neda" },
+      { en: "able / can", mr: "ᱫᱟᱲᱮ", roman: "dare" },
+      { en: "want", mr: "ᱥᱟᱱᱟᱢ", roman: "sanam" },
+      { en: "need / for", mr: "ᱞᱟᱜᱤᱫ", roman: "lagid" },
+      { en: "with / together", mr: "ᱥᱟᱶ", roman: "saw" },
+      { en: "in / at", mr: "ᱨᱮ", roman: "re" },
+      { en: "from", mr: "ᱠᱷᱚᱱ", roman: "khon" },
+      { en: "where", mr: "ᱚᱠᱟ", roman: "oka" },
+      { en: "what", mr: "ᱪᱮᱫ", roman: "ced" },
+      { en: "who", mr: "ᱚᱠᱚᱭ", roman: "okoy" },
+      { en: "how much", mr: "ᱚᱛᱚ", roman: "oto" }
+    ]
+  },
+  nature_1: {
+    name: "Nature & Food Set 1",
+    words: [
+      { en: "tea", mr: "ᱪᱟᱹ", roman: "cha" },
+      { en: "milk", mr: "ᱫᱩᱫᱷ", roman: "dudh" },
+      { en: "vegetable", mr: "ᱥᱟᱜ", roman: "sag" },
+      { en: "meat / flesh", mr: "ᱢᱟᱹᱨᱟᱝ", roman: "marang" },
+      { en: "fish", mr: "ᱢᱟᱹᱪᱷᱟ", roman: "machha" },
+      { en: "fruit", mr: "ᱥᱤᱨᱢᱟ", roman: "sirma" },
+      { en: "tree", mr: "ᱫᱟᱨᱮ", roman: "dare" },
+      { en: "flower", mr: "ᱵᱟᱦᱟ", roman: "baha" },
+      { en: "sun", mr: "ᱥᱤᱧ", roman: "sing" },
+      { en: "moon", mr: "ᱪᱟᱸᱫᱚ", roman: "chando" },
+      { en: "star", mr: "ᱤᱯᱤᱞ", roman: "ipil" },
+      { en: "spicy / chili", mr: "ᱢᱟᱹᱨᱥᱟᱹ", roman: "marsa" },
+      { en: "salt", mr: "ᱱᱩᱱ", roman: "nun" },
+      { en: "sugar", mr: "ᱪᱤᱱᱤ", roman: "chini" },
+      { en: "oil", mr: "ᱛᱮᱞ", roman: "tel" },
+      { en: "vehicle / car", mr: "ᱜᱟᱰᱤ", roman: "gadi" },
+      { en: "bus", mr: "ᱵᱟᱥ", roman: "bas" },
+      { en: "train", mr: "ᱨᱮᱞ", roman: "rel" },
+      { en: "road / way", mr: "ᱨᱟᱦᱟ", roman: "raha" },
+      { en: "hello / greetings", mr: "ᱡᱚᱦᱟᱨ", roman: "johar" }
+    ]
+  },
+  everyday_1: {
+    name: "Everyday Items Set 1",
+    words: [
+      { en: "thank you", mr: "ᱥᱮᱨᱢᱟ", roman: "serma" },
+      { en: "money", mr: "ᱴᱟᱠᱟ", roman: "taka" },
+      { en: "book", mr: "ᱯᱩᱛᱷᱤ", roman: "puthi" },
+      { en: "shop", mr: "ᱫᱚᱠᱟᱱ", roman: "dokan" },
+      { en: "shoe", mr: "ᱡᱩᱛᱟ", roman: "juta" },
+      { en: "cloth", mr: "ᱠᱟᱹᱯᱲᱟ", roman: "kapra" },
+      { en: "saree", mr: "ᱞᱩᱜᱲᱤ", roman: "lugri" },
+      { en: "sickness / disease", mr: "ᱨᱚᱜ", roman: "rog" },
+      { en: "pain / ache", mr: "ᱰᱟᱦᱟ", roman: "daha" },
+      { en: "head", mr: "ᱛᱚᱞᱟ", roman: "tola" },
+      { en: "stomach", mr: "ᱞᱟᱜ", roman: "lag" },
+      { en: "hand", mr: "ᱛᱤᱸ", roman: "ting" }
+    ]
+  }
+};

@@ -1,0 +1,283 @@
+const SANSKRIT_PHRASES = {
+  greetings_1: {
+    name: "Greetings Set 1",
+    color: "#2B6CB0",
+    icon: "👋",
+    phrases: [
+      { en: "Hello / Greetings", mr: "नमस्कारः", roman: "Namaskarah", hint: "" },
+      { en: "How are you? (to a man)", mr: "कथम् अस्ति भवान्?", roman: "Katham asti bhavaan?", hint: "" },
+      { en: "How are you? (to a woman)", mr: "कथम् अस्ति भवती?", roman: "Katham asti bhavatee?", hint: "" },
+      { en: "I am fine", mr: "अहं कुशलम् अस्मि", roman: "Aham kushalam asmi", hint: "" },
+      { en: "What is your name?", mr: "भवतः नाम किम्?", roman: "Bhavatah naama kim?", hint: "" },
+      { en: "My name is ...", mr: "मम नाम ... अस्ति", roman: "Mama naama ... asti", hint: "" },
+      { en: "Thank you very much", mr: "बहु धन्यवादः", roman: "Bahu dhanyavaadah", hint: "" },
+      { en: "You are welcome", mr: "स्वागतम्", roman: "Svaagatam", hint: "" },
+      { en: "Goodbye / Go well", mr: "शुभं भवतु", roman: "Shubham bhavatu", hint: "" },
+      { en: "Good morning", mr: "सुप्रभातम्", roman: "Suprabhaatam", hint: "" },
+      { en: "Good evening", mr: "शुभ सन्ध्या", roman: "Shubha sandhyaa", hint: "" },
+      { en: "Good night", mr: "शुभ रात्रिः", roman: "Shubha raatrihi", hint: "" },
+      { en: "Please come", mr: "कृपया आगच्छतु", roman: "Kripayaa aagachchhatu", hint: "" },
+      { en: "Please sit down", mr: "कृपया उपविशतु", roman: "Kripayaa upavishatu", hint: "" },
+      { en: "I don't understand", mr: "अहं न अवगच्छामि", roman: "Aham na avagachchhaami", hint: "" },
+      { en: "Please help me", mr: "कृपया मां साहाय्यं करोतु", roman: "Kripayaa maam saahayyam karotu", hint: "" },
+      { en: "Excuse me / Sorry", mr: "क्षम्यताम्", roman: "Kshamyataam", hint: "" },
+      { en: "May all be well", mr: "सर्वे भवन्तु सुखिनः", roman: "Sarve bhavantu sukhinah", hint: "" }
+    ]
+  },
+  travel_1: {
+    name: "Travel Set 1",
+    color: "#38A169",
+    icon: "🚌",
+    phrases: [
+      { en: "Where is the railway station?", mr: "रेलस्थानकं कुत्र अस्ति?", roman: "Relasthaaankam kutra asti?", hint: "" },
+      { en: "I want to go to ...", mr: "अहम् ... गन्तुम् इच्छामि", roman: "Aham ... gantum ichchhaami", hint: "" },
+      { en: "I need a ticket", mr: "मह्यम् एकं यात्रापत्रं देहि", roman: "Mahyam ekam yaatrapatram dehi", hint: "" },
+      { en: "Where is the market?", mr: "आपणं कुत्र अस्ति?", roman: "Aapanam kutra asti?", hint: "" },
+      { en: "Can you help me?", mr: "किं भवान् मां साहाय्यं करोति?", roman: "Kim bhavaan maam saahayyam karoti?", hint: "" },
+      { en: "Where is the hotel?", mr: "विश्रामगृहं कुत्र अस्ति?", roman: "Vishramagruham kutra asti?", hint: "" },
+      { en: "How can I go there?", mr: "अहं तत्र कथं गच्छामि?", roman: "Aham tatra katham gachchhaami?", hint: "" },
+      { en: "I have lost the way", mr: "अहं मार्गं विस्मृतवान्", roman: "Aham maargam vismritavaan", hint: "" },
+      { en: "Where is the hospital?", mr: "चिकित्सालयं कुत्र अस्ति?", roman: "Chikitsaalayam kutra asti?", hint: "" },
+      { en: "I arrived today", mr: "अहम् अद्य आगतवान्", roman: "Aham adya aagatavaan", hint: "" },
+      { en: "When does the train leave?", mr: "रेलयानं कदा प्रस्थानं करोति?", roman: "Relayaanam kadaa prasthanam karoti?", hint: "" },
+      { en: "Is it very far?", mr: "किम् अत्यन्तं दूरम् अस्ति?", roman: "Kim atyantam dooram asti?", hint: "" },
+      { en: "I will come shortly", mr: "अहं शीघ्रम् आगच्छामि", roman: "Aham sheeghram aagachchhaami", hint: "" },
+      { en: "Where is the bus stop?", mr: "यानविरामस्थानं कुत्र अस्ति?", roman: "Yaanaviraamasthaanam kutra asti?", hint: "" },
+      { en: "Turn left", mr: "वामतः गच्छतु", roman: "Vaamatah gachchhatu", hint: "" },
+      { en: "Turn right", mr: "दक्षिणतः गच्छतु", roman: "Dakshinatah gachchhatu", hint: "" },
+      { en: "Go straight ahead", mr: "ऋजुं गच्छतु", roman: "Rijum gachchhatu", hint: "" },
+      { en: "How much is the fare?", mr: "यात्राशुल्कं कियत् अस्ति?", roman: "Yaatraashulkam kiyat asti?", hint: "" }
+    ]
+  },
+  food_1: {
+    name: "Food & Dining Set 1",
+    color: "#DD6B20",
+    icon: "🍛",
+    phrases: [
+      { en: "I want to eat", mr: "अहं खादितुम् इच्छामि", roman: "Aham khaaditum ichchhaami", hint: "" },
+      { en: "I want to drink water", mr: "अहं जलं पातुम् इच्छामि", roman: "Aham jalam paatum ichchhaami", hint: "" },
+      { en: "Please give me food", mr: "कृपया मह्यम् अन्नं ददातु", roman: "Kripayaa mahyam annam dadaatu", hint: "" },
+      { en: "What are you eating?", mr: "भवान् किं खादति?", roman: "Bhavaan kim khaadati?", hint: "" },
+      { en: "The food is very tasty", mr: "अन्नम् अतीव स्वादिष्टम् अस्ति", roman: "Annam ateeva svaadishhtam asti", hint: "" },
+      { en: "I want tea", mr: "अहं चायं पातुम् इच्छामि", roman: "Aham chaayam paatum ichchhaami", hint: "" },
+      { en: "Is the food ready?", mr: "किम् भोजनं सिद्धम् अस्ति?", roman: "Kim bhojanam siddham asti?", hint: "" },
+      { en: "I do not eat meat", mr: "अहं मांसं न खादामि", roman: "Aham maamsam na khaadaami", hint: "" },
+      { en: "I want to eat vegetables", mr: "अहं शाकं खादितुम् इच्छामि", roman: "Aham shaakam khaaditum ichchhaami", hint: "" },
+      { en: "Give me milk", mr: "मह्यं दुग्धं ददातु", roman: "Mahyam dugdham dadaatu", hint: "" },
+      { en: "This food is spicy", mr: "इदम् अन्नं तीक्ष्णम् अस्ति", roman: "Idam annam teekshnam asti", hint: "" },
+      { en: "I have eaten", mr: "अहं भोजनं कृतवान्", roman: "Aham bhojanam kritavaan", hint: "" },
+      { en: "Give me a glass of water", mr: "मह्यम् एकं जलपात्रं ददातु", roman: "Mahyam ekam jalapaatram dadaatu", hint: "" },
+      { en: "How much does the food cost?", mr: "भोजनस्य मूल्यं कियत् अस्ति?", roman: "Bhojanasya moolyam kiyat asti?", hint: "" },
+      { en: "I want sweets", mr: "अहं मिष्टान्नम् इच्छामि", roman: "Aham mishtaannam ichchhaami", hint: "" },
+      { en: "What are you cooking?", mr: "भवान् किं पचति?", roman: "Bhavaan kim pachati?", hint: "" },
+      { en: "I want to eat fruit", mr: "अहं फलं खादितुम् इच्छामि", roman: "Aham phalam khaaditum ichchhaami", hint: "" },
+      { en: "I am hungry", mr: "मम क्षुधा अस्ति", roman: "Mama kshudha asti", hint: "" }
+    ]
+  },
+  daily_1: {
+    name: "Daily Life Set 1",
+    color: "#805AD5",
+    icon: "🏠",
+    phrases: [
+      { en: "I am going home", mr: "अहं गृहं गच्छामि", roman: "Aham griham gachchhaami", hint: "" },
+      { en: "Where do you live?", mr: "भवान् कुत्र निवसति?", roman: "Bhavaan kutra nivasati?", hint: "" },
+      { en: "What work do you do?", mr: "भवान् किं कार्यं करोति?", roman: "Bhavaan kim kaaryam karoti?", hint: "" },
+      { en: "I go to school", mr: "अहं विद्यालयं गच्छामि", roman: "Aham vidyaalayam gachchhaami", hint: "" },
+      { en: "What time is it?", mr: "इदानीं समयः कः?", roman: "Idaaneem samayah kah?", hint: "" },
+      { en: "I wake up early", mr: "अहं प्रातः उत्तिष्ठामि", roman: "Aham praatah uttishhthaami", hint: "" },
+      { en: "I am studying", mr: "अहं पठामि", roman: "Aham pathaami", hint: "" },
+      { en: "Children are playing", mr: "बालकाः क्रीडन्ति", roman: "Baalakaah kreedanti", hint: "" },
+      { en: "Open the door", mr: "द्वारम् उद्घाटयतु", roman: "Dvaaram udghattayatu", hint: "" },
+      { en: "Close the window", mr: "वातायनं पिदधातु", roman: "Vaataayanam pidadhaatu", hint: "" },
+      { en: "I read a book every day", mr: "अहं प्रतिदिनं पुस्तकं पठामि", roman: "Aham pratidinam pustakam pathaami", hint: "" },
+      { en: "Please give me water", mr: "कृपया मह्यं जलं ददातु", roman: "Kripayaa mahyam jalam dadaatu", hint: "" },
+      { en: "Where is the bathroom?", mr: "स्नानगृहं कुत्र अस्ति?", roman: "Snaanagruham kutra asti?", hint: "" },
+      { en: "I will sleep now", mr: "अहम् इदानीं शयनं करोमि", roman: "Aham idaaneem shayanam karomi", hint: "" },
+      { en: "Please come tomorrow", mr: "कृपया श्वः आगच्छतु", roman: "Kripayaa shvah aagachchhatu", hint: "" },
+      { en: "Today is very hot", mr: "अद्य अतीव उष्णम् अस्ति", roman: "Adya ateeva ushnam asti", hint: "" },
+      { en: "It is raining", mr: "वर्षा भवति", roman: "Varshaa bhavati", hint: "" },
+      { en: "The garden is beautiful", mr: "उद्यानं सुन्दरम् अस्ति", roman: "Udyaanam sundaram asti", hint: "" }
+    ]
+  },
+  shopping_1: {
+    name: "Shopping Set 1",
+    color: "#D69E2E",
+    icon: "🛒",
+    phrases: [
+      { en: "How much does this cost?", mr: "अस्य मूल्यं कियत् अस्ति?", roman: "Asya moolyam kiyat asti?", hint: "" },
+      { en: "This is too expensive", mr: "इदम् अत्यधिकं महार्घम् अस्ति", roman: "Idam atyadhikam mahaargham asti", hint: "" },
+      { en: "Please reduce the price", mr: "कृपया मूल्यं न्यूनं करोतु", roman: "Kripayaa moolyam nyoonam karotu", hint: "" },
+      { en: "I want to buy this", mr: "अहम् इदं क्रेतुम् इच्छामि", roman: "Aham idam kretum ichchhaami", hint: "" },
+      { en: "Show me that", mr: "तत् मह्यं दर्शयतु", roman: "Tat mahyam darshayatu", hint: "" },
+      { en: "Do you have this?", mr: "किम् इदम् अस्ति भवतः समीपे?", roman: "Kim idam asti bhavatah sameepe?", hint: "" },
+      { en: "I need clothes", mr: "मह्यं वस्त्राणि आवश्यकानि", roman: "Mahyam vastraani aavashyakaani", hint: "" },
+      { en: "Give me one kilogram", mr: "मह्यम् एकम् किलो ददातु", roman: "Mahyam ekam kilo dadaatu", hint: "" },
+      { en: "Where is the shop?", mr: "आपणं कुत्र अस्ति?", roman: "Aapanam kutra asti?", hint: "" },
+      { en: "I want fresh vegetables", mr: "अहं नवीनानि शाकानि इच्छामि", roman: "Aham naveenaani shaakaani ichchhaami", hint: "" },
+      { en: "Do you accept cash?", mr: "किं भवान् नगदं स्वीकरोति?", roman: "Kim bhavaan nagadam sveekaroti?", hint: "" },
+      { en: "Please give me a bag", mr: "कृपया मह्यम् एकां स्यूतां ददातु", roman: "Kripayaa mahyam ekaam syootaam dadaatu", hint: "" },
+      { en: "This is good quality", mr: "इदम् उत्तमं गुणवत्तायुक्तम् अस्ति", roman: "Idam uttamam gunavattaayuktam asti", hint: "" },
+      { en: "I want to buy rice", mr: "अहं तण्डुलान् क्रेतुम् इच्छामि", roman: "Aham tandulaan kretum ichchhaami", hint: "" },
+      { en: "What is the total?", mr: "सम्पूर्णं मूल्यं कियत्?", roman: "Sampoornam moolyam kiyat?", hint: "" },
+      { en: "I don't want this", mr: "अहम् इदं न इच्छामि", roman: "Aham idam na ichchhaami", hint: "" },
+      { en: "Give me change", mr: "मह्यं परिवर्तनधनं ददातु", roman: "Mahyam parivartanadhanam dadaatu", hint: "" },
+      { en: "The market is nearby", mr: "आपणं समीपे अस्ति", roman: "Aapanam sameepe asti", hint: "" }
+    ]
+  },
+  emergency_1: {
+    name: "Emergency Set 1",
+    color: "#E53E3E",
+    icon: "🚨",
+    phrases: [
+      { en: "Help!", mr: "साहाय्यम् करोतु!", roman: "Saahayyam karotu!", hint: "" },
+      { en: "I am sick", mr: "अहं रुग्णः अस्मि", roman: "Aham rugnah asmi", hint: "" },
+      { en: "Call a doctor", mr: "वैद्यम् आह्वयतु", roman: "Vaidyam aahvayatu", hint: "" },
+      { en: "I need to go to the hospital", mr: "मह्यं चिकित्सालयं गन्तव्यम्", roman: "Mahyam chikitsaalayam gantavyam", hint: "" },
+      { en: "Call the police", mr: "आरक्षकम् आह्वयतु", roman: "Aarakshakam aahvayatu", hint: "" },
+      { en: "I need medicine", mr: "मह्यम् औषधम् आवश्यकम्", roman: "Mahyam aushadham aavashyakam", hint: "" },
+      { en: "I am lost", mr: "अहं मार्गं विस्मृतवान्", roman: "Aham maargam vismritavaan", hint: "" },
+      { en: "Please help me!", mr: "कृपया मां साहाय्यं करोतु!", roman: "Kripayaa maam saahayyam karotu!", hint: "" },
+      { en: "My money was stolen", mr: "मम धनं चोरितम् अस्ति", roman: "Mama dhanam choritam asti", hint: "" },
+      { en: "Call an ambulance", mr: "रोगिवाहनम् आह्वयतु", roman: "Rogivaahanam aahvayatu", hint: "" },
+      { en: "There is danger!", mr: "संकटम् अस्ति!", roman: "Sankatam asti!", hint: "" },
+      { en: "I am not feeling well", mr: "मम शरीरं स्वस्थं नास्ति", roman: "Mama shareeram svastham naasti", hint: "" },
+      { en: "I have a headache", mr: "मम शिरसि वेदना अस्ति", roman: "Mama shirasi vedanaa asti", hint: "" },
+      { en: "I have a stomach ache", mr: "मम उदरे वेदना अस्ति", roman: "Mama udare vedanaa asti", hint: "" },
+      { en: "Give me water", mr: "मह्यं जलं ददातु", roman: "Mahyam jalam dadaatu", hint: "" },
+      { en: "I need to go home", mr: "मह्यं गृहं गन्तव्यम्", roman: "Mahyam griham gantavyam", hint: "" },
+      { en: "There is a fire!", mr: "अग्निः अस्ति!", roman: "Agnih asti!", hint: "" },
+      { en: "I have a fever", mr: "मम ज्वरः अस्ति", roman: "Mama jvarah asti", hint: "" }
+    ]
+  }
+};
+
+const SANSKRIT_DICTIONARY = {
+  basics_1: {
+    name: "Basic Words Set 1",
+    words: [
+      { en: "I / me", mr: "अहम्", roman: "aham" },
+      { en: "you (respectful)", mr: "भवान्", roman: "bhavaan" },
+      { en: "you (feminine)", mr: "भवती", roman: "bhavatee" },
+      { en: "he / that", mr: "सः", roman: "sah" },
+      { en: "she / that (fem.)", mr: "सा", roman: "saa" },
+      { en: "we", mr: "वयम्", roman: "vayam" },
+      { en: "they (masc.)", mr: "ते", roman: "te" },
+      { en: "house", mr: "गृहम्", roman: "griham" },
+      { en: "water", mr: "जलम्", roman: "jalam" },
+      { en: "food", mr: "अन्नम्", roman: "annam" },
+      { en: "fire", mr: "अग्निः", roman: "agnih" },
+      { en: "earth", mr: "पृथिवी", roman: "prithivee" },
+      { en: "sky", mr: "आकाशः", roman: "aakashah" },
+      { en: "village", mr: "ग्रामः", roman: "graamah" },
+      { en: "city", mr: "नगरम्", roman: "nagaram" },
+      { en: "morning", mr: "प्रातः", roman: "praatah" },
+      { en: "evening", mr: "सन्ध्या", roman: "sandhyaa" },
+      { en: "today", mr: "अद्य", roman: "adya" },
+      { en: "yesterday", mr: "ह्यः", roman: "hyah" },
+      { en: "tomorrow", mr: "श्वः", roman: "shvah" }
+    ]
+  },
+  family_1: {
+    name: "Family & People Set 1",
+    words: [
+      { en: "father", mr: "पिता", roman: "pitaa" },
+      { en: "mother", mr: "माता", roman: "maataa" },
+      { en: "brother", mr: "भ्राता", roman: "bhraataa" },
+      { en: "sister", mr: "भगिनी", roman: "bhaginee" },
+      { en: "child", mr: "बालकः", roman: "baalakah" },
+      { en: "person", mr: "मनुष्यः", roman: "manushyah" },
+      { en: "girl", mr: "बालिका", roman: "baalikaa" },
+      { en: "boy", mr: "बालकः", roman: "baalakah" },
+      { en: "king", mr: "राजा", roman: "raajaa" },
+      { en: "teacher", mr: "गुरुः", roman: "guruh" },
+      { en: "friend", mr: "मित्रम्", roman: "mitram" }
+    ]
+  },
+  verbs_1: {
+    name: "Common Verbs Set 1",
+    words: [
+      { en: "go", mr: "गच्छति", roman: "gachchhati" },
+      { en: "come", mr: "आगच्छति", roman: "aagachchhati" },
+      { en: "eat", mr: "खादति", roman: "khaadati" },
+      { en: "drink", mr: "पिबति", roman: "pibati" },
+      { en: "see / look", mr: "पश्यति", roman: "pashyati" },
+      { en: "hear / listen", mr: "शृणोति", roman: "shrinoti" },
+      { en: "speak / say", mr: "वदति", roman: "vadati" },
+      { en: "write", mr: "लिखति", roman: "likhati" },
+      { en: "read / study", mr: "पठति", roman: "pathati" },
+      { en: "work / do", mr: "करोति", roman: "karoti" },
+      { en: "sleep", mr: "शयनं करोति", roman: "shayanam karoti" },
+      { en: "run", mr: "धावति", roman: "dhaavati" },
+      { en: "give", mr: "ददाति", roman: "dadaati" },
+      { en: "bring", mr: "आनयति", roman: "aanayati" },
+      { en: "buy", mr: "क्रीणाति", roman: "kreeanaati" },
+      { en: "sit", mr: "उपविशति", roman: "upavishati" }
+    ]
+  },
+  common_1: {
+    name: "Common Words Set 1",
+    words: [
+      { en: "no / not", mr: "न", roman: "na" },
+      { en: "yes", mr: "आम्", roman: "aam" },
+      { en: "good", mr: "उत्तमम्", roman: "uttamam" },
+      { en: "bad", mr: "दुष्टम्", roman: "dushtam" },
+      { en: "big / great", mr: "महत्", roman: "mahat" },
+      { en: "small / little", mr: "लघु", roman: "laghu" },
+      { en: "new", mr: "नवीनम्", roman: "naveenam" },
+      { en: "far", mr: "दूरम्", roman: "dooram" },
+      { en: "near", mr: "समीपम्", roman: "sameepam" },
+      { en: "beautiful", mr: "सुन्दरम्", roman: "sundaram" },
+      { en: "want / desire", mr: "इच्छा", roman: "ichchhaa" },
+      { en: "need", mr: "आवश्यकम्", roman: "aavashyakam" },
+      { en: "with", mr: "सह", roman: "saha" },
+      { en: "in / at", mr: "मध्ये", roman: "madhye" },
+      { en: "from", mr: "तः", roman: "tah" },
+      { en: "where", mr: "कुत्र", roman: "kutra" },
+      { en: "what", mr: "किम्", roman: "kim" },
+      { en: "who", mr: "कः", roman: "kah" },
+      { en: "how much", mr: "कियत्", roman: "kiyat" }
+    ]
+  },
+  nature_1: {
+    name: "Nature & Food Set 1",
+    words: [
+      { en: "tea", mr: "चायम्", roman: "chaayam" },
+      { en: "milk", mr: "दुग्धम्", roman: "dugdham" },
+      { en: "vegetable", mr: "शाकम्", roman: "shaakam" },
+      { en: "meat / flesh", mr: "मांसम्", roman: "maamsam" },
+      { en: "fish", mr: "मत्स्यः", roman: "matsyah" },
+      { en: "fruit", mr: "फलम्", roman: "phalam" },
+      { en: "tree", mr: "वृक्षः", roman: "vrikshah" },
+      { en: "flower", mr: "पुष्पम्", roman: "pushpam" },
+      { en: "sun", mr: "सूर्यः", roman: "sooryah" },
+      { en: "moon", mr: "चन्द्रः", roman: "chandrah" },
+      { en: "star", mr: "नक्षत्रम्", roman: "nakshatram" },
+      { en: "river", mr: "नदी", roman: "nadee" },
+      { en: "mountain", mr: "पर्वतः", roman: "parvatah" },
+      { en: "ocean", mr: "समुद्रः", roman: "samudrah" },
+      { en: "wind", mr: "वायुः", roman: "vaayuh" },
+      { en: "rain", mr: "वर्षा", roman: "varshaa" },
+      { en: "salt", mr: "लवणम्", roman: "lavanam" },
+      { en: "sugar", mr: "शर्करा", roman: "sharkaraa" },
+      { en: "oil", mr: "तैलम्", roman: "tailam" },
+      { en: "rice", mr: "तण्डुलाः", roman: "tandulaah" }
+    ]
+  },
+  everyday_1: {
+    name: "Everyday Items Set 1",
+    words: [
+      { en: "thank you", mr: "धन्यवादः", roman: "dhanyavaadah" },
+      { en: "money / wealth", mr: "धनम्", roman: "dhanam" },
+      { en: "book", mr: "पुस्तकम्", roman: "pustakam" },
+      { en: "shop / market", mr: "आपणम्", roman: "aapanam" },
+      { en: "shoe", mr: "पादत्राणम्", roman: "paadatraanam" },
+      { en: "cloth", mr: "वस्त्रम्", roman: "vastram" },
+      { en: "road / path", mr: "मार्गः", roman: "maargah" },
+      { en: "sickness / disease", mr: "रोगः", roman: "rogah" },
+      { en: "pain", mr: "वेदना", roman: "vedanaa" },
+      { en: "head", mr: "शिरः", roman: "shirah" },
+      { en: "stomach", mr: "उदरम्", roman: "udaram" },
+      { en: "hand", mr: "हस्तः", roman: "hastah" }
+    ]
+  }
+};
