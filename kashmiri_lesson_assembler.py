@@ -1,11 +1,11 @@
-# Assembles per-chapter lesson rows from konkani_sentence_banks for populate_konkani_lessons.py
+# Assembles per-chapter lesson rows from kashmiri_sentence_banks for populate_kashmiri_lessons.py
 from __future__ import annotations
 
 import json
 from pathlib import Path
 
-from konkani_chapter_routes import CHAPTER_TO_BANKS
-from konkani_sentence_banks import (
+from kashmiri_chapter_routes import CHAPTER_TO_BANKS
+from kashmiri_sentence_banks import (
     BANK_REGISTRY,
     ROWS_PER_LESSON,
     target_row_count,
@@ -318,8 +318,8 @@ def _route_banks_fallback(title: str, chapter_id: int) -> list[str]:
 
 
 def build_lessons_dict(structure_path: Path | None = None) -> dict[int, list[list[str]]]:
-    base = structure_path or (Path(__file__).resolve().parent / "lessons_structure_konkani.json")
-    data = json.loads(base.read_text(encoding="utf-8"))
+    base = structure_path or (Path(__file__).resolve().parent / "lessons_structure_kashmiri.json")
+    data = json.loads(base.read_text(encoding="utf-8-sig"))
     out: dict[int, list[list[str]]] = {}
     for ml in data["majorLessons"]:
         for sub in ml["sublessons"]:
