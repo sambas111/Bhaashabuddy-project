@@ -6427,7 +6427,7 @@ function speakMarathi() {
 const OFFLINE_STORAGE_KEY = 'offlineModeEnabled';
 const OFFLINE_CACHE_PREFIX = 'offline_lessons_';
 /** Bump when any data_*.json content is meaningfully updated so browsers and offline cache pick up new rows. */
-const LESSONS_DATA_REVISION = '2026-04-15-lessons-data-v6';
+const LESSONS_DATA_REVISION = '2026-04-15-lessons-data-v10-kashmiri-l5-conversation-banks';
 
 function invalidateStaleLessonCaches() {
   try {
