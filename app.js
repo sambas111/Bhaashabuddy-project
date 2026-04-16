@@ -143,9 +143,8 @@ function initLanguageUI() {
   if (el('home-subtitle')) el('home-subtitle').textContent = lang.subtitle + ' • Phrase categories';
   if (el('dict-subtitle')) el('dict-subtitle').textContent = 'English → ' + lang.name;
   if (el('current-lang-display')) el('current-lang-display').textContent = 'Learning ' + lang.name;
-  if (el('data-source-display')) el('data-source-display').textContent = lang.dataSource;
   const chSub = document.getElementById('chapters-subtitle');
-  if (chSub) chSub.textContent = lang.dataSource;
+  if (chSub) chSub.textContent = 'Structured lessons';
   document.querySelectorAll('.nav-chapters').forEach(el => {
     el.style.display = lang.hasLessons ? '' : 'none';
   });
@@ -5919,7 +5918,6 @@ const LANGUAGES = {
     subtitle: "मराठी शिका",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "mr-IN",
-    dataSource: "learnmarathiwithkaushik.com",
     hasLessons: true,
     dataFile: "data.json",
     structureFile: "lessons_structure.json",
@@ -5932,7 +5930,6 @@ const LANGUAGES = {
     subtitle: "ગુજરાતી શીખો",
     scriptFont: "'Noto Sans Gujarati', sans-serif",
     speechLang: "gu-IN",
-    dataSource: "learnmarathiwithkaushik.com",
     hasLessons: true,
     dataFile: "data_gujarati.json",
     structureFile: "lessons_structure_gujarati.json",
@@ -5945,7 +5942,6 @@ const LANGUAGES = {
     subtitle: "ਪੰਜਾਬੀ ਸਿੱਖੋ",
     scriptFont: "'Noto Sans Gurmukhi', sans-serif",
     speechLang: "pa-IN",
-    dataSource: "BhaashaBuddy (web)",
     hasLessons: true,
     dataFile: "data_punjabi.json",
     structureFile: "lessons_structure_punjabi.json",
@@ -5958,7 +5954,6 @@ const LANGUAGES = {
     subtitle: "ಕನ್ನಡ ಕಲಿಯಿರಿ",
     scriptFont: "'Noto Sans Kannada', sans-serif",
     speechLang: "kn-IN",
-    dataSource: "BhaashaBuddy (Marathi → Kannada)",
     hasLessons: true,
     dataFile: "data_kannada.json",
     structureFile: "lessons_structure_kannada.json",
@@ -5971,7 +5966,6 @@ const LANGUAGES = {
     subtitle: "தமிழ் கற்க",
     scriptFont: "'Noto Sans Tamil', sans-serif",
     speechLang: "ta-IN",
-    dataSource: "BhaashaBuddy (web)",
     hasLessons: true,
     dataFile: "data_tamil.json",
     structureFile: "lessons_structure_tamil.json",
@@ -5984,7 +5978,6 @@ const LANGUAGES = {
     subtitle: "मैथिली सीखू",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "hi-IN",
-    dataSource: "BhaashaBuddy (web)",
     hasLessons: true,
     dataFile: "data_maithili.json",
     structureFile: "lessons_structure_maithili.json",
@@ -5997,7 +5990,6 @@ const LANGUAGES = {
     subtitle: "हिन्दी सीखें",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "hi-IN",
-    dataSource: "BhaashaBuddy (curriculum aligned with Maithili track)",
     hasLessons: true,
     dataFile: "data_hindi.json",
     structureFile: "lessons_structure_hindi.json",
@@ -6010,7 +6002,6 @@ const LANGUAGES = {
     subtitle: "తెలుగు నేర్చుకోండి",
     scriptFont: "'Noto Sans Telugu', sans-serif",
     speechLang: "te-IN",
-    dataSource: "BhaashaBuddy (web)",
     hasLessons: true,
     dataFile: "data_telugu.json",
     structureFile: "lessons_structure_telugu.json",
@@ -6023,7 +6014,6 @@ const LANGUAGES = {
     subtitle: "বাংলা শিখুন",
     scriptFont: "'Noto Sans Bengali', sans-serif",
     speechLang: "bn-IN",
-    dataSource: "BhaashaBuddy (web)",
     hasLessons: true,
     dataFile: "data_bengali.json",
     structureFile: "lessons_structure_bengali.json",
@@ -6036,7 +6026,6 @@ const LANGUAGES = {
     subtitle: "অসমীয়া শিকক",
     scriptFont: "'Noto Sans Bengali', sans-serif",
     speechLang: "as-IN",
-    dataSource: "BhaashaBuddy (web)",
     hasLessons: true,
     dataFile: "data_assamese.json",
     structureFile: "lessons_structure_assamese.json",
@@ -6049,7 +6038,6 @@ const LANGUAGES = {
     subtitle: "മലയാളം പഠിക്കാം",
     scriptFont: "'Noto Sans Malayalam', sans-serif",
     speechLang: "ml-IN",
-    dataSource: "BhaashaBuddy (web)",
     hasLessons: true,
     dataFile: "data_malayalam.json",
     structureFile: "lessons_structure_malayalam.json",
@@ -6062,7 +6050,6 @@ const LANGUAGES = {
     subtitle: "नेपाली सिकौं",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "ne-NP",
-    dataSource: "BhaashaBuddy (web)",
     hasLessons: true,
     dataFile: "data_nepali.json",
     structureFile: "lessons_structure_nepali.json",
@@ -6075,7 +6062,6 @@ const LANGUAGES = {
     subtitle: "ꯃꯩꯇꯩ ꯂꯣꯟ",
     scriptFont: "'Noto Sans Meetei Mayek', sans-serif",
     speechLang: "mni-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_meitei.json",
     structureFile: "lessons_structure_meitei.json",
@@ -6088,7 +6074,6 @@ const LANGUAGES = {
     subtitle: "سنڌي سکو",
     scriptFont: "'Noto Nastaliq Urdu', 'Noto Sans Arabic', sans-serif",
     speechLang: "sd-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_sindhi.json",
     structureFile: "lessons_structure_sindhi.json",
@@ -6101,7 +6086,6 @@ const LANGUAGES = {
     subtitle: "ᱥᱟᱱᱛᱟᱲᱤ ᱚᱞ",
     scriptFont: "'Noto Sans Ol Chiki', sans-serif",
     speechLang: "sat-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_santali.json",
     structureFile: "lessons_structure_santali.json",
@@ -6114,7 +6098,6 @@ const LANGUAGES = {
     subtitle: "کٲشُر / कॉशुर सीखो",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "hi-IN",
-    dataSource: "BhaashaBuddy (phrasebooks & grammar refs)",
     hasLessons: true,
     dataFile: "data_kashmiri.json",
     structureFile: "lessons_structure_kashmiri.json",
@@ -6127,7 +6110,6 @@ const LANGUAGES = {
     subtitle: "ଓଡ଼ିଆ ଶିଖନ୍ତୁ",
     scriptFont: "'Noto Sans Oriya', sans-serif",
     speechLang: "or-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_odia.json",
     structureFile: "lessons_structure_odia.json",
@@ -6140,7 +6122,6 @@ const LANGUAGES = {
     subtitle: "डोगरी सिक्खो",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "hi-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_dogri.json",
     structureFile: "lessons_structure_dogri.json",
@@ -6153,7 +6134,6 @@ const LANGUAGES = {
     subtitle: "संस्कृतं पठत",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "sa-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_sanskrit.json",
     structureFile: "lessons_structure_sanskrit.json",
@@ -6166,7 +6146,6 @@ const LANGUAGES = {
     subtitle: "बर' सिख",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "hi-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_bodo.json",
     structureFile: "lessons_structure_bodo.json",
@@ -6179,7 +6158,6 @@ const LANGUAGES = {
     subtitle: "اردو سیکھیں",
     scriptFont: "'Noto Nastaliq Urdu', 'Noto Sans Arabic', sans-serif",
     speechLang: "ur-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_urdu.json",
     structureFile: "lessons_structure_urdu.json",
@@ -6192,7 +6170,6 @@ const LANGUAGES = {
     subtitle: "कोंकणी शिका",
     scriptFont: "'Noto Sans Devanagari', sans-serif",
     speechLang: "hi-IN",
-    dataSource: "BhaashaBuddy (web references)",
     hasLessons: true,
     dataFile: "data_konkani.json",
     structureFile: "lessons_structure_konkani.json",
@@ -7222,9 +7199,20 @@ function formatChapterFromData(ch) {
     let cols = heading.includes('vowel') ? 4 : 5;
     if (isBarakhadi) cols = 15;
     const compactClass = isBarakhadi ? ' alphabet-grid--barakhadi' : '';
+    const n = rows.length;
+    const isDevConsonantGrid = /consonant|व्यंजन/.test(heading) && !heading.includes('vowel') && !isBarakhadi;
+    /** Full Devanagari consonant chart (36 letters): varga boundaries after ङ, ञ, ण, न, म, व, स, ह, ळ */
+    const DEVANAGARI_36_VARGA_END = [4, 9, 14, 19, 24, 28, 31, 32, 33];
+    /** When logical columns > 4, insert a full-width rule after each complete logical row so narrow layouts stay readable. */
+    const shouldInsertAlphabetRowBreak = (i) => {
+      if (i >= n - 1) return false;
+      if (cols <= 4) return false;
+      if (isDevConsonantGrid && n === 36) return DEVANAGARI_36_VARGA_END.includes(i);
+      return (i + 1) % cols === 0;
+    };
     let h = '<h3 class="busuu-section-heading">' + escape(tbl.heading) + '</h3>';
     h += '<div class="alphabet-grid' + compactClass + '" style="--grid-cols:' + cols + '">';
-    rows.forEach(row => {
+    rows.forEach((row, i) => {
       const letter = row[0] || '';
       const roman = row[1] || '';
       const textToSpeak = (roman || letter).trim();
@@ -7235,6 +7223,9 @@ function formatChapterFromData(ch) {
       h += '<span class="alphabet-line"></span>';
       h += '<button type="button" class="alphabet-audio-btn"' + dataSpeak + ' onclick="var t=this.getAttribute(\'data-speak\');if(t)speakLessonPhrase(t)" title="Listen" aria-label="Play audio"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg></button>';
       h += '</div>';
+      if (shouldInsertAlphabetRowBreak(i)) {
+        h += '<div class="alphabet-row-break" aria-hidden="true"></div>';
+      }
     });
     h += '</div>';
     return h;
@@ -7442,14 +7433,25 @@ function getChapterDisplayNumber(chapterId) {
   return chapterId;
 }
 
-/** Lesson title from chapter data (data_odia.json uses `url`; other langs may use `title`). */
+/** Readable title from a lesson URL path (never show the full URL as the title). */
+function titleFromLessonUrl(u) {
+  if (u == null || String(u).trim() === '') return '';
+  try {
+    const path = new URL(String(u)).pathname;
+    const seg = path.split('/').filter(Boolean).pop() || '';
+    const decoded = decodeURIComponent(seg).replace(/-/g, ' ').trim();
+    return decoded || '';
+  } catch {
+    return '';
+  }
+}
+
+/** Lesson title from chapter data (`title`, else last path segment of `url`). */
 function getChapterTitle(ch) {
   if (!ch) return '';
   const t = ch.title;
   if (t != null && String(t).trim() !== '') return String(t).trim();
-  const u = ch.url;
-  if (u != null && String(u).trim() !== '') return String(u).trim();
-  return '';
+  return titleFromLessonUrl(ch.url);
 }
 
 function openChapter(chapterId) {
@@ -7463,9 +7465,6 @@ function openChapter(chapterId) {
   document.getElementById('chapter-detail-id').textContent = getChapterDisplayNumber(chapterId);
   document.getElementById('chapter-detail-title').textContent = getChapterTitle(ch);
   document.getElementById('chapter-detail-body').innerHTML = formattedContent;
-  const linkEl = document.getElementById('chapter-detail-link');
-  linkEl.href = ch.url || '#';
-  linkEl.style.display = ch.url ? 'block' : 'none';
 
   const saveBtn = document.getElementById('chapter-save-btn');
   const saveBtnBottom = document.getElementById('chapter-save-btn-bottom');
@@ -7493,7 +7492,7 @@ function saveLessonInline(chapterId) {
     savedLessons = savedLessons.filter(s => s.id !== chapterId);
     showToast('Removed from saved');
   } else {
-    savedLessons.push({ id: chapterId, title: getChapterTitle(ch), url: ch.url || '' });
+    savedLessons.push({ id: chapterId, title: getChapterTitle(ch) });
     showToast('Lesson saved!');
   }
   saveSavedLessons();
