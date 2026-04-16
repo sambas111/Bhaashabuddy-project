@@ -364,6 +364,118 @@ body {
   gap: 8px;
   border-top: 1px solid var(--border);
 }
+/* Long categories: Set 1 / Set 2 / … (rows expand directly under each Set header) */
+.phrase-sets-wrap {
+  display: flex;
+  flex-direction: column;
+}
+.phrase-set-block {
+  border-bottom: 1px solid var(--border);
+}
+.phrase-set-block:last-child {
+  border-bottom: none;
+}
+.phrase-set-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 0;
+  transition: background 0.15s;
+  background: var(--bg);
+}
+.phrase-set-header-toggle {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 4px 6px 4px 0;
+  margin: -4px 0;
+}
+.phrase-set-header-toggle:hover {
+  background: var(--primary-light);
+}
+.phrase-set-save-btn {
+  flex-shrink: 0;
+}
+.saved-group-header .phrase-set-header-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  min-width: 0;
+}
+.saved-set-count {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+/* Remove all: same footprint as lesson row — do not set font/padding here */
+.saved-group-remove-all {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+/* Saved tab set rows: keep title/subtitle off the card edges (like .cat-row-header) */
+#saved-list-wrap .saved-group-row .saved-group-header.phrase-set-header {
+  padding: 12px 16px;
+  box-sizing: border-box;
+}
+#saved-list-wrap .saved-group-row .saved-group-toggle.phrase-set-header-toggle {
+  padding: 6px 10px 6px 12px;
+  margin: 0;
+}
+
+/* Saved tab text buttons: same as .phrase-save-btn (Saved Lessons "Remove") */
+#saved-list-wrap .phrase-save-btn.saved.saved-screen-btn {
+  padding: 8px 16px !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  line-height: 1.25 !important;
+  border-radius: 20px !important;
+  box-shadow: none !important;
+  border: none !important;
+  transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+}
+#saved-list-wrap .phrase-set-header .cat-expand {
+  border-radius: 999px !important;
+  width: 34px !important;
+  height: 34px !important;
+  font-size: 18px !important;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+#saved-list-wrap .saved-group-toggle:hover .cat-expand {
+  transform: scale(1.06);
+}
+#saved-list-wrap .phrase-speaker-btn {
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+#saved-list-wrap .phrase-speaker-btn:hover {
+  transform: scale(1.06);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+}
+
+.saved-group-phrases {
+  border-top: 1px solid var(--border);
+}
+.phrase-set-title {
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--text);
+}
+.phrase-set-rows {
+  padding: 0 0 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border-top: 1px solid var(--border);
+  margin-top: 0;
+  padding-top: 10px;
+}
 .phrase-row {
   background: var(--bg);
   border-radius: 10px;
