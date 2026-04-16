@@ -77,6 +77,31 @@ function getDICTIONARY_BY_SECTION() {
 }
 function getScriptFont() { return getLang().scriptFont; }
 
+/** Split long phrase/word lists into Set 1, Set 2, … (30 items per set). */
+const PHRASE_WORD_CHUNK_SIZE = 30;
+
+/** Remember category/set when saving so "Saved" can group reliably (Unicode-safe). */
+function withSaveBb(p, bb) {
+  const o = Object.assign({}, p);
+  o._bb = bb;
+  return o;
+}
+
+function resolveDictMetaForWord(d) {
+  const bySec = getDICTIONARY_BY_SECTION();
+  if (bySec) {
+    for (const secId of Object.keys(bySec)) {
+      const words = bySec[secId].words || [];
+      const wi = words.findIndex(x => savedMrMatch(x.mr, d.mr));
+      if (wi >= 0) return { t: 'd', sec: secId, wi };
+    }
+  }
+  const flat = getDICTIONARY();
+  const fi = flat.findIndex(x => savedMrMatch(x.mr, d.mr));
+  if (fi >= 0) return { t: 'f', i: fi };
+  return null;
+}
+
 function selectLanguage(lang) {
   selectedLanguage = lang;
   localStorage.setItem('selectedLanguage', lang);
@@ -89,6 +114,9 @@ function selectLanguage(lang) {
   initLanguageUI();
   expandedCategory = null;
   expandedDictSection = null;
+  expandedPhraseSubsetIndex = null;
+  expandedDictSubsetIndex = null;
+  expandedSavedGroupKey = null;
   renderCategories();
   if (currentTab === 'dictionary') renderDict('');
   if (currentTab === 'saved') renderSaved();
@@ -96,6 +124,7 @@ function selectLanguage(lang) {
   chaptersLoadedForLang = '';
   expandedMajorLesson = null;
   expandedChapter = null;
+  currentPhraseContext = null;
 }
 
 function changeLanguage() {
@@ -129,6 +158,20 @@ function toggleCategory(catId) {
     expandedCategory = null;
   } else {
     expandedCategory = catId;
+    const pdata = getPHRASES()[catId];
+    if (pdata && pdata.phrases && pdata.phrases.length > PHRASE_WORD_CHUNK_SIZE) {
+      expandedPhraseSubsetIndex = 0;
+    }
+  }
+  renderCategories();
+}
+
+function togglePhraseSubset(catId, setIndex) {
+  if (expandedCategory !== catId) return;
+  if (expandedPhraseSubsetIndex === setIndex) {
+    expandedPhraseSubsetIndex = null;
+  } else {
+    expandedPhraseSubsetIndex = setIndex;
   }
   renderCategories();
 }
@@ -146,16 +189,44 @@ function speakPhrase(cat, idx) {
 
 function savePhraseInline(cat, idx) {
   const p = getPHRASES()[cat].phrases[idx];
-  const isSaved = savedPhrases.some(s => s.mr === p.mr);
+  const isSaved = savedPhrases.some(s => savedMrMatch(s.mr, p.mr));
   if (isSaved) {
-    savedPhrases = savedPhrases.filter(s => s.mr !== p.mr);
+    savedPhrases = savedPhrases.filter(s => !savedMrMatch(s.mr, p.mr));
     showToast('Removed from saved');
   } else {
-    savedPhrases.push(p);
+    savedPhrases.push(withSaveBb(p, { t: 'p', c: cat, s: Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) }));
     showToast('Phrase saved!');
   }
   saveSavedPhrases();
   renderCategories();
+  if (currentTab === 'saved') renderSaved();
+}
+
+function savePhraseSubset(catId, setIndex) {
+  const data = getPHRASES()[catId];
+  if (!data || !data.phrases) return;
+  const start = setIndex * PHRASE_WORD_CHUNK_SIZE;
+  const slice = data.phrases.slice(start, start + PHRASE_WORD_CHUNK_SIZE);
+  if (!slice.length) return;
+  const allSaved = slice.every(p => savedPhrases.some(s => savedMrMatch(s.mr, p.mr)));
+  if (allSaved) {
+    slice.forEach(p => {
+      savedPhrases = savedPhrases.filter(s => !savedMrMatch(s.mr, p.mr));
+    });
+    showToast('Set removed from saved');
+  } else {
+    let added = 0;
+    slice.forEach(p => {
+      if (!savedPhrases.some(s => savedMrMatch(s.mr, p.mr))) {
+        savedPhrases.push(withSaveBb(p, { t: 'p', c: catId, s: setIndex }));
+        added++;
+      }
+    });
+    showToast(added ? `Saved ${added} phrase${added === 1 ? '' : 's'}` : 'Already saved');
+  }
+  saveSavedPhrases();
+  renderCategories();
+  if (currentTab === 'saved') renderSaved();
 }
 
 function speakSearchPhrase(ri) {
@@ -173,35 +244,37 @@ function saveSearchPhraseInline(ri) {
   const r = lastSearchResults[ri];
   if (!r || !r.phrase) return;
   const p = r.phrase;
-  const isSaved = savedPhrases.some(s => s.mr === p.mr);
+  const isSaved = savedPhrases.some(s => savedMrMatch(s.mr, p.mr));
   if (isSaved) {
-    savedPhrases = savedPhrases.filter(s => s.mr !== p.mr);
+    savedPhrases = savedPhrases.filter(s => !savedMrMatch(s.mr, p.mr));
     showToast('Removed from saved');
   } else {
-    savedPhrases.push(p);
+    let toPush = p;
+    if (!r.dict) {
+      toPush = withSaveBb(p, { t: 'p', c: r.cat, s: Math.floor(r.idx / PHRASE_WORD_CHUNK_SIZE) });
+    } else {
+      const bb = dictWordToSaveBb(p);
+      if (bb) toPush = withSaveBb(p, bb);
+    }
+    savedPhrases.push(toPush);
     showToast('Phrase saved!');
   }
   saveSavedPhrases();
   handleHomeSearch(document.getElementById('home-search').value);
+  if (currentTab === 'saved') renderSaved();
 }
 
 function renderCategories() {
   const phrases = getPHRASES();
   const list = document.getElementById('cat-grid');
   if (!list) return;
-  list.innerHTML = Object.entries(phrases).map(([id, data]) => {
-    const baseId = id.split('_')[0]; // support Set 1/2/3 ids like greetings_1
-    const iconUrl = CAT_IMAGES[id] || CAT_IMAGES[baseId] || '';
-    const fallback = CAT_INITIALS[id] || CAT_INITIALS[baseId] || id.slice(0, 2);
-    const iconHtml = iconUrl
-      ? `<img class="cat-icon-img" src="${iconUrl}" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" /><span class="cat-icon cat-icon-fallback" style="display:none" data-initial="${fallback}"></span>`
-      : `<span class="cat-icon" data-initial="${fallback}"></span>`;
-    const isExpanded = expandedCategory === id;
-    const phrasesHtml = isExpanded ? data.phrases.map((p, i) => {
-      const isSaved = savedPhrases.some(s => s.mr === p.mr);
-      const speakerSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
-      const bookmarkSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
-      return `
+  const speakerSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
+  const bookmarkSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
+
+  const phraseRowsHtml = (id, phraseArr, indexStart) => phraseArr.map((p, j) => {
+    const i = indexStart + j;
+    const isSaved = savedPhrases.some(s => savedMrMatch(s.mr, p.mr));
+    return `
       <div class="phrase-row phrase-row-flat">
         <div class="phrase-row-text">
           <span class="phrase-en">${p.en}</span>
@@ -213,8 +286,46 @@ function renderCategories() {
           <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakPhrase('${id}', ${i})" title="Pronounce">${speakerSvg}</button>
         </div>
       </div>
-      `;
-    }).join('') : '';
+    `;
+  }).join('');
+
+  list.innerHTML = Object.entries(phrases).map(([id, data]) => {
+    const baseId = id.split('_')[0]; // support Set 1/2/3 ids like greetings_1
+    const iconUrl = CAT_IMAGES[id] || CAT_IMAGES[baseId] || '';
+    const fallback = CAT_INITIALS[id] || CAT_INITIALS[baseId] || id.slice(0, 2);
+    const iconHtml = iconUrl
+      ? `<img class="cat-icon-img" src="${iconUrl}" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" /><span class="cat-icon cat-icon-fallback" style="display:none" data-initial="${fallback}"></span>`
+      : `<span class="cat-icon" data-initial="${fallback}"></span>`;
+    const isExpanded = expandedCategory === id;
+    const plist = data.phrases || [];
+    const needsSets = plist.length > PHRASE_WORD_CHUNK_SIZE;
+    let phrasesHtml = '';
+    if (isExpanded) {
+      if (!needsSets) {
+        phrasesHtml = phraseRowsHtml(id, plist, 0);
+      } else {
+        const numSets = Math.ceil(plist.length / PHRASE_WORD_CHUNK_SIZE);
+        let setBlocks = '';
+        for (let s = 0; s < numSets; s++) {
+          const isOpen = expandedPhraseSubsetIndex === s;
+          const start = s * PHRASE_WORD_CHUNK_SIZE;
+          const slice = plist.slice(start, start + PHRASE_WORD_CHUNK_SIZE);
+          const setAllSaved = slice.length > 0 && slice.every(p => savedPhrases.some(x => savedMrMatch(x.mr, p.mr)));
+          setBlocks += `
+            <div class="phrase-set-block">
+              <div class="phrase-set-header">
+                <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); togglePhraseSubset('${id}', ${s})">
+                  <span class="phrase-set-title">Set ${s + 1}</span>
+                  <span class="cat-expand">${isOpen ? '−' : '+'}</span>
+                </div>
+                <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); savePhraseSubset('${id}', ${s})" title="Save all in this set">${bookmarkSvg}</button>
+              </div>
+              ${isOpen ? `<div class="phrase-set-rows">${phraseRowsHtml(id, slice, start)}</div>` : ''}
+            </div>`;
+        }
+        phrasesHtml = `<div class="phrase-sets-wrap">${setBlocks}</div>`;
+      }
+    }
     return `
     <div class="cat-row">
       <div class="cat-row-header" onclick="toggleCategory('${id}')">
@@ -6095,8 +6206,12 @@ let currentTab = 'home';
 let currentCategory = null;
 let previousScreen = 'home';
 let expandedCategory = null;
+let expandedPhraseSubsetIndex = null;
 let expandedDictSection = null;
+let expandedDictSubsetIndex = null;
+let expandedSavedGroupKey = null;
 let lastSearchResults = [];
+let currentPhraseContext = null;
 let savedPhrases = [];
 let currentPhrase = null;
 let savedLessons = [];
@@ -6125,6 +6240,7 @@ function saveSavedLessons() {
 function openPhrase(cat, idx) {
   const p = getPHRASES()[cat].phrases[idx];
   currentPhrase = p;
+  currentPhraseContext = { cat, idx };
   previousScreen = currentTab === 'home' ? 'home' : currentTab;
 
   document.getElementById('result-input-display').textContent = p.en;
@@ -6132,7 +6248,7 @@ function openPhrase(cat, idx) {
   document.getElementById('result-roman').textContent = p.roman;
 
   const saveBtn = document.getElementById('save-btn');
-  const isSaved = savedPhrases.some(s => s.mr === p.mr);
+  const isSaved = savedPhrases.some(s => savedMrMatch(s.mr, p.mr));
   saveBtn.className = 'save-btn phrase-save-btn phrase-save-btn-icon' + (isSaved ? ' saved' : '');
 
   // Similar phrases from same category
@@ -6203,7 +6319,7 @@ function handleHomeSearch(val) {
   const speakerSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
   const bookmarkSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
   resultsList.innerHTML = lastSearchResults.map((r, ri) => {
-    const isSaved = savedPhrases.some(s => s.mr === r.phrase.mr);
+    const isSaved = savedPhrases.some(s => savedMrMatch(s.mr, r.phrase.mr));
     return `
     <div class="phrase-row phrase-row-flat">
       <div class="phrase-row-text">
@@ -6222,6 +6338,7 @@ function handleHomeSearch(val) {
 
 // ===== DICTIONARY =====
 let lastDictItems = [];
+let lastDictMeta = [];
 
 function speakDictItem(i) {
   const d = lastDictItems[i];
@@ -6236,23 +6353,78 @@ function speakDictItem(i) {
 
 function saveDictItem(i) {
   const d = lastDictItems[i];
+  const m = lastDictMeta[i];
   if (!d) return;
-  const isSaved = savedPhrases.some(s => s.mr === d.mr);
+  let bb = null;
+  if (m) {
+    if (m.t === 'd') bb = { t: 'd', sec: m.sec, s: Math.floor(m.wi / PHRASE_WORD_CHUNK_SIZE) };
+    else if (m.t === 'f') bb = { t: 'f', s: Math.floor(m.i / PHRASE_WORD_CHUNK_SIZE) };
+  }
+  const isSaved = savedPhrases.some(s => savedMrMatch(s.mr, d.mr));
   if (isSaved) {
-    savedPhrases = savedPhrases.filter(s => s.mr !== d.mr);
+    savedPhrases = savedPhrases.filter(s => !savedMrMatch(s.mr, d.mr));
     showToast('Removed from saved');
   } else {
-    savedPhrases.push(d);
+    savedPhrases.push(bb ? withSaveBb(d, bb) : d);
     showToast('Phrase saved!');
   }
   saveSavedPhrases();
   renderDict(document.getElementById('dict-search').value);
+  if (currentTab === 'saved') renderSaved();
 }
 
 function toggleDictSection(secId) {
-  if (expandedDictSection === secId) expandedDictSection = null;
-  else expandedDictSection = secId;
+  if (expandedDictSection === secId) {
+    expandedDictSection = null;
+  } else {
+    expandedDictSection = secId;
+    const bySec = getDICTIONARY_BY_SECTION();
+    const sec = bySec && bySec[secId];
+    const w = sec && sec.words;
+    if (w && w.length > PHRASE_WORD_CHUNK_SIZE) {
+      expandedDictSubsetIndex = 0;
+    }
+  }
   renderDict(document.getElementById('dict-search').value);
+}
+
+function toggleDictSubset(secId, setIndex) {
+  if (expandedDictSection !== secId) return;
+  if (expandedDictSubsetIndex === setIndex) {
+    expandedDictSubsetIndex = null;
+  } else {
+    expandedDictSubsetIndex = setIndex;
+  }
+  renderDict(document.getElementById('dict-search').value);
+}
+
+function saveDictWordSubset(secId, setIndex) {
+  const bySec = getDICTIONARY_BY_SECTION();
+  const sec = bySec && bySec[secId];
+  const words = sec && sec.words;
+  if (!words || !words.length) return;
+  const start = setIndex * PHRASE_WORD_CHUNK_SIZE;
+  const slice = words.slice(start, start + PHRASE_WORD_CHUNK_SIZE);
+  if (!slice.length) return;
+  const allSaved = slice.every(p => savedPhrases.some(s => savedMrMatch(s.mr, p.mr)));
+  if (allSaved) {
+    slice.forEach(p => {
+      savedPhrases = savedPhrases.filter(s => !savedMrMatch(s.mr, p.mr));
+    });
+    showToast('Set removed from saved');
+  } else {
+    let added = 0;
+    slice.forEach(p => {
+      if (!savedPhrases.some(s => savedMrMatch(s.mr, p.mr))) {
+        savedPhrases.push(withSaveBb(p, { t: 'd', sec: secId, s: setIndex }));
+        added++;
+      }
+    });
+    showToast(added ? `Saved ${added} word${added === 1 ? '' : 's'}` : 'Already saved');
+  }
+  saveSavedPhrases();
+  renderDict(document.getElementById('dict-search').value);
+  if (currentTab === 'saved') renderSaved();
 }
 
 function renderDict(query) {
@@ -6263,7 +6435,7 @@ function renderDict(query) {
   const bookmarkSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
 
   const renderWordRow = (d, i) => {
-    const isSaved = savedPhrases.some(s => s.mr === d.mr);
+    const isSaved = savedPhrases.some(s => savedMrMatch(s.mr, d.mr));
     return `<div class="phrase-row phrase-row-flat dict-row">
       <div class="phrase-row-text">
         <span class="phrase-en">${d.en}</span>
@@ -6279,13 +6451,14 @@ function renderDict(query) {
 
   if (q) {
     lastDictItems = getDICTIONARY().filter(d => d.en.toLowerCase().includes(q) || d.roman.toLowerCase().includes(q));
+    lastDictMeta = lastDictItems.map(d => resolveDictMetaForWord(d));
     list.innerHTML = lastDictItems.map((d, i) => renderWordRow(d, i)).join('');
     return;
   }
 
   if (bySection) {
     lastDictItems = [];
-    let globalIdx = 0;
+    lastDictMeta = [];
     list.innerHTML = Object.entries(bySection).map(([secId, secData]) => {
       if (!secData || !secData.words || !secData.words.length) return '';
       const words = secData.words;
@@ -6296,11 +6469,48 @@ function renderDict(query) {
       const iconHtml = iconUrl
         ? `<img class="cat-icon-img" src="${iconUrl}" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" /><span class="cat-icon cat-icon-fallback" style="display:none" data-initial="${fallback}"></span>`
         : `<span class="cat-icon" data-initial="${fallback}"></span>`;
-      const rowsHtml = isExpanded ? words.map((d, wi) => {
-        lastDictItems.push(d);
-        const idx = lastDictItems.length - 1;
-        return renderWordRow(d, idx);
-      }).join('') : '';
+      const needsWordSets = words.length > PHRASE_WORD_CHUNK_SIZE;
+      let rowsHtml = '';
+      if (isExpanded) {
+        if (!needsWordSets) {
+          rowsHtml = words.map((d, wi) => {
+            lastDictItems.push(d);
+            lastDictMeta.push({ t: 'd', sec: secId, wi });
+            const idx = lastDictItems.length - 1;
+            return renderWordRow(d, idx);
+          }).join('');
+        } else {
+          const numSets = Math.ceil(words.length / PHRASE_WORD_CHUNK_SIZE);
+          let setBlocks = '';
+          for (let s = 0; s < numSets; s++) {
+            const isOpen = expandedDictSubsetIndex === s;
+            const start = s * PHRASE_WORD_CHUNK_SIZE;
+            const slice = words.slice(start, start + PHRASE_WORD_CHUNK_SIZE);
+            const setAllSaved = slice.length > 0 && slice.every(p => savedPhrases.some(x => savedMrMatch(x.mr, p.mr)));
+            const rowsInner = isOpen
+              ? slice.map((d, localIdx) => {
+                const wi = start + localIdx;
+                lastDictItems.push(d);
+                lastDictMeta.push({ t: 'd', sec: secId, wi });
+                const idx = lastDictItems.length - 1;
+                return renderWordRow(d, idx);
+              }).join('')
+              : '';
+            setBlocks += `
+              <div class="phrase-set-block">
+                <div class="phrase-set-header">
+                  <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); toggleDictSubset('${secId}', ${s})">
+                    <span class="phrase-set-title">Set ${s + 1}</span>
+                    <span class="cat-expand">${isOpen ? '−' : '+'}</span>
+                  </div>
+                  <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveDictWordSubset('${secId}', ${s})" title="Save all in this set">${bookmarkSvg}</button>
+                </div>
+                ${isOpen ? `<div class="phrase-set-rows">${rowsInner}</div>` : ''}
+              </div>`;
+          }
+          rowsHtml = `<div class="phrase-sets-wrap">${setBlocks}</div>`;
+        }
+      }
       return `<div class="cat-row">
         <div class="cat-row-header" onclick="toggleDictSection('${secId}')">
           <span class="cat-icon-wrap">${iconHtml}</span>
@@ -6317,6 +6527,7 @@ function renderDict(query) {
   }
 
   lastDictItems = getDICTIONARY();
+  lastDictMeta = lastDictItems.map((_, i) => ({ t: 'f', i }));
   list.innerHTML = lastDictItems.map((d, i) => renderWordRow(d, i)).join('');
 }
 
@@ -6325,17 +6536,26 @@ function handleDictSearch(val) { renderDict(val); }
 // ===== SAVED =====
 function savePhrase() {
   if (!currentPhrase) return;
-  const isSaved = savedPhrases.some(s => s.mr === currentPhrase.mr);
+  const isSaved = savedPhrases.some(s => savedMrMatch(s.mr, currentPhrase.mr));
   if (isSaved) {
-    savedPhrases = savedPhrases.filter(s => s.mr !== currentPhrase.mr);
+    savedPhrases = savedPhrases.filter(s => !savedMrMatch(s.mr, currentPhrase.mr));
     showToast('Removed from saved');
     document.getElementById('save-btn').className = 'save-btn phrase-save-btn phrase-save-btn-icon';
   } else {
-    savedPhrases.push(currentPhrase);
+    let toPush = currentPhrase;
+    if (currentPhraseContext) {
+      toPush = withSaveBb(currentPhrase, {
+        t: 'p',
+        c: currentPhraseContext.cat,
+        s: Math.floor(currentPhraseContext.idx / PHRASE_WORD_CHUNK_SIZE)
+      });
+    }
+    savedPhrases.push(toPush);
     showToast('Phrase saved!');
     document.getElementById('save-btn').className = 'save-btn phrase-save-btn phrase-save-btn-icon saved';
   }
   saveSavedPhrases();
+  if (currentTab === 'saved') renderSaved();
 }
 
 function speakSavedPhrase(i) {
@@ -6356,6 +6576,256 @@ function removeSavedPhrase(i) {
   showToast('Removed from saved');
 }
 
+/** Avoid breaking HTML / template literals when phrase text contains `<`, `&`, backticks, etc. */
+function escapeHtml(s) {
+  if (s == null || s === undefined) return '';
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function normSavedMr(m) {
+  if (m == null || m === undefined) return '';
+  try {
+    let s = String(m).trim();
+    if (typeof s.normalize === 'function') s = s.normalize('NFC');
+    return s;
+  } catch (e) {
+    return '';
+  }
+}
+
+function savedMrMatch(a, b) {
+  return normSavedMr(a) === normSavedMr(b);
+}
+
+function dictWordToSaveBb(p) {
+  const m = resolveDictMetaForWord(p);
+  if (!m) return null;
+  if (m.t === 'd') return { t: 'd', sec: m.sec, s: Math.floor(m.wi / PHRASE_WORD_CHUNK_SIZE) };
+  return { t: 'f', s: Math.floor(m.i / PHRASE_WORD_CHUNK_SIZE) };
+}
+
+function buildSavedPhraseGroups() {
+  const phrasesData = getPHRASES();
+  const catOrder = Object.keys(phrasesData);
+  const bySec = getDICTIONARY_BY_SECTION();
+  const secOrder = bySec ? Object.keys(bySec) : [];
+  const flatDict = getDICTIONARY();
+  const map = new Map();
+
+  savedPhrases.forEach((p, savedIndex) => {
+    let key = null;
+    let label = '';
+    let sortKey = '';
+
+    const bb = p._bb;
+    if (bb && bb.t === 'p' && bb.c != null && bb.s != null) {
+      const pdata = phrasesData[bb.c];
+      if (pdata && pdata.phrases) {
+        key = 'p:' + bb.c + ':' + bb.s;
+        const arr = pdata.phrases;
+        const big = arr.length > PHRASE_WORD_CHUNK_SIZE;
+        label = big ? `${pdata.name} · Set ${bb.s + 1}` : pdata.name;
+        sortKey = 'a:' + String(catOrder.indexOf(bb.c)).padStart(4, '0') + ':' + String(bb.s).padStart(4, '0');
+      }
+    } else if (bb && bb.t === 'd' && bb.sec != null && bb.s != null && bySec && bySec[bb.sec]) {
+      const secData = bySec[bb.sec];
+      const words = secData.words || [];
+      key = 'd:' + bb.sec + ':' + bb.s;
+      const big = words.length > PHRASE_WORD_CHUNK_SIZE;
+      const nm = secData.name || bb.sec;
+      label = big ? `${nm} · Set ${bb.s + 1}` : nm;
+      sortKey = 'b:' + String(secOrder.indexOf(bb.sec)).padStart(4, '0') + ':' + String(bb.s).padStart(4, '0');
+    } else if (bb && bb.t === 'f' && bb.s != null) {
+      const fd = flatDict || [];
+      key = 'w:flat:' + bb.s;
+      const big = fd.length > PHRASE_WORD_CHUNK_SIZE;
+      label = big ? `Words · Set ${bb.s + 1}` : 'Words';
+      sortKey = 'c:' + String(bb.s).padStart(4, '0');
+    }
+
+    if (!key) {
+    for (const catId of catOrder) {
+      const data = phrasesData[catId];
+      const arr = data.phrases || [];
+      const idx = arr.findIndex(x => savedMrMatch(x.mr, p.mr));
+      if (idx >= 0) {
+        const big = arr.length > PHRASE_WORD_CHUNK_SIZE;
+        const setIdx = big ? Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) : 0;
+        key = 'p:' + catId + ':' + setIdx;
+        label = big ? `${data.name} · Set ${setIdx + 1}` : data.name;
+        sortKey = 'a:' + String(catOrder.indexOf(catId)).padStart(4, '0') + ':' + String(setIdx).padStart(4, '0');
+        break;
+      }
+    }
+    }
+
+    if (!key && bySec) {
+      for (const secId of secOrder) {
+        const secData = bySec[secId];
+        const words = secData.words || [];
+        const idx = words.findIndex(x => savedMrMatch(x.mr, p.mr));
+        if (idx >= 0) {
+          const big = words.length > PHRASE_WORD_CHUNK_SIZE;
+          const setIdx = big ? Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) : 0;
+          key = 'd:' + secId + ':' + setIdx;
+          const nm = secData.name || secId;
+          label = big ? `${nm} · Set ${setIdx + 1}` : nm;
+          sortKey = 'b:' + String(secOrder.indexOf(secId)).padStart(4, '0') + ':' + String(setIdx).padStart(4, '0');
+          break;
+        }
+      }
+    }
+
+    if (!key && flatDict && flatDict.length) {
+      const idx = flatDict.findIndex(x => savedMrMatch(x.mr, p.mr));
+      if (idx >= 0) {
+        const big = flatDict.length > PHRASE_WORD_CHUNK_SIZE;
+        const setIdx = big ? Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) : 0;
+        key = 'w:flat:' + setIdx;
+        label = big ? `Words · Set ${setIdx + 1}` : 'Words';
+        sortKey = 'c:' + String(setIdx).padStart(4, '0');
+      }
+    }
+
+    if (!key) {
+      key = 'o:misc';
+      label = 'Other saves';
+      sortKey = 'z:0000';
+    }
+
+    if (!map.has(key)) {
+      map.set(key, { key, label, sortKey, items: [] });
+    }
+    map.get(key).items.push({ p, savedIndex });
+  });
+
+  const list = Array.from(map.values());
+  list.sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+  return list;
+}
+
+/** For Saved tab: phrase vs word buckets (sections). */
+function classifySavedItemKind(p) {
+  if (p._bb) {
+    if (p._bb.t === 'p') return 'phrase';
+    if (p._bb.t === 'd' || p._bb.t === 'f') return 'word';
+  }
+  const phrasesData = getPHRASES();
+  for (const catId of Object.keys(phrasesData)) {
+    const arr = phrasesData[catId].phrases || [];
+    if (arr.some(x => savedMrMatch(x.mr, p.mr))) return 'phrase';
+  }
+  const bySec = getDICTIONARY_BY_SECTION();
+  if (bySec) {
+    for (const secId of Object.keys(bySec)) {
+      const words = bySec[secId].words || [];
+      if (words.some(x => savedMrMatch(x.mr, p.mr))) return 'word';
+    }
+  }
+  const flat = getDICTIONARY();
+  if (flat && flat.some(x => savedMrMatch(x.mr, p.mr))) return 'word';
+  return 'phrase';
+}
+
+function partitionSavedGroups(groups) {
+  const phraseGroups = [];
+  const wordGroups = [];
+  for (const g of groups) {
+    if (g.key.startsWith('p:')) {
+      phraseGroups.push(g);
+    } else if (g.key.startsWith('d:') || g.key.startsWith('w:flat:')) {
+      wordGroups.push(g);
+    } else if (g.key === 'o:misc') {
+      const phraseItems = [];
+      const wordItems = [];
+      for (const item of g.items) {
+        if (classifySavedItemKind(item.p) === 'word') wordItems.push(item);
+        else phraseItems.push(item);
+      }
+      if (phraseItems.length) {
+        phraseGroups.push({
+          key: 'o:misc-p',
+          label: 'Other phrases',
+          sortKey: 'z:p',
+          items: phraseItems
+        });
+      }
+      if (wordItems.length) {
+        wordGroups.push({
+          key: 'o:misc-w',
+          label: 'Other words',
+          sortKey: 'z:w',
+          items: wordItems
+        });
+      }
+    }
+  }
+  phraseGroups.sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+  wordGroups.sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+  return { phraseGroups, wordGroups };
+}
+
+function getPartitionedSavedGroups() {
+  let groups = [];
+  try {
+    groups = buildSavedPhraseGroups();
+  } catch (err) {
+    console.error('buildSavedPhraseGroups', err);
+    groups = [{ key: 'o:misc', label: 'Other saves', sortKey: 'z:', items: savedPhrases.map((p, savedIndex) => ({ p, savedIndex })) }];
+  }
+  return partitionSavedGroups(groups);
+}
+
+function findSavedGroupByKey(key) {
+  const { phraseGroups, wordGroups } = getPartitionedSavedGroups();
+  return phraseGroups.find(g => g.key === key) || wordGroups.find(g => g.key === key);
+}
+
+function toggleSavedGroup(key) {
+  if (expandedSavedGroupKey === key) {
+    expandedSavedGroupKey = null;
+  } else {
+    expandedSavedGroupKey = key;
+  }
+  renderSaved();
+}
+
+function handleSavedListClick(e) {
+  const toggleEl = e.target.closest('.saved-group-toggle');
+  if (toggleEl) {
+    const k = toggleEl.getAttribute('data-group-key');
+    if (k != null && k !== '') toggleSavedGroup(decodeURIComponent(k));
+    return;
+  }
+  const removeBtn = e.target.closest('.saved-group-remove-all-btn');
+  if (removeBtn) {
+    const k = removeBtn.getAttribute('data-group-key');
+    if (k != null && k !== '') removeSavedGroup(decodeURIComponent(k));
+  }
+}
+
+function initSavedListDelegation() {
+  const wrap = document.getElementById('saved-list-wrap');
+  if (!wrap || wrap.dataset.savedDelegation === '1') return;
+  wrap.dataset.savedDelegation = '1';
+  wrap.addEventListener('click', handleSavedListClick);
+}
+
+function removeSavedGroup(key) {
+  const g = findSavedGroupByKey(key);
+  if (!g) return;
+  const mrs = new Set(g.items.map(x => x.p.mr));
+  savedPhrases = savedPhrases.filter(p => !mrs.has(p.mr));
+  saveSavedPhrases();
+  expandedSavedGroupKey = null;
+  renderSaved();
+  showToast('Removed from saved');
+}
+
 function removeSavedLesson(i) {
   savedLessons.splice(i, 1);
   saveSavedLessons();
@@ -6372,6 +6842,7 @@ async function openSavedLesson(chapterId) {
 
 function renderSaved() {
   const wrap = document.getElementById('saved-list-wrap');
+  if (!wrap) return;
   const hasPhrases = savedPhrases.length > 0;
   const hasLessons = savedLessons.length > 0;
   if (!hasPhrases && !hasLessons) {
@@ -6391,31 +6862,65 @@ function renderSaved() {
     html += savedLessons.map((l, i) => `
       <div class="phrase-row phrase-row-flat chapter-saved-row" onclick="openSavedLesson(${l.id})">
         <div class="phrase-row-text">
-          <span class="phrase-en">${l.title}</span>
+          <span class="phrase-en">${escapeHtml(l.title)}</span>
           <span class="phrase-roman" style="font-size:11px;color:var(--text-muted);">Lesson</span>
         </div>
         <div class="phrase-row-actions">
-          <button class="phrase-save-btn saved" onclick="event.stopPropagation(); removeSavedLesson(${i})">Remove</button>
+          <button type="button" class="phrase-save-btn saved saved-screen-btn" onclick="event.stopPropagation(); removeSavedLesson(${i})">Remove</button>
         </div>
       </div>`).join('');
     html += '</div>';
   }
   if (hasPhrases) {
-    html += '<div class="section-label">Saved Phrases</div>';
-    html += '<div class="phrase-list saved-list" style="display: flex; flex-direction: column; gap: 10px;">';
-    html += savedPhrases.map((p, i) => `
+    const { phraseGroups, wordGroups } = getPartitionedSavedGroups();
+    const allKeyed = [...phraseGroups, ...wordGroups];
+    if (expandedSavedGroupKey && !allKeyed.some(g => g.key === expandedSavedGroupKey)) {
+      expandedSavedGroupKey = null;
+    }
+
+    const savedGroupRowHtml = (g) => {
+      const isExpanded = expandedSavedGroupKey === g.key;
+      const keyEnc = encodeURIComponent(g.key);
+      const rows = g.items.map(({ p, savedIndex }) => `
       <div class="phrase-row phrase-row-flat">
         <div class="phrase-row-text">
-          <span class="phrase-en">${p.en}</span>
-          <span class="phrase-roman">${p.roman}</span>
-          <span class="phrase-mr" style="font-family:${getScriptFont()}">${p.mr}</span>
+          <span class="phrase-en">${escapeHtml(p.en)}</span>
+          <span class="phrase-roman">${escapeHtml(p.roman)}</span>
+          <span class="phrase-mr" style="font-family:${getScriptFont()}">${escapeHtml(p.mr)}</span>
         </div>
         <div class="phrase-row-actions">
-          <button class="phrase-save-btn saved" onclick="event.stopPropagation(); removeSavedPhrase(${i})">Remove</button>
-          <button class="phrase-speaker-btn" onclick="event.stopPropagation(); speakSavedPhrase(${i})" title="Pronounce">${speakerSvg}</button>
+          <button type="button" class="phrase-save-btn saved saved-screen-btn" onclick="event.stopPropagation(); removeSavedPhrase(${savedIndex})">Remove</button>
+          <button type="button" class="phrase-speaker-btn" onclick="event.stopPropagation(); speakSavedPhrase(${savedIndex})" title="Pronounce">${speakerSvg}</button>
         </div>
       </div>`).join('');
-    html += '</div>';
+      return `
+      <div class="cat-row saved-group-row">
+        <div class="phrase-set-header saved-group-header">
+          <div class="phrase-set-header-toggle saved-group-toggle" data-group-key="${keyEnc}">
+            <div class="phrase-set-header-text">
+              <span class="phrase-set-title">${escapeHtml(g.label)}</span>
+              <span class="saved-set-count">${g.items.length} saved</span>
+            </div>
+            <span class="cat-expand">${isExpanded ? '−' : '+'}</span>
+          </div>
+          <button type="button" class="phrase-save-btn saved saved-group-remove-all saved-group-remove-all-btn saved-screen-btn" data-group-key="${keyEnc}">Remove all</button>
+        </div>
+        ${isExpanded ? `<div class="cat-row-phrases saved-group-phrases">${rows}</div>` : ''}
+      </div>`;
+    };
+
+    if (phraseGroups.length) {
+      html += '<div class="section-label">Saved phrase sets</div>';
+      html += '<div class="phrase-list saved-list saved-sets-list saved-phrases-block" style="display: flex; flex-direction: column; gap: 10px;">';
+      html += phraseGroups.map(savedGroupRowHtml).join('');
+      html += '</div>';
+    }
+    if (wordGroups.length) {
+      html += '<div class="section-label">Saved word sets</div>';
+      html += '<div class="phrase-list saved-list saved-sets-list saved-words-block" style="display: flex; flex-direction: column; gap: 10px;">';
+      html += wordGroups.map(savedGroupRowHtml).join('');
+      html += '</div>';
+    }
   }
   html += '</div>';
   wrap.innerHTML = html;
@@ -7213,6 +7718,7 @@ function initApp() {
   initTheme();
   initOfflineToggle();
   initScrollToTop();
+  initSavedListDelegation();
   if (selectedLanguage && LANGUAGES[selectedLanguage]) {
     document.getElementById('screen-lang-select').classList.remove('active');
     document.getElementById('screen-lang-select').style.display = 'none';
