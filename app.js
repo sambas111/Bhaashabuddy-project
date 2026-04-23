@@ -53,6 +53,8 @@ const CAT_IMAGES = {
   questions: 'https://images.unsplash.com/photo-1496200186974-4293800e2c20?w=80&h=80&fit=crop'
 };
 let selectedLanguage = localStorage.getItem('selectedLanguage') || '';
+/** Original `.lang-options` order; restored on each picker open before pinning current first. */
+let langOptionOrderBaseline = null;
 
 function getLang() {
   return LANGUAGES[selectedLanguage] || LANGUAGES.marathi;
@@ -79,6 +81,19 @@ function getScriptFont() { return getLang().scriptFont; }
 
 /** Split long phrase/word lists into Set 1, Set 2, … (30 items per set). */
 const PHRASE_WORD_CHUNK_SIZE = 30;
+
+/** Strip trailing "Set N" from category names so UI can show "Greetings - Set 1". */
+function categoryTopicLabel(displayName) {
+  if (displayName == null) return '';
+  const s = String(displayName).trim();
+  if (!s) return '';
+  return s.replace(/\s+Set\s+\d+\s*$/i, '').trim() || s;
+}
+
+/** Title for chunk s (0-based) within a category, e.g. "Greetings - Set 1". */
+function phraseSubsetTitle(displayName, setIndexZeroBased) {
+  return categoryTopicLabel(displayName) + ' - Set ' + (setIndexZeroBased + 1);
+}
 
 /** Remember category/set when saving so "Saved" can group reliably (Unicode-safe). */
 function withSaveBb(p, bb) {
@@ -130,10 +145,41 @@ function selectLanguage(lang) {
 function changeLanguage() {
   document.getElementById('app-content').style.display = 'none';
   document.body.classList.remove('nav-visible');
-  document.getElementById('screen-lang-select').style.display = 'block';
+  document.getElementById('screen-lang-select').style.display = 'flex';
   document.getElementById('screen-lang-select').classList.add('active');
-  selectedLanguage = '';
-  localStorage.removeItem('selectedLanguage');
+  refreshLanguagePickerCurrent();
+}
+
+function ensureLangOptionOrderBaseline() {
+  const wrap = document.querySelector('#screen-lang-select .lang-options');
+  if (!wrap || langOptionOrderBaseline != null) return;
+  langOptionOrderBaseline = Array.from(wrap.querySelectorAll('.lang-option[data-lang]')).map(el =>
+    el.getAttribute('data-lang')
+  );
+}
+
+function refreshLanguagePickerCurrent() {
+  const wrap = document.querySelector('#screen-lang-select .lang-options');
+  if (!wrap) return;
+  ensureLangOptionOrderBaseline();
+  const nodes = new Map();
+  wrap.querySelectorAll('.lang-option[data-lang]').forEach(el => {
+    nodes.set(el.getAttribute('data-lang'), el);
+  });
+  if (langOptionOrderBaseline) {
+    for (const lang of langOptionOrderBaseline) {
+      const el = nodes.get(lang);
+      if (el) wrap.appendChild(el);
+    }
+  }
+  const key = selectedLanguage && LANGUAGES[selectedLanguage] ? selectedLanguage : '';
+  nodes.forEach((el, lang) => {
+    el.classList.toggle('lang-option-current', Boolean(key && lang === key));
+  });
+  if (key && nodes.has(key)) {
+    const cur = nodes.get(key);
+    if (cur !== wrap.firstElementChild) wrap.insertBefore(cur, wrap.firstElementChild);
+  }
 }
 
 function initLanguageUI() {
@@ -314,7 +360,7 @@ function renderCategories() {
             <div class="phrase-set-block">
               <div class="phrase-set-header">
                 <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); togglePhraseSubset('${id}', ${s})">
-                  <span class="phrase-set-title">Set ${s + 1}</span>
+                  <span class="phrase-set-title">${escapeHtml(phraseSubsetTitle(data.name, s))}</span>
                   <span class="cat-expand">${isOpen ? '−' : '+'}</span>
                 </div>
                 <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); savePhraseSubset('${id}', ${s})" title="Save all in this set">${bookmarkSvg}</button>
@@ -6477,7 +6523,7 @@ function renderDict(query) {
               <div class="phrase-set-block">
                 <div class="phrase-set-header">
                   <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); toggleDictSubset('${secId}', ${s})">
-                    <span class="phrase-set-title">Set ${s + 1}</span>
+                    <span class="phrase-set-title">${escapeHtml(phraseSubsetTitle(secData.name || secId, s))}</span>
                     <span class="cat-expand">${isOpen ? '−' : '+'}</span>
                   </div>
                   <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveDictWordSubset('${secId}', ${s})" title="Save all in this set">${bookmarkSvg}</button>
@@ -6605,7 +6651,7 @@ function buildSavedPhraseGroups() {
         key = 'p:' + bb.c + ':' + bb.s;
         const arr = pdata.phrases;
         const big = arr.length > PHRASE_WORD_CHUNK_SIZE;
-        label = big ? `${pdata.name} · Set ${bb.s + 1}` : pdata.name;
+        label = big ? phraseSubsetTitle(pdata.name, bb.s) : pdata.name;
         sortKey = 'a:' + String(catOrder.indexOf(bb.c)).padStart(4, '0') + ':' + String(bb.s).padStart(4, '0');
       }
     } else if (bb && bb.t === 'd' && bb.sec != null && bb.s != null && bySec && bySec[bb.sec]) {
@@ -6614,13 +6660,13 @@ function buildSavedPhraseGroups() {
       key = 'd:' + bb.sec + ':' + bb.s;
       const big = words.length > PHRASE_WORD_CHUNK_SIZE;
       const nm = secData.name || bb.sec;
-      label = big ? `${nm} · Set ${bb.s + 1}` : nm;
+      label = big ? phraseSubsetTitle(nm, bb.s) : nm;
       sortKey = 'b:' + String(secOrder.indexOf(bb.sec)).padStart(4, '0') + ':' + String(bb.s).padStart(4, '0');
     } else if (bb && bb.t === 'f' && bb.s != null) {
       const fd = flatDict || [];
       key = 'w:flat:' + bb.s;
       const big = fd.length > PHRASE_WORD_CHUNK_SIZE;
-      label = big ? `Words · Set ${bb.s + 1}` : 'Words';
+      label = big ? phraseSubsetTitle('Words', bb.s) : 'Words';
       sortKey = 'c:' + String(bb.s).padStart(4, '0');
     }
 
@@ -6633,7 +6679,7 @@ function buildSavedPhraseGroups() {
         const big = arr.length > PHRASE_WORD_CHUNK_SIZE;
         const setIdx = big ? Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) : 0;
         key = 'p:' + catId + ':' + setIdx;
-        label = big ? `${data.name} · Set ${setIdx + 1}` : data.name;
+        label = big ? phraseSubsetTitle(data.name, setIdx) : data.name;
         sortKey = 'a:' + String(catOrder.indexOf(catId)).padStart(4, '0') + ':' + String(setIdx).padStart(4, '0');
         break;
       }
@@ -6650,7 +6696,7 @@ function buildSavedPhraseGroups() {
           const setIdx = big ? Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) : 0;
           key = 'd:' + secId + ':' + setIdx;
           const nm = secData.name || secId;
-          label = big ? `${nm} · Set ${setIdx + 1}` : nm;
+          label = big ? phraseSubsetTitle(nm, setIdx) : nm;
           sortKey = 'b:' + String(secOrder.indexOf(secId)).padStart(4, '0') + ':' + String(setIdx).padStart(4, '0');
           break;
         }
@@ -6663,7 +6709,7 @@ function buildSavedPhraseGroups() {
         const big = flatDict.length > PHRASE_WORD_CHUNK_SIZE;
         const setIdx = big ? Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) : 0;
         key = 'w:flat:' + setIdx;
-        label = big ? `Words · Set ${setIdx + 1}` : 'Words';
+        label = big ? phraseSubsetTitle('Words', setIdx) : 'Words';
         sortKey = 'c:' + String(setIdx).padStart(4, '0');
       }
     }
@@ -6975,8 +7021,68 @@ function loadLessonsFromCache() {
 }
 
 // ===== DATA ADDITION & RATE THE APP =====
-// Google Apps Script Web App URL – receives data addition (and feedback) submissions
+// Google Apps Script Web App URL – POST fields: type, message, language, version, attachments (optional JSON array of {name,type,size,data} base64)
 const FEEDBACK_SHEET_URL = 'https://script.google.com/macros/s/AKfycbwuQVHBxBaDLohbvFg1Ux_eqWEiRmJORTgOZUEZ0N_SqKEMLCqE8YQDcGgkbl1bj60/exec';
+
+const DATA_SUGGESTION_MAX_FILE_BYTES = 4 * 1024 * 1024;
+const DATA_SUGGESTION_MAX_TOTAL_BYTES = 6 * 1024 * 1024;
+const DATA_SUGGESTION_MAX_JSON_CHARS = 4 * 1024 * 1024;
+
+let dataSuggestionAttachedFiles = [];
+
+function addDataSuggestionFiles(fileList) {
+  if (!fileList || !fileList.length) return;
+  for (let i = 0; i < fileList.length; i++) {
+    const f = fileList[i];
+    if (!f || !f.size) continue;
+    if (f.size > DATA_SUGGESTION_MAX_FILE_BYTES) {
+      showToast('File too large (max 4 MB each): ' + f.name);
+      continue;
+    }
+    dataSuggestionAttachedFiles.push(f);
+  }
+  let total = dataSuggestionAttachedFiles.reduce((a, f) => a + f.size, 0);
+  while (total > DATA_SUGGESTION_MAX_TOTAL_BYTES && dataSuggestionAttachedFiles.length) {
+    const removed = dataSuggestionAttachedFiles.pop();
+    total -= removed.size;
+    showToast('Total size limit 6 MB — removed: ' + removed.name);
+  }
+  renderDataSuggestionFileList();
+}
+
+function removeDataSuggestionFile(index) {
+  if (index < 0 || index >= dataSuggestionAttachedFiles.length) return;
+  dataSuggestionAttachedFiles.splice(index, 1);
+  renderDataSuggestionFileList();
+}
+
+function renderDataSuggestionFileList() {
+  const ul = document.getElementById('data-addition-file-list');
+  if (!ul) return;
+  if (!dataSuggestionAttachedFiles.length) {
+    ul.innerHTML = '';
+    ul.hidden = true;
+    return;
+  }
+  ul.hidden = false;
+  ul.innerHTML = dataSuggestionAttachedFiles.map((f, i) => `
+    <li class="data-addition-file-item">
+      <span class="data-addition-file-name">${escapeHtml(f.name)}</span>
+      <span class="data-addition-file-size">${(f.size / 1024).toFixed(f.size >= 102400 ? 0 : 1)} KB</span>
+      <button type="button" class="data-addition-file-remove" onclick="removeDataSuggestionFile(${i})" aria-label="Remove ${escapeHtml(f.name)}">×</button>
+    </li>
+  `).join('');
+}
+
+function resetDataSuggestionFormFull() {
+  document.querySelectorAll('input[name="data-addition-type"]').forEach(r => { r.checked = false; });
+  const form = document.getElementById('data-addition-form');
+  if (form) form.style.display = 'none';
+  const msg = document.getElementById('data-addition-message');
+  if (msg) msg.value = '';
+  dataSuggestionAttachedFiles = [];
+  renderDataSuggestionFileList();
+}
 
 function onDataAdditionTypeChange(value) {
   const form = document.getElementById('data-addition-form');
@@ -6987,22 +7093,72 @@ function onDataAdditionTypeChange(value) {
     if (msg) msg.value = '';
     return;
   }
-  form.style.display = 'block';
+  form.style.display = 'flex';
 }
 
-function sendDataSuggestion() {
-  const typeEl = document.getElementById('data-addition-type');
+function readFileAsBase64(file) {
+  return new Promise((resolve, reject) => {
+    const fr = new FileReader();
+    fr.onload = () => {
+      const s = String(fr.result || '');
+      const i = s.indexOf(',');
+      resolve(i >= 0 ? s.slice(i + 1) : s);
+    };
+    fr.onerror = () => reject(fr.error || new Error('read'));
+    fr.readAsDataURL(file);
+  });
+}
+
+function initDataSuggestionUI() {
+  const zone = document.getElementById('data-addition-dropzone');
+  const input = document.getElementById('data-addition-file');
+  if (!zone || !input) return;
+  zone.addEventListener('click', (e) => {
+    if (e.target === input) return;
+    input.click();
+  });
+  zone.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      input.click();
+    }
+  });
+  ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(ev => {
+    zone.addEventListener(ev, (e) => { e.preventDefault(); e.stopPropagation(); });
+  });
+  zone.addEventListener('dragenter', () => zone.classList.add('data-addition-dropzone--hover'));
+  zone.addEventListener('dragover', () => zone.classList.add('data-addition-dropzone--hover'));
+  zone.addEventListener('dragleave', (e) => {
+    if (!zone.contains(e.relatedTarget)) zone.classList.remove('data-addition-dropzone--hover');
+  });
+  zone.addEventListener('drop', (e) => {
+    zone.classList.remove('data-addition-dropzone--hover');
+    addDataSuggestionFiles(e.dataTransfer.files);
+  });
+  input.addEventListener('change', () => {
+    addDataSuggestionFiles(input.files);
+    input.value = '';
+  });
+}
+
+async function sendDataSuggestion() {
+  const typeRadio = document.querySelector('input[name="data-addition-type"]:checked');
+  const type = typeRadio ? typeRadio.value : '';
   const messageEl = document.getElementById('data-addition-message');
-  const type = (typeEl && typeEl.value) || '';
-  const labels = { phrase: 'Phrase', words: 'Words', lessons: 'Lessons' };
+  const labels = { phrase: 'Phrase', words: 'Words', lessons: 'Lesson ideas' };
   const typeLabel = labels[type] || type;
 
   if (!type) {
-    showToast('Please select Phrase, Words or Lessons first');
+    showToast('Please choose Phrase, Words or Lesson ideas');
     return;
   }
 
   const message = (messageEl && messageEl.value.trim()) || '';
+  if (!message && !dataSuggestionAttachedFiles.length) {
+    showToast('Please add a message or attach at least one file');
+    return;
+  }
+
   if (!FEEDBACK_SHEET_URL) {
     showToast('Feedback sheet not configured');
     return;
@@ -7012,6 +7168,38 @@ function sendDataSuggestion() {
   if (btn) {
     btn.disabled = true;
     btn.textContent = 'Sending...';
+  }
+
+  let attachmentsJson = '';
+  if (dataSuggestionAttachedFiles.length) {
+    try {
+      const arr = [];
+      for (const f of dataSuggestionAttachedFiles) {
+        const b64 = await readFileAsBase64(f);
+        arr.push({
+          name: f.name,
+          type: f.type || 'application/octet-stream',
+          size: f.size,
+          data: b64
+        });
+      }
+      attachmentsJson = JSON.stringify(arr);
+      if (attachmentsJson.length > DATA_SUGGESTION_MAX_JSON_CHARS) {
+        showToast('Attachments are too large to send. Try fewer or smaller files.');
+        if (btn) {
+          btn.disabled = false;
+          btn.textContent = 'Send suggestion';
+        }
+        return;
+      }
+    } catch (err) {
+      showToast('Could not read an attachment');
+      if (btn) {
+        btn.disabled = false;
+        btn.textContent = 'Send suggestion';
+      }
+      return;
+    }
   }
 
   const iframe = document.createElement('iframe');
@@ -7024,19 +7212,21 @@ function sendDataSuggestion() {
   form.action = FEEDBACK_SHEET_URL;
   form.target = iframe.name;
   form.style.display = 'none';
+  form.acceptCharset = 'UTF-8';
 
   const fields = {
     type: 'Data addition: ' + typeLabel,
-    message: message || '(No message)',
+    message: message || (attachmentsJson ? '(See attachments)' : '(No message)'),
     language: getLang().name || 'Marathi',
-    version: '1.0.0'
+    version: '1.0.0',
+    attachments: attachmentsJson || ''
   };
   for (const [k, v] of Object.entries(fields)) {
-    const input = document.createElement('input');
-    input.type = 'hidden';
-    input.name = k;
-    input.value = String(v);
-    form.appendChild(input);
+    const inp = document.createElement('input');
+    inp.type = 'hidden';
+    inp.name = k;
+    inp.value = String(v);
+    form.appendChild(inp);
   }
   document.body.appendChild(form);
 
@@ -7047,7 +7237,7 @@ function sendDataSuggestion() {
       btn.disabled = false;
       btn.textContent = 'Send suggestion';
     }
-    if (messageEl) messageEl.value = '';
+    resetDataSuggestionFormFull();
     showToast('Thank you! Suggestion sent.');
   }
 
@@ -7055,7 +7245,7 @@ function sendDataSuggestion() {
     iframe.onload = null;
     setTimeout(done, 300);
   };
-  setTimeout(done, 6000);
+  setTimeout(done, 8000);
   form.submit();
 }
 
@@ -7733,7 +7923,9 @@ function initApp() {
     document.getElementById('screen-lang-select').classList.add('active');
     document.getElementById('app-content').style.display = 'none';
     document.body.classList.remove('nav-visible');
+    refreshLanguagePickerCurrent();
   }
+  initDataSuggestionUI();
 }
 
 document.addEventListener('DOMContentLoaded', initApp);
