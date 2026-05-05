@@ -368,41 +368,12 @@
 
       <div class="settings-label">Data addition to app</div>
       <div class="settings-card">
-        <div class="settings-row">
+        <div class="settings-row clickable" onclick="openSuggestionForm()">
           <div class="settings-row-left">
             <div class="settings-row-title">Suggest content</div>
-            <div class="settings-row-sub">Choose type, then add your phrases, words or lesson ideas below</div>
+            <div class="settings-row-sub">Open form to suggest phrases, words or lesson ideas</div>
           </div>
-        </div>
-        <div class="settings-row data-addition-type-row">
-          <div class="data-addition-type-group" role="radiogroup" aria-label="What are you suggesting?">
-            <label class="data-addition-radio">
-              <input type="radio" name="data-addition-type" value="phrase" onchange="onDataAdditionTypeChange(this.value)">
-              <span>Phrase</span>
-            </label>
-            <label class="data-addition-radio">
-              <input type="radio" name="data-addition-type" value="words" onchange="onDataAdditionTypeChange(this.value)">
-              <span>Words</span>
-            </label>
-            <label class="data-addition-radio">
-              <input type="radio" name="data-addition-type" value="lessons" onchange="onDataAdditionTypeChange(this.value)">
-              <span>Lesson ideas</span>
-            </label>
-          </div>
-        </div>
-        <div id="data-addition-form" class="data-addition-form" style="display:none;">
-          <label for="data-addition-message" class="data-addition-label">Your suggestion (or paste link/source)</label>
-          <textarea id="data-addition-message" rows="5" placeholder="Type your phrases, words or lesson content here. You can also paste a link or source – we will consider it for future updates."></textarea>
-          <div class="data-addition-dropzone" id="data-addition-dropzone" tabindex="0" role="button" aria-label="Add files">
-            <input type="file" id="data-addition-file" class="data-addition-file-input" multiple accept=".txt,.csv,.json,.md,.pdf,.doc,.docx,image/*,.zip">
-            <span class="data-addition-drop-icon" aria-hidden="true">
-              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
-            </span>
-            <span class="data-addition-drop-title">Add files (optional)</span>
-            <span class="data-addition-drop-hint">Drag and drop files here, or click to browse</span>
-          </div>
-          <ul id="data-addition-file-list" class="data-addition-file-list" hidden></ul>
-          <button type="button" class="data-addition-btn" onclick="sendDataSuggestion()">Send suggestion</button>
+          <span class="settings-arrow">›</span>
         </div>
       </div>
 
