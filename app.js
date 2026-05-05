@@ -7259,6 +7259,12 @@ function openStoreRating(store) {
   else showToast('Rate us on ' + (store === 'play' ? 'Google Play Store' : 'App Store'));
 }
 
+const SUGGESTION_FORM_URL = 'https://forms.gle/GRHcYS9SUFx4jGPM8';
+
+function openSuggestionForm() {
+  window.open(SUGGESTION_FORM_URL, '_blank', 'noopener');
+}
+
 // ===== THEME =====
 function setTheme(themeId, silent) {
   themeId = themeId || 'teal';
