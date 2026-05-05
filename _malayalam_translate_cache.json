@@ -1,0 +1,5618 @@
+{
+"Hello": [
+"ഹലോ",
+"Haleā"
+],
+"Good morning": [
+"സുപ്രഭാതം",
+"Suprabhātaṃ"
+],
+"Good afternoon": [
+"ഗുഡ് ആഫ്റ്റർനൂൺ",
+"Guḍ āphṟṟaർnūൺ"
+],
+"Good evening": [
+"ഗുഡ് ഈവനിംഗ്",
+"Guḍ īvaniṃg"
+],
+"Good night": [
+"ശുഭ രാത്രി",
+"Śubha rātri"
+],
+"Welcome": [
+"സ്വാഗതം",
+"Svāgataṃ"
+],
+"How are you?": [
+"സുഖമാണോ?",
+"Sukhamāṇeā?"
+],
+"I am fine": [
+"എനിക്ക് സുഖമാണ്",
+"Ènikk sukhamāṇ"
+],
+"What is your name?": [
+"എന്താണ് നിന്റെ പേര്?",
+"Èntāṇ ninṟè per?"
+],
+"My name is...": [
+"എന്റെ പേര്...",
+"Ènṟè per..."
+],
+"Nice to meet you": [
+"നിന്നെ കാണാനായതിൽ സന്തോഷം",
+"Ninnè kāṇānāyatiൽ santeāṣaṃ"
+],
+"Thank you": [
+"നന്ദി",
+"Nandi"
+],
+"Please": [
+"ദയവായി",
+"Dayavāyi"
+],
+"Sorry": [
+"ക്ഷമിക്കണം",
+"Kṣamikkaṇaṃ"
+],
+"Goodbye": [
+"വിട",
+"Viṭa"
+],
+"See you": [
+"കാണാം",
+"Kāṇāṃ"
+],
+"Take care": [
+"ശ്രദ്ധപുലർത്തുക",
+"Śraddhapulaർttuka"
+],
+"Happy Birthday": [
+"ജന്മദിനാശംസകൾ",
+"Janmadināśaṃsakaൾ"
+],
+"Happy Diwali": [
+"ദീപാവലി ആശംസകൾ",
+"Dīpāvali āśaṃsakaൾ"
+],
+"I love you": [
+"ഞാൻ നിന്നെ സ്നേഹിക്കുന്നു",
+"Ñāൻ ninnè snehikkunnu"
+],
+"Get well soon": [
+"വേഗം സുഖമാകട്ടെ",
+"Vegaṃ sukhamākaṭṭè"
+],
+"Good day": [
+"നല്ല ദിവസം",
+"Nalla divasaṃ"
+],
+"How do you do?": [
+"നീ എങ്ങനെയിരിക്കുന്നു?",
+"Nī èṅṅanèyirikkunnu?"
+],
+"Pleased to meet you": [
+"നിങ്ങളെ കാണാനായതിൽ സന്തോഷം",
+"Niṅṅaḻè kāṇānāyatiൽ santeāṣaṃ"
+],
+"Excuse me": [
+"എക്സ്ക്യൂസ് മീ",
+"Èkskyūs mī"
+],
+"Bless you": [
+"നിങ്ങളെ അനുഗ്രഹിക്കുന്നു",
+"Niṅṅaḻè anugrahikkunnu"
+],
+"Congratulations": [
+"അഭിനന്ദനങ്ങൾ",
+"Abhinandanaṅṅaൾ"
+],
+"Happy New Year": [
+"പുതുവത്സരാശംസകൾ",
+"Putuvatsarāśaṃsakaൾ"
+],
+"Best wishes": [
+"ആശംസകൾ",
+"Āśaṃsakaൾ"
+],
+"Take care of yourself": [
+"നിന്റെ കാര്യത്തിൽ ശ്രദ്ധപുലർത്തുക",
+"Ninṟè kāryattiൽ śraddhapulaർttuka"
+],
+"I missed you": [
+"എനിക്ക് നിന്നെ മിസ്സാകുന്നു",
+"Ènikk ninnè missākunnu"
+],
+"Long time no see": [
+"ദീർഘനാളായി കണ്ടിട്ട്",
+"Dīർghanāḻāyi kaṇṭiṭṭ"
+],
+"Where have you been?": [
+"നിങ്ങൾ എവിടെയായിരുന്നു?",
+"Niṅṅaൾ èviṭèyāyirunnu?"
+],
+"I am happy to see you": [
+"നിങ്ങളെ കണ്ടതിൽ എനിക്ക് സന്തോഷമുണ്ട്",
+"Niṅṅaḻè kaṇṭatiൽ ènikk santoṣamuṇṭ"
+],
+"Come again": [
+"വീണ്ടും വരൂ",
+"Vīṇṭuṃ varū"
+],
+"Stay in touch": [
+"സമ്പർക്കം പുലർത്തുക",
+"Sampaർkkaṃ pulaർttuka"
+],
+"Give my regards to...": [
+"എൻ്റെ ആശംസകൾ അറിയിക്കുക...",
+"Èൻṟè āśaṃsakaൾ aṟiyikkuka..."
+],
+"Say hello to...": [
+"ഹലോ പറയൂ...",
+"Halo paṟayū..."
+],
+"Have a good day": [
+"ഒരു നല്ല ദിനം ആശംസിക്കുന്നു",
+"Òru nalla dinaṃ āśaṃsikkunnu"
+],
+"Have a safe journey": [
+"സുരക്ഷിതമായ യാത്ര നേരുന്നു",
+"Surakṣitamāya yātra nerunnu"
+],
+"Good luck": [
+"നല്ലതുവരട്ടെ",
+"Nallatuvaraṭṭè"
+],
+"All the best": [
+"എല്ലാ ആശംസകളും",
+"Èllā āśaṃsakaḻuṃ"
+],
+"Well done": [
+"നന്നായി ചെയ്തു",
+"Nannāyi cèytu"
+],
+"You are kind": [
+"നിങ്ങൾ ദയയുള്ളവരാണ്",
+"Niṅṅaൾ dayayuḻḻavarāṇ"
+],
+"I appreciate it": [
+"ഞാൻ അതിനെ അഭിനന്ദിക്കുന്നു",
+"Ñāൻ atinè abhinandikkunnu"
+],
+"That is very nice": [
+"അത് വളരെ മനോഹരമാണ്",
+"At vaḻarè manoharamāṇ"
+],
+"You are welcome": [
+"നിനക്ക് സ്വാഗതം",
+"Ninakk svāgataṃ"
+],
+"Do not mention it": [
+"ഇത് പരാമർശിക്കേണ്ടതില്ല",
+"It parāmaർśikkeṇṭatilla"
+],
+"It was nothing": [
+"അതൊന്നും ആയിരുന്നില്ല",
+"Atònnuṃ āyirunnilla"
+],
+"I am grateful": [
+"ഞാൻ നന്ദിയുള്ളവനാണ്",
+"Ñāൻ nandiyuḻḻavanāṇ"
+],
+"Many thanks": [
+"ഒത്തിരി നന്ദി",
+"Òttiri nandi"
+],
+"Thanks a lot": [
+"ഒത്തിരി നന്ദി",
+"Òttiri nandi"
+],
+"I owe you one": [
+"ഞാൻ നിങ്ങളോട് ഒന്ന് കടപ്പെട്ടിരിക്കുന്നു",
+"Ñāൻ niṅṅaḻoṭ ònn kaṭappèṭṭirikkunnu"
+],
+"Forgive me": [
+"എന്നോട് ക്ഷമിക്കൂ",
+"Ènnoṭ kṣamikkū"
+],
+"My apologies": [
+"എന്റെ ക്ഷമാപണം",
+"Ènṟè kṣamāpaṇaṃ"
+],
+"It was my fault": [
+"അത് എന്റെ തെറ്റായിരുന്നു",
+"At ènṟè tèṟṟāyirunnu"
+],
+"No worries": [
+"വിഷമിക്കേണ്ടതില്ല",
+"Viṣamikkeṇṭatilla"
+],
+"Do not be sorry": [
+"ഖേദിക്കേണ്ട",
+"Khedikkeṇṭa"
+],
+"We are friends": [
+"ഞങ്ങൾ സുഹൃത്തുക്കളാണ്",
+"Ñaṅṅaൾ suhṛttukkaḻāṇ"
+],
+"May I come in?": [
+"ഞാൻ അകത്തേക്ക് വരട്ടെ?",
+"Ñāൻ akattekk varaṭṭè?"
+],
+"Please sit down": [
+"ദയവായി ഇരിക്കൂ",
+"Dayavāyi irikkū"
+],
+"Make yourself at home": [
+"നീ വീട്ടിൽ ഉണ്ടായിരിക്കാൻ ശ്രമിക്കൂ",
+"Nī vīṭṭiൽ uṇṭāyirikkāൻ śramikkū"
+],
+"Would you like tea?": [
+"നിങ്ങൾക്ക് ചായ വേണോ?",
+"Niṅṅaൾkk cāya veṇo?"
+],
+"I am from India": [
+"ഞാൻ ഇന്ത്യയിൽ നിന്നാണ്",
+"Ñāൻ intyayiൽ ninnāṇ"
+],
+"Where are you from?": [
+"നീ എവിടെ നിന്ന് വരുന്നു?",
+"Nī èviṭè ninn varunnu?"
+],
+"I live in...": [
+"ഞാൻ താമസിക്കുന്നത്...",
+"Ñāൻ tāmasikkunnat..."
+],
+"What do you do?": [
+"നീ എന്ത് ചെയ്യുന്നു?",
+"Nī ènt cèyyunnu?"
+],
+"I am a student": [
+"ഞാൻ ഒരു വിദ്യാർത്ഥിയാണ്",
+"Ñāൻ òru vidyāർtthiyāṇ"
+],
+"I work in...": [
+"ഞാൻ ജോലി ചെയ്യുന്നത്...",
+"Ñāൻ joli cèyyunnat..."
+],
+"This is my friend": [
+"ഇത് എൻ്റെ സുഹൃത്താണ്",
+"It èൻṟè suhṛttāṇ"
+],
+"Meet my family": [
+"എൻ്റെ കുടുംബത്തെ കണ്ടുമുട്ടുക",
+"Èൻṟè kuṭuṃbattè kaṇṭumuṭṭuka"
+],
+"How is your family?": [
+"നിന്റെ കുടുംബത്തിന് സുഖമാണോ?",
+"Ninṟè kuṭuṃbattin sukhamāṇeā?"
+],
+"Everyone is fine": [
+"എല്ലാവരും സുഖമായിരിക്കുന്നു",
+"Èllāvaruṃ sukhamāyirikkunnu"
+],
+"I have to go now": [
+"എനിക്ക് ഇപ്പോൾ പോകണം",
+"Ènikk ippeāൾ peākaṇaṃ"
+],
+"Can we meet tomorrow?": [
+"നമുക്ക് നാളെ കണ്ടുമുട്ടാമോ?",
+"Namukk nāḻè kaṇṭumuṭṭāmo?"
+],
+"Let us meet soon": [
+"നമുക്ക് ഉടൻ കണ്ടുമുട്ടാം",
+"Namukk uṭaൻ kaṇṭumuṭṭāṃ"
+],
+"I will call you": [
+"ഞാൻ നിങ്ങളെ വിളിക്കും",
+"Ñāൻ niṅṅaḻè viḻikkuṃ"
+],
+"Here is my number": [
+"ഇതാ എൻ്റെ നമ്പർ",
+"Itā èൻṟè nampaർ"
+],
+"Keep in touch": [
+"ബന്ധം പുലർത്തുക",
+"Bandhaṃ pulaർttuka"
+],
+"Until we meet again": [
+"നമ്മൾ വീണ്ടും കണ്ടുമുട്ടുന്നത് വരെ",
+"Nammaൾ vīṇṭuṃ kaṇṭumuṭṭunnat varè"
+],
+"I will never forget you": [
+"ഞാൻ നിന്നെ ഒരിക്കലും മറക്കില്ല",
+"Ñāൻ ninnè òrikkaluṃ maṟakkilla"
+],
+"You mean a lot to me": [
+"നിങ്ങൾ എന്നോട് ഒരുപാട് അർത്ഥമാക്കുന്നു",
+"Niṅṅaൾ ènnoṭ òrupāṭ aർtthamākkunnu"
+],
+"I care about you": [
+"ഞാൻ നിന്നെ ശ്രദ്ധിക്കുന്നു",
+"Ñāൻ ninnè śraddhikkunnu"
+],
+"Thank you for everything": [
+"എല്ലാത്തിനും നന്ദി",
+"Èllāttinuṃ nandi"
+],
+"I could not have done it without you": [
+"നീയില്ലാതെ എനിക്ക് അത് ചെയ്യാൻ കഴിയുമായിരുന്നില്ല",
+"Nīyillātè ènikk at cèyyāൻ kal̤iyumāyirunnilla"
+],
+"You are very helpful": [
+"നിങ്ങൾ വളരെ സഹായകരമാണ്",
+"Niṅṅaൾ vaḻarè sahāyakaramāṇ"
+],
+"I am proud of you": [
+"നിന്നെയോർത്ത് ഞാൻ അഭിമാനിക്കുന്നു",
+"Ninnèyoർtt ñāൻ abhimānikkunnu"
+],
+"Bless you and your family": [
+"നിങ്ങളെയും കുടുംബത്തെയും അനുഗ്രഹിക്കട്ടെ",
+"Niṅṅaḻèyuṃ kuṭuṃbattèyuṃ anugrahikkaṭṭè"
+],
+"Wishing you happiness": [
+"നിങ്ങൾക്ക് സന്തോഷം നേരുന്നു",
+"Niṅṅaൾkk santoṣaṃ nerunnu"
+],
+"Where is the station?": [
+"സ്റ്റേഷൻ എവിടെയാണ്?",
+"Sṟṟeṣaൻ èviṭèyāṇ?"
+],
+"Take me to the station": [
+"എന്നെ സ്റ്റേഷനിലേക്ക് കൊണ്ടുപോകൂ",
+"Ènnè sṟṟeṣanilekk kòṇṭupokū"
+],
+"Where is the hospital?": [
+"എവിടെയാണ് ആശുപത്രി?",
+"Èviṭèyāṇ āśupatri?"
+],
+"Go straight": [
+"നേരെ മുന്നോട്ടുപോകുക",
+"Nerè munneāṭṭupeākuka"
+],
+"Turn left": [
+"ഇടത്തോട്ട് തിരിയുക",
+"Iṭatteāṭṭ tiriyuka"
+],
+"Turn right": [
+"വലത്തോട്ട് തിരിയുക",
+"Valatteāṭṭ tiriyuka"
+],
+"Stop here": [
+"ഇവിടെ നിർത്തുക",
+"Iviṭè niർttuka"
+],
+"How far is it?": [
+"എത്ര ദൂരമുണ്ട്?",
+"Ètra dūramuṇṭ?"
+],
+"I am lost": [
+"ഞാൻ നഷ്ടപ്പെട്ടു",
+"Ñāൻ naṣṭappèṭṭu"
+],
+"Where is the toilet?": [
+"ടോയ്‌ലറ്റ് എവിടെയാണ്?",
+"Ṭoy‌laṟṟ èviṭèyāṇ?"
+],
+"Bon voyage": [
+"ശുഭയാത്ര",
+"Śubhayātra"
+],
+"Where is the bus stop?": [
+"ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?",
+"Bas sṟṟopp èviṭèyāṇ?"
+],
+"One ticket to...": [
+"ഒരു ടിക്കറ്റ്...",
+"Òru ṭikkaṟṟ..."
+],
+"When does the bus leave?": [
+"എപ്പോഴാണ് ബസ് പുറപ്പെടുന്നത്?",
+"Èppol̤āṇ bas puṟappèṭunnat?"
+],
+"Is this seat free?": [
+"ഈ സീറ്റ് സൗജന്യമാണോ?",
+"Ī sīṟṟ saൗjanyamāṇo?"
+],
+"Next stop please": [
+"ദയവായി, അടുത്ത സ്റ്റോപ്പ്",
+"Dayavāyi, aṭutta sṟṟeāpp"
+],
+"I need a map": [
+"എനിക്ക് ഒരു മാപ്പ് വേണം",
+"Ènikk òru māpp veṇaṃ"
+],
+"Where can I get a taxi?": [
+"എവിടെനിന്ന് എനിക്ക് ടാക്സി ലഭിക്കും?",
+"Èviṭèninn ènikk ṭāksi labhikkuṃ?"
+],
+"Please slow down": [
+"ദയവായി വേഗത കുറയ്ക്കൂ",
+"Dayavāyi vegata kuṟaykkū"
+],
+"Airport": [
+"വിമാനത്താവളം",
+"Vimānattāvaḻaṃ"
+],
+"Where is the luggage?": [
+"ലഗേജ് എവിടെ?",
+"Lagej èviṭè?"
+],
+"I have a reservation": [
+"എനിക്ക് ഒരു റിസർവേഷനുണ്ട്",
+"Ènikk òru ṟisaർveṣanuṇṭ"
+],
+"Which platform?": [
+"ഏത് പ്ലാറ്റ്ഫോം?",
+"Et plāṟṟphoṃ?"
+],
+"Is there a direct bus?": [
+"നേരിട്ടുള്ള ബസ് ഉണ്ടോ?",
+"Neriṭṭuḻḻa bas uṇṭo?"
+],
+"How long does it take?": [
+"എത്തിച്ചേരുന്നതിന് എത്ര സമയമെടുക്കും?",
+"Ètticcerunnatin ètra samayamèṭukkuṃ?"
+],
+"I am travelling alone": [
+"ഞാൻ ഒറ്റയ്ക്കാണ് യാത്ര ചെയ്യുന്നത്",
+"Ñāൻ òṟṟaykkāṇ yātra cèyyunnat"
+],
+"Can you show me on the map?": [
+"എനിക്ക് മാപ്പിൽ കാണിച്ചുതരാമോ?",
+"Ènikk māppiൽ kāṇiccutarāmeā?"
+],
+"Is it safe here?": [
+"ഇവിടെ സുരക്ഷിതമാണോ?",
+"Iviṭè surakṣitamāṇo?"
+],
+"I need a room": [
+"എനിക്കൊരു മുറി വേണം",
+"Ènikkòru muṟi veṇaṃ"
+],
+"Do you have a single room?": [
+"നിങ്ങൾക്ക് ഒറ്റമുറിയുണ്ടോ?",
+"Niṅṅaൾkk òṟṟamuṟiyuṇṭo?"
+],
+"Check-in time?": [
+"ചെക്ക്-ഇൻ സമയം?",
+"Cèkk-iൻ samayaṃ?"
+],
+"Check-out time?": [
+"ചെക്ക് ഔട്ട് സമയം?",
+"Cèkk auṭṭ samayaṃ?"
+],
+"Is breakfast included?": [
+"പ്രഭാതഭക്ഷണം ഉൾപ്പെടുത്തിയിട്ടുണ്ടോ?",
+"Prabhātabhakṣaṇaṃ uൾppèṭuttiyiṭṭuṇṭo?"
+],
+"Where is the beach?": [
+"ബീച്ച് എവിടെയാണ്?",
+"Bīcc èviṭèyāṇ?"
+],
+"I want to rent a car": [
+"ഒരു കാർ വാടകയ്ക്കെടുക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നു",
+"Òru kāർ vāṭakaykkèṭukkāൻ ñāൻ āgrahikkunnu"
+],
+"Fill the tank please": [
+"ദയവായി ടാങ്ക് നിറയ്ക്കുക",
+"Dayavāyi ṭāṅk niṟaykkuka"
+],
+"Where is the petrol pump?": [
+"പെട്രോൾ പമ്പ് എവിടെയാണ്?",
+"Pèṭroൾ pamp èviṭèyāṇ?"
+],
+"Can I walk there?": [
+"എനിക്ക് അവിടെ നടക്കാമോ?",
+"Ènikk aviṭè naṭakkāmo?"
+],
+"Is it within walking distance?": [
+"നടക്കാവുന്ന ദൂരത്തിലാണോ?",
+"Naṭakkāvunna dūrattilāṇo?"
+],
+"Which way to the temple?": [
+"ക്ഷേത്രത്തിലേക്കുള്ള വഴി ഏതാണ്?",
+"Kṣetrattilekkuḻḻa val̤i etāṇ?"
+],
+"I am looking for a hotel": [
+"ഞാൻ ഒരു ഹോട്ടൽ തിരയുകയാണ്",
+"Ñāൻ òru hoṭṭaൽ tirayukayāṇ"
+],
+"Do you have a guide?": [
+"നിങ്ങൾക്ക് ഒരു ഗൈഡ് ഉണ്ടോ?",
+"Niṅṅaൾkk òru gaiḍ uṇṭo?"
+],
+"How much for a tour?": [
+"ഒരു ടൂറിന് എത്ര രൂപ?",
+"Òru ṭūṟin ètra rūpa?"
+],
+"I would like to visit...": [
+"ഞാൻ സന്ദർശിക്കാൻ ആഗ്രഹിക്കുന്നു...",
+"Ñāൻ sandaർśikkāൻ āgrahikkunnu..."
+],
+"What is this place called?": [
+"ഈ സ്ഥലത്തെ എന്താണ് വിളിക്കുന്നത്?",
+"Ī sthalattè èntāṇ viḻikkunnat?"
+],
+"Is photography allowed?": [
+"ഫോട്ടോഗ്രാഫി അനുവദനീയമാണോ?",
+"Phoṭṭogrāphi anuvadanīyamāṇo?"
+],
+"Where is the exit?": [
+"എക്സിറ്റ് എവിടെയാണ്?",
+"Èksiṟṟ èviṭèyāṇ?"
+],
+"Where is the entrance?": [
+"പ്രവേശന കവാടം എവിടെയാണ്?",
+"Praveśana kavāṭaṃ èviṭèyāṇ?"
+],
+"Is there a lift?": [
+"ലിഫ്റ്റ് ഉണ്ടോ?",
+"Liphṟṟ uṇṭo?"
+],
+"Ground floor": [
+"താഴത്തെ നില",
+"Tāl̤attè nila"
+],
+"First floor": [
+"ഒന്നാം നില",
+"Ònnāṃ nila"
+],
+"Where is the parking?": [
+"പാർക്കിംഗ് എവിടെയാണ്?",
+"Pāർkkiṃg èviṭèyāṇ?"
+],
+"I need a SIM card": [
+"എനിക്ക് ഒരു സിം കാർഡ് വേണം",
+"Ènikk òru siṃ kāർḍ veṇaṃ"
+],
+"Where can I exchange money?": [
+"എനിക്ക് എവിടെ നിന്ന് പണം കൈമാറ്റം ചെയ്യാം?",
+"Ènikk èviṭè ninn paṇaṃ kaimāṟṟaṃ cèyyāṃ?"
+],
+"What is the exchange rate?": [
+"വിനിമയ നിരക്ക് എന്താണ്?",
+"Vinimaya nirakk èntāṇ?"
+],
+"I need a plug adapter": [
+"എനിക്ക് ഒരു പ്ലഗ് അഡാപ്റ്റർ വേണം",
+"Ènikk òru plag aḍāpṟṟaർ veṇaṃ"
+],
+"Where is the embassy?": [
+"എംബസി എവിടെയാണ്?",
+"Èṃbasi èviṭèyāṇ?"
+],
+"I lost my passport": [
+"എനിക്ക് എന്റെ പാസ്പോർട്ട് നഷ്ടപ്പെട്ടു",
+"Ènikk ènṟè pāspeāർṭṭ naṣṭappèṭṭu"
+],
+"I need to see a doctor": [
+"എനിക്ക് ഒരു ഡോക്ടറെ കാണണം",
+"Ènikk òru ḍokṭaṟè kāṇaṇaṃ"
+],
+"Call an ambulance": [
+"ഒരു ആംബുലൻസ് വിളിക്കുക",
+"Òru āṃbulaൻs viḻikkuka"
+],
+"Where is the pharmacy?": [
+"ഫാർമസി എവിടെയാണ്?",
+"Phāർmasi èviṭèyāṇ?"
+],
+"I have travel insurance": [
+"എനിക്ക് യാത്രാ ഇൻഷുറൻസ് ഉണ്ട്",
+"Ènikk yātrā iൻṣuṟaൻs uṇṭ"
+],
+"Scenic route": [
+"പ്രകൃതിരമണീയമായ വഴി",
+"Prakṛtiramaṇīyamāya val̤i"
+],
+"Local market": [
+"പ്രാദേശിക വിപണി",
+"Prādeśika vipaṇi"
+],
+"Traditional food": [
+"പരമ്പരാഗത ഭക്ഷണം",
+"Paramparāgata bhakṣaṇaṃ"
+],
+"Famous monument": [
+"പ്രശസ്തമായ സ്മാരകം",
+"Praśastamāya smārakaṃ"
+],
+"Historical place": [
+"ചരിത്രപരമായ സ്ഥലം",
+"Caritraparamāya sthalaṃ"
+],
+"Opening hours?": [
+"തുറക്കുന്ന സമയം?",
+"Tuṟakkunna samayaṃ?"
+],
+"Is it open today?": [
+"ഇന്ന് തുറന്നിട്ടുണ്ടോ?",
+"Inn tuṟanniṭṭuṇṭo?"
+],
+"Entrance fee?": [
+"പ്രവേശന ഫീസ്?",
+"Praveśana phīs?"
+],
+"Student discount?": [
+"വിദ്യാർത്ഥികളുടെ കിഴിവ്?",
+"Vidyāർtthikaḻuṭè kil̤iv?"
+],
+"Free entry?": [
+"പ്രവേശനം സൗജന്യമോ?",
+"Praveśanaṃ saൗjanyamo?"
+],
+"Can you take a photo?": [
+"നിങ്ങൾക്ക് ഒരു ഫോട്ടോ എടുക്കാമോ?",
+"Niṅṅaൾkk òru phoṭṭo èṭukkāmo?"
+],
+"Beautiful view": [
+"മനോഹരമായ കാഴ്ച",
+"Manoharamāya kāl̤ca"
+],
+"I am on holiday": [
+"ഞാൻ അവധിയിലാണ്",
+"Ñāൻ avadhiyilāṇ"
+],
+"Business trip": [
+"ബിസിനസ്സ് യാത്ര",
+"Bisinass yātra"
+],
+"Round trip": [
+"റൗണ്ട് ട്രിപ്പ്",
+"Ṟaൗṇṭ ṭripp"
+],
+"One way": [
+"ഒരു ദിശയിൽ",
+"Òru diśayiൽ"
+],
+"Window seat please": [
+"വിൻഡോ സീറ്റ് ദയവായി",
+"Viൻḍo sīṟṟ dayavāyi"
+],
+"Aisle seat please": [
+"ഇടനാഴി സീറ്റ് ദയവായി",
+"Iṭanāl̤i sīṟṟ dayavāyi"
+],
+"No smoking": [
+"പുകവലിക്കരുത്",
+"Pukavalikkarut"
+],
+"Luggage allowance?": [
+"ലഗേജ് അലവൻസ്?",
+"Lagej alavaൻs?"
+],
+"Boarding pass": [
+"ബോർഡിംഗ് പാസ്",
+"Boർḍiṃg pās"
+],
+"Gate number?": [
+"ഗേറ്റ് നമ്പർ?",
+"Geṟṟ nampaർ?"
+],
+"Delayed": [
+"വൈകി",
+"Vaiki"
+],
+"Cancelled": [
+"റദ്ദാക്കി",
+"Ṟaddākki"
+],
+"On time": [
+"സമയത്ത്",
+"Samayatt"
+],
+"Customs": [
+"കസ്റ്റംസ്",
+"Kasṟṟaṃs"
+],
+"Nothing to declare": [
+"പ്രഖ്യാപിക്കാൻ ഒന്നുമില്ല",
+"Prakhyāpikkāൻ ònnumilla"
+],
+"Souvenir": [
+"സുവനീർ",
+"Suvanīർ"
+],
+"Local specialty": [
+"പ്രാദേശിക പ്രത്യേകത",
+"Prādeśika pratyekata"
+],
+"Recommend a restaurant": [
+"ഒരു റെസ്റ്റോറൻ്റ് ശുപാർശ ചെയ്യുക",
+"Òru ṟèsṟṟoṟaൻṟ śupāർśa cèyyuka"
+],
+"Safe journey": [
+"സുരക്ഷിത യാത്ര",
+"Surakṣita yātra"
+],
+"Water": [
+"വെള്ളം",
+"Vèḻḻaṃ"
+],
+"Food": [
+"ഭക്ഷണം",
+"Bhakṣaṇaṃ"
+],
+"I am hungry": [
+"എനിക്ക് വിശക്കുന്നു",
+"Ènikk viśakkunnu"
+],
+"Cooked rice": [
+"വേവിച്ച അരി",
+"Vevicca ari"
+],
+"Tea": [
+"ചായ",
+"Cāya"
+],
+"Coffee": [
+"കോഫി",
+"Keāphi"
+],
+"Please give me water": [
+"ദയവായി എനിക്ക് വെള്ളം തരൂ",
+"Dayavāyi ènikk vèḻḻaṃ tarū"
+],
+"The food is delicious": [
+"ഭക്ഷണം രുചികരമാണ്",
+"Bhakṣaṇaṃ rucikaramāṇ"
+],
+"I am vegetarian": [
+"ഞാൻ വെജിറ്റേറിയനാണ്",
+"Ñāൻ vèjiṟṟeṟiyanāṇ"
+],
+"Bill please": [
+"ദയവായി ബില്ല് തരൂ",
+"Dayavāyi bill tarū"
+],
+"Have a nice meal": [
+"നല്ല ഭക്ഷണം കഴിക്കൂ",
+"Nalla bhakṣaṇaṃ kal̤ikkū"
+],
+"I am thirsty": [
+"എനിക്ക് ദാഹിക്കുന്നു",
+"Ènikk dāhikkunnu"
+],
+"One cup of tea": [
+"ഒരു കപ്പ് ചായ",
+"Òru kapp cāya"
+],
+"No sugar please": [
+"ദയവായി പഞ്ചസാര വേണ്ട",
+"Dayavāyi pañcasāra veṇṭa"
+],
+"Less spicy please": [
+"കുറച്ച് എരിവ് ദയവായി",
+"Kuṟacc èriv dayavāyi"
+],
+"Too hot": [
+"വളരെ ചൂട്",
+"Vaḻarè cūṭ"
+],
+"I am full": [
+"ഞാൻ നിറഞ്ഞിരിക്കുന്നു",
+"Ñāൻ niṟaññirikkunnu"
+],
+"Menu please": [
+"മെനു തരൂ",
+"Mènu tarū"
+],
+"What do you recommend?": [
+"നിങ്ങൾ എന്താണ് ശുപാർശ ചെയ്യുന്നത്?",
+"Niṅṅaൾ èntāṇ śupāർśa cèyyunnat?"
+],
+"Today's special?": [
+"ഇന്നത്തെ സ്പെഷ്യൽ?",
+"Innattè spèṣyaൽ?"
+],
+"Is this vegetarian?": [
+"ഇത് സസ്യാഹാരമാണോ?",
+"It sasyāhāramāṇo?"
+],
+"I have an allergy": [
+"എനിക്ക് അലർജിയുണ്ട്",
+"Ènikk alaർjiyuṇṭ"
+],
+"No onion no garlic": [
+"ഉള്ളി ഇല്ല വെളുത്തുള്ളി ഇല്ല",
+"Uḻḻi illa vèḻuttuḻḻi illa"
+],
+"Pack this to go": [
+"പോകാൻ ഇത് പാക്ക് ചെയ്യുക",
+"Pokāൻ it pākk cèyyuka"
+],
+"Table for two": [
+"രണ്ടിന് മേശ",
+"Raṇṭin meśa"
+],
+"Can I have the bill?": [
+"എനിക്ക് ബിൽ കിട്ടുമോ?",
+"Ènikk biൽ kiṭṭumo?"
+],
+"Is service included?": [
+"സേവനം ഉൾപ്പെടുത്തിയിട്ടുണ്ടോ?",
+"Sevanaṃ uൾppèṭuttiyiṭṭuṇṭo?"
+],
+"Keep the change": [
+"മാറ്റം നിലനിർത്തുക",
+"Māṟṟaṃ nilaniർttuka"
+],
+"This is cold": [
+"ഇത് തണുപ്പാണ്",
+"It taṇuppāṇ"
+],
+"Can I get a refill?": [
+"എനിക്ക് ഒരു റീഫിൽ ലഭിക്കുമോ?",
+"Ènikk òru ṟīphiൽ labhikkumo?"
+],
+"Breakfast": [
+"പ്രാതൽ",
+"Prātaൽ"
+],
+"Lunch": [
+"ഉച്ചഭക്ഷണം",
+"Uccabhakṣaṇaṃ"
+],
+"Dinner": [
+"അത്താഴം",
+"Attāl̤aṃ"
+],
+"Snack": [
+"ലഘുഭക്ഷണം",
+"Laghubhakṣaṇaṃ"
+],
+"Dessert": [
+"പലഹാരം",
+"Palahāraṃ"
+],
+"Starter": [
+"സ്റ്റാർട്ടർ",
+"Sṟṟāർṭṭaർ"
+],
+"Main course": [
+"പ്രധാന കോഴ്സ്",
+"Pradhāna kol̤s"
+],
+"Soup": [
+"സൂപ്പ്",
+"Sūpp"
+],
+"Salad": [
+"സാലഡ്",
+"Sālaḍ"
+],
+"Rice and curry": [
+"ചോറും കറിയും",
+"Coṟuṃ kaṟiyuṃ"
+],
+"Roti": [
+"റൊട്ടി",
+"Ṟòṭṭi"
+],
+"Dal": [
+"ദൽ",
+"Daൽ"
+],
+"Vegetable curry": [
+"വെജിറ്റബിൾ കറി",
+"Vèjiṟṟabiൾ kaṟi"
+],
+"Fish curry": [
+"മീൻ കറി",
+"Mīൻ kaṟi"
+],
+"Chicken": [
+"കോഴി",
+"Keāl̤i"
+],
+"Egg": [
+"മുട്ട",
+"Muṭṭa"
+],
+"Paneer": [
+"പനീർ",
+"Panīർ"
+],
+"Yogurt": [
+"തൈര്",
+"Tair"
+],
+"Pickle": [
+"അച്ചാർ",
+"Accāർ"
+],
+"Chutney": [
+"ചട്ണി",
+"Caṭṇi"
+],
+"Sweet": [
+"മധുരം",
+"Madhuraṃ"
+],
+"Ice cream": [
+"ഐസ്ക്രീം",
+"Aiskrīṃ"
+],
+"Fresh juice": [
+"പുതിയ ജ്യൂസ്",
+"Putiya jyūs"
+],
+"Cold drink": [
+"തണുത്ത പാനീയം",
+"Taṇutta pānīyaṃ"
+],
+"Hot milk": [
+"ചൂടുള്ള പാൽ",
+"Cūṭuḻḻa pāൽ"
+],
+"Green tea": [
+"ഗ്രീൻ ടീ",
+"Grīൻ ṭī"
+],
+"Black coffee": [
+"കറുത്ത കാപ്പി",
+"Kaṟutta kāppi"
+],
+"Mineral water": [
+"മിനറൽ വാട്ടർ",
+"Minaṟaൽ vāṭṭaർ"
+],
+"No ice": [
+"ഐസ് ഇല്ല",
+"Ais illa"
+],
+"Extra napkins": [
+"അധിക നാപ്കിനുകൾ",
+"Adhika nāpkinukaൾ"
+],
+"Raw": [
+"അസംസ്കൃത",
+"Asaṃskṛta"
+],
+"Cooked": [
+"പാകം ചെയ്തു",
+"Pākaṃ cèytu"
+],
+"Fried": [
+"വറുത്തത്",
+"Vaṟuttat"
+],
+"Boiled": [
+"തിളപ്പിച്ച്",
+"Tiḻappicc"
+],
+"Spicy": [
+"എരിവുള്ള",
+"Èrivuḻḻa"
+],
+"Sour": [
+"പുളിച്ച",
+"Puḻicca"
+],
+"Bitter": [
+"കയ്പേറിയ",
+"Kaypeṟiya"
+],
+"Tasty": [
+"രുചിയുള്ള",
+"Ruciyuḻḻa"
+],
+"Tasteless": [
+"രുചിയില്ലാത്തത്",
+"Ruciyillāttat"
+],
+"Fresh": [
+"പുതിയത്",
+"Putiyat"
+],
+"Stale": [
+"പഴകിയ",
+"Pal̤akiya"
+],
+"Hot": [
+"ചൂട്",
+"Cūṭ"
+],
+"Cold": [
+"തണുപ്പ്",
+"Taṇupp"
+],
+"I cannot eat this": [
+"എനിക്ക് ഇത് കഴിക്കാൻ കഴിയില്ല",
+"Ènikk it kal̤ikkāൻ kal̤iyilla"
+],
+"Different dish please": [
+"വ്യത്യസ്തമായ വിഭവം ദയവായി",
+"Vyatyastamāya vibhavaṃ dayavāyi"
+],
+"Same again": [
+"വീണ്ടും അതേ",
+"Vīṇṭuṃ ate"
+],
+"Half portion": [
+"പകുതി ഭാഗം",
+"Pakuti bhāgaṃ"
+],
+"Large portion": [
+"വലിയ ഭാഗം",
+"Valiya bhāgaṃ"
+],
+"Small portion": [
+"ചെറിയ ഭാഗം",
+"Cèṟiya bhāgaṃ"
+],
+"For here or to go?": [
+"ഇങ്ങോട്ടോ അതോ പോകാൻ?",
+"Iṅṅoṭṭo ato pokāൻ?"
+],
+"Eat slowly": [
+"പതുക്കെ കഴിക്കുക",
+"Patukkè kal̤ikkuka"
+],
+"Cheers!": [
+"ചിയേഴ്സ്!",
+"Ciyel̤s!"
+],
+"To your health": [
+"നിങ്ങളുടെ ആരോഗ്യത്തിന്",
+"Niṅṅaḻuṭè ārogyattin"
+],
+"Enjoy your meal": [
+"ഭക്ഷണം ആസ്വദിക്കുക",
+"Bhakṣaṇaṃ āsvadikkuka"
+],
+"It smells good": [
+"നല്ല മണമാണ്",
+"Nalla maṇamāṇ"
+],
+"Too salty": [
+"വളരെ ഉപ്പ്",
+"Vaḻarè upp"
+],
+"Perfect": [
+"തികഞ്ഞ",
+"Tikañña"
+],
+"Compliments to the chef": [
+"ഷെഫിന് അഭിനന്ദനങ്ങൾ",
+"Ṣèphin abhinandanaṅṅaൾ"
+],
+"How much is this?": [
+"ഇത് എത്രമാത്രമാണ്?",
+"It ètramātramāṇ?"
+],
+"That's too expensive": [
+"അത് വളരെ ചെലവേറിയതാണ്",
+"At vaḻarè cèlaveṟiyatāṇ"
+],
+"Cheap": [
+"വിലകുറഞ്ഞത്",
+"Vilakuṟaññat"
+],
+"Give me one kg rice": [
+"ഒരു കിലോ അരി തരൂ",
+"Òru kilo ari tarū"
+],
+"Do you have a bag?": [
+"നിങ്ങൾക്ക് ഒരു ബാഗ് ഉണ്ടോ?",
+"Niṅṅaൾkk òru bāg uṇṭo?"
+],
+"OK I'll take it": [
+"ശരി ഞാൻ എടുത്തോളാം",
+"Śari ñāൻ èṭuttoḻāṃ"
+],
+"Can you reduce the price?": [
+"വില കുറയ്ക്കാമോ?",
+"Vila kuṟaykkāmo?"
+],
+"Give me a discount": [
+"എനിക്ക് ഒരു കിഴിവ് തരൂ",
+"Ènikk òru kil̤iv tarū"
+],
+"Final price?": [
+"അന്തിമ വില?",
+"Antima vila?"
+],
+"I am just looking": [
+"ഞാൻ വെറുതെ നോക്കുകയാണ്",
+"Ñāൻ vèṟutè nokkukayāṇ"
+],
+"Do you have this in red?": [
+"നിങ്ങൾക്ക് ഇത് ചുവപ്പ് നിറത്തിൽ ഉണ്ടോ?",
+"Niṅṅaൾkk it cuvapp niṟattiൽ uṇṭo?"
+],
+"Do you have a bigger size?": [
+"നിങ്ങൾക്ക് വലിയ വലിപ്പമുണ്ടോ?",
+"Niṅṅaൾkk valiya valippamuṇṭo?"
+],
+"Do you have a smaller size?": [
+"നിങ്ങൾക്ക് ചെറിയ വലിപ്പമുണ്ടോ?",
+"Niṅṅaൾkk cèṟiya valippamuṇṭo?"
+],
+"Can I try this on?": [
+"എനിക്ക് ഇത് പരീക്ഷിക്കാമോ?",
+"Ènikk it parīkṣikkāmo?"
+],
+"Where is the fitting room?": [
+"ഫിറ്റിംഗ് റൂം എവിടെയാണ്?",
+"Phiṟṟiṃg ṟūṃ èviṭèyāṇ?"
+],
+"I will pay by card": [
+"ഞാൻ കാർഡ് വഴി പണമടയ്ക്കും",
+"Ñāൻ kāർḍ val̤i paṇamaṭaykkuṃ"
+],
+"Do you accept cards?": [
+"നിങ്ങൾ കാർഡുകൾ സ്വീകരിക്കുമോ?",
+"Niṅṅaൾ kāർḍukaൾ svīkarikkumo?"
+],
+"Cash only": [
+"പണം മാത്രം",
+"Paṇaṃ mātraṃ"
+],
+"Do you have change?": [
+"നിങ്ങൾക്ക് മാറ്റമുണ്ടോ?",
+"Niṅṅaൾkk māṟṟamuṇṭo?"
+],
+"Receipt please": [
+"രസീത് ദയവായി",
+"Rasīt dayavāyi"
+],
+"Gift wrap please": [
+"സമ്മാന പൊതി ദയവായി",
+"Sammāna pòti dayavāyi"
+],
+"Where do I pay?": [
+"ഞാൻ എവിടെ പണമടയ്ക്കണം?",
+"Ñāൻ èviṭè paṇamaṭaykkaṇaṃ?"
+],
+"Is there a warranty?": [
+"വാറൻ്റി ഉണ്ടോ?",
+"Vāṟaൻṟi uṇṭo?"
+],
+"Can I return this?": [
+"എനിക്ക് ഇത് തിരികെ നൽകാമോ?",
+"Ènikk it tirikè naൽkāmo?"
+],
+"Exchange only": [
+"എക്സ്ചേഞ്ച് മാത്രം",
+"Èksceñc mātraṃ"
+],
+"Out of stock": [
+"സ്റ്റോക്കില്ല",
+"Sṟṟeākkilla"
+],
+"When will it arrive?": [
+"എപ്പോൾ എത്തും?",
+"Èppoൾ èttuṃ?"
+],
+"Order": [
+"ഓർഡർ ചെയ്യുക",
+"Oർḍaർ cèyyuka"
+],
+"Delivery": [
+"ഡെലിവറി",
+"Ḍèlivaṟi"
+],
+"Free delivery?": [
+"സൗജന്യ ഡെലിവറി?",
+"Saൗjanya ḍèlivaṟi?"
+],
+"Supermarket": [
+"സൂപ്പർമാർക്കറ്റ്",
+"Sūppaർmāർkkaṟṟ"
+],
+"Market": [
+"വിപണി",
+"Vipaṇi"
+],
+"Shop": [
+"കട",
+"Kaṭa"
+],
+"Mall": [
+"മാൾ",
+"Māൾ"
+],
+"Bakery": [
+"ബേക്കറി",
+"Bekkaṟi"
+],
+"Pharmacy": [
+"ഫാർമസി",
+"Phāർmasi"
+],
+"Bookstore": [
+"പുസ്തകശാല",
+"Pustakaśāla"
+],
+"Clothing store": [
+"തുണിക്കട",
+"Tuṇikkaṭa"
+],
+"Shoe shop": [
+"ചെരുപ്പ് കട",
+"Cèrupp kaṭa"
+],
+"Jewellery shop": [
+"ജ്വല്ലറി ഷോപ്പ്",
+"Jvallaṟi ṣopp"
+],
+"Electronics store": [
+"ഇലക്ട്രോണിക്സ് സ്റ്റോർ",
+"Ilakṭroṇiks sṟṟoർ"
+],
+"Open": [
+"തുറക്കുക",
+"Tuṟakkuka"
+],
+"Closed": [
+"അടച്ചു",
+"Aṭaccu"
+],
+"Sale": [
+"വിൽപ്പന",
+"Viൽppana"
+],
+"Half price": [
+"പകുതി വില",
+"Pakuti vila"
+],
+"Buy one get one": [
+"ഒന്ന് വാങ്ങിയാൽ ഒന്ന് കിട്ടും",
+"Ònn vāṅṅiyāൽ ònn kiṭṭuṃ"
+],
+"Clearance": [
+"ക്ലിയറൻസ്",
+"Kliyaṟaൻs"
+],
+"New arrival": [
+"പുതിയ വരവ്",
+"Putiya varav"
+],
+"Best seller": [
+"ബെസ്റ്റ് സെല്ലർ",
+"Bèsṟṟ sèllaർ"
+],
+"Limited edition": [
+"പരിമിത പതിപ്പ്",
+"Parimita patipp"
+],
+"Original": [
+"ഒറിജിനൽ",
+"Òṟijinaൽ"
+],
+"Copy": [
+"പകർത്തുക",
+"Pakaർttuka"
+],
+"Brand": [
+"ബ്രാൻഡ്",
+"Brāൻḍ"
+],
+"Quality": [
+"ഗുണനിലവാരം",
+"Guṇanilavāraṃ"
+],
+"Cheap quality": [
+"വിലകുറഞ്ഞ നിലവാരം",
+"Vilakuṟañña nilavāraṃ"
+],
+"Good quality": [
+"നല്ല നിലവാരം",
+"Nalla nilavāraṃ"
+],
+"Expensive": [
+"ചെലവേറിയത്",
+"Cèlaveṟiyat"
+],
+"Affordable": [
+"താങ്ങാവുന്ന വില",
+"Tāṅṅāvunna vila"
+],
+"Bargain": [
+"വിലപേശുക",
+"Vilapeśuka"
+],
+"Negotiate": [
+"ചർച്ച നടത്തുക",
+"Caർcca naṭattuka"
+],
+"I need...": [
+"എനിക്ക് വേണം...",
+"Ènikk veṇaṃ..."
+],
+"Show me that": [
+"അത് എന്നെ കാണിക്കൂ",
+"At ènnè kāṇikkū"
+],
+"Anything else?": [
+"എന്തും?",
+"Èntuṃ?"
+],
+"That is all": [
+"അത്രമാത്രം",
+"Atramātraṃ"
+],
+"I will think about it": [
+"ഞാൻ അതിനെക്കുറിച്ച് ചിന്തിക്കും",
+"Ñāൻ atinèkkuṟicc cintikkuṃ"
+],
+"I will come back": [
+"ഞാൻ തിരിച്ചു വരും",
+"Ñāൻ tiriccu varuṃ"
+],
+"Do you have another colour?": [
+"നിങ്ങൾക്ക് മറ്റൊരു നിറമുണ്ടോ?",
+"Niṅṅaൾkk maṟṟòru niṟamuṇṭo?"
+],
+"Only this left": [
+"ഇതു മാത്രം ബാക്കി",
+"Itu mātraṃ bākki"
+],
+"Last piece": [
+"അവസാന ഭാഗം",
+"Avasāna bhāgaṃ"
+],
+"Reserve this for me": [
+"ഇത് എനിക്കായി കരുതിവെക്കൂ",
+"It ènikkāyi karutivèkkū"
+],
+"Put it on hold": [
+"അത് ഹോൾഡിൽ വയ്ക്കുക",
+"At hoൾḍiൽ vaykkuka"
+],
+"Cancel my order": [
+"എൻ്റെ ഓർഡർ റദ്ദാക്കുക",
+"Èൻṟè oർḍaർ ṟaddākkuka"
+],
+"Track my order": [
+"എൻ്റെ ഓർഡർ ട്രാക്ക് ചെയ്യുക",
+"Èൻṟè oർḍaർ ṭrākk cèyyuka"
+],
+"Wrong size": [
+"തെറ്റായ വലിപ്പം",
+"Tèṟṟāya valippaṃ"
+],
+"Defective": [
+"വികലമായ",
+"Vikalamāya"
+],
+"Refund": [
+"റീഫണ്ട്",
+"Ṟīphaṇṭ"
+],
+"Complaint": [
+"പരാതി",
+"Parāti"
+],
+"Manager": [
+"മാനേജർ",
+"Mānejaർ"
+],
+"Customer service": [
+"കസ്റ്റമർ സർവീസ്",
+"Kasṟṟamaർ saർvīs"
+],
+"Help desk": [
+"ഹെൽപ്പ് ഡെസ്ക്",
+"Hèൽpp ḍèsk"
+],
+"Counter": [
+"കൗണ്ടർ",
+"Kaൗṇṭaർ"
+],
+"Queue": [
+"ക്യൂ",
+"Kyū"
+],
+"Waiting": [
+"കാത്തിരിക്കുന്നു",
+"Kāttirikkunnu"
+],
+"Next please": [
+"അടുത്തത് ദയവായി",
+"Aṭuttat dayavāyi"
+],
+"Hurry": [
+"വേഗം",
+"Vegaṃ"
+],
+"No rush": [
+"തിരക്കില്ല",
+"Tirakkilla"
+],
+"Take your time": [
+"നിനക്കാവശ്യത്തിനുള്ള സമയമെടുക്കുക",
+"Ninakkāvaśyattinuḻḻa samayamèṭukkuka"
+],
+"Have a nice day": [
+"ഒരു നല്ല ദിനം ആശംസിക്കുന്നു",
+"Òru nalla dinaṃ āśaṃsikkunnu"
+],
+"Thank you for shopping": [
+"ഷോപ്പിംഗിന് നന്ദി",
+"Ṣoppiṃgin nandi"
+],
+"Help!": [
+"സഹായം!",
+"Sahāyaṃ!"
+],
+"Stop!": [
+"നിർത്തുക!",
+"Niർttuka!"
+],
+"Call the police!": [
+"പൊലീസിനെ വിളിക്കുക!",
+"Pèālīsinè viḻikkuka!"
+],
+"Fire!": [
+"തീ!",
+"Tī!"
+],
+"I need a doctor": [
+"എനിക്ക് ഒരു ഡോക്ടറെ വേണം",
+"Ènikk òru ḍokṭaṟè veṇaṃ"
+],
+"I'm sick": [
+"ഞാൻ രോഗിയാണ്",
+"Ñāൻ reāgiyāṇ"
+],
+"It's an emergency": [
+"ഇതൊരു അടിയന്തര കാര്യമാണ്",
+"Itèāru aṭiyantara kāryamāṇ"
+],
+"There has been an accident": [
+"ഒരു അപകടം നടന്നു",
+"Òru apakaṭaṃ naṭannu"
+],
+"I have been robbed": [
+"ഞാൻ കൊള്ളയടിക്കപ്പെട്ടിരിക്കുന്നു",
+"Ñāൻ kòḻḻayaṭikkappèṭṭirikkunnu"
+],
+"Someone is following me": [
+"ആരോ എന്നെ പിന്തുടരുന്നു",
+"Āro ènnè pintuṭarunnu"
+],
+"I lost my child": [
+"എനിക്ക് എൻ്റെ കുട്ടിയെ നഷ്ടപ്പെട്ടു",
+"Ènikk èൻṟè kuṭṭiyè naṣṭappèṭṭu"
+],
+"I need medicine": [
+"എനിക്ക് മരുന്ന് വേണം",
+"Ènikk marunn veṇaṃ"
+],
+"I have pain here": [
+"എനിക്ക് ഇവിടെ വേദനയുണ്ട്",
+"Ènikk iviṭè vedanayuṇṭ"
+],
+"I am allergic to...": [
+"എനിക്ക് അലർജിയാണ്...",
+"Ènikk alaർjiyāṇ..."
+],
+"I have fever": [
+"എനിക്ക് പനിയുണ്ട്",
+"Ènikk paniyuṇṭ"
+],
+"I have a headache": [
+"എനിക്ക് ഒരു തലവേദനയുണ്ട്",
+"Ènikk òru talavedanayuṇṭ"
+],
+"I have stomach ache": [
+"എനിക്ക് വയറുവേദനയുണ്ട്",
+"Ènikk vayaṟuvedanayuṇṭ"
+],
+"I cannot breathe": [
+"എനിക്ക് ശ്വസിക്കാൻ കഴിയുന്നില്ല",
+"Ènikk śvasikkāൻ kal̤iyunnilla"
+],
+"Bleeding": [
+"രക്തസ്രാവം",
+"Raktasrāvaṃ"
+],
+"Broken bone": [
+"തകർന്ന അസ്ഥി",
+"Takaർnna asthi"
+],
+"Burn": [
+"കത്തിക്കുക",
+"Kattikkuka"
+],
+"Bite": [
+"കടിക്കുക",
+"Kaṭikkuka"
+],
+"Poison": [
+"വിഷം",
+"Viṣaṃ"
+],
+"Drowning": [
+"മുങ്ങുന്നു",
+"Muṅṅunnu"
+],
+"Unconscious": [
+"അബോധാവസ്ഥയിൽ",
+"Abodhāvasthayiൽ"
+],
+"Heart attack": [
+"ഹൃദയാഘാതം",
+"Hṛdayāghātaṃ"
+],
+"Stay calm": [
+"ശാന്തത പാലിക്കുക",
+"Śāntata pālikkuka"
+],
+"Do not move": [
+"അനങ്ങരുത്",
+"Anaṅṅarut"
+],
+"Police station": [
+"പോലീസ് സ്റ്റേഷൻ",
+"Polīs sṟṟeṣaൻ"
+],
+"Fire station": [
+"ഫയർ സ്റ്റേഷൻ",
+"Phayaർ sṟṟeṣaൻ"
+],
+"Ambulance": [
+"ആംബുലൻസ്",
+"Āṃbulaൻs"
+],
+"Doctor": [
+"ഡോക്ടർ",
+"Ḍokṭaർ"
+],
+"Nurse": [
+"നഴ്സ്",
+"Nal̤s"
+],
+"Medicine": [
+"മരുന്ന്",
+"Marunn"
+],
+"First aid": [
+"പ്രഥമ ശ്രുശ്രൂഷ",
+"Prathama śruśrūṣa"
+],
+"Bandage": [
+"ബാൻഡേജ്",
+"Bāൻḍej"
+],
+"Antiseptic": [
+"ആൻ്റിസെപ്റ്റിക്",
+"Āൻṟisèpṟṟik"
+],
+"Painkiller": [
+"വേദനസംഹാരി",
+"Vedanasaṃhāri"
+],
+"Injection": [
+"കുത്തിവയ്പ്പ്",
+"Kuttivaypp"
+],
+"Blood": [
+"രക്തം",
+"Raktaṃ"
+],
+"Blood bank": [
+"രക്ത ബാങ്ക്",
+"Rakta bāṅk"
+],
+"Operation": [
+"ഓപ്പറേഷൻ",
+"Oppaṟeṣaൻ"
+],
+"ICU": [
+"ഐ.സി.യു",
+"Ai.si.yu"
+],
+"Ward": [
+"വാർഡ്",
+"Vāർḍ"
+],
+"Emergency room": [
+"എമർജൻസി റൂം",
+"Èmaർjaൻsi ṟūṃ"
+],
+"X-ray": [
+"എക്സ്-റേ",
+"Èks-ṟe"
+],
+"Report": [
+"റിപ്പോർട്ട് ചെയ്യുക",
+"Ṟippoർṭṭ cèyyuka"
+],
+"Prescription": [
+"കുറിപ്പടി",
+"Kuṟippaṭi"
+],
+"Insurance": [
+"ഇൻഷുറൻസ്",
+"Iൻṣuṟaൻs"
+],
+"Contact number": [
+"ബന്ധപ്പെടേണ്ട നമ്പർ",
+"Bandhappèṭeṇṭa nampaർ"
+],
+"Next of kin": [
+"അടുത്ത ബന്ധു",
+"Aṭutta bandhu"
+],
+"Identity": [
+"ഐഡൻ്റിറ്റി",
+"Aiḍaൻṟiṟṟi"
+],
+"Passport": [
+"പാസ്പോർട്ട്",
+"Pāspoർṭṭ"
+],
+"Address": [
+"വിലാസം",
+"Vilāsaṃ"
+],
+"Phone": [
+"ഫോൺ",
+"Phoൺ"
+],
+"Quick!": [
+"വേഗം!",
+"Vegaṃ!"
+],
+"Hurry up!": [
+"വേഗത്തിലാക്കുക!",
+"Vegattilākkuka!"
+],
+"Safe": [
+"സുരക്ഷിതം",
+"Surakṣitaṃ"
+],
+"Danger": [
+"അപായം",
+"Apāyaṃ"
+],
+"Warning": [
+"മുന്നറിയിപ്പ്",
+"Munnaṟiyipp"
+],
+"Caution": [
+"ജാഗ്രത",
+"Jāgrata"
+],
+"Exit": [
+"പുറത്ത്",
+"Puṟatt"
+],
+"Entrance": [
+"പ്രവേശനം",
+"Praveśanaṃ"
+],
+"Evacuate": [
+"ഒഴിപ്പിക്കുക",
+"Òl̤ippikkuka"
+],
+"Assembly point": [
+"അസംബ്ലി പോയിൻ്റ്",
+"Asaṃbli poyiൻṟ"
+],
+"Do not enter": [
+"പ്രവേശിക്കരുത്",
+"Praveśikkarut"
+],
+"No entry": [
+"പ്രവേശനമില്ല",
+"Praveśanamilla"
+],
+"Restricted area": [
+"നിയന്ത്രിത പ്രദേശം",
+"Niyantrita pradeśaṃ"
+],
+"Keep away": [
+"മാറ്റിനിർത്തുക",
+"Māṟṟiniർttuka"
+],
+"Do not touch": [
+"തൊടരുത്",
+"Tèāṭarut"
+],
+"High voltage": [
+"ഉയർന്ന വോൾട്ടേജ്",
+"Uyaർnna voൾṭṭej"
+],
+"Flammable": [
+"ജ്വലിക്കുന്ന",
+"Jvalikkunna"
+],
+"Toxic": [
+"വിഷം",
+"Viṣaṃ"
+],
+"Corrosive": [
+"നശിപ്പിക്കുന്ന",
+"Naśippikkunna"
+],
+"Slippery": [
+"സ്ലിപ്പറി",
+"Slippaṟi"
+],
+"Fragile": [
+"ദുർബലമായ",
+"Duർbalamāya"
+],
+"Handle with care": [
+"ശ്രദ്ധയോടെ കൈകാര്യം ചെയ്യുക",
+"Śraddhayoṭè kaikāryaṃ cèyyuka"
+],
+"Emergency exit": [
+"എമർജൻസി എക്സിറ്റ്",
+"Èmaർjaൻsi èksiṟṟ"
+],
+"Fire extinguisher": [
+"അഗ്നിശമന ഉപകരണം",
+"Agniśamana upakaraṇaṃ"
+],
+"First aid kit": [
+"പ്രഥമശുശ്രൂഷ കിറ്റ്",
+"Prathamaśuśrūṣa kiṟṟ"
+],
+"Emergency number": [
+"എമർജൻസി നമ്പർ",
+"Èmaർjaൻsi nampaർ"
+],
+"Helpline": [
+"ഹെൽപ്പ് ലൈൻ",
+"Hèൽpp laiൻ"
+],
+"Lost and found": [
+"നഷ്ടപ്പെട്ടു കണ്ടെത്തി",
+"Naṣṭappèṭṭu kaṇṭètti"
+],
+"Missing person": [
+"ആളെ കാണാതായി",
+"Āḻè kāṇātāyi"
+],
+"Report to police": [
+"പോലീസിൽ റിപ്പോർട്ട് ചെയ്യുക",
+"Polīsiൽ ṟippoർṭṭ cèyyuka"
+],
+"Stay with me": [
+"എനിക്കൊപ്പം താമസിക്കുക",
+"Ènikkèāppaṃ tāmasikkuka"
+],
+"Everything will be fine": [
+"എല്ലാം ശരിയാകും",
+"Èllāṃ śariyākuṃ"
+],
+"What time is it?": [
+"എത്രയാണ് സമയം?",
+"Ètrayāṇ samayaṃ?"
+],
+"Morning": [
+"രാവിലെ",
+"Rāvilè"
+],
+"Evening": [
+"വൈകുന്നേരം",
+"Vaikunneraṃ"
+],
+"Night": [
+"രാത്രി",
+"Rātri"
+],
+"Today": [
+"ഇന്ന്",
+"Inn"
+],
+"Tomorrow": [
+"നാളെ",
+"Nāḻè"
+],
+"Yesterday": [
+"ഇന്നലെ",
+"Innalè"
+],
+"Now": [
+"ഇപ്പോൾ",
+"Ippoൾ"
+],
+"Sunday": [
+"ഞായറാഴ്ച",
+"Ñāyaṟāl̤ca"
+],
+"Monday": [
+"തിങ്കളാഴ്ച",
+"Tiṅkaḻāl̤ca"
+],
+"Tuesday": [
+"ചൊവ്വാഴ്ച",
+"Còvvāl̤ca"
+],
+"Wednesday": [
+"ബുധനാഴ്ച",
+"Budhanāl̤ca"
+],
+"Thursday": [
+"വ്യാഴാഴ്ച",
+"Vyāl̤āl̤ca"
+],
+"Friday": [
+"വെള്ളിയാഴ്ച",
+"Vèḻḻiyāl̤ca"
+],
+"Saturday": [
+"ശനിയാഴ്ച",
+"Śaniyāl̤ca"
+],
+"Week": [
+"ആഴ്ച",
+"Āl̤ca"
+],
+"Month": [
+"മാസം",
+"Māsaṃ"
+],
+"Year": [
+"വർഷം",
+"Vaർṣaṃ"
+],
+"Early morning": [
+"അതിരാവിലെ",
+"Atirāvilè"
+],
+"Noon": [
+"ഉച്ച",
+"Ucca"
+],
+"Midnight": [
+"അർദ്ധരാത്രി",
+"Aർddharātri"
+],
+"Hour": [
+"മണിക്കൂർ",
+"Maṇikkūർ"
+],
+"Minute": [
+"മിനിറ്റ്",
+"Miniṟṟ"
+],
+"Second": [
+"രണ്ടാമത്",
+"Raṇṭāmat"
+],
+"Late": [
+"വൈകി",
+"Vaiki"
+],
+"Early": [
+"നേരത്തെ",
+"Nerattè"
+],
+"Before": [
+"മുമ്പ്",
+"Mump"
+],
+"After": [
+"ശേഷം",
+"Śeṣaṃ"
+],
+"January": [
+"ജനുവരി",
+"Januvari"
+],
+"February": [
+"ഫെബ്രുവരി",
+"Phèbruvari"
+],
+"March": [
+"മാർച്ച്",
+"Māർcc"
+],
+"April": [
+"ഏപ്രിൽ",
+"Epriൽ"
+],
+"May": [
+"മെയ്",
+"Mèy"
+],
+"June": [
+"ജൂൺ",
+"Jūൺ"
+],
+"July": [
+"ജൂലൈ",
+"Jūlai"
+],
+"August": [
+"ഓഗസ്റ്റ്",
+"Ogasṟṟ"
+],
+"September": [
+"സെപ്റ്റംബർ",
+"Sèpṟṟaṃbaർ"
+],
+"October": [
+"ഒക്ടോബർ",
+"Òkṭobaർ"
+],
+"November": [
+"നവംബർ",
+"Navaṃbaർ"
+],
+"December": [
+"ഡിസംബർ",
+"Ḍisaṃbaർ"
+],
+"Spring": [
+"വസന്തം",
+"Vasantaṃ"
+],
+"Summer": [
+"വേനൽക്കാലം",
+"Venaൽkkālaṃ"
+],
+"Monsoon": [
+"മൺസൂൺ",
+"Maൺsūൺ"
+],
+"Winter": [
+"ശീതകാലം",
+"Śītakālaṃ"
+],
+"Season": [
+"സീസൺ",
+"Sīsaൺ"
+],
+"Holiday": [
+"അവധി",
+"Avadhi"
+],
+"Festival": [
+"ഉത്സവം",
+"Utsavaṃ"
+],
+"Birthday": [
+"ജന്മദിനം",
+"Janmadinaṃ"
+],
+"Anniversary": [
+"വാർഷികം",
+"Vāർṣikaṃ"
+],
+"Appointment": [
+"നിയമനം",
+"Niyamanaṃ"
+],
+"Meeting": [
+"യോഗം",
+"Yogaṃ"
+],
+"Deadline": [
+"ഡെഡ്ലൈൻ",
+"Ḍèḍlaiൻ"
+],
+"Schedule": [
+"ഷെഡ്യൂൾ",
+"Ṣèḍyūൾ"
+],
+"Free time": [
+"ഫ്രീ ടൈം",
+"Phrī ṭaiṃ"
+],
+"Busy": [
+"തിരക്ക്",
+"Tirakk"
+],
+"Available": [
+"ലഭ്യമാണ്",
+"Labhyamāṇ"
+],
+"Not available": [
+"ലഭ്യമല്ല",
+"Labhyamalla"
+],
+"At what time?": [
+"ഏത് സമയത്ത്?",
+"Et samayatt?"
+],
+"Until when?": [
+"എപ്പോൾ വരെ?",
+"Èppoൾ varè?"
+],
+"From when?": [
+"എപ്പോൾ മുതൽ?",
+"Èppoൾ mutaൽ?"
+],
+"How long?": [
+"എത്രകാലം?",
+"Ètrakālaṃ?"
+],
+"A long time": [
+"വളരെക്കാലം",
+"Vaḻarèkkālaṃ"
+],
+"A short time": [
+"ഒരു ചെറിയ സമയം",
+"Òru cèṟiya samayaṃ"
+],
+"Just now": [
+"ഇപ്പോള്",
+"Ippeāḻ"
+],
+"A while ago": [
+"കുറച്ച് മുമ്പ്",
+"Kuṟacc mump"
+],
+"In a moment": [
+"ഒരു നിമിഷത്തിൽ",
+"Òru nimiṣattiൽ"
+],
+"Wait a minute": [
+"ഒരു മിനിറ്റ് കാത്തിരിക്കൂ",
+"Òru miniṟṟ kāttirikkū"
+],
+"See you later": [
+"പിന്നെ കാണാം",
+"Pinnè kāṇāṃ"
+],
+"See you tomorrow": [
+"നാളെ നിന്നെ കാണാം",
+"Nāḻè ninnè kāṇāṃ"
+],
+"See you next week": [
+"അടുത്ത ആഴ്ച കാണാം",
+"Aṭutta āl̤ca kāṇāṃ"
+],
+"Every day": [
+"എല്ലാ ദിവസവും",
+"Èllā divasavuṃ"
+],
+"Every week": [
+"എല്ലാ ആഴ്ചയും",
+"Èllā āl̤cayuṃ"
+],
+"Once a week": [
+"ആഴ്ചയിൽ ഒരിക്കൽ",
+"Āl̤cayiൽ òrikkaൽ"
+],
+"Twice a day": [
+"ദിവസത്തിൽ രണ്ടുതവണ",
+"Divasattiൽ raṇṭutavaṇa"
+],
+"All day": [
+"ദിവസം മുഴുവൻ",
+"Divasaṃ mul̤uvaൻ"
+],
+"All night": [
+"രാത്രി മുഴുവൻ",
+"Rātri mul̤uvaൻ"
+],
+"Day after tomorrow": [
+"നാളെ പിറ്റേന്ന്",
+"Nāḻè piṟṟenn"
+],
+"Day before yesterday": [
+"തലേദിവസം",
+"Taledivasaṃ"
+],
+"Next month": [
+"അടുത്ത മാസം",
+"Aṭutta māsaṃ"
+],
+"Last month": [
+"കഴിഞ്ഞ മാസം",
+"Kal̤iñña māsaṃ"
+],
+"Next year": [
+"അടുത്ത വർഷം",
+"Aṭutta vaർṣaṃ"
+],
+"Last year": [
+"കഴിഞ്ഞ വര്ഷം",
+"Kal̤iñña varṣaṃ"
+],
+"In the past": [
+"കഴിഞ്ഞകാലത്ത്",
+"Kal̤iññakālatt"
+],
+"In the future": [
+"ഭാവിയിൽ",
+"Bhāviyiൽ"
+],
+"At present": [
+"നിലവിൽ",
+"Nilaviൽ"
+],
+"From now on": [
+"ഇപ്പോൾ മുതൽ",
+"Ippeāൾ mutaൽ"
+],
+"So far": [
+"ഇതുവരെ",
+"Ituvarè"
+],
+"For a long time": [
+"ദീർഘനാളായി",
+"Dīർghanāḻāyi"
+],
+"Yes": [
+"അതെ",
+"Atè"
+],
+"No": [
+"ഇല്ല",
+"Illa"
+],
+"Please speak slowly": [
+"ദയവായി പതുക്കെ സംസാരിക്കുക",
+"Dayavāyi patukkè saṃsārikkuka"
+],
+"I don't understand": [
+"എനിക്ക് മനസ്സിലാകുന്നില്ല",
+"Ènikk manassilākunnilla"
+],
+"Do you speak Maithili?": [
+"നീ മൈഥിലി സംസാരിക്കുമോ?",
+"Nī maithili saṃsārikkumo?"
+],
+"No problem": [
+"ഒരു പ്രശ്നവുമില്ല",
+"Òru praśnavumilla"
+],
+"I agree": [
+"ഞാൻ അംഗീകരിക്കുന്നു",
+"Ñāൻ aṃgīkarikkunnu"
+],
+"Come in": [
+"അകത്തേയ്ക്ക് വരൂ",
+"Akatteykk varū"
+],
+"Have you eaten?": [
+"നിങ്ങൾ ഭക്ഷണം കഴിച്ചോ?",
+"Niṅṅaൾ bhakṣaṇaṃ kal̤icceā?"
+],
+"We are happy": [
+"ഞങ്ങൾ സന്തുഷ്ടരാണ്",
+"Ñaṅṅaൾ santuṣṭarāṇ"
+],
+"Maybe": [
+"ഒരുപക്ഷേ",
+"Òrupakṣe"
+],
+"Of course": [
+"തീർച്ചയായും",
+"Tīർccayāyuṃ"
+],
+"Certainly": [
+"തീർച്ചയായും",
+"Tīർccayāyuṃ"
+],
+"I think so": [
+"ഞാൻ അങ്ങനെ കരുതുന്നു",
+"Ñāൻ aṅṅanè karutunnu"
+],
+"I don't think so": [
+"ഞാൻ അങ്ങനെ കരുതുന്നില്ല",
+"Ñāൻ aṅṅanè karutunnilla"
+],
+"I hope so": [
+"ഞാൻ അങ്ങനെ പ്രതീക്ഷിക്കുന്നു",
+"Ñāൻ aṅṅanè pratīkṣikkunnu"
+],
+"I am not sure": [
+"എനിക്ക് ഉറപ്പില്ല",
+"Ènikk uṟappilla"
+],
+"It depends": [
+"ഇതിനെ ആശ്രയിച്ചിരിക്കുന്നു",
+"Itinè āśrayiccirikkunnu"
+],
+"That is right": [
+"അത് ശരിയാണ്",
+"At śariyāṇ"
+],
+"That is wrong": [
+"അത് തെറ്റാണ്",
+"At tèṟṟāṇ"
+],
+"I see": [
+"ഞാൻ മനസിലാക്കുന്നു",
+"Ñāൻ manasilākkunnu"
+],
+"Really?": [
+"ശരിക്കും?",
+"Śarikkuṃ?"
+],
+"Are you sure?": [
+"നിങ്ങൾക്ക് ഉറപ്പാണോ?",
+"Niṅṅaൾkk uṟappāṇeā?"
+],
+"Why not?": [
+"എന്തുകൊണ്ട്?",
+"Èntukèāṇṭ?"
+],
+"What for?": [
+"എന്തിനായി?",
+"Èntināyi?"
+],
+"Never mind": [
+"കാര്യമാക്കേണ്ടതില്ല",
+"Kāryamākkeṇṭatilla"
+],
+"It does not matter": [
+"അതിൽ കാര്യമില്ല",
+"Atiൽ kāryamilla"
+],
+"Same here": [
+"അതുപോലെ തന്നെ ഇവിടെയും",
+"Atupeālè tannè iviṭèyuṃ"
+],
+"Me too": [
+"ഞാനും",
+"Ñānuṃ"
+],
+"Neither do I": [
+"എനിക്കറിയില്ല",
+"Ènikkaṟiyilla"
+],
+"Let me see": [
+"ഞാൻ നോക്കട്ടെ",
+"Ñāൻ neākkaṭṭè"
+],
+"Let us go": [
+"നമുക്ക് പോകാം",
+"Namukk pokāṃ"
+],
+"Wait": [
+"കാത്തിരിക്കൂ",
+"Kāttirikkū"
+],
+"Hold on": [
+"ഹോൾഡ് ഓൺ ചെയ്യുക",
+"Heāൾḍ oൺ cèyyuka"
+],
+"Just a second": [
+"ഒരു നിമിഷം മാത്രം",
+"Òru nimiṣaṃ mātraṃ"
+],
+"One moment": [
+"ഒരു നിമിഷം",
+"Òru nimiṣaṃ"
+],
+"As you wish": [
+"നിങ്ങൾ ആഗ്രഹിക്കുന്നതുപോലെ",
+"Niṅṅaൾ āgrahikkunnatupeālè"
+],
+"Whatever you say": [
+"എന്ത് പറഞ്ഞാലും",
+"Ènt paṟaññāluṃ"
+],
+"I have no idea": [
+"എനിക്ക് ഒരു ഐഡിയയുമില്ല",
+"Ènikk òru aiḍiyayumilla"
+],
+"I forgot": [
+"ഞാൻ മറന്നുപോയി",
+"Ñāൻ maṟannupeāyi"
+],
+"I remember": [
+"ഞാൻ ഓർമ്മിക്കുന്നു",
+"Ñāൻ oർmmikkunnu"
+],
+"It slipped my mind": [
+"അത് എൻ്റെ മനസ്സിനെ വഴുതി വീണു",
+"At èൻṟè manassinè val̤uti vīṇu"
+],
+"Remind me": [
+"എന്നെ ഓർമ്മിപ്പിക്കുക",
+"Ènnè oർmmippikkuka"
+],
+"I mean": [
+"ഞാൻ ഉദ്ദേശിക്കുന്നത്",
+"Ñāൻ uddeśikkunnat"
+],
+"I mean it": [
+"ഞാൻ ഇതാണ് അർത്ഥമാക്കുന്നത്",
+"Ñāൻ itāṇ aർtthamākkunnat"
+],
+"What I mean is": [
+"ഞാൻ ഉദ്ദേശിക്കുന്നത്",
+"Ñāൻ uddeśikkunnat"
+],
+"In other words": [
+"മറ്റൊരു വാക്കിൽ",
+"Maṟṟèāru vākkiൽ"
+],
+"That is to say": [
+"എന്നു പറഞ്ഞാൽ",
+"Ènnu paṟaññāൽ"
+],
+"For example": [
+"ഉദാഹരണത്തിന്",
+"Udāharaṇattin"
+],
+"Such as": [
+"അതുപോലെ",
+"Atupeālè"
+],
+"And so on": [
+"ഇത്യാദി",
+"Ityādi"
+],
+"Et cetera": [
+"എറ്റ് സെറ്റേറ",
+"Èṟṟ sèṟṟeṟa"
+],
+"And so forth": [
+"അങ്ങനെ മുന്നോട്ട്",
+"Aṅṅanè munnoṭṭ"
+],
+"By the way": [
+"വഴിമധ്യേ",
+"Val̤imadhye"
+],
+"Speaking of which": [
+"സംസാരിക്കുന്നത്",
+"Saṃsārikkunnat"
+],
+"Anyway": [
+"എന്തായാലും",
+"Èntāyāluṃ"
+],
+"Anyhow": [
+"എന്തായാലും",
+"Èntāyāluṃ"
+],
+"Actually": [
+"യഥാർത്ഥത്തിൽ",
+"Yathāർtthattiൽ"
+],
+"Basically": [
+"അടിസ്ഥാനപരമായി",
+"Aṭisthānaparamāyi"
+],
+"To be honest": [
+"ഉള്ളത് ഉള്ളതുപോലെ പറയുക",
+"Uḻḻat uḻḻatupeālè paṟayuka"
+],
+"To tell the truth": [
+"സത്യം പറഞ്ഞാൽ",
+"Satyaṃ paṟaññāൽ"
+],
+"Frankly": [
+"സത്യസന്ധമായി",
+"Satyasandhamāyi"
+],
+"Honestly": [
+"സത്യസന്ധമായി",
+"Satyasandhamāyi"
+],
+"Believe me": [
+"എന്നെ വിശ്വസിക്കുക",
+"Ènnè viśvasikkuka"
+],
+"Trust me": [
+"എന്നെ വിശ്വസിക്കൂ",
+"Ènnè viśvasikkū"
+],
+"I promise": [
+"ഞാൻ വാഗ്ദാനം ചെയ്യുന്നു",
+"Ñāൻ vāgdānaṃ cèyyunnu"
+],
+"I swear": [
+"ഞാൻ പ്രതിജ്ഞയെടുക്കുന്നു",
+"Ñāൻ pratijñayèṭukkunnu"
+],
+"No way": [
+"ഒരു വഴിയുമില്ല",
+"Òru val̤iyumilla"
+],
+"No doubt": [
+"ഒരു സംശയവുമില്ല",
+"Òru saṃśayavumilla"
+],
+"No wonder": [
+"അത്ഭുതപ്പെടാനില്ല",
+"Atbhutappèṭānilla"
+],
+"No kidding": [
+"തമാശയല്ല",
+"Tamāśayalla"
+],
+"Just kidding": [
+"വെറുതെ തമാശപറയുന്നു",
+"Vèṟutè tamāśapaṟayunnu"
+],
+"I am joking": [
+"ഞാൻ തമാശ പറയുകയാണ്",
+"Ñāൻ tamāśa paṟayukayāṇ"
+],
+"Seriously": [
+"ഗൗരവമായി",
+"Gaൗravamāyi"
+],
+"Are you serious?": [
+"നീ കാര്യമായി പറയുകയാണോ?",
+"Nī kāryamāyi paṟayukayāṇeā?"
+],
+"I am serious": [
+"ഞാൻ ഗൗരവത്തിലാണ്",
+"Ñāൻ gaൗravattilāṇ"
+],
+"Sounds good": [
+"നല്ലതെന്ന് തോന്നുന്നു",
+"Nallatènn teānnunnu"
+],
+"Looks good": [
+"നന്നായി തോന്നുന്നു",
+"Nannāyi tonnunnu"
+],
+"Feels good": [
+"സുഖം തോന്നുന്നു",
+"Sukhaṃ tonnunnu"
+],
+"Good idea": [
+"നല്ല ആശയം",
+"Nalla āśayaṃ"
+],
+"Bad idea": [
+"മോശം ആശയം",
+"Mośaṃ āśayaṃ"
+],
+"Great idea": [
+"മികച്ച ആശയം",
+"Mikacca āśayaṃ"
+],
+"Not bad": [
+"മോശമല്ല",
+"Meāśamalla"
+],
+"Not bad at all": [
+"ഒട്ടും മോശമല്ല",
+"Òṭṭuṃ mośamalla"
+],
+"Could be better": [
+"മികച്ചതാകാം",
+"Mikaccatākāṃ"
+],
+"Could be worse": [
+"മോശമായേക്കാം",
+"Mośamāyekkāṃ"
+],
+"So so": [
+"അങ്ങനെ അങ്ങനെ",
+"Aṅṅanè aṅṅanè"
+],
+"Same as usual": [
+"പതിവുപോലെ തന്നെ",
+"Pativupolè tannè"
+],
+"Nothing special": [
+"പ്രത്യേകിച്ചൊന്നുമില്ല",
+"Pratyekiccònnumilla"
+],
+"Name": [
+"പേര്",
+"Per"
+],
+"Good": [
+"നല്ലത്",
+"Nallat"
+],
+"Bad": [
+"മോശം",
+"Mośaṃ"
+],
+"Fine": [
+"നന്നായി",
+"Nannāyi"
+],
+"Well": [
+"നന്നായി",
+"Nannāyi"
+],
+"Kind": [
+"ദയയുള്ള",
+"Dayayuḻḻa"
+],
+"Polite": [
+"മര്യാദയുള്ള",
+"Maryādayuḻḻa"
+],
+"Respect": [
+"ബഹുമാനം",
+"Bahumānaṃ"
+],
+"Love": [
+"സ്നേഹം",
+"Snehaṃ"
+],
+"Friend": [
+"സുഹൃത്ത്",
+"Suhṛtt"
+],
+"Guest": [
+"അതിഥി",
+"Atithi"
+],
+"Host": [
+"ഹോസ്റ്റ്",
+"Hosṟṟ"
+],
+"Greeting": [
+"അഭിവാദ്യം",
+"Abhivādyaṃ"
+],
+"Farewell": [
+"വിട",
+"Viṭa"
+],
+"Blessing": [
+"അനുഗ്രഹം",
+"Anugrahaṃ"
+],
+"Wish": [
+"ആഗ്രഹിക്കുക",
+"Āgrahikkuka"
+],
+"Gratitude": [
+"കൃതജ്ഞത",
+"Kṛtajñata"
+],
+"Apology": [
+"ക്ഷമാപണം",
+"Kṣamāpaṇaṃ"
+],
+"Excuse": [
+"ക്ഷമിക്കണം",
+"Kṣamikkaṇaṃ"
+],
+"Pardon": [
+"ക്ഷമിക്കുക",
+"Kṣamikkuka"
+],
+"Courtesy": [
+"കടപ്പാട്",
+"Kaṭappāṭ"
+],
+"Happy": [
+"സന്തോഷം",
+"Santoṣaṃ"
+],
+"Sad": [
+"ദുഃഖം",
+"Duḥkhaṃ"
+],
+"Angry": [
+"ദേഷ്യം",
+"Deṣyaṃ"
+],
+"Calm": [
+"ശാന്തം",
+"Śāntaṃ"
+],
+"Nervous": [
+"നാഡീവ്യൂഹം",
+"Nāḍīvyūhaṃ"
+],
+"Excited": [
+"ആവേശഭരിതനായി",
+"Āveśabharitanāyi"
+],
+"Bored": [
+"വിരസത",
+"Virasata"
+],
+"Tired": [
+"തളർന്നു",
+"Taḻaർnnu"
+],
+"Relaxed": [
+"വിശ്രമിച്ചു",
+"Viśramiccu"
+],
+"Worried": [
+"വിഷമിച്ചു",
+"Viṣamiccu"
+],
+"Proud": [
+"അഭിമാനിക്കുന്നു",
+"Abhimānikkunnu"
+],
+"Shy": [
+"നാണം",
+"Nāṇaṃ"
+],
+"Brave": [
+"ധൈര്യശാലി",
+"Dhairyaśāli"
+],
+"Honest": [
+"സത്യസന്ധൻ",
+"Satyasandhaൻ"
+],
+"Lazy": [
+"മടിയൻ",
+"Maṭiyaൻ"
+],
+"Active": [
+"സജീവമാണ്",
+"Sajīvamāṇ"
+],
+"Clever": [
+"മിടുക്കൻ",
+"Miṭukkaൻ"
+],
+"Stupid": [
+"മണ്ടത്തരം",
+"Maṇṭattaraṃ"
+],
+"Wise": [
+"ജ്ഞാനി",
+"Jñāni"
+],
+"Foolish": [
+"വിഡ്ഢിത്തം",
+"Viḍḍhittaṃ"
+],
+"Smart": [
+"സ്മാർട്ട്",
+"Smāർṭṭ"
+],
+"Kindness": [
+"ദയ",
+"Daya"
+],
+"Cruel": [
+"ക്രൂരൻ",
+"Krūraൻ"
+],
+"Gentle": [
+"സൗമ്യമായ",
+"Saൗmyamāya"
+],
+"Rude": [
+"പരുഷമായി",
+"Paruṣamāyi"
+],
+"Friendly": [
+"സൗഹൃദം",
+"Saൗhṛdaṃ"
+],
+"Enemy": [
+"ശത്രു",
+"Śatru"
+],
+"Stranger": [
+"അപരിചിതൻ",
+"Aparicitaൻ"
+],
+"Neighbour": [
+"അയൽക്കാരൻ",
+"Ayaൽkkāraൻ"
+],
+"Parting": [
+"വേർപിരിയൽ",
+"Veർpiriyaൽ"
+],
+"Introduction": [
+"ആമുഖം",
+"Āmukhaṃ"
+],
+"Handshake": [
+"ഹസ്തദാനം",
+"Hastadānaṃ"
+],
+"Hug": [
+"കെട്ടിപ്പിടിക്കുക",
+"Kèṭṭippiṭikkuka"
+],
+"Bow": [
+"വില്ല്",
+"Vill"
+],
+"Wave": [
+"തരംഗം",
+"Taraṃgaṃ"
+],
+"Smile": [
+"പുഞ്ചിരിക്കൂ",
+"Puñcirikkū"
+],
+"Laugh": [
+"ചിരിക്കുക",
+"Cirikkuka"
+],
+"Cry": [
+"കരയുക",
+"Karayuka"
+],
+"Gesture": [
+"ആംഗ്യം",
+"Āṃgyaṃ"
+],
+"Manner": [
+"രീതി",
+"Rīti"
+],
+"Custom": [
+"കസ്റ്റം",
+"Kasṟṟaṃ"
+],
+"Tradition": [
+"പാരമ്പര്യം",
+"Pāramparyaṃ"
+],
+"Culture": [
+"സംസ്കാരം",
+"Saṃskāraṃ"
+],
+"Etiquette": [
+"മര്യാദകൾ",
+"Maryādakaൾ"
+],
+"Formal": [
+"ഔപചാരികമായ",
+"Aupacārikamāya"
+],
+"Informal": [
+"അനൗപചാരിക",
+"Anaൗpacārika"
+],
+"Casual": [
+"കാഷ്വൽ",
+"Kāṣvaൽ"
+],
+"Respectful": [
+"ആദരവുള്ള",
+"Ādaravuḻḻa"
+],
+"Humble": [
+"വിനയം",
+"Vinayaṃ"
+],
+"Modest": [
+"എളിമയുള്ള",
+"Èḻimayuḻḻa"
+],
+"Generous": [
+"ഉദാരമതി",
+"Udāramati"
+],
+"Selfish": [
+"സ്വാർത്ഥത",
+"Svāർtthata"
+],
+"Grateful": [
+"നന്ദിയുള്ളവൻ",
+"Nandiyuḻḻavaൻ"
+],
+"Ungrateful": [
+"നന്ദികെട്ടവൻ",
+"Nandikèṭṭavaൻ"
+],
+"Thoughtful": [
+"ചിന്താശേഷിയുള്ള",
+"Cintāśeṣiyuḻḻa"
+],
+"Careless": [
+"അശ്രദ്ധ",
+"Aśraddha"
+],
+"Street": [
+"തെരുവ്",
+"Tèruv"
+],
+"Left": [
+"ഇടത്",
+"Iṭat"
+],
+"Right": [
+"ശരിയാണ്",
+"Śariyāṇ"
+],
+"Here": [
+"ഇവിടെ",
+"Iviṭè"
+],
+"There": [
+"അവിടെ",
+"Aviṭè"
+],
+"Near": [
+"സമീപം",
+"Samīpaṃ"
+],
+"Far": [
+"ദൂരെ",
+"Dūrè"
+],
+"North": [
+"വടക്ക്",
+"Vaṭakk"
+],
+"South": [
+"തെക്ക്",
+"Tèkk"
+],
+"East": [
+"കിഴക്ക്",
+"Kil̤akk"
+],
+"West": [
+"പടിഞ്ഞാറ്",
+"Paṭiññāṟ"
+],
+"Road": [
+"റോഡ്",
+"Ṟoḍ"
+],
+"Path": [
+"പാത",
+"Pāta"
+],
+"Bridge": [
+"പാലം",
+"Pālaṃ"
+],
+"Crossing": [
+"ക്രോസിംഗ്",
+"Krosiṃg"
+],
+"Corner": [
+"കോർണർ",
+"Koർṇaർ"
+],
+"Straight": [
+"ഋജുവായത്",
+"Ṛjuvāyat"
+],
+"Back": [
+"തിരികെ",
+"Tirikè"
+],
+"Front": [
+"ഫ്രണ്ട്",
+"Phraṇṭ"
+],
+"Side": [
+"വശം",
+"Vaśaṃ"
+],
+"Behind": [
+"പിന്നിൽ",
+"Pinniൽ"
+],
+"Between": [
+"ഇടയിൽ",
+"Iṭayiൽ"
+],
+"Opposite": [
+"എതിർവശത്ത്",
+"Ètiർvaśatt"
+],
+"Next to": [
+"സമീപത്തായി",
+"Samīpattāyi"
+],
+"Above": [
+"മുകളിൽ",
+"Mukaḻiൽ"
+],
+"Below": [
+"താഴെ",
+"Tāl̤è"
+],
+"Inside": [
+"ഉള്ളിൽ",
+"Uḻḻiൽ"
+],
+"Outside": [
+"പുറത്ത്",
+"Puṟatt"
+],
+"Distance": [
+"ദൂരം",
+"Dūraṃ"
+],
+"Direction": [
+"ദിശ",
+"Diśa"
+],
+"Bus": [
+"ബസ്",
+"Bas"
+],
+"Train": [
+"ട്രെയിൻ",
+"Ṭrèyiൻ"
+],
+"Car": [
+"കാർ",
+"Kāർ"
+],
+"Taxi": [
+"ടാക്സി",
+"Ṭāksi"
+],
+"Bicycle": [
+"സൈക്കിൾ",
+"Saikkiൾ"
+],
+"Motorcycle": [
+"മോട്ടോർസൈക്കിൾ",
+"Moṭṭoർsaikkiൾ"
+],
+"Boat": [
+"ബോട്ട്",
+"Boṭṭ"
+],
+"Ship": [
+"കപ്പൽ",
+"Kappaൽ"
+],
+"Plane": [
+"വിമാനം",
+"Vimānaṃ"
+],
+"Ticket": [
+"ടിക്കറ്റ്",
+"Ṭikkaṟṟ"
+],
+"Station": [
+"സ്റ്റേഷൻ",
+"Sṟṟeṣaൻ"
+],
+"Port": [
+"തുറമുഖം",
+"Tuṟamukhaṃ"
+],
+"Luggage": [
+"ലഗേജ്",
+"Lagej"
+],
+"Bag": [
+"ബാഗ്",
+"Bāg"
+],
+"Visa": [
+"വിസ",
+"Visa"
+],
+"Map": [
+"മാപ്പ്",
+"Māpp"
+],
+"Guide": [
+"വഴികാട്ടി",
+"Val̤ikāṭṭi"
+],
+"Tour": [
+"ടൂർ",
+"Ṭūർ"
+],
+"Trip": [
+"യാത്ര",
+"Yātra"
+],
+"Journey": [
+"യാത്ര",
+"Yātra"
+],
+"Travel": [
+"യാത്ര",
+"Yātra"
+],
+"Visit": [
+"സന്ദർശിക്കുക",
+"Sandaർśikkuka"
+],
+"Return": [
+"മടങ്ങുക",
+"Maṭaṅṅuka"
+],
+"Depart": [
+"പുറപ്പെടുക",
+"Puṟappèṭuka"
+],
+"Arrive": [
+"എത്തിച്ചേരുക",
+"Ètticceruka"
+],
+"Board": [
+"ബോർഡ്",
+"Boർḍ"
+],
+"Get off": [
+"താഴെയിറങ്ങുക",
+"Tāl̤èyiṟaṅṅuka"
+],
+"Hotel": [
+"ഹോട്ടൽ",
+"Hoṭṭaൽ"
+],
+"Room": [
+"മുറി",
+"Muṟi"
+],
+"Booking": [
+"ബുക്കിംഗ്",
+"Bukkiṃg"
+],
+"Reservation": [
+"സംവരണം",
+"Saṃvaraṇaṃ"
+],
+"Check-in": [
+"ചെക്ക് - ഇൻ ചെയ്യുക",
+"Cèkk - iൻ cèyyuka"
+],
+"Check-out": [
+"ചെക്ക് ഔട്ട്",
+"Cèkk auṭṭ"
+],
+"Single room": [
+"ഒറ്റമുറി",
+"Òṟṟamuṟi"
+],
+"Double room": [
+"ഇരട്ട മുറി",
+"Iraṭṭa muṟi"
+],
+"Key": [
+"താക്കോൽ",
+"Tākkoൽ"
+],
+"Reception": [
+"സ്വീകരണം",
+"Svīkaraṇaṃ"
+],
+"Lift": [
+"ലിഫ്റ്റ്",
+"Liphṟṟ"
+],
+"Floor": [
+"തറ",
+"Taṟa"
+],
+"Parking": [
+"പാർക്കിംഗ്",
+"Pāർkkiṃg"
+],
+"View": [
+"കാണുക",
+"Kāṇuka"
+],
+"Balcony": [
+"ബാൽക്കണി",
+"Bāൽkkaṇi"
+],
+"Restaurant": [
+"റെസ്റ്റോറൻ്റ്",
+"Ṟèsṟṟoṟaൻṟ"
+],
+"WiFi": [
+"വൈഫൈ",
+"Vaiphai"
+],
+"Scenic": [
+"പ്രകൃതിരമണീയമായ",
+"Prakṛtiramaṇīyamāya"
+],
+"Famous": [
+"പ്രശസ്തമായ",
+"Praśastamāya"
+],
+"Local": [
+"പ്രാദേശിക",
+"Prādeśika"
+],
+"Foreign": [
+"വിദേശി",
+"Videśi"
+],
+"Domestic": [
+"ആഭ്യന്തര",
+"Ābhyantara"
+],
+"International": [
+"അന്താരാഷ്ട്ര",
+"Antārāṣṭra"
+],
+"Border": [
+"അതിർത്തി",
+"Atiർtti"
+],
+"Immigration": [
+"കുടിയേറ്റം",
+"Kuṭiyeṟṟaṃ"
+],
+"Rice": [
+"അരി",
+"Ari"
+],
+"Lentils": [
+"പയറ്",
+"Payaṟ"
+],
+"Bread": [
+"അപ്പം",
+"Appaṃ"
+],
+"Salt": [
+"ഉപ്പ്",
+"Upp"
+],
+"Sugar": [
+"പഞ്ചസാര",
+"Pañcasāra"
+],
+"Milk": [
+"പാൽ",
+"Pāൽ"
+],
+"Vegetable": [
+"പച്ചക്കറി",
+"Paccakkaṟi"
+],
+"Fruit": [
+"പഴം",
+"Pal̤aṃ"
+],
+"Meat": [
+"മാംസം",
+"Māṃsaṃ"
+],
+"Fish": [
+"മത്സ്യം",
+"Matsyaṃ"
+],
+"Oil": [
+"എണ്ണ",
+"Èṇṇa"
+],
+"Spice": [
+"സുഗന്ധവ്യഞ്ജനങ്ങൾ",
+"Sugandhavyañjanaṅṅaൾ"
+],
+"Curry": [
+"കറി",
+"Kaṟi"
+],
+"Meal": [
+"ഭക്ഷണം",
+"Bhakṣaṇaṃ"
+],
+"Taste": [
+"രുചി",
+"Ruci"
+],
+"Hunger": [
+"വിശപ്പ്",
+"Viśapp"
+],
+"Thirst": [
+"ദാഹം",
+"Dāhaṃ"
+],
+"Onion": [
+"ഉള്ളി",
+"Uḻḻi"
+],
+"Garlic": [
+"വെളുത്തുള്ളി",
+"Vèḻuttuḻḻi"
+],
+"Tomato": [
+"തക്കാളി",
+"Takkāḻi"
+],
+"Potato": [
+"ഉരുളക്കിഴങ്ങ്",
+"Uruḻakkil̤aṅṅ"
+],
+"Carrot": [
+"കാരറ്റ്",
+"Kāraṟṟ"
+],
+"Peas": [
+"കടല",
+"Kaṭala"
+],
+"Beans": [
+"പയർ",
+"Payaർ"
+],
+"Spinach": [
+"ചീര",
+"Cīra"
+],
+"Cabbage": [
+"കാബേജ്",
+"Kābej"
+],
+"Cauliflower": [
+"കോളിഫ്ലവർ",
+"Keāḻiphlavaർ"
+],
+"Brinjal": [
+"വഴുതന",
+"Val̤utana"
+],
+"Cucumber": [
+"വെള്ളരിക്ക",
+"Vèḻḻarikka"
+],
+"Radish": [
+"റാഡിഷ്",
+"Ṟāḍiṣ"
+],
+"Ginger": [
+"ഇഞ്ചി",
+"Iñci"
+],
+"Chilli": [
+"മുളക്",
+"Muḻak"
+],
+"Lemon": [
+"നാരങ്ങ",
+"Nāraṅṅa"
+],
+"Coconut": [
+"നാളികേരം",
+"Nāḻikeraṃ"
+],
+"Banana": [
+"വാഴപ്പഴം",
+"Vāl̤appal̤aṃ"
+],
+"Mango": [
+"മാമ്പഴം",
+"Māmpal̤aṃ"
+],
+"Apple": [
+"ആപ്പിൾ",
+"Āppiൾ"
+],
+"Orange": [
+"ഓറഞ്ച്",
+"Oṟañc"
+],
+"Grape": [
+"മുന്തിരി",
+"Muntiri"
+],
+"Papaya": [
+"പപ്പായ",
+"Pappāya"
+],
+"Guava": [
+"പേരക്ക",
+"Perakka"
+],
+"Pomegranate": [
+"മാതളനാരകം",
+"Mātaḻanārakaṃ"
+],
+"Watermelon": [
+"തണ്ണിമത്തൻ",
+"Taṇṇimattaൻ"
+],
+"Dates": [
+"തീയതികൾ",
+"Tīyatikaൾ"
+],
+"Dry fruit": [
+"ഉണങ്ങിയ പഴങ്ങൾ",
+"Uṇaṅṅiya pal̤aṅṅaൾ"
+],
+"Honey": [
+"തേൻ",
+"Teൻ"
+],
+"Cook": [
+"പാചകം ചെയ്യുക",
+"Pācakaṃ cèyyuka"
+],
+"Eat": [
+"തിന്നുക",
+"Tinnuka"
+],
+"Drink": [
+"കുടിക്കുക",
+"Kuṭikkuka"
+],
+"Rotten": [
+"അഴുകിയ",
+"Al̤ukiya"
+],
+"Baked": [
+"ചുട്ടുപഴുത്തത്",
+"Cuṭṭupal̤uttat"
+],
+"Recipe": [
+"പാചകക്കുറിപ്പ്",
+"Pācakakkuṟipp"
+],
+"Kitchen": [
+"അടുക്കള",
+"Aṭukkaḻa"
+],
+"Stove": [
+"സ്റ്റൌ",
+"Sṟṟau"
+],
+"Plate": [
+"പ്ലേറ്റ്",
+"Pleṟṟ"
+],
+"Spoon": [
+"സ്പൂൺ",
+"Spūൺ"
+],
+"Fork": [
+"ഫോർക്ക്",
+"Phoർkk"
+],
+"Knife": [
+"കത്തി",
+"Katti"
+],
+"Cup": [
+"കപ്പ്",
+"Kapp"
+],
+"Glass": [
+"ഗ്ലാസ്",
+"Glās"
+],
+"Bottle": [
+"കുപ്പി",
+"Kuppi"
+],
+"Dish": [
+"വിഭവം",
+"Vibhavaṃ"
+],
+"Menu": [
+"മെനു",
+"Mènu"
+],
+"Bill": [
+"ബിൽ",
+"Biൽ"
+],
+"Head": [
+"തല",
+"Tala"
+],
+"Eye": [
+"കണ്ണ്",
+"Kaṇṇ"
+],
+"Hand": [
+"കൈ",
+"Kai"
+],
+"Foot": [
+"കാൽ",
+"Kāൽ"
+],
+"Heart": [
+"ഹൃദയം",
+"Hṛdayaṃ"
+],
+"Face": [
+"മുഖം",
+"Mukhaṃ"
+],
+"Hair": [
+"മുടി",
+"Muṭi"
+],
+"Stomach": [
+"ആമാശയം",
+"Āmāśayaṃ"
+],
+"Neck": [
+"കഴുത്ത്",
+"Kal̤utt"
+],
+"Ear": [
+"ചെവി",
+"Cèvi"
+],
+"Nose": [
+"മൂക്ക്",
+"Mūkk"
+],
+"Mouth": [
+"വായ",
+"Vāya"
+],
+"Lip": [
+"ചുണ്ടുകൾ",
+"Cuṇṭukaൾ"
+],
+"Tooth": [
+"പല്ല്",
+"Pall"
+],
+"Tongue": [
+"നാവ്",
+"Nāv"
+],
+"Cheek": [
+"കവിൾ",
+"Kaviൾ"
+],
+"Chin": [
+"ചിൻ",
+"Ciൻ"
+],
+"Forehead": [
+"നെറ്റി",
+"Nèṟṟi"
+],
+"Eyebrow": [
+"പുരികം",
+"Purikaṃ"
+],
+"Eyelash": [
+"കണ്പീലികൾ",
+"Kaṇpīlikaൾ"
+],
+"Shoulder": [
+"തോളിൽ",
+"Toḻiൽ"
+],
+"Arm": [
+"ഭുജം",
+"Bhujaṃ"
+],
+"Elbow": [
+"കൈമുട്ട്",
+"Kaimuṭṭ"
+],
+"Wrist": [
+"കൈത്തണ്ട",
+"Kaittaṇṭa"
+],
+"Finger": [
+"വിരൽ",
+"Viraൽ"
+],
+"Thumb": [
+"തള്ളവിരൽ",
+"Taḻḻaviraൽ"
+],
+"Nail": [
+"നഖം",
+"Nakhaṃ"
+],
+"Chest": [
+"നെഞ്ച്",
+"Nèñc"
+],
+"Waist": [
+"അരക്കെട്ട്",
+"Arakkèṭṭ"
+],
+"Hip": [
+"ഹിപ്",
+"Hip"
+],
+"Thigh": [
+"തുട",
+"Tuṭa"
+],
+"Knee": [
+"മുട്ടുകുത്തി",
+"Muṭṭukutti"
+],
+"Leg": [
+"കാൽ",
+"Kāൽ"
+],
+"Ankle": [
+"കണങ്കാൽ",
+"Kaṇaṅkāൽ"
+],
+"Heel": [
+"കുതികാൽ",
+"Kutikāൽ"
+],
+"Skin": [
+"തൊലി",
+"Tòli"
+],
+"Bone": [
+"അസ്ഥി",
+"Asthi"
+],
+"Muscle": [
+"പേശി",
+"Peśi"
+],
+"Brain": [
+"മസ്തിഷ്കം",
+"Mastiṣkaṃ"
+],
+"Liver": [
+"കരൾ",
+"Karaൾ"
+],
+"Lung": [
+"ശ്വാസകോശം",
+"Śvāsakośaṃ"
+],
+"Kidney": [
+"കിഡ്നി",
+"Kiḍni"
+],
+"Pain": [
+"വേദന",
+"Vedana"
+],
+"Fever": [
+"പനി",
+"Pani"
+],
+"Cough": [
+"ചുമ",
+"Cuma"
+],
+"Healthy": [
+"ആരോഗ്യമുള്ള",
+"Ārogyamuḻḻa"
+],
+"Sick": [
+"അസുഖം",
+"Asukhaṃ"
+],
+"Hospital": [
+"ആശുപത്രി",
+"Āśupatri"
+],
+"Breath": [
+"ശ്വാസം",
+"Śvāsaṃ"
+],
+"Pulse": [
+"പൾസ്",
+"Paൾs"
+],
+"Sweat": [
+"വിയർപ്പ്",
+"Viyaർpp"
+],
+"Tear": [
+"കീറുക",
+"Kīṟuka"
+],
+"Voice": [
+"ശബ്ദം",
+"Śabdaṃ"
+],
+"Touch": [
+"സ്പർശിക്കുക",
+"Spaർśikkuka"
+],
+"See": [
+"കാണുക",
+"Kāṇuka"
+],
+"Hear": [
+"കേൾക്കൂ",
+"Keൾkkū"
+],
+"Smell": [
+"മണം",
+"Maṇaṃ"
+],
+"Feel": [
+"അനുഭവപ്പെടുക",
+"Anubhavappèṭuka"
+],
+"Walk": [
+"നടക്കുക",
+"Naṭakkuka"
+],
+"Run": [
+"ഓടുക",
+"Oṭuka"
+],
+"Sit": [
+"ഇരിക്കൂ",
+"Irikkū"
+],
+"Stand": [
+"നിൽക്കുക",
+"Niൽkkuka"
+],
+"Sleep": [
+"ഉറങ്ങുക",
+"Uṟaṅṅuka"
+],
+"Wake": [
+"ഉണരുക",
+"Uṇaruka"
+],
+"Breathe": [
+"ശ്വസിക്കുക",
+"Śvasikkuka"
+],
+"Blink": [
+"മിന്നിമറയുക",
+"Minnimaṟayuka"
+],
+"Speak": [
+"സംസാരിക്കുക",
+"Saṃsārikkuka"
+],
+"Listen": [
+"കേൾക്കുക",
+"Keൾkkuka"
+],
+"Think": [
+"ചിന്തിക്കുക",
+"Cintikkuka"
+],
+"Remember": [
+"ഓർക്കുക",
+"Oർkkuka"
+],
+"Forget": [
+"മറക്കുക",
+"Maṟakkuka"
+],
+"Understand": [
+"മനസ്സിലാക്കുക",
+"Manassilākkuka"
+],
+"Learn": [
+"പഠിക്കുക",
+"Paṭhikkuka"
+],
+"Know": [
+"അറിയുക",
+"Aṟiyuka"
+],
+"Believe": [
+"വിശ്വസിക്കുക",
+"Viśvasikkuka"
+],
+"Hope": [
+"പ്രതീക്ഷ",
+"Pratīkṣa"
+],
+"Want": [
+"ആഗ്രഹിക്കുന്നു",
+"Āgrahikkunnu"
+],
+"Father": [
+"അച്ഛൻ",
+"Acchaൻ"
+],
+"Mother": [
+"അമ്മ",
+"Amma"
+],
+"Brother": [
+"സഹോദരൻ",
+"Sahodaraൻ"
+],
+"Sister": [
+"സഹോദരി",
+"Sahodari"
+],
+"Son": [
+"മകൻ",
+"Makaൻ"
+],
+"Daughter": [
+"മകൾ",
+"Makaൾ"
+],
+"Husband": [
+"ഭർത്താവ്",
+"Bhaർttāv"
+],
+"Wife": [
+"ഭാര്യ",
+"Bhārya"
+],
+"Family": [
+"കുടുംബം",
+"Kuṭuṃbaṃ"
+],
+"Child": [
+"കുട്ടി",
+"Kuṭṭi"
+],
+"Grandfather": [
+"മുത്തച്ഛൻ",
+"Muttacchaൻ"
+],
+"Grandmother": [
+"മുത്തശ്ശി",
+"Muttaśśi"
+],
+"Grandson": [
+"കൊച്ചുമകൻ",
+"Kòccumakaൻ"
+],
+"Granddaughter": [
+"കൊച്ചുമകൾ",
+"Kòccumakaൾ"
+],
+"Uncle": [
+"അമ്മാവൻ",
+"Ammāvaൻ"
+],
+"Aunt": [
+"അമ്മായി",
+"Ammāyi"
+],
+"Nephew": [
+"മരുമകൻ",
+"Marumakaൻ"
+],
+"Niece": [
+"മരുമകൾ",
+"Marumakaൾ"
+],
+"Cousin": [
+"കസിൻ",
+"Kasiൻ"
+],
+"Father-in-law": [
+"ഭാര്യാപിതാവ്",
+"Bhāryāpitāv"
+],
+"Mother-in-law": [
+"അമ്മായിയമ്മ",
+"Ammāyiyamma"
+],
+"Son-in-law": [
+"മരുമകൻ",
+"Marumakaൻ"
+],
+"Daughter-in-law": [
+"മരുമകൾ",
+"Marumakaൾ"
+],
+"Brother-in-law": [
+"അളിയൻ",
+"Aḻiyaൻ"
+],
+"Sister-in-law": [
+"മരുമകൾ",
+"Marumakaൾ"
+],
+"Relative": [
+"ബന്ധു",
+"Bandhu"
+],
+"Parents": [
+"മാതാപിതാക്കൾ",
+"Mātāpitākkaൾ"
+],
+"Children": [
+"കുട്ടികൾ",
+"Kuṭṭikaൾ"
+],
+"Baby": [
+"ബേബി",
+"Bebi"
+],
+"Elder": [
+"മൂപ്പൻ",
+"Mūppaൻ"
+],
+"Younger": [
+"ചെറുപ്പം",
+"Cèṟuppaṃ"
+],
+"Twin": [
+"ഇരട്ട",
+"Iraṭṭa"
+],
+"Stepfather": [
+"രണ്ടാനച്ഛൻ",
+"Raṇṭānacchaൻ"
+],
+"Stepmother": [
+"രണ്ടാനമ്മ",
+"Raṇṭānamma"
+],
+"Orphan": [
+"അനാഥൻ",
+"Anāthaൻ"
+],
+"Widow": [
+"വിധവ",
+"Vidhava"
+],
+"Widower": [
+"വിധവ",
+"Vidhava"
+],
+"Marriage": [
+"വിവാഹം",
+"Vivāhaṃ"
+],
+"Wedding": [
+"കല്യാണം",
+"Kalyāṇaṃ"
+],
+"Bride": [
+"വധു",
+"Vadhu"
+],
+"Groom": [
+"വരൻ",
+"Varaൻ"
+],
+"Birth": [
+"ജനനം",
+"Jananaṃ"
+],
+"Death": [
+"മരണം",
+"Maraṇaṃ"
+],
+"Ancestor": [
+"പൂർവ്വികൻ",
+"Pūർvvikaൻ"
+],
+"Descendant": [
+"സന്തതി",
+"Santati"
+],
+"Household": [
+"വീട്ടുകാർ",
+"Vīṭṭukāർ"
+],
+"Generation": [
+"തലമുറ",
+"Talamuṟa"
+],
+"Relationship": [
+"ബന്ധം",
+"Bandhaṃ"
+],
+"Care": [
+"കെയർ",
+"Kèyaർ"
+],
+"Support": [
+"പിന്തുണ",
+"Pintuṇa"
+],
+"Duty": [
+"ഡ്യൂട്ടി",
+"Ḍyūṭṭi"
+],
+"Responsibility": [
+"ഉത്തരവാദിത്തം",
+"Uttaravādittaṃ"
+],
+"Eldest": [
+"മൂത്തത്",
+"Mūttat"
+],
+"Youngest": [
+"ഏറ്റവും ഇളയത്",
+"Eṟṟavuṃ iḻayat"
+],
+"Only child": [
+"ഏക കുട്ടി",
+"Eka kuṭṭi"
+],
+"Sibling": [
+"സഹോദരൻ",
+"Sahodaraൻ"
+],
+"Spouse": [
+"ഇണ",
+"Iṇa"
+],
+"Fatherhood": [
+"പിതൃത്വം",
+"Pitṛtvaṃ"
+],
+"Motherhood": [
+"മാതൃത്വം",
+"Mātṛtvaṃ"
+],
+"Brotherhood": [
+"സാഹോദര്യം",
+"Sāhodaryaṃ"
+],
+"Sisterhood": [
+"സഹോദരി",
+"Sahodari"
+],
+"Godfather": [
+"ഗോഡ്ഫാദർ",
+"Goḍphādaർ"
+],
+"Godmother": [
+"ദേവമാതാവ്",
+"Devamātāv"
+],
+"Guardian": [
+"കാവൽക്കാരൻ",
+"Kāvaൽkkāraൻ"
+],
+"Adopted": [
+"സ്വീകരിച്ചു",
+"Svīkariccu"
+],
+"Foster": [
+"ഫോസ്റ്റർ",
+"Phosṟṟaർ"
+],
+"Clan": [
+"കുലം",
+"Kulaṃ"
+],
+"Tribe": [
+"ഗോത്രം",
+"Gotraṃ"
+],
+"Dynasty": [
+"രാജവംശം",
+"Rājavaṃśaṃ"
+],
+"Inheritance": [
+"അനന്തരാവകാശം",
+"Anantarāvakāśaṃ"
+],
+"Heir": [
+"അവകാശി",
+"Avakāśi"
+],
+"Family name": [
+"കുടുംബ പേര്",
+"Kuṭuṃba per"
+],
+"Surname": [
+"കുടുംബപ്പേര്",
+"Kuṭuṃbapper"
+],
+"Nickname": [
+"വിളിപ്പേര്",
+"Viḻipper"
+],
+"Elder brother": [
+"മൂത്ത സഹോദരൻ",
+"Mūtta sahodaraൻ"
+],
+"Younger brother": [
+"ഇളയ സഹോദരൻ",
+"Iḻaya saheādaraൻ"
+],
+"Elder sister": [
+"മൂത്ത സഹോദരി",
+"Mūtta sahodari"
+],
+"Younger sister": [
+"ഇളയ സഹോദരി",
+"Iḻaya saheādari"
+],
+"Maternal uncle": [
+"അമ്മാവൻ",
+"Ammāvaൻ"
+],
+"Paternal uncle": [
+"പിതൃസഹോദരൻ",
+"Pitṛsahodaraൻ"
+],
+"Maternal aunt": [
+"അമ്മയുടെ അമ്മായി",
+"Ammayuṭè ammāyi"
+],
+"Paternal aunt": [
+"പിതൃസഹോദരി",
+"Pitṛsahodari"
+],
+"Family gathering": [
+"കുടുംബസംഗമം",
+"Kuṭuṃbasaṃgamaṃ"
+],
+"One": [
+"ഒന്ന്",
+"Ònn"
+],
+"Two": [
+"രണ്ട്",
+"Raṇṭ"
+],
+"Three": [
+"മൂന്ന്",
+"Mūnn"
+],
+"Four": [
+"നാല്",
+"Nāl"
+],
+"Five": [
+"അഞ്ച്",
+"Añc"
+],
+"Six": [
+"ആറ്",
+"Āṟ"
+],
+"Seven": [
+"ഏഴ്",
+"El̤"
+],
+"Eight": [
+"എട്ട്",
+"Èṭṭ"
+],
+"Nine": [
+"ഒമ്പത്",
+"Òmpat"
+],
+"Ten": [
+"പത്ത്",
+"Patt"
+],
+"Eleven": [
+"പതിനൊന്ന്",
+"Patinònn"
+],
+"Twelve": [
+"പന്ത്രണ്ട്",
+"Pantraṇṭ"
+],
+"Thirteen": [
+"പതിമൂന്ന്",
+"Patimūnn"
+],
+"Fourteen": [
+"പതിനാല്",
+"Patināl"
+],
+"Fifteen": [
+"പതിനഞ്ച്",
+"Patinañc"
+],
+"Sixteen": [
+"പതിനാറ്",
+"Patināṟ"
+],
+"Seventeen": [
+"പതിനേഴു",
+"Patinel̤u"
+],
+"Eighteen": [
+"പതിനെട്ട്",
+"Patinèṭṭ"
+],
+"Nineteen": [
+"പത്തൊമ്പത്",
+"Pattòmpat"
+],
+"Twenty": [
+"ഇരുപത്",
+"Irupat"
+],
+"Thirty": [
+"മുപ്പത്",
+"Muppat"
+],
+"Forty": [
+"നാല്പത്",
+"Nālpat"
+],
+"Fifty": [
+"അമ്പത്",
+"Ampat"
+],
+"Sixty": [
+"അറുപത്",
+"Aṟupat"
+],
+"Seventy": [
+"എഴുപത്",
+"Èl̤upat"
+],
+"Eighty": [
+"എൺപത്",
+"Èൺpat"
+],
+"Ninety": [
+"തൊണ്ണൂറ്",
+"Tòṇṇūṟ"
+],
+"Hundred": [
+"നൂറ്",
+"Nūṟ"
+],
+"Thousand": [
+"ആയിരം",
+"Āyiraṃ"
+],
+"Lakh": [
+"ലക്ഷം",
+"Lakṣaṃ"
+],
+"First": [
+"ആദ്യം",
+"Ādyaṃ"
+],
+"Third": [
+"മൂന്നാമത്",
+"Mūnnāmat"
+],
+"Fourth": [
+"നാലാമത്തേത്",
+"Nālāmattet"
+],
+"Fifth": [
+"അഞ്ചാമത്",
+"Añcāmat"
+],
+"Half": [
+"പകുതി",
+"Pakuti"
+],
+"Quarter": [
+"ക്വാർട്ടർ",
+"Kvāർṭṭaർ"
+],
+"Double": [
+"ഇരട്ട",
+"Iraṭṭa"
+],
+"Triple": [
+"ട്രിപ്പിൾ",
+"Ṭrippiൾ"
+],
+"Single": [
+"സിംഗിൾ",
+"Siṃgiൾ"
+],
+"Pair": [
+"ജോടിയാക്കുക",
+"Joṭiyākkuka"
+],
+"Dozen": [
+"ഡസൻ",
+"Ḍasaൻ"
+],
+"Score": [
+"സ്കോർ",
+"Skeāർ"
+],
+"Zero": [
+"പൂജ്യം",
+"Pūjyaṃ"
+],
+"Number": [
+"നമ്പർ",
+"Nampaർ"
+],
+"Count": [
+"എണ്ണുക",
+"Èṇṇuka"
+],
+"Add": [
+"ചേർക്കുക",
+"Ceർkkuka"
+],
+"Subtract": [
+"കുറയ്ക്കുക",
+"Kuṟaykkuka"
+],
+"Multiply": [
+"ഗുണിക്കുക",
+"Guṇikkuka"
+],
+"Divide": [
+"വിഭജിക്കുക",
+"Vibhajikkuka"
+],
+"Equal": [
+"തുല്യം",
+"Tulyaṃ"
+],
+"More": [
+"കൂടുതൽ",
+"Kūṭutaൽ"
+],
+"Less": [
+"കുറവ്",
+"Kuṟav"
+],
+"Many": [
+"പലതും",
+"Palatuṃ"
+],
+"Few": [
+"കുറച്ച്",
+"Kuṟacc"
+],
+"Some": [
+"ചിലത്",
+"Cilat"
+],
+"All": [
+"എല്ലാം",
+"Èllāṃ"
+],
+"None": [
+"ഒന്നുമില്ല",
+"Ònnumilla"
+],
+"Several": [
+"നിരവധി",
+"Niravadhi"
+],
+"Multiple": [
+"ഒന്നിലധികം",
+"Ònniladhikaṃ"
+],
+"Percent": [
+"ശതമാനം",
+"Śatamānaṃ"
+],
+"Fraction": [
+"ഭിന്നസംഖ്യ",
+"Bhinnasaṃkhya"
+],
+"Decimal": [
+"ദശാംശം",
+"Daśāṃśaṃ"
+],
+"Sum": [
+"തുക",
+"Tuka"
+],
+"Total": [
+"ആകെ",
+"Ākè"
+],
+"Amount": [
+"തുക",
+"Tuka"
+],
+"Quantity": [
+"അളവ്",
+"Aḻav"
+],
+"Price": [
+"വില",
+"Vila"
+],
+"Cost": [
+"ചെലവ്",
+"Cèlav"
+],
+"Discount": [
+"കിഴിവ്",
+"Kil̤iv"
+],
+"Age": [
+"പ്രായം",
+"Prāyaṃ"
+],
+"Year old": [
+"പ്രായം",
+"Prāyaṃ"
+],
+"Date": [
+"തീയതി",
+"Tīyati"
+],
+"Time": [
+"സമയം",
+"Samayaṃ"
+],
+"O'clock": [
+"മണി",
+"Maṇi"
+],
+"Day": [
+"ദിവസം",
+"Divasaṃ"
+],
+"Once": [
+"ഒരിക്കൽ",
+"Òrikkaൽ"
+],
+"Twice": [
+"രണ്ടുതവണ",
+"Raṇṭutavaṇa"
+],
+"Thrice": [
+"മൂന്ന് തവണ",
+"Mūnn tavaṇa"
+],
+"Every": [
+"ഓരോ",
+"Oro"
+],
+"Each": [
+"ഓരോന്നും",
+"Oronnuṃ"
+],
+"Whole": [
+"മുഴുവൻ",
+"Mul̤uvaൻ"
+],
+"Full": [
+"നിറഞ്ഞു",
+"Niṟaññu"
+],
+"Empty": [
+"ശൂന്യം",
+"Śūnyaṃ"
+],
+"House": [
+"വീട്",
+"Vīṭ"
+],
+"Work": [
+"ജോലി",
+"Joli"
+],
+"Come": [
+"വരൂ",
+"Varū"
+],
+"Go": [
+"പോകൂ",
+"Pokū"
+],
+"Give": [
+"കൊടുക്കുക",
+"Kòṭukkuka"
+],
+"Take": [
+"എടുക്കുക",
+"Èṭukkuka"
+],
+"Bedroom": [
+"കിടപ്പുമുറി",
+"Kiṭappumuṟi"
+],
+"Bathroom": [
+"കുളിമുറി",
+"Kuḻimuṟi"
+],
+"Door": [
+"വാതിൽ",
+"Vātiൽ"
+],
+"Window": [
+"ജാലകം",
+"Jālakaṃ"
+],
+"Wall": [
+"മതിൽ",
+"Matiൽ"
+],
+"Roof": [
+"മേൽക്കൂര",
+"Meൽkkūra"
+],
+"Stairs": [
+"പടികൾ",
+"Paṭikaൾ"
+],
+"Table": [
+"മേശ",
+"Meśa"
+],
+"Chair": [
+"ചെയർ",
+"Cèyaർ"
+],
+"Bed": [
+"കിടക്ക",
+"Kiṭakka"
+],
+"Lamp": [
+"വിളക്ക്",
+"Viḻakk"
+],
+"Clock": [
+"ക്ലോക്ക്",
+"Klokk"
+],
+"Lock": [
+"പൂട്ടുക",
+"Pūṭṭuka"
+],
+"Garden": [
+"പൂന്തോട്ടം",
+"Pūntoṭṭaṃ"
+],
+"Furniture": [
+"ഫർണിച്ചർ",
+"Phaർṇiccaർ"
+],
+"Sofa": [
+"സോഫ",
+"Sopha"
+],
+"Cupboard": [
+"അലമാര",
+"Alamāra"
+],
+"Shelf": [
+"ഷെൽഫ്",
+"Ṣèൽph"
+],
+"Mirror": [
+"കണ്ണാടി",
+"Kaṇṇāṭi"
+],
+"Curtain": [
+"തിരശ്ശീല",
+"Tiraśśīla"
+],
+"Pillow": [
+"തലയിണ",
+"Talayiṇa"
+],
+"Blanket": [
+"പുതപ്പ്",
+"Putapp"
+],
+"Towel": [
+"ടവൽ",
+"Ṭavaൽ"
+],
+"Soap": [
+"സോപ്പ്",
+"Sopp"
+],
+"Bucket": [
+"ബക്കറ്റ്",
+"Bakkaṟṟ"
+],
+"Broom": [
+"ചൂല്",
+"Cūl"
+],
+"Trash": [
+"ചവറ്റുകുട്ട",
+"Cavaṟṟukuṭṭa"
+],
+"Clean": [
+"വൃത്തിയാക്കുക",
+"Vṛttiyākkuka"
+],
+"Dirty": [
+"വൃത്തികെട്ട",
+"Vṛttikèṭṭa"
+],
+"Wash": [
+"കഴുകുക",
+"Kal̤ukuka"
+],
+"Sweep": [
+"തൂത്തുവാരുക",
+"Tūttuvāruka"
+],
+"Mop": [
+"മോപ്പ്",
+"Mopp"
+],
+"Electricity": [
+"വൈദ്യുതി",
+"Vaidyuti"
+],
+"Switch": [
+"മാറുക",
+"Māṟuka"
+],
+"Fan": [
+"ഫാൻ",
+"Phāൻ"
+],
+"Light": [
+"വെളിച്ചം",
+"Vèḻiccaṃ"
+],
+"Fridge": [
+"ഫ്രിഡ്ജ്",
+"Phriḍj"
+],
+"TV": [
+"ടി.വി",
+"Ṭi.vi"
+],
+"Computer": [
+"കമ്പ്യൂട്ടർ",
+"Kampyūṭṭaർ"
+],
+"Book": [
+"പുസ്തകം",
+"Pustakaṃ"
+],
+"Newspaper": [
+"പത്രം",
+"Patraṃ"
+],
+"Later": [
+"പിന്നീട്",
+"Pinnīṭ"
+],
+"Always": [
+"എപ്പോഴും",
+"Èppol̤uṃ"
+],
+"Never": [
+"ഒരിക്കലും",
+"Òrikkaluṃ"
+],
+"Sometimes": [
+"ചിലപ്പോൾ",
+"Cilappoൾ"
+],
+"Often": [
+"പലപ്പോഴും",
+"Palappol̤uṃ"
+],
+"Usually": [
+"സാധാരണയായി",
+"Sādhāraṇayāyi"
+],
+"Daily": [
+"ദിവസേന",
+"Divasena"
+],
+"Weekly": [
+"പ്രതിവാരം",
+"Prativāraṃ"
+],
+"Monthly": [
+"പ്രതിമാസ",
+"Pratimāsa"
+],
+"Yearly": [
+"വർഷം തോറും",
+"Vaർṣaṃ toṟuṃ"
+],
+"Routine": [
+"പതിവ്",
+"Pativ"
+],
+"Habit": [
+"ശീലം",
+"Śīlaṃ"
+],
+"Rest": [
+"വിശ്രമിക്കുക",
+"Viśramikkuka"
+],
+"Leisure": [
+"ഒഴിവുസമയം",
+"Òl̤ivusamayaṃ"
+],
+"Free": [
+"സൗജന്യം",
+"Saൗjanyaṃ"
+],
+"Relax": [
+"ശാന്തമാകൂ",
+"Śāntamākū"
+],
+"Wake up": [
+"ഉണരുക",
+"Uṇaruka"
+],
+"Sun": [
+"സൂര്യൻ",
+"Sūryaൻ"
+],
+"Moon": [
+"ചന്ദ്രൻ",
+"Candraൻ"
+],
+"Rain": [
+"മഴ",
+"Mal̤a"
+],
+"Dog": [
+"നായ",
+"Nāya"
+],
+"Cat": [
+"പൂച്ച",
+"Pūcca"
+],
+"Cow": [
+"പശു",
+"Paśu"
+],
+"Bird": [
+"പക്ഷി",
+"Pakṣi"
+],
+"Tree": [
+"മരം",
+"Maraṃ"
+],
+"Flower": [
+"പുഷ്പം",
+"Puṣpaṃ"
+],
+"Sky": [
+"ആകാശം",
+"Ākāśaṃ"
+],
+"Cloud": [
+"മേഘം",
+"Meghaṃ"
+],
+"Star": [
+"നക്ഷത്രം",
+"Nakṣatraṃ"
+],
+"Wind": [
+"കാറ്റ്",
+"Kāṟṟ"
+],
+"River": [
+"നദി",
+"Nadi"
+],
+"Mountain": [
+"പർവ്വതം",
+"Paർvvataṃ"
+],
+"Forest": [
+"വനം",
+"Vanaṃ"
+],
+"Grass": [
+"പുല്ല്",
+"Pull"
+],
+"Leaf": [
+"ഇല",
+"Ila"
+],
+"Root": [
+"റൂട്ട്",
+"Ṟūṭṭ"
+],
+"Seed": [
+"വിത്ത്",
+"Vitt"
+],
+"Soil": [
+"മണ്ണ്",
+"Maṇṇ"
+],
+"Stone": [
+"കല്ല്",
+"Kall"
+],
+"Fire": [
+"തീ",
+"Tī"
+],
+"Earth": [
+"ഭൂമി",
+"Bhūmi"
+],
+"Weather": [
+"കാലാവസ്ഥ",
+"Kālāvastha"
+],
+"Horse": [
+"കുതിര",
+"Kutira"
+],
+"Goat": [
+"ആട്",
+"Āṭ"
+],
+"Sheep": [
+"ആടുകൾ",
+"Āṭukaൾ"
+],
+"Pig": [
+"പന്നി",
+"Panni"
+],
+"Hen": [
+"കോഴി",
+"Kol̤i"
+],
+"Duck": [
+"ഡക്ക്",
+"Ḍakk"
+],
+"Elephant": [
+"ആന",
+"Āna"
+],
+"Lion": [
+"സിംഹം",
+"Siṃhaṃ"
+],
+"Tiger": [
+"കടുവ",
+"Kaṭuva"
+],
+"Monkey": [
+"കുരങ്ങൻ",
+"Kuraṅṅaൻ"
+],
+"Snake": [
+"പാമ്പ്",
+"Pāmp"
+],
+"Insect": [
+"പ്രാണി",
+"Prāṇi"
+],
+"Butterfly": [
+"ചിത്രശലഭം",
+"Citraśalabhaṃ"
+],
+"Bee": [
+"തേനീച്ച",
+"Tenīcca"
+],
+"Ant": [
+"ഉറുമ്പ്",
+"Uṟump"
+],
+"Mosquito": [
+"കൊതുക്",
+"Kòtuk"
+],
+"Spider": [
+"ചിലന്തി",
+"Cilanti"
+],
+"Crow": [
+"കാക്ക",
+"Kākka"
+],
+"Peacock": [
+"മയിൽ",
+"Mayiൽ"
+],
+"Parrot": [
+"തത്ത",
+"Tatta"
+],
+"Sparrow": [
+"കുരുവി",
+"Kuruvi"
+],
+"Eagle": [
+"കഴുകൻ",
+"Kal̤ukaൻ"
+],
+"Owl": [
+"മൂങ്ങ",
+"Mūṅṅa"
+],
+"Pigeon": [
+"മാടപ്രാവ്",
+"Māṭaprāv"
+],
+"Swan": [
+"ഹംസം",
+"Haṃsaṃ"
+],
+"Crocodile": [
+"മുതല",
+"Mutala"
+],
+"Tortoise": [
+"ആമ",
+"Āma"
+],
+"Frog": [
+"തവള",
+"Tavaḻa"
+],
+"Lizard": [
+"പല്ലി",
+"Palli"
+],
+"Rose": [
+"റോസ്",
+"Ṟos"
+],
+"Lotus": [
+"താമര",
+"Tāmara"
+],
+"Jasmine": [
+"ജാസ്മിൻ",
+"Jāsmiൻ"
+],
+"Marigold": [
+"ജമന്തി",
+"Jamanti"
+],
+"Sunflower": [
+"സൂര്യകാന്തി",
+"Sūryakānti"
+],
+"Lily": [
+"ലില്ലി",
+"Lilli"
+],
+"Daisy": [
+"ഡെയ്സി",
+"Ḍèysi"
+],
+"Tulip": [
+"തുലിപ്",
+"Tulip"
+],
+"Oak": [
+"ഓക്ക്",
+"Okk"
+],
+"Pine": [
+"പൈൻ",
+"Paiൻ"
+],
+"Bamboo": [
+"മുള",
+"Muḻa"
+],
+"Palm": [
+"ഈന്തപ്പന",
+"Īntappana"
+],
+"Cactus": [
+"കള്ളിച്ചെടി",
+"Kaḻḻiccèṭi"
+],
+"Bush": [
+"ബുഷ്",
+"Buṣ"
+],
+"Plant": [
+"പ്ലാൻ്റ്",
+"Plāൻṟ"
+],
+"Farm": [
+"ഫാം",
+"Phāṃ"
+],
+"Field": [
+"ഫീൽഡ്",
+"Phīൽḍ"
+],
+"Lake": [
+"തടാകം",
+"Taṭākaṃ"
+],
+"Sea": [
+"കടൽ",
+"Kaṭaൽ"
+],
+"Ocean": [
+"സമുദ്രം",
+"Samudraṃ"
+],
+"Beach": [
+"ബീച്ച്",
+"Bīcc"
+],
+"Island": [
+"ദ്വീപ്",
+"Dvīp"
+],
+"Valley": [
+"താഴ്വര",
+"Tāl̤vara"
+],
+"Desert": [
+"മരുഭൂമി",
+"Marubhūmi"
+],
+"Snow": [
+"മഞ്ഞ്",
+"Maññ"
+],
+"Storm": [
+"കൊടുങ്കാറ്റ്",
+"Kòṭuṅkāṟṟ"
+],
+"Thunder": [
+"ഇടിമുഴക്കം",
+"Iṭimul̤akkaṃ"
+],
+"Rainbow": [
+"മഴവില്ല്",
+"Mal̤avill"
+],
+"Red": [
+"ചുവപ്പ്",
+"Cuvapp"
+],
+"Blue": [
+"നീല",
+"Nīla"
+],
+"Green": [
+"പച്ച",
+"Pacca"
+],
+"Yellow": [
+"മഞ്ഞ",
+"Mañña"
+],
+"White": [
+"വെള്ള",
+"Vèḻḻa"
+],
+"Black": [
+"കറുപ്പ്",
+"Kaṟupp"
+],
+"Colour": [
+"നിറം",
+"Niṟaṃ"
+],
+"Pink": [
+"പിങ്ക്",
+"Piṅk"
+],
+"Purple": [
+"പർപ്പിൾ",
+"Paർppiൾ"
+],
+"Brown": [
+"ബ്രൗൺ",
+"Braൗൺ"
+],
+"Grey": [
+"ചാരനിറം",
+"Cāraniṟaṃ"
+],
+"Golden": [
+"ഗോൾഡൻ",
+"Goൾḍaൻ"
+],
+"Silver": [
+"വെള്ളി",
+"Vèḻḻi"
+],
+"Dark": [
+"ഇരുട്ട്",
+"Iruṭṭ"
+],
+"Bright": [
+"തിളക്കമുള്ളത്",
+"Tiḻakkamuḻḻat"
+],
+"Pale": [
+"വിളറിയ",
+"Viḻaṟiya"
+],
+"Shade": [
+"തണൽ",
+"Taṇaൽ"
+],
+"Tone": [
+"ടോൺ",
+"Ṭoൺ"
+],
+"Dye": [
+"ചായം",
+"Cāyaṃ"
+],
+"Paint": [
+"പെയിൻ്റ്",
+"Pèyiൻṟ"
+],
+"Sky blue": [
+"ആകാശനീല",
+"Ākāśanīla"
+],
+"Navy blue": [
+"നേവി ബ്ലൂ",
+"Nevi blū"
+],
+"Lime": [
+"നാരങ്ങ",
+"Nāraṅṅa"
+],
+"Cream": [
+"ക്രീം",
+"Krīṃ"
+],
+"Beige": [
+"ബീജ്",
+"Bīj"
+],
+"Maroon": [
+"മെറൂൺ",
+"Mèṟūൺ"
+],
+"Crimson": [
+"സിന്ദൂരം",
+"Sindūraṃ"
+],
+"Turquoise": [
+"ടർക്കോയ്സ്",
+"Ṭaർkkoys"
+],
+"Violet": [
+"വയലറ്റ്",
+"Vayalaṟṟ"
+],
+"Indigo": [
+"ഇൻഡിഗോ",
+"Iൻḍigo"
+],
+"Magenta": [
+"മജന്ത",
+"Majanta"
+],
+"Cyan": [
+"സിയാൻ",
+"Siyāൻ"
+],
+"Teal": [
+"ടീൽ",
+"Ṭīൽ"
+],
+"Olive": [
+"ഒലിവ്",
+"Òliv"
+],
+"Coral": [
+"പവിഴം",
+"Pavil̤aṃ"
+],
+"Peach": [
+"പീച്ച്",
+"Pīcc"
+],
+"Lavender": [
+"ലാവെൻഡർ",
+"Lāvèൻḍaർ"
+],
+"Mint": [
+"തുളസി",
+"Tuḻasi"
+],
+"Ivory": [
+"ആനക്കൊമ്പ്",
+"Ānakkòmp"
+],
+"Charcoal": [
+"കരി",
+"Kari"
+],
+"Rust": [
+"തുരുമ്പ്",
+"Turump"
+],
+"Burgundy": [
+"ബർഗണ്ടി",
+"Baർgaṇṭi"
+],
+"Mustard": [
+"കടുക്",
+"Kaṭuk"
+],
+"Saffron": [
+"കുങ്കുമപ്പൂവ്",
+"Kuṅkumappūv"
+],
+"Tan": [
+"ടാൻ",
+"Ṭāൻ"
+],
+"Khaki": [
+"കാക്കി",
+"Kākki"
+],
+"Transparent": [
+"സുതാര്യം",
+"Sutāryaṃ"
+],
+"Opaque": [
+"അതാര്യമായ",
+"Atāryamāya"
+],
+"Shiny": [
+"തിളങ്ങുന്ന",
+"Tiḻaṅṅunna"
+],
+"Dull": [
+"മുഷിഞ്ഞ",
+"Muṣiñña"
+],
+"Matte": [
+"മാറ്റ്",
+"Māṟṟ"
+],
+"Glossy": [
+"തിളങ്ങുന്ന",
+"Tiḻaṅṅunna"
+],
+"Striped": [
+"വരയുള്ള",
+"Varayuḻḻa"
+],
+"Spotted": [
+"പുള്ളി",
+"Puḻḻi"
+],
+"Plain": [
+"പ്ലെയിൻ",
+"Plèyiൻ"
+],
+"Pattern": [
+"പാറ്റേൺ",
+"Pāṟṟeൺ"
+],
+"Multicoloured": [
+"ബഹുവർണ്ണം",
+"Bahuvaർṇṇaṃ"
+],
+"Colourful": [
+"വർണ്ണാഭമായ",
+"Vaർṇṇābhamāya"
+],
+"Colourless": [
+"നിറമില്ലാത്തത്",
+"Niṟamillāttat"
+],
+"Match": [
+"പൊരുത്തം",
+"Pòruttaṃ"
+],
+"Contrast": [
+"കോൺട്രാസ്റ്റ്",
+"Koൺṭrāsṟṟ"
+],
+"Blend": [
+"ബ്ലെൻഡ്",
+"Blèൻḍ"
+],
+"Mix": [
+"ഇളക്കുക",
+"Iḻakkuka"
+],
+"Primary": [
+"പ്രാഥമികം",
+"Prāthamikaṃ"
+],
+"Secondary": [
+"സെക്കൻഡറി",
+"Sèkkaൻḍaṟi"
+],
+"Warm": [
+"ചൂട്",
+"Cūṭ"
+],
+"Cool": [
+"അടിപൊളി",
+"Aṭipòḻi"
+],
+"Neutral": [
+"നിഷ്പക്ഷ",
+"Niṣpakṣa"
+],
+"Vivid": [
+"സ്പഷ്ടമായ",
+"Spaṣṭamāya"
+],
+"Faded": [
+"നിറം മങ്ങി",
+"Niṟaṃ maṅṅi"
+],
+"Matching": [
+"പൊരുത്തപ്പെടുന്നു",
+"Pòruttappèṭunnu"
+],
+"Clashing": [
+"ഏറ്റുമുട്ടുന്നു",
+"Eṟṟumuṭṭunnu"
+],
+"Tint": [
+"ടിൻ്റ്",
+"Ṭiൻṟ"
+],
+"Hue": [
+"നിറം",
+"Niṟaṃ"
+],
+"Pigment": [
+"പിഗ്മെൻ്റ്",
+"Pigmèൻṟ"
+],
+"Ink": [
+"മഷി",
+"Maṣi"
+],
+"Crayon": [
+"ക്രയോൺ",
+"Krayoൺ"
+],
+"Brush": [
+"ബ്രഷ്",
+"Braṣ"
+],
+"Canvas": [
+"ക്യാൻവാസ്",
+"Kyāൻvās"
+],
+"Picture": [
+"ചിത്രം",
+"Citraṃ"
+],
+"Image": [
+"ചിത്രം",
+"Citraṃ"
+],
+"Beautiful": [
+"മനോഹരം",
+"Manoharaṃ"
+],
+"Ugly": [
+"വൃത്തികെട്ട",
+"Vṛttikèṭṭa"
+],
+"Pretty": [
+"മനോഹരം",
+"Manoharaṃ"
+],
+"Elegant": [
+"ഗംഭീരം",
+"Gaṃbhīraṃ"
+],
+"Style": [
+"ശൈലി",
+"Śaili"
+],
+"What": [
+"എന്ത്",
+"Ènt"
+],
+"Who": [
+"WHO",
+"WHO"
+],
+"Where": [
+"എവിടെ",
+"Èviṭè"
+],
+"When": [
+"എപ്പോൾ",
+"Èppeāൾ"
+],
+"Why": [
+"എന്തിന്",
+"Èntin"
+],
+"How": [
+"എങ്ങനെ",
+"Èṅṅanè"
+],
+"This": [
+"ഇത്",
+"It"
+],
+"That": [
+"അത്",
+"At"
+],
+"Problem": [
+"പ്രശ്നം",
+"Praśnaṃ"
+],
+"Help": [
+"സഹായം",
+"Sahāyaṃ"
+],
+"Which": [
+"ഏത്",
+"Et"
+],
+"Whose": [
+"ആരുടെ",
+"Āruṭè"
+],
+"Whom": [
+"ആർ",
+"Āർ"
+],
+"Whether": [
+"എന്ന്",
+"Ènn"
+],
+"Question": [
+"ചോദ്യം",
+"Codyaṃ"
+],
+"Answer": [
+"ഉത്തരം",
+"Uttaraṃ"
+],
+"Ask": [
+"ചോദിക്കുക",
+"Codikkuka"
+],
+"Tell": [
+"പറയൂ",
+"Paṟayū"
+],
+"Say": [
+"പറയൂ",
+"Paṟayū"
+],
+"Reply": [
+"മറുപടി നൽകുക",
+"Maṟupaṭi naൽkuka"
+],
+"Explain": [
+"വിശദീകരിക്കുക",
+"Viśadīkarikkuka"
+],
+"Describe": [
+"വിവരിക്കുക",
+"Vivarikkuka"
+],
+"Mean": [
+"അർത്ഥം",
+"Aർtthaṃ"
+],
+"Reason": [
+"കാരണം",
+"Kāraṇaṃ"
+],
+"Cause": [
+"കാരണം",
+"Kāraṇaṃ"
+],
+"Result": [
+"ഫലം",
+"Phalaṃ"
+],
+"Fact": [
+"വസ്തുത",
+"Vastuta"
+],
+"Truth": [
+"സത്യം",
+"Satyaṃ"
+],
+"Lie": [
+"നുണ പറയുക",
+"Nuṇa paṟayuka"
+],
+"Opinion": [
+"അഭിപ്രായം",
+"Abhiprāyaṃ"
+],
+"Perhaps": [
+"ഒരുപക്ഷേ",
+"Òrupakṣe"
+],
+"Probably": [
+"ഒരുപക്ഷേ",
+"Òrupakṣe"
+],
+"Definitely": [
+"തീർച്ചയായും",
+"Tīർccayāyuṃ"
+],
+"Absolutely": [
+"തികച്ചും",
+"Tikaccuṃ"
+],
+"Exactly": [
+"കൃത്യമായി",
+"Kṛtyamāyi"
+],
+"Wrong": [
+"തെറ്റ്",
+"Tèṟṟ"
+],
+"True": [
+"സത്യം",
+"Satyaṃ"
+],
+"False": [
+"തെറ്റായ",
+"Tèṟṟāya"
+],
+"Correct": [
+"ശരിയാണ്",
+"Śariyāṇ"
+],
+"Incorrect": [
+"തെറ്റാണ്",
+"Tèṟṟāṇ"
+],
+"Same": [
+"അതേ",
+"Ate"
+],
+"Different": [
+"വ്യത്യസ്തമായ",
+"Vyatyastamāya"
+],
+"Similar": [
+"സമാനമായ",
+"Samānamāya"
+],
+"Possible": [
+"സാധ്യമാണ്",
+"Sādhyamāṇ"
+],
+"Impossible": [
+"അസാധ്യം",
+"Asādhyaṃ"
+],
+"Necessary": [
+"അത്യാവശ്യം",
+"Atyāvaśyaṃ"
+],
+"Important": [
+"പ്രധാനപ്പെട്ടത്",
+"Pradhānappèṭṭat"
+],
+"Optional": [
+"ഓപ്ഷണൽ",
+"Opṣaṇaൽ"
+],
+"Choice": [
+"തിരഞ്ഞെടുപ്പ്",
+"Tiraññèṭupp"
+],
+"Option": [
+"ഓപ്ഷൻ",
+"Opṣaൻ"
+],
+"Decision": [
+"തീരുമാനം",
+"Tīrumānaṃ"
+],
+"Idea": [
+"ആശയം",
+"Āśayaṃ"
+],
+"Thought": [
+"ചിന്തിച്ചു",
+"Cinticcu"
+],
+"Mind": [
+"മനസ്സ്",
+"Manass"
+],
+"Because": [
+"കാരണം",
+"Kāraṇaṃ"
+],
+"Therefore": [
+"അതുകൊണ്ട്",
+"Atukòṇṭ"
+],
+"However": [
+"എന്നിരുന്നാലും",
+"Ènnirunnāluṃ"
+],
+"Although": [
+"എങ്കിലും",
+"Èṅkiluṃ"
+],
+"Unless": [
+"അല്ലാതെ",
+"Allātè"
+],
+"Until": [
+"വരെ",
+"Varè"
+],
+"If": [
+"എങ്കിൽ",
+"Èṅkiൽ"
+],
+"Then": [
+"പിന്നെ",
+"Pinnè"
+],
+"So": [
+"അങ്ങനെ",
+"Aṅṅanè"
+],
+"But": [
+"പക്ഷേ",
+"Pakṣe"
+],
+"And": [
+"ഒപ്പം",
+"Òppaṃ"
+],
+"Or": [
+"അല്ലെങ്കിൽ",
+"Allèṅkiൽ"
+],
+"Nor": [
+"അല്ല",
+"Alla"
+],
+"Yet": [
+"എന്നിട്ടും",
+"Ènniṭṭuṃ"
+],
+"Still": [
+"ഇപ്പോഴും",
+"Ippol̤uṃ"
+],
+"Already": [
+"ഇതിനകം",
+"Itinakaṃ"
+],
+"Again": [
+"വീണ്ടും",
+"Vīṇṭuṃ"
+],
+"Also": [
+"കൂടാതെ",
+"Kūṭātè"
+],
+"Too": [
+"അതും",
+"Atuṃ"
+],
+"Either": [
+"ഒന്നുകിൽ",
+"Ònnukiൽ"
+],
+"Neither": [
+"ഒന്നുമില്ല",
+"Ònnumilla"
+],
+"Both": [
+"രണ്ടും",
+"Raṇṭuṃ"
+],
+"Only": [
+"മാത്രം",
+"Mātraṃ"
+],
+"Just": [
+"വെറും",
+"Vèṟuṃ"
+],
+"Even": [
+"പോലും",
+"Poluṃ"
+],
+"Almost": [
+"ഏതാണ്ട്",
+"Etāṇṭ"
+],
+"Quite": [
+"തികച്ചും",
+"Tikaccuṃ"
+],
+"Very": [
+"വളരെ",
+"Vaḻarè"
+],
+"Really": [
+"ശരിക്കും",
+"Śarikkuṃ"
+]
+}

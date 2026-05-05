@@ -1,0 +1,5618 @@
+{
+"Hello": [
+"ನಮಸ್ಕಾರ",
+"Namaskāra"
+],
+"Good morning": [
+"ಶುಭೋದಯ",
+"Śubhodaya"
+],
+"Good afternoon": [
+"ಶುಭ ಮಧ್ಯಾಹ್ನ",
+"Śubha madhyāhna"
+],
+"Good evening": [
+"ಶುಭ ಸಂಜೆ",
+"Śubha saṃjè"
+],
+"Good night": [
+"ಶುಭ ರಾತ್ರಿ",
+"Śubha rātri"
+],
+"Welcome": [
+"ಸ್ವಾಗತ",
+"Svāgata"
+],
+"How are you?": [
+"ಹೇಗಿದ್ದೀಯಾ?",
+"Hegiddīyā?"
+],
+"I am fine": [
+"ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+"Nānu cènnāgiddenè"
+],
+"What is your name?": [
+"ನಿಮ್ಮ ಹೆಸರೇನು?",
+"Nimma hèsarenu?"
+],
+"My name is...": [
+"ನನ್ನ ಹೆಸರು...",
+"Nanna hèsaru..."
+],
+"Nice to meet you": [
+"ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಲು ಸಂತೋಷವಾಗಿದೆ",
+"Nimmannu bheṭiyāgalu saṃtoṣavāgidè"
+],
+"Thank you": [
+"ಧನ್ಯವಾದಗಳು",
+"Dhanyavādagaḻu"
+],
+"Please": [
+"ದಯವಿಟ್ಟು",
+"Dayaviṭṭu"
+],
+"Sorry": [
+"ಕ್ಷಮಿಸಿ",
+"Kṣamisi"
+],
+"Goodbye": [
+"ವಿದಾಯ",
+"Vidāya"
+],
+"See you": [
+"ನಿಮ್ಮನ್ನು ನೋಡಿ",
+"Nimmannu noḍi"
+],
+"Take care": [
+"ಕಾಳಜಿ ವಹಿಸಿ",
+"Kāḻaji vahisi"
+],
+"Happy Birthday": [
+"ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳು",
+"Janmadinada śubhāśayagaḻu"
+],
+"Happy Diwali": [
+"ದೀಪಾವಳಿಯ ಶುಭಾಶಯಗಳು",
+"Dīpāvaḻiya śubhāśayagaḻu"
+],
+"I love you": [
+"ನಾನು ನಿನ್ನನ್ನು ಪ್ರೀತಿಸುತ್ತೇನೆ",
+"Nānu ninnannu prītisuttenè"
+],
+"Get well soon": [
+"ಬೇಗ ಗುಣವಾಗಲಿ",
+"Bega guṇavāgali"
+],
+"Good day": [
+"ಶುಭದಿನ",
+"Śubhadina"
+],
+"How do you do?": [
+"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತೀರಿ?",
+"Nīvu hegè māḍuttīri?"
+],
+"Pleased to meet you": [
+"ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಲು ಸಂತೋಷವಾಯಿತು",
+"Nimmannu bheṭiyāgalu saṃtoṣavāyitu"
+],
+"Excuse me": [
+"ನನ್ನನ್ನು ಕ್ಷಮಿಸಿ",
+"Nannannu kṣamisi"
+],
+"Bless you": [
+"ಆಶೀರ್ವಾದ ಮಾಡಿ",
+"Āśīrvāda māḍi"
+],
+"Congratulations": [
+"ಅಭಿನಂದನೆಗಳು",
+"Abhinaṃdanègaḻu"
+],
+"Happy New Year": [
+"ಹೊಸ ವರ್ಷದ ಶುಭಾಶಯಗಳು",
+"Hòsa varṣada śubhāśayagaḻu"
+],
+"Best wishes": [
+"ಶುಭ ಹಾರೈಕೆಗಳು",
+"Śubha hāraikègaḻu"
+],
+"Take care of yourself": [
+"ನಿಮ್ಮನ್ನು ನೋಡಿಕೊಳ್ಳಿ",
+"Nimmannu noḍikòḻḻi"
+],
+"I missed you": [
+"ನಾನು ನಿನ್ನನ್ನು ಕಳೆದುಕೊಂಡೆ",
+"Nānu ninnannu kaḻèdukòṃḍè"
+],
+"Long time no see": [
+"ಬಹಳ ಸಮಯ ನೋಡಲಿಲ್ಲ",
+"Bahaḻa samaya noḍalilla"
+],
+"Where have you been?": [
+"ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗಿದ್ದೀರಿ?",
+"Nīvu èlligè hogiddīri?"
+],
+"I am happy to see you": [
+"ನಿನ್ನನ್ನು ನೋಡಿ ನನಗೆ ಸಂತೋಷವಾಗಿದೆ",
+"Ninnannu noḍi nanagè saṃtoṣavāgidè"
+],
+"Come again": [
+"ಮತ್ತೆ ಬಾ",
+"Mattè bā"
+],
+"Stay in touch": [
+"ಸಂಪರ್ಕದಲ್ಲಿರಿ",
+"Saṃparkadalliri"
+],
+"Give my regards to...": [
+"ನನ್ನ ವಂದನೆಗಳನ್ನು ನೀಡಿ...",
+"Nanna vaṃdanègaḻannu nīḍi..."
+],
+"Say hello to...": [
+"ಅವರಿಗೆ ಹಲೋ ಹೇಳಿ...",
+"Avarigè halo heḻi..."
+],
+"Have a good day": [
+"ಶುಭ ದಿನ",
+"Śubha dina"
+],
+"Have a safe journey": [
+"ಸುರಕ್ಷಿತ ಪ್ರಯಾಣವನ್ನು ಹೊಂದಿರಿ",
+"Surakṣita prayāṇavannu hòṃdiri"
+],
+"Good luck": [
+"ಶುಭವಾಗಲಿ",
+"Śubhavāgali"
+],
+"All the best": [
+"ಆಲ್ ದಿ ಬೆಸ್ಟ್",
+"Āl di bèsṭ"
+],
+"Well done": [
+"ಚೆನ್ನಾಗಿದೆ",
+"Cènnāgidè"
+],
+"You are kind": [
+"ನೀನು ಕರುಣಾಮಯಿ",
+"Nīnu karuṇāmayi"
+],
+"I appreciate it": [
+"ನಾನು ಅದನ್ನು ಪ್ರಶಂಸಿಸುತ್ತೇನೆ",
+"Nānu adannu praśaṃsisuttenè"
+],
+"That is very nice": [
+"ಅದು ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ",
+"Adu tuṃbā cènnāgidè"
+],
+"You are welcome": [
+"ನಿಮಗೆ ಸ್ವಾಗತ",
+"Nimagè svāgata"
+],
+"Do not mention it": [
+"ಅದನ್ನು ಉಲ್ಲೇಖಿಸಬೇಡಿ",
+"Adannu ullekhisabeḍi"
+],
+"It was nothing": [
+"ಅದು ಏನೂ ಆಗಿರಲಿಲ್ಲ",
+"Adu enū āgiralilla"
+],
+"I am grateful": [
+"ನಾನು ಕೃತಜ್ಞನಾಗಿದ್ದೇನೆ",
+"Nānu kṛtajñanāgiddenè"
+],
+"Many thanks": [
+"ಅನೇಕ ಧನ್ಯವಾದಗಳು",
+"Aneka dhanyavādagaḻu"
+],
+"Thanks a lot": [
+"ತುಂಬಾ ಧನ್ಯವಾದಗಳು",
+"Tuṃbā dhanyavādagaḻu"
+],
+"I owe you one": [
+"ನಾನು ನಿನಗೊಂದು ಋಣಿ",
+"Nānu ninagòṃdu ṛṇi"
+],
+"Forgive me": [
+"ನನ್ನನ್ನು ಕ್ಷಮಿಸು",
+"Nannannu kṣamisu"
+],
+"My apologies": [
+"ನನ್ನ ಕ್ಷಮೆ",
+"Nanna kṣamè"
+],
+"It was my fault": [
+"ಇದು ನನ್ನ ತಪ್ಪು",
+"Idu nanna tappu"
+],
+"No worries": [
+"ಚಿಂತೆಯಿಲ್ಲ",
+"Ciṃtèyilla"
+],
+"Do not be sorry": [
+"ಕ್ಷಮಿಸಬೇಡ",
+"Kṣamisabeḍa"
+],
+"We are friends": [
+"ನಾವು ಸ್ನೇಹಿತರು",
+"Nāvu snehitaru"
+],
+"May I come in?": [
+"ನಾನು ಒಳಗೆ ಬರಬಹುದೇ?",
+"Nānu òḻagè barabahude?"
+],
+"Please sit down": [
+"ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ",
+"Dayaviṭṭu kuḻitukòḻḻi"
+],
+"Make yourself at home": [
+"ನೀವೇ ಮನೆಯಲ್ಲಿ ಮಾಡಿ",
+"Nīve manèyalli māḍi"
+],
+"Would you like tea?": [
+"ನಿಮಗೆ ಚಹಾ ಬೇಕೇ?",
+"Nimagè cahā beke?"
+],
+"I am from India": [
+"ನಾನು ಭಾರತದವನು",
+"Nānu bhāratadavanu"
+],
+"Where are you from?": [
+"ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+"Nīvu èlliṃda baṃdiddīri?"
+],
+"I live in...": [
+"ನಾನು ವಾಸಿಸುತ್ತಿದ್ದೇನೆ ...",
+"Nānu vāsisuttiddenè ..."
+],
+"What do you do?": [
+"ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ?",
+"Nīvu enu māḍuttīri?"
+],
+"I am a student": [
+"ನಾನೊಬ್ಬ ವಿದ್ಯಾರ್ಥಿ",
+"Nānòbba vidyārthi"
+],
+"I work in...": [
+"ನಾನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ...",
+"Nānu kèlasa māḍuttenè..."
+],
+"This is my friend": [
+"ಇದು ನನ್ನ ಸ್ನೇಹಿತ",
+"Idu nanna snehita"
+],
+"Meet my family": [
+"ನನ್ನ ಕುಟುಂಬವನ್ನು ಭೇಟಿ ಮಾಡಿ",
+"Nanna kuṭuṃbavannu bheṭi māḍi"
+],
+"How is your family?": [
+"ನಿಮ್ಮ ಕುಟುಂಬ ಹೇಗಿದೆ?",
+"Nimma kuṭuṃba hegidè?"
+],
+"Everyone is fine": [
+"ಎಲ್ಲರೂ ಚೆನ್ನಾಗಿದ್ದಾರೆ",
+"Èllarū cènnāgiddārè"
+],
+"I have to go now": [
+"ನಾನೀಗ ಹೋಗಬೇಕು",
+"Nānīga hogabeku"
+],
+"Can we meet tomorrow?": [
+"ನಾವು ನಾಳೆ ಭೇಟಿಯಾಗಬಹುದೇ?",
+"Nāvu nāḻè bheṭiyāgabahude?"
+],
+"Let us meet soon": [
+"ಶೀಘ್ರದಲ್ಲೇ ಭೇಟಿಯಾಗೋಣ",
+"Śīghradalle bheṭiyāgoṇa"
+],
+"I will call you": [
+"ನಾನು ನಿನ್ನನ್ನು ಕರೆಯುತ್ತೇನೆ",
+"Nānu ninnannu karèyuttenè"
+],
+"Here is my number": [
+"ಇಲ್ಲಿ ನನ್ನ ನಂಬರ್ ಇದೆ",
+"Illi nanna naṃbar idè"
+],
+"Keep in touch": [
+"ಸಂಪರ್ಕದಲ್ಲಿರಿ",
+"Saṃparkadalliri"
+],
+"Until we meet again": [
+"ನಾವು ಮತ್ತೆ ಭೇಟಿಯಾಗುವವರೆಗೆ",
+"Nāvu mattè bheṭiyāguvavarègè"
+],
+"I will never forget you": [
+"ನಾನು ನಿನ್ನನ್ನು ಎಂದಿಗೂ ಮರೆಯುವುದಿಲ್ಲ",
+"Nānu ninnannu èṃdigū marèyuvudilla"
+],
+"You mean a lot to me": [
+"ನೀವು ನನಗೆ ತುಂಬಾ ಅರ್ಥ",
+"Nīvu nanagè tuṃbā artha"
+],
+"I care about you": [
+"ನಾನು ನಿನ್ನ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸುತ್ತೇನೆ",
+"Nānu ninna baggè kāḻaji vahisuttenè"
+],
+"Thank you for everything": [
+"ಎಲ್ಲದಕ್ಕೂ ಧನ್ಯವಾದಗಳು",
+"Èlladakkū dhanyavādagaḻu"
+],
+"I could not have done it without you": [
+"ನೀವು ಇಲ್ಲದೆ ನಾನು ಅದನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ",
+"Nīvu illadè nānu adannu māḍalu sādhyavilla"
+],
+"You are very helpful": [
+"ನೀವು ತುಂಬಾ ಸಹಾಯಕವಾಗಿದ್ದೀರಿ",
+"Nīvu tuṃbā sahāyakavāgiddīri"
+],
+"I am proud of you": [
+"ನಿನ್ನ ಬಗ್ಗೆ ನನಗೆ ಹೆಮ್ಮೆ ಇದೆ",
+"Ninna baggè nanagè hèmmè idè"
+],
+"Bless you and your family": [
+"ನಿಮ್ಮನ್ನು ಮತ್ತು ನಿಮ್ಮ ಕುಟುಂಬವನ್ನು ಆಶೀರ್ವದಿಸಿ",
+"Nimmannu mattu nimma kuṭuṃbavannu āśīrvadisi"
+],
+"Wishing you happiness": [
+"ನಿಮಗೆ ಸಂತೋಷವನ್ನು ಹಾರೈಸುತ್ತೇನೆ",
+"Nimagè saṃtoṣavannu hāraisuttenè"
+],
+"Where is the station?": [
+"ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+"Nildāṇa èllidè?"
+],
+"Take me to the station": [
+"ನನ್ನನ್ನು ನಿಲ್ದಾಣಕ್ಕೆ ಕರೆದುಕೊಂಡು ಹೋಗು",
+"Nannannu nildāṇakkè karèdukòṃḍu hogu"
+],
+"Where is the hospital?": [
+"ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?",
+"Āspatrè èllidè?"
+],
+"Go straight": [
+"ನೇರವಾಗಿ ಹೋಗು",
+"Neravāgi hogu"
+],
+"Turn left": [
+"ಎಡಕ್ಕೆ ತಿರುಗಿ",
+"Èḍakkè tirugi"
+],
+"Turn right": [
+"ಬಲಕ್ಕೆ ತಿರುಗಿ",
+"Balakkè tirugi"
+],
+"Stop here": [
+"ಇಲ್ಲಿ ನಿಲ್ಲಿಸು",
+"Illi nillisu"
+],
+"How far is it?": [
+"ಇದು ಎಷ್ಟು ದೂರದಲ್ಲಿದೆ?",
+"Idu èṣṭu dūradallidè?"
+],
+"I am lost": [
+"ನಾನು ಕಳೆದುಹೋಗಿದ್ದೇನೆ",
+"Nānu kaḻèduhogiddenè"
+],
+"Where is the toilet?": [
+"ಶೌಚಾಲಯ ಎಲ್ಲಿದೆ?",
+"Śaucālaya èllidè?"
+],
+"Bon voyage": [
+"ಬಾನ್ ಯಾನ",
+"Bān yāna"
+],
+"Where is the bus stop?": [
+"ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+"Bas nildāṇa èllidè?"
+],
+"One ticket to...": [
+"ಇದಕ್ಕೆ ಒಂದು ಟಿಕೆಟ್...",
+"Idakkè òṃdu ṭikèṭ..."
+],
+"When does the bus leave?": [
+"ಬಸ್ಸು ಯಾವಾಗ ಹೊರಡುತ್ತದೆ?",
+"Bassu yāvāga hòraḍuttadè?"
+],
+"Is this seat free?": [
+"ಈ ಆಸನ ಉಚಿತವೇ?",
+"Ī āsana ucitave?"
+],
+"Next stop please": [
+"ದಯವಿಟ್ಟು ಮುಂದಿನ ನಿಲುಗಡೆ",
+"Dayaviṭṭu muṃdina nilugaḍè"
+],
+"I need a map": [
+"ನನಗೆ ನಕ್ಷೆ ಬೇಕು",
+"Nanagè nakṣè beku"
+],
+"Where can I get a taxi?": [
+"ನಾನು ಟ್ಯಾಕ್ಸಿಯನ್ನು ಎಲ್ಲಿ ಪಡೆಯಬಹುದು?",
+"Nānu ṭyāksiyannu èlli paḍèyabahudu?"
+],
+"Please slow down": [
+"ದಯವಿಟ್ಟು ನಿಧಾನಿಸಿ",
+"Dayaviṭṭu nidhānisi"
+],
+"Airport": [
+"ವಿಮಾನ ನಿಲ್ದಾಣ",
+"Vimāna nildāṇa"
+],
+"Where is the luggage?": [
+"ಸಾಮಾನು ಎಲ್ಲಿದೆ?",
+"Sāmānu èllidè?"
+],
+"I have a reservation": [
+"ನನಗೆ ಮೀಸಲಾತಿ ಇದೆ",
+"Nanagè mīsalāti idè"
+],
+"Which platform?": [
+"ಯಾವ ವೇದಿಕೆ?",
+"Yāva vedikè?"
+],
+"Is there a direct bus?": [
+"ನೇರ ಬಸ್ಸು ಇದೆಯೇ?",
+"Nera bassu idèye?"
+],
+"How long does it take?": [
+"ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ?",
+"Èṣṭu samaya tègèdukòḻḻuttadè?"
+],
+"I am travelling alone": [
+"ನಾನು ಒಬ್ಬಂಟಿಯಾಗಿ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದೇನೆ",
+"Nānu òbbaṃṭiyāgi prayāṇisuttiddenè"
+],
+"Can you show me on the map?": [
+"ನೀವು ನನಗೆ ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?",
+"Nīvu nanagè nakṣèyalli torisabahude?"
+],
+"Is it safe here?": [
+"ಇಲ್ಲಿ ಸುರಕ್ಷಿತವೇ?",
+"Illi surakṣitave?"
+],
+"I need a room": [
+"ನನಗೆ ಒಂದು ಕೋಣೆ ಬೇಕು",
+"Nanagè òṃdu koṇè beku"
+],
+"Do you have a single room?": [
+"ನೀವು ಒಂದೇ ಕೋಣೆಯನ್ನು ಹೊಂದಿದ್ದೀರಾ?",
+"Nīvu òṃde koṇèyannu hòṃdiddīrā?"
+],
+"Check-in time?": [
+"ಚೆಕ್-ಇನ್ ಸಮಯ?",
+"Cèk-in samaya?"
+],
+"Check-out time?": [
+"ಚೆಕ್-ಔಟ್ ಸಮಯ?",
+"Cèk-auṭ samaya?"
+],
+"Is breakfast included?": [
+"ಉಪಹಾರ ಸೇರಿದೆಯೇ?",
+"Upahāra seridèye?"
+],
+"Where is the beach?": [
+"ಬೀಚ್ ಎಲ್ಲಿದೆ?",
+"Bīc èllidè?"
+],
+"I want to rent a car": [
+"ನಾನು ಕಾರನ್ನು ಬಾಡಿಗೆಗೆ ಪಡೆಯಲು ಬಯಸುತ್ತೇನೆ",
+"Nānu kārannu bāḍigègè paḍèyalu bayasuttenè"
+],
+"Fill the tank please": [
+"ದಯವಿಟ್ಟು ಟ್ಯಾಂಕ್ ತುಂಬಿಸಿ",
+"Dayaviṭṭu ṭyāṃk tuṃbisi"
+],
+"Where is the petrol pump?": [
+"ಪೆಟ್ರೋಲ್ ಪಂಪ್ ಎಲ್ಲಿದೆ?",
+"Pèṭrol paṃp èllidè?"
+],
+"Can I walk there?": [
+"ನಾನು ಅಲ್ಲಿ ನಡೆಯಬಹುದೇ?",
+"Nānu alli naḍèyabahude?"
+],
+"Is it within walking distance?": [
+"ಇದು ವಾಕಿಂಗ್ ದೂರದಲ್ಲಿದೆಯೇ?",
+"Idu vākiṃg dūradallidèye?"
+],
+"Which way to the temple?": [
+"ದೇವಸ್ಥಾನಕ್ಕೆ ಯಾವ ದಾರಿ?",
+"Devasthānakkè yāva dāri?"
+],
+"I am looking for a hotel": [
+"ನಾನು ಹೋಟೆಲ್ ಹುಡುಕುತ್ತಿದ್ದೇನೆ",
+"Nānu hoṭèl huḍukuttiddenè"
+],
+"Do you have a guide?": [
+"ನೀವು ಮಾರ್ಗದರ್ಶಿ ಹೊಂದಿದ್ದೀರಾ?",
+"Nīvu mārgadarśi hòṃdiddīrā?"
+],
+"How much for a tour?": [
+"ಪ್ರವಾಸಕ್ಕೆ ಎಷ್ಟು?",
+"Pravāsakkè èṣṭu?"
+],
+"I would like to visit...": [
+"ನಾನು ಭೇಟಿ ನೀಡಲು ಬಯಸುತ್ತೇನೆ...",
+"Nānu bheṭi nīḍalu bayasuttenè..."
+],
+"What is this place called?": [
+"ಈ ಸ್ಥಳವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+"Ī sthaḻavannu enèṃdu karèyuttārè?"
+],
+"Is photography allowed?": [
+"ಛಾಯಾಗ್ರಹಣವನ್ನು ಅನುಮತಿಸಲಾಗಿದೆಯೇ?",
+"Chāyāgrahaṇavannu anumatisalāgidèye?"
+],
+"Where is the exit?": [
+"ನಿರ್ಗಮನ ಎಲ್ಲಿದೆ?",
+"Nirgamana èllidè?"
+],
+"Where is the entrance?": [
+"ಪ್ರವೇಶದ್ವಾರ ಎಲ್ಲಿದೆ?",
+"Praveśadvāra èllidè?"
+],
+"Is there a lift?": [
+"ಲಿಫ್ಟ್ ಇದೆಯೇ?",
+"Liphṭ idèye?"
+],
+"Ground floor": [
+"ನೆಲ ಮಹಡಿ",
+"Nèla mahaḍi"
+],
+"First floor": [
+"ಮೊದಲ ಮಹಡಿ",
+"Mòdala mahaḍi"
+],
+"Where is the parking?": [
+"ಪಾರ್ಕಿಂಗ್ ಎಲ್ಲಿದೆ?",
+"Pārkiṃg èllidè?"
+],
+"I need a SIM card": [
+"ನನಗೆ ಸಿಮ್ ಕಾರ್ಡ್ ಬೇಕು",
+"Nanagè sim kārḍ beku"
+],
+"Where can I exchange money?": [
+"ನಾನು ಎಲ್ಲಿ ಹಣವನ್ನು ವಿನಿಮಯ ಮಾಡಿಕೊಳ್ಳಬಹುದು?",
+"Nānu èlli haṇavannu vinimaya māḍikòḻḻabahudu?"
+],
+"What is the exchange rate?": [
+"ವಿನಿಮಯ ದರ ಎಷ್ಟು?",
+"Vinimaya dara èṣṭu?"
+],
+"I need a plug adapter": [
+"ನನಗೆ ಪ್ಲಗ್ ಅಡಾಪ್ಟರ್ ಬೇಕು",
+"Nanagè plag aḍāpṭar beku"
+],
+"Where is the embassy?": [
+"ರಾಯಭಾರ ಕಚೇರಿ ಎಲ್ಲಿದೆ?",
+"Rāyabhāra kaceri èllidè?"
+],
+"I lost my passport": [
+"ನಾನು ನನ್ನ ಪಾಸ್‌ಪೋರ್ಟ್ ಕಳೆದುಕೊಂಡೆ",
+"Nānu nanna pās‌porṭ kaḻèdukòṃḍè"
+],
+"I need to see a doctor": [
+"ನಾನು ವೈದ್ಯರನ್ನು ನೋಡಬೇಕಾಗಿದೆ",
+"Nānu vaidyarannu noḍabekāgidè"
+],
+"Call an ambulance": [
+"ಆಂಬ್ಯುಲೆನ್ಸ್ಗೆ ಕರೆ ಮಾಡಿ",
+"Āṃbyulènsgè karè māḍi"
+],
+"Where is the pharmacy?": [
+"ಔಷಧಾಲಯ ಎಲ್ಲಿದೆ?",
+"Auṣadhālaya èllidè?"
+],
+"I have travel insurance": [
+"ನನಗೆ ಪ್ರಯಾಣ ವಿಮೆ ಇದೆ",
+"Nanagè prayāṇa vimè idè"
+],
+"Scenic route": [
+"ರಮಣೀಯ ಮಾರ್ಗ",
+"Ramaṇīya mārga"
+],
+"Local market": [
+"ಸ್ಥಳೀಯ ಮಾರುಕಟ್ಟೆ",
+"Sthaḻīya mārukaṭṭè"
+],
+"Traditional food": [
+"ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರ",
+"Sāṃpradāyika āhāra"
+],
+"Famous monument": [
+"ಪ್ರಸಿದ್ಧ ಸ್ಮಾರಕ",
+"Prasiddha smāraka"
+],
+"Historical place": [
+"ಐತಿಹಾಸಿಕ ಸ್ಥಳ",
+"Aitihāsika sthaḻa"
+],
+"Opening hours?": [
+"ತೆರೆಯುವ ಸಮಯವೇ?",
+"Tèrèyuva samayave?"
+],
+"Is it open today?": [
+"ಇಂದು ತೆರೆದಿದೆಯೇ?",
+"Iṃdu tèrèdidèye?"
+],
+"Entrance fee?": [
+"ಪ್ರವೇಶ ಶುಲ್ಕ?",
+"Praveśa śulka?"
+],
+"Student discount?": [
+"ವಿದ್ಯಾರ್ಥಿ ರಿಯಾಯಿತಿ?",
+"Vidyārthi riyāyiti?"
+],
+"Free entry?": [
+"ಉಚಿತ ಪ್ರವೇಶ?",
+"Ucita praveśa?"
+],
+"Can you take a photo?": [
+"ನೀವು ಫೋಟೋ ತೆಗೆಯಬಹುದೇ?",
+"Nīvu phoṭo tègèyabahude?"
+],
+"Beautiful view": [
+"ಸುಂದರ ನೋಟ",
+"Suṃdara noṭa"
+],
+"I am on holiday": [
+"ನಾನು ರಜೆಯಲ್ಲಿದ್ದೇನೆ",
+"Nānu rajèyalliddenè"
+],
+"Business trip": [
+"ವ್ಯಾಪಾರ ಪ್ರವಾಸ",
+"Vyāpāra pravāsa"
+],
+"Round trip": [
+"ರೌಂಡ್ ಟ್ರಿಪ್",
+"Rauṃḍ ṭrip"
+],
+"One way": [
+"ಒಂದು ದಾರಿ",
+"Òṃdu dāri"
+],
+"Window seat please": [
+"ದಯವಿಟ್ಟು ಕಿಟಕಿಯ ಆಸನ",
+"Dayaviṭṭu kiṭakiya āsana"
+],
+"Aisle seat please": [
+"ದಯವಿಟ್ಟು ಹಜಾರದ ಆಸನ",
+"Dayaviṭṭu hajārada āsana"
+],
+"No smoking": [
+"ಧೂಮಪಾನ ಇಲ್ಲ",
+"Dhūmapāna illa"
+],
+"Luggage allowance?": [
+"ಲಗೇಜ್ ಭತ್ಯೆ?",
+"Lagej bhatyè?"
+],
+"Boarding pass": [
+"ಬೋರ್ಡಿಂಗ್ ಪಾಸ್",
+"Borḍiṃg pās"
+],
+"Gate number?": [
+"ಗೇಟ್ ಸಂಖ್ಯೆ?",
+"Geṭ saṃkhyè?"
+],
+"Delayed": [
+"ತಡವಾಯಿತು",
+"Taḍavāyitu"
+],
+"Cancelled": [
+"ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ",
+"Raddugòḻisalāgidè"
+],
+"On time": [
+"ಸಮಯಕ್ಕೆ",
+"Samayakkè"
+],
+"Customs": [
+"ಕಸ್ಟಮ್ಸ್",
+"Kasṭams"
+],
+"Nothing to declare": [
+"ಘೋಷಿಸಲು ಏನೂ ಇಲ್ಲ",
+"Ghoṣisalu enū illa"
+],
+"Souvenir": [
+"ಸ್ಮರಣಿಕೆ",
+"Smaraṇikè"
+],
+"Local specialty": [
+"ಸ್ಥಳೀಯ ವಿಶೇಷತೆ",
+"Sthaḻīya viśeṣatè"
+],
+"Recommend a restaurant": [
+"ರೆಸ್ಟೋರೆಂಟ್ ಅನ್ನು ಶಿಫಾರಸು ಮಾಡಿ",
+"Rèsṭorèṃṭ annu śiphārasu māḍi"
+],
+"Safe journey": [
+"ಸುರಕ್ಷಿತ ಪ್ರಯಾಣ",
+"Surakṣita prayāṇa"
+],
+"Water": [
+"ನೀರು",
+"Nīru"
+],
+"Food": [
+"ಆಹಾರ",
+"Āhāra"
+],
+"I am hungry": [
+"ನನಗೆ ಹಸಿವಾಗಿದೆ",
+"Nanagè hasivāgidè"
+],
+"Cooked rice": [
+"ಬೇಯಿಸಿದ ಅಕ್ಕಿ",
+"Beyisida akki"
+],
+"Tea": [
+"ಚಹಾ",
+"Cahā"
+],
+"Coffee": [
+"ಕಾಫಿ",
+"Kāphi"
+],
+"Please give me water": [
+"ದಯವಿಟ್ಟು ನನಗೆ ನೀರು ಕೊಡಿ",
+"Dayaviṭṭu nanagè nīru kòḍi"
+],
+"The food is delicious": [
+"ಆಹಾರ ರುಚಿಕರವಾಗಿದೆ",
+"Āhāra rucikaravāgidè"
+],
+"I am vegetarian": [
+"ನಾನು ಸಸ್ಯಾಹಾರಿ",
+"Nānu sasyāhāri"
+],
+"Bill please": [
+"ದಯವಿಟ್ಟು ಬಿಲ್ ಮಾಡಿ",
+"Dayaviṭṭu bil māḍi"
+],
+"Have a nice meal": [
+"ಚೆನ್ನಾಗಿ ಊಟ ಮಾಡಿ",
+"Cènnāgi ūṭa māḍi"
+],
+"I am thirsty": [
+"ನನಗೆ ಬಾಯಾರಿಕೆಯಾಗಿದೆ",
+"Nanagè bāyārikèyāgidè"
+],
+"One cup of tea": [
+"ಒಂದು ಕಪ್ ಚಹಾ",
+"Òṃdu kap cahā"
+],
+"No sugar please": [
+"ದಯವಿಟ್ಟು ಸಕ್ಕರೆ ಬೇಡ",
+"Dayaviṭṭu sakkarè beḍa"
+],
+"Less spicy please": [
+"ದಯವಿಟ್ಟು ಕಡಿಮೆ ಮಸಾಲೆ",
+"Dayaviṭṭu kaḍimè masālè"
+],
+"Too hot": [
+"ತುಂಬಾ ಬಿಸಿಯಾಗಿದೆ",
+"Tuṃbā bisiyāgidè"
+],
+"I am full": [
+"ನಾನು ತುಂಬಿದ್ದೇನೆ",
+"Nānu tuṃbiddenè"
+],
+"Menu please": [
+"ದಯವಿಟ್ಟು ಮೆನು",
+"Dayaviṭṭu mènu"
+],
+"What do you recommend?": [
+"ನೀವೇನು ಶಿಫಾರಸು ಮಾಡುತ್ತೀರಿ?",
+"Nīvenu śiphārasu māḍuttīri?"
+],
+"Today's special?": [
+"ಇಂದಿನ ವಿಶೇಷ?",
+"Iṃdina viśeṣa?"
+],
+"Is this vegetarian?": [
+"ಇದು ಸಸ್ಯಾಹಾರಿಯೇ?",
+"Idu sasyāhāriye?"
+],
+"I have an allergy": [
+"ನನಗೆ ಅಲರ್ಜಿ ಇದೆ",
+"Nanagè alarji idè"
+],
+"No onion no garlic": [
+"ಈರುಳ್ಳಿ ಇಲ್ಲ ಬೆಳ್ಳುಳ್ಳಿ ಇಲ್ಲ",
+"Īruḻḻi illa bèḻḻuḻḻi illa"
+],
+"Pack this to go": [
+"ಹೋಗಲು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ",
+"Hogalu idannu pyāk māḍi"
+],
+"Table for two": [
+"ಇಬ್ಬರಿಗೆ ಟೇಬಲ್",
+"Ibbarigè ṭebal"
+],
+"Can I have the bill?": [
+"ನಾನು ಬಿಲ್ ಅನ್ನು ಹೊಂದಬಹುದೇ?",
+"Nānu bil annu hòṃdabahude?"
+],
+"Is service included?": [
+"ಸೇವೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆಯೇ?",
+"Sevèyannu serisalāgidèye?"
+],
+"Keep the change": [
+"ಬದಲಾವಣೆಯನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ",
+"Badalāvaṇèyannu irisikòḻḻi"
+],
+"This is cold": [
+"ಇದು ಶೀತವಾಗಿದೆ",
+"Idu śītavāgidè"
+],
+"Can I get a refill?": [
+"ನಾನು ಮರುಪೂರಣವನ್ನು ಪಡೆಯಬಹುದೇ?",
+"Nānu marupūraṇavannu paḍèyabahude?"
+],
+"Breakfast": [
+"ಉಪಹಾರ",
+"Upahāra"
+],
+"Lunch": [
+"ಊಟ",
+"Ūṭa"
+],
+"Dinner": [
+"ಭೋಜನ",
+"Bhojana"
+],
+"Snack": [
+"ತಿಂಡಿ",
+"Tiṃḍi"
+],
+"Dessert": [
+"ಸಿಹಿತಿಂಡಿ",
+"Sihitiṃḍi"
+],
+"Starter": [
+"ಸ್ಟಾರ್ಟರ್",
+"Sṭārṭar"
+],
+"Main course": [
+"ಮುಖ್ಯ ಕೋರ್ಸ್",
+"Mukhya kors"
+],
+"Soup": [
+"ಸೂಪ್",
+"Sūp"
+],
+"Salad": [
+"ಸಲಾಡ್",
+"Salāḍ"
+],
+"Rice and curry": [
+"ಅನ್ನ ಮತ್ತು ಮೇಲೋಗರ",
+"Anna mattu melogara"
+],
+"Roti": [
+"ರೊಟ್ಟಿ",
+"Ròṭṭi"
+],
+"Dal": [
+"ದಳ",
+"Daḻa"
+],
+"Vegetable curry": [
+"ತರಕಾರಿ ಕರಿ",
+"Tarakāri kari"
+],
+"Fish curry": [
+"ಮೀನಿನ ಕರಿ",
+"Mīnina kari"
+],
+"Chicken": [
+"ಚಿಕನ್",
+"Cikan"
+],
+"Egg": [
+"ಮೊಟ್ಟೆ",
+"Mòṭṭè"
+],
+"Paneer": [
+"ಪನೀರ್",
+"Panīr"
+],
+"Yogurt": [
+"ಮೊಸರು",
+"Mòsaru"
+],
+"Pickle": [
+"ಉಪ್ಪಿನಕಾಯಿ",
+"Uppinakāyi"
+],
+"Chutney": [
+"ಚಟ್ನಿ",
+"Caṭni"
+],
+"Sweet": [
+"ಸಿಹಿ",
+"Sihi"
+],
+"Ice cream": [
+"ಐಸ್ ಕ್ರೀಮ್",
+"Ais krīm"
+],
+"Fresh juice": [
+"ತಾಜಾ ರಸ",
+"Tājā rasa"
+],
+"Cold drink": [
+"ತಂಪು ಪಾನೀಯ",
+"Taṃpu pānīya"
+],
+"Hot milk": [
+"ಬಿಸಿ ಹಾಲು",
+"Bisi hālu"
+],
+"Green tea": [
+"ಹಸಿರು ಚಹಾ",
+"Hasiru cahā"
+],
+"Black coffee": [
+"ಕಪ್ಪು ಕಾಫಿ",
+"Kappu kāphi"
+],
+"Mineral water": [
+"ಖನಿಜಯುಕ್ತ ನೀರು",
+"Khanijayukta nīru"
+],
+"No ice": [
+"ಐಸ್ ಇಲ್ಲ",
+"Ais illa"
+],
+"Extra napkins": [
+"ಹೆಚ್ಚುವರಿ ಕರವಸ್ತ್ರಗಳು",
+"Hèccuvari karavastragaḻu"
+],
+"Raw": [
+"ಕಚ್ಚಾ",
+"Kaccā"
+],
+"Cooked": [
+"ಬೇಯಿಸಿದ",
+"Beyisida"
+],
+"Fried": [
+"ಹುರಿದ",
+"Hurida"
+],
+"Boiled": [
+"ಬೇಯಿಸಿದ",
+"Beyisida"
+],
+"Spicy": [
+"ಮಸಾಲೆಯುಕ್ತ",
+"Masālèyukta"
+],
+"Sour": [
+"ಹುಳಿ",
+"Huḻi"
+],
+"Bitter": [
+"ಕಹಿ",
+"Kahi"
+],
+"Tasty": [
+"ಟೇಸ್ಟಿ",
+"Ṭesṭi"
+],
+"Tasteless": [
+"ರುಚಿಯಿಲ್ಲದ",
+"Ruciyillada"
+],
+"Fresh": [
+"ತಾಜಾ",
+"Tājā"
+],
+"Stale": [
+"ಹಳಸಿದ",
+"Haḻasida"
+],
+"Hot": [
+"ಬಿಸಿ",
+"Bisi"
+],
+"Cold": [
+"ಚಳಿ",
+"Caḻi"
+],
+"I cannot eat this": [
+"ನಾನು ಇದನ್ನು ತಿನ್ನಲು ಸಾಧ್ಯವಿಲ್ಲ",
+"Nānu idannu tinnalu sādhyavilla"
+],
+"Different dish please": [
+"ದಯವಿಟ್ಟು ವಿಭಿನ್ನ ಖಾದ್ಯ",
+"Dayaviṭṭu vibhinna khādya"
+],
+"Same again": [
+"ಮತ್ತೆ ಅದೇ",
+"Mattè ade"
+],
+"Half portion": [
+"ಅರ್ಧ ಭಾಗ",
+"Ardha bhāga"
+],
+"Large portion": [
+"ದೊಡ್ಡ ಭಾಗ",
+"Dòḍḍa bhāga"
+],
+"Small portion": [
+"ಸಣ್ಣ ಭಾಗ",
+"Saṇṇa bhāga"
+],
+"For here or to go?": [
+"ಇಲ್ಲಿಗೆ ಅಥವಾ ಹೋಗಲು?",
+"Illigè athavā hogalu?"
+],
+"Eat slowly": [
+"ನಿಧಾನವಾಗಿ ತಿನ್ನಿರಿ",
+"Nidhānavāgi tinniri"
+],
+"Cheers!": [
+"ಚೀರ್ಸ್!",
+"Cīrs!"
+],
+"To your health": [
+"ನಿಮ್ಮ ಆರೋಗ್ಯಕ್ಕೆ",
+"Nimma ārogyakkè"
+],
+"Enjoy your meal": [
+"ನಿಮ್ಮ ಊಟವನ್ನು ಆನಂದಿಸಿ",
+"Nimma ūṭavannu ānaṃdisi"
+],
+"It smells good": [
+"ಇದು ಉತ್ತಮ ವಾಸನೆ",
+"Idu uttama vāsanè"
+],
+"Too salty": [
+"ತುಂಬಾ ಉಪ್ಪು",
+"Tuṃbā uppu"
+],
+"Perfect": [
+"ಪರಿಪೂರ್ಣ",
+"Paripūrṇa"
+],
+"Compliments to the chef": [
+"ಬಾಣಸಿಗರಿಗೆ ಅಭಿನಂದನೆಗಳು",
+"Bāṇasigarigè abhinaṃdanègaḻu"
+],
+"How much is this?": [
+"ಇದು ಎಷ್ಟು?",
+"Idu èṣṭu?"
+],
+"That's too expensive": [
+"ಅದು ತುಂಬಾ ದುಬಾರಿ",
+"Adu tuṃbā dubāri"
+],
+"Cheap": [
+"ಅಗ್ಗದ",
+"Aggada"
+],
+"Give me one kg rice": [
+"ಒಂದು ಕೆಜಿ ಅಕ್ಕಿ ಕೊಡು",
+"Òṃdu kèji akki kòḍu"
+],
+"Do you have a bag?": [
+"ನಿಮ್ಮ ಬಳಿ ಚೀಲವಿದೆಯೇ?",
+"Nimma baḻi cīlavidèye?"
+],
+"OK I'll take it": [
+"ಸರಿ ನಾನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇನೆ",
+"Sari nānu tègèdukòḻḻuttenè"
+],
+"Can you reduce the price?": [
+"ನೀವು ಬೆಲೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಬಹುದೇ?",
+"Nīvu bèlèyannu kaḍimè māḍabahude?"
+],
+"Give me a discount": [
+"ನನಗೆ ರಿಯಾಯಿತಿ ನೀಡಿ",
+"Nanagè riyāyiti nīḍi"
+],
+"Final price?": [
+"ಅಂತಿಮ ಬೆಲೆ?",
+"Aṃtima bèlè?"
+],
+"I am just looking": [
+"ನಾನು ಸುಮ್ಮನೆ ನೋಡುತ್ತಿದ್ದೇನೆ",
+"Nānu summanè noḍuttiddenè"
+],
+"Do you have this in red?": [
+"ನೀವು ಇದನ್ನು ಕೆಂಪು ಬಣ್ಣದಲ್ಲಿ ಹೊಂದಿದ್ದೀರಾ?",
+"Nīvu idannu kèṃpu baṇṇadalli hòṃdiddīrā?"
+],
+"Do you have a bigger size?": [
+"ನೀವು ದೊಡ್ಡ ಗಾತ್ರವನ್ನು ಹೊಂದಿದ್ದೀರಾ?",
+"Nīvu dòḍḍa gātravannu hòṃdiddīrā?"
+],
+"Do you have a smaller size?": [
+"ನೀವು ಚಿಕ್ಕ ಗಾತ್ರವನ್ನು ಹೊಂದಿದ್ದೀರಾ?",
+"Nīvu cikka gātravannu hòṃdiddīrā?"
+],
+"Can I try this on?": [
+"ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?",
+"Nānu idannu prayatnisabahude?"
+],
+"Where is the fitting room?": [
+"ಅಳವಡಿಸುವ ಕೋಣೆ ಎಲ್ಲಿದೆ?",
+"Aḻavaḍisuva koṇè èllidè?"
+],
+"I will pay by card": [
+"ನಾನು ಕಾರ್ಡ್ ಮೂಲಕ ಪಾವತಿಸುತ್ತೇನೆ",
+"Nānu kārḍ mūlaka pāvatisuttenè"
+],
+"Do you accept cards?": [
+"ನೀವು ಕಾರ್ಡ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸುತ್ತೀರಾ?",
+"Nīvu kārḍ‌gaḻannu svīkarisuttīrā?"
+],
+"Cash only": [
+"ನಗದು ಮಾತ್ರ",
+"Nagadu mātra"
+],
+"Do you have change?": [
+"ನೀವು ಬದಲಾವಣೆ ಹೊಂದಿದ್ದೀರಾ?",
+"Nīvu badalāvaṇè hòṃdiddīrā?"
+],
+"Receipt please": [
+"ರಶೀದಿ ದಯವಿಟ್ಟು",
+"Raśīdi dayaviṭṭu"
+],
+"Gift wrap please": [
+"ದಯವಿಟ್ಟು ಉಡುಗೊರೆ ಸುತ್ತು",
+"Dayaviṭṭu uḍugòrè suttu"
+],
+"Where do I pay?": [
+"ನಾನು ಎಲ್ಲಿ ಪಾವತಿಸಲಿ?",
+"Nānu èlli pāvatisali?"
+],
+"Is there a warranty?": [
+"ಖಾತರಿ ಇದೆಯೇ?",
+"Khātari idèye?"
+],
+"Can I return this?": [
+"ನಾನು ಇದನ್ನು ಹಿಂತಿರುಗಿಸಬಹುದೇ?",
+"Nānu idannu hiṃtirugisabahude?"
+],
+"Exchange only": [
+"ವಿನಿಮಯ ಮಾತ್ರ",
+"Vinimaya mātra"
+],
+"Out of stock": [
+"ಸ್ಟಾಕ್ ಮುಗಿದಿದೆ",
+"Sṭāk mugididè"
+],
+"When will it arrive?": [
+"ಅದು ಯಾವಾಗ ಬರುತ್ತದೆ?",
+"Adu yāvāga baruttadè?"
+],
+"Order": [
+"ಆದೇಶ",
+"Ādeśa"
+],
+"Delivery": [
+"ವಿತರಣೆ",
+"Vitaraṇè"
+],
+"Free delivery?": [
+"ಉಚಿತ ವಿತರಣೆ?",
+"Ucita vitaraṇè?"
+],
+"Supermarket": [
+"ಸೂಪರ್ಮಾರ್ಕೆಟ್",
+"Sūparmārkèṭ"
+],
+"Market": [
+"ಮಾರುಕಟ್ಟೆ",
+"Mārukaṭṭè"
+],
+"Shop": [
+"ಅಂಗಡಿ",
+"Aṃgaḍi"
+],
+"Mall": [
+"ಮಾಲ್",
+"Māl"
+],
+"Bakery": [
+"ಬೇಕರಿ",
+"Bekari"
+],
+"Pharmacy": [
+"ಔಷಧಾಲಯ",
+"Auṣadhālaya"
+],
+"Bookstore": [
+"ಪುಸ್ತಕದಂಗಡಿ",
+"Pustakadaṃgaḍi"
+],
+"Clothing store": [
+"ಬಟ್ಟೆ ಅಂಗಡಿ",
+"Baṭṭè aṃgaḍi"
+],
+"Shoe shop": [
+"ಶೂ ಅಂಗಡಿ",
+"Śū aṃgaḍi"
+],
+"Jewellery shop": [
+"ಆಭರಣ ಅಂಗಡಿ",
+"Ābharaṇa aṃgaḍi"
+],
+"Electronics store": [
+"ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಅಂಗಡಿ",
+"Èlèkṭrāniks aṃgaḍi"
+],
+"Open": [
+"ತೆರೆಯಿರಿ",
+"Tèrèyiri"
+],
+"Closed": [
+"ಮುಚ್ಚಲಾಗಿದೆ",
+"Muccalāgidè"
+],
+"Sale": [
+"ಮಾರಾಟ",
+"Mārāṭa"
+],
+"Half price": [
+"ಅರ್ಧ ಬೆಲೆ",
+"Ardha bèlè"
+],
+"Buy one get one": [
+"ಒಂದನ್ನು ಖರೀದಿಸಿ ಒಂದು ಪಡೆಯಿರಿ",
+"Òṃdannu kharīdisi òṃdu paḍèyiri"
+],
+"Clearance": [
+"ಕ್ಲಿಯರೆನ್ಸ್",
+"Kliyarèns"
+],
+"New arrival": [
+"ಹೊಸ ಆಗಮನ",
+"Hòsa āgamana"
+],
+"Best seller": [
+"ಉತ್ತಮ ಮಾರಾಟಗಾರ",
+"Uttama mārāṭagāra"
+],
+"Limited edition": [
+"ಸೀಮಿತ ಆವೃತ್ತಿ",
+"Sīmita āvṛtti"
+],
+"Original": [
+"ಮೂಲ",
+"Mūla"
+],
+"Copy": [
+"ನಕಲು ಮಾಡಿ",
+"Nakalu māḍi"
+],
+"Brand": [
+"ಬ್ರ್ಯಾಂಡ್",
+"Bryāṃḍ"
+],
+"Quality": [
+"ಗುಣಮಟ್ಟ",
+"Guṇamaṭṭa"
+],
+"Cheap quality": [
+"ಅಗ್ಗದ ಗುಣಮಟ್ಟ",
+"Aggada guṇamaṭṭa"
+],
+"Good quality": [
+"ಉತ್ತಮ ಗುಣಮಟ್ಟ",
+"Uttama guṇamaṭṭa"
+],
+"Expensive": [
+"ದುಬಾರಿ",
+"Dubāri"
+],
+"Affordable": [
+"ಕೈಗೆಟುಕುವ ಬೆಲೆ",
+"Kaigèṭukuva bèlè"
+],
+"Bargain": [
+"ಚೌಕಾಸಿ ಮಾಡಿ",
+"Caukāsi māḍi"
+],
+"Negotiate": [
+"ಮಾತುಕತೆ ನಡೆಸಿ",
+"Mātukatè naḍèsi"
+],
+"I need...": [
+"ನನಗೆ ಬೇಕು...",
+"Nanagè beku..."
+],
+"Show me that": [
+"ಅದನ್ನು ನನಗೆ ತೋರಿಸಿ",
+"Adannu nanagè torisi"
+],
+"Anything else?": [
+"ಇನ್ನೇನು?",
+"Innenu?"
+],
+"That is all": [
+"ಅಷ್ಟೆ",
+"Aṣṭè"
+],
+"I will think about it": [
+"ನಾನು ಅದರ ಬಗ್ಗೆ ಯೋಚಿಸುತ್ತೇನೆ",
+"Nānu adara baggè yocisuttenè"
+],
+"I will come back": [
+"ನಾನು ಹಿಂತಿರುಗಿ ಬರುತ್ತೇನೆ",
+"Nānu hiṃtirugi baruttenè"
+],
+"Do you have another colour?": [
+"ನೀವು ಬೇರೆ ಬಣ್ಣವನ್ನು ಹೊಂದಿದ್ದೀರಾ?",
+"Nīvu berè baṇṇavannu hòṃdiddīrā?"
+],
+"Only this left": [
+"ಇದು ಮಾತ್ರ ಉಳಿದಿದೆ",
+"Idu mātra uḻididè"
+],
+"Last piece": [
+"ಕೊನೆಯ ತುಣುಕು",
+"Kònèya tuṇuku"
+],
+"Reserve this for me": [
+"ಇದನ್ನು ನನಗಾಗಿ ಕಾಯ್ದಿರಿಸಿ",
+"Idannu nanagāgi kāydirisi"
+],
+"Put it on hold": [
+"ಅದನ್ನು ತಡೆಹಿಡಿಯಿರಿ",
+"Adannu taḍèhiḍiyiri"
+],
+"Cancel my order": [
+"ನನ್ನ ಆರ್ಡರ್ ರದ್ದುಮಾಡಿ",
+"Nanna ārḍar raddumāḍi"
+],
+"Track my order": [
+"ನನ್ನ ಆದೇಶವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ",
+"Nanna ādeśavannu ṭryāk māḍi"
+],
+"Wrong size": [
+"ತಪ್ಪು ಗಾತ್ರ",
+"Tappu gātra"
+],
+"Defective": [
+"ದೋಷಪೂರಿತ",
+"Doṣapūrita"
+],
+"Refund": [
+"ಮರುಪಾವತಿ",
+"Marupāvati"
+],
+"Complaint": [
+"ದೂರು",
+"Dūru"
+],
+"Manager": [
+"ಮ್ಯಾನೇಜರ್",
+"Myānejar"
+],
+"Customer service": [
+"ಗ್ರಾಹಕ ಸೇವೆ",
+"Grāhaka sevè"
+],
+"Help desk": [
+"ಸಹಾಯ ಕೇಂದ್ರ",
+"Sahāya keṃdra"
+],
+"Counter": [
+"ಕೌಂಟರ್",
+"Kauṃṭar"
+],
+"Queue": [
+"ಸರತಿ",
+"Sarati"
+],
+"Waiting": [
+"ಕಾಯುತ್ತಿದೆ",
+"Kāyuttidè"
+],
+"Next please": [
+"ದಯವಿಟ್ಟು ಮುಂದೆ",
+"Dayaviṭṭu muṃdè"
+],
+"Hurry": [
+"ತ್ವರೆ",
+"Tvarè"
+],
+"No rush": [
+"ಅವಸರವಿಲ್ಲ",
+"Avasaravilla"
+],
+"Take your time": [
+"ನಿಮ್ಮ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಿ",
+"Nimma samaya tègèdukòḻḻi"
+],
+"Have a nice day": [
+"ಒಳ್ಳೆಯ ದಿನ",
+"Òḻḻèya dina"
+],
+"Thank you for shopping": [
+"ಶಾಪಿಂಗ್ ಮಾಡಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು",
+"Śāpiṃg māḍiddakkāgi dhanyavādagaḻu"
+],
+"Help!": [
+"ಸಹಾಯ!",
+"Sahāya!"
+],
+"Stop!": [
+"ನಿಲ್ಲಿಸು!",
+"Nillisu!"
+],
+"Call the police!": [
+"ಪೊಲೀಸರಿಗೆ ಕರೆ ಮಾಡಿ!",
+"Pòlīsarigè karè māḍi!"
+],
+"Fire!": [
+"ಬೆಂಕಿ!",
+"Bèṃki!"
+],
+"I need a doctor": [
+"ನನಗೆ ಡಾಕ್ಟರ್ ಬೇಕು",
+"Nanagè ḍākṭar beku"
+],
+"I'm sick": [
+"ನಾನು ಅಸ್ವಸ್ಥನಾಗಿದ್ದೇನೆ",
+"Nānu asvasthanāgiddenè"
+],
+"It's an emergency": [
+"ಇದು ತುರ್ತು ಪರಿಸ್ಥಿತಿ",
+"Idu turtu paristhiti"
+],
+"There has been an accident": [
+"ಅಪಘಾತ ಸಂಭವಿಸಿದೆ",
+"Apaghāta saṃbhavisidè"
+],
+"I have been robbed": [
+"ನನ್ನನ್ನು ದರೋಡೆ ಮಾಡಲಾಗಿದೆ",
+"Nannannu daroḍè māḍalāgidè"
+],
+"Someone is following me": [
+"ಯಾರೋ ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸುತ್ತಿದ್ದಾರೆ",
+"Yāro nannannu hiṃbālisuttiddārè"
+],
+"I lost my child": [
+"ನಾನು ನನ್ನ ಮಗುವನ್ನು ಕಳೆದುಕೊಂಡೆ",
+"Nānu nanna maguvannu kaḻèdukòṃḍè"
+],
+"I need medicine": [
+"ನನಗೆ ಔಷಧಿ ಬೇಕು",
+"Nanagè auṣadhi beku"
+],
+"I have pain here": [
+"ನನಗೆ ಇಲ್ಲಿ ನೋವು ಇದೆ",
+"Nanagè illi novu idè"
+],
+"I am allergic to...": [
+"ನನಗೆ ಅಲರ್ಜಿ ಇದೆ...",
+"Nanagè alarji idè..."
+],
+"I have fever": [
+"ನನಗೆ ಜ್ವರವಿದೆ",
+"Nanagè jvaravidè"
+],
+"I have a headache": [
+"ನನಗೆ ತಲೆನೋವು ಇದೆ",
+"Nanagè talènovu idè"
+],
+"I have stomach ache": [
+"ನನಗೆ ಹೊಟ್ಟೆನೋವು ಇದೆ",
+"Nanagè hòṭṭènovu idè"
+],
+"I cannot breathe": [
+"ನಾನು ಉಸಿರಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ",
+"Nānu usirāḍalu sādhyavilla"
+],
+"Bleeding": [
+"ರಕ್ತಸ್ರಾವ",
+"Raktasrāva"
+],
+"Broken bone": [
+"ಮುರಿದ ಮೂಳೆ",
+"Murida mūḻè"
+],
+"Burn": [
+"ಬರ್ನ್",
+"Barn"
+],
+"Bite": [
+"ಕಚ್ಚುವುದು",
+"Kaccuvudu"
+],
+"Poison": [
+"ವಿಷ",
+"Viṣa"
+],
+"Drowning": [
+"ಮುಳುಗುತ್ತಿದೆ",
+"Muḻuguttidè"
+],
+"Unconscious": [
+"ಪ್ರಜ್ಞೆ ತಪ್ಪಿದೆ",
+"Prajñè tappidè"
+],
+"Heart attack": [
+"ಹೃದಯಾಘಾತ",
+"Hṛdayāghāta"
+],
+"Stay calm": [
+"ಶಾಂತವಾಗಿರಿ",
+"Śāṃtavāgiri"
+],
+"Do not move": [
+"ಚಲಿಸಬೇಡಿ",
+"Calisabeḍi"
+],
+"Police station": [
+"ಪೊಲೀಸ್ ಠಾಣೆ",
+"Pòlīs ṭhāṇè"
+],
+"Fire station": [
+"ಅಗ್ನಿಶಾಮಕ ಠಾಣೆ",
+"Agniśāmaka ṭhāṇè"
+],
+"Ambulance": [
+"ಆಂಬ್ಯುಲೆನ್ಸ್",
+"Āṃbyulèns"
+],
+"Doctor": [
+"ಡಾಕ್ಟರ್",
+"Ḍākṭar"
+],
+"Nurse": [
+"ನರ್ಸ್",
+"Nars"
+],
+"Medicine": [
+"ಔಷಧಿ",
+"Auṣadhi"
+],
+"First aid": [
+"ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ",
+"Prathama cikitsè"
+],
+"Bandage": [
+"ಬ್ಯಾಂಡೇಜ್",
+"Byāṃḍej"
+],
+"Antiseptic": [
+"ನಂಜುನಿರೋಧಕ",
+"Naṃjunirodhaka"
+],
+"Painkiller": [
+"ನೋವು ನಿವಾರಕ",
+"Novu nivāraka"
+],
+"Injection": [
+"ಇಂಜೆಕ್ಷನ್",
+"Iṃjèkṣan"
+],
+"Blood": [
+"ರಕ್ತ",
+"Rakta"
+],
+"Blood bank": [
+"ರಕ್ತ ಬ್ಯಾಂಕ್",
+"Rakta byāṃk"
+],
+"Operation": [
+"ಕಾರ್ಯಾಚರಣೆ",
+"Kāryācaraṇè"
+],
+"ICU": [
+"ಐಸಿಯು",
+"Aisiyu"
+],
+"Ward": [
+"ವಾರ್ಡ್",
+"Vārḍ"
+],
+"Emergency room": [
+"ತುರ್ತು ಕೋಣೆ",
+"Turtu koṇè"
+],
+"X-ray": [
+"ಎಕ್ಸ್-ರೇ",
+"Èks-re"
+],
+"Report": [
+"ವರದಿ",
+"Varadi"
+],
+"Prescription": [
+"ಪ್ರಿಸ್ಕ್ರಿಪ್ಷನ್",
+"Priskripṣan"
+],
+"Insurance": [
+"ವಿಮೆ",
+"Vimè"
+],
+"Contact number": [
+"ಸಂಪರ್ಕ ಸಂಖ್ಯೆ",
+"Saṃparka saṃkhyè"
+],
+"Next of kin": [
+"ಸಂಬಂಧಿಕರ ಮುಂದಿನ",
+"Saṃbaṃdhikara muṃdina"
+],
+"Identity": [
+"ಗುರುತು",
+"Gurutu"
+],
+"Passport": [
+"ಪಾಸ್ಪೋರ್ಟ್",
+"Pāsporṭ"
+],
+"Address": [
+"ವಿಳಾಸ",
+"Viḻāsa"
+],
+"Phone": [
+"ಫೋನ್",
+"Phon"
+],
+"Quick!": [
+"ತ್ವರಿತ!",
+"Tvarita!"
+],
+"Hurry up!": [
+"ಯದ್ವಾತದ್ವಾ!",
+"Yadvātadvā!"
+],
+"Safe": [
+"ಸುರಕ್ಷಿತ",
+"Surakṣita"
+],
+"Danger": [
+"ಅಪಾಯ",
+"Apāya"
+],
+"Warning": [
+"ಎಚ್ಚರಿಕೆ",
+"Èccarikè"
+],
+"Caution": [
+"ಎಚ್ಚರಿಕೆ",
+"Èccarikè"
+],
+"Exit": [
+"ನಿರ್ಗಮಿಸಿ",
+"Nirgamisi"
+],
+"Entrance": [
+"ಪ್ರವೇಶ",
+"Praveśa"
+],
+"Evacuate": [
+"ವಿಲೇವಾರಿ",
+"Vilevāri"
+],
+"Assembly point": [
+"ಅಸೆಂಬ್ಲಿ ಪಾಯಿಂಟ್",
+"Asèṃbli pāyiṃṭ"
+],
+"Do not enter": [
+"ಪ್ರವೇಶಿಸಬೇಡಿ",
+"Praveśisabeḍi"
+],
+"No entry": [
+"ಪ್ರವೇಶವಿಲ್ಲ",
+"Praveśavilla"
+],
+"Restricted area": [
+"ನಿರ್ಬಂಧಿತ ಪ್ರದೇಶ",
+"Nirbaṃdhita pradeśa"
+],
+"Keep away": [
+"ದೂರ ಇಡಿ",
+"Dūra iḍi"
+],
+"Do not touch": [
+"ಮುಟ್ಟಬೇಡಿ",
+"Muṭṭabeḍi"
+],
+"High voltage": [
+"ಹೆಚ್ಚಿನ ವೋಲ್ಟೇಜ್",
+"Hèccina volṭej"
+],
+"Flammable": [
+"ದಹಿಸಬಲ್ಲ",
+"Dahisaballa"
+],
+"Toxic": [
+"ವಿಷಕಾರಿ",
+"Viṣakāri"
+],
+"Corrosive": [
+"ನಾಶಕಾರಿ",
+"Nāśakāri"
+],
+"Slippery": [
+"ಜಾರು",
+"Jāru"
+],
+"Fragile": [
+"ದುರ್ಬಲವಾದ",
+"Durbalavāda"
+],
+"Handle with care": [
+"ಎಚ್ಚರಿಕೆಯಿಂದ ನಿರ್ವಹಿಸಿ",
+"Èccarikèyiṃda nirvahisi"
+],
+"Emergency exit": [
+"ತುರ್ತು ನಿರ್ಗಮನ",
+"Turtu nirgamana"
+],
+"Fire extinguisher": [
+"ಅಗ್ನಿಶಾಮಕ",
+"Agniśāmaka"
+],
+"First aid kit": [
+"ಪ್ರಥಮ ಚಿಕಿತ್ಸಾ ಕಿಟ್",
+"Prathama cikitsā kiṭ"
+],
+"Emergency number": [
+"ತುರ್ತು ಸಂಖ್ಯೆ",
+"Turtu saṃkhyè"
+],
+"Helpline": [
+"ಸಹಾಯವಾಣಿ",
+"Sahāyavāṇi"
+],
+"Lost and found": [
+"ಕಳೆದುಹೋಗಿದೆ ಮತ್ತು ಕಂಡುಬಂದಿದೆ",
+"Kaḻèduhogidè mattu kaṃḍubaṃdidè"
+],
+"Missing person": [
+"ಕಾಣೆಯಾದ ವ್ಯಕ್ತಿ",
+"Kāṇèyāda vyakti"
+],
+"Report to police": [
+"ಪೊಲೀಸರಿಗೆ ವರದಿ ಮಾಡಿ",
+"Pòlīsarigè varadi māḍi"
+],
+"Stay with me": [
+"ನನ್ನ ಜೊತೆ ಇರು",
+"Nanna jòtè iru"
+],
+"Everything will be fine": [
+"ಎಲ್ಲವೂ ಚೆನ್ನಾಗಿರುತ್ತದೆ",
+"Èllavū cènnāgiruttadè"
+],
+"What time is it?": [
+"ಸಮಯ ಎಷ್ಟು?",
+"Samaya èṣṭu?"
+],
+"Morning": [
+"ಮುಂಜಾನೆ",
+"Muṃjānè"
+],
+"Evening": [
+"ಸಂಜೆ",
+"Saṃjè"
+],
+"Night": [
+"ರಾತ್ರಿ",
+"Rātri"
+],
+"Today": [
+"ಇಂದು",
+"Iṃdu"
+],
+"Tomorrow": [
+"ನಾಳೆ",
+"Nāḻè"
+],
+"Yesterday": [
+"ನಿನ್ನೆ",
+"Ninnè"
+],
+"Now": [
+"ಈಗ",
+"Īga"
+],
+"Sunday": [
+"ಭಾನುವಾರ",
+"Bhānuvāra"
+],
+"Monday": [
+"ಸೋಮವಾರ",
+"Somavāra"
+],
+"Tuesday": [
+"ಮಂಗಳವಾರ",
+"Maṃgaḻavāra"
+],
+"Wednesday": [
+"ಬುಧವಾರ",
+"Budhavāra"
+],
+"Thursday": [
+"ಗುರುವಾರ",
+"Guruvāra"
+],
+"Friday": [
+"ಶುಕ್ರವಾರ",
+"Śukravāra"
+],
+"Saturday": [
+"ಶನಿವಾರ",
+"Śanivāra"
+],
+"Week": [
+"ವಾರ",
+"Vāra"
+],
+"Month": [
+"ತಿಂಗಳು",
+"Tiṃgaḻu"
+],
+"Year": [
+"ವರ್ಷ",
+"Varṣa"
+],
+"Early morning": [
+"ಮುಂಜಾನೆ",
+"Muṃjānè"
+],
+"Noon": [
+"ಮಧ್ಯಾಹ್ನ",
+"Madhyāhna"
+],
+"Midnight": [
+"ಮಧ್ಯರಾತ್ರಿ",
+"Madhyarātri"
+],
+"Hour": [
+"ಗಂಟೆ",
+"Gaṃṭè"
+],
+"Minute": [
+"ನಿಮಿಷ",
+"Nimiṣa"
+],
+"Second": [
+"ಎರಡನೆಯದು",
+"Èraḍanèyadu"
+],
+"Late": [
+"ತಡವಾಗಿ",
+"Taḍavāgi"
+],
+"Early": [
+"ಆರಂಭಿಕ",
+"Āraṃbhika"
+],
+"Before": [
+"ಮೊದಲು",
+"Mòdalu"
+],
+"After": [
+"ನಂತರ",
+"Naṃtara"
+],
+"January": [
+"ಜನವರಿ",
+"Janavari"
+],
+"February": [
+"ಫೆಬ್ರವರಿ",
+"Phèbravari"
+],
+"March": [
+"ಮಾರ್ಚ್",
+"Mārc"
+],
+"April": [
+"ಏಪ್ರಿಲ್",
+"Epril"
+],
+"May": [
+"ಮೇ",
+"Me"
+],
+"June": [
+"ಜೂನ್",
+"Jūn"
+],
+"July": [
+"ಜುಲೈ",
+"Julai"
+],
+"August": [
+"ಆಗಸ್ಟ್",
+"Āgasṭ"
+],
+"September": [
+"ಸೆಪ್ಟೆಂಬರ್",
+"Sèpṭèṃbar"
+],
+"October": [
+"ಅಕ್ಟೋಬರ್",
+"Akṭobar"
+],
+"November": [
+"ನವೆಂಬರ್",
+"Navèṃbar"
+],
+"December": [
+"ಡಿಸೆಂಬರ್",
+"Ḍisèṃbar"
+],
+"Spring": [
+"ವಸಂತ",
+"Vasaṃta"
+],
+"Summer": [
+"ಬೇಸಿಗೆ",
+"Besigè"
+],
+"Monsoon": [
+"ಮಾನ್ಸೂನ್",
+"Mānsūn"
+],
+"Winter": [
+"ಚಳಿಗಾಲ",
+"Caḻigāla"
+],
+"Season": [
+"ಸೀಸನ್",
+"Sīsan"
+],
+"Holiday": [
+"ರಜೆ",
+"Rajè"
+],
+"Festival": [
+"ಹಬ್ಬ",
+"Habba"
+],
+"Birthday": [
+"ಜನ್ಮದಿನ",
+"Janmadina"
+],
+"Anniversary": [
+"ವಾರ್ಷಿಕೋತ್ಸವ",
+"Vārṣikotsava"
+],
+"Appointment": [
+"ನೇಮಕಾತಿ",
+"Nemakāti"
+],
+"Meeting": [
+"ಸಭೆ",
+"Sabhè"
+],
+"Deadline": [
+"ಗಡುವು",
+"Gaḍuvu"
+],
+"Schedule": [
+"ವೇಳಾಪಟ್ಟಿ",
+"Veḻāpaṭṭi"
+],
+"Free time": [
+"ಉಚಿತ ಸಮಯ",
+"Ucita samaya"
+],
+"Busy": [
+"ಕಾರ್ಯನಿರತ",
+"Kāryanirata"
+],
+"Available": [
+"ಲಭ್ಯವಿದೆ",
+"Labhyavidè"
+],
+"Not available": [
+"ಲಭ್ಯವಿಲ್ಲ",
+"Labhyavilla"
+],
+"At what time?": [
+"ಯಾವ ಸಮಯದಲ್ಲಿ?",
+"Yāva samayadalli?"
+],
+"Until when?": [
+"ಯಾವಾಗ ತನಕ?",
+"Yāvāga tanaka?"
+],
+"From when?": [
+"ಯಾವಾಗಿಂದ?",
+"Yāvāgiṃda?"
+],
+"How long?": [
+"ಎಷ್ಟು ಕಾಲ?",
+"Èṣṭu kāla?"
+],
+"A long time": [
+"ಬಹಳ ಸಮಯ",
+"Bahaḻa samaya"
+],
+"A short time": [
+"ಸ್ವಲ್ಪ ಸಮಯ",
+"Svalpa samaya"
+],
+"Just now": [
+"ಈಗಷ್ಟೇ",
+"Īgaṣṭe"
+],
+"A while ago": [
+"ಸ್ವಲ್ಪ ಸಮಯದ ಹಿಂದೆ",
+"Svalpa samayada hiṃdè"
+],
+"In a moment": [
+"ಒಂದು ಕ್ಷಣದಲ್ಲಿ",
+"Òṃdu kṣaṇadalli"
+],
+"Wait a minute": [
+"ಒಂದು ನಿಮಿಷ ನಿರೀಕ್ಷಿಸಿ",
+"Òṃdu nimiṣa nirīkṣisi"
+],
+"See you later": [
+"ನಂತರ ನೋಡೋಣ",
+"Naṃtara noḍoṇa"
+],
+"See you tomorrow": [
+"ನಾಳೆ ನೋಡೋಣ",
+"Nāḻè noḍoṇa"
+],
+"See you next week": [
+"ಮುಂದಿನ ವಾರ ನೋಡೋಣ",
+"Muṃdina vāra noḍoṇa"
+],
+"Every day": [
+"ಪ್ರತಿದಿನ",
+"Pratidina"
+],
+"Every week": [
+"ಪ್ರತಿ ವಾರ",
+"Prati vāra"
+],
+"Once a week": [
+"ವಾರಕ್ಕೊಮ್ಮೆ",
+"Vārakkòmmè"
+],
+"Twice a day": [
+"ದಿನಕ್ಕೆ ಎರಡು ಬಾರಿ",
+"Dinakkè èraḍu bāri"
+],
+"All day": [
+"ಎಲ್ಲಾ ದಿನ",
+"Èllā dina"
+],
+"All night": [
+"ಎಲ್ಲಾ ರಾತ್ರಿ",
+"Èllā rātri"
+],
+"Day after tomorrow": [
+"ನಾಳೆಯ ನಂತರದ ದಿನ",
+"Nāḻèya naṃtarada dina"
+],
+"Day before yesterday": [
+"ಹಿಂದಿನ ದಿನ",
+"Hiṃdina dina"
+],
+"Next month": [
+"ಮುಂದಿನ ತಿಂಗಳು",
+"Muṃdina tiṃgaḻu"
+],
+"Last month": [
+"ಕಳೆದ ತಿಂಗಳು",
+"Kaḻèda tiṃgaḻu"
+],
+"Next year": [
+"ಮುಂದಿನ ವರ್ಷ",
+"Muṃdina varṣa"
+],
+"Last year": [
+"ಕಳೆದ ವರ್ಷ",
+"Kaḻèda varṣa"
+],
+"In the past": [
+"ಹಿಂದೆ",
+"Hiṃdè"
+],
+"In the future": [
+"ಭವಿಷ್ಯದಲ್ಲಿ",
+"Bhaviṣyadalli"
+],
+"At present": [
+"ಪ್ರಸ್ತುತ",
+"Prastuta"
+],
+"From now on": [
+"ಇಂದಿನಿಂದ",
+"Iṃdiniṃda"
+],
+"So far": [
+"ಇಲ್ಲಿಯವರೆಗೆ",
+"Illiyavarègè"
+],
+"For a long time": [
+"ಬಹಳ ಕಾಲ",
+"Bahaḻa kāla"
+],
+"Yes": [
+"ಹೌದು",
+"Haudu"
+],
+"No": [
+"ಸಂ",
+"Saṃ"
+],
+"Please speak slowly": [
+"ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ",
+"Dayaviṭṭu nidhānavāgi mātanāḍi"
+],
+"I don't understand": [
+"ನನಗೆ ಅರ್ಥವಾಗುತ್ತಿಲ್ಲ",
+"Nanagè arthavāguttilla"
+],
+"Do you speak Maithili?": [
+"ನೀವು ಮೈಥಿಲಿ ಮಾತನಾಡುತ್ತೀರಾ?",
+"Nīvu maithili mātanāḍuttīrā?"
+],
+"No problem": [
+"ತೊಂದರೆ ಇಲ್ಲ",
+"Tòṃdarè illa"
+],
+"I agree": [
+"ನಾನು ಒಪ್ಪುತ್ತೇನೆ",
+"Nānu òpputtenè"
+],
+"Come in": [
+"ಒಳಗೆ ಬನ್ನಿ",
+"Òḻagè banni"
+],
+"Have you eaten?": [
+"ನೀವು ತಿಂದಿದ್ದೀರಾ?",
+"Nīvu tiṃdiddīrā?"
+],
+"We are happy": [
+"ನಾವು ಸಂತೋಷವಾಗಿದ್ದೇವೆ",
+"Nāvu saṃtoṣavāgiddevè"
+],
+"Maybe": [
+"ಬಹುಶಃ",
+"Bahuśaḥ"
+],
+"Of course": [
+"ಸಹಜವಾಗಿ",
+"Sahajavāgi"
+],
+"Certainly": [
+"ಖಂಡಿತವಾಗಿಯೂ",
+"Khaṃḍitavāgiyū"
+],
+"I think so": [
+"ನನಗನ್ನಿಸುತ್ತದೆ",
+"Nanagannisuttadè"
+],
+"I don't think so": [
+"ನಾನು ಹಾಗೆ ಯೋಚಿಸುವುದಿಲ್ಲ",
+"Nānu hāgè yocisuvudilla"
+],
+"I hope so": [
+"ನಾನು ಭಾವಿಸುತ್ತೇನೆ",
+"Nānu bhāvisuttenè"
+],
+"I am not sure": [
+"ನನಗೆ ಖಚಿತವಿಲ್ಲ",
+"Nanagè khacitavilla"
+],
+"It depends": [
+"ಇದು ಅವಲಂಬಿಸಿರುತ್ತದೆ",
+"Idu avalaṃbisiruttadè"
+],
+"That is right": [
+"ಅದು ಸರಿ",
+"Adu sari"
+],
+"That is wrong": [
+"ಅದು ತಪ್ಪು",
+"Adu tappu"
+],
+"I see": [
+"ನಾನು ನೋಡುತ್ತೇನೆ",
+"Nānu noḍuttenè"
+],
+"Really?": [
+"ನಿಜವಾಗಿಯೂ?",
+"Nijavāgiyū?"
+],
+"Are you sure?": [
+"ನೀವು ಖಚಿತವಾಗಿರುವಿರಾ?",
+"Nīvu khacitavāgiruvirā?"
+],
+"Why not?": [
+"ಏಕೆ ಇಲ್ಲ?",
+"Ekè illa?"
+],
+"What for?": [
+"ಯಾವುದಕ್ಕಾಗಿ?",
+"Yāvudakkāgi?"
+],
+"Never mind": [
+"ಪರವಾಗಿಲ್ಲ",
+"Paravāgilla"
+],
+"It does not matter": [
+"ಪರವಾಗಿಲ್ಲ",
+"Paravāgilla"
+],
+"Same here": [
+"ಇಲ್ಲಿಯೂ ಅದೇ",
+"Illiyū ade"
+],
+"Me too": [
+"ನನಗೂ",
+"Nanagū"
+],
+"Neither do I": [
+"ನನಗೂ ಇಲ್ಲ",
+"Nanagū illa"
+],
+"Let me see": [
+"ನಾನು ನೋಡೋಣ",
+"Nānu noḍoṇa"
+],
+"Let us go": [
+"ನಾವು ಹೋಗೋಣ",
+"Nāvu hogoṇa"
+],
+"Wait": [
+"ನಿರೀಕ್ಷಿಸಿ",
+"Nirīkṣisi"
+],
+"Hold on": [
+"ತಡೆದುಕೊಳ್ಳಿ",
+"Taḍèdukòḻḻi"
+],
+"Just a second": [
+"ಕೇವಲ ಒಂದು ಸೆಕೆಂಡ್",
+"Kevala òṃdu sèkèṃḍ"
+],
+"One moment": [
+"ಒಂದು ಕ್ಷಣ",
+"Òṃdu kṣaṇa"
+],
+"As you wish": [
+"ನೀವು ಬಯಸಿದಂತೆ",
+"Nīvu bayasidaṃtè"
+],
+"Whatever you say": [
+"ಏನೇ ಹೇಳಲಿ",
+"Ene heḻali"
+],
+"I have no idea": [
+"ನನಗೆ ಯಾವುದೇ ಕಲ್ಪನೆ ಇಲ್ಲ",
+"Nanagè yāvude kalpanè illa"
+],
+"I forgot": [
+"ನಾನು ಮರೆತಿದ್ದೇನೆ",
+"Nānu marètiddenè"
+],
+"I remember": [
+"ನನಗೆ ನೆನಪಿದೆ",
+"Nanagè nènapidè"
+],
+"It slipped my mind": [
+"ಅದು ನನ್ನ ಮನಸ್ಸಿಗೆ ಜಾರಿತು",
+"Adu nanna manassigè jāritu"
+],
+"Remind me": [
+"ನನಗೆ ನೆನಪಿಸಿ",
+"Nanagè nènapisi"
+],
+"I mean": [
+"ಅಂದರೆ",
+"Aṃdarè"
+],
+"I mean it": [
+"ನನ್ನ ಪ್ರಕಾರ ಅದು",
+"Nanna prakāra adu"
+],
+"What I mean is": [
+"ನನ್ನ ಅರ್ಥ ಏನೆಂದರೆ",
+"Nanna artha enèṃdarè"
+],
+"In other words": [
+"ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ",
+"Berè rītiyalli heḻuvudādarè"
+],
+"That is to say": [
+"ಎಂದು ಹೇಳುವುದು",
+"Èṃdu heḻuvudu"
+],
+"For example": [
+"ಉದಾಹರಣೆಗೆ",
+"Udāharaṇègè"
+],
+"Such as": [
+"ಉದಾಹರಣೆಗೆ",
+"Udāharaṇègè"
+],
+"And so on": [
+"ಮತ್ತು ಹೀಗೆ",
+"Mattu hīgè"
+],
+"Et cetera": [
+"ಇತ್ಯಾದಿ",
+"Ityādi"
+],
+"And so forth": [
+"ಮತ್ತು ಇತ್ಯಾದಿ",
+"Mattu ityādi"
+],
+"By the way": [
+"ಮೂಲಕ",
+"Mūlaka"
+],
+"Speaking of which": [
+"ಮಾತನಾಡುತ್ತಾ",
+"Mātanāḍuttā"
+],
+"Anyway": [
+"ಹೇಗಾದರೂ",
+"Hegādarū"
+],
+"Anyhow": [
+"ಹೇಗಾದರೂ",
+"Hegādarū"
+],
+"Actually": [
+"ವಾಸ್ತವವಾಗಿ",
+"Vāstavavāgi"
+],
+"Basically": [
+"ಮೂಲಭೂತವಾಗಿ",
+"Mūlabhūtavāgi"
+],
+"To be honest": [
+"ಪ್ರಾಮಾಣಿಕವಾಗಿರಲು",
+"Prāmāṇikavāgiralu"
+],
+"To tell the truth": [
+"ಸತ್ಯ ಹೇಳಲು",
+"Satya heḻalu"
+],
+"Frankly": [
+"ನಾನೂ",
+"Nānū"
+],
+"Honestly": [
+"ಪ್ರಾಮಾಣಿಕವಾಗಿ",
+"Prāmāṇikavāgi"
+],
+"Believe me": [
+"ನನ್ನ ನಂಬಿಕೆ",
+"Nanna naṃbikè"
+],
+"Trust me": [
+"ನನ್ನನ್ನು ನಂಬು",
+"Nannannu naṃbu"
+],
+"I promise": [
+"ನಾನು ಭರವಸೆ ನೀಡುತ್ತೇನೆ",
+"Nānu bharavasè nīḍuttenè"
+],
+"I swear": [
+"ನಾನು ಪ್ರಮಾಣ ಮಾಡುತ್ತೇನೆ",
+"Nānu pramāṇa māḍuttenè"
+],
+"No way": [
+"ದಾರಿ ಇಲ್ಲ",
+"Dāri illa"
+],
+"No doubt": [
+"ಸಂದೇಹವಿಲ್ಲ",
+"Saṃdehavilla"
+],
+"No wonder": [
+"ಆಶ್ಚರ್ಯವಿಲ್ಲ",
+"Āścaryavilla"
+],
+"No kidding": [
+"ತಮಾಷೆ ಇಲ್ಲ",
+"Tamāṣè illa"
+],
+"Just kidding": [
+"ತಮಾಷೆಗೆ",
+"Tamāṣègè"
+],
+"I am joking": [
+"ನಾನು ತಮಾಷೆ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+"Nānu tamāṣè māḍuttiddenè"
+],
+"Seriously": [
+"ಗಂಭೀರವಾಗಿ",
+"Gaṃbhīravāgi"
+],
+"Are you serious?": [
+"ನೀವು ಗಂಭೀರವಾಗಿರುತ್ತೀರಾ?",
+"Nīvu gaṃbhīravāgiruttīrā?"
+],
+"I am serious": [
+"ನಾನು ಗಂಭೀರವಾಗಿದ್ದೇನೆ",
+"Nānu gaṃbhīravāgiddenè"
+],
+"Sounds good": [
+"ಚೆನ್ನಾಗಿದೆ",
+"Cènnāgidè"
+],
+"Looks good": [
+"ಚೆನ್ನಾಗಿ ಕಾಣುತ್ತದೆ",
+"Cènnāgi kāṇuttadè"
+],
+"Feels good": [
+"ಚೆನ್ನಾಗಿದೆ ಅನ್ನಿಸುತ್ತದೆ",
+"Cènnāgidè annisuttadè"
+],
+"Good idea": [
+"ಒಳ್ಳೆಯ ಉಪಾಯ",
+"Òḻḻèya upāya"
+],
+"Bad idea": [
+"ಕೆಟ್ಟ ಕಲ್ಪನೆ",
+"Kèṭṭa kalpanè"
+],
+"Great idea": [
+"ಉತ್ತಮ ಕಲ್ಪನೆ",
+"Uttama kalpanè"
+],
+"Not bad": [
+"ಕೆಟ್ಟದ್ದಲ್ಲ",
+"Kèṭṭaddalla"
+],
+"Not bad at all": [
+"ಕೆಟ್ಟದ್ದಲ್ಲ",
+"Kèṭṭaddalla"
+],
+"Could be better": [
+"ಉತ್ತಮವಾಗಿರಬಹುದು",
+"Uttamavāgirabahudu"
+],
+"Could be worse": [
+"ಕೆಟ್ಟದಾಗಿರಬಹುದು",
+"Kèṭṭadāgirabahudu"
+],
+"So so": [
+"ಆದ್ದರಿಂದ ಆದ್ದರಿಂದ",
+"Āddariṃda āddariṃda"
+],
+"Same as usual": [
+"ಎಂದಿನಂತೆಯೇ",
+"Èṃdinaṃtèye"
+],
+"Nothing special": [
+"ವಿಶೇಷವೇನೂ ಇಲ್ಲ",
+"Viśeṣavenū illa"
+],
+"Name": [
+"ಹೆಸರು",
+"Hèsaru"
+],
+"Good": [
+"ಒಳ್ಳೆಯದು",
+"Òḻḻèyadu"
+],
+"Bad": [
+"ಕೆಟ್ಟದು",
+"Kèṭṭadu"
+],
+"Fine": [
+"ಫೈನ್",
+"Phain"
+],
+"Well": [
+"ಸರಿ",
+"Sari"
+],
+"Kind": [
+"ರೀತಿಯ",
+"Rītiya"
+],
+"Polite": [
+"ಸಭ್ಯ",
+"Sabhya"
+],
+"Respect": [
+"ಗೌರವ",
+"Gaurava"
+],
+"Love": [
+"ಪ್ರೀತಿ",
+"Prīti"
+],
+"Friend": [
+"ಸ್ನೇಹಿತ",
+"Snehita"
+],
+"Guest": [
+"ಅತಿಥಿ",
+"Atithi"
+],
+"Host": [
+"ಹೋಸ್ಟ್",
+"Hosṭ"
+],
+"Greeting": [
+"ಶುಭಾಶಯ",
+"Śubhāśaya"
+],
+"Farewell": [
+"ಬೀಳ್ಕೊಡುಗೆ",
+"Bīḻkòḍugè"
+],
+"Blessing": [
+"ಆಶೀರ್ವಾದ",
+"Āśīrvāda"
+],
+"Wish": [
+"ಹಾರೈಸಿ",
+"Hāraisi"
+],
+"Gratitude": [
+"ಕೃತಜ್ಞತೆ",
+"Kṛtajñatè"
+],
+"Apology": [
+"ಕ್ಷಮಾಪಣೆ",
+"Kṣamāpaṇè"
+],
+"Excuse": [
+"ಕ್ಷಮಿಸಿ",
+"Kṣamisi"
+],
+"Pardon": [
+"ಕ್ಷಮಿಸು",
+"Kṣamisu"
+],
+"Courtesy": [
+"ಸೌಜನ್ಯ",
+"Saujanya"
+],
+"Happy": [
+"ಸಂತೋಷವಾಗಿದೆ",
+"Saṃtoṣavāgidè"
+],
+"Sad": [
+"ದುಃಖ",
+"Duḥkha"
+],
+"Angry": [
+"ಕೋಪಗೊಂಡ",
+"Kopagòṃḍa"
+],
+"Calm": [
+"ಶಾಂತ",
+"Śāṃta"
+],
+"Nervous": [
+"ನರ್ವಸ್",
+"Narvas"
+],
+"Excited": [
+"ಹರ್ಷ",
+"Harṣa"
+],
+"Bored": [
+"ಬೇಸರವಾಯಿತು",
+"Besaravāyitu"
+],
+"Tired": [
+"ಸುಸ್ತಾಗಿದೆ",
+"Sustāgidè"
+],
+"Relaxed": [
+"ನಿರಾಳವಾಗಿದೆ",
+"Nirāḻavāgidè"
+],
+"Worried": [
+"ಚಿಂತಿಸಿದೆ",
+"Ciṃtisidè"
+],
+"Proud": [
+"ಹೆಮ್ಮೆ",
+"Hèmmè"
+],
+"Shy": [
+"ನಾಚಿಕೆ",
+"Nācikè"
+],
+"Brave": [
+"ಧೈರ್ಯಶಾಲಿ",
+"Dhairyaśāli"
+],
+"Honest": [
+"ಪ್ರಾಮಾಣಿಕ",
+"Prāmāṇika"
+],
+"Lazy": [
+"ಸೋಮಾರಿ",
+"Somāri"
+],
+"Active": [
+"ಸಕ್ರಿಯ",
+"Sakriya"
+],
+"Clever": [
+"ಬುದ್ಧಿವಂತ",
+"Buddhivaṃta"
+],
+"Stupid": [
+"ಸ್ಟುಪಿಡ್",
+"Sṭupiḍ"
+],
+"Wise": [
+"ಬುದ್ಧಿವಂತ",
+"Buddhivaṃta"
+],
+"Foolish": [
+"ಮೂರ್ಖ",
+"Mūrkha"
+],
+"Smart": [
+"ಸ್ಮಾರ್ಟ್",
+"Smārṭ"
+],
+"Kindness": [
+"ದಯೆ",
+"Dayè"
+],
+"Cruel": [
+"ಕ್ರೂರ",
+"Krūra"
+],
+"Gentle": [
+"ಸೌಮ್ಯ",
+"Saumya"
+],
+"Rude": [
+"ಅಸಭ್ಯ",
+"Asabhya"
+],
+"Friendly": [
+"ಸ್ನೇಹಪರ",
+"Snehapara"
+],
+"Enemy": [
+"ಶತ್ರು",
+"Śatru"
+],
+"Stranger": [
+"ಅಪರಿಚಿತ",
+"Aparicita"
+],
+"Neighbour": [
+"ನೆರೆಹೊರೆಯವರು",
+"Nèrèhòrèyavaru"
+],
+"Parting": [
+"ಬೇರ್ಪಡುವಿಕೆ",
+"Berpaḍuvikè"
+],
+"Introduction": [
+"ಪರಿಚಯ",
+"Paricaya"
+],
+"Handshake": [
+"ಹಸ್ತಲಾಘವ",
+"Hastalāghava"
+],
+"Hug": [
+"ಅಪ್ಪುಗೆ",
+"Appugè"
+],
+"Bow": [
+"ಬಿಲ್ಲು",
+"Billu"
+],
+"Wave": [
+"ಅಲೆ",
+"Alè"
+],
+"Smile": [
+"ಸ್ಮೈಲ್",
+"Smail"
+],
+"Laugh": [
+"ನಗು",
+"Nagu"
+],
+"Cry": [
+"ಅಳು",
+"Aḻu"
+],
+"Gesture": [
+"ಸನ್ನೆ",
+"Sannè"
+],
+"Manner": [
+"ವಿಧಾನ",
+"Vidhāna"
+],
+"Custom": [
+"ಕಸ್ಟಮ್",
+"Kasṭam"
+],
+"Tradition": [
+"ಸಂಪ್ರದಾಯ",
+"Saṃpradāya"
+],
+"Culture": [
+"ಸಂಸ್ಕೃತಿ",
+"Saṃskṛti"
+],
+"Etiquette": [
+"ಶಿಷ್ಟಾಚಾರ",
+"Śiṣṭācāra"
+],
+"Formal": [
+"ಔಪಚಾರಿಕ",
+"Aupacārika"
+],
+"Informal": [
+"ಅನೌಪಚಾರಿಕ",
+"Anaupacārika"
+],
+"Casual": [
+"ಕ್ಯಾಶುಯಲ್",
+"Kyāśuyal"
+],
+"Respectful": [
+"ಗೌರವಾನ್ವಿತ",
+"Gauravānvita"
+],
+"Humble": [
+"ವಿನೀತ",
+"Vinīta"
+],
+"Modest": [
+"ಸಾಧಾರಣ",
+"Sādhāraṇa"
+],
+"Generous": [
+"ಉದಾರ",
+"Udāra"
+],
+"Selfish": [
+"ಸ್ವಾರ್ಥಿ",
+"Svārthi"
+],
+"Grateful": [
+"ಕೃತಜ್ಞ",
+"Kṛtajña"
+],
+"Ungrateful": [
+"ಕೃತಘ್ನ",
+"Kṛtaghna"
+],
+"Thoughtful": [
+"ಚಿಂತನಶೀಲ",
+"Ciṃtanaśīla"
+],
+"Careless": [
+"ಅಸಡ್ಡೆ",
+"Asaḍḍè"
+],
+"Street": [
+"ಬೀದಿ",
+"Bīdi"
+],
+"Left": [
+"ಎಡಕ್ಕೆ",
+"Èḍakkè"
+],
+"Right": [
+"ಸರಿ",
+"Sari"
+],
+"Here": [
+"ಇಲ್ಲಿ",
+"Illi"
+],
+"There": [
+"ಅಲ್ಲಿ",
+"Alli"
+],
+"Near": [
+"ಹತ್ತಿರ",
+"Hattira"
+],
+"Far": [
+"ದೂರ",
+"Dūra"
+],
+"North": [
+"ಉತ್ತರ",
+"Uttara"
+],
+"South": [
+"ದಕ್ಷಿಣ",
+"Dakṣiṇa"
+],
+"East": [
+"ಪೂರ್ವ",
+"Pūrva"
+],
+"West": [
+"ಪಶ್ಚಿಮ",
+"Paścima"
+],
+"Road": [
+"ರಸ್ತೆ",
+"Rastè"
+],
+"Path": [
+"ಮಾರ್ಗ",
+"Mārga"
+],
+"Bridge": [
+"ಸೇತುವೆ",
+"Setuvè"
+],
+"Crossing": [
+"ದಾಟುವುದು",
+"Dāṭuvudu"
+],
+"Corner": [
+"ಮೂಲೆ",
+"Mūlè"
+],
+"Straight": [
+"ನೇರ",
+"Nera"
+],
+"Back": [
+"ಹಿಂದೆ",
+"Hiṃdè"
+],
+"Front": [
+"ಮುಂಭಾಗ",
+"Muṃbhāga"
+],
+"Side": [
+"ಬದಿ",
+"Badi"
+],
+"Behind": [
+"ಹಿಂದೆ",
+"Hiṃdè"
+],
+"Between": [
+"ನಡುವೆ",
+"Naḍuvè"
+],
+"Opposite": [
+"ಎದುರುಗಡೆ",
+"Èdurugaḍè"
+],
+"Next to": [
+"ಮುಂದೆ",
+"Muṃdè"
+],
+"Above": [
+"ಮೇಲೆ",
+"Melè"
+],
+"Below": [
+"ಕೆಳಗೆ",
+"Kèḻagè"
+],
+"Inside": [
+"ಒಳಗೆ",
+"Òḻagè"
+],
+"Outside": [
+"ಹೊರಗೆ",
+"Hòragè"
+],
+"Distance": [
+"ದೂರ",
+"Dūra"
+],
+"Direction": [
+"ನಿರ್ದೇಶನ",
+"Nirdeśana"
+],
+"Bus": [
+"ಬಸ್",
+"Bas"
+],
+"Train": [
+"ರೈಲು",
+"Railu"
+],
+"Car": [
+"ಕಾರು",
+"Kāru"
+],
+"Taxi": [
+"ಟ್ಯಾಕ್ಸಿ",
+"Ṭyāksi"
+],
+"Bicycle": [
+"ಬೈಸಿಕಲ್",
+"Baisikal"
+],
+"Motorcycle": [
+"ಮೋಟಾರ್ ಸೈಕಲ್",
+"Moṭār saikal"
+],
+"Boat": [
+"ದೋಣಿ",
+"Doṇi"
+],
+"Ship": [
+"ಹಡಗು",
+"Haḍagu"
+],
+"Plane": [
+"ವಿಮಾನ",
+"Vimāna"
+],
+"Ticket": [
+"ಟಿಕೆಟ್",
+"Ṭikèṭ"
+],
+"Station": [
+"ನಿಲ್ದಾಣ",
+"Nildāṇa"
+],
+"Port": [
+"ಬಂದರು",
+"Baṃdaru"
+],
+"Luggage": [
+"ಲಗೇಜ್",
+"Lagej"
+],
+"Bag": [
+"ಬ್ಯಾಗ್",
+"Byāg"
+],
+"Visa": [
+"ವೀಸಾ",
+"Vīsā"
+],
+"Map": [
+"ನಕ್ಷೆ",
+"Nakṣè"
+],
+"Guide": [
+"ಮಾರ್ಗದರ್ಶಿ",
+"Mārgadarśi"
+],
+"Tour": [
+"ಪ್ರವಾಸ",
+"Pravāsa"
+],
+"Trip": [
+"ಪ್ರವಾಸ",
+"Pravāsa"
+],
+"Journey": [
+"ಪ್ರಯಾಣ",
+"Prayāṇa"
+],
+"Travel": [
+"ಪ್ರಯಾಣ",
+"Prayāṇa"
+],
+"Visit": [
+"ಭೇಟಿ ನೀಡಿ",
+"Bheṭi nīḍi"
+],
+"Return": [
+"ಹಿಂತಿರುಗಿ",
+"Hiṃtirugi"
+],
+"Depart": [
+"ನಿರ್ಗಮಿಸಿ",
+"Nirgamisi"
+],
+"Arrive": [
+"ಆಗಮಿಸು",
+"Āgamisu"
+],
+"Board": [
+"ಬೋರ್ಡ್",
+"Borḍ"
+],
+"Get off": [
+"ಇಳಿಯಿರಿ",
+"Iḻiyiri"
+],
+"Hotel": [
+"ಹೋಟೆಲ್",
+"Hoṭèl"
+],
+"Room": [
+"ಕೊಠಡಿ",
+"Kòṭhaḍi"
+],
+"Booking": [
+"ಬುಕಿಂಗ್",
+"Bukiṃg"
+],
+"Reservation": [
+"ಮೀಸಲಾತಿ",
+"Mīsalāti"
+],
+"Check-in": [
+"ಚೆಕ್-ಇನ್",
+"Cèk-in"
+],
+"Check-out": [
+"ಚೆಕ್-ಔಟ್",
+"Cèk-auṭ"
+],
+"Single room": [
+"ಒಂದೇ ಕೋಣೆ",
+"Òṃde koṇè"
+],
+"Double room": [
+"ಡಬಲ್ ರೂಮ್",
+"Ḍabal rūm"
+],
+"Key": [
+"ಕೀ",
+"Kī"
+],
+"Reception": [
+"ಸ್ವಾಗತ",
+"Svāgata"
+],
+"Lift": [
+"ಎತ್ತು",
+"Èttu"
+],
+"Floor": [
+"ಮಹಡಿ",
+"Mahaḍi"
+],
+"Parking": [
+"ಪಾರ್ಕಿಂಗ್",
+"Pārkiṃg"
+],
+"View": [
+"ವೀಕ್ಷಿಸಿ",
+"Vīkṣisi"
+],
+"Balcony": [
+"ಬಾಲ್ಕನಿ",
+"Bālkani"
+],
+"Restaurant": [
+"ರೆಸ್ಟೋರೆಂಟ್",
+"Rèsṭorèṃṭ"
+],
+"WiFi": [
+"ವೈಫೈ",
+"Vaiphai"
+],
+"Scenic": [
+"ರಮಣೀಯ",
+"Ramaṇīya"
+],
+"Famous": [
+"ಪ್ರಸಿದ್ಧ",
+"Prasiddha"
+],
+"Local": [
+"ಸ್ಥಳೀಯ",
+"Sthaḻīya"
+],
+"Foreign": [
+"ವಿದೇಶಿ",
+"Videśi"
+],
+"Domestic": [
+"ದೇಶೀಯ",
+"Deśīya"
+],
+"International": [
+"ಅಂತಾರಾಷ್ಟ್ರೀಯ",
+"Aṃtārāṣṭrīya"
+],
+"Border": [
+"ಗಡಿ",
+"Gaḍi"
+],
+"Immigration": [
+"ವಲಸೆ",
+"Valasè"
+],
+"Rice": [
+"ಅಕ್ಕಿ",
+"Akki"
+],
+"Lentils": [
+"ಮಸೂರ",
+"Masūra"
+],
+"Bread": [
+"ಬ್ರೆಡ್",
+"Brèḍ"
+],
+"Salt": [
+"ಉಪ್ಪು",
+"Uppu"
+],
+"Sugar": [
+"ಸಕ್ಕರೆ",
+"Sakkarè"
+],
+"Milk": [
+"ಹಾಲು",
+"Hālu"
+],
+"Vegetable": [
+"ತರಕಾರಿ",
+"Tarakāri"
+],
+"Fruit": [
+"ಹಣ್ಣು",
+"Haṇṇu"
+],
+"Meat": [
+"ಮಾಂಸ",
+"Māṃsa"
+],
+"Fish": [
+"ಮೀನು",
+"Mīnu"
+],
+"Oil": [
+"ತೈಲ",
+"Taila"
+],
+"Spice": [
+"ಮಸಾಲೆ",
+"Masālè"
+],
+"Curry": [
+"ಕರಿಬೇವು",
+"Karibevu"
+],
+"Meal": [
+"ಊಟ",
+"Ūṭa"
+],
+"Taste": [
+"ರುಚಿ",
+"Ruci"
+],
+"Hunger": [
+"ಹಸಿವು",
+"Hasivu"
+],
+"Thirst": [
+"ಬಾಯಾರಿಕೆ",
+"Bāyārikè"
+],
+"Onion": [
+"ಈರುಳ್ಳಿ",
+"Īruḻḻi"
+],
+"Garlic": [
+"ಬೆಳ್ಳುಳ್ಳಿ",
+"Bèḻḻuḻḻi"
+],
+"Tomato": [
+"ಟೊಮೆಟೊ",
+"Ṭòmèṭò"
+],
+"Potato": [
+"ಆಲೂಗಡ್ಡೆ",
+"Ālūgaḍḍè"
+],
+"Carrot": [
+"ಕ್ಯಾರೆಟ್",
+"Kyārèṭ"
+],
+"Peas": [
+"ಅವರೆಕಾಳು",
+"Avarèkāḻu"
+],
+"Beans": [
+"ಬೀನ್ಸ್",
+"Bīns"
+],
+"Spinach": [
+"ಪಾಲಕ",
+"Pālaka"
+],
+"Cabbage": [
+"ಎಲೆಕೋಸು",
+"Èlèkosu"
+],
+"Cauliflower": [
+"ಹೂಕೋಸು",
+"Hūkosu"
+],
+"Brinjal": [
+"ಬದನೆಕಾಯಿ",
+"Badanèkāyi"
+],
+"Cucumber": [
+"ಸೌತೆಕಾಯಿ",
+"Sautèkāyi"
+],
+"Radish": [
+"ಮೂಲಂಗಿ",
+"Mūlaṃgi"
+],
+"Ginger": [
+"ಶುಂಠಿ",
+"Śuṃṭhi"
+],
+"Chilli": [
+"ಮೆಣಸಿನಕಾಯಿ",
+"Mèṇasinakāyi"
+],
+"Lemon": [
+"ನಿಂಬೆಹಣ್ಣು",
+"Niṃbèhaṇṇu"
+],
+"Coconut": [
+"ತೆಂಗಿನಕಾಯಿ",
+"Tèṃginakāyi"
+],
+"Banana": [
+"ಬಾಳೆಹಣ್ಣು",
+"Bāḻèhaṇṇu"
+],
+"Mango": [
+"ಮಾವು",
+"Māvu"
+],
+"Apple": [
+"ಆಪಲ್",
+"Āpal"
+],
+"Orange": [
+"ಕಿತ್ತಳೆ",
+"Kittaḻè"
+],
+"Grape": [
+"ದ್ರಾಕ್ಷಿ",
+"Drākṣi"
+],
+"Papaya": [
+"ಪಪ್ಪಾಯಿ",
+"Pappāyi"
+],
+"Guava": [
+"ಪೇರಲ",
+"Perala"
+],
+"Pomegranate": [
+"ದಾಳಿಂಬೆ",
+"Dāḻiṃbè"
+],
+"Watermelon": [
+"ಕಲ್ಲಂಗಡಿ",
+"Kallaṃgaḍi"
+],
+"Dates": [
+"ದಿನಾಂಕಗಳು",
+"Dināṃkagaḻu"
+],
+"Dry fruit": [
+"ಒಣ ಹಣ್ಣು",
+"Òṇa haṇṇu"
+],
+"Honey": [
+"ಹನಿ",
+"Hani"
+],
+"Cook": [
+"ಅಡುಗೆ ಮಾಡಿ",
+"Aḍugè māḍi"
+],
+"Eat": [
+"ತಿನ್ನು",
+"Tinnu"
+],
+"Drink": [
+"ಕುಡಿಯಿರಿ",
+"Kuḍiyiri"
+],
+"Rotten": [
+"ಕೊಳೆತ",
+"Kòḻèta"
+],
+"Baked": [
+"ಬೇಯಿಸಿದ",
+"Beyisida"
+],
+"Recipe": [
+"ಪಾಕವಿಧಾನ",
+"Pākavidhāna"
+],
+"Kitchen": [
+"ಅಡಿಗೆ",
+"Aḍigè"
+],
+"Stove": [
+"ಒಲೆ",
+"Òlè"
+],
+"Plate": [
+"ಪ್ಲೇಟ್",
+"Pleṭ"
+],
+"Spoon": [
+"ಚಮಚ",
+"Camaca"
+],
+"Fork": [
+"ಫೋರ್ಕ್",
+"Phork"
+],
+"Knife": [
+"ಚಾಕು",
+"Cāku"
+],
+"Cup": [
+"ಕಪ್",
+"Kap"
+],
+"Glass": [
+"ಗಾಜು",
+"Gāju"
+],
+"Bottle": [
+"ಬಾಟಲ್",
+"Bāṭal"
+],
+"Dish": [
+"ಭಕ್ಷ್ಯ",
+"Bhakṣya"
+],
+"Menu": [
+"ಮೆನು",
+"Mènu"
+],
+"Bill": [
+"ಬಿಲ್",
+"Bil"
+],
+"Head": [
+"ತಲೆ",
+"Talè"
+],
+"Eye": [
+"ಕಣ್ಣು",
+"Kaṇṇu"
+],
+"Hand": [
+"ಕೈ",
+"Kai"
+],
+"Foot": [
+"ಕಾಲು",
+"Kālu"
+],
+"Heart": [
+"ಹೃದಯ",
+"Hṛdaya"
+],
+"Face": [
+"ಮುಖ",
+"Mukha"
+],
+"Hair": [
+"ಕೂದಲು",
+"Kūdalu"
+],
+"Stomach": [
+"ಹೊಟ್ಟೆ",
+"Hòṭṭè"
+],
+"Neck": [
+"ಕುತ್ತಿಗೆ",
+"Kuttigè"
+],
+"Ear": [
+"ಕಿವಿ",
+"Kivi"
+],
+"Nose": [
+"ಮೂಗು",
+"Mūgu"
+],
+"Mouth": [
+"ಬಾಯಿ",
+"Bāyi"
+],
+"Lip": [
+"ತುಟಿ",
+"Tuṭi"
+],
+"Tooth": [
+"ಹಲ್ಲು",
+"Hallu"
+],
+"Tongue": [
+"ನಾಲಿಗೆ",
+"Nāligè"
+],
+"Cheek": [
+"ಕೆನ್ನೆ",
+"Kènnè"
+],
+"Chin": [
+"ಚಿನ್",
+"Cin"
+],
+"Forehead": [
+"ಹಣೆ",
+"Haṇè"
+],
+"Eyebrow": [
+"ಹುಬ್ಬು",
+"Hubbu"
+],
+"Eyelash": [
+"ರೆಪ್ಪೆಗೂದಲು",
+"Rèppègūdalu"
+],
+"Shoulder": [
+"ಭುಜ",
+"Bhuja"
+],
+"Arm": [
+"ತೋಳು",
+"Toḻu"
+],
+"Elbow": [
+"ಮೊಣಕೈ",
+"Mòṇakai"
+],
+"Wrist": [
+"ಮಣಿಕಟ್ಟು",
+"Maṇikaṭṭu"
+],
+"Finger": [
+"ಬೆರಳು",
+"Bèraḻu"
+],
+"Thumb": [
+"ಹೆಬ್ಬೆರಳು",
+"Hèbbèraḻu"
+],
+"Nail": [
+"ಉಗುರು",
+"Uguru"
+],
+"Chest": [
+"ಎದೆ",
+"Èdè"
+],
+"Waist": [
+"ಸೊಂಟ",
+"Sòṃṭa"
+],
+"Hip": [
+"ಹಿಪ್",
+"Hip"
+],
+"Thigh": [
+"ತೊಡೆ",
+"Tòḍè"
+],
+"Knee": [
+"ಮೊಣಕಾಲು",
+"Mòṇakālu"
+],
+"Leg": [
+"ಲೆಗ್",
+"Lèg"
+],
+"Ankle": [
+"ಕಣಕಾಲು",
+"Kaṇakālu"
+],
+"Heel": [
+"ಹೀಲ್",
+"Hīl"
+],
+"Skin": [
+"ಚರ್ಮ",
+"Carma"
+],
+"Bone": [
+"ಮೂಳೆ",
+"Mūḻè"
+],
+"Muscle": [
+"ಸ್ನಾಯು",
+"Snāyu"
+],
+"Brain": [
+"ಮೆದುಳು",
+"Mèduḻu"
+],
+"Liver": [
+"ಯಕೃತ್ತು",
+"Yakṛttu"
+],
+"Lung": [
+"ಶ್ವಾಸಕೋಶ",
+"Śvāsakośa"
+],
+"Kidney": [
+"ಕಿಡ್ನಿ",
+"Kiḍni"
+],
+"Pain": [
+"ನೋವು",
+"Novu"
+],
+"Fever": [
+"ಜ್ವರ",
+"Jvara"
+],
+"Cough": [
+"ಕೆಮ್ಮು",
+"Kèmmu"
+],
+"Healthy": [
+"ಆರೋಗ್ಯಕರ",
+"Ārogyakara"
+],
+"Sick": [
+"ಅನಾರೋಗ್ಯ",
+"Anārogya"
+],
+"Hospital": [
+"ಆಸ್ಪತ್ರೆ",
+"Āspatrè"
+],
+"Breath": [
+"ಉಸಿರು",
+"Usiru"
+],
+"Pulse": [
+"ನಾಡಿ",
+"Nāḍi"
+],
+"Sweat": [
+"ಬೆವರು",
+"Bèvaru"
+],
+"Tear": [
+"ಕಣ್ಣೀರು",
+"Kaṇṇīru"
+],
+"Voice": [
+"ಧ್ವನಿ",
+"Dhvani"
+],
+"Touch": [
+"ಸ್ಪರ್ಶಿಸಿ",
+"Sparśisi"
+],
+"See": [
+"ನೋಡಿ",
+"Noḍi"
+],
+"Hear": [
+"ಕೇಳು",
+"Keḻu"
+],
+"Smell": [
+"ವಾಸನೆ",
+"Vāsanè"
+],
+"Feel": [
+"ಅನುಭವಿಸಿ",
+"Anubhavisi"
+],
+"Walk": [
+"ನಡೆಯಿರಿ",
+"Naḍèyiri"
+],
+"Run": [
+"ಓಡು",
+"Oḍu"
+],
+"Sit": [
+"ಕುಳಿತುಕೊಳ್ಳಿ",
+"Kuḻitukòḻḻi"
+],
+"Stand": [
+"ನಿಲ್ಲು",
+"Nillu"
+],
+"Sleep": [
+"ನಿದ್ರೆ",
+"Nidrè"
+],
+"Wake": [
+"ಎಚ್ಚರಗೊಳ್ಳು",
+"Èccaragòḻḻu"
+],
+"Breathe": [
+"ಉಸಿರಾಡು",
+"Usirāḍu"
+],
+"Blink": [
+"ಮಿಟುಕಿಸಿ",
+"Miṭukisi"
+],
+"Speak": [
+"ಮಾತನಾಡು",
+"Mātanāḍu"
+],
+"Listen": [
+"ಕೇಳು",
+"Keḻu"
+],
+"Think": [
+"ಯೋಚಿಸಿ",
+"Yocisi"
+],
+"Remember": [
+"ನೆನಪಿರಲಿ",
+"Nènapirali"
+],
+"Forget": [
+"ಮರೆತುಬಿಡಿ",
+"Marètubiḍi"
+],
+"Understand": [
+"ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಿ",
+"Artha māḍikòḻḻi"
+],
+"Learn": [
+"ಕಲಿಯಿರಿ",
+"Kaliyiri"
+],
+"Know": [
+"ಗೊತ್ತು",
+"Gòttu"
+],
+"Believe": [
+"ನಂಬಿಕೆ",
+"Naṃbikè"
+],
+"Hope": [
+"ಭರವಸೆ",
+"Bharavasè"
+],
+"Want": [
+"ಬೇಕು",
+"Beku"
+],
+"Father": [
+"ತಂದೆ",
+"Taṃdè"
+],
+"Mother": [
+"ತಾಯಿ",
+"Tāyi"
+],
+"Brother": [
+"ಸಹೋದರ",
+"Sahodara"
+],
+"Sister": [
+"ಸಹೋದರಿ",
+"Sahodari"
+],
+"Son": [
+"ಮಗ",
+"Maga"
+],
+"Daughter": [
+"ಮಗಳು",
+"Magaḻu"
+],
+"Husband": [
+"ಗಂಡ",
+"Gaṃḍa"
+],
+"Wife": [
+"ಹೆಂಡತಿ",
+"Hèṃḍati"
+],
+"Family": [
+"ಕುಟುಂಬ",
+"Kuṭuṃba"
+],
+"Child": [
+"ಮಗು",
+"Magu"
+],
+"Grandfather": [
+"ಅಜ್ಜ",
+"Ajja"
+],
+"Grandmother": [
+"ಅಜ್ಜಿ",
+"Ajji"
+],
+"Grandson": [
+"ಮೊಮ್ಮಗ",
+"Mòmmaga"
+],
+"Granddaughter": [
+"ಮೊಮ್ಮಗಳು",
+"Mòmmagaḻu"
+],
+"Uncle": [
+"ಚಿಕ್ಕಪ್ಪ",
+"Cikkappa"
+],
+"Aunt": [
+"ಚಿಕ್ಕಮ್ಮ",
+"Cikkamma"
+],
+"Nephew": [
+"ಸೋದರಳಿಯ",
+"Sodaraḻiya"
+],
+"Niece": [
+"ಸೊಸೆ",
+"Sòsè"
+],
+"Cousin": [
+"ಸೋದರ ಸಂಬಂಧಿ",
+"Sodara saṃbaṃdhi"
+],
+"Father-in-law": [
+"ಮಾವ",
+"Māva"
+],
+"Mother-in-law": [
+"ಅತ್ತೆ ಮಾವ",
+"Attè māva"
+],
+"Son-in-law": [
+"ಅಳಿಯ",
+"Aḻiya"
+],
+"Daughter-in-law": [
+"ಸೊಸೆ",
+"Sòsè"
+],
+"Brother-in-law": [
+"ಸೋದರ ಮಾವ",
+"Sodara māva"
+],
+"Sister-in-law": [
+"ಅತ್ತಿಗೆ",
+"Attigè"
+],
+"Relative": [
+"ಸಂಬಂಧಿ",
+"Saṃbaṃdhi"
+],
+"Parents": [
+"ಪಾಲಕರು",
+"Pālakaru"
+],
+"Children": [
+"ಮಕ್ಕಳು",
+"Makkaḻu"
+],
+"Baby": [
+"ಬೇಬಿ",
+"Bebi"
+],
+"Elder": [
+"ಹಿರಿಯ",
+"Hiriya"
+],
+"Younger": [
+"ಕಿರಿಯ",
+"Kiriya"
+],
+"Twin": [
+"ಅವಳಿ",
+"Avaḻi"
+],
+"Stepfather": [
+"ಮಲತಂದೆ",
+"Malataṃdè"
+],
+"Stepmother": [
+"ಮಲತಾಯಿ",
+"Malatāyi"
+],
+"Orphan": [
+"ಅನಾಥ",
+"Anātha"
+],
+"Widow": [
+"ವಿಧವೆ",
+"Vidhavè"
+],
+"Widower": [
+"ವಿಧುರ",
+"Vidhura"
+],
+"Marriage": [
+"ಮದುವೆ",
+"Maduvè"
+],
+"Wedding": [
+"ಮದುವೆ",
+"Maduvè"
+],
+"Bride": [
+"ವಧು",
+"Vadhu"
+],
+"Groom": [
+"ವರ",
+"Vara"
+],
+"Birth": [
+"ಜನನ",
+"Janana"
+],
+"Death": [
+"ಸಾವು",
+"Sāvu"
+],
+"Ancestor": [
+"ಪೂರ್ವಜ",
+"Pūrvaja"
+],
+"Descendant": [
+"ಸಂತತಿ",
+"Saṃtati"
+],
+"Household": [
+"ಮನೆಯವರು",
+"Manèyavaru"
+],
+"Generation": [
+"ಪೀಳಿಗೆ",
+"Pīḻigè"
+],
+"Relationship": [
+"ಸಂಬಂಧ",
+"Saṃbaṃdha"
+],
+"Care": [
+"ಕಾಳಜಿ",
+"Kāḻaji"
+],
+"Support": [
+"ಬೆಂಬಲ",
+"Bèṃbala"
+],
+"Duty": [
+"ಕರ್ತವ್ಯ",
+"Kartavya"
+],
+"Responsibility": [
+"ಜವಾಬ್ದಾರಿ",
+"Javābdāri"
+],
+"Eldest": [
+"ಹಿರಿಯ",
+"Hiriya"
+],
+"Youngest": [
+"ಅತ್ಯಂತ ಕಿರಿಯ",
+"Atyaṃta kiriya"
+],
+"Only child": [
+"ಒಂದೇ ಮಗು",
+"Òṃde magu"
+],
+"Sibling": [
+"ಒಡಹುಟ್ಟಿದವರು",
+"Òḍahuṭṭidavaru"
+],
+"Spouse": [
+"ಸಂಗಾತಿ",
+"Saṃgāti"
+],
+"Fatherhood": [
+"ಪಿತೃತ್ವ",
+"Pitṛtva"
+],
+"Motherhood": [
+"ತಾಯ್ತನ",
+"Tāytana"
+],
+"Brotherhood": [
+"ಭ್ರಾತೃತ್ವ",
+"Bhrātṛtva"
+],
+"Sisterhood": [
+"ಸೋದರಿ",
+"Sodari"
+],
+"Godfather": [
+"ಗಾಡ್ಫಾದರ್",
+"Gāḍphādar"
+],
+"Godmother": [
+"ಧರ್ಮಮಾತೆ",
+"Dharmamātè"
+],
+"Guardian": [
+"ಗಾರ್ಡಿಯನ್",
+"Gārḍiyan"
+],
+"Adopted": [
+"ಅಳವಡಿಸಿಕೊಂಡಿದ್ದಾರೆ",
+"Aḻavaḍisikòṃḍiddārè"
+],
+"Foster": [
+"ಫಾಸ್ಟರ್",
+"Phāsṭar"
+],
+"Clan": [
+"ಕುಲ",
+"Kula"
+],
+"Tribe": [
+"ಬುಡಕಟ್ಟು",
+"Buḍakaṭṭu"
+],
+"Dynasty": [
+"ರಾಜವಂಶ",
+"Rājavaṃśa"
+],
+"Inheritance": [
+"ಆನುವಂಶಿಕತೆ",
+"Ānuvaṃśikatè"
+],
+"Heir": [
+"ಉತ್ತರಾಧಿಕಾರಿ",
+"Uttarādhikāri"
+],
+"Family name": [
+"ಕುಟುಂಬದ ಹೆಸರು",
+"Kuṭuṃbada hèsaru"
+],
+"Surname": [
+"ಉಪನಾಮ",
+"Upanāma"
+],
+"Nickname": [
+"ಅಡ್ಡಹೆಸರು",
+"Aḍḍahèsaru"
+],
+"Elder brother": [
+"ಅಣ್ಣ",
+"Aṇṇa"
+],
+"Younger brother": [
+"ಕಿರಿಯ ಸಹೋದರ",
+"Kiriya sahodara"
+],
+"Elder sister": [
+"ಅಕ್ಕ",
+"Akka"
+],
+"Younger sister": [
+"ತಂಗಿ",
+"Taṃgi"
+],
+"Maternal uncle": [
+"ತಾಯಿಯ ಚಿಕ್ಕಪ್ಪ",
+"Tāyiya cikkappa"
+],
+"Paternal uncle": [
+"ತಂದೆಯ ಚಿಕ್ಕಪ್ಪ",
+"Taṃdèya cikkappa"
+],
+"Maternal aunt": [
+"ತಾಯಿಯ ಚಿಕ್ಕಮ್ಮ",
+"Tāyiya cikkamma"
+],
+"Paternal aunt": [
+"ತಂದೆಯ ಚಿಕ್ಕಮ್ಮ",
+"Taṃdèya cikkamma"
+],
+"Family gathering": [
+"ಕುಟುಂಬ ಸಭೆ",
+"Kuṭuṃba sabhè"
+],
+"One": [
+"ಒಂದು",
+"Òṃdu"
+],
+"Two": [
+"ಎರಡು",
+"Èraḍu"
+],
+"Three": [
+"ಮೂರು",
+"Mūru"
+],
+"Four": [
+"ನಾಲ್ಕು",
+"Nālku"
+],
+"Five": [
+"ಐದು",
+"Aidu"
+],
+"Six": [
+"ಆರು",
+"Āru"
+],
+"Seven": [
+"ಏಳು",
+"Eḻu"
+],
+"Eight": [
+"ಎಂಟು",
+"Èṃṭu"
+],
+"Nine": [
+"ಒಂಬತ್ತು",
+"Òṃbattu"
+],
+"Ten": [
+"ಹತ್ತು",
+"Hattu"
+],
+"Eleven": [
+"ಹನ್ನೊಂದು",
+"Hannòṃdu"
+],
+"Twelve": [
+"ಹನ್ನೆರಡು",
+"Hannèraḍu"
+],
+"Thirteen": [
+"ಹದಿಮೂರು",
+"Hadimūru"
+],
+"Fourteen": [
+"ಹದಿನಾಲ್ಕು",
+"Hadinālku"
+],
+"Fifteen": [
+"ಹದಿನೈದು",
+"Hadinaidu"
+],
+"Sixteen": [
+"ಹದಿನಾರು",
+"Hadināru"
+],
+"Seventeen": [
+"ಹದಿನೇಳು",
+"Hadineḻu"
+],
+"Eighteen": [
+"ಹದಿನೆಂಟು",
+"Hadinèṃṭu"
+],
+"Nineteen": [
+"ಹತ್ತೊಂಬತ್ತು",
+"Hattòṃbattu"
+],
+"Twenty": [
+"ಇಪ್ಪತ್ತು",
+"Ippattu"
+],
+"Thirty": [
+"ಮೂವತ್ತು",
+"Mūvattu"
+],
+"Forty": [
+"ನಲವತ್ತು",
+"Nalavattu"
+],
+"Fifty": [
+"ಐವತ್ತು",
+"Aivattu"
+],
+"Sixty": [
+"ಅರವತ್ತು",
+"Aravattu"
+],
+"Seventy": [
+"ಎಪ್ಪತ್ತು",
+"Èppattu"
+],
+"Eighty": [
+"ಎಂಬತ್ತು",
+"Èṃbattu"
+],
+"Ninety": [
+"ತೊಂಬತ್ತು",
+"Tòṃbattu"
+],
+"Hundred": [
+"ನೂರು",
+"Nūru"
+],
+"Thousand": [
+"ಸಾವಿರ",
+"Sāvira"
+],
+"Lakh": [
+"ಲಕ್ಷ",
+"Lakṣa"
+],
+"First": [
+"ಮೊದಲು",
+"Mòdalu"
+],
+"Third": [
+"ಮೂರನೇ",
+"Mūrane"
+],
+"Fourth": [
+"ನಾಲ್ಕನೆಯದು",
+"Nālkanèyadu"
+],
+"Fifth": [
+"ಐದನೆಯದು",
+"Aidanèyadu"
+],
+"Half": [
+"ಅರ್ಧ",
+"Ardha"
+],
+"Quarter": [
+"ಕ್ವಾರ್ಟರ್",
+"Kvārṭar"
+],
+"Double": [
+"ಡಬಲ್",
+"Ḍabal"
+],
+"Triple": [
+"ಟ್ರಿಪಲ್",
+"Ṭripal"
+],
+"Single": [
+"ಏಕ",
+"Eka"
+],
+"Pair": [
+"ಜೋಡಿ",
+"Joḍi"
+],
+"Dozen": [
+"ಡಜನ್",
+"Ḍajan"
+],
+"Score": [
+"ಸ್ಕೋರ್",
+"Skor"
+],
+"Zero": [
+"ಶೂನ್ಯ",
+"Śūnya"
+],
+"Number": [
+"ಸಂಖ್ಯೆ",
+"Saṃkhyè"
+],
+"Count": [
+"ಎಣಿಸಿ",
+"Èṇisi"
+],
+"Add": [
+"ಸೇರಿಸಿ",
+"Serisi"
+],
+"Subtract": [
+"ಕಳೆಯಿರಿ",
+"Kaḻèyiri"
+],
+"Multiply": [
+"ಗುಣಿಸಿ",
+"Guṇisi"
+],
+"Divide": [
+"ಭಾಗಿಸಿ",
+"Bhāgisi"
+],
+"Equal": [
+"ಸಮಾನ",
+"Samāna"
+],
+"More": [
+"ಇನ್ನಷ್ಟು",
+"Innaṣṭu"
+],
+"Less": [
+"ಕಡಿಮೆ",
+"Kaḍimè"
+],
+"Many": [
+"ಅನೇಕ",
+"Aneka"
+],
+"Few": [
+"ಕೆಲವೇ",
+"Kèlave"
+],
+"Some": [
+"ಕೆಲವು",
+"Kèlavu"
+],
+"All": [
+"ಎಲ್ಲಾ",
+"Èllā"
+],
+"None": [
+"ಯಾವುದೂ ಇಲ್ಲ",
+"Yāvudū illa"
+],
+"Several": [
+"ಹಲವಾರು",
+"Halavāru"
+],
+"Multiple": [
+"ಬಹು",
+"Bahu"
+],
+"Percent": [
+"ಶೇ",
+"Śe"
+],
+"Fraction": [
+"ಭಿನ್ನರಾಶಿ",
+"Bhinnarāśi"
+],
+"Decimal": [
+"ದಶಮಾಂಶ",
+"Daśamāṃśa"
+],
+"Sum": [
+"ಮೊತ್ತ",
+"Mòtta"
+],
+"Total": [
+"ಒಟ್ಟು",
+"Òṭṭu"
+],
+"Amount": [
+"ಮೊತ್ತ",
+"Mòtta"
+],
+"Quantity": [
+"ಪ್ರಮಾಣ",
+"Pramāṇa"
+],
+"Price": [
+"ಬೆಲೆ",
+"Bèlè"
+],
+"Cost": [
+"ವೆಚ್ಚ",
+"Vècca"
+],
+"Discount": [
+"ರಿಯಾಯಿತಿ",
+"Riyāyiti"
+],
+"Age": [
+"ವಯಸ್ಸು",
+"Vayassu"
+],
+"Year old": [
+"ವರ್ಷ ಹಳೆಯದು",
+"Varṣa haḻèyadu"
+],
+"Date": [
+"ದಿನಾಂಕ",
+"Dināṃka"
+],
+"Time": [
+"ಸಮಯ",
+"Samaya"
+],
+"O'clock": [
+"ಗಂಟೆ",
+"Gaṃṭè"
+],
+"Day": [
+"ದಿನ",
+"Dina"
+],
+"Once": [
+"ಒಮ್ಮೆ",
+"Òmmè"
+],
+"Twice": [
+"ಎರಡು ಬಾರಿ",
+"Èraḍu bāri"
+],
+"Thrice": [
+"ಮೂರು ಬಾರಿ",
+"Mūru bāri"
+],
+"Every": [
+"ಪ್ರತಿ",
+"Prati"
+],
+"Each": [
+"ಪ್ರತಿ",
+"Prati"
+],
+"Whole": [
+"ಸಂಪೂರ್ಣ",
+"Saṃpūrṇa"
+],
+"Full": [
+"ಪೂರ್ಣ",
+"Pūrṇa"
+],
+"Empty": [
+"ಖಾಲಿ",
+"Khāli"
+],
+"House": [
+"ಮನೆ",
+"Manè"
+],
+"Work": [
+"ಕೆಲಸ",
+"Kèlasa"
+],
+"Come": [
+"ಬನ್ನಿ",
+"Banni"
+],
+"Go": [
+"ಹೋಗು",
+"Hogu"
+],
+"Give": [
+"ಕೊಡು",
+"Kòḍu"
+],
+"Take": [
+"ತೆಗೆದುಕೊಳ್ಳಿ",
+"Tègèdukòḻḻi"
+],
+"Bedroom": [
+"ಮಲಗುವ ಕೋಣೆ",
+"Malaguva koṇè"
+],
+"Bathroom": [
+"ಸ್ನಾನಗೃಹ",
+"Snānagṛha"
+],
+"Door": [
+"ಬಾಗಿಲು",
+"Bāgilu"
+],
+"Window": [
+"ಕಿಟಕಿ",
+"Kiṭaki"
+],
+"Wall": [
+"ಗೋಡೆ",
+"Goḍè"
+],
+"Roof": [
+"ಛಾವಣಿ",
+"Chāvaṇi"
+],
+"Stairs": [
+"ಮೆಟ್ಟಿಲುಗಳು",
+"Mèṭṭilugaḻu"
+],
+"Table": [
+"ಟೇಬಲ್",
+"Ṭebal"
+],
+"Chair": [
+"ಕುರ್ಚಿ",
+"Kurci"
+],
+"Bed": [
+"ಬೆಡ್",
+"Bèḍ"
+],
+"Lamp": [
+"ದೀಪ",
+"Dīpa"
+],
+"Clock": [
+"ಗಡಿಯಾರ",
+"Gaḍiyāra"
+],
+"Lock": [
+"ಲಾಕ್ ಮಾಡಿ",
+"Lāk māḍi"
+],
+"Garden": [
+"ಉದ್ಯಾನ",
+"Udyāna"
+],
+"Furniture": [
+"ಪೀಠೋಪಕರಣಗಳು",
+"Pīṭhopakaraṇagaḻu"
+],
+"Sofa": [
+"ಸೋಫಾ",
+"Sophā"
+],
+"Cupboard": [
+"ಬೀರು",
+"Bīru"
+],
+"Shelf": [
+"ಶೆಲ್ಫ್",
+"Śèlph"
+],
+"Mirror": [
+"ಕನ್ನಡಿ",
+"Kannaḍi"
+],
+"Curtain": [
+"ಪರದೆ",
+"Paradè"
+],
+"Pillow": [
+"ದಿಂಬು",
+"Diṃbu"
+],
+"Blanket": [
+"ಕಂಬಳಿ",
+"Kaṃbaḻi"
+],
+"Towel": [
+"ಟವೆಲ್",
+"Ṭavèl"
+],
+"Soap": [
+"ಸಾಬೂನು",
+"Sābūnu"
+],
+"Bucket": [
+"ಬಕೆಟ್",
+"Bakèṭ"
+],
+"Broom": [
+"ಬ್ರೂಮ್",
+"Brūm"
+],
+"Trash": [
+"ಕಸ",
+"Kasa"
+],
+"Clean": [
+"ಕ್ಲೀನ್",
+"Klīn"
+],
+"Dirty": [
+"ಕೊಳಕು",
+"Kòḻaku"
+],
+"Wash": [
+"ತೊಳೆಯಿರಿ",
+"Tòḻèyiri"
+],
+"Sweep": [
+"ಗುಡಿಸಿ",
+"Guḍisi"
+],
+"Mop": [
+"ಮಾಪ್",
+"Māp"
+],
+"Electricity": [
+"ವಿದ್ಯುತ್",
+"Vidyut"
+],
+"Switch": [
+"ಬದಲಿಸಿ",
+"Badalisi"
+],
+"Fan": [
+"ಅಭಿಮಾನಿ",
+"Abhimāni"
+],
+"Light": [
+"ಬೆಳಕು",
+"Bèḻaku"
+],
+"Fridge": [
+"ಫ್ರಿಜ್",
+"Phrij"
+],
+"TV": [
+"ಟಿ.ವಿ",
+"Ṭi.vi"
+],
+"Computer": [
+"ಕಂಪ್ಯೂಟರ್",
+"Kaṃpyūṭar"
+],
+"Book": [
+"ಪುಸ್ತಕ",
+"Pustaka"
+],
+"Newspaper": [
+"ಪತ್ರಿಕೆ",
+"Patrikè"
+],
+"Later": [
+"ನಂತರ",
+"Naṃtara"
+],
+"Always": [
+"ಯಾವಾಗಲೂ",
+"Yāvāgalū"
+],
+"Never": [
+"ಎಂದಿಗೂ ಇಲ್ಲ",
+"Èṃdigū illa"
+],
+"Sometimes": [
+"ಕೆಲವೊಮ್ಮೆ",
+"Kèlavòmmè"
+],
+"Often": [
+"ಆಗಾಗ್ಗೆ",
+"Āgāggè"
+],
+"Usually": [
+"ಸಾಮಾನ್ಯವಾಗಿ",
+"Sāmānyavāgi"
+],
+"Daily": [
+"ಪ್ರತಿದಿನ",
+"Pratidina"
+],
+"Weekly": [
+"ಸಾಪ್ತಾಹಿಕ",
+"Sāptāhika"
+],
+"Monthly": [
+"ಮಾಸಿಕ",
+"Māsika"
+],
+"Yearly": [
+"ವಾರ್ಷಿಕ",
+"Vārṣika"
+],
+"Routine": [
+"ದಿನಚರಿ",
+"Dinacari"
+],
+"Habit": [
+"ಅಭ್ಯಾಸ",
+"Abhyāsa"
+],
+"Rest": [
+"ವಿಶ್ರಾಂತಿ",
+"Viśrāṃti"
+],
+"Leisure": [
+"ವಿರಾಮ",
+"Virāma"
+],
+"Free": [
+"ಉಚಿತ",
+"Ucita"
+],
+"Relax": [
+"ವಿಶ್ರಾಂತಿ",
+"Viśrāṃti"
+],
+"Wake up": [
+"ಎದ್ದೇಳು",
+"Èddeḻu"
+],
+"Sun": [
+"ಸೂರ್ಯ",
+"Sūrya"
+],
+"Moon": [
+"ಚಂದ್ರ",
+"Caṃdra"
+],
+"Rain": [
+"ಮಳೆ",
+"Maḻè"
+],
+"Dog": [
+"ನಾಯಿ",
+"Nāyi"
+],
+"Cat": [
+"ಬೆಕ್ಕು",
+"Bèkku"
+],
+"Cow": [
+"ಹಸು",
+"Hasu"
+],
+"Bird": [
+"ಹಕ್ಕಿ",
+"Hakki"
+],
+"Tree": [
+"ಮರ",
+"Mara"
+],
+"Flower": [
+"ಹೂವು",
+"Hūvu"
+],
+"Sky": [
+"ಆಕಾಶ",
+"Ākāśa"
+],
+"Cloud": [
+"ಮೋಡ",
+"Moḍa"
+],
+"Star": [
+"ನಕ್ಷತ್ರ",
+"Nakṣatra"
+],
+"Wind": [
+"ಗಾಳಿ",
+"Gāḻi"
+],
+"River": [
+"ನದಿ",
+"Nadi"
+],
+"Mountain": [
+"ಪರ್ವತ",
+"Parvata"
+],
+"Forest": [
+"ಅರಣ್ಯ",
+"Araṇya"
+],
+"Grass": [
+"ಹುಲ್ಲು",
+"Hullu"
+],
+"Leaf": [
+"ಎಲೆ",
+"Èlè"
+],
+"Root": [
+"ರೂಟ್",
+"Rūṭ"
+],
+"Seed": [
+"ಬೀಜ",
+"Bīja"
+],
+"Soil": [
+"ಮಣ್ಣು",
+"Maṇṇu"
+],
+"Stone": [
+"ಕಲ್ಲು",
+"Kallu"
+],
+"Fire": [
+"ಬೆಂಕಿ",
+"Bèṃki"
+],
+"Earth": [
+"ಭೂಮಿ",
+"Bhūmi"
+],
+"Weather": [
+"ಹವಾಮಾನ",
+"Havāmāna"
+],
+"Horse": [
+"ಕುದುರೆ",
+"Kudurè"
+],
+"Goat": [
+"ಮೇಕೆ",
+"Mekè"
+],
+"Sheep": [
+"ಕುರಿಗಳು",
+"Kurigaḻu"
+],
+"Pig": [
+"ಹಂದಿ",
+"Haṃdi"
+],
+"Hen": [
+"ಕೋಳಿ",
+"Koḻi"
+],
+"Duck": [
+"ಬಾತುಕೋಳಿ",
+"Bātukoḻi"
+],
+"Elephant": [
+"ಆನೆ",
+"Ānè"
+],
+"Lion": [
+"ಸಿಂಹ",
+"Siṃha"
+],
+"Tiger": [
+"ಹುಲಿ",
+"Huli"
+],
+"Monkey": [
+"ಮಂಕಿ",
+"Maṃki"
+],
+"Snake": [
+"ಹಾವು",
+"Hāvu"
+],
+"Insect": [
+"ಕೀಟ",
+"Kīṭa"
+],
+"Butterfly": [
+"ಚಿಟ್ಟೆ",
+"Ciṭṭè"
+],
+"Bee": [
+"ಜೇನುನೊಣ",
+"Jenunòṇa"
+],
+"Ant": [
+"ಇರುವೆ",
+"Iruvè"
+],
+"Mosquito": [
+"ಸೊಳ್ಳೆ",
+"Sòḻḻè"
+],
+"Spider": [
+"ಸ್ಪೈಡರ್",
+"Spaiḍar"
+],
+"Crow": [
+"ಕಾಗೆ",
+"Kāgè"
+],
+"Peacock": [
+"ನವಿಲು",
+"Navilu"
+],
+"Parrot": [
+"ಗಿಳಿ",
+"Giḻi"
+],
+"Sparrow": [
+"ಗುಬ್ಬಚ್ಚಿ",
+"Gubbacci"
+],
+"Eagle": [
+"ಹದ್ದು",
+"Haddu"
+],
+"Owl": [
+"ಗೂಬೆ",
+"Gūbè"
+],
+"Pigeon": [
+"ಪಾರಿವಾಳ",
+"Pārivāḻa"
+],
+"Swan": [
+"ಸ್ವಾನ್",
+"Svān"
+],
+"Crocodile": [
+"ಮೊಸಳೆ",
+"Mòsaḻè"
+],
+"Tortoise": [
+"ಆಮೆ",
+"Āmè"
+],
+"Frog": [
+"ಕಪ್ಪೆ",
+"Kappè"
+],
+"Lizard": [
+"ಹಲ್ಲಿ",
+"Halli"
+],
+"Rose": [
+"ಗುಲಾಬಿ",
+"Gulābi"
+],
+"Lotus": [
+"ಕಮಲ",
+"Kamala"
+],
+"Jasmine": [
+"ಮಲ್ಲಿಗೆ",
+"Malligè"
+],
+"Marigold": [
+"ಮಾರಿಗೋಲ್ಡ್",
+"Mārigolḍ"
+],
+"Sunflower": [
+"ಸೂರ್ಯಕಾಂತಿ",
+"Sūryakāṃti"
+],
+"Lily": [
+"ಲಿಲಿ",
+"Lili"
+],
+"Daisy": [
+"ಡೈಸಿ",
+"Ḍaisi"
+],
+"Tulip": [
+"ಟುಲಿಪ್",
+"Ṭulip"
+],
+"Oak": [
+"ಓಕ್",
+"Ok"
+],
+"Pine": [
+"ಪೈನ್",
+"Pain"
+],
+"Bamboo": [
+"ಬಿದಿರು",
+"Bidiru"
+],
+"Palm": [
+"ಪಾಮ್",
+"Pām"
+],
+"Cactus": [
+"ಕಳ್ಳಿ",
+"Kaḻḻi"
+],
+"Bush": [
+"ಬುಷ್",
+"Buṣ"
+],
+"Plant": [
+"ಸಸ್ಯ",
+"Sasya"
+],
+"Farm": [
+"ಫಾರ್ಮ್",
+"Phārm"
+],
+"Field": [
+"ಕ್ಷೇತ್ರ",
+"Kṣetra"
+],
+"Lake": [
+"ಸರೋವರ",
+"Sarovara"
+],
+"Sea": [
+"ಸಮುದ್ರ",
+"Samudra"
+],
+"Ocean": [
+"ಸಾಗರ",
+"Sāgara"
+],
+"Beach": [
+"ಬೀಚ್",
+"Bīc"
+],
+"Island": [
+"ದ್ವೀಪ",
+"Dvīpa"
+],
+"Valley": [
+"ಕಣಿವೆ",
+"Kaṇivè"
+],
+"Desert": [
+"ಮರುಭೂಮಿ",
+"Marubhūmi"
+],
+"Snow": [
+"ಹಿಮ",
+"Hima"
+],
+"Storm": [
+"ಚಂಡಮಾರುತ",
+"Caṃḍamāruta"
+],
+"Thunder": [
+"ಗುಡುಗು",
+"Guḍugu"
+],
+"Rainbow": [
+"ಕಾಮನಬಿಲ್ಲು",
+"Kāmanabillu"
+],
+"Red": [
+"ಕೆಂಪು",
+"Kèṃpu"
+],
+"Blue": [
+"ನೀಲಿ",
+"Nīli"
+],
+"Green": [
+"ಹಸಿರು",
+"Hasiru"
+],
+"Yellow": [
+"ಹಳದಿ",
+"Haḻadi"
+],
+"White": [
+"ಬಿಳಿ",
+"Biḻi"
+],
+"Black": [
+"ಕಪ್ಪು",
+"Kappu"
+],
+"Colour": [
+"ಬಣ್ಣ",
+"Baṇṇa"
+],
+"Pink": [
+"ಗುಲಾಬಿ",
+"Gulābi"
+],
+"Purple": [
+"ನೇರಳೆ",
+"Neraḻè"
+],
+"Brown": [
+"ಕಂದು",
+"Kaṃdu"
+],
+"Grey": [
+"ಬೂದು",
+"Būdu"
+],
+"Golden": [
+"ಗೋಲ್ಡನ್",
+"Golḍan"
+],
+"Silver": [
+"ಬೆಳ್ಳಿ",
+"Bèḻḻi"
+],
+"Dark": [
+"ಕತ್ತಲು",
+"Kattalu"
+],
+"Bright": [
+"ಬ್ರೈಟ್",
+"Braiṭ"
+],
+"Pale": [
+"ತೆಳು",
+"Tèḻu"
+],
+"Shade": [
+"ನೆರಳು",
+"Nèraḻu"
+],
+"Tone": [
+"ಟೋನ್",
+"Ṭon"
+],
+"Dye": [
+"ಬಣ್ಣ",
+"Baṇṇa"
+],
+"Paint": [
+"ಬಣ್ಣ",
+"Baṇṇa"
+],
+"Sky blue": [
+"ಆಕಾಶ ನೀಲಿ",
+"Ākāśa nīli"
+],
+"Navy blue": [
+"ನೌಕಾಪಡೆಯ ನೀಲಿ",
+"Naukāpaḍèya nīli"
+],
+"Lime": [
+"ಸುಣ್ಣ",
+"Suṇṇa"
+],
+"Cream": [
+"ಕೆನೆ",
+"Kènè"
+],
+"Beige": [
+"ಬಗೆಯ ಉಣ್ಣೆಬಟ್ಟೆ",
+"Bagèya uṇṇèbaṭṭè"
+],
+"Maroon": [
+"ಮರೂನ್",
+"Marūn"
+],
+"Crimson": [
+"ಕಡುಗೆಂಪು",
+"Kaḍugèṃpu"
+],
+"Turquoise": [
+"ವೈಡೂರ್ಯ",
+"Vaiḍūrya"
+],
+"Violet": [
+"ನೇರಳೆ",
+"Neraḻè"
+],
+"Indigo": [
+"ಇಂಡಿಗೊ",
+"Iṃḍigò"
+],
+"Magenta": [
+"ಮೆಜೆಂಟಾ",
+"Mèjèṃṭā"
+],
+"Cyan": [
+"ಸಯಾನ್",
+"Sayān"
+],
+"Teal": [
+"ಟೀಲ್",
+"Ṭīl"
+],
+"Olive": [
+"ಆಲಿವ್",
+"Āliv"
+],
+"Coral": [
+"ಹವಳ",
+"Havaḻa"
+],
+"Peach": [
+"ಪೀಚ್",
+"Pīc"
+],
+"Lavender": [
+"ಲ್ಯಾವೆಂಡರ್",
+"Lyāvèṃḍar"
+],
+"Mint": [
+"ಮಿಂಟ್",
+"Miṃṭ"
+],
+"Ivory": [
+"ದಂತ",
+"Daṃta"
+],
+"Charcoal": [
+"ಇದ್ದಿಲು",
+"Iddilu"
+],
+"Rust": [
+"ತುಕ್ಕು",
+"Tukku"
+],
+"Burgundy": [
+"ಬರ್ಗಂಡಿ",
+"Bargaṃḍi"
+],
+"Mustard": [
+"ಸಾಸಿವೆ",
+"Sāsivè"
+],
+"Saffron": [
+"ಕೇಸರಿ",
+"Kesari"
+],
+"Tan": [
+"ತನ್",
+"Tan"
+],
+"Khaki": [
+"ಖಾಕಿ",
+"Khāki"
+],
+"Transparent": [
+"ಪಾರದರ್ಶಕ",
+"Pāradarśaka"
+],
+"Opaque": [
+"ಅಪಾರದರ್ಶಕ",
+"Apāradarśaka"
+],
+"Shiny": [
+"ಹೊಳೆಯುವ",
+"Hòḻèyuva"
+],
+"Dull": [
+"ಮಂದ",
+"Maṃda"
+],
+"Matte": [
+"ಮ್ಯಾಟ್",
+"Myāṭ"
+],
+"Glossy": [
+"ಹೊಳಪು",
+"Hòḻapu"
+],
+"Striped": [
+"ಪಟ್ಟೆಯುಳ್ಳ",
+"Paṭṭèyuḻḻa"
+],
+"Spotted": [
+"ಗುರುತಿಸಲಾಗಿದೆ",
+"Gurutisalāgidè"
+],
+"Plain": [
+"ಸರಳ",
+"Saraḻa"
+],
+"Pattern": [
+"ಮಾದರಿ",
+"Mādari"
+],
+"Multicoloured": [
+"ಬಹುವರ್ಣದ",
+"Bahuvarṇada"
+],
+"Colourful": [
+"ವರ್ಣಮಯ",
+"Varṇamaya"
+],
+"Colourless": [
+"ಬಣ್ಣರಹಿತ",
+"Baṇṇarahita"
+],
+"Match": [
+"ಹೊಂದಾಣಿಕೆ",
+"Hòṃdāṇikè"
+],
+"Contrast": [
+"ಕಾಂಟ್ರಾಸ್ಟ್",
+"Kāṃṭrāsṭ"
+],
+"Blend": [
+"ಮಿಶ್ರಣ ಮಾಡಿ",
+"Miśraṇa māḍi"
+],
+"Mix": [
+"ಮಿಶ್ರಣ ಮಾಡಿ",
+"Miśraṇa māḍi"
+],
+"Primary": [
+"ಪ್ರಾಥಮಿಕ",
+"Prāthamika"
+],
+"Secondary": [
+"ಮಾಧ್ಯಮಿಕ",
+"Mādhyamika"
+],
+"Warm": [
+"ಬೆಚ್ಚಗಿರುತ್ತದೆ",
+"Bèccagiruttadè"
+],
+"Cool": [
+"ಕೂಲ್",
+"Kūl"
+],
+"Neutral": [
+"ತಟಸ್ಥ",
+"Taṭastha"
+],
+"Vivid": [
+"ಎದ್ದುಕಾಣುವ",
+"Èddukāṇuva"
+],
+"Faded": [
+"ಮರೆಯಾಯಿತು",
+"Marèyāyitu"
+],
+"Matching": [
+"ಹೊಂದಾಣಿಕೆ",
+"Hòṃdāṇikè"
+],
+"Clashing": [
+"ಘರ್ಷಣೆ",
+"Gharṣaṇè"
+],
+"Tint": [
+"ಟಿಂಟ್",
+"Ṭiṃṭ"
+],
+"Hue": [
+"ವರ್ಣ",
+"Varṇa"
+],
+"Pigment": [
+"ವರ್ಣದ್ರವ್ಯ",
+"Varṇadravya"
+],
+"Ink": [
+"ಶಾಯಿ",
+"Śāyi"
+],
+"Crayon": [
+"ಬಳಪ",
+"Baḻapa"
+],
+"Brush": [
+"ಬ್ರಷ್",
+"Braṣ"
+],
+"Canvas": [
+"ಕ್ಯಾನ್ವಾಸ್",
+"Kyānvās"
+],
+"Picture": [
+"ಚಿತ್ರ",
+"Citra"
+],
+"Image": [
+"ಚಿತ್ರ",
+"Citra"
+],
+"Beautiful": [
+"ಸುಂದರ",
+"Suṃdara"
+],
+"Ugly": [
+"ಕುರೂಪಿ",
+"Kurūpi"
+],
+"Pretty": [
+"ಸುಂದರ",
+"Suṃdara"
+],
+"Elegant": [
+"ಸೊಗಸಾದ",
+"Sògasāda"
+],
+"Style": [
+"ಶೈಲಿ",
+"Śaili"
+],
+"What": [
+"ಏನು",
+"Enu"
+],
+"Who": [
+"WHO",
+"WHO"
+],
+"Where": [
+"ಎಲ್ಲಿ",
+"Èlli"
+],
+"When": [
+"ಯಾವಾಗ",
+"Yāvāga"
+],
+"Why": [
+"ಏಕೆ",
+"Ekè"
+],
+"How": [
+"ಹೇಗೆ",
+"Hegè"
+],
+"This": [
+"ಈ",
+"Ī"
+],
+"That": [
+"ಅದು",
+"Adu"
+],
+"Problem": [
+"ಸಮಸ್ಯೆ",
+"Samasyè"
+],
+"Help": [
+"ಸಹಾಯ",
+"Sahāya"
+],
+"Which": [
+"ಯಾವುದು",
+"Yāvudu"
+],
+"Whose": [
+"ಯಾರದು",
+"Yāradu"
+],
+"Whom": [
+"ಯಾರಿಗೆ",
+"Yārigè"
+],
+"Whether": [
+"ಎಂಬುದನ್ನು",
+"Èṃbudannu"
+],
+"Question": [
+"ಪ್ರಶ್ನೆ",
+"Praśnè"
+],
+"Answer": [
+"ಉತ್ತರ",
+"Uttara"
+],
+"Ask": [
+"ಕೇಳು",
+"Keḻu"
+],
+"Tell": [
+"ಹೇಳು",
+"Heḻu"
+],
+"Say": [
+"ಹೇಳು",
+"Heḻu"
+],
+"Reply": [
+"ಉತ್ತರಿಸು",
+"Uttarisu"
+],
+"Explain": [
+"ವಿವರಿಸಿ",
+"Vivarisi"
+],
+"Describe": [
+"ವಿವರಿಸಿ",
+"Vivarisi"
+],
+"Mean": [
+"ಅರ್ಥ",
+"Artha"
+],
+"Reason": [
+"ಕಾರಣ",
+"Kāraṇa"
+],
+"Cause": [
+"ಕಾರಣ",
+"Kāraṇa"
+],
+"Result": [
+"ಫಲಿತಾಂಶ",
+"Phalitāṃśa"
+],
+"Fact": [
+"ಸತ್ಯ",
+"Satya"
+],
+"Truth": [
+"ಸತ್ಯ",
+"Satya"
+],
+"Lie": [
+"ಸುಳ್ಳು",
+"Suḻḻu"
+],
+"Opinion": [
+"ಅಭಿಪ್ರಾಯ",
+"Abhiprāya"
+],
+"Perhaps": [
+"ಬಹುಶಃ",
+"Bahuśaḥ"
+],
+"Probably": [
+"ಬಹುಶಃ",
+"Bahuśaḥ"
+],
+"Definitely": [
+"ಖಂಡಿತವಾಗಿ",
+"Khaṃḍitavāgi"
+],
+"Absolutely": [
+"ಸಂಪೂರ್ಣವಾಗಿ",
+"Saṃpūrṇavāgi"
+],
+"Exactly": [
+"ನಿಖರವಾಗಿ",
+"Nikharavāgi"
+],
+"Wrong": [
+"ತಪ್ಪಾಗಿದೆ",
+"Tappāgidè"
+],
+"True": [
+"ನಿಜ",
+"Nija"
+],
+"False": [
+"ಸುಳ್ಳು",
+"Suḻḻu"
+],
+"Correct": [
+"ಸರಿ",
+"Sari"
+],
+"Incorrect": [
+"ತಪ್ಪಾಗಿದೆ",
+"Tappāgidè"
+],
+"Same": [
+"ಅದೇ",
+"Ade"
+],
+"Different": [
+"ವಿಭಿನ್ನ",
+"Vibhinna"
+],
+"Similar": [
+"ಇದೇ",
+"Ide"
+],
+"Possible": [
+"ಸಾಧ್ಯ",
+"Sādhya"
+],
+"Impossible": [
+"ಅಸಾಧ್ಯ",
+"Asādhya"
+],
+"Necessary": [
+"ಅಗತ್ಯ",
+"Agatya"
+],
+"Important": [
+"ಪ್ರಮುಖ",
+"Pramukha"
+],
+"Optional": [
+"ಐಚ್ಛಿಕ",
+"Aicchika"
+],
+"Choice": [
+"ಆಯ್ಕೆ",
+"Āykè"
+],
+"Option": [
+"ಆಯ್ಕೆ",
+"Āykè"
+],
+"Decision": [
+"ನಿರ್ಧಾರ",
+"Nirdhāra"
+],
+"Idea": [
+"ಕಲ್ಪನೆ",
+"Kalpanè"
+],
+"Thought": [
+"ಯೋಚಿಸಿದೆ",
+"Yocisidè"
+],
+"Mind": [
+"ಮನಸ್ಸು",
+"Manassu"
+],
+"Because": [
+"ಏಕೆಂದರೆ",
+"Ekèṃdarè"
+],
+"Therefore": [
+"ಆದ್ದರಿಂದ",
+"Āddariṃda"
+],
+"However": [
+"ಆದಾಗ್ಯೂ",
+"Ādāgyū"
+],
+"Although": [
+"ಆದರೂ",
+"Ādarū"
+],
+"Unless": [
+"ಹೊರತು",
+"Hòratu"
+],
+"Until": [
+"ತನಕ",
+"Tanaka"
+],
+"If": [
+"ಒಂದು ವೇಳೆ",
+"Òṃdu veḻè"
+],
+"Then": [
+"ನಂತರ",
+"Naṃtara"
+],
+"So": [
+"ಆದ್ದರಿಂದ",
+"Āddariṃda"
+],
+"But": [
+"ಆದರೆ",
+"Ādarè"
+],
+"And": [
+"ಮತ್ತು",
+"Mattu"
+],
+"Or": [
+"ಅಥವಾ",
+"Athavā"
+],
+"Nor": [
+"ಇಲ್ಲ",
+"Illa"
+],
+"Yet": [
+"ಇನ್ನೂ",
+"Innū"
+],
+"Still": [
+"ಇನ್ನೂ",
+"Innū"
+],
+"Already": [
+"ಈಗಾಗಲೇ",
+"Īgāgale"
+],
+"Again": [
+"ಮತ್ತೆ",
+"Mattè"
+],
+"Also": [
+"ಅಲ್ಲದೆ",
+"Alladè"
+],
+"Too": [
+"ತುಂಬಾ",
+"Tuṃbā"
+],
+"Either": [
+"ಒಂದೋ",
+"Òṃdo"
+],
+"Neither": [
+"ಆಗಲಿ",
+"Āgali"
+],
+"Both": [
+"ಎರಡೂ",
+"Èraḍū"
+],
+"Only": [
+"ಮಾತ್ರ",
+"Mātra"
+],
+"Just": [
+"ಕೇವಲ",
+"Kevala"
+],
+"Even": [
+"ಸಹ",
+"Saha"
+],
+"Almost": [
+"ಬಹುತೇಕ",
+"Bahuteka"
+],
+"Quite": [
+"ಸಾಕಷ್ಟು",
+"Sākaṣṭu"
+],
+"Very": [
+"ತುಂಬಾ",
+"Tuṃbā"
+],
+"Really": [
+"ನಿಜವಾಗಿಯೂ",
+"Nijavāgiyū"
+]
+}

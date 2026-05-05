@@ -1,0 +1,5618 @@
+{
+"Hello": [
+"வணக்கம்",
+"Vaṇaghghaṃ"
+],
+"Good morning": [
+"காலை வணக்கம்",
+"Ghālai vaṇaghghaṃ"
+],
+"Good afternoon": [
+"நல்ல மதியம்",
+"Nalla madhiyaṃ"
+],
+"Good evening": [
+"மாலை வணக்கம்",
+"Mālai vaṇaghghaṃ"
+],
+"Good night": [
+"நல்ல இரவு",
+"Nalla iravu"
+],
+"Welcome": [
+"வரவேற்கிறோம்",
+"Varaveṟghiṟoṃ"
+],
+"How are you?": [
+"எப்படி இருக்கிறீர்கள்?",
+"Èbhbhaḍhi irughghiṟīrghaḻ?"
+],
+"I am fine": [
+"நான் நலமாக இருக்கிறேன்",
+"Nāṉ nalamāgha irughghiṟeṉ"
+],
+"What is your name?": [
+"உங்கள் பெயர் என்ன?",
+"Uṅghaḻ bhèyar èṉṉa?"
+],
+"My name is...": [
+"என் பெயர்...",
+"Èṉ bhèyar..."
+],
+"Nice to meet you": [
+"உங்களை சந்தித்ததில் மகிழ்ச்சி",
+"Uṅghaḻai jhandhidhdhadhil maghil̤jhjhi"
+],
+"Thank you": [
+"நன்றி",
+"Naṉṟi"
+],
+"Please": [
+"தயவுசெய்து",
+"Dhayavujhèydhu"
+],
+"Sorry": [
+"மன்னிக்கவும்",
+"Maṉṉighghavuṃ"
+],
+"Goodbye": [
+"குட்பை",
+"Ghuḍhbhai"
+],
+"See you": [
+"சந்திப்போம்",
+"Jhandhibhbhoṃ"
+],
+"Take care": [
+"பார்த்துக்கொள்ளுங்கள்",
+"Bhārdhdhughghòḻḻuṅghaḻ"
+],
+"Happy Birthday": [
+"பிறந்தநாள் வாழ்த்துக்கள்",
+"Bhiṟandhanāḻ vāl̤dhdhughghaḻ"
+],
+"Happy Diwali": [
+"தீபாவளி வாழ்த்துக்கள்",
+"Dhībhāvaḻi vāl̤dhdhughghaḻ"
+],
+"I love you": [
+"நான் உன்னை காதலிக்கிறேன்",
+"Nāṉ uṉṉai ghādhalighghiṟeṉ"
+],
+"Get well soon": [
+"விரைவில் குணமடையுங்கள்",
+"Viraivil ghuṇamaḍhaiyuṅghaḻ"
+],
+"Good day": [
+"நல்ல நாள்",
+"Nalla nāḻ"
+],
+"How do you do?": [
+"நீங்கள் எப்படி செய்கிறீர்கள்?",
+"Nīṅghaḻ èbhbhaḍhi jhèyghiṟīrghaḻ?"
+],
+"Pleased to meet you": [
+"உங்களை சந்தித்ததில் மகிழ்ச்சி",
+"Uṅghaḻai jhandhidhdhadhil maghil̤jhjhi"
+],
+"Excuse me": [
+"மன்னிக்கவும்",
+"Maṉṉighghavuṃ"
+],
+"Bless you": [
+"ஆசிர்வதிக்கிறேன்",
+"Ājhirvadhighghiṟeṉ"
+],
+"Congratulations": [
+"வாழ்த்துகள்",
+"Vāl̤dhdhughaḻ"
+],
+"Happy New Year": [
+"புத்தாண்டு வாழ்த்துக்கள்",
+"Bhudhdhāṇḍhu vāl̤dhdhughghaḻ"
+],
+"Best wishes": [
+"மனமார்ந்த வாழ்த்துக்கள்",
+"Maṉamārndha vāl̤dhdhughghaḻ"
+],
+"Take care of yourself": [
+"உங்களை கவனித்துக் கொள்ளுங்கள்",
+"Uṅghaḻai ghavaṉidhdhugh ghòḻḻuṅghaḻ"
+],
+"I missed you": [
+"நான் உன்னை தவறவிட்டேன்",
+"Nāṉ uṉṉai dhavaṟaviḍhḍheṉ"
+],
+"Long time no see": [
+"ரொம்ப நாளாச்சு",
+"Ròṃbha nāḻājhjhu"
+],
+"Where have you been?": [
+"நீங்கள் எங்கே இருந்தீர்கள்?",
+"Nīṅghaḻ èṅghe irundhīrghaḻ?"
+],
+"I am happy to see you": [
+"உங்களைப் பார்த்ததில் மகிழ்ச்சி அடைகிறேன்",
+"Uṅghaḻaibh bhārdhdhadhil maghil̤jhjhi aḍhaighiṟeṉ"
+],
+"Come again": [
+"மீண்டும் வாருங்கள்",
+"Mīṇḍhuṃ vāruṅghaḻ"
+],
+"Stay in touch": [
+"தொடர்பில் இருங்கள்",
+"Dhòḍharbhil iruṅghaḻ"
+],
+"Give my regards to...": [
+"எனது வணக்கத்தை தெரிவிக்கவும்...",
+"Èṉadhu vaṇaghghadhdhai dhèrivighghavuṃ..."
+],
+"Say hello to...": [
+"வணக்கம் சொல்லுங்கள்...",
+"Vaṇaghghaṃ jhòlluṅghaḻ..."
+],
+"Have a good day": [
+"நல்ல நாள்",
+"Nalla nāḻ"
+],
+"Have a safe journey": [
+"பாதுகாப்பான பயணம் வேண்டும்",
+"Bhādhughābhbhāṉa bhayaṇaṃ veṇḍhuṃ"
+],
+"Good luck": [
+"நல்ல அதிர்ஷ்டம்",
+"Nalla adhirṣḍhaṃ"
+],
+"All the best": [
+"ஆல் தி பெஸ்ட்",
+"Āl dhi bhèsḍh"
+],
+"Well done": [
+"நன்றாக முடிந்தது",
+"Naṉṟāgha muḍhindhadhu"
+],
+"You are kind": [
+"நீங்கள் அன்பானவர்",
+"Nīṅghaḻ aṉbhāṉavar"
+],
+"I appreciate it": [
+"நான் அதை பாராட்டுகிறேன்",
+"Nāṉ adhai bhārāḍhḍhughiṟeṉ"
+],
+"That is very nice": [
+"அது மிகவும் அருமை",
+"Adhu mighavuṃ arumai"
+],
+"You are welcome": [
+"நீங்கள் வரவேற்கப்படுகிறீர்கள்",
+"Nīṅghaḻ varaveṟghabhbhaḍhughiṟīrghaḻ"
+],
+"Do not mention it": [
+"அதை குறிப்பிட வேண்டாம்",
+"Adhai ghuṟibhbhiḍha veṇḍhāṃ"
+],
+"It was nothing": [
+"அது ஒன்றுமில்லை",
+"Adhu òṉṟumillai"
+],
+"I am grateful": [
+"நான் நன்றியுள்ளவனாக இருக்கிறேன்",
+"Nāṉ naṉṟiyuḻḻavaṉāgha irughghiṟeṉ"
+],
+"Many thanks": [
+"நன்றிகள் பல",
+"Naṉṟighaḻ bhala"
+],
+"Thanks a lot": [
+"மிக்க நன்றி",
+"Mighgha naṉṟi"
+],
+"I owe you one": [
+"நான் உங்களுக்கு ஒன்று கடன்பட்டிருக்கிறேன்",
+"Nāṉ uṅghaḻughghu òṉṟu ghaḍhaṉbhaḍhḍhirughghiṟeṉ"
+],
+"Forgive me": [
+"என்னை மன்னியுங்கள்",
+"Èṉṉai maṉṉiyuṅghaḻ"
+],
+"My apologies": [
+"என் மன்னிப்பு",
+"Èṉ maṉṉibhbhu"
+],
+"It was my fault": [
+"அது என் தவறு",
+"Adhu èṉ dhavaṟu"
+],
+"No worries": [
+"கவலை இல்லை",
+"Ghavalai illai"
+],
+"Do not be sorry": [
+"வருந்தாதே",
+"Varundhādhe"
+],
+"We are friends": [
+"நாங்கள் நண்பர்கள்",
+"Nāṅghaḻ naṇbharghaḻ"
+],
+"May I come in?": [
+"நான் உள்ளே வரலாமா?",
+"Nāṉ uḻḻe varalāmā?"
+],
+"Please sit down": [
+"தயவுசெய்து உட்காருங்கள்",
+"Dhayavujhèydhu uḍhghāruṅghaḻ"
+],
+"Make yourself at home": [
+"உங்களை வீட்டில் செய்யுங்கள்",
+"Uṅghaḻai vīḍhḍhil jhèyyuṅghaḻ"
+],
+"Would you like tea?": [
+"உங்களுக்கு தேநீர் வேண்டுமா?",
+"Uṅghaḻughghu dhenīr veṇḍhumā?"
+],
+"I am from India": [
+"நான் இந்தியாவைச் சேர்ந்தவன்",
+"Nāṉ indhiyāvaijh jherndhavaṉ"
+],
+"Where are you from?": [
+"நீங்கள் எங்கிருந்து வருகிறீர்கள்?",
+"Nīṅghaḻ èṅghirundhu varughiṟīrghaḻ?"
+],
+"I live in...": [
+"நான் வசிக்கிறேன்...",
+"Nāṉ vajhighghiṟeṉ..."
+],
+"What do you do?": [
+"நீங்கள் என்ன செய்கிறீர்கள்?",
+"Nīṅghaḻ èṉṉa jhèyghiṟīrghaḻ?"
+],
+"I am a student": [
+"நான் ஒரு மாணவன்",
+"Nāṉ òru māṇavaṉ"
+],
+"I work in...": [
+"நான் வேலை செய்கிறேன்...",
+"Nāṉ velai jhèyghiṟeṉ..."
+],
+"This is my friend": [
+"இது என் நண்பன்",
+"Idhu èṉ naṇbhaṉ"
+],
+"Meet my family": [
+"என் குடும்பத்தை சந்திக்கவும்",
+"Èṉ ghuḍhuṃbhadhdhai jhandhighghavuṃ"
+],
+"How is your family?": [
+"உங்கள் குடும்பம் எப்படி இருக்கிறது?",
+"Uṅghaḻ ghuḍhuṃbhaṃ èbhbhaḍhi irughghiṟadhu?"
+],
+"Everyone is fine": [
+"எல்லோரும் நலம்",
+"Èlloruṃ nalaṃ"
+],
+"I have to go now": [
+"நான் இப்போது செல்ல வேண்டும்",
+"Nāṉ ibhbhodhu jhèlla veṇḍhuṃ"
+],
+"Can we meet tomorrow?": [
+"நாளை சந்திக்கலாமா?",
+"Nāḻai jhandhighghalāmā?"
+],
+"Let us meet soon": [
+"விரைவில் சந்திப்போம்",
+"Viraivil jhandhibhbhoṃ"
+],
+"I will call you": [
+"நான் உன்னை அழைக்கிறேன்",
+"Nāṉ uṉṉai al̤aighghiṟeṉ"
+],
+"Here is my number": [
+"இதோ என் எண்",
+"Idho èṉ èṇ"
+],
+"Keep in touch": [
+"தொடர்பில் இருங்கள்",
+"Dhòḍharbhil iruṅghaḻ"
+],
+"Until we meet again": [
+"மீண்டும் சந்திக்கும் வரை",
+"Mīṇḍhuṃ jhandhighghuṃ varai"
+],
+"I will never forget you": [
+"நான் உன்னை மறக்க மாட்டேன்",
+"Nāṉ uṉṉai maṟaghgha māḍhḍheṉ"
+],
+"You mean a lot to me": [
+"நீங்கள் எனக்கு நிறைய அர்த்தம்",
+"Nīṅghaḻ èṉaghghu niṟaiya ardhdhaṃ"
+],
+"I care about you": [
+"நான் உன்னைப் பற்றி கவலைப்படுகிறேன்",
+"Nāṉ uṉṉaibh bhaṟṟi ghavalaibhbhaḍhughiṟeṉ"
+],
+"Thank you for everything": [
+"எல்லாவற்றிற்கும் நன்றி",
+"Èllāvaṟṟiṟghuṃ naṉṟi"
+],
+"I could not have done it without you": [
+"நீங்கள் இல்லாமல் என்னால் அதைச் செய்திருக்க முடியாது",
+"Nīṅghaḻ illāmal èṉṉāl adhaijh jhèydhirughgha muḍhiyādhu"
+],
+"You are very helpful": [
+"நீங்கள் மிகவும் உதவியாக இருக்கிறீர்கள்",
+"Nīṅghaḻ mighavuṃ udhaviyāgha irughghiṟīrghaḻ"
+],
+"I am proud of you": [
+"நான் உன்னை நினைத்து பெருமைப்படுகிறேன்",
+"Nāṉ uṉṉai niṉaidhdhu bhèrumaibhbhaḍhughiṟeṉ"
+],
+"Bless you and your family": [
+"உங்களையும் உங்கள் குடும்பத்தையும் ஆசீர்வதிக்கட்டும்",
+"Uṅghaḻaiyuṃ uṅghaḻ ghuḍhuṃbhadhdhaiyuṃ ājhīrvadhighghaḍhḍhuṃ"
+],
+"Wishing you happiness": [
+"உங்களுக்கு மகிழ்ச்சியை விரும்புகிறேன்",
+"Uṅghaḻughghu maghil̤jhjhiyai viruṃbhughiṟeṉ"
+],
+"Where is the station?": [
+"ஸ்டேஷன் எங்கே?",
+"Sḍheṣaṉ èṅghe?"
+],
+"Take me to the station": [
+"என்னை நிலையத்திற்கு அழைத்துச் செல்லுங்கள்",
+"Èṉṉai nilaiyadhdhiṟghu al̤aidhdhujh jhèlluṅghaḻ"
+],
+"Where is the hospital?": [
+"மருத்துவமனை எங்கே?",
+"Marudhdhuvamaṉai èṅghe?"
+],
+"Go straight": [
+"நேராக செல்லுங்கள்",
+"Nerāgha jhèlluṅghaḻ"
+],
+"Turn left": [
+"இடதுபுறம் திரும்பவும்",
+"Iḍhadhubhuṟaṃ dhiruṃbhavuṃ"
+],
+"Turn right": [
+"வலதுபுறம் திரும்பவும்",
+"Valadhubhuṟaṃ dhiruṃbhavuṃ"
+],
+"Stop here": [
+"இங்கே நிறுத்து",
+"Iṅghe niṟudhdhu"
+],
+"How far is it?": [
+"எவ்வளவு தூரம்?",
+"Èvvaḻavu dhūraṃ?"
+],
+"I am lost": [
+"நான் தொலைந்துவிட்டேன்",
+"Nāṉ dhòlaindhuviḍhḍheṉ"
+],
+"Where is the toilet?": [
+"கழிப்பறை எங்கே?",
+"Ghal̤ibhbhaṟai èṅghe?"
+],
+"Bon voyage": [
+"பான் பயணம்",
+"Bhāṉ bhayaṇaṃ"
+],
+"Where is the bus stop?": [
+"பேருந்து நிறுத்தம் எங்கே?",
+"Bherundhu niṟudhdhaṃ èṅghe?"
+],
+"One ticket to...": [
+"ஒரு டிக்கெட்...",
+"Òru ḍhighghèḍh..."
+],
+"When does the bus leave?": [
+"பேருந்து எப்போது புறப்படும்?",
+"Bherundhu èbhbhodhu bhuṟabhbhaḍhuṃ?"
+],
+"Is this seat free?": [
+"இந்த இருக்கை இலவசமா?",
+"Indha irughghai ilavajhamā?"
+],
+"Next stop please": [
+"தயவுசெய்து அடுத்த நிறுத்தம்",
+"Dhayavujhèydhu aḍhudhdha niṟudhdhaṃ"
+],
+"I need a map": [
+"எனக்கு ஒரு வரைபடம் வேண்டும்",
+"Èṉaghghu òru varaibhaḍhaṃ veṇḍhuṃ"
+],
+"Where can I get a taxi?": [
+"நான் ஒரு டாக்ஸியை எங்கே பெறுவது?",
+"Nāṉ òru ḍhāghsiyai èṅghe bhèṟuvadhu?"
+],
+"Please slow down": [
+"தயவுசெய்து வேகத்தை குறைக்கவும்",
+"Dhayavujhèydhu veghadhdhai ghuṟaighghavuṃ"
+],
+"Airport": [
+"விமான நிலையம்",
+"Vimāṉa nilaiyaṃ"
+],
+"Where is the luggage?": [
+"சாமான்கள் எங்கே?",
+"Jhāmāṉghaḻ èṅghe?"
+],
+"I have a reservation": [
+"எனக்கு முன்பதிவு உள்ளது",
+"Èṉaghghu muṉbhadhivu uḻḻadhu"
+],
+"Which platform?": [
+"எந்த மேடை?",
+"Èndha meḍhai?"
+],
+"Is there a direct bus?": [
+"நேரடி பேருந்து உள்ளதா?",
+"Neraḍhi bherundhu uḻḻadhā?"
+],
+"How long does it take?": [
+"எவ்வளவு நேரம் ஆகும்?",
+"Èvvaḻavu neraṃ āghuṃ?"
+],
+"I am travelling alone": [
+"நான் தனியாக பயணிக்கிறேன்",
+"Nāṉ dhaṉiyāgha bhayaṇighghiṟeṉ"
+],
+"Can you show me on the map?": [
+"வரைபடத்தில் காட்ட முடியுமா?",
+"Varaibhaḍhadhdhil ghāḍhḍha muḍhiyumā?"
+],
+"Is it safe here?": [
+"இங்கே பாதுகாப்பானதா?",
+"Iṅghe bhādhughābhbhāṉadhā?"
+],
+"I need a room": [
+"எனக்கு ஒரு அறை வேண்டும்",
+"Èṉaghghu òru aṟai veṇḍhuṃ"
+],
+"Do you have a single room?": [
+"உங்களிடம் தனி அறை இருக்கிறதா?",
+"Uṅghaḻiḍhaṃ dhaṉi aṟai irughghiṟadhā?"
+],
+"Check-in time?": [
+"செக்-இன் நேரமா?",
+"Jhègh-iṉ neramā?"
+],
+"Check-out time?": [
+"செக்-அவுட் நேரம்?",
+"Jhègh-avuḍh neraṃ?"
+],
+"Is breakfast included?": [
+"காலை உணவு சேர்க்கப்பட்டுள்ளதா?",
+"Ghālai uṇavu jherghghabhbhaḍhḍhuḻḻadhā?"
+],
+"Where is the beach?": [
+"கடற்கரை எங்கே?",
+"Ghaḍhaṟgharai èṅghe?"
+],
+"I want to rent a car": [
+"நான் ஒரு காரை வாடகைக்கு எடுக்க விரும்புகிறேன்",
+"Nāṉ òru ghārai vāḍhaghaighghu èḍhughgha viruṃbhughiṟeṉ"
+],
+"Fill the tank please": [
+"தயவுசெய்து தொட்டியை நிரப்பவும்",
+"Dhayavujhèydhu dhòḍhḍhiyai nirabhbhavuṃ"
+],
+"Where is the petrol pump?": [
+"பெட்ரோல் பம்ப் எங்கே?",
+"Bhèḍhrol bhaṃbh èṅghe?"
+],
+"Can I walk there?": [
+"நான் அங்கு நடக்கலாமா?",
+"Nāṉ aṅghu naḍhaghghalāmā?"
+],
+"Is it within walking distance?": [
+"நடந்து செல்லும் தூரத்தில் உள்ளதா?",
+"Naḍhandhu jhèlluṃ dhūradhdhil uḻḻadhā?"
+],
+"Which way to the temple?": [
+"கோவிலுக்கு எந்த வழி?",
+"Ghovilughghu èndha val̤i?"
+],
+"I am looking for a hotel": [
+"நான் ஒரு ஹோட்டலைத் தேடுகிறேன்",
+"Nāṉ òru hoḍhḍhalaidh dheḍhughiṟeṉ"
+],
+"Do you have a guide?": [
+"உங்களிடம் வழிகாட்டி இருக்கிறதா?",
+"Uṅghaḻiḍhaṃ val̤ighāḍhḍhi irughghiṟadhā?"
+],
+"How much for a tour?": [
+"ஒரு சுற்றுப்பயணத்திற்கு எவ்வளவு?",
+"Òru jhuṟṟubhbhayaṇadhdhiṟghu èvvaḻavu?"
+],
+"I would like to visit...": [
+"நான் பார்வையிட விரும்புகிறேன்...",
+"Nāṉ bhārvaiyiḍha viruṃbhughiṟeṉ..."
+],
+"What is this place called?": [
+"இந்த இடம் என்ன அழைக்கப்படுகிறது?",
+"Indha iḍhaṃ èṉṉa al̤aighghabhbhaḍhughiṟadhu?"
+],
+"Is photography allowed?": [
+"புகைப்படம் எடுக்க அனுமதி உள்ளதா?",
+"Bhughaibhbhaḍhaṃ èḍhughgha aṉumadhi uḻḻadhā?"
+],
+"Where is the exit?": [
+"வெளியேறும் இடம் எங்கே?",
+"Vèḻiyeṟuṃ iḍhaṃ èṅghe?"
+],
+"Where is the entrance?": [
+"நுழைவாயில் எங்கே?",
+"Nul̤aivāyil èṅghe?"
+],
+"Is there a lift?": [
+"லிப்ட் இருக்கிறதா?",
+"Libhḍh irughghiṟadhā?"
+],
+"Ground floor": [
+"தரை தளம்",
+"Dharai dhaḻaṃ"
+],
+"First floor": [
+"முதல் தளம்",
+"Mudhal dhaḻaṃ"
+],
+"Where is the parking?": [
+"பார்க்கிங் எங்கே?",
+"Bhārghghiṅ èṅghe?"
+],
+"I need a SIM card": [
+"எனக்கு சிம் கார்டு வேண்டும்",
+"Èṉaghghu jhiṃ ghārḍhu veṇḍhuṃ"
+],
+"Where can I exchange money?": [
+"நான் எங்கே பணத்தை மாற்றலாம்?",
+"Nāṉ èṅghe bhaṇadhdhai māṟṟalāṃ?"
+],
+"What is the exchange rate?": [
+"மாற்று விகிதம் என்ன?",
+"Māṟṟu vighidhaṃ èṉṉa?"
+],
+"I need a plug adapter": [
+"எனக்கு ஒரு பிளக் அடாப்டர் தேவை",
+"Èṉaghghu òru bhiḻagh aḍhābhḍhar dhevai"
+],
+"Where is the embassy?": [
+"தூதரகம் எங்கே?",
+"Dhūdharaghaṃ èṅghe?"
+],
+"I lost my passport": [
+"எனது பாஸ்போர்ட்டை தொலைத்துவிட்டேன்",
+"Èṉadhu bhāsbhorḍhḍhai dhòlaidhdhuviḍhḍheṉ"
+],
+"I need to see a doctor": [
+"நான் ஒரு மருத்துவரை பார்க்க வேண்டும்",
+"Nāṉ òru marudhdhuvarai bhārghgha veṇḍhuṃ"
+],
+"Call an ambulance": [
+"ஆம்புலன்ஸை அழைக்கவும்",
+"Āṃbhulaṉsai al̤aighghavuṃ"
+],
+"Where is the pharmacy?": [
+"மருந்தகம் எங்கே?",
+"Marundhaghaṃ èṅghe?"
+],
+"I have travel insurance": [
+"என்னிடம் பயணக் காப்பீடு உள்ளது",
+"Èṉṉiḍhaṃ bhayaṇagh ghābhbhīḍhu uḻḻadhu"
+],
+"Scenic route": [
+"இயற்கை எழில் கொஞ்சும் பாதை",
+"Iyaṟghai èl̤il ghòñjhuṃ bhādhai"
+],
+"Local market": [
+"உள்ளூர் சந்தை",
+"Uḻḻūr jhandhai"
+],
+"Traditional food": [
+"பாரம்பரிய உணவு",
+"Bhāraṃbhariya uṇavu"
+],
+"Famous monument": [
+"புகழ்பெற்ற நினைவுச்சின்னம்",
+"Bhughal̤bhèṟṟa niṉaivujhjhiṉṉaṃ"
+],
+"Historical place": [
+"வரலாற்று இடம்",
+"Varalāṟṟu iḍhaṃ"
+],
+"Opening hours?": [
+"திறக்கும் நேரம்?",
+"Dhiṟaghghuṃ neraṃ?"
+],
+"Is it open today?": [
+"இன்று திறந்திருக்கிறதா?",
+"Iṉṟu dhiṟandhirughghiṟadhā?"
+],
+"Entrance fee?": [
+"நுழைவு கட்டணம்?",
+"Nul̤aivu ghaḍhḍhaṇaṃ?"
+],
+"Student discount?": [
+"மாணவர் தள்ளுபடி?",
+"Māṇavar dhaḻḻubhaḍhi?"
+],
+"Free entry?": [
+"இலவச நுழைவா?",
+"Ilavajha nul̤aivā?"
+],
+"Can you take a photo?": [
+"புகைப்படம் எடுக்க முடியுமா?",
+"Bhughaibhbhaḍhaṃ èḍhughgha muḍhiyumā?"
+],
+"Beautiful view": [
+"அழகான காட்சி",
+"Al̤aghāṉa ghāḍhjhi"
+],
+"I am on holiday": [
+"நான் விடுமுறையில் இருக்கிறேன்",
+"Nāṉ viḍhumuṟaiyil irughghiṟeṉ"
+],
+"Business trip": [
+"வணிக பயணம்",
+"Vaṇigha bhayaṇaṃ"
+],
+"Round trip": [
+"சுற்று பயணம்",
+"Jhuṟṟu bhayaṇaṃ"
+],
+"One way": [
+"ஒரு வழி",
+"Òru val̤i"
+],
+"Window seat please": [
+"தயவு செய்து ஜன்னல் இருக்கை",
+"Dhayavu jhèydhu jaṉṉal irughghai"
+],
+"Aisle seat please": [
+"தயவுசெய்து இடைகழி இருக்கை",
+"Dhayavujhèydhu iḍhaighal̤i irughghai"
+],
+"No smoking": [
+"புகைபிடிப்பது இல்லை",
+"Bhughaibhiḍhibhbhadhu illai"
+],
+"Luggage allowance?": [
+"லக்கேஜ் அலவன்ஸ்?",
+"Laghghej alavaṉs?"
+],
+"Boarding pass": [
+"போர்டிங் பாஸ்",
+"Bhorḍhiṅ bhās"
+],
+"Gate number?": [
+"கேட் எண்?",
+"Gheḍh èṇ?"
+],
+"Delayed": [
+"தாமதமானது",
+"Dhāmadhamāṉadhu"
+],
+"Cancelled": [
+"ரத்து செய்யப்பட்டது",
+"Radhdhu jhèyyabhbhaḍhḍhadhu"
+],
+"On time": [
+"சரியான நேரத்தில்",
+"Jhariyāṉa neradhdhil"
+],
+"Customs": [
+"சுங்கம்",
+"Jhuṅghaṃ"
+],
+"Nothing to declare": [
+"அறிவிக்க எதுவும் இல்லை",
+"Aṟivighgha èdhuvuṃ illai"
+],
+"Souvenir": [
+"நினைவு பரிசு",
+"Niṉaivu bharijhu"
+],
+"Local specialty": [
+"உள்ளூர் சிறப்பு",
+"Uḻḻūr jhiṟabhbhu"
+],
+"Recommend a restaurant": [
+"ஒரு உணவகத்தைப் பரிந்துரைக்கவும்",
+"Òru uṇavaghadhdhaibh bharindhuraighghavuṃ"
+],
+"Safe journey": [
+"பாதுகாப்பான பயணம்",
+"Bhādhughābhbhāṉa bhayaṇaṃ"
+],
+"Water": [
+"தண்ணீர்",
+"Dhaṇṇīr"
+],
+"Food": [
+"உணவு",
+"Uṇavu"
+],
+"I am hungry": [
+"எனக்கு பசிக்கிறது",
+"Èṉaghghu bhajhighghiṟadhu"
+],
+"Cooked rice": [
+"சமைத்த அரிசி",
+"Jhamaidhdha arijhi"
+],
+"Tea": [
+"தேநீர்",
+"Dhenīr"
+],
+"Coffee": [
+"காபி",
+"Ghābhi"
+],
+"Please give me water": [
+"தயவுசெய்து எனக்கு தண்ணீர் கொடுங்கள்",
+"Dhayavujhèydhu èṉaghghu dhaṇṇīr ghòḍhuṅghaḻ"
+],
+"The food is delicious": [
+"உணவு சுவையானது",
+"Uṇavu jhuvaiyāṉadhu"
+],
+"I am vegetarian": [
+"நான் சைவ உணவு உண்பவன்",
+"Nāṉ jhaiva uṇavu uṇbhavaṉ"
+],
+"Bill please": [
+"பில் ப்ளீஸ்",
+"Bhil bhḻīs"
+],
+"Have a nice meal": [
+"நல்லா சாப்பிடுங்க",
+"Nallā jhābhbhiḍhuṅgha"
+],
+"I am thirsty": [
+"எனக்கு தாகமாக இருக்கிறது",
+"Èṉaghghu dhāghamāgha irughghiṟadhu"
+],
+"One cup of tea": [
+"ஒரு கப் தேநீர்",
+"Òru ghabh dhenīr"
+],
+"No sugar please": [
+"தயவு செய்து சர்க்கரை வேண்டாம்",
+"Dhayavu jhèydhu jharghgharai veṇḍhāṃ"
+],
+"Less spicy please": [
+"குறைந்த காரமான தயவுசெய்து",
+"Ghuṟaindha ghāramāṉa dhayavujhèydhu"
+],
+"Too hot": [
+"மிகவும் சூடாக இருக்கிறது",
+"Mighavuṃ jhūḍhāgha irughghiṟadhu"
+],
+"I am full": [
+"நான் நிறைவாக இருக்கிறேன்",
+"Nāṉ niṟaivāgha irughghiṟeṉ"
+],
+"Menu please": [
+"தயவுசெய்து மெனு",
+"Dhayavujhèydhu mèṉu"
+],
+"What do you recommend?": [
+"நாம் என்ன சாப்பிடலாம்?",
+"Nāṃ èṉṉa jhābhbhiḍhalāṃ?"
+],
+"Today's special?": [
+"இன்றைய சிறப்பு?",
+"Iṉṟaiya jhiṟabhbhu?"
+],
+"Is this vegetarian?": [
+"இது சைவமா?",
+"Idhu jhaivamā?"
+],
+"I have an allergy": [
+"எனக்கு ஒவ்வாமை இருக்கிறது",
+"Èṉaghghu òvvāmai irughghiṟadhu"
+],
+"No onion no garlic": [
+"வெங்காயம் இல்லை பூண்டு இல்லை",
+"Vèṅghāyaṃ illai bhūṇḍhu illai"
+],
+"Pack this to go": [
+"செல்ல இதை பேக் செய்யவும்",
+"Jhèlla idhai bhegh jhèyyavuṃ"
+],
+"Table for two": [
+"இருவருக்கான அட்டவணை",
+"Iruvarughghāṉa aḍhḍhavaṇai"
+],
+"Can I have the bill?": [
+"பில் கிடைக்குமா?",
+"Bhil ghiḍhaighghumā?"
+],
+"Is service included?": [
+"சேவை சேர்க்கப்பட்டுள்ளதா?",
+"Jhevai jherghghabhbhaḍhḍhuḻḻadhā?"
+],
+"Keep the change": [
+"மாற்றத்தை வைத்திருங்கள்",
+"Māṟṟadhdhai vaidhdhiruṅghaḻ"
+],
+"This is cold": [
+"இது குளிர்",
+"Idhu ghuḻir"
+],
+"Can I get a refill?": [
+"நான் ஒரு நிரப்பு பெற முடியுமா?",
+"Nāṉ òru nirabhbhu bhèṟa muḍhiyumā?"
+],
+"Breakfast": [
+"காலை உணவு",
+"Ghālai uṇavu"
+],
+"Lunch": [
+"மதிய உணவு",
+"Madhiya uṇavu"
+],
+"Dinner": [
+"இரவு உணவு",
+"Iravu uṇavu"
+],
+"Snack": [
+"சிற்றுண்டி",
+"Jhiṟṟuṇḍhi"
+],
+"Dessert": [
+"இனிப்பு",
+"Iṉibhbhu"
+],
+"Starter": [
+"ஸ்டார்டர்",
+"Sḍhārḍhar"
+],
+"Main course": [
+"முக்கிய பாடநெறி",
+"Mughghiya bhāḍhanèṟi"
+],
+"Soup": [
+"சூப்",
+"Jhūbh"
+],
+"Salad": [
+"சாலட்",
+"Jhālaḍh"
+],
+"Rice and curry": [
+"சாதம் மற்றும் கறி",
+"Jhādhaṃ maṟṟuṃ ghaṟi"
+],
+"Roti": [
+"ரொட்டி",
+"Ròḍhḍhi"
+],
+"Dal": [
+"தால்",
+"Dhāl"
+],
+"Vegetable curry": [
+"காய்கறி கறி",
+"Ghāyghaṟi ghaṟi"
+],
+"Fish curry": [
+"மீன் குழம்பு",
+"Mīṉ ghul̤aṃbhu"
+],
+"Chicken": [
+"கோழி",
+"Ghol̤i"
+],
+"Egg": [
+"முட்டை",
+"Muḍhḍhai"
+],
+"Paneer": [
+"பன்னீர்",
+"Bhaṉṉīr"
+],
+"Yogurt": [
+"தயிர்",
+"Dhayir"
+],
+"Pickle": [
+"ஊறுகாய்",
+"Ūṟughāy"
+],
+"Chutney": [
+"சட்னி",
+"Jhaḍhṉi"
+],
+"Sweet": [
+"இனிப்பு",
+"Iṉibhbhu"
+],
+"Ice cream": [
+"ஐஸ்கிரீம்",
+"Aisghirīṃ"
+],
+"Fresh juice": [
+"புதிய சாறு",
+"Bhudhiya jhāṟu"
+],
+"Cold drink": [
+"குளிர் பானம்",
+"Ghuḻir bhāṉaṃ"
+],
+"Hot milk": [
+"சூடான பால்",
+"Jhūḍhāṉa bhāl"
+],
+"Green tea": [
+"பச்சை தேயிலை",
+"Bhajhjhai dheyilai"
+],
+"Black coffee": [
+"கருப்பு காபி",
+"Gharubhbhu ghābhi"
+],
+"Mineral water": [
+"கனிம நீர்",
+"Ghaṉima nīr"
+],
+"No ice": [
+"பனி இல்லை",
+"Bhaṉi illai"
+],
+"Extra napkins": [
+"கூடுதல் நாப்கின்கள்",
+"Ghūḍhudhal nābhghiṉghaḻ"
+],
+"Raw": [
+"மூல",
+"Mūla"
+],
+"Cooked": [
+"சமைக்கப்பட்டது",
+"Jhamaighghabhbhaḍhḍhadhu"
+],
+"Fried": [
+"வறுத்த",
+"Vaṟudhdha"
+],
+"Boiled": [
+"கொதித்தது",
+"Ghòdhidhdhadhu"
+],
+"Spicy": [
+"காரமான",
+"Ghāramāṉa"
+],
+"Sour": [
+"புளிப்பு",
+"Bhuḻibhbhu"
+],
+"Bitter": [
+"கசப்பான",
+"Ghajhabhbhāṉa"
+],
+"Tasty": [
+"சுவையானது",
+"Jhuvaiyāṉadhu"
+],
+"Tasteless": [
+"சுவையற்றது",
+"Jhuvaiyaṟṟadhu"
+],
+"Fresh": [
+"புதியது",
+"Bhudhiyadhu"
+],
+"Stale": [
+"பழுதடைந்தது",
+"Bhal̤udhaḍhaindhadhu"
+],
+"Hot": [
+"சூடான",
+"Jhūḍhāṉa"
+],
+"Cold": [
+"குளிர்",
+"Ghuḻir"
+],
+"I cannot eat this": [
+"என்னால் இதை சாப்பிட முடியாது",
+"Èṉṉāl idhai jhābhbhiḍha muḍhiyādhu"
+],
+"Different dish please": [
+"வித்தியாசமான டிஷ் ப்ளீஸ்",
+"Vidhdhiyājhamāṉa ḍhiṣ bhḻīs"
+],
+"Same again": [
+"மீண்டும் அதே",
+"Mīṇḍhuṃ adhe"
+],
+"Half portion": [
+"பாதி பகுதி",
+"Bhādhi bhaghudhi"
+],
+"Large portion": [
+"பெரிய பகுதி",
+"Bhèriya bhaghudhi"
+],
+"Small portion": [
+"சிறிய பகுதி",
+"Jhiṟiya bhaghudhi"
+],
+"For here or to go?": [
+"இங்கே அல்லது செல்ல?",
+"Iṅghe alladhu jhèlla?"
+],
+"Eat slowly": [
+"மெதுவாக சாப்பிடுங்கள்",
+"Mèdhuvāgha jhābhbhiḍhuṅghaḻ"
+],
+"Cheers!": [
+"சியர்ஸ்!",
+"Jhiyars!"
+],
+"To your health": [
+"உங்கள் ஆரோக்கியத்திற்கு",
+"Uṅghaḻ āroghghiyadhdhiṟghu"
+],
+"Enjoy your meal": [
+"உங்கள் உணவை அனுபவிக்கவும்",
+"Uṅghaḻ uṇavai aṉubhavighghavuṃ"
+],
+"It smells good": [
+"நல்ல மணம் வீசுகிறது",
+"Nalla maṇaṃ vījhughiṟadhu"
+],
+"Too salty": [
+"உப்பு அதிகம்",
+"Ubhbhu adhighaṃ"
+],
+"Perfect": [
+"சரியானது",
+"Jhariyāṉadhu"
+],
+"Compliments to the chef": [
+"சமையல்காரருக்கு பாராட்டுக்கள்",
+"Jhamaiyalghārarughghu bhārāḍhḍhughghaḻ"
+],
+"How much is this?": [
+"இது எவ்வளவு?",
+"Idhu èvvaḻavu?"
+],
+"That's too expensive": [
+"அது மிகவும் விலை உயர்ந்தது",
+"Adhu mighavuṃ vilai uyarndhadhu"
+],
+"Cheap": [
+"மலிவானது",
+"Malivāṉadhu"
+],
+"Give me one kg rice": [
+"எனக்கு ஒரு கிலோ அரிசி கொடுங்கள்",
+"Èṉaghghu òru ghilo arijhi ghòḍhuṅghaḻ"
+],
+"Do you have a bag?": [
+"உங்களிடம் பை இருக்கிறதா?",
+"Uṅghaḻiḍhaṃ bhai irughghiṟadhā?"
+],
+"OK I'll take it": [
+"சரி நான் எடுக்கிறேன்",
+"Jhari nāṉ èḍhughghiṟeṉ"
+],
+"Can you reduce the price?": [
+"விலையை குறைக்க முடியுமா?",
+"Vilaiyai ghuṟaighgha muḍhiyumā?"
+],
+"Give me a discount": [
+"எனக்கு தள்ளுபடி கொடுங்கள்",
+"Èṉaghghu dhaḻḻubhaḍhi ghòḍhuṅghaḻ"
+],
+"Final price?": [
+"இறுதி விலை?",
+"Iṟudhi vilai?"
+],
+"I am just looking": [
+"நான் பார்க்கிறேன்",
+"Nāṉ bhārghghiṟeṉ"
+],
+"Do you have this in red?": [
+"உங்களிடம் இது சிவப்பு நிறத்தில் உள்ளதா?",
+"Uṅghaḻiḍhaṃ idhu jhivabhbhu niṟadhdhil uḻḻadhā?"
+],
+"Do you have a bigger size?": [
+"உங்களிடம் பெரிய அளவு இருக்கிறதா?",
+"Uṅghaḻiḍhaṃ bhèriya aḻavu irughghiṟadhā?"
+],
+"Do you have a smaller size?": [
+"உங்களிடம் சிறிய அளவு உள்ளதா?",
+"Uṅghaḻiḍhaṃ jhiṟiya aḻavu uḻḻadhā?"
+],
+"Can I try this on?": [
+"நான் இதை முயற்சி செய்யலாமா?",
+"Nāṉ idhai muyaṟjhi jhèyyalāmā?"
+],
+"Where is the fitting room?": [
+"பொருத்தும் அறை எங்கே?",
+"Bhòrudhdhuṃ aṟai èṅghe?"
+],
+"I will pay by card": [
+"நான் அட்டை மூலம் பணம் செலுத்துகிறேன்",
+"Nāṉ aḍhḍhai mūlaṃ bhaṇaṃ jhèludhdhughiṟeṉ"
+],
+"Do you accept cards?": [
+"நீங்கள் அட்டைகளை ஏற்றுக்கொள்கிறீர்களா?",
+"Nīṅghaḻ aḍhḍhaighaḻai eṟṟughghòḻghiṟīrghaḻā?"
+],
+"Cash only": [
+"பணம் மட்டுமே",
+"Bhaṇaṃ maḍhḍhume"
+],
+"Do you have change?": [
+"உங்களிடம் மாற்றம் உள்ளதா?",
+"Uṅghaḻiḍhaṃ māṟṟaṃ uḻḻadhā?"
+],
+"Receipt please": [
+"ரசீது தயவுசெய்து",
+"Rajhīdhu dhayavujhèydhu"
+],
+"Gift wrap please": [
+"தயவுசெய்து பரிசு மடக்கு",
+"Dhayavujhèydhu bharijhu maḍhaghghu"
+],
+"Where do I pay?": [
+"நான் எங்கே செலுத்த வேண்டும்?",
+"Nāṉ èṅghe jhèludhdha veṇḍhuṃ?"
+],
+"Is there a warranty?": [
+"உத்தரவாதம் உள்ளதா?",
+"Udhdharavādhaṃ uḻḻadhā?"
+],
+"Can I return this?": [
+"இதை நான் திருப்பித் தர முடியுமா?",
+"Idhai nāṉ dhirubhbhidh dhara muḍhiyumā?"
+],
+"Exchange only": [
+"பரிமாற்றம் மட்டுமே",
+"Bharimāṟṟaṃ maḍhḍhume"
+],
+"Out of stock": [
+"இருப்பு இல்லை",
+"Irubhbhu illai"
+],
+"When will it arrive?": [
+"எப்போது வரும்?",
+"Èbhbhodhu varuṃ?"
+],
+"Order": [
+"ஆர்டர்",
+"Ārḍhar"
+],
+"Delivery": [
+"டெலிவரி",
+"Ḍhèlivari"
+],
+"Free delivery?": [
+"இலவச டெலிவரி?",
+"Ilavajha ḍhèlivari?"
+],
+"Supermarket": [
+"பல்பொருள் அங்காடி",
+"Bhalbhòruḻ aṅghāḍhi"
+],
+"Market": [
+"சந்தை",
+"Jhandhai"
+],
+"Shop": [
+"கடை",
+"Ghaḍhai"
+],
+"Mall": [
+"வணிக வளாகம்",
+"Vaṇigha vaḻāghaṃ"
+],
+"Bakery": [
+"பேக்கரி",
+"Bheghghari"
+],
+"Pharmacy": [
+"மருந்தகம்",
+"Marundhaghaṃ"
+],
+"Bookstore": [
+"புத்தகக் கடை",
+"Bhudhdhaghagh ghaḍhai"
+],
+"Clothing store": [
+"துணிக்கடை",
+"Dhuṇighghaḍhai"
+],
+"Shoe shop": [
+"காலணி கடை",
+"Ghālaṇi ghaḍhai"
+],
+"Jewellery shop": [
+"நகைக்கடை",
+"Naghaighghaḍhai"
+],
+"Electronics store": [
+"எலக்ட்ரானிக்ஸ் கடை",
+"Èlaghḍhrāṉighs ghaḍhai"
+],
+"Open": [
+"திற",
+"Dhiṟa"
+],
+"Closed": [
+"மூடப்பட்டது",
+"Mūḍhabhbhaḍhḍhadhu"
+],
+"Sale": [
+"விற்பனை",
+"Viṟbhaṉai"
+],
+"Half price": [
+"பாதி விலை",
+"Bhādhi vilai"
+],
+"Buy one get one": [
+"ஒன்று வாங்கினால் ஒன்று கிடைக்கும்",
+"Òṉṟu vāṅghiṉāl òṉṟu ghiḍhaighghuṃ"
+],
+"Clearance": [
+"அனுமதி",
+"Aṉumadhi"
+],
+"New arrival": [
+"புது வரவு",
+"Bhudhu varavu"
+],
+"Best seller": [
+"சிறந்த விற்பனையாளர்",
+"Jhiṟandha viṟbhaṉaiyāḻar"
+],
+"Limited edition": [
+"வரையறுக்கப்பட்ட பதிப்பு",
+"Varaiyaṟughghabhbhaḍhḍha bhadhibhbhu"
+],
+"Original": [
+"அசல்",
+"Ajhal"
+],
+"Copy": [
+"நகலெடுக்கவும்",
+"Naghalèḍhughghavuṃ"
+],
+"Brand": [
+"பிராண்ட்",
+"Bhirāṇḍh"
+],
+"Quality": [
+"தரம்",
+"Dharaṃ"
+],
+"Cheap quality": [
+"மலிவான தரம்",
+"Malivāṉa dharaṃ"
+],
+"Good quality": [
+"நல்ல தரம்",
+"Nalla dharaṃ"
+],
+"Expensive": [
+"விலை உயர்ந்தது",
+"Vilai uyarndhadhu"
+],
+"Affordable": [
+"மலிவு",
+"Malivu"
+],
+"Bargain": [
+"பேரம் பேசு",
+"Bheraṃ bhejhu"
+],
+"Negotiate": [
+"பேச்சுவார்த்தை நடத்துங்கள்",
+"Bhejhjhuvārdhdhai naḍhadhdhuṅghaḻ"
+],
+"I need...": [
+"எனக்கு வேண்டும்...",
+"Èṉaghghu veṇḍhuṃ..."
+],
+"Show me that": [
+"அதை எனக்குக் காட்டு",
+"Adhai èṉaghghugh ghāḍhḍhu"
+],
+"Anything else?": [
+"வேறு ஏதாவது?",
+"Veṟu edhāvadhu?"
+],
+"That is all": [
+"அவ்வளவுதான்",
+"Avvaḻavudhāṉ"
+],
+"I will think about it": [
+"நான் யோசிப்பேன்",
+"Nāṉ yojhibhbheṉ"
+],
+"I will come back": [
+"நான் திரும்பி வருவேன்",
+"Nāṉ dhiruṃbhi varuveṉ"
+],
+"Do you have another colour?": [
+"உங்களிடம் வேறு நிறம் உள்ளதா?",
+"Uṅghaḻiḍhaṃ veṟu niṟaṃ uḻḻadhā?"
+],
+"Only this left": [
+"இது மட்டும் மிச்சம்",
+"Idhu maḍhḍhuṃ mijhjhaṃ"
+],
+"Last piece": [
+"கடைசி துண்டு",
+"Ghaḍhaijhi dhuṇḍhu"
+],
+"Reserve this for me": [
+"இதை எனக்காக ஒதுக்குங்கள்",
+"Idhai èṉaghghāgha òdhughghuṅghaḻ"
+],
+"Put it on hold": [
+"அதை நிறுத்தி வைக்கவும்",
+"Adhai niṟudhdhi vaighghavuṃ"
+],
+"Cancel my order": [
+"எனது ஆர்டரை ரத்து செய்",
+"Èṉadhu ārḍharai radhdhu jhèy"
+],
+"Track my order": [
+"எனது ஆர்டரைக் கண்காணிக்கவும்",
+"Èṉadhu ārḍharaigh ghaṇghāṇighghavuṃ"
+],
+"Wrong size": [
+"தவறான அளவு",
+"Dhavaṟāṉa aḻavu"
+],
+"Defective": [
+"குறைபாடுள்ள",
+"Ghuṟaibhāḍhuḻḻa"
+],
+"Refund": [
+"திரும்பப்பெறுதல்",
+"Dhiruṃbhabhbhèṟudhal"
+],
+"Complaint": [
+"புகார்",
+"Bhughār"
+],
+"Manager": [
+"மேலாளர்",
+"Melāḻar"
+],
+"Customer service": [
+"வாடிக்கையாளர் சேவை",
+"Vāḍhighghaiyāḻar jhevai"
+],
+"Help desk": [
+"உதவி மேசை",
+"Udhavi mejhai"
+],
+"Counter": [
+"கவுண்டர்",
+"Ghavuṇḍhar"
+],
+"Queue": [
+"வரிசை",
+"Varijhai"
+],
+"Waiting": [
+"காத்திருக்கிறது",
+"Ghādhdhirughghiṟadhu"
+],
+"Next please": [
+"அடுத்து தயவுசெய்து",
+"Aḍhudhdhu dhayavujhèydhu"
+],
+"Hurry": [
+"சீக்கிரம்",
+"Jhīghghiraṃ"
+],
+"No rush": [
+"அவசரம் இல்லை",
+"Avajharaṃ illai"
+],
+"Take your time": [
+"உங்கள் நேரத்தை எடுத்துக் கொள்ளுங்கள்",
+"Uṅghaḻ neradhdhai èḍhudhdhugh ghòḻḻuṅghaḻ"
+],
+"Have a nice day": [
+"இனிய நாள்",
+"Iṉiya nāḻ"
+],
+"Thank you for shopping": [
+"ஷாப்பிங் செய்ததற்கு நன்றி",
+"Ṣābhbhiṅ jhèydhadhaṟghu naṉṟi"
+],
+"Help!": [
+"உதவி!",
+"Udhavi!"
+],
+"Stop!": [
+"நிறுத்து!",
+"Niṟudhdhu!"
+],
+"Call the police!": [
+"காவல்துறையை அழைக்கவும்!",
+"Ghāvaldhuṟaiyai al̤aighghavuṃ!"
+],
+"Fire!": [
+"நெருப்பு!",
+"Nèrubhbhu!"
+],
+"I need a doctor": [
+"எனக்கு ஒரு மருத்துவர் தேவை",
+"Èṉaghghu òru marudhdhuvar dhevai"
+],
+"I'm sick": [
+"எனக்கு உடம்பு சரியில்லை",
+"Èṉaghghu uḍhaṃbhu jhariyillai"
+],
+"It's an emergency": [
+"இது ஒரு அவசரநிலை",
+"Idhu òru avajharanilai"
+],
+"There has been an accident": [
+"விபத்து ஏற்பட்டுள்ளது",
+"Vibhadhdhu eṟbhaḍhḍhuḻḻadhu"
+],
+"I have been robbed": [
+"நான் கொள்ளையடிக்கப்பட்டேன்",
+"Nāṉ ghòḻḻaiyaḍhighghabhbhaḍhḍheṉ"
+],
+"Someone is following me": [
+"யாரோ என்னைப் பின்தொடர்கிறார்கள்",
+"Yāro èṉṉaibh bhiṉdhòḍharghiṟārghaḻ"
+],
+"I lost my child": [
+"நான் என் குழந்தையை இழந்தேன்",
+"Nāṉ èṉ ghul̤andhaiyai il̤andheṉ"
+],
+"I need medicine": [
+"எனக்கு மருந்து வேண்டும்",
+"Èṉaghghu marundhu veṇḍhuṃ"
+],
+"I have pain here": [
+"எனக்கு இங்கே வலி இருக்கிறது",
+"Èṉaghghu iṅghe vali irughghiṟadhu"
+],
+"I am allergic to...": [
+"எனக்கு அலர்ஜி...",
+"Èṉaghghu alarji..."
+],
+"I have fever": [
+"எனக்கு காய்ச்சல்",
+"Èṉaghghu ghāyjhjhal"
+],
+"I have a headache": [
+"எனக்கு தலை வலிக்கிறது",
+"Èṉaghghu dhalai valighghiṟadhu"
+],
+"I have stomach ache": [
+"எனக்கு வயிற்று வலி இருக்கிறது",
+"Èṉaghghu vayiṟṟu vali irughghiṟadhu"
+],
+"I cannot breathe": [
+"என்னால் சுவாசிக்க முடியாது",
+"Èṉṉāl jhuvājhighgha muḍhiyādhu"
+],
+"Bleeding": [
+"இரத்தப்போக்கு",
+"Iradhdhabhbhoghghu"
+],
+"Broken bone": [
+"உடைந்த எலும்பு",
+"Uḍhaindha èluṃbhu"
+],
+"Burn": [
+"எரிக்கவும்",
+"Èrighghavuṃ"
+],
+"Bite": [
+"கடி",
+"Ghaḍhi"
+],
+"Poison": [
+"விஷம்",
+"Viṣaṃ"
+],
+"Drowning": [
+"நீரில் மூழ்குதல்",
+"Nīril mūl̤ghudhal"
+],
+"Unconscious": [
+"மயக்கம்",
+"Mayaghghaṃ"
+],
+"Heart attack": [
+"மாரடைப்பு",
+"Māraḍhaibhbhu"
+],
+"Stay calm": [
+"அமைதியாக இருங்கள்",
+"Amaidhiyāgha iruṅghaḻ"
+],
+"Do not move": [
+"நகர வேண்டாம்",
+"Naghara veṇḍhāṃ"
+],
+"Police station": [
+"காவல் நிலையம்",
+"Ghāval nilaiyaṃ"
+],
+"Fire station": [
+"தீயணைப்பு நிலையம்",
+"Dhīyaṇaibhbhu nilaiyaṃ"
+],
+"Ambulance": [
+"ஆம்புலன்ஸ்",
+"Āṃbhulaṉs"
+],
+"Doctor": [
+"டாக்டர்",
+"Ḍhāghḍhar"
+],
+"Nurse": [
+"செவிலியர்",
+"Jhèviliyar"
+],
+"Medicine": [
+"மருந்து",
+"Marundhu"
+],
+"First aid": [
+"முதலுதவி",
+"Mudhaludhavi"
+],
+"Bandage": [
+"கட்டு",
+"Ghaḍhḍhu"
+],
+"Antiseptic": [
+"கிருமி நாசினி",
+"Ghirumi nājhiṉi"
+],
+"Painkiller": [
+"வலி நிவாரணி",
+"Vali nivāraṇi"
+],
+"Injection": [
+"ஊசி",
+"Ūjhi"
+],
+"Blood": [
+"இரத்தம்",
+"Iradhdhaṃ"
+],
+"Blood bank": [
+"இரத்த வங்கி",
+"Iradhdha vaṅghi"
+],
+"Operation": [
+"ஆபரேஷன்",
+"Ābhareṣaṉ"
+],
+"ICU": [
+"ஐ.சி.யு",
+"Ai.jhi.yu"
+],
+"Ward": [
+"வார்டு",
+"Vārḍhu"
+],
+"Emergency room": [
+"அவசர அறை",
+"Avajhara aṟai"
+],
+"X-ray": [
+"எக்ஸ்ரே",
+"Èghsre"
+],
+"Report": [
+"அறிக்கை",
+"Aṟighghai"
+],
+"Prescription": [
+"மருந்துச்சீட்டு",
+"Marundhujhjhīḍhḍhu"
+],
+"Insurance": [
+"காப்பீடு",
+"Ghābhbhīḍhu"
+],
+"Contact number": [
+"தொடர்பு எண்",
+"Dhòḍharbhu èṇ"
+],
+"Next of kin": [
+"அடுத்த உறவினர்",
+"Aḍhudhdha uṟaviṉar"
+],
+"Identity": [
+"அடையாளம்",
+"Aḍhaiyāḻaṃ"
+],
+"Passport": [
+"பாஸ்போர்ட்",
+"Bhāsbhorḍh"
+],
+"Address": [
+"முகவரி",
+"Mughavari"
+],
+"Phone": [
+"தொலைபேசி",
+"Dhòlaibhejhi"
+],
+"Quick!": [
+"விரைவு!",
+"Viraivu!"
+],
+"Hurry up!": [
+"சீக்கிரம்!",
+"Jhīghghiraṃ!"
+],
+"Safe": [
+"பாதுகாப்பானது",
+"Bhādhughābhbhāṉadhu"
+],
+"Danger": [
+"ஆபத்து",
+"Ābhadhdhu"
+],
+"Warning": [
+"எச்சரிக்கை",
+"Èjhjharighghai"
+],
+"Caution": [
+"எச்சரிக்கை",
+"Èjhjharighghai"
+],
+"Exit": [
+"வெளியேறு",
+"Vèḻiyeṟu"
+],
+"Entrance": [
+"நுழைவாயில்",
+"Nul̤aivāyil"
+],
+"Evacuate": [
+"வெளியேற்றம்",
+"Vèḻiyeṟṟaṃ"
+],
+"Assembly point": [
+"சட்டசபை புள்ளி",
+"Jhaḍhḍhajhabhai bhuḻḻi"
+],
+"Do not enter": [
+"நுழைய வேண்டாம்",
+"Nul̤aiya veṇḍhāṃ"
+],
+"No entry": [
+"நுழைவு இல்லை",
+"Nul̤aivu illai"
+],
+"Restricted area": [
+"தடைசெய்யப்பட்ட பகுதி",
+"Dhaḍhaijhèyyabhbhaḍhḍha bhaghudhi"
+],
+"Keep away": [
+"விலகி இருங்கள்",
+"Vilaghi iruṅghaḻ"
+],
+"Do not touch": [
+"தொடாதே",
+"Dhòḍhādhe"
+],
+"High voltage": [
+"உயர் மின்னழுத்தம்",
+"Uyar miṉṉal̤udhdhaṃ"
+],
+"Flammable": [
+"எரியக்கூடியது",
+"Èriyaghghūḍhiyadhu"
+],
+"Toxic": [
+"நச்சுத்தன்மை வாய்ந்தது",
+"Najhjhudhdhaṉmai vāyndhadhu"
+],
+"Corrosive": [
+"அரிக்கும்",
+"Arighghuṃ"
+],
+"Slippery": [
+"வழுக்கும்",
+"Val̤ughghuṃ"
+],
+"Fragile": [
+"உடையக்கூடியது",
+"Uḍhaiyaghghūḍhiyadhu"
+],
+"Handle with care": [
+"கவனத்துடன் கையாளவும்",
+"Ghavaṉadhdhuḍhaṉ ghaiyāḻavuṃ"
+],
+"Emergency exit": [
+"அவசர வெளியேற்றம்",
+"Avajhara vèḻiyeṟṟaṃ"
+],
+"Fire extinguisher": [
+"தீயை அணைக்கும் கருவி",
+"Dhīyai aṇaighghuṃ gharuvi"
+],
+"First aid kit": [
+"முதலுதவி பெட்டி",
+"Mudhaludhavi bhèḍhḍhi"
+],
+"Emergency number": [
+"அவசர எண்",
+"Avajhara èṇ"
+],
+"Helpline": [
+"ஹெல்ப்லைன்",
+"Hèlbhlaiṉ"
+],
+"Lost and found": [
+"தொலைந்து போனது",
+"Dhòlaindhu bhoṉadhu"
+],
+"Missing person": [
+"காணாமல் போனவர்",
+"Ghāṇāmal bhoṉavar"
+],
+"Report to police": [
+"போலீசில் புகார் செய்யுங்கள்",
+"Bholījhil bhughār jhèyyuṅghaḻ"
+],
+"Stay with me": [
+"என்னுடன் இருங்கள்",
+"Èṉṉuḍhaṉ iruṅghaḻ"
+],
+"Everything will be fine": [
+"எல்லாம் சரியாகிவிடும்",
+"Èllāṃ jhariyāghiviḍhuṃ"
+],
+"What time is it?": [
+"மணி என்ன?",
+"Maṇi èṉṉa?"
+],
+"Morning": [
+"காலை",
+"Ghālai"
+],
+"Evening": [
+"மாலை",
+"Mālai"
+],
+"Night": [
+"இரவு",
+"Iravu"
+],
+"Today": [
+"இன்று",
+"Iṉṟu"
+],
+"Tomorrow": [
+"நாளை",
+"Nāḻai"
+],
+"Yesterday": [
+"நேற்று",
+"Neṟṟu"
+],
+"Now": [
+"இப்போது",
+"Ibhbhodhu"
+],
+"Sunday": [
+"ஞாயிறு",
+"Ñāyiṟu"
+],
+"Monday": [
+"திங்கட்கிழமை",
+"Dhiṅghaḍhghil̤amai"
+],
+"Tuesday": [
+"செவ்வாய்",
+"Jhèvvāy"
+],
+"Wednesday": [
+"புதன்",
+"Bhudhaṉ"
+],
+"Thursday": [
+"வியாழன்",
+"Viyāl̤aṉ"
+],
+"Friday": [
+"வெள்ளிக்கிழமை",
+"Vèḻḻighghil̤amai"
+],
+"Saturday": [
+"சனிக்கிழமை",
+"Jhaṉighghil̤amai"
+],
+"Week": [
+"வாரம்",
+"Vāraṃ"
+],
+"Month": [
+"மாதம்",
+"Mādhaṃ"
+],
+"Year": [
+"ஆண்டு",
+"Āṇḍhu"
+],
+"Early morning": [
+"அதிகாலை",
+"Adhighālai"
+],
+"Noon": [
+"நண்பகல்",
+"Naṇbhaghal"
+],
+"Midnight": [
+"நள்ளிரவு",
+"Naḻḻiravu"
+],
+"Hour": [
+"மணி",
+"Maṇi"
+],
+"Minute": [
+"நிமிடம்",
+"Nimiḍhaṃ"
+],
+"Second": [
+"இரண்டாவது",
+"Iraṇḍhāvadhu"
+],
+"Late": [
+"தாமதமானது",
+"Dhāmadhamāṉadhu"
+],
+"Early": [
+"ஆரம்ப",
+"Āraṃbha"
+],
+"Before": [
+"முன்பு",
+"Muṉbhu"
+],
+"After": [
+"பிறகு",
+"Bhiṟaghu"
+],
+"January": [
+"ஜனவரி",
+"Jaṉavari"
+],
+"February": [
+"பிப்ரவரி",
+"Bhibhravari"
+],
+"March": [
+"மார்ச்",
+"Mārjh"
+],
+"April": [
+"ஏப்ரல்",
+"Ebhral"
+],
+"May": [
+"மே",
+"Me"
+],
+"June": [
+"ஜூன்",
+"Jūṉ"
+],
+"July": [
+"ஜூலை",
+"Jūlai"
+],
+"August": [
+"ஆகஸ்ட்",
+"Āghasḍh"
+],
+"September": [
+"செப்டம்பர்",
+"Jhèbhḍhaṃbhar"
+],
+"October": [
+"அக்டோபர்",
+"Aghḍhobhar"
+],
+"November": [
+"நவம்பர்",
+"Navaṃbhar"
+],
+"December": [
+"டிசம்பர்",
+"Ḍhijhaṃbhar"
+],
+"Spring": [
+"வசந்தம்",
+"Vajhandhaṃ"
+],
+"Summer": [
+"கோடை",
+"Ghoḍhai"
+],
+"Monsoon": [
+"பருவமழை",
+"Bharuvamal̤ai"
+],
+"Winter": [
+"குளிர்காலம்",
+"Ghuḻirghālaṃ"
+],
+"Season": [
+"பருவம்",
+"Bharuvaṃ"
+],
+"Holiday": [
+"விடுமுறை",
+"Viḍhumuṟai"
+],
+"Festival": [
+"திருவிழா",
+"Dhiruvil̤ā"
+],
+"Birthday": [
+"பிறந்தநாள்",
+"Bhiṟandhanāḻ"
+],
+"Anniversary": [
+"ஆண்டுவிழா",
+"Āṇḍhuvil̤ā"
+],
+"Appointment": [
+"நியமனம்",
+"Niyamaṉaṃ"
+],
+"Meeting": [
+"கூட்டம்",
+"Ghūḍhḍhaṃ"
+],
+"Deadline": [
+"காலக்கெடு",
+"Ghālaghghèḍhu"
+],
+"Schedule": [
+"அட்டவணை",
+"Aḍhḍhavaṇai"
+],
+"Free time": [
+"இலவச நேரம்",
+"Ilavajha neraṃ"
+],
+"Busy": [
+"பிஸி",
+"Bhisi"
+],
+"Available": [
+"கிடைக்கும்",
+"Ghiḍhaighghuṃ"
+],
+"Not available": [
+"கிடைக்கவில்லை",
+"Ghiḍhaighghavillai"
+],
+"At what time?": [
+"எந்த நேரத்தில்?",
+"Èndha neradhdhil?"
+],
+"Until when?": [
+"எப்போது வரை?",
+"Èbhbhodhu varai?"
+],
+"From when?": [
+"எப்போதிலிருந்து?",
+"Èbhbhodhilirundhu?"
+],
+"How long?": [
+"எவ்வளவு காலம்?",
+"Èvvaḻavu ghālaṃ?"
+],
+"A long time": [
+"நீண்ட நேரம்",
+"Nīṇḍha neraṃ"
+],
+"A short time": [
+"சிறிது நேரம்",
+"Jhiṟidhu neraṃ"
+],
+"Just now": [
+"இப்போதுதான்",
+"Ibhbhodhudhāṉ"
+],
+"A while ago": [
+"சற்று முன்",
+"Jhaṟṟu muṉ"
+],
+"In a moment": [
+"ஒரு கணத்தில்",
+"Òru ghaṇadhdhil"
+],
+"Wait a minute": [
+"ஒரு நிமிடம் பொறுங்கள்",
+"Òru nimiḍhaṃ bhòṟuṅghaḻ"
+],
+"See you later": [
+"பிறகு பார்க்கலாம்",
+"Bhiṟaghu bhārghghalāṃ"
+],
+"See you tomorrow": [
+"நாளை சந்திப்போம்",
+"Nāḻai jhandhibhbhoṃ"
+],
+"See you next week": [
+"அடுத்த வாரம் சந்திப்போம்",
+"Aḍhudhdha vāraṃ jhandhibhbhoṃ"
+],
+"Every day": [
+"ஒவ்வொரு நாளும்",
+"Òvvòru nāḻuṃ"
+],
+"Every week": [
+"ஒவ்வொரு வாரமும்",
+"Òvvòru vāramuṃ"
+],
+"Once a week": [
+"வாரம் ஒருமுறை",
+"Vāraṃ òrumuṟai"
+],
+"Twice a day": [
+"ஒரு நாளைக்கு இரண்டு முறை",
+"Òru nāḻaighghu iraṇḍhu muṟai"
+],
+"All day": [
+"நாள் முழுவதும்",
+"Nāḻ mul̤uvadhuṃ"
+],
+"All night": [
+"இரவு முழுவதும்",
+"Iravu mul̤uvadhuṃ"
+],
+"Day after tomorrow": [
+"நாளை மறுநாள்",
+"Nāḻai maṟunāḻ"
+],
+"Day before yesterday": [
+"நேற்று முன் தினம்",
+"Neṟṟu muṉ dhiṉaṃ"
+],
+"Next month": [
+"அடுத்த மாதம்",
+"Aḍhudhdha mādhaṃ"
+],
+"Last month": [
+"கடந்த மாதம்",
+"Ghaḍhandha mādhaṃ"
+],
+"Next year": [
+"அடுத்த வருடம்",
+"Aḍhudhdha varuḍhaṃ"
+],
+"Last year": [
+"கடந்த ஆண்டு",
+"Ghaḍhandha āṇḍhu"
+],
+"In the past": [
+"கடந்த காலத்தில்",
+"Ghaḍhandha ghāladhdhil"
+],
+"In the future": [
+"எதிர்காலத்தில்",
+"Èdhirghāladhdhil"
+],
+"At present": [
+"தற்போது",
+"Dhaṟbhodhu"
+],
+"From now on": [
+"இனிமேல்",
+"Iṉimel"
+],
+"So far": [
+"இதுவரை",
+"Idhuvarai"
+],
+"For a long time": [
+"நீண்ட காலமாக",
+"Nīṇḍha ghālamāgha"
+],
+"Yes": [
+"ஆம்",
+"Āṃ"
+],
+"No": [
+"இல்லை",
+"Illai"
+],
+"Please speak slowly": [
+"தயவுசெய்து மெதுவாக பேசுங்கள்",
+"Dhayavujhèydhu mèdhuvāgha bhejhuṅghaḻ"
+],
+"I don't understand": [
+"எனக்கு புரியவில்லை",
+"Èṉaghghu bhuriyavillai"
+],
+"Do you speak Maithili?": [
+"மைதிலி பேசுகிறாயா?",
+"Maidhili bhejhughiṟāyā?"
+],
+"No problem": [
+"பிரச்சனை இல்லை",
+"Bhirajhjhaṉai illai"
+],
+"I agree": [
+"நான் ஒப்புக்கொள்கிறேன்",
+"Nāṉ òbhbhughghòḻghiṟeṉ"
+],
+"Come in": [
+"உள்ளே வா",
+"Uḻḻe vā"
+],
+"Have you eaten?": [
+"நீங்கள் சாப்பிட்டீர்களா?",
+"Nīṅghaḻ jhābhbhiḍhḍhīrghaḻā?"
+],
+"We are happy": [
+"நாங்கள் மகிழ்ச்சியாக இருக்கிறோம்",
+"Nāṅghaḻ maghil̤jhjhiyāgha irughghiṟoṃ"
+],
+"Maybe": [
+"இருக்கலாம்",
+"Irughghalāṃ"
+],
+"Of course": [
+"நிச்சயமாக",
+"Nijhjhayamāgha"
+],
+"Certainly": [
+"நிச்சயமாக",
+"Nijhjhayamāgha"
+],
+"I think so": [
+"நான் நினைக்கிறேன்",
+"Nāṉ niṉaighghiṟeṉ"
+],
+"I don't think so": [
+"நான் அப்படி நினைக்கவில்லை",
+"Nāṉ abhbhaḍhi niṉaighghavillai"
+],
+"I hope so": [
+"நான் நம்புகிறேன்",
+"Nāṉ naṃbhughiṟeṉ"
+],
+"I am not sure": [
+"நான் உறுதியாக தெரியவில்லை",
+"Nāṉ uṟudhiyāgha dhèriyavillai"
+],
+"It depends": [
+"இது சார்ந்துள்ளது",
+"Idhu jhārndhuḻḻadhu"
+],
+"That is right": [
+"அது சரிதான்",
+"Adhu jharidhāṉ"
+],
+"That is wrong": [
+"அது தவறு",
+"Adhu dhavaṟu"
+],
+"I see": [
+"நான் பார்க்கிறேன்",
+"Nāṉ bhārghghiṟeṉ"
+],
+"Really?": [
+"உண்மையில்?",
+"Uṇmaiyil?"
+],
+"Are you sure?": [
+"நீங்கள் உறுதியாக இருக்கிறீர்களா?",
+"Nīṅghaḻ uṟudhiyāgha irughghiṟīrghaḻā?"
+],
+"Why not?": [
+"ஏன் இல்லை?",
+"Eṉ illai?"
+],
+"What for?": [
+"எதற்கு?",
+"Èdhaṟghu?"
+],
+"Never mind": [
+"பரவாயில்லை",
+"Bharavāyillai"
+],
+"It does not matter": [
+"அது முக்கியமில்லை",
+"Adhu mughghiyamillai"
+],
+"Same here": [
+"இங்கேயும் அதே",
+"Iṅgheyuṃ adhe"
+],
+"Me too": [
+"நானும்",
+"Nāṉuṃ"
+],
+"Neither do I": [
+"நானும் இல்லை",
+"Nāṉuṃ illai"
+],
+"Let me see": [
+"நான் பார்க்கிறேன்",
+"Nāṉ bhārghghiṟeṉ"
+],
+"Let us go": [
+"நாம் போகலாம்",
+"Nāṃ bhoghalāṃ"
+],
+"Wait": [
+"காத்திருங்கள்",
+"Ghādhdhiruṅghaḻ"
+],
+"Hold on": [
+"பொறுங்கள்",
+"Bhòṟuṅghaḻ"
+],
+"Just a second": [
+"ஒரு நொடி",
+"Òru nòḍhi"
+],
+"One moment": [
+"ஒரு கணம்",
+"Òru ghaṇaṃ"
+],
+"As you wish": [
+"நீங்கள் விரும்பியபடி",
+"Nīṅghaḻ viruṃbhiyabhaḍhi"
+],
+"Whatever you say": [
+"என்ன சொன்னாலும்",
+"Èṉṉa jhòṉṉāluṃ"
+],
+"I have no idea": [
+"எனக்கு எதுவும் தெரியாது",
+"Èṉaghghu èdhuvuṃ dhèriyādhu"
+],
+"I forgot": [
+"மறந்துவிட்டேன்",
+"Maṟandhuviḍhḍheṉ"
+],
+"I remember": [
+"எனக்கு நினைவிருக்கிறது",
+"Èṉaghghu niṉaivirughghiṟadhu"
+],
+"It slipped my mind": [
+"அது என் மனதை நழுவ விட்டது",
+"Adhu èṉ maṉadhai nal̤uva viḍhḍhadhu"
+],
+"Remind me": [
+"எனக்கு நினைவூட்டு",
+"Èṉaghghu niṉaivūḍhḍhu"
+],
+"I mean": [
+"அதாவது",
+"Adhāvadhu"
+],
+"I mean it": [
+"நான் சொல்கிறேன்",
+"Nāṉ jhòlghiṟeṉ"
+],
+"What I mean is": [
+"நான் சொல்வது என்னவென்றால்",
+"Nāṉ jhòlvadhu èṉṉavèṉṟāl"
+],
+"In other words": [
+"வேறு வார்த்தைகளில் கூறுவதானால்",
+"Veṟu vārdhdhaighaḻil ghūṟuvadhāṉāl"
+],
+"That is to say": [
+"என்று சொல்ல வேண்டும்",
+"Èṉṟu jhòlla veṇḍhuṃ"
+],
+"For example": [
+"உதாரணமாக",
+"Udhāraṇamāgha"
+],
+"Such as": [
+"போன்ற",
+"Bhoṉṟa"
+],
+"And so on": [
+"மற்றும் பல",
+"Maṟṟuṃ bhala"
+],
+"Et cetera": [
+"மற்றும் பல",
+"Maṟṟuṃ bhala"
+],
+"And so forth": [
+"மற்றும் முன்னும் பின்னுமாக",
+"Maṟṟuṃ muṉṉuṃ bhiṉṉumāgha"
+],
+"By the way": [
+"மூலம்",
+"Mūlaṃ"
+],
+"Speaking of which": [
+"பேசுவது",
+"Bhejhuvadhu"
+],
+"Anyway": [
+"எப்படியும்",
+"Èbhbhaḍhiyuṃ"
+],
+"Anyhow": [
+"எப்படியும்",
+"Èbhbhaḍhiyuṃ"
+],
+"Actually": [
+"உண்மையில்",
+"Uṇmaiyil"
+],
+"Basically": [
+"அடிப்படையில்",
+"Aḍhibhbhaḍhaiyil"
+],
+"To be honest": [
+"நேர்மையாக இருக்க வேண்டும்",
+"Nermaiyāgha irughgha veṇḍhuṃ"
+],
+"To tell the truth": [
+"உண்மையைச் சொல்ல வேண்டும்",
+"Uṇmaiyaijh jhòlla veṇḍhuṃ"
+],
+"Frankly": [
+"வெளிப்படையாக",
+"Vèḻibhbhaḍhaiyāgha"
+],
+"Honestly": [
+"நேர்மையாக",
+"Nermaiyāgha"
+],
+"Believe me": [
+"என்னை நம்புங்கள்",
+"Èṉṉai naṃbhuṅghaḻ"
+],
+"Trust me": [
+"என்னை நம்புங்கள்",
+"Èṉṉai naṃbhuṅghaḻ"
+],
+"I promise": [
+"நான் உறுதியளிக்கிறேன்",
+"Nāṉ uṟudhiyaḻighghiṟeṉ"
+],
+"I swear": [
+"நான் சத்தியம் செய்கிறேன்",
+"Nāṉ jhadhdhiyaṃ jhèyghiṟeṉ"
+],
+"No way": [
+"வழி இல்லை",
+"Val̤i illai"
+],
+"No doubt": [
+"சந்தேகமில்லை",
+"Jhandheghamillai"
+],
+"No wonder": [
+"ஆச்சரியப்படுவதற்கில்லை",
+"Ājhjhariyabhbhaḍhuvadhaṟghillai"
+],
+"No kidding": [
+"கிண்டல் இல்லை",
+"Ghiṇḍhal illai"
+],
+"Just kidding": [
+"சும்மா கிண்டல்",
+"Jhuṃmā ghiṇḍhal"
+],
+"I am joking": [
+"நான் கேலி செய்கிறேன்",
+"Nāṉ gheli jhèyghiṟeṉ"
+],
+"Seriously": [
+"தீவிரமாக",
+"Dhīviramāgha"
+],
+"Are you serious?": [
+"நீங்கள் தீவிரமாக இருக்கிறீர்களா?",
+"Nīṅghaḻ dhīviramāgha irughghiṟīrghaḻā?"
+],
+"I am serious": [
+"நான் தீவிரமாக இருக்கிறேன்",
+"Nāṉ dhīviramāgha irughghiṟeṉ"
+],
+"Sounds good": [
+"நன்றாக இருக்கிறது",
+"Naṉṟāgha irughghiṟadhu"
+],
+"Looks good": [
+"நன்றாக இருக்கிறது",
+"Naṉṟāgha irughghiṟadhu"
+],
+"Feels good": [
+"நன்றாக உணர்கிறேன்",
+"Naṉṟāgha uṇarghiṟeṉ"
+],
+"Good idea": [
+"நல்ல யோசனை",
+"Nalla yojhaṉai"
+],
+"Bad idea": [
+"மோசமான யோசனை",
+"Mojhamāṉa yojhaṉai"
+],
+"Great idea": [
+"அருமையான யோசனை",
+"Arumaiyāṉa yojhaṉai"
+],
+"Not bad": [
+"மோசமாக இல்லை",
+"Mojhamāgha illai"
+],
+"Not bad at all": [
+"மோசமாக இல்லை",
+"Mojhamāgha illai"
+],
+"Could be better": [
+"சிறப்பாக இருக்கலாம்",
+"Jhiṟabhbhāgha irughghalāṃ"
+],
+"Could be worse": [
+"மோசமாக இருக்கலாம்",
+"Mojhamāgha irughghalāṃ"
+],
+"So so": [
+"அதனால்",
+"Adhaṉāl"
+],
+"Same as usual": [
+"வழக்கம் போல்",
+"Val̤aghghaṃ bhol"
+],
+"Nothing special": [
+"சிறப்பு எதுவும் இல்லை",
+"Jhiṟabhbhu èdhuvuṃ illai"
+],
+"Name": [
+"பெயர்",
+"Bhèyar"
+],
+"Good": [
+"நல்லது",
+"Nalladhu"
+],
+"Bad": [
+"மோசமான",
+"Mojhamāṉa"
+],
+"Fine": [
+"நன்றாக",
+"Naṉṟāgha"
+],
+"Well": [
+"சரி",
+"Jhari"
+],
+"Kind": [
+"வகையான",
+"Vaghaiyāṉa"
+],
+"Polite": [
+"கண்ணியமான",
+"Ghaṇṇiyamāṉa"
+],
+"Respect": [
+"மரியாதை",
+"Mariyādhai"
+],
+"Love": [
+"அன்பு",
+"Aṉbhu"
+],
+"Friend": [
+"நண்பர்",
+"Naṇbhar"
+],
+"Guest": [
+"விருந்தினர்",
+"Virundhiṉar"
+],
+"Host": [
+"புரவலன்",
+"Bhuravalaṉ"
+],
+"Greeting": [
+"வணக்கம்",
+"Vaṇaghghaṃ"
+],
+"Farewell": [
+"பிரியாவிடை",
+"Bhiriyāviḍhai"
+],
+"Blessing": [
+"ஆசீர்வாதம்",
+"Ājhīrvādhaṃ"
+],
+"Wish": [
+"ஆசை",
+"Ājhai"
+],
+"Gratitude": [
+"நன்றியுணர்வு",
+"Naṉṟiyuṇarvu"
+],
+"Apology": [
+"மன்னிப்பு",
+"Maṉṉibhbhu"
+],
+"Excuse": [
+"மன்னிக்கவும்",
+"Maṉṉighghavuṃ"
+],
+"Pardon": [
+"மன்னிக்கவும்",
+"Maṉṉighghavuṃ"
+],
+"Courtesy": [
+"உபயம்",
+"Ubhayaṃ"
+],
+"Happy": [
+"மகிழ்ச்சி",
+"Maghil̤jhjhi"
+],
+"Sad": [
+"வருத்தம்",
+"Varudhdhaṃ"
+],
+"Angry": [
+"கோபம்",
+"Ghobhaṃ"
+],
+"Calm": [
+"அமைதி",
+"Amaidhi"
+],
+"Nervous": [
+"நரம்புத்தளர்ச்சி",
+"Naraṃbhudhdhaḻarjhjhi"
+],
+"Excited": [
+"உற்சாகம்",
+"Uṟjhāghaṃ"
+],
+"Bored": [
+"போரடித்தது",
+"Bhoraḍhidhdhadhu"
+],
+"Tired": [
+"சோர்வாக",
+"Jhorvāgha"
+],
+"Relaxed": [
+"நிதானமாக",
+"Nidhāṉamāgha"
+],
+"Worried": [
+"கவலை",
+"Ghavalai"
+],
+"Proud": [
+"பெருமை",
+"Bhèrumai"
+],
+"Shy": [
+"கூச்சம்",
+"Ghūjhjhaṃ"
+],
+"Brave": [
+"துணிச்சலான",
+"Dhuṇijhjhalāṉa"
+],
+"Honest": [
+"நேர்மையானவர்",
+"Nermaiyāṉavar"
+],
+"Lazy": [
+"சோம்பேறி",
+"Jhoṃbheṟi"
+],
+"Active": [
+"செயலில்",
+"Jhèyalil"
+],
+"Clever": [
+"புத்திசாலி",
+"Bhudhdhijhāli"
+],
+"Stupid": [
+"முட்டாள்",
+"Muḍhḍhāḻ"
+],
+"Wise": [
+"புத்திசாலி",
+"Bhudhdhijhāli"
+],
+"Foolish": [
+"முட்டாள்",
+"Muḍhḍhāḻ"
+],
+"Smart": [
+"புத்திசாலி",
+"Bhudhdhijhāli"
+],
+"Kindness": [
+"இரக்கம்",
+"Iraghghaṃ"
+],
+"Cruel": [
+"கொடூரமானது",
+"Ghòḍhūramāṉadhu"
+],
+"Gentle": [
+"மென்மையான",
+"Mèṉmaiyāṉa"
+],
+"Rude": [
+"முரட்டுத்தனமான",
+"Muraḍhḍhudhdhaṉamāṉa"
+],
+"Friendly": [
+"நட்பு",
+"Naḍhbhu"
+],
+"Enemy": [
+"எதிரி",
+"Èdhiri"
+],
+"Stranger": [
+"அந்நியன்",
+"Anniyaṉ"
+],
+"Neighbour": [
+"பக்கத்து வீட்டுக்காரர்",
+"Bhaghghadhdhu vīḍhḍhughghārar"
+],
+"Parting": [
+"பிரிதல்",
+"Bhiridhal"
+],
+"Introduction": [
+"அறிமுகம்",
+"Aṟimughaṃ"
+],
+"Handshake": [
+"கைகுலுக்கல்",
+"Ghaighulughghal"
+],
+"Hug": [
+"கட்டிப்பிடி",
+"Ghaḍhḍhibhbhiḍhi"
+],
+"Bow": [
+"வில்",
+"Vil"
+],
+"Wave": [
+"அலை",
+"Alai"
+],
+"Smile": [
+"புன்னகை",
+"Bhuṉṉaghai"
+],
+"Laugh": [
+"சிரிக்கவும்",
+"Jhirighghavuṃ"
+],
+"Cry": [
+"அழுக",
+"Al̤ugha"
+],
+"Gesture": [
+"சைகை",
+"Jhaighai"
+],
+"Manner": [
+"முறை",
+"Muṟai"
+],
+"Custom": [
+"தனிப்பயன்",
+"Dhaṉibhbhayaṉ"
+],
+"Tradition": [
+"பாரம்பரியம்",
+"Bhāraṃbhariyaṃ"
+],
+"Culture": [
+"கலாச்சாரம்",
+"Ghalājhjhāraṃ"
+],
+"Etiquette": [
+"ஆசாரம்",
+"Ājhāraṃ"
+],
+"Formal": [
+"முறையான",
+"Muṟaiyāṉa"
+],
+"Informal": [
+"முறைசாரா",
+"Muṟaijhārā"
+],
+"Casual": [
+"சாதாரண",
+"Jhādhāraṇa"
+],
+"Respectful": [
+"மரியாதைக்குரியவர்",
+"Mariyādhaighghuriyavar"
+],
+"Humble": [
+"அடக்கம்",
+"Aḍhaghghaṃ"
+],
+"Modest": [
+"அடக்கமான",
+"Aḍhaghghamāṉa"
+],
+"Generous": [
+"பெருந்தன்மை உடையவர்",
+"Bhèrundhaṉmai uḍhaiyavar"
+],
+"Selfish": [
+"சுயநலவாதி",
+"Jhuyanalavādhi"
+],
+"Grateful": [
+"நன்றியுடையவன்",
+"Naṉṟiyuḍhaiyavaṉ"
+],
+"Ungrateful": [
+"நன்றியற்றவர்",
+"Naṉṟiyaṟṟavar"
+],
+"Thoughtful": [
+"சிந்தனை மிக்கவர்",
+"Jhindhaṉai mighghavar"
+],
+"Careless": [
+"கவனக்குறைவு",
+"Ghavaṉaghghuṟaivu"
+],
+"Street": [
+"தெரு",
+"Dhèru"
+],
+"Left": [
+"விட்டு",
+"Viḍhḍhu"
+],
+"Right": [
+"சரி",
+"Jhari"
+],
+"Here": [
+"இங்கே",
+"Iṅghe"
+],
+"There": [
+"அங்கு",
+"Aṅghu"
+],
+"Near": [
+"அருகில்",
+"Arughil"
+],
+"Far": [
+"தூரம்",
+"Dhūraṃ"
+],
+"North": [
+"வடக்கு",
+"Vaḍhaghghu"
+],
+"South": [
+"தெற்கு",
+"Dhèṟghu"
+],
+"East": [
+"கிழக்கு",
+"Ghil̤aghghu"
+],
+"West": [
+"மேற்கு",
+"Meṟghu"
+],
+"Road": [
+"சாலை",
+"Jhālai"
+],
+"Path": [
+"பாதை",
+"Bhādhai"
+],
+"Bridge": [
+"பாலம்",
+"Bhālaṃ"
+],
+"Crossing": [
+"கடக்கிறது",
+"Ghaḍhaghghiṟadhu"
+],
+"Corner": [
+"மூலை",
+"Mūlai"
+],
+"Straight": [
+"நேராக",
+"Nerāgha"
+],
+"Back": [
+"மீண்டும்",
+"Mīṇḍhuṃ"
+],
+"Front": [
+"முன்",
+"Muṉ"
+],
+"Side": [
+"பக்கம்",
+"Bhaghghaṃ"
+],
+"Behind": [
+"பின்னால்",
+"Bhiṉṉāl"
+],
+"Between": [
+"இடையில்",
+"Iḍhaiyil"
+],
+"Opposite": [
+"எதிர்",
+"Èdhir"
+],
+"Next to": [
+"அடுத்து",
+"Aḍhudhdhu"
+],
+"Above": [
+"மேலே",
+"Mele"
+],
+"Below": [
+"கீழே",
+"Ghīl̤e"
+],
+"Inside": [
+"உள்ளே",
+"Uḻḻe"
+],
+"Outside": [
+"வெளியே",
+"Vèḻiye"
+],
+"Distance": [
+"தூரம்",
+"Dhūraṃ"
+],
+"Direction": [
+"திசை",
+"Dhijhai"
+],
+"Bus": [
+"பேருந்து",
+"Bherundhu"
+],
+"Train": [
+"ரயில்",
+"Rayil"
+],
+"Car": [
+"கார்",
+"Ghār"
+],
+"Taxi": [
+"டாக்ஸி",
+"Ḍhāghsi"
+],
+"Bicycle": [
+"சைக்கிள்",
+"Jhaighghiḻ"
+],
+"Motorcycle": [
+"மோட்டார் சைக்கிள்",
+"Moḍhḍhār jhaighghiḻ"
+],
+"Boat": [
+"படகு",
+"Bhaḍhaghu"
+],
+"Ship": [
+"கப்பல்",
+"Ghabhbhal"
+],
+"Plane": [
+"விமானம்",
+"Vimāṉaṃ"
+],
+"Ticket": [
+"டிக்கெட்",
+"Ḍhighghèḍh"
+],
+"Station": [
+"நிலையம்",
+"Nilaiyaṃ"
+],
+"Port": [
+"துறைமுகம்",
+"Dhuṟaimughaṃ"
+],
+"Luggage": [
+"சாமான்கள்",
+"Jhāmāṉghaḻ"
+],
+"Bag": [
+"பை",
+"Bhai"
+],
+"Visa": [
+"விசா",
+"Vijhā"
+],
+"Map": [
+"வரைபடம்",
+"Varaibhaḍhaṃ"
+],
+"Guide": [
+"வழிகாட்டி",
+"Val̤ighāḍhḍhi"
+],
+"Tour": [
+"சுற்றுப்பயணம்",
+"Jhuṟṟubhbhayaṇaṃ"
+],
+"Trip": [
+"பயணம்",
+"Bhayaṇaṃ"
+],
+"Journey": [
+"பயணம்",
+"Bhayaṇaṃ"
+],
+"Travel": [
+"பயணம்",
+"Bhayaṇaṃ"
+],
+"Visit": [
+"வருகை",
+"Varughai"
+],
+"Return": [
+"திரும்பு",
+"Dhiruṃbhu"
+],
+"Depart": [
+"புறப்படு",
+"Bhuṟabhbhaḍhu"
+],
+"Arrive": [
+"வந்தடையும்",
+"Vandhaḍhaiyuṃ"
+],
+"Board": [
+"பலகை",
+"Bhalaghai"
+],
+"Get off": [
+"இறங்கு",
+"Iṟaṅghu"
+],
+"Hotel": [
+"ஹோட்டல்",
+"Hoḍhḍhal"
+],
+"Room": [
+"அறை",
+"Aṟai"
+],
+"Booking": [
+"முன்பதிவு",
+"Muṉbhadhivu"
+],
+"Reservation": [
+"இட ஒதுக்கீடு",
+"Iḍha òdhughghīḍhu"
+],
+"Check-in": [
+"செக்-இன்",
+"Jhègh-iṉ"
+],
+"Check-out": [
+"செக்-அவுட்",
+"Jhègh-avuḍh"
+],
+"Single room": [
+"ஒற்றை அறை",
+"Òṟṟai aṟai"
+],
+"Double room": [
+"இரட்டை அறை",
+"Iraḍhḍhai aṟai"
+],
+"Key": [
+"முக்கிய",
+"Mughghiya"
+],
+"Reception": [
+"வரவேற்பு",
+"Varaveṟbhu"
+],
+"Lift": [
+"தூக்கு",
+"Dhūghghu"
+],
+"Floor": [
+"மாடி",
+"Māḍhi"
+],
+"Parking": [
+"பார்க்கிங்",
+"Bhārghghiṅ"
+],
+"View": [
+"காண்க",
+"Ghāṇgha"
+],
+"Balcony": [
+"பால்கனி",
+"Bhālghaṉi"
+],
+"Restaurant": [
+"உணவகம்",
+"Uṇavaghaṃ"
+],
+"WiFi": [
+"வைஃபை",
+"Vaifai"
+],
+"Scenic": [
+"இயற்கைக்காட்சி",
+"Iyaṟghaighghāḍhjhi"
+],
+"Famous": [
+"பிரபலம்",
+"Bhirabhalaṃ"
+],
+"Local": [
+"உள்ளூர்",
+"Uḻḻūr"
+],
+"Foreign": [
+"வெளிநாட்டு",
+"Vèḻināḍhḍhu"
+],
+"Domestic": [
+"உள்நாட்டு",
+"Uḻnāḍhḍhu"
+],
+"International": [
+"சர்வதேசம்",
+"Jharvadhejhaṃ"
+],
+"Border": [
+"எல்லை",
+"Èllai"
+],
+"Immigration": [
+"குடியேற்றம்",
+"Ghuḍhiyeṟṟaṃ"
+],
+"Rice": [
+"அரிசி",
+"Arijhi"
+],
+"Lentils": [
+"பருப்பு",
+"Bharubhbhu"
+],
+"Bread": [
+"ரொட்டி",
+"Ròḍhḍhi"
+],
+"Salt": [
+"உப்பு",
+"Ubhbhu"
+],
+"Sugar": [
+"சர்க்கரை",
+"Jharghgharai"
+],
+"Milk": [
+"பால்",
+"Bhāl"
+],
+"Vegetable": [
+"காய்கறி",
+"Ghāyghaṟi"
+],
+"Fruit": [
+"பழம்",
+"Bhal̤aṃ"
+],
+"Meat": [
+"இறைச்சி",
+"Iṟaijhjhi"
+],
+"Fish": [
+"மீன்",
+"Mīṉ"
+],
+"Oil": [
+"எண்ணெய்",
+"Èṇṇèy"
+],
+"Spice": [
+"மசாலா",
+"Majhālā"
+],
+"Curry": [
+"கறி",
+"Ghaṟi"
+],
+"Meal": [
+"சாப்பாடு",
+"Jhābhbhāḍhu"
+],
+"Taste": [
+"சுவை",
+"Jhuvai"
+],
+"Hunger": [
+"பசி",
+"Bhajhi"
+],
+"Thirst": [
+"தாகம்",
+"Dhāghaṃ"
+],
+"Onion": [
+"வெங்காயம்",
+"Vèṅghāyaṃ"
+],
+"Garlic": [
+"பூண்டு",
+"Bhūṇḍhu"
+],
+"Tomato": [
+"தக்காளி",
+"Dhaghghāḻi"
+],
+"Potato": [
+"உருளைக்கிழங்கு",
+"Uruḻaighghil̤aṅghu"
+],
+"Carrot": [
+"கேரட்",
+"Gheraḍh"
+],
+"Peas": [
+"பட்டாணி",
+"Bhaḍhḍhāṇi"
+],
+"Beans": [
+"பீன்ஸ்",
+"Bhīṉs"
+],
+"Spinach": [
+"கீரை",
+"Ghīrai"
+],
+"Cabbage": [
+"முட்டைக்கோஸ்",
+"Muḍhḍhaighghos"
+],
+"Cauliflower": [
+"காலிஃபிளவர்",
+"Ghālifiḻavar"
+],
+"Brinjal": [
+"கத்தரிக்காய்",
+"Ghadhdharighghāy"
+],
+"Cucumber": [
+"வெள்ளரிக்காய்",
+"Vèḻḻarighghāy"
+],
+"Radish": [
+"முள்ளங்கி",
+"Muḻḻaṅghi"
+],
+"Ginger": [
+"இஞ்சி",
+"Iñjhi"
+],
+"Chilli": [
+"மிளகாய்",
+"Miḻaghāy"
+],
+"Lemon": [
+"எலுமிச்சை",
+"Èlumijhjhai"
+],
+"Coconut": [
+"தேங்காய்",
+"Dheṅghāy"
+],
+"Banana": [
+"வாழைப்பழம்",
+"Vāl̤aibhbhal̤aṃ"
+],
+"Mango": [
+"மாம்பழம்",
+"Māṃbhal̤aṃ"
+],
+"Apple": [
+"ஆப்பிள்",
+"Ābhbhiḻ"
+],
+"Orange": [
+"ஆரஞ்சு",
+"Ārañjhu"
+],
+"Grape": [
+"திராட்சை",
+"Dhirāḍhjhai"
+],
+"Papaya": [
+"பப்பாளி",
+"Bhabhbhāḻi"
+],
+"Guava": [
+"கொய்யா",
+"Ghòyyā"
+],
+"Pomegranate": [
+"மாதுளை",
+"Mādhuḻai"
+],
+"Watermelon": [
+"தர்பூசணி",
+"Dharbhūjhaṇi"
+],
+"Dates": [
+"தேதிகள்",
+"Dhedhighaḻ"
+],
+"Dry fruit": [
+"உலர் பழம்",
+"Ular bhal̤aṃ"
+],
+"Honey": [
+"தேன்",
+"Dheṉ"
+],
+"Cook": [
+"சமைக்கவும்",
+"Jhamaighghavuṃ"
+],
+"Eat": [
+"சாப்பிடு",
+"Jhābhbhiḍhu"
+],
+"Drink": [
+"குடிக்கவும்",
+"Ghuḍhighghavuṃ"
+],
+"Rotten": [
+"அழுகிய",
+"Al̤ughiya"
+],
+"Baked": [
+"சுட்டது",
+"Jhuḍhḍhadhu"
+],
+"Recipe": [
+"செய்முறை",
+"Jhèymuṟai"
+],
+"Kitchen": [
+"சமையலறை",
+"Jhamaiyalaṟai"
+],
+"Stove": [
+"அடுப்பு",
+"Aḍhubhbhu"
+],
+"Plate": [
+"தட்டு",
+"Dhaḍhḍhu"
+],
+"Spoon": [
+"கரண்டி",
+"Gharaṇḍhi"
+],
+"Fork": [
+"முட்கரண்டி",
+"Muḍhgharaṇḍhi"
+],
+"Knife": [
+"கத்தி",
+"Ghadhdhi"
+],
+"Cup": [
+"கோப்பை",
+"Ghobhbhai"
+],
+"Glass": [
+"கண்ணாடி",
+"Ghaṇṇāḍhi"
+],
+"Bottle": [
+"பாட்டில்",
+"Bhāḍhḍhil"
+],
+"Dish": [
+"டிஷ்",
+"Ḍhiṣ"
+],
+"Menu": [
+"மெனு",
+"Mèṉu"
+],
+"Bill": [
+"பில்",
+"Bhil"
+],
+"Head": [
+"தலை",
+"Dhalai"
+],
+"Eye": [
+"கண்",
+"Ghaṇ"
+],
+"Hand": [
+"கை",
+"Ghai"
+],
+"Foot": [
+"கால்",
+"Ghāl"
+],
+"Heart": [
+"இதயம்",
+"Idhayaṃ"
+],
+"Face": [
+"முகம்",
+"Mughaṃ"
+],
+"Hair": [
+"முடி",
+"Muḍhi"
+],
+"Stomach": [
+"வயிறு",
+"Vayiṟu"
+],
+"Neck": [
+"கழுத்து",
+"Ghal̤udhdhu"
+],
+"Ear": [
+"காது",
+"Ghādhu"
+],
+"Nose": [
+"மூக்கு",
+"Mūghghu"
+],
+"Mouth": [
+"வாய்",
+"Vāy"
+],
+"Lip": [
+"உதடு",
+"Udhaḍhu"
+],
+"Tooth": [
+"பல்",
+"Bhal"
+],
+"Tongue": [
+"நாக்கு",
+"Nāghghu"
+],
+"Cheek": [
+"கன்னத்தில்",
+"Ghaṉṉadhdhil"
+],
+"Chin": [
+"கன்னம்",
+"Ghaṉṉaṃ"
+],
+"Forehead": [
+"நெற்றி",
+"Nèṟṟi"
+],
+"Eyebrow": [
+"புருவம்",
+"Bhuruvaṃ"
+],
+"Eyelash": [
+"கண் இமை",
+"Ghaṇ imai"
+],
+"Shoulder": [
+"தோள்பட்டை",
+"Dhoḻbhaḍhḍhai"
+],
+"Arm": [
+"கை",
+"Ghai"
+],
+"Elbow": [
+"முழங்கை",
+"Mul̤aṅghai"
+],
+"Wrist": [
+"மணிக்கட்டு",
+"Maṇighghaḍhḍhu"
+],
+"Finger": [
+"விரல்",
+"Viral"
+],
+"Thumb": [
+"கட்டைவிரல்",
+"Ghaḍhḍhaiviral"
+],
+"Nail": [
+"ஆணி",
+"Āṇi"
+],
+"Chest": [
+"மார்பு",
+"Mārbhu"
+],
+"Waist": [
+"இடுப்பு",
+"Iḍhubhbhu"
+],
+"Hip": [
+"இடுப்பு",
+"Iḍhubhbhu"
+],
+"Thigh": [
+"தொடை",
+"Dhòḍhai"
+],
+"Knee": [
+"முழங்கால்",
+"Mul̤aṅghāl"
+],
+"Leg": [
+"கால்",
+"Ghāl"
+],
+"Ankle": [
+"கணுக்கால்",
+"Ghaṇughghāl"
+],
+"Heel": [
+"குதிகால்",
+"Ghudhighāl"
+],
+"Skin": [
+"தோல்",
+"Dhol"
+],
+"Bone": [
+"எலும்பு",
+"Èluṃbhu"
+],
+"Muscle": [
+"தசை",
+"Dhajhai"
+],
+"Brain": [
+"மூளை",
+"Mūḻai"
+],
+"Liver": [
+"கல்லீரல்",
+"Ghallīral"
+],
+"Lung": [
+"நுரையீரல்",
+"Nuraiyīral"
+],
+"Kidney": [
+"சிறுநீரகம்",
+"Jhiṟunīraghaṃ"
+],
+"Pain": [
+"வலி",
+"Vali"
+],
+"Fever": [
+"காய்ச்சல்",
+"Ghāyjhjhal"
+],
+"Cough": [
+"இருமல்",
+"Irumal"
+],
+"Healthy": [
+"ஆரோக்கியமான",
+"Āroghghiyamāṉa"
+],
+"Sick": [
+"உடம்பு சரியில்லை",
+"Uḍhaṃbhu jhariyillai"
+],
+"Hospital": [
+"மருத்துவமனை",
+"Marudhdhuvamaṉai"
+],
+"Breath": [
+"மூச்சு",
+"Mūjhjhu"
+],
+"Pulse": [
+"துடிப்பு",
+"Dhuḍhibhbhu"
+],
+"Sweat": [
+"வியர்வை",
+"Viyarvai"
+],
+"Tear": [
+"கண்ணீர்",
+"Ghaṇṇīr"
+],
+"Voice": [
+"குரல்",
+"Ghural"
+],
+"Touch": [
+"தொடவும்",
+"Dhòḍhavuṃ"
+],
+"See": [
+"பார்க்கவும்",
+"Bhārghghavuṃ"
+],
+"Hear": [
+"கேள்",
+"Gheḻ"
+],
+"Smell": [
+"வாசனை",
+"Vājhaṉai"
+],
+"Feel": [
+"உணருங்கள்",
+"Uṇaruṅghaḻ"
+],
+"Walk": [
+"நடக்கவும்",
+"Naḍhaghghavuṃ"
+],
+"Run": [
+"ஓடவும்",
+"Oḍhavuṃ"
+],
+"Sit": [
+"உட்காருங்கள்",
+"Uḍhghāruṅghaḻ"
+],
+"Stand": [
+"நிற்க",
+"Niṟgha"
+],
+"Sleep": [
+"தூங்கு",
+"Dhūṅghu"
+],
+"Wake": [
+"எழுந்திரு",
+"Èl̤undhiru"
+],
+"Breathe": [
+"சுவாசிக்கவும்",
+"Jhuvājhighghavuṃ"
+],
+"Blink": [
+"கண் சிமிட்டவும்",
+"Ghaṇ jhimiḍhḍhavuṃ"
+],
+"Speak": [
+"பேசு",
+"Bhejhu"
+],
+"Listen": [
+"கேள்",
+"Gheḻ"
+],
+"Think": [
+"யோசியுங்கள்",
+"Yojhiyuṅghaḻ"
+],
+"Remember": [
+"நினைவில் கொள்ளுங்கள்",
+"Niṉaivil ghòḻḻuṅghaḻ"
+],
+"Forget": [
+"மறந்துவிடு",
+"Maṟandhuviḍhu"
+],
+"Understand": [
+"புரிந்து கொள்ளுங்கள்",
+"Bhurindhu ghòḻḻuṅghaḻ"
+],
+"Learn": [
+"கற்றுக்கொள்ளுங்கள்",
+"Ghaṟṟughghòḻḻuṅghaḻ"
+],
+"Know": [
+"தெரியும்",
+"Dhèriyuṃ"
+],
+"Believe": [
+"நம்பு",
+"Naṃbhu"
+],
+"Hope": [
+"நம்பிக்கை",
+"Naṃbhighghai"
+],
+"Want": [
+"வேண்டும்",
+"Veṇḍhuṃ"
+],
+"Father": [
+"அப்பா",
+"Abhbhā"
+],
+"Mother": [
+"அம்மா",
+"Aṃmā"
+],
+"Brother": [
+"அண்ணன்",
+"Aṇṇaṉ"
+],
+"Sister": [
+"சகோதரி",
+"Jhaghodhari"
+],
+"Son": [
+"மகன்",
+"Maghaṉ"
+],
+"Daughter": [
+"மகள்",
+"Maghaḻ"
+],
+"Husband": [
+"கணவன்",
+"Ghaṇavaṉ"
+],
+"Wife": [
+"மனைவி",
+"Maṉaivi"
+],
+"Family": [
+"குடும்பம்",
+"Ghuḍhuṃbhaṃ"
+],
+"Child": [
+"குழந்தை",
+"Ghul̤andhai"
+],
+"Grandfather": [
+"தாத்தா",
+"Dhādhdhā"
+],
+"Grandmother": [
+"பாட்டி",
+"Bhāḍhḍhi"
+],
+"Grandson": [
+"பேரன்",
+"Bheraṉ"
+],
+"Granddaughter": [
+"பேத்தி",
+"Bhedhdhi"
+],
+"Uncle": [
+"மாமா",
+"Māmā"
+],
+"Aunt": [
+"அத்தை",
+"Adhdhai"
+],
+"Nephew": [
+"மருமகன்",
+"Marumaghaṉ"
+],
+"Niece": [
+"மருமகள்",
+"Marumaghaḻ"
+],
+"Cousin": [
+"உறவினர்",
+"Uṟaviṉar"
+],
+"Father-in-law": [
+"மாமனார்",
+"Māmaṉār"
+],
+"Mother-in-law": [
+"மாமியார்",
+"Māmiyār"
+],
+"Son-in-law": [
+"மருமகன்",
+"Marumaghaṉ"
+],
+"Daughter-in-law": [
+"மருமகள்",
+"Marumaghaḻ"
+],
+"Brother-in-law": [
+"மைத்துனர்",
+"Maidhdhuṉar"
+],
+"Sister-in-law": [
+"அண்ணி",
+"Aṇṇi"
+],
+"Relative": [
+"உறவினர்",
+"Uṟaviṉar"
+],
+"Parents": [
+"பெற்றோர்",
+"Bhèṟṟor"
+],
+"Children": [
+"குழந்தைகள்",
+"Ghul̤andhaighaḻ"
+],
+"Baby": [
+"குழந்தை",
+"Ghul̤andhai"
+],
+"Elder": [
+"பெரியவர்",
+"Bhèriyavar"
+],
+"Younger": [
+"இளையவர்",
+"Iḻaiyavar"
+],
+"Twin": [
+"இரட்டை",
+"Iraḍhḍhai"
+],
+"Stepfather": [
+"சித்தப்பா",
+"Jhidhdhabhbhā"
+],
+"Stepmother": [
+"சித்தி",
+"Jhidhdhi"
+],
+"Orphan": [
+"அனாதை",
+"Aṉādhai"
+],
+"Widow": [
+"விதவை",
+"Vidhavai"
+],
+"Widower": [
+"விதவை",
+"Vidhavai"
+],
+"Marriage": [
+"திருமணம்",
+"Dhirumaṇaṃ"
+],
+"Wedding": [
+"திருமணம்",
+"Dhirumaṇaṃ"
+],
+"Bride": [
+"மணமகள்",
+"Maṇamaghaḻ"
+],
+"Groom": [
+"மணமகன்",
+"Maṇamaghaṉ"
+],
+"Birth": [
+"பிறப்பு",
+"Bhiṟabhbhu"
+],
+"Death": [
+"மரணம்",
+"Maraṇaṃ"
+],
+"Ancestor": [
+"மூதாதையர்",
+"Mūdhādhaiyar"
+],
+"Descendant": [
+"வழித்தோன்றல்",
+"Val̤idhdhoṉṟal"
+],
+"Household": [
+"குடும்பம்",
+"Ghuḍhuṃbhaṃ"
+],
+"Generation": [
+"தலைமுறை",
+"Dhalaimuṟai"
+],
+"Relationship": [
+"உறவு",
+"Uṟavu"
+],
+"Care": [
+"கவனிப்பு",
+"Ghavaṉibhbhu"
+],
+"Support": [
+"ஆதரவு",
+"Ādharavu"
+],
+"Duty": [
+"கடமை",
+"Ghaḍhamai"
+],
+"Responsibility": [
+"பொறுப்பு",
+"Bhòṟubhbhu"
+],
+"Eldest": [
+"மூத்தவன்",
+"Mūdhdhavaṉ"
+],
+"Youngest": [
+"இளையவர்",
+"Iḻaiyavar"
+],
+"Only child": [
+"ஒரே குழந்தை",
+"Òre ghul̤andhai"
+],
+"Sibling": [
+"உடன்பிறப்பு",
+"Uḍhaṉbhiṟabhbhu"
+],
+"Spouse": [
+"மனைவி",
+"Maṉaivi"
+],
+"Fatherhood": [
+"தந்தைமை",
+"Dhandhaimai"
+],
+"Motherhood": [
+"தாய்மை",
+"Dhāymai"
+],
+"Brotherhood": [
+"சகோதரத்துவம்",
+"Jhaghodharadhdhuvaṃ"
+],
+"Sisterhood": [
+"சகோதரத்துவம்",
+"Jhaghodharadhdhuvaṃ"
+],
+"Godfather": [
+"காட்ஃபாதர்",
+"Ghāḍhfādhar"
+],
+"Godmother": [
+"அம்மன்",
+"Aṃmaṉ"
+],
+"Guardian": [
+"பாதுகாவலர்",
+"Bhādhughāvalar"
+],
+"Adopted": [
+"ஏற்றுக்கொள்ளப்பட்டது",
+"Eṟṟughghòḻḻabhbhaḍhḍhadhu"
+],
+"Foster": [
+"வளர்ப்பு",
+"Vaḻarbhbhu"
+],
+"Clan": [
+"குலம்",
+"Ghulaṃ"
+],
+"Tribe": [
+"பழங்குடி",
+"Bhal̤aṅghuḍhi"
+],
+"Dynasty": [
+"வம்சம்",
+"Vaṃjhaṃ"
+],
+"Inheritance": [
+"பரம்பரை",
+"Bharaṃbharai"
+],
+"Heir": [
+"வாரிசு",
+"Vārijhu"
+],
+"Family name": [
+"குடும்பப் பெயர்",
+"Ghuḍhuṃbhabh bhèyar"
+],
+"Surname": [
+"குடும்பப்பெயர்",
+"Ghuḍhuṃbhabhbhèyar"
+],
+"Nickname": [
+"புனைப்பெயர்",
+"Bhuṉaibhbhèyar"
+],
+"Elder brother": [
+"மூத்த சகோதரர்",
+"Mūdhdha jhaghodharar"
+],
+"Younger brother": [
+"இளைய சகோதரர்",
+"Iḻaiya jhaghodharar"
+],
+"Elder sister": [
+"மூத்த சகோதரி",
+"Mūdhdha jhaghodhari"
+],
+"Younger sister": [
+"இளைய சகோதரி",
+"Iḻaiya jhaghodhari"
+],
+"Maternal uncle": [
+"தாய்வழி மாமன்",
+"Dhāyval̤i māmaṉ"
+],
+"Paternal uncle": [
+"பாட்டன் மாமா",
+"Bhāḍhḍhaṉ māmā"
+],
+"Maternal aunt": [
+"தாய்வழி அத்தை",
+"Dhāyval̤i adhdhai"
+],
+"Paternal aunt": [
+"தந்தைவழி அத்தை",
+"Dhandhaival̤i adhdhai"
+],
+"Family gathering": [
+"குடும்ப கூட்டம்",
+"Ghuḍhuṃbha ghūḍhḍhaṃ"
+],
+"One": [
+"ஒன்று",
+"Òṉṟu"
+],
+"Two": [
+"இரண்டு",
+"Iraṇḍhu"
+],
+"Three": [
+"மூன்று",
+"Mūṉṟu"
+],
+"Four": [
+"நான்கு",
+"Nāṉghu"
+],
+"Five": [
+"ஐந்து",
+"Aindhu"
+],
+"Six": [
+"ஆறு",
+"Āṟu"
+],
+"Seven": [
+"ஏழு",
+"El̤u"
+],
+"Eight": [
+"எட்டு",
+"Èḍhḍhu"
+],
+"Nine": [
+"ஒன்பது",
+"Òṉbhadhu"
+],
+"Ten": [
+"பத்து",
+"Bhadhdhu"
+],
+"Eleven": [
+"பதினோரு",
+"Bhadhiṉoru"
+],
+"Twelve": [
+"பன்னிரண்டு",
+"Bhaṉṉiraṇḍhu"
+],
+"Thirteen": [
+"பதின்மூன்று",
+"Bhadhiṉmūṉṟu"
+],
+"Fourteen": [
+"பதினான்கு",
+"Bhadhiṉāṉghu"
+],
+"Fifteen": [
+"பதினைந்து",
+"Bhadhiṉaindhu"
+],
+"Sixteen": [
+"பதினாறு",
+"Bhadhiṉāṟu"
+],
+"Seventeen": [
+"பதினேழு",
+"Bhadhiṉel̤u"
+],
+"Eighteen": [
+"பதினெட்டு",
+"Bhadhiṉèḍhḍhu"
+],
+"Nineteen": [
+"பத்தொன்பது",
+"Bhadhdhòṉbhadhu"
+],
+"Twenty": [
+"இருபது",
+"Irubhadhu"
+],
+"Thirty": [
+"முப்பது",
+"Mubhbhadhu"
+],
+"Forty": [
+"நாற்பது",
+"Nāṟbhadhu"
+],
+"Fifty": [
+"ஐம்பது",
+"Aiṃbhadhu"
+],
+"Sixty": [
+"அறுபது",
+"Aṟubhadhu"
+],
+"Seventy": [
+"எழுபது",
+"Èl̤ubhadhu"
+],
+"Eighty": [
+"எண்பது",
+"Èṇbhadhu"
+],
+"Ninety": [
+"தொண்ணூறு",
+"Dhòṇṇūṟu"
+],
+"Hundred": [
+"நூறு",
+"Nūṟu"
+],
+"Thousand": [
+"ஆயிரம்",
+"Āyiraṃ"
+],
+"Lakh": [
+"லட்சம்",
+"Laḍhjhaṃ"
+],
+"First": [
+"முதலில்",
+"Mudhalil"
+],
+"Third": [
+"மூன்றாவது",
+"Mūṉṟāvadhu"
+],
+"Fourth": [
+"நான்காவது",
+"Nāṉghāvadhu"
+],
+"Fifth": [
+"ஐந்தாவது",
+"Aindhāvadhu"
+],
+"Half": [
+"பாதி",
+"Bhādhi"
+],
+"Quarter": [
+"காலாண்டு",
+"Ghālāṇḍhu"
+],
+"Double": [
+"இரட்டை",
+"Iraḍhḍhai"
+],
+"Triple": [
+"மும்மடங்கு",
+"Muṃmaḍhaṅghu"
+],
+"Single": [
+"ஒற்றை",
+"Òṟṟai"
+],
+"Pair": [
+"ஜோடி",
+"Joḍhi"
+],
+"Dozen": [
+"டஜன்",
+"Ḍhajaṉ"
+],
+"Score": [
+"மதிப்பெண்",
+"Madhibhbhèṇ"
+],
+"Zero": [
+"பூஜ்யம்",
+"Bhūjyaṃ"
+],
+"Number": [
+"எண்",
+"Èṇ"
+],
+"Count": [
+"எண்ணு",
+"Èṇṇu"
+],
+"Add": [
+"சேர்",
+"Jher"
+],
+"Subtract": [
+"கழிக்கவும்",
+"Ghal̤ighghavuṃ"
+],
+"Multiply": [
+"பெருக்கவும்",
+"Bhèrughghavuṃ"
+],
+"Divide": [
+"பிரிக்கவும்",
+"Bhirighghavuṃ"
+],
+"Equal": [
+"சமம்",
+"Jhamaṃ"
+],
+"More": [
+"மேலும்",
+"Meluṃ"
+],
+"Less": [
+"குறைவாக",
+"Ghuṟaivāgha"
+],
+"Many": [
+"பல",
+"Bhala"
+],
+"Few": [
+"சில",
+"Jhila"
+],
+"Some": [
+"சில",
+"Jhila"
+],
+"All": [
+"அனைத்து",
+"Aṉaidhdhu"
+],
+"None": [
+"இல்லை",
+"Illai"
+],
+"Several": [
+"பல",
+"Bhala"
+],
+"Multiple": [
+"பல",
+"Bhala"
+],
+"Percent": [
+"சதவீதம்",
+"Jhadhavīdhaṃ"
+],
+"Fraction": [
+"பின்னம்",
+"Bhiṉṉaṃ"
+],
+"Decimal": [
+"தசம",
+"Dhajhama"
+],
+"Sum": [
+"தொகை",
+"Dhòghai"
+],
+"Total": [
+"மொத்தம்",
+"Mòdhdhaṃ"
+],
+"Amount": [
+"தொகை",
+"Dhòghai"
+],
+"Quantity": [
+"அளவு",
+"Aḻavu"
+],
+"Price": [
+"விலை",
+"Vilai"
+],
+"Cost": [
+"செலவு",
+"Jhèlavu"
+],
+"Discount": [
+"தள்ளுபடி",
+"Dhaḻḻubhaḍhi"
+],
+"Age": [
+"வயது",
+"Vayadhu"
+],
+"Year old": [
+"வயது",
+"Vayadhu"
+],
+"Date": [
+"தேதி",
+"Dhedhi"
+],
+"Time": [
+"நேரம்",
+"Neraṃ"
+],
+"O'clock": [
+"மணி",
+"Maṇi"
+],
+"Day": [
+"நாள்",
+"Nāḻ"
+],
+"Once": [
+"ஒருமுறை",
+"Òrumuṟai"
+],
+"Twice": [
+"இரண்டு முறை",
+"Iraṇḍhu muṟai"
+],
+"Thrice": [
+"மூன்று முறை",
+"Mūṉṟu muṟai"
+],
+"Every": [
+"ஒவ்வொரு",
+"Òvvòru"
+],
+"Each": [
+"ஒவ்வொன்றும்",
+"Òvvòṉṟuṃ"
+],
+"Whole": [
+"முழு",
+"Mul̤u"
+],
+"Full": [
+"முழு",
+"Mul̤u"
+],
+"Empty": [
+"காலி",
+"Ghāli"
+],
+"House": [
+"வீடு",
+"Vīḍhu"
+],
+"Work": [
+"வேலை",
+"Velai"
+],
+"Come": [
+"வா",
+"Vā"
+],
+"Go": [
+"போ",
+"Bho"
+],
+"Give": [
+"கொடுங்கள்",
+"Ghòḍhuṅghaḻ"
+],
+"Take": [
+"எடுத்துக்கொள்",
+"Èḍhudhdhughghòḻ"
+],
+"Bedroom": [
+"படுக்கையறை",
+"Bhaḍhughghaiyaṟai"
+],
+"Bathroom": [
+"குளியலறை",
+"Ghuḻiyalaṟai"
+],
+"Door": [
+"கதவு",
+"Ghadhavu"
+],
+"Window": [
+"ஜன்னல்",
+"Jaṉṉal"
+],
+"Wall": [
+"சுவர்",
+"Jhuvar"
+],
+"Roof": [
+"கூரை",
+"Ghūrai"
+],
+"Stairs": [
+"படிக்கட்டுகள்",
+"Bhaḍhighghaḍhḍhughaḻ"
+],
+"Table": [
+"அட்டவணை",
+"Aḍhḍhavaṇai"
+],
+"Chair": [
+"நாற்காலி",
+"Nāṟghāli"
+],
+"Bed": [
+"படுக்கை",
+"Bhaḍhughghai"
+],
+"Lamp": [
+"விளக்கு",
+"Viḻaghghu"
+],
+"Clock": [
+"கடிகாரம்",
+"Ghaḍhighāraṃ"
+],
+"Lock": [
+"பூட்டு",
+"Bhūḍhḍhu"
+],
+"Garden": [
+"தோட்டம்",
+"Dhoḍhḍhaṃ"
+],
+"Furniture": [
+"மரச்சாமான்கள்",
+"Marajhjhāmāṉghaḻ"
+],
+"Sofa": [
+"சோபா",
+"Jhobhā"
+],
+"Cupboard": [
+"அலமாரி",
+"Alamāri"
+],
+"Shelf": [
+"அலமாரி",
+"Alamāri"
+],
+"Mirror": [
+"கண்ணாடி",
+"Ghaṇṇāḍhi"
+],
+"Curtain": [
+"திரைச்சீலை",
+"Dhiraijhjhīlai"
+],
+"Pillow": [
+"தலையணை",
+"Dhalaiyaṇai"
+],
+"Blanket": [
+"போர்வை",
+"Bhorvai"
+],
+"Towel": [
+"துண்டு",
+"Dhuṇḍhu"
+],
+"Soap": [
+"சோப்பு",
+"Jhobhbhu"
+],
+"Bucket": [
+"வாளி",
+"Vāḻi"
+],
+"Broom": [
+"விளக்குமாறு",
+"Viḻaghghumāṟu"
+],
+"Trash": [
+"குப்பை",
+"Ghubhbhai"
+],
+"Clean": [
+"சுத்தமான",
+"Jhudhdhamāṉa"
+],
+"Dirty": [
+"அழுக்கு",
+"Al̤ughghu"
+],
+"Wash": [
+"கழுவவும்",
+"Ghal̤uvavuṃ"
+],
+"Sweep": [
+"துடைக்கவும்",
+"Dhuḍhaighghavuṃ"
+],
+"Mop": [
+"துடைப்பான்",
+"Dhuḍhaibhbhāṉ"
+],
+"Electricity": [
+"மின்சாரம்",
+"Miṉjhāraṃ"
+],
+"Switch": [
+"மாறவும்",
+"Māṟavuṃ"
+],
+"Fan": [
+"மின்விசிறி",
+"Miṉvijhiṟi"
+],
+"Light": [
+"ஒளி",
+"Òḻi"
+],
+"Fridge": [
+"குளிர்சாதன பெட்டி",
+"Ghuḻirjhādhaṉa bhèḍhḍhi"
+],
+"TV": [
+"டி.வி",
+"Ḍhi.vi"
+],
+"Computer": [
+"கணினி",
+"Ghaṇiṉi"
+],
+"Book": [
+"புத்தகம்",
+"Bhudhdhaghaṃ"
+],
+"Newspaper": [
+"செய்தித்தாள்",
+"Jhèydhidhdhāḻ"
+],
+"Later": [
+"பின்னர்",
+"Bhiṉṉar"
+],
+"Always": [
+"எப்போதும்",
+"Èbhbhodhuṃ"
+],
+"Never": [
+"ஒருபோதும் இல்லை",
+"Òrubhodhuṃ illai"
+],
+"Sometimes": [
+"சில சமயம்",
+"Jhila jhamayaṃ"
+],
+"Often": [
+"அடிக்கடி",
+"Aḍhighghaḍhi"
+],
+"Usually": [
+"பொதுவாக",
+"Bhòdhuvāgha"
+],
+"Daily": [
+"தினசரி",
+"Dhiṉajhari"
+],
+"Weekly": [
+"வாரந்தோறும்",
+"Vārandhoṟuṃ"
+],
+"Monthly": [
+"மாதாந்திர",
+"Mādhāndhira"
+],
+"Yearly": [
+"ஆண்டுதோறும்",
+"Āṇḍhudhoṟuṃ"
+],
+"Routine": [
+"வழக்கமான",
+"Val̤aghghamāṉa"
+],
+"Habit": [
+"பழக்கம்",
+"Bhal̤aghghaṃ"
+],
+"Shade": [
+"நிழல்",
+"Nil̤al"
+],
+"Tone": [
+"தொனி",
+"Dhòṉi"
+],
+"Dye": [
+"சாயம்",
+"Jhāyaṃ"
+],
+"Paint": [
+"பெயிண்ட்",
+"Bhèyiṇḍh"
+],
+"Sky blue": [
+"வானம் நீலம்",
+"Vāṉaṃ nīlaṃ"
+],
+"Navy blue": [
+"கடற்படை நீலம்",
+"Ghaḍhaṟbhaḍhai nīlaṃ"
+],
+"Lime": [
+"சுண்ணாம்பு",
+"Jhuṇṇāṃbhu"
+],
+"Cream": [
+"கிரீம்",
+"Ghirīṃ"
+],
+"Beige": [
+"பழுப்பு நிறம்",
+"Bhal̤ubhbhu niṟaṃ"
+],
+"Maroon": [
+"மெரூன்",
+"Mèrūṉ"
+],
+"Crimson": [
+"கருஞ்சிவப்பு",
+"Gharuñjhivabhbhu"
+],
+"Turquoise": [
+"டர்க்கைஸ்",
+"Ḍharghghais"
+],
+"Violet": [
+"வயலட்",
+"Vayalaḍh"
+],
+"Indigo": [
+"இண்டிகோ",
+"Iṇḍhigho"
+],
+"Magenta": [
+"மெஜந்தா",
+"Mèjandhā"
+],
+"Cyan": [
+"சியான்",
+"Jhiyāṉ"
+],
+"Teal": [
+"டீல்",
+"Ḍhīl"
+],
+"Olive": [
+"ஆலிவ்",
+"Āliv"
+],
+"Coral": [
+"பவளம்",
+"Bhavaḻaṃ"
+],
+"Peach": [
+"பீச்",
+"Bhījh"
+],
+"Lavender": [
+"லாவெண்டர்",
+"Lāvèṇḍhar"
+],
+"Mint": [
+"புதினா",
+"Bhudhiṉā"
+],
+"Ivory": [
+"தந்தம்",
+"Dhandhaṃ"
+],
+"Charcoal": [
+"கரி",
+"Ghari"
+],
+"Rust": [
+"துரு",
+"Dhuru"
+],
+"Burgundy": [
+"பர்கண்டி",
+"Bharghaṇḍhi"
+],
+"Mustard": [
+"கடுகு",
+"Ghaḍhughu"
+],
+"Saffron": [
+"குங்குமப்பூ",
+"Ghuṅghumabhbhū"
+],
+"Tan": [
+"டான்",
+"Ḍhāṉ"
+],
+"Khaki": [
+"காக்கி",
+"Ghāghghi"
+],
+"Transparent": [
+"வெளிப்படையானது",
+"Vèḻibhbhaḍhaiyāṉadhu"
+],
+"Opaque": [
+"ஒளிபுகா",
+"Òḻibhughā"
+],
+"Shiny": [
+"பளபளப்பானது",
+"Bhaḻabhaḻabhbhāṉadhu"
+],
+"Dull": [
+"மந்தமான",
+"Mandhamāṉa"
+],
+"Matte": [
+"மேட்",
+"Meḍh"
+],
+"Glossy": [
+"பளபளப்பானது",
+"Bhaḻabhaḻabhbhāṉadhu"
+],
+"Striped": [
+"கோடிட்ட",
+"Ghoḍhiḍhḍha"
+],
+"Spotted": [
+"காணப்பட்டது",
+"Ghāṇabhbhaḍhḍhadhu"
+],
+"Plain": [
+"வெற்று",
+"Vèṟṟu"
+],
+"Pattern": [
+"முறை",
+"Muṟai"
+],
+"Multicoloured": [
+"பல வண்ணங்கள்",
+"Bhala vaṇṇaṅghaḻ"
+],
+"Colourful": [
+"வண்ணமயமான",
+"Vaṇṇamayamāṉa"
+],
+"Colourless": [
+"நிறமற்றது",
+"Niṟamaṟṟadhu"
+],
+"Match": [
+"போட்டி",
+"Bhoḍhḍhi"
+],
+"Contrast": [
+"மாறுபாடு",
+"Māṟubhāḍhu"
+],
+"Blend": [
+"கலக்கவும்",
+"Ghalaghghavuṃ"
+],
+"Mix": [
+"கலக்கவும்",
+"Ghalaghghavuṃ"
+],
+"Primary": [
+"முதன்மை",
+"Mudhaṉmai"
+],
+"Secondary": [
+"இரண்டாம் நிலை",
+"Iraṇḍhāṃ nilai"
+],
+"Warm": [
+"சூடான",
+"Jhūḍhāṉa"
+],
+"Cool": [
+"குளிர்",
+"Ghuḻir"
+],
+"Neutral": [
+"நடுநிலை",
+"Naḍhunilai"
+],
+"Vivid": [
+"தெளிவான",
+"Dhèḻivāṉa"
+],
+"Faded": [
+"மங்கிப்போனது",
+"Maṅghibhbhoṉadhu"
+],
+"Matching": [
+"பொருத்தம்",
+"Bhòrudhdhaṃ"
+],
+"Clashing": [
+"மோதல்",
+"Modhal"
+],
+"Tint": [
+"சாயல்",
+"Jhāyal"
+],
+"Hue": [
+"சாயல்",
+"Jhāyal"
+],
+"Pigment": [
+"நிறமி",
+"Niṟami"
+],
+"Ink": [
+"மை",
+"Mai"
+],
+"Crayon": [
+"க்ரேயன்",
+"Ghreyaṉ"
+],
+"Brush": [
+"தூரிகை",
+"Dhūrighai"
+],
+"Canvas": [
+"கேன்வாஸ்",
+"Gheṉvās"
+],
+"Picture": [
+"படம்",
+"Bhaḍhaṃ"
+],
+"Image": [
+"படம்",
+"Bhaḍhaṃ"
+],
+"Beautiful": [
+"அழகான",
+"Al̤aghāṉa"
+],
+"Ugly": [
+"அசிங்கமான",
+"Ajhiṅghamāṉa"
+],
+"Pretty": [
+"அழகான",
+"Al̤aghāṉa"
+],
+"Elegant": [
+"நேர்த்தியான",
+"Nerdhdhiyāṉa"
+],
+"Style": [
+"உடை",
+"Uḍhai"
+],
+"What": [
+"என்ன",
+"Èṉṉa"
+],
+"Who": [
+"WHO",
+"WHO"
+],
+"Where": [
+"எங்கே",
+"Èṅghe"
+],
+"When": [
+"எப்போது",
+"Èbhbhodhu"
+],
+"Why": [
+"ஏன்",
+"Eṉ"
+],
+"How": [
+"எப்படி",
+"Èbhbhaḍhi"
+],
+"This": [
+"இது",
+"Idhu"
+],
+"That": [
+"என்று",
+"Èṉṟu"
+],
+"Problem": [
+"பிரச்சனை",
+"Bhirajhjhaṉai"
+],
+"Help": [
+"உதவி",
+"Udhavi"
+],
+"Which": [
+"எது",
+"Èdhu"
+],
+"Whose": [
+"யாருடையது",
+"Yāruḍhaiyadhu"
+],
+"Whom": [
+"யாரை",
+"Yārai"
+],
+"Whether": [
+"என்பதை",
+"Èṉbhadhai"
+],
+"Question": [
+"கேள்வி",
+"Gheḻvi"
+],
+"Answer": [
+"பதில்",
+"Bhadhil"
+],
+"Ask": [
+"கேள்",
+"Gheḻ"
+],
+"Tell": [
+"சொல்லுங்கள்",
+"Jhòlluṅghaḻ"
+],
+"Say": [
+"சொல்",
+"Jhòl"
+],
+"Reply": [
+"பதில்",
+"Bhadhil"
+],
+"Explain": [
+"விளக்கவும்",
+"Viḻaghghavuṃ"
+],
+"Describe": [
+"விவரிக்கவும்",
+"Vivarighghavuṃ"
+],
+"Mean": [
+"சராசரி",
+"Jharājhari"
+],
+"Reason": [
+"காரணம்",
+"Ghāraṇaṃ"
+],
+"Cause": [
+"காரணம்",
+"Ghāraṇaṃ"
+],
+"Result": [
+"முடிவு",
+"Muḍhivu"
+],
+"Fact": [
+"உண்மை",
+"Uṇmai"
+],
+"Truth": [
+"உண்மை",
+"Uṇmai"
+],
+"Lie": [
+"பொய்",
+"Bhòy"
+],
+"Rest": [
+"ஓய்வு",
+"Oyvu"
+],
+"Leisure": [
+"ஓய்வு",
+"Oyvu"
+],
+"Free": [
+"இலவசம்",
+"Ilavajhaṃ"
+],
+"Relax": [
+"ரிலாக்ஸ்",
+"Rilāghs"
+],
+"Wake up": [
+"எழுந்திரு",
+"Èl̤undhiru"
+],
+"Sun": [
+"சூரியன்",
+"Jhūriyaṉ"
+],
+"Moon": [
+"சந்திரன்",
+"Jhandhiraṉ"
+],
+"Rain": [
+"மழை",
+"Mal̤ai"
+],
+"Dog": [
+"நாய்",
+"Nāy"
+],
+"Cat": [
+"பூனை",
+"Bhūṉai"
+],
+"Cow": [
+"பசு",
+"Bhajhu"
+],
+"Bird": [
+"பறவை",
+"Bhaṟavai"
+],
+"Tree": [
+"மரம்",
+"Maraṃ"
+],
+"Flower": [
+"மலர்",
+"Malar"
+],
+"Sky": [
+"வானம்",
+"Vāṉaṃ"
+],
+"Cloud": [
+"மேகம்",
+"Meghaṃ"
+],
+"Star": [
+"நட்சத்திரம்",
+"Naḍhjhadhdhiraṃ"
+],
+"Wind": [
+"காற்று",
+"Ghāṟṟu"
+],
+"River": [
+"நதி",
+"Nadhi"
+],
+"Mountain": [
+"மலை",
+"Malai"
+],
+"Forest": [
+"காடு",
+"Ghāḍhu"
+],
+"Grass": [
+"புல்",
+"Bhul"
+],
+"Leaf": [
+"இலை",
+"Ilai"
+],
+"Root": [
+"வேர்",
+"Ver"
+],
+"Seed": [
+"விதை",
+"Vidhai"
+],
+"Soil": [
+"மண்",
+"Maṇ"
+],
+"Stone": [
+"கல்",
+"Ghal"
+],
+"Fire": [
+"தீ",
+"Dhī"
+],
+"Earth": [
+"பூமி",
+"Bhūmi"
+],
+"Weather": [
+"வானிலை",
+"Vāṉilai"
+],
+"Horse": [
+"குதிரை",
+"Ghudhirai"
+],
+"Goat": [
+"ஆடு",
+"Āḍhu"
+],
+"Sheep": [
+"ஆடு",
+"Āḍhu"
+],
+"Pig": [
+"பன்றி",
+"Bhaṉṟi"
+],
+"Hen": [
+"கோழி",
+"Ghol̤i"
+],
+"Duck": [
+"வாத்து",
+"Vādhdhu"
+],
+"Elephant": [
+"யானை",
+"Yāṉai"
+],
+"Lion": [
+"சிங்கம்",
+"Jhiṅghaṃ"
+],
+"Tiger": [
+"புலி",
+"Bhuli"
+],
+"Monkey": [
+"குரங்கு",
+"Ghuraṅghu"
+],
+"Snake": [
+"பாம்பு",
+"Bhāṃbhu"
+],
+"Insect": [
+"பூச்சி",
+"Bhūjhjhi"
+],
+"Butterfly": [
+"பட்டாம்பூச்சி",
+"Bhaḍhḍhāṃbhūjhjhi"
+],
+"Bee": [
+"தேனீ",
+"Dheṉī"
+],
+"Ant": [
+"எறும்பு",
+"Èṟuṃbhu"
+],
+"Mosquito": [
+"கொசு",
+"Ghòjhu"
+],
+"Spider": [
+"சிலந்தி",
+"Jhilandhi"
+],
+"Crow": [
+"காகம்",
+"Ghāghaṃ"
+],
+"Peacock": [
+"மயில்",
+"Mayil"
+],
+"Parrot": [
+"கிளி",
+"Ghiḻi"
+],
+"Sparrow": [
+"குருவி",
+"Ghuruvi"
+],
+"Eagle": [
+"கழுகு",
+"Ghal̤ughu"
+],
+"Owl": [
+"ஆந்தை",
+"Āndhai"
+],
+"Pigeon": [
+"புறா",
+"Bhuṟā"
+],
+"Swan": [
+"அன்னம்",
+"Aṉṉaṃ"
+],
+"Crocodile": [
+"முதலை",
+"Mudhalai"
+],
+"Tortoise": [
+"ஆமை",
+"Āmai"
+],
+"Frog": [
+"தவளை",
+"Dhavaḻai"
+],
+"Lizard": [
+"பல்லி",
+"Bhalli"
+],
+"Rose": [
+"ரோஜா",
+"Rojā"
+],
+"Lotus": [
+"தாமரை",
+"Dhāmarai"
+],
+"Jasmine": [
+"மல்லிகைப்பூ",
+"Mallighaibhbhū"
+],
+"Marigold": [
+"சாமந்திப்பூ",
+"Jhāmandhibhbhū"
+],
+"Sunflower": [
+"சூரியகாந்தி",
+"Jhūriyaghāndhi"
+],
+"Lily": [
+"லில்லி",
+"Lilli"
+],
+"Daisy": [
+"டெய்சி",
+"Ḍhèyjhi"
+],
+"Tulip": [
+"துலிப்",
+"Dhulibh"
+],
+"Oak": [
+"ஓக்",
+"Ogh"
+],
+"Pine": [
+"பைன்",
+"Bhaiṉ"
+],
+"Bamboo": [
+"மூங்கில்",
+"Mūṅghil"
+],
+"Palm": [
+"பனை",
+"Bhaṉai"
+],
+"Cactus": [
+"கற்றாழை",
+"Ghaṟṟāl̤ai"
+],
+"Bush": [
+"புஷ்",
+"Bhuṣ"
+],
+"Plant": [
+"ஆலை",
+"Ālai"
+],
+"Farm": [
+"பண்ணை",
+"Bhaṇṇai"
+],
+"Field": [
+"களம்",
+"Ghaḻaṃ"
+],
+"Lake": [
+"ஏரி",
+"Eri"
+],
+"Sea": [
+"கடல்",
+"Ghaḍhal"
+],
+"Ocean": [
+"பெருங்கடல்",
+"Bhèruṅghaḍhal"
+],
+"Beach": [
+"கடற்கரை",
+"Ghaḍhaṟgharai"
+],
+"Island": [
+"தீவு",
+"Dhīvu"
+],
+"Valley": [
+"பள்ளத்தாக்கு",
+"Bhaḻḻadhdhāghghu"
+],
+"Desert": [
+"பாலைவனம்",
+"Bhālaivaṉaṃ"
+],
+"Snow": [
+"பனி",
+"Bhaṉi"
+],
+"Storm": [
+"புயல்",
+"Bhuyal"
+],
+"Thunder": [
+"இடி",
+"Iḍhi"
+],
+"Rainbow": [
+"வானவில்",
+"Vāṉavil"
+],
+"Red": [
+"சிவப்பு",
+"Jhivabhbhu"
+],
+"Blue": [
+"நீலம்",
+"Nīlaṃ"
+],
+"Green": [
+"பச்சை",
+"Bhajhjhai"
+],
+"Yellow": [
+"மஞ்சள்",
+"Mañjhaḻ"
+],
+"White": [
+"வெள்ளை",
+"Vèḻḻai"
+],
+"Black": [
+"கருப்பு",
+"Gharubhbhu"
+],
+"Colour": [
+"நிறம்",
+"Niṟaṃ"
+],
+"Pink": [
+"இளஞ்சிவப்பு",
+"Iḻañjhivabhbhu"
+],
+"Purple": [
+"ஊதா",
+"Ūdhā"
+],
+"Brown": [
+"பழுப்பு",
+"Bhal̤ubhbhu"
+],
+"Grey": [
+"சாம்பல்",
+"Jhāṃbhal"
+],
+"Golden": [
+"தங்கம்",
+"Dhaṅghaṃ"
+],
+"Silver": [
+"வெள்ளி",
+"Vèḻḻi"
+],
+"Dark": [
+"இருள்",
+"Iruḻ"
+],
+"Bright": [
+"பிரகாசமான",
+"Bhiraghājhamāṉa"
+],
+"Pale": [
+"வெளிர்",
+"Vèḻir"
+],
+"Opinion": [
+"கருத்து",
+"Gharudhdhu"
+],
+"Perhaps": [
+"ஒருவேளை",
+"Òruveḻai"
+],
+"Probably": [
+"ஒருவேளை",
+"Òruveḻai"
+],
+"Definitely": [
+"கண்டிப்பாக",
+"Ghaṇḍhibhbhāgha"
+],
+"Absolutely": [
+"முற்றிலும்",
+"Muṟṟiluṃ"
+],
+"Exactly": [
+"சரியாக",
+"Jhariyāgha"
+],
+"Wrong": [
+"தவறு",
+"Dhavaṟu"
+],
+"True": [
+"உண்மை",
+"Uṇmai"
+],
+"False": [
+"பொய்",
+"Bhòy"
+],
+"Correct": [
+"சரி",
+"Jhari"
+],
+"Incorrect": [
+"தவறானது",
+"Dhavaṟāṉadhu"
+],
+"Same": [
+"அதே",
+"Adhe"
+],
+"Different": [
+"வித்தியாசமானது",
+"Vidhdhiyājhamāṉadhu"
+],
+"Similar": [
+"ஒத்த",
+"Òdhdha"
+],
+"Possible": [
+"சாத்தியம்",
+"Jhādhdhiyaṃ"
+],
+"Impossible": [
+"சாத்தியமற்றது",
+"Jhādhdhiyamaṟṟadhu"
+],
+"Necessary": [
+"அவசியமானது",
+"Avajhiyamāṉadhu"
+],
+"Important": [
+"முக்கியமானது",
+"Mughghiyamāṉadhu"
+],
+"Optional": [
+"விருப்பமானது",
+"Virubhbhamāṉadhu"
+],
+"Choice": [
+"தேர்வு",
+"Dhervu"
+],
+"Option": [
+"விருப்பம்",
+"Virubhbhaṃ"
+],
+"Decision": [
+"முடிவு",
+"Muḍhivu"
+],
+"Idea": [
+"யோசனை",
+"Yojhaṉai"
+],
+"Thought": [
+"சிந்தனை",
+"Jhindhaṉai"
+],
+"Mind": [
+"மனம்",
+"Maṉaṃ"
+],
+"Because": [
+"ஏனெனில்",
+"Eṉèṉil"
+],
+"Therefore": [
+"எனவே",
+"Èṉave"
+],
+"However": [
+"எனினும்",
+"Èṉiṉuṃ"
+],
+"Although": [
+"இருந்தாலும்",
+"Irundhāluṃ"
+],
+"Unless": [
+"தவிர",
+"Dhavira"
+],
+"Until": [
+"வரை",
+"Varai"
+],
+"If": [
+"என்றால்",
+"Èṉṟāl"
+],
+"Then": [
+"பிறகு",
+"Bhiṟaghu"
+],
+"So": [
+"எனவே",
+"Èṉave"
+],
+"But": [
+"ஆனால்",
+"Āṉāl"
+],
+"And": [
+"மற்றும்",
+"Maṟṟuṃ"
+],
+"Or": [
+"அல்லது",
+"Alladhu"
+],
+"Nor": [
+"இல்லை",
+"Illai"
+],
+"Yet": [
+"இன்னும்",
+"Iṉṉuṃ"
+],
+"Still": [
+"இன்னும்",
+"Iṉṉuṃ"
+],
+"Already": [
+"ஏற்கனவே",
+"Eṟghaṉave"
+],
+"Again": [
+"மீண்டும்",
+"Mīṇḍhuṃ"
+],
+"Also": [
+"மேலும்",
+"Meluṃ"
+],
+"Too": [
+"கூட",
+"Ghūḍha"
+],
+"Either": [
+"ஒன்று",
+"Òṉṟu"
+],
+"Neither": [
+"ஒன்றுமில்லை",
+"Òṉṟumillai"
+],
+"Both": [
+"இரண்டும்",
+"Iraṇḍhuṃ"
+],
+"Only": [
+"மட்டுமே",
+"Maḍhḍhume"
+],
+"Just": [
+"வெறும்",
+"Vèṟuṃ"
+],
+"Even": [
+"கூட",
+"Ghūḍha"
+],
+"Almost": [
+"கிட்டத்தட்ட",
+"Ghiḍhḍhadhdhaḍhḍha"
+],
+"Quite": [
+"மிகவும்",
+"Mighavuṃ"
+],
+"Very": [
+"மிகவும்",
+"Mighavuṃ"
+],
+"Really": [
+"உண்மையில்",
+"Uṇmaiyil"
+]
+}
