@@ -1,0 +1,5618 @@
+{
+"Hello": [
+"नमस्ते",
+"Namaste"
+],
+"Good morning": [
+"सुप्रभातम्‌",
+"Suprabhātam‌"
+],
+"Good afternoon": [
+"नमस्कारः",
+"Namaskāraḥ"
+],
+"Good evening": [
+"शुभसन्ध्या",
+"Śubhasandhyā"
+],
+"Good night": [
+"शुभरात्रि",
+"Śubharātri"
+],
+"Welcome": [
+"स्वागतम्‌",
+"Svāgatam‌"
+],
+"How are you?": [
+"भवान्‌ कथमसि?",
+"Bhavān‌ kathamasi?"
+],
+"I am fine": [
+"अहं कुशलं अस्मि",
+"Ahaṃ kuśalaṃ asmi"
+],
+"What is your name?": [
+"भवतः नाम किमस्ति?",
+"Bhavataḥ nāma kimasti?"
+],
+"My name is...": [
+"मम नाम अस्ति...",
+"Mama nāma asti..."
+],
+"Nice to meet you": [
+"मेलनेन बहु सन्तोषः",
+"Melanena bahu santoṣaḥ"
+],
+"Thank you": [
+"धन्यवाद",
+"Dhanyavāda"
+],
+"Please": [
+"कृपया",
+"Kṛpayā"
+],
+"Sorry": [
+"क्षम्यताम्‌",
+"Kṣamyatām‌"
+],
+"Goodbye": [
+"पुनर्दर्शनाय",
+"Punardarśanāya"
+],
+"See you": [
+"त्वां पश्यामि",
+"Tvāṃ paśyāmi"
+],
+"Take care": [
+"अभिरक्षय",
+"Abhirakṣaya"
+],
+"Happy Birthday": [
+"शुभं जन्मदिनम्‌",
+"Śubhaṃ janmadinam‌"
+],
+"Happy Diwali": [
+"दीपावली की हार्दिक शुभकामनाएं",
+"Dīpāvalī kī hārdika śubhakāmanāeṃ"
+],
+"I love you": [
+"त्वां कामयामि",
+"Tvāṃ kāmayāmi"
+],
+"Get well soon": [
+"शीघ्रेण कुशलं भव",
+"Śīghreṇa kuśalaṃ bhava"
+],
+"Good day": [
+"शुभ दिवस",
+"Śubha divasa"
+],
+"How do you do?": [
+"त्वं कथं करोसि?",
+"Tvaṃ kathaṃ karosi?"
+],
+"Pleased to meet you": [
+"भवन्तं मिलित्वा प्रसन्नः",
+"Bhavantaṃ militvā prasannaḥ"
+],
+"Excuse me": [
+"क्षमा प्रयच्छ मे",
+"Kṣamā prayaccha me"
+],
+"Bless you": [
+"आशीर्वादं ददातु",
+"Āśīrvādaṃ dadātu"
+],
+"Congratulations": [
+"अभिनन्दनम्",
+"Abhinandanam"
+],
+"Happy New Year": [
+"नववर्षस्य शुभाशयाः",
+"Navavarṣasya śubhāśayāḥ"
+],
+"Best wishes": [
+"शुभकामना",
+"Śubhakāmanā"
+],
+"Take care of yourself": [
+"स्वस्य पालनं कुरुत",
+"Svasya pālanaṃ kuruta"
+],
+"I missed you": [
+"अहं भवन्तं स्मरामि स्म",
+"Ahaṃ bhavantaṃ smarāmi sma"
+],
+"Long time no see": [
+"बहुकालम् अनादृश्यं",
+"Bahukālam anādṛśyaṃ"
+],
+"Where have you been?": [
+"कुत्र गतः ?",
+"Kutra gataḥ ?"
+],
+"I am happy to see you": [
+"अहं भवन्तं दृष्ट्वा प्रसन्नः अस्मि",
+"Ahaṃ bhavantaṃ dṛṣṭvā prasannaḥ asmi"
+],
+"Come again": [
+"पुनः आगच्छ",
+"Punaḥ āgaccha"
+],
+"Stay in touch": [
+"सम्पर्कं कुर्वन्तु",
+"Samparkaṃ kurvantu"
+],
+"Give my regards to...": [
+"मम अभिनन्दनम्...",
+"Mama abhinandanam..."
+],
+"Say hello to...": [
+"नमस्कारं कुरुत...",
+"Namaskāraṃ kuruta..."
+],
+"Have a good day": [
+"शुभ दिवसं भवेत",
+"Śubha divasaṃ bhaveta"
+],
+"Have a safe journey": [
+"सुरक्षितयात्रा भवतु",
+"Surakṣitayātrā bhavatu"
+],
+"Good luck": [
+"शुभकामना",
+"Śubhakāmanā"
+],
+"All the best": [
+"सर्वकुशलं",
+"Sarvakuśalaṃ"
+],
+"Well done": [
+"सद् कृत",
+"Sad kṛta"
+],
+"You are kind": [
+"त्वं दयालुः असि",
+"Tvaṃ dayāluḥ asi"
+],
+"I appreciate it": [
+"अहं तस्य प्रशंसा करोमि",
+"Ahaṃ tasya praśaṃsā karomi"
+],
+"That is very nice": [
+"तत् अतीव सुन्दरम् अस्ति",
+"Tat atīva sundaram asti"
+],
+"You are welcome": [
+"भवतः स्वागतम्‌",
+"Bhavataḥ svāgatam‌"
+],
+"Do not mention it": [
+"तस्य उल्लेखं मा कुरुत",
+"Tasya ullekhaṃ mā kuruta"
+],
+"It was nothing": [
+"किमपि नासीत्",
+"Kimapi nāsīt"
+],
+"I am grateful": [
+"अहं कृतज्ञः अस्मि",
+"Ahaṃ kṛtajñaḥ asmi"
+],
+"Many thanks": [
+"बहु धन्यवादः",
+"Bahu dhanyavādaḥ"
+],
+"Thanks a lot": [
+"बहु धन्यवादः",
+"Bahu dhanyavādaḥ"
+],
+"I owe you one": [
+"अहं भवतः एकं ऋणी अस्मि",
+"Ahaṃ bhavataḥ ekaṃ ṛṇī asmi"
+],
+"Forgive me": [
+"क्षमस्व मां",
+"Kṣamasva māṃ"
+],
+"My apologies": [
+"मम क्षमायाचना",
+"Mama kṣamāyācanā"
+],
+"It was my fault": [
+"मम दोषः आसीत्",
+"Mama doṣaḥ āsīt"
+],
+"No worries": [
+"चिन्ता नास्ति",
+"Cintā nāsti"
+],
+"Do not be sorry": [
+"मा क्षम्यतां",
+"Mā kṣamyatāṃ"
+],
+"We are friends": [
+"वयं मित्राणि स्मः",
+"Vayaṃ mitrāṇi smaḥ"
+],
+"May I come in?": [
+"अहं प्रविशतु वा ?",
+"Ahaṃ praviśatu vā ?"
+],
+"Please sit down": [
+"कृपया उपविशतु",
+"Kṛpayā upaviśatu"
+],
+"Make yourself at home": [
+"गृहे एव स्वं कुरुत",
+"Gṛhe eva svaṃ kuruta"
+],
+"Would you like tea?": [
+"किं भवन्तः चायं रोचन्ते ?",
+"Kiṃ bhavantaḥ cāyaṃ rocante ?"
+],
+"I am from India": [
+"अहं भारतस्य अस्मि",
+"Ahaṃ bhāratasya asmi"
+],
+"Where are you from?": [
+"भवान्‌ कुतः अस्ति?",
+"Bhavān‌ kutaḥ asti?"
+],
+"I live in...": [
+"अहं नगरे निवसति...",
+"Ahaṃ nagare nivasati..."
+],
+"What do you do?": [
+"त्वं किं करोसि?",
+"Tvaṃ kiṃ karosi?"
+],
+"I am a student": [
+"अहं छात्रः अस्मि",
+"Ahaṃ chātraḥ asmi"
+],
+"I work in...": [
+"अहं नगरे कार्यं करोमि...",
+"Ahaṃ nagare kāryaṃ karomi..."
+],
+"This is my friend": [
+"एषः मम मित्रम्",
+"Eṣaḥ mama mitram"
+],
+"Meet my family": [
+"मम परिवारेण सह मिलतु",
+"Mama parivāreṇa saha milatu"
+],
+"How is your family?": [
+"भवतः कुटुम्बं कथं वर्तते ?",
+"Bhavataḥ kuṭumbaṃ kathaṃ vartate ?"
+],
+"Everyone is fine": [
+"सर्वे कुशलाः सन्ति",
+"Sarve kuśalāḥ santi"
+],
+"I have to go now": [
+"मया इदानीं गन्तव्यम्",
+"Mayā idānīṃ gantavyam"
+],
+"Can we meet tomorrow?": [
+"श्वः मिलितुं शक्नुमः वा ?",
+"Śvaḥ milituṃ śaknumaḥ vā ?"
+],
+"Let us meet soon": [
+"शीघ्रं मिलामः",
+"Śīghraṃ milāmaḥ"
+],
+"I will call you": [
+"अहं त्वां आह्वयिष्यामि",
+"Ahaṃ tvāṃ āhvayiṣyāmi"
+],
+"Here is my number": [
+"अत्र मम संख्या अस्ति",
+"Atra mama saṃkhyā asti"
+],
+"Keep in touch": [
+"सम्पर्कं कुर्वन्तु",
+"Samparkaṃ kurvantu"
+],
+"Until we meet again": [
+"यावत् वयं पुनः मिलित्वा",
+"Yāvat vayaṃ punaḥ militvā"
+],
+"I will never forget you": [
+"अहं भवन्तं कदापि न विस्मरामि",
+"Ahaṃ bhavantaṃ kadāpi na vismarāmi"
+],
+"You mean a lot to me": [
+"मम कृते भवतः बहु अर्थः अस्ति",
+"Mama kṛte bhavataḥ bahu arthaḥ asti"
+],
+"I care about you": [
+"अहं भवतः चिन्तां करोमि",
+"Ahaṃ bhavataḥ cintāṃ karomi"
+],
+"Thank you for everything": [
+"सर्वस्य कृते धन्यवादः",
+"Sarvasya kṛte dhanyavādaḥ"
+],
+"I could not have done it without you": [
+"भवद्भिः विना अहं तत् कर्तुं न शक्तवान्",
+"Bhavadbhiḥ vinā ahaṃ tat kartuṃ na śaktavān"
+],
+"You are very helpful": [
+"भवान् अतीव सहायकः अस्ति",
+"Bhavān atīva sahāyakaḥ asti"
+],
+"I am proud of you": [
+"अहं भवतः गर्वम् अनुभवामि",
+"Ahaṃ bhavataḥ garvam anubhavāmi"
+],
+"Bless you and your family": [
+"भवतः परिवारस्य च आशीर्वादं ददातु",
+"Bhavataḥ parivārasya ca āśīrvādaṃ dadātu"
+],
+"Wishing you happiness": [
+"भवतः सुखं कामना",
+"Bhavataḥ sukhaṃ kāmanā"
+],
+"Where is the station?": [
+"स्टेशनं कुत्र अस्ति ?",
+"Sṭeśanaṃ kutra asti ?"
+],
+"Take me to the station": [
+"मां स्टेशनं प्रति नेतु",
+"Māṃ sṭeśanaṃ prati netu"
+],
+"Where is the hospital?": [
+"चिकित्सालयः कुत्र अस्ति ?",
+"Cikitsālayaḥ kutra asti ?"
+],
+"Go straight": [
+"सीधा गच्छतु",
+"Sīdhā gacchatu"
+],
+"Turn left": [
+"वामभागे गच्छन्तु",
+"Vāmabhāge gacchantu"
+],
+"Turn right": [
+"दक्षिणं गच्छतु",
+"Dakṣiṇaṃ gacchatu"
+],
+"Stop here": [
+"अत्र स्थगयतु",
+"Atra sthagayatu"
+],
+"How far is it?": [
+"कियत् दूरम् अस्ति ?",
+"Kiyat dūram asti ?"
+],
+"I am lost": [
+"अहं नष्टः अस्मि",
+"Ahaṃ naṣṭaḥ asmi"
+],
+"Where is the toilet?": [
+"शौचालयः कुत्र अस्ति ?",
+"Śaucālayaḥ kutra asti ?"
+],
+"Bon voyage": [
+"बोन यात्रा",
+"Bona yātrā"
+],
+"Where is the bus stop?": [
+"बसस्थानकं कुत्र अस्ति ?",
+"Basasthānakaṃ kutra asti ?"
+],
+"One ticket to...": [
+"एकं टिकटं...",
+"Ekaṃ ṭikaṭaṃ..."
+],
+"When does the bus leave?": [
+"बसयानं कदा प्रस्थायति ?",
+"Basayānaṃ kadā prasthāyati ?"
+],
+"Is this seat free?": [
+"किम् एतत् आसनं मुक्तम् ?",
+"Kim etat āsanaṃ muktam ?"
+],
+"Next stop please": [
+"अग्रिमः विरामः कृपया",
+"Agrimaḥ virāmaḥ kṛpayā"
+],
+"I need a map": [
+"मम नक्शा आवश्यकः",
+"Mama nakśā āvaśyakaḥ"
+],
+"Where can I get a taxi?": [
+"कुतः टैक्सी प्राप्तुं शक्नोमि ?",
+"Kutaḥ ṭaiksī prāptuṃ śaknomi ?"
+],
+"Please slow down": [
+"कृपया मन्दं कुर्वन्तु",
+"Kṛpayā mandaṃ kurvantu"
+],
+"Airport": [
+"वायुपत्तनं",
+"Vāyupattanaṃ"
+],
+"Where is the luggage?": [
+"सामानं कुत्र अस्ति ?",
+"Sāmānaṃ kutra asti ?"
+],
+"I have a reservation": [
+"मम आरक्षणम् अस्ति",
+"Mama ārakṣaṇam asti"
+],
+"Which platform?": [
+"कः मञ्चः ?",
+"Kaḥ mañcaḥ ?"
+],
+"Is there a direct bus?": [
+"प्रत्यक्षं बसयानं अस्ति वा ?",
+"Pratyakṣaṃ basayānaṃ asti vā ?"
+],
+"How long does it take?": [
+"कियत्कालं यावत् भवति ?",
+"Kiyatkālaṃ yāvat bhavati ?"
+],
+"I am travelling alone": [
+"अहम् एकः एव यात्रां करोमि",
+"Aham ekaḥ eva yātrāṃ karomi"
+],
+"Can you show me on the map?": [
+"किं भवन्तः मां मानचित्रे दर्शयितुं शक्नुवन्ति ?",
+"Kiṃ bhavantaḥ māṃ mānacitre darśayituṃ śaknuvanti ?"
+],
+"Is it safe here?": [
+"अत्र सुरक्षितम् अस्ति वा ?",
+"Atra surakṣitam asti vā ?"
+],
+"I need a room": [
+"मम कक्षस्य आवश्यकता अस्ति",
+"Mama kakṣasya āvaśyakatā asti"
+],
+"Do you have a single room?": [
+"भवतः एकः कक्षः अस्ति वा ?",
+"Bhavataḥ ekaḥ kakṣaḥ asti vā ?"
+],
+"Check-in time?": [
+"चेक-इन-समयः ?",
+"Ceka-ina-samayaḥ ?"
+],
+"Check-out time?": [
+"चेक-आउट् समयः ?",
+"Ceka-āuṭ samayaḥ ?"
+],
+"Is breakfast included?": [
+"प्रातःभोजनं समाविष्टम् अस्ति वा ?",
+"Prātaḥbhojanaṃ samāviṣṭam asti vā ?"
+],
+"Where is the beach?": [
+"समुद्रतटः कुत्र अस्ति ?",
+"Samudrataṭaḥ kutra asti ?"
+],
+"I want to rent a car": [
+"अहं कारं भाडेन ग्रहीतुं इच्छामि",
+"Ahaṃ kāraṃ bhāḍena grahītuṃ icchāmi"
+],
+"Fill the tank please": [
+"कृपया टङ्कीं पूरयन्तु",
+"Kṛpayā ṭaṅkīṃ pūrayantu"
+],
+"Where is the petrol pump?": [
+"पेट्रोलपम्पः कुत्र अस्ति ?",
+"Peṭrolapampaḥ kutra asti ?"
+],
+"Can I walk there?": [
+"तत्र गन्तुं शक्नोमि वा ?",
+"Tatra gantuṃ śaknomi vā ?"
+],
+"Is it within walking distance?": [
+"किं पादयात्रायाः दूरीयाम् अस्ति ?",
+"Kiṃ pādayātrāyāḥ dūrīyām asti ?"
+],
+"Which way to the temple?": [
+"मन्दिरं प्रति कः मार्गः ?",
+"Mandiraṃ prati kaḥ mārgaḥ ?"
+],
+"I am looking for a hotel": [
+"अहं होटेलम् अन्विष्यामि",
+"Ahaṃ hoṭelam anviṣyāmi"
+],
+"Do you have a guide?": [
+"भवतः मार्गदर्शकः अस्ति वा ?",
+"Bhavataḥ mārgadarśakaḥ asti vā ?"
+],
+"How much for a tour?": [
+"भ्रमणस्य कृते कियत् ?",
+"Bhramaṇasya kṛte kiyat ?"
+],
+"I would like to visit...": [
+"अहं भ्रमणं कर्तुम् इच्छामि...",
+"Ahaṃ bhramaṇaṃ kartum icchāmi..."
+],
+"What is this place called?": [
+"किं स्थानमिदं कथ्यते ?",
+"Kiṃ sthānamidaṃ kathyate ?"
+],
+"Is photography allowed?": [
+"छायाचित्रणस्य अनुमतिः अस्ति वा ?",
+"Chāyācitraṇasya anumatiḥ asti vā ?"
+],
+"Where is the exit?": [
+"निर्गमः कुत्र अस्ति ?",
+"Nirgamaḥ kutra asti ?"
+],
+"Where is the entrance?": [
+"प्रवेशः कुत्र अस्ति ?",
+"Praveśaḥ kutra asti ?"
+],
+"Is there a lift?": [
+"किं लिफ्ट् अस्ति ?",
+"Kiṃ liphṭ asti ?"
+],
+"Ground floor": [
+"भूतलम्",
+"Bhūtalam"
+],
+"First floor": [
+"प्रथमतलम्",
+"Prathamatalam"
+],
+"Where is the parking?": [
+"पार्किङ्गं कुत्र अस्ति ?",
+"Pārkiṅgaṃ kutra asti ?"
+],
+"I need a SIM card": [
+"मम सिमकार्डस्य आवश्यकता अस्ति",
+"Mama simakārḍasya āvaśyakatā asti"
+],
+"Where can I exchange money?": [
+"अहं कुत्र धनस्य आदानप्रदानं कर्तुं शक्नोमि ?",
+"Ahaṃ kutra dhanasya ādānapradānaṃ kartuṃ śaknomi ?"
+],
+"What is the exchange rate?": [
+"विनिमयदरः किम् ?",
+"Vinimayadaraḥ kim ?"
+],
+"I need a plug adapter": [
+"मम प्लग एडाप्टरस्य आवश्यकता अस्ति",
+"Mama plaga eḍāpṭarasya āvaśyakatā asti"
+],
+"Where is the embassy?": [
+"दूतावासः कुत्र अस्ति ?",
+"Dūtāvāsaḥ kutra asti ?"
+],
+"I lost my passport": [
+"मम पासपोर्टं नष्टम् अभवत्",
+"Mama pāsaporṭaṃ naṣṭam abhavat"
+],
+"I need to see a doctor": [
+"मया वैद्यं द्रष्टव्यम्",
+"Mayā vaidyaṃ draṣṭavyam"
+],
+"Call an ambulance": [
+"एम्बुलेन्सं आह्वयन्तु",
+"Embulensaṃ āhvayantu"
+],
+"Where is the pharmacy?": [
+"औषधालयः कुत्र अस्ति ?",
+"Auṣadhālayaḥ kutra asti ?"
+],
+"I have travel insurance": [
+"मम यात्राबीमा अस्ति",
+"Mama yātrābīmā asti"
+],
+"Scenic route": [
+"दर्शनीय मार्ग",
+"Darśanīya mārga"
+],
+"Local market": [
+"स्थानीय बाजार",
+"Sthānīya bājāra"
+],
+"Traditional food": [
+"पारम्परिक भोजन",
+"Pāramparika bhojana"
+],
+"Famous monument": [
+"प्रसिद्ध स्मारक",
+"Prasiddha smāraka"
+],
+"Historical place": [
+"ऐतिहासिक स्थान",
+"Aitihāsika sthāna"
+],
+"Opening hours?": [
+"उद्घाटनस्य समयः ?",
+"Udghāṭanasya samayaḥ ?"
+],
+"Is it open today?": [
+"अद्य उद्घाटितम् अस्ति वा ?",
+"Adya udghāṭitam asti vā ?"
+],
+"Entrance fee?": [
+"प्रवेशशुल्कं ?",
+"Praveśaśulkaṃ ?"
+],
+"Student discount?": [
+"छात्रस्य छूटः?",
+"Chātrasya chūṭaḥ?"
+],
+"Free entry?": [
+"निःशुल्कं प्रवेशः ?",
+"Niḥśulkaṃ praveśaḥ ?"
+],
+"Can you take a photo?": [
+"किं भवन्तः फोटोग्राफं ग्रहीतुं शक्नुवन्ति ?",
+"Kiṃ bhavantaḥ phoṭogrāphaṃ grahītuṃ śaknuvanti ?"
+],
+"Beautiful view": [
+"सुन्दरं दृश्यम्",
+"Sundaraṃ dṛśyam"
+],
+"I am on holiday": [
+"अहं अवकाशे अस्मि",
+"Ahaṃ avakāśe asmi"
+],
+"Business trip": [
+"व्यावसायिक यात्रा",
+"Vyāvasāyika yātrā"
+],
+"Round trip": [
+"गोलयात्रा",
+"Golayātrā"
+],
+"One way": [
+"एकः प्रकारः",
+"Ekaḥ prakāraḥ"
+],
+"Window seat please": [
+"खिडकी आसनम् कृपया",
+"Khiḍakī āsanam kṛpayā"
+],
+"Aisle seat please": [
+"गलियारासनं कृपया",
+"Galiyārāsanaṃ kṛpayā"
+],
+"No smoking": [
+"धूम्रपानं न भवति",
+"Dhūmrapānaṃ na bhavati"
+],
+"Luggage allowance?": [
+"सामान भत्ता ?",
+"Sāmāna bhattā ?"
+],
+"Boarding pass": [
+"बोर्डिंग पास",
+"Borḍiṃga pāsa"
+],
+"Gate number?": [
+"द्वारसङ्ख्या ?",
+"Dvārasaṅkhyā ?"
+],
+"Delayed": [
+"विलंबित",
+"Vilaṃbita"
+],
+"Cancelled": [
+"रद्दं कृतम्",
+"Raddaṃ kṛtam"
+],
+"On time": [
+"समये",
+"Samaye"
+],
+"Customs": [
+"परंपरा",
+"Paraṃparā"
+],
+"Nothing to declare": [
+"न किमपि घोषयितुं",
+"Na kimapi ghoṣayituṃ"
+],
+"Souvenir": [
+"स्मारिका",
+"Smārikā"
+],
+"Local specialty": [
+"स्थानीय विशेषता",
+"Sthānīya viśeṣatā"
+],
+"Recommend a restaurant": [
+"भोजनालयस्य अनुशंसा कुर्वन्तु",
+"Bhojanālayasya anuśaṃsā kurvantu"
+],
+"Safe journey": [
+"सुरक्षित यात्रा",
+"Surakṣita yātrā"
+],
+"Water": [
+"जलम्‌",
+"Jalam‌"
+],
+"Food": [
+"आहारः",
+"Āhāraḥ"
+],
+"I am hungry": [
+"अहं क्षुधार्तः अस्मि",
+"Ahaṃ kṣudhārtaḥ asmi"
+],
+"Cooked rice": [
+"पक्त्वा तण्डुलाः",
+"Paktvā taṇḍulāḥ"
+],
+"Tea": [
+"चाय",
+"Cāya"
+],
+"Coffee": [
+"काफी",
+"Kāphī"
+],
+"Please give me water": [
+"कृपया जलं ददातु",
+"Kṛpayā jalaṃ dadātu"
+],
+"The food is delicious": [
+"भोजनं स्वादिष्टम् अस्ति",
+"Bhojanaṃ svādiṣṭam asti"
+],
+"I am vegetarian": [
+"अहं शाकाहारी अस्मि",
+"Ahaṃ śākāhārī asmi"
+],
+"Bill please": [
+"बिल कृपया",
+"Bila kṛpayā"
+],
+"Have a nice meal": [
+"सुन्दरं भोजनं कुरुत",
+"Sundaraṃ bhojanaṃ kuruta"
+],
+"I am thirsty": [
+"अहं तृषितः अस्मि",
+"Ahaṃ tṛṣitaḥ asmi"
+],
+"One cup of tea": [
+"एकं चायस्य चषकं",
+"Ekaṃ cāyasya caṣakaṃ"
+],
+"No sugar please": [
+"न शर्करा कृपया",
+"Na śarkarā kṛpayā"
+],
+"Less spicy please": [
+"न्यून मसालेदारं कृपया",
+"Nyūna masāledāraṃ kṛpayā"
+],
+"Too hot": [
+"अति उष्णम्",
+"Ati uṣṇam"
+],
+"I am full": [
+"अहं पूर्णः अस्मि",
+"Ahaṃ pūrṇaḥ asmi"
+],
+"Menu please": [
+"मेनू कृपया",
+"Menū kṛpayā"
+],
+"What do you recommend?": [
+"भवन्तः किं अनुशंसन्ति ?",
+"Bhavantaḥ kiṃ anuśaṃsanti ?"
+],
+"Today's special?": [
+"अद्यतनः विशेषः?",
+"Adyatanaḥ viśeṣaḥ?"
+],
+"Is this vegetarian?": [
+"किम् एषः शाकाहारी ?",
+"Kim eṣaḥ śākāhārī ?"
+],
+"I have an allergy": [
+"मम एलर्जी अस्ति",
+"Mama elarjī asti"
+],
+"No onion no garlic": [
+"न प्याजः न लशुनम्",
+"Na pyājaḥ na laśunam"
+],
+"Pack this to go": [
+"गन्तुं एतत् समायोजयन्तु",
+"Gantuṃ etat samāyojayantu"
+],
+"Table for two": [
+"द्वयोः कृते सारणी",
+"Dvayoḥ kṛte sāraṇī"
+],
+"Can I have the bill?": [
+"मम कृते बिलम् अस्ति वा ?",
+"Mama kṛte bilam asti vā ?"
+],
+"Is service included?": [
+"सेवा अन्तर्भवति वा ?",
+"Sevā antarbhavati vā ?"
+],
+"Keep the change": [
+"परिवर्तनं स्थापयतु",
+"Parivartanaṃ sthāpayatu"
+],
+"This is cold": [
+"एतत् शीतम्",
+"Etat śītam"
+],
+"Can I get a refill?": [
+"पुनः भरणं प्राप्तुं शक्नोमि वा ?",
+"Punaḥ bharaṇaṃ prāptuṃ śaknomi vā ?"
+],
+"Breakfast": [
+"अल्पाहार",
+"Alpāhāra"
+],
+"Lunch": [
+"मध्याह्नभोजनम्‌",
+"Madhyāhnabhojanam‌"
+],
+"Dinner": [
+"रात्रिभोजनम्‌",
+"Rātribhojanam‌"
+],
+"Snack": [
+"परिका",
+"Parikā"
+],
+"Dessert": [
+"फलमिष्टादीनि",
+"Phalamiṣṭādīni"
+],
+"Starter": [
+"आरम्भकः",
+"Ārambhakaḥ"
+],
+"Main course": [
+"मुख्य पाठ्यक्रम",
+"Mukhya pāṭhyakrama"
+],
+"Soup": [
+"आसवं",
+"Āsavaṃ"
+],
+"Salad": [
+"सलाद",
+"Salāda"
+],
+"Rice and curry": [
+"तण्डुलं करी च",
+"Taṇḍulaṃ karī ca"
+],
+"Roti": [
+"रोति",
+"Roti"
+],
+"Dal": [
+"दल",
+"Dala"
+],
+"Vegetable curry": [
+"शाक करी",
+"Śāka karī"
+],
+"Fish curry": [
+"मत्स्य करी",
+"Matsya karī"
+],
+"Chicken": [
+"कुक्कुट",
+"Kukkuṭa"
+],
+"Egg": [
+"अंड",
+"Aṃḍa"
+],
+"Paneer": [
+"पनीर",
+"Panīra"
+],
+"Yogurt": [
+"दही",
+"Dahī"
+],
+"Pickle": [
+"अचारः",
+"Acāraḥ"
+],
+"Chutney": [
+"चटनी",
+"Caṭanī"
+],
+"Sweet": [
+"मधुरम्‌",
+"Madhuram‌"
+],
+"Ice cream": [
+"पयोहिम",
+"Payohima"
+],
+"Fresh juice": [
+"ताजाः रसः",
+"Tājāḥ rasaḥ"
+],
+"Cold drink": [
+"शीतपानम्",
+"Śītapānam"
+],
+"Hot milk": [
+"उष्णं दुग्धम्",
+"Uṣṇaṃ dugdham"
+],
+"Green tea": [
+"हरितचायः",
+"Haritacāyaḥ"
+],
+"Black coffee": [
+"कृष्णा काफी",
+"Kṛṣṇā kāphī"
+],
+"Mineral water": [
+"खनिजजलम्",
+"Khanijajalam"
+],
+"No ice": [
+"न हिमः",
+"Na himaḥ"
+],
+"Extra napkins": [
+"अतिरिक्त नैपकिन",
+"Atirikta naipakina"
+],
+"Raw": [
+"अपक्व",
+"Apakva"
+],
+"Cooked": [
+"पक्त्वा",
+"Paktvā"
+],
+"Fried": [
+"तले",
+"Tale"
+],
+"Boiled": [
+"क्वाथितम्",
+"Kvāthitam"
+],
+"Spicy": [
+"अवलेह",
+"Avaleha"
+],
+"Sour": [
+"अम्ल",
+"Amla"
+],
+"Bitter": [
+"तिक्त",
+"Tikta"
+],
+"Tasty": [
+"स्वादिष्ट",
+"Svādiṣṭa"
+],
+"Tasteless": [
+"अरुचिकर",
+"Arucikara"
+],
+"Fresh": [
+"प्रत्यग्र",
+"Pratyagra"
+],
+"Stale": [
+"बासी",
+"Bāsī"
+],
+"Hot": [
+"उष्णः",
+"Uṣṇaḥ"
+],
+"Cold": [
+"शैत्यम्‌",
+"Śaityam‌"
+],
+"I cannot eat this": [
+"अहं एतत् खादितुम् न शक्नोमि",
+"Ahaṃ etat khāditum na śaknomi"
+],
+"Different dish please": [
+"भिन्नं व्यञ्जनं कृपया",
+"Bhinnaṃ vyañjanaṃ kṛpayā"
+],
+"Same again": [
+"पुनः तथैव",
+"Punaḥ tathaiva"
+],
+"Half portion": [
+"अर्धभागः",
+"Ardhabhāgaḥ"
+],
+"Large portion": [
+"बृहत् भागः",
+"Bṛhat bhāgaḥ"
+],
+"Small portion": [
+"लघु भाग",
+"Laghu bhāga"
+],
+"For here or to go?": [
+"अत्र हि गन्तुं वा?",
+"Atra hi gantuṃ vā?"
+],
+"Eat slowly": [
+"मन्दं खादतु",
+"Mandaṃ khādatu"
+],
+"Cheers!": [
+"जयशब्दाः!",
+"Jayaśabdāḥ!"
+],
+"To your health": [
+"भवतः स्वास्थ्याय",
+"Bhavataḥ svāsthyāya"
+],
+"Enjoy your meal": [
+"भोजनस्य आनन्दं लभत",
+"Bhojanasya ānandaṃ labhata"
+],
+"It smells good": [
+"सुगन्धः भवति",
+"Sugandhaḥ bhavati"
+],
+"Too salty": [
+"अति लवणयुक्तम्",
+"Ati lavaṇayuktam"
+],
+"Perfect": [
+"परिपूर्णम्‌",
+"Paripūrṇam‌"
+],
+"Compliments to the chef": [
+"शेफस्य प्रशंसा",
+"Śephasya praśaṃsā"
+],
+"How much is this?": [
+"कियत् एतत् ?",
+"Kiyat etat ?"
+],
+"That's too expensive": [
+"तत् अतिमहत्त्वपूर्णम्",
+"Tat atimahattvapūrṇam"
+],
+"Cheap": [
+"अल्पमूल्यम्‌",
+"Alpamūlyam‌"
+],
+"Give me one kg rice": [
+"एकं किलो तण्डुलं ददातु",
+"Ekaṃ kilo taṇḍulaṃ dadātu"
+],
+"Do you have a bag?": [
+"भवतः पुटम् अस्ति वा ?",
+"Bhavataḥ puṭam asti vā ?"
+],
+"OK I'll take it": [
+"ठीकम् अहं गृह्णामि",
+"Ṭhīkam ahaṃ gṛhṇāmi"
+],
+"Can you reduce the price?": [
+"मूल्यं न्यूनीकर्तुं शक्नुवन्ति वा ?",
+"Mūlyaṃ nyūnīkartuṃ śaknuvanti vā ?"
+],
+"Give me a discount": [
+"मम कृते छूटं ददातु",
+"Mama kṛte chūṭaṃ dadātu"
+],
+"Final price?": [
+"अन्तिममूल्यम् ?",
+"Antimamūlyam ?"
+],
+"I am just looking": [
+"अहं केवलं पश्यन् अस्मि",
+"Ahaṃ kevalaṃ paśyan asmi"
+],
+"Do you have this in red?": [
+"किं भवतः एतत् रक्तवर्णे अस्ति ?",
+"Kiṃ bhavataḥ etat raktavarṇe asti ?"
+],
+"Do you have a bigger size?": [
+"भवतः आकारः बृहत्तरः अस्ति वा ?",
+"Bhavataḥ ākāraḥ bṛhattaraḥ asti vā ?"
+],
+"Do you have a smaller size?": [
+"भवतः आकारः लघुतरः अस्ति वा ?",
+"Bhavataḥ ākāraḥ laghutaraḥ asti vā ?"
+],
+"Can I try this on?": [
+"किं अहम् एतत् प्रयतितुं शक्नोमि ?",
+"Kiṃ aham etat prayatituṃ śaknomi ?"
+],
+"Where is the fitting room?": [
+"फिटिंग्-कक्षः कुत्र अस्ति ?",
+"Phiṭiṃg-kakṣaḥ kutra asti ?"
+],
+"I will pay by card": [
+"अहं कार्डद्वारा दास्यामि",
+"Ahaṃ kārḍadvārā dāsyāmi"
+],
+"Do you accept cards?": [
+"किं भवन्तः कार्ड्स् स्वीकुर्वन्ति ?",
+"Kiṃ bhavantaḥ kārḍs svīkurvanti ?"
+],
+"Cash only": [
+"नगदमात्रम्",
+"Nagadamātram"
+],
+"Do you have change?": [
+"भवतः परिवर्तनम् अस्ति वा ?",
+"Bhavataḥ parivartanam asti vā ?"
+],
+"Receipt please": [
+"रसीद कृपया",
+"Rasīda kṛpayā"
+],
+"Gift wrap please": [
+"उपहार वेष्ट कृपया",
+"Upahāra veṣṭa kṛpayā"
+],
+"Where do I pay?": [
+"अहं कुत्र दास्यामि ?",
+"Ahaṃ kutra dāsyāmi ?"
+],
+"Is there a warranty?": [
+"वारण्टी अस्ति वा ?",
+"Vāraṇṭī asti vā ?"
+],
+"Can I return this?": [
+"एतत् प्रत्यागन्तुं शक्नोमि वा ?",
+"Etat pratyāgantuṃ śaknomi vā ?"
+],
+"Exchange only": [
+"केवलं आदानप्रदानम्",
+"Kevalaṃ ādānapradānam"
+],
+"Out of stock": [
+"स्टॉकतः बहिः अस्ति",
+"Sṭaॉkataḥ bahiḥ asti"
+],
+"When will it arrive?": [
+"कदा आगमिष्यति ?",
+"Kadā āgamiṣyati ?"
+],
+"Order": [
+"आदेशः",
+"Ādeśaḥ"
+],
+"Delivery": [
+"वितरण",
+"Vitaraṇa"
+],
+"Free delivery?": [
+"निःशुल्कं वितरणं ?",
+"Niḥśulkaṃ vitaraṇaṃ ?"
+],
+"Supermarket": [
+"सुपरमार्केट",
+"Suparamārkeṭa"
+],
+"Market": [
+"विपणि",
+"Vipaṇi"
+],
+"Shop": [
+"आपण",
+"Āpaṇa"
+],
+"Mall": [
+"विपणि",
+"Vipaṇi"
+],
+"Bakery": [
+"भर्जनी",
+"Bharjanī"
+],
+"Pharmacy": [
+"औषधालय",
+"Auṣadhālaya"
+],
+"Bookstore": [
+"पुस्तकालय",
+"Pustakālaya"
+],
+"Clothing store": [
+"वस्त्रभण्डारः",
+"Vastrabhaṇḍāraḥ"
+],
+"Shoe shop": [
+"जूता-दुकानम्",
+"Jūtā-dukānam"
+],
+"Jewellery shop": [
+"आभूषणस्य दुकानम्",
+"Ābhūṣaṇasya dukānam"
+],
+"Electronics store": [
+"इलेक्ट्रॉनिक्स भण्डार",
+"Ilekṭraॉniksa bhaṇḍāra"
+],
+"Open": [
+"उद्घाटित",
+"Udghāṭita"
+],
+"Closed": [
+"निमीलितम्",
+"Nimīlitam"
+],
+"Sale": [
+"विक्रय",
+"Vikraya"
+],
+"Half price": [
+"अर्धमूल्यम्",
+"Ardhamūlyam"
+],
+"Buy one get one": [
+"एकं क्रीणीत एकं प्राप्नुत",
+"Ekaṃ krīṇīta ekaṃ prāpnuta"
+],
+"Clearance": [
+"निकासी",
+"Nikāsī"
+],
+"New arrival": [
+"नव आगमन",
+"Nava āgamana"
+],
+"Best seller": [
+"सर्वोत्तमविक्रेता",
+"Sarvottamavikretā"
+],
+"Limited edition": [
+"सीमित संस्करण",
+"Sīmita saṃskaraṇa"
+],
+"Original": [
+"मूल",
+"Mūla"
+],
+"Copy": [
+"प्रतिलिपि",
+"Pratilipi"
+],
+"Brand": [
+"चिह्न",
+"Cihna"
+],
+"Quality": [
+"गुणवत्ता",
+"Guṇavattā"
+],
+"Cheap quality": [
+"सस्ते गुणवत्ता",
+"Saste guṇavattā"
+],
+"Good quality": [
+"उत्तमगुणवत्ता",
+"Uttamaguṇavattā"
+],
+"Expensive": [
+"बहुमूल्यम्‌",
+"Bahumūlyam‌"
+],
+"Affordable": [
+"प्रमाप्य",
+"Pramāpya"
+],
+"Bargain": [
+"विपण्य",
+"Vipaṇya"
+],
+"Negotiate": [
+"परक्रामणं",
+"Parakrāmaṇaṃ"
+],
+"I need...": [
+"मम आवश्यकता अस्ति...",
+"Mama āvaśyakatā asti..."
+],
+"Show me that": [
+"तत् दर्शयतु",
+"Tat darśayatu"
+],
+"Anything else?": [
+"अन्यत् किमपि ?",
+"Anyat kimapi ?"
+],
+"That is all": [
+"तत् एव",
+"Tat eva"
+],
+"I will think about it": [
+"अहं तस्य विषये चिन्तयिष्यामि",
+"Ahaṃ tasya viṣaye cintayiṣyāmi"
+],
+"I will come back": [
+"अहं पुनः आगमिष्यामि",
+"Ahaṃ punaḥ āgamiṣyāmi"
+],
+"Do you have another colour?": [
+"भवतः अन्यः वर्णः अस्ति वा ?",
+"Bhavataḥ anyaḥ varṇaḥ asti vā ?"
+],
+"Only this left": [
+"केवलम् एतत् एव अवशिष्टम्",
+"Kevalam etat eva avaśiṣṭam"
+],
+"Last piece": [
+"अन्तिमः खण्डः",
+"Antimaḥ khaṇḍaḥ"
+],
+"Reserve this for me": [
+"एतत् मम कृते आरक्षयतु",
+"Etat mama kṛte ārakṣayatu"
+],
+"Put it on hold": [
+"तत् स्थगितम्",
+"Tat sthagitam"
+],
+"Cancel my order": [
+"मम आदेशं रद्दं कुरुत",
+"Mama ādeśaṃ raddaṃ kuruta"
+],
+"Track my order": [
+"मम आदेशं अनुसृत्य स्थापयतु",
+"Mama ādeśaṃ anusṛtya sthāpayatu"
+],
+"Wrong size": [
+"गलत आकारः",
+"Galata ākāraḥ"
+],
+"Defective": [
+"दोषपूर्णः",
+"Doṣapūrṇaḥ"
+],
+"Refund": [
+"प्रतिदान",
+"Pratidāna"
+],
+"Complaint": [
+"अनुबद्ध",
+"Anubaddha"
+],
+"Manager": [
+"प्रबंधकः",
+"Prabaṃdhakaḥ"
+],
+"Customer service": [
+"ग्राहक सेवा",
+"Grāhaka sevā"
+],
+"Help desk": [
+"सहायता मेज",
+"Sahāyatā meja"
+],
+"Counter": [
+"गणित्र",
+"Gaṇitra"
+],
+"Queue": [
+"पङ्क्ति",
+"Paṅkti"
+],
+"Waiting": [
+"उपास्ते",
+"Upāste"
+],
+"Next please": [
+"तदनन्तरं कृपया",
+"Tadanantaraṃ kṛpayā"
+],
+"Hurry": [
+"त्वरा",
+"Tvarā"
+],
+"No rush": [
+"न त्वरितम्",
+"Na tvaritam"
+],
+"Take your time": [
+"समयं गृहाण",
+"Samayaṃ gṛhāṇa"
+],
+"Have a nice day": [
+"शुभ दिनं",
+"Śubha dinaṃ"
+],
+"Thank you for shopping": [
+"शॉपिङ्ग् कृते धन्यवादः",
+"Śaॉpiṅg kṛte dhanyavādaḥ"
+],
+"Help!": [
+"साहाय्यम्‌!",
+"Sāhāyyam‌!"
+],
+"Stop!": [
+"विरमतु!",
+"Viramatu!"
+],
+"Call the police!": [
+"पुलिसं आह्वयन्तु !",
+"Pulisaṃ āhvayantu !"
+],
+"Fire!": [
+"अग्निः!",
+"Agniḥ!"
+],
+"I need a doctor": [
+"मम वैद्यस्य आवश्यकता अस्ति",
+"Mama vaidyasya āvaśyakatā asti"
+],
+"I'm sick": [
+"अहं रोगी अस्मि",
+"Ahaṃ rogī asmi"
+],
+"It's an emergency": [
+"आपत्कालः अस्ति",
+"Āpatkālaḥ asti"
+],
+"There has been an accident": [
+"दुर्घटना अभवत्",
+"Durghaṭanā abhavat"
+],
+"I have been robbed": [
+"अहं लुण्ठितः अस्मि",
+"Ahaṃ luṇṭhitaḥ asmi"
+],
+"Someone is following me": [
+"कश्चित् मम अनुसरणं करोति",
+"Kaścit mama anusaraṇaṃ karoti"
+],
+"I lost my child": [
+"अहं मम बालकं नष्टवान्",
+"Ahaṃ mama bālakaṃ naṣṭavān"
+],
+"I need medicine": [
+"मम औषधस्य आवश्यकता अस्ति",
+"Mama auṣadhasya āvaśyakatā asti"
+],
+"I have pain here": [
+"अत्र मम वेदना अस्ति",
+"Atra mama vedanā asti"
+],
+"I am allergic to...": [
+"मम एलर्जी अस्ति...",
+"Mama elarjī asti..."
+],
+"I have fever": [
+"मम ज्वरः अस्ति",
+"Mama jvaraḥ asti"
+],
+"I have a headache": [
+"मम शिरोवेदना अस्ति",
+"Mama śirovedanā asti"
+],
+"I have stomach ache": [
+"मम उदरवेदना अस्ति",
+"Mama udaravedanā asti"
+],
+"I cannot breathe": [
+"अहं श्वसितुम् न शक्नोमि",
+"Ahaṃ śvasitum na śaknomi"
+],
+"Bleeding": [
+"रक्तस्रावः",
+"Raktasrāvaḥ"
+],
+"Broken bone": [
+"भग्न अस्थि",
+"Bhagna asthi"
+],
+"Burn": [
+"जलन",
+"Jalana"
+],
+"Bite": [
+"दंश्",
+"Daṃś"
+],
+"Poison": [
+"विष",
+"Viṣa"
+],
+"Drowning": [
+"डुबन्",
+"Ḍuban"
+],
+"Unconscious": [
+"निःसंज्ञ",
+"Niḥsaṃjña"
+],
+"Heart attack": [
+"हृदयघात",
+"Hṛdayaghāta"
+],
+"Stay calm": [
+"शान्तं तिष्ठतु",
+"Śāntaṃ tiṣṭhatu"
+],
+"Do not move": [
+"मा चले",
+"Mā cale"
+],
+"Police station": [
+"थाना",
+"Thānā"
+],
+"Fire station": [
+"अग्निशामकस्थानकम्",
+"Agniśāmakasthānakam"
+],
+"Ambulance": [
+"एम्बुलेन्स",
+"Embulensa"
+],
+"Doctor": [
+"चिकितसिक",
+"Cikitasika"
+],
+"Nurse": [
+"उपचर",
+"Upacara"
+],
+"Medicine": [
+"चिकित्सा",
+"Cikitsā"
+],
+"First aid": [
+"प्राथमिक चिकित्सा",
+"Prāthamika cikitsā"
+],
+"Bandage": [
+"पट्टिका",
+"Paṭṭikā"
+],
+"Antiseptic": [
+"एंटीसेप्टिक",
+"Eṃṭīsepṭika"
+],
+"Painkiller": [
+"वेदनाशामकम्",
+"Vedanāśāmakam"
+],
+"Injection": [
+"इन्जेक्शन",
+"Injekśana"
+],
+"Blood": [
+"रक्त",
+"Rakta"
+],
+"Blood bank": [
+"रक्तकोष्ठः",
+"Raktakoṣṭhaḥ"
+],
+"Operation": [
+"संचालन",
+"Saṃcālana"
+],
+"ICU": [
+"आईसीयू",
+"Āīsīyū"
+],
+"Ward": [
+"वार्ड",
+"Vārḍa"
+],
+"Emergency room": [
+"आपत्कालीन कक्ष",
+"Āpatkālīna kakṣa"
+],
+"X-ray": [
+"क्ष-किरण",
+"Kṣa-kiraṇa"
+],
+"Report": [
+"वृत्तान्तः",
+"Vṛttāntaḥ"
+],
+"Prescription": [
+"विधानम्",
+"Vidhānam"
+],
+"Insurance": [
+"अभिरक्षा",
+"Abhirakṣā"
+],
+"Contact number": [
+"सम्पर्क नम्बर",
+"Samparka nambara"
+],
+"Next of kin": [
+"ज्ञातिजनानाम्",
+"Jñātijanānām"
+],
+"Identity": [
+"चिह्नं",
+"Cihnaṃ"
+],
+"Passport": [
+"पासपोर्ट",
+"Pāsaporṭa"
+],
+"Address": [
+"पत्रसङ्केतः",
+"Patrasaṅketaḥ"
+],
+"Phone": [
+"फोनं",
+"Phonaṃ"
+],
+"Quick!": [
+"तीव्र!",
+"Tīvra!"
+],
+"Hurry up!": [
+"शिघ्रेन कुरु!",
+"Śighrena kuru!"
+],
+"Safe": [
+"सुरक्षितः",
+"Surakṣitaḥ"
+],
+"Danger": [
+"संकट",
+"Saṃkaṭa"
+],
+"Warning": [
+"चेतवानी",
+"Cetavānī"
+],
+"Caution": [
+"सचेत",
+"Saceta"
+],
+"Exit": [
+"निर्गम",
+"Nirgama"
+],
+"Entrance": [
+"प्रवेश",
+"Praveśa"
+],
+"Evacuate": [
+"निष्कासित करें",
+"Niṣkāsita kareṃ"
+],
+"Assembly point": [
+"सभा बिन्दु",
+"Sabhā bindu"
+],
+"Do not enter": [
+"मा प्रविशतु",
+"Mā praviśatu"
+],
+"No entry": [
+"प्रवेशः नास्ति",
+"Praveśaḥ nāsti"
+],
+"Restricted area": [
+"प्रतिबन्धित क्षेत्र",
+"Pratibandhita kṣetra"
+],
+"Keep away": [
+"दूरं स्थापयतु",
+"Dūraṃ sthāpayatu"
+],
+"Do not touch": [
+"न स्पृशतु",
+"Na spṛśatu"
+],
+"High voltage": [
+"उच्च वोल्टेज",
+"Ucca volṭeja"
+],
+"Flammable": [
+"ज्वलनशील",
+"Jvalanaśīla"
+],
+"Toxic": [
+"वैषिकः",
+"Vaiṣikaḥ"
+],
+"Corrosive": [
+"संक्षारक",
+"Saṃkṣāraka"
+],
+"Slippery": [
+"स्खलनम्",
+"Skhalanam"
+],
+"Fragile": [
+"खण्ड्य",
+"Khaṇḍya"
+],
+"Handle with care": [
+"सावधानीपूर्वकं सम्पादयन्तु",
+"Sāvadhānīpūrvakaṃ sampādayantu"
+],
+"Emergency exit": [
+"आपत्कालीन निर्गमन",
+"Āpatkālīna nirgamana"
+],
+"Fire extinguisher": [
+"अग्निशामकम्",
+"Agniśāmakam"
+],
+"First aid kit": [
+"प्रथमचिकित्सासामग्री",
+"Prathamacikitsāsāmagrī"
+],
+"Emergency number": [
+"आपत्कालीन संख्या",
+"Āpatkālīna saṃkhyā"
+],
+"Helpline": [
+"सहायतारेखा",
+"Sahāyatārekhā"
+],
+"Lost and found": [
+"नष्टः लब्धः च",
+"Naṣṭaḥ labdhaḥ ca"
+],
+"Missing person": [
+"लापता व्यक्तिः",
+"Lāpatā vyaktiḥ"
+],
+"Report to police": [
+"पुलिसं प्रति प्रतिवेदनं कुर्वन्तु",
+"Pulisaṃ prati prativedanaṃ kurvantu"
+],
+"Stay with me": [
+"मया सह तिष्ठ",
+"Mayā saha tiṣṭha"
+],
+"Everything will be fine": [
+"सर्वं सुष्ठु भविष्यति",
+"Sarvaṃ suṣṭhu bhaviṣyati"
+],
+"What time is it?": [
+"कः समयः ?",
+"Kaḥ samayaḥ ?"
+],
+"Morning": [
+"प्रातः",
+"Prātaḥ"
+],
+"Evening": [
+"सायंकालः",
+"Sāyaṃkālaḥ"
+],
+"Night": [
+"निशा",
+"Niśā"
+],
+"Today": [
+"अद्य",
+"Adya"
+],
+"Tomorrow": [
+"श्वः",
+"Śvaḥ"
+],
+"Yesterday": [
+"ह्यः",
+"Hyaḥ"
+],
+"Now": [
+"अधुना",
+"Adhunā"
+],
+"Sunday": [
+"रविवारं",
+"Ravivāraṃ"
+],
+"Monday": [
+"सोमवारं",
+"Somavāraṃ"
+],
+"Tuesday": [
+"मङ्गलवारः",
+"Maṅgalavāraḥ"
+],
+"Wednesday": [
+"बुधवारः",
+"Budhavāraḥ"
+],
+"Thursday": [
+"बृहस्पतिवारः",
+"Bṛhaspativāraḥ"
+],
+"Friday": [
+"शुक्रवारं",
+"Śukravāraṃ"
+],
+"Saturday": [
+"शनिवारं",
+"Śanivāraṃ"
+],
+"Week": [
+"सप्ताहः",
+"Saptāhaḥ"
+],
+"Month": [
+"माह",
+"Māha"
+],
+"Year": [
+"वर्ष",
+"Varṣa"
+],
+"Early morning": [
+"प्रातःकाले",
+"Prātaḥkāle"
+],
+"Noon": [
+"अपराह्न",
+"Aparāhna"
+],
+"Midnight": [
+"मध्यरात्री",
+"Madhyarātrī"
+],
+"Hour": [
+"घटकः",
+"Ghaṭakaḥ"
+],
+"Minute": [
+"क्षणं",
+"Kṣaṇaṃ"
+],
+"Second": [
+"क्षण",
+"Kṣaṇa"
+],
+"Late": [
+"विलम्बेन",
+"Vilambena"
+],
+"Early": [
+"शीघ्रम्‌",
+"Śīghram‌"
+],
+"Before": [
+"पूर्वम्‌",
+"Pūrvam‌"
+],
+"After": [
+"अनन्तरम्‌",
+"Anantaram‌"
+],
+"January": [
+"जनवरी",
+"Janavarī"
+],
+"February": [
+"फरवरी माह",
+"Pharavarī māha"
+],
+"March": [
+"प्रयाण",
+"Prayāṇa"
+],
+"April": [
+"अप्रैल-माह",
+"Apraila-māha"
+],
+"May": [
+"स्यात्‌",
+"Syāt‌"
+],
+"June": [
+"जूनं माह",
+"Jūnaṃ māha"
+],
+"July": [
+"जुलाईमाह",
+"Julāīmāha"
+],
+"August": [
+"अगस्त माह",
+"Agasta māha"
+],
+"September": [
+"सितंबरं माह",
+"Sitaṃbaraṃ māha"
+],
+"October": [
+"अक्टूबर माह",
+"Akṭūbara māha"
+],
+"November": [
+"नवंबर: माह",
+"Navaṃbara: māha"
+],
+"December": [
+"दिसंबरं माह",
+"Disaṃbaraṃ māha"
+],
+"Spring": [
+"वसन्तः",
+"Vasantaḥ"
+],
+"Summer": [
+"ग्रीष्म",
+"Grīṣma"
+],
+"Monsoon": [
+"मानसून",
+"Mānasūna"
+],
+"Winter": [
+"शीतकाल",
+"Śītakāla"
+],
+"Season": [
+"ऋतु",
+"Ṛtu"
+],
+"Holiday": [
+"अवकाशदिनं",
+"Avakāśadinaṃ"
+],
+"Festival": [
+"पर्वं",
+"Parvaṃ"
+],
+"Birthday": [
+"जन्मदिवस",
+"Janmadivasa"
+],
+"Anniversary": [
+"वार्षिकी",
+"Vārṣikī"
+],
+"Appointment": [
+"नियुक्तिः",
+"Niyuktiḥ"
+],
+"Meeting": [
+"मेलनम्‌",
+"Melanam‌"
+],
+"Deadline": [
+"समयसीमा",
+"Samayasīmā"
+],
+"Schedule": [
+"कार्यक्रमः",
+"Kāryakramaḥ"
+],
+"Free time": [
+"विरक्तसमयः",
+"Viraktasamayaḥ"
+],
+"Busy": [
+"व्यस्तः",
+"Vyastaḥ"
+],
+"Available": [
+"उपलब्धः",
+"Upalabdhaḥ"
+],
+"Not available": [
+"न लभ्यते",
+"Na labhyate"
+],
+"At what time?": [
+"कस्मिन् समये ?",
+"Kasmin samaye ?"
+],
+"Until when?": [
+"कदा यावत् ?",
+"Kadā yāvat ?"
+],
+"From when?": [
+"कदा आरभ्य ?",
+"Kadā ārabhya ?"
+],
+"How long?": [
+"कियत्कालं यावत् ?",
+"Kiyatkālaṃ yāvat ?"
+],
+"A long time": [
+"बहुकालः",
+"Bahukālaḥ"
+],
+"A short time": [
+"अल्पकालः",
+"Alpakālaḥ"
+],
+"Just now": [
+"अधुना एव",
+"Adhunā eva"
+],
+"A while ago": [
+"किञ्चित्कालपूर्वम्",
+"Kiñcitkālapūrvam"
+],
+"In a moment": [
+"क्षणमात्रेण",
+"Kṣaṇamātreṇa"
+],
+"Wait a minute": [
+"एकं निमेषं प्रतीक्ष्यताम्",
+"Ekaṃ nimeṣaṃ pratīkṣyatām"
+],
+"See you later": [
+"तत् पश्चात् अहं त्वां पश्यामि",
+"Tat paścāt ahaṃ tvāṃ paśyāmi"
+],
+"See you tomorrow": [
+"त्वं श्वः पश्यामि",
+"Tvaṃ śvaḥ paśyāmi"
+],
+"See you next week": [
+"अग्रिमे सप्ताहे मिलित्वा",
+"Agrime saptāhe militvā"
+],
+"Every day": [
+"प्रतिदिनं",
+"Pratidinaṃ"
+],
+"Every week": [
+"प्रतिसप्ताहं",
+"Pratisaptāhaṃ"
+],
+"Once a week": [
+"सप्ताहे एकवारं",
+"Saptāhe ekavāraṃ"
+],
+"Twice a day": [
+"दिने द्विवारं",
+"Dine dvivāraṃ"
+],
+"All day": [
+"सर्वं दिवसम्",
+"Sarvaṃ divasam"
+],
+"All night": [
+"सर्वा रात्रौ",
+"Sarvā rātrau"
+],
+"Day after tomorrow": [
+"श्वः परदिनम्",
+"Śvaḥ paradinam"
+],
+"Day before yesterday": [
+"श्वः पूर्वदिनम्",
+"Śvaḥ pūrvadinam"
+],
+"Next month": [
+"आगामिमासे",
+"Āgāmimāse"
+],
+"Last month": [
+"गतमासे",
+"Gatamāse"
+],
+"Next year": [
+"आगामिवर्षे",
+"Āgāmivarṣe"
+],
+"Last year": [
+"गतवर्षे",
+"Gatavarṣe"
+],
+"In the past": [
+"पुरा",
+"Purā"
+],
+"In the future": [
+"भविष्ये",
+"Bhaviṣye"
+],
+"At present": [
+"सम्प्रति",
+"Samprati"
+],
+"From now on": [
+"इतः परम्",
+"Itaḥ param"
+],
+"So far": [
+"इति",
+"Iti"
+],
+"For a long time": [
+"चिरकालं यावत्",
+"Cirakālaṃ yāvat"
+],
+"Yes": [
+"आम्‌",
+"Ām‌"
+],
+"No": [
+"नहि",
+"Nahi"
+],
+"Please speak slowly": [
+"कृपया मन्दं वदतु",
+"Kṛpayā mandaṃ vadatu"
+],
+"I don't understand": [
+"अहं न अवबोधयामि",
+"Ahaṃ na avabodhayāmi"
+],
+"Do you speak Maithili?": [
+"किं भवन्तः मैथिलीं वदन्ति ?",
+"Kiṃ bhavantaḥ maithilīṃ vadanti ?"
+],
+"No problem": [
+"कापि समस्या न",
+"Kāpi samasyā na"
+],
+"I agree": [
+"अहं सहमतः अस्मि",
+"Ahaṃ sahamataḥ asmi"
+],
+"Come in": [
+"प्रविशतु",
+"Praviśatu"
+],
+"Have you eaten?": [
+"किं भवान् खादितवान्?",
+"Kiṃ bhavān khāditavān?"
+],
+"We are happy": [
+"वयं प्रसन्नाः स्मः",
+"Vayaṃ prasannāḥ smaḥ"
+],
+"Maybe": [
+"भवेत्‌",
+"Bhavet‌"
+],
+"Of course": [
+"निश्चयेन",
+"Niścayena"
+],
+"Certainly": [
+"निश्चयेन",
+"Niścayena"
+],
+"I think so": [
+"अहं तथा मन्ये",
+"Ahaṃ tathā manye"
+],
+"I don't think so": [
+"अहं न मन्ये",
+"Ahaṃ na manye"
+],
+"I hope so": [
+"मम आशा तत्",
+"Mama āśā tat"
+],
+"I am not sure": [
+"अहं निश्चितः नास्मि",
+"Ahaṃ niścitaḥ nāsmi"
+],
+"It depends": [
+"आश्रित्य भवति",
+"Āśritya bhavati"
+],
+"That is right": [
+"तत् सम्यक्",
+"Tat samyak"
+],
+"That is wrong": [
+"तत् दोषम्",
+"Tat doṣam"
+],
+"I see": [
+"अहं पश्यामि",
+"Ahaṃ paśyāmi"
+],
+"Really?": [
+"यथार्थत?",
+"Yathārthata?"
+],
+"Are you sure?": [
+"किं त्वं निश्चिन्तः असि ?",
+"Kiṃ tvaṃ niścintaḥ asi ?"
+],
+"Why not?": [
+"ना केन?",
+"Nā kena?"
+],
+"What for?": [
+"किमर्थम् ?",
+"Kimartham ?"
+],
+"Never mind": [
+"चिंतां मास्तु",
+"Ciṃtāṃ māstu"
+],
+"It does not matter": [
+"न महत्त्वम्",
+"Na mahattvam"
+],
+"Same here": [
+"यत्रेव सम",
+"Yatreva sama"
+],
+"Me too": [
+"अहमपि",
+"Ahamapi"
+],
+"Neither do I": [
+"न च अहम्",
+"Na ca aham"
+],
+"Let me see": [
+"पश्यामि",
+"Paśyāmi"
+],
+"Let us go": [
+"गच्छामः",
+"Gacchāmaḥ"
+],
+"Wait": [
+"प्रतीक्षतु",
+"Pratīkṣatu"
+],
+"Hold on": [
+"ग्रह्",
+"Grah"
+],
+"Just a second": [
+"केवलं एकं सेकण्ड्",
+"Kevalaṃ ekaṃ sekaṇḍ"
+],
+"One moment": [
+"एकं क्षणम्",
+"Ekaṃ kṣaṇam"
+],
+"As you wish": [
+"यथा इच्छसि",
+"Yathā icchasi"
+],
+"Whatever you say": [
+"यत्किमपि वदसि",
+"Yatkimapi vadasi"
+],
+"I have no idea": [
+"मम कल्पना नास्ति",
+"Mama kalpanā nāsti"
+],
+"I forgot": [
+"अहं विस्मृतवान्",
+"Ahaṃ vismṛtavān"
+],
+"I remember": [
+"अहं स्मरामि",
+"Ahaṃ smarāmi"
+],
+"It slipped my mind": [
+"मम मनः स्खलितवान्",
+"Mama manaḥ skhalitavān"
+],
+"Remind me": [
+"स्मारयतु",
+"Smārayatu"
+],
+"I mean": [
+"ममार्थः",
+"Mamārthaḥ"
+],
+"I mean it": [
+"इत्यर्थः",
+"Ityarthaḥ"
+],
+"What I mean is": [
+"मम अभिप्रायः अस्ति",
+"Mama abhiprāyaḥ asti"
+],
+"In other words": [
+"अन्येषु शब्देषु",
+"Anyeṣu śabdeṣu"
+],
+"That is to say": [
+"इत्यर्थः",
+"Ityarthaḥ"
+],
+"For example": [
+"उदाहरणतया",
+"Udāharaṇatayā"
+],
+"Such as": [
+"समान",
+"Samāna"
+],
+"And so on": [
+"इत्यादि",
+"Ityādi"
+],
+"Et cetera": [
+"इत्यादि",
+"Ityādi"
+],
+"And so forth": [
+"इत्यादि",
+"Ityādi"
+],
+"By the way": [
+"एतदतिरिच्य",
+"Etadatiricya"
+],
+"Speaking of which": [
+"यस्य विषये वदन्",
+"Yasya viṣaye vadan"
+],
+"Anyway": [
+"कथञ्चिद्‌",
+"Kathañcid‌"
+],
+"Anyhow": [
+"तथापि",
+"Tathāpi"
+],
+"Actually": [
+"यथार्थतः",
+"Yathārthataḥ"
+],
+"Basically": [
+"आधारभूत",
+"Ādhārabhūta"
+],
+"To be honest": [
+"सत्यं वक्तुं",
+"Satyaṃ vaktuṃ"
+],
+"To tell the truth": [
+"सत्यं वक्तुं",
+"Satyaṃ vaktuṃ"
+],
+"Frankly": [
+"प्रामाणिकतया",
+"Prāmāṇikatayā"
+],
+"Honestly": [
+"सारल्येन",
+"Sāralyena"
+],
+"Believe me": [
+"विश्वासं कुरु",
+"Viśvāsaṃ kuru"
+],
+"Trust me": [
+"विश्वासं कुरुत",
+"Viśvāsaṃ kuruta"
+],
+"I promise": [
+"अहं प्रतिज्ञामि",
+"Ahaṃ pratijñāmi"
+],
+"I swear": [
+"शपथं करोमि",
+"Śapathaṃ karomi"
+],
+"No way": [
+"पथं ना",
+"Pathaṃ nā"
+],
+"No doubt": [
+"न संशयः",
+"Na saṃśayaḥ"
+],
+"No wonder": [
+"न आश्चर्यम्",
+"Na āścaryam"
+],
+"No kidding": [
+"न मजाकं",
+"Na majākaṃ"
+],
+"Just kidding": [
+"केवलं मजाकं कुर्वन्",
+"Kevalaṃ majākaṃ kurvan"
+],
+"I am joking": [
+"अहं विनोदं करोमि",
+"Ahaṃ vinodaṃ karomi"
+],
+"Seriously": [
+"गंभीरतया",
+"Gaṃbhīratayā"
+],
+"Are you serious?": [
+"किं त्वं गम्भीरः असि ?",
+"Kiṃ tvaṃ gambhīraḥ asi ?"
+],
+"I am serious": [
+"अहं गम्भीरः अस्मि",
+"Ahaṃ gambhīraḥ asmi"
+],
+"Sounds good": [
+"साधु ध्वन्यते",
+"Sādhu dhvanyate"
+],
+"Looks good": [
+"उत्तमं दृश्यते",
+"Uttamaṃ dṛśyate"
+],
+"Feels good": [
+"उत्तमं भवति",
+"Uttamaṃ bhavati"
+],
+"Good idea": [
+"उत्तमः विचारः",
+"Uttamaḥ vicāraḥ"
+],
+"Bad idea": [
+"दुर्विचारः",
+"Durvicāraḥ"
+],
+"Great idea": [
+"महान् विचारः",
+"Mahān vicāraḥ"
+],
+"Not bad": [
+"दुर्गुण: न",
+"Durguṇa: na"
+],
+"Not bad at all": [
+"न दुष्टं सर्वथा",
+"Na duṣṭaṃ sarvathā"
+],
+"Could be better": [
+"श्रेष्ठं भवितुम् अर्हति",
+"Śreṣṭhaṃ bhavitum arhati"
+],
+"Could be worse": [
+"दुष्टतरं भवितुम् अर्हति",
+"Duṣṭataraṃ bhavitum arhati"
+],
+"So so": [
+"अतः एवम्",
+"Ataḥ evam"
+],
+"Same as usual": [
+"सामान्यतः एव",
+"Sāmānyataḥ eva"
+],
+"Nothing special": [
+"न किमपि विशेषम्",
+"Na kimapi viśeṣam"
+],
+"Name": [
+"नामः",
+"Nāmaḥ"
+],
+"Good": [
+"शोभन",
+"Śobhana"
+],
+"Bad": [
+"असमीचीनः",
+"Asamīcīnaḥ"
+],
+"Fine": [
+"दण्डः",
+"Daṇḍaḥ"
+],
+"Well": [
+"कूपः",
+"Kūpaḥ"
+],
+"Kind": [
+"दयालु",
+"Dayālu"
+],
+"Polite": [
+"नम्रः",
+"Namraḥ"
+],
+"Respect": [
+"आदरः",
+"Ādaraḥ"
+],
+"Love": [
+"स्नेहः",
+"Snehaḥ"
+],
+"Friend": [
+"मित्रम्",
+"Mitram"
+],
+"Guest": [
+"अतिथि",
+"Atithi"
+],
+"Host": [
+"निमन्त्रकः",
+"Nimantrakaḥ"
+],
+"Greeting": [
+"शुभकामना",
+"Śubhakāmanā"
+],
+"Farewell": [
+"विदायः",
+"Vidāyaḥ"
+],
+"Blessing": [
+"आशीर्वादः",
+"Āśīrvādaḥ"
+],
+"Wish": [
+"इच्छा",
+"Icchā"
+],
+"Gratitude": [
+"कृतवेदित्व",
+"Kṛtaveditva"
+],
+"Apology": [
+"क्षमायाचना",
+"Kṣamāyācanā"
+],
+"Excuse": [
+"क्षम्यताम्",
+"Kṣamyatām"
+],
+"Pardon": [
+"क्षम्",
+"Kṣam"
+],
+"Courtesy": [
+"शिष्टाचार",
+"Śiṣṭācāra"
+],
+"Happy": [
+"प्रसन्नः",
+"Prasannaḥ"
+],
+"Sad": [
+"सद्",
+"Sad"
+],
+"Angry": [
+"क्रुद्धः",
+"Kruddhaḥ"
+],
+"Calm": [
+"शान्तः",
+"Śāntaḥ"
+],
+"Nervous": [
+"अधीरः",
+"Adhīraḥ"
+],
+"Excited": [
+"उत्तेजितः",
+"Uttejitaḥ"
+],
+"Bored": [
+"आग्रस्तः",
+"Āgrastaḥ"
+],
+"Tired": [
+"क्लान्तः",
+"Klāntaḥ"
+],
+"Relaxed": [
+"शिथिलः",
+"Śithilaḥ"
+],
+"Worried": [
+"चिंतित",
+"Ciṃtita"
+],
+"Proud": [
+"गर्वितः",
+"Garvitaḥ"
+],
+"Shy": [
+"लज्जालु",
+"Lajjālu"
+],
+"Brave": [
+"वीरः",
+"Vīraḥ"
+],
+"Honest": [
+"सत्यरतः",
+"Satyarataḥ"
+],
+"Lazy": [
+"आलसः",
+"Ālasaḥ"
+],
+"Active": [
+"सक्रियं",
+"Sakriyaṃ"
+],
+"Clever": [
+"चतुरः",
+"Caturaḥ"
+],
+"Stupid": [
+"मूढ़",
+"Mūढ़"
+],
+"Wise": [
+"पण्डितः",
+"Paṇḍitaḥ"
+],
+"Foolish": [
+"मूर्खतया",
+"Mūrkhatayā"
+],
+"Smart": [
+"पटु",
+"Paṭu"
+],
+"Kindness": [
+"औदार्य",
+"Audārya"
+],
+"Cruel": [
+"क्रूर",
+"Krūra"
+],
+"Gentle": [
+"मृदुल",
+"Mṛdula"
+],
+"Rude": [
+"दुर्विनीतः",
+"Durvinītaḥ"
+],
+"Friendly": [
+"मैत्रेय",
+"Maitreya"
+],
+"Enemy": [
+"शत्रु",
+"Śatru"
+],
+"Stranger": [
+"वैदेशिक",
+"Vaideśika"
+],
+"Neighbour": [
+"प्रतिवेशी",
+"Prativeśī"
+],
+"Parting": [
+"विदाई",
+"Vidāī"
+],
+"Introduction": [
+"आमुख",
+"Āmukha"
+],
+"Handshake": [
+"हस्तप्रहारः",
+"Hastaprahāraḥ"
+],
+"Hug": [
+"आलिङ्गनम्‌",
+"Āliṅganam‌"
+],
+"Bow": [
+"धनु",
+"Dhanu"
+],
+"Wave": [
+"तरंगं",
+"Taraṃgaṃ"
+],
+"Smile": [
+"स्मितः",
+"Smitaḥ"
+],
+"Laugh": [
+"हासः",
+"Hāsaḥ"
+],
+"Cry": [
+"रुद्",
+"Rud"
+],
+"Gesture": [
+"व्यंजकाः",
+"Vyaṃjakāḥ"
+],
+"Manner": [
+"शिष्टाचार",
+"Śiṣṭācāra"
+],
+"Custom": [
+"आचारः",
+"Ācāraḥ"
+],
+"Tradition": [
+"परंपरा",
+"Paraṃparā"
+],
+"Culture": [
+"संस्कृति",
+"Saṃskṛti"
+],
+"Etiquette": [
+"शिष्टाचार",
+"Śiṣṭācāra"
+],
+"Formal": [
+"औपचारिक",
+"Aupacārika"
+],
+"Informal": [
+"अनौपचारिक",
+"Anaupacārika"
+],
+"Casual": [
+"नैमित्तिक",
+"Naimittika"
+],
+"Respectful": [
+"आदरणीय",
+"Ādaraṇīya"
+],
+"Humble": [
+"विनम्रः",
+"Vinamraḥ"
+],
+"Modest": [
+"शालीन",
+"Śālīna"
+],
+"Generous": [
+"उदारः",
+"Udāraḥ"
+],
+"Selfish": [
+"स्वार्थी",
+"Svārthī"
+],
+"Grateful": [
+"कृतज्ञ",
+"Kṛtajña"
+],
+"Ungrateful": [
+"कृतघ्नः",
+"Kṛtaghnaḥ"
+],
+"Thoughtful": [
+"विचारशील",
+"Vicāraśīla"
+],
+"Careless": [
+"निश्चिन्त",
+"Niścinta"
+],
+"Street": [
+"मार्गं",
+"Mārgaṃ"
+],
+"Left": [
+"वामः",
+"Vāmaḥ"
+],
+"Right": [
+"दक्षिणः",
+"Dakṣiṇaḥ"
+],
+"Here": [
+"अत्र",
+"Atra"
+],
+"There": [
+"तत्र",
+"Tatra"
+],
+"Near": [
+"समीपः",
+"Samīpaḥ"
+],
+"Far": [
+"दूरम्‌",
+"Dūram‌"
+],
+"North": [
+"उत्तर",
+"Uttara"
+],
+"South": [
+"दक्षिण",
+"Dakṣiṇa"
+],
+"East": [
+"पूर्वं",
+"Pūrvaṃ"
+],
+"West": [
+"पश्चिमाम्",
+"Paścimām"
+],
+"Road": [
+"मार्गं",
+"Mārgaṃ"
+],
+"Path": [
+"पथं",
+"Pathaṃ"
+],
+"Bridge": [
+"सेतु",
+"Setu"
+],
+"Crossing": [
+"लङ्घनम्",
+"Laṅghanam"
+],
+"Corner": [
+"कोण",
+"Koṇa"
+],
+"Straight": [
+"समरेखः",
+"Samarekhaḥ"
+],
+"Back": [
+"पृष्ठभागः",
+"Pṛṣṭhabhāgaḥ"
+],
+"Front": [
+"पुरतः",
+"Purataḥ"
+],
+"Side": [
+"पृष्ठभाग",
+"Pṛṣṭhabhāga"
+],
+"Behind": [
+"पृष्ठतः",
+"Pṛṣṭhataḥ"
+],
+"Between": [
+"मध्ये",
+"Madhye"
+],
+"Opposite": [
+"विपरीतः",
+"Viparītaḥ"
+],
+"Next to": [
+"अग्रिम",
+"Agrima"
+],
+"Above": [
+"उपरि",
+"Upari"
+],
+"Below": [
+"अधः",
+"Adhaḥ"
+],
+"Inside": [
+"अन्तः",
+"Antaḥ"
+],
+"Outside": [
+"बहिः",
+"Bahiḥ"
+],
+"Distance": [
+"दूरी",
+"Dūrī"
+],
+"Direction": [
+"निर्देश",
+"Nirdeśa"
+],
+"Bus": [
+"बस",
+"Basa"
+],
+"Train": [
+"रेलयानम्‌",
+"Relayānam‌"
+],
+"Car": [
+"कारयानम्‌",
+"Kārayānam‌"
+],
+"Taxi": [
+"टैक्सी",
+"Ṭaiksī"
+],
+"Bicycle": [
+"द्विचक्रिका",
+"Dvicakrikā"
+],
+"Motorcycle": [
+"मोटरसाइकिल",
+"Moṭarasāikila"
+],
+"Boat": [
+"नौका",
+"Naukā"
+],
+"Ship": [
+"नौका",
+"Naukā"
+],
+"Plane": [
+"समतल",
+"Samatala"
+],
+"Ticket": [
+"टिकटम्",
+"Ṭikaṭam"
+],
+"Station": [
+"स्थानः",
+"Sthānaḥ"
+],
+"Port": [
+"पोताश्रय",
+"Potāśraya"
+],
+"Luggage": [
+"परिच्छद",
+"Paricchada"
+],
+"Bag": [
+"भ्रस्ता",
+"Bhrastā"
+],
+"Visa": [
+"वीजा",
+"Vījā"
+],
+"Map": [
+"मानचित्र",
+"Mānacitra"
+],
+"Guide": [
+"मार्गदर्शकः",
+"Mārgadarśakaḥ"
+],
+"Tour": [
+"यात्रा",
+"Yātrā"
+],
+"Trip": [
+"प्रवासः",
+"Pravāsaḥ"
+],
+"Journey": [
+"यात्रा",
+"Yātrā"
+],
+"Travel": [
+"यात्रा",
+"Yātrā"
+],
+"Visit": [
+"उपयाति",
+"Upayāti"
+],
+"Return": [
+"निर्वतनम्",
+"Nirvatanam"
+],
+"Depart": [
+"प्रस्थानम्",
+"Prasthānam"
+],
+"Arrive": [
+"आगच्छति",
+"Āgacchati"
+],
+"Board": [
+"मण्डलम्‌",
+"Maṇḍalam‌"
+],
+"Get off": [
+"अवतरतु",
+"Avataratu"
+],
+"Hotel": [
+"वसतिगृह",
+"Vasatigṛha"
+],
+"Room": [
+"कक्ष",
+"Kakṣa"
+],
+"Booking": [
+"बुकिंग",
+"Bukiṃga"
+],
+"Reservation": [
+"आरक्षणं",
+"Ārakṣaṇaṃ"
+],
+"Check-in": [
+"चेक-इन",
+"Ceka-ina"
+],
+"Check-out": [
+"चेक-आउट्",
+"Ceka-āuṭ"
+],
+"Single room": [
+"एककक्षः",
+"Ekakakṣaḥ"
+],
+"Double room": [
+"डबल रूम",
+"Ḍabala rūma"
+],
+"Key": [
+"कुंजी",
+"Kuṃjī"
+],
+"Reception": [
+"ग्रहण",
+"Grahaṇa"
+],
+"Lift": [
+"उन्नयनी",
+"Unnayanī"
+],
+"Floor": [
+"तलः",
+"Talaḥ"
+],
+"Parking": [
+"पार्किङ्ग",
+"Pārkiṅga"
+],
+"View": [
+"दृश्यं",
+"Dṛśyaṃ"
+],
+"Balcony": [
+"बालकनी",
+"Bālakanī"
+],
+"Restaurant": [
+"उपाहारगृह",
+"Upāhāragṛha"
+],
+"WiFi": [
+"वाईफाई",
+"Vāīphāī"
+],
+"Scenic": [
+"दर्शनीय",
+"Darśanīya"
+],
+"Famous": [
+"प्रसिद्धः",
+"Prasiddhaḥ"
+],
+"Local": [
+"स्थानिक",
+"Sthānika"
+],
+"Foreign": [
+"विदेशः",
+"Videśaḥ"
+],
+"Domestic": [
+"गृहज",
+"Gṛhaja"
+],
+"International": [
+"अन्तराष्ट्रिय",
+"Antarāṣṭriya"
+],
+"Border": [
+"सीमा",
+"Sīmā"
+],
+"Immigration": [
+"आप्रवासः",
+"Āpravāsaḥ"
+],
+"Rice": [
+"तांडुलः",
+"Tāṃḍulaḥ"
+],
+"Lentils": [
+"मसूरम्",
+"Masūram"
+],
+"Bread": [
+"रोटिका",
+"Roṭikā"
+],
+"Salt": [
+"लवणं",
+"Lavaṇaṃ"
+],
+"Sugar": [
+"मधुरं",
+"Madhuraṃ"
+],
+"Milk": [
+"दुग्धं",
+"Dugdhaṃ"
+],
+"Vegetable": [
+"तरकारी",
+"Tarakārī"
+],
+"Fruit": [
+"फलं",
+"Phalaṃ"
+],
+"Meat": [
+"मांसं",
+"Māṃsaṃ"
+],
+"Fish": [
+"मीन",
+"Mīna"
+],
+"Oil": [
+"तेलं",
+"Telaṃ"
+],
+"Spice": [
+"मसाला",
+"Masālā"
+],
+"Curry": [
+"करी",
+"Karī"
+],
+"Meal": [
+"भोजन",
+"Bhojana"
+],
+"Taste": [
+"रुचि",
+"Ruci"
+],
+"Hunger": [
+"क्षुधा",
+"Kṣudhā"
+],
+"Thirst": [
+"तृष्णा",
+"Tṛṣṇā"
+],
+"Onion": [
+"पलाण्डु",
+"Palāṇḍu"
+],
+"Garlic": [
+"लशुन",
+"Laśuna"
+],
+"Tomato": [
+"रक्तफल",
+"Raktaphala"
+],
+"Potato": [
+"आलूः",
+"Ālūḥ"
+],
+"Carrot": [
+"गार्जर",
+"Gārjara"
+],
+"Peas": [
+"अनणु",
+"Anaṇu"
+],
+"Beans": [
+"शिम्बी",
+"Śimbī"
+],
+"Spinach": [
+"पालकं",
+"Pālakaṃ"
+],
+"Cabbage": [
+"केम्बुक",
+"Kembuka"
+],
+"Cauliflower": [
+"फूलगोभी",
+"Phūlagobhī"
+],
+"Brinjal": [
+"बृन्जल्",
+"Bṛnjal"
+],
+"Cucumber": [
+"कर्कटी",
+"Karkaṭī"
+],
+"Radish": [
+"मूली",
+"Mūlī"
+],
+"Ginger": [
+"आर्द्रक",
+"Ārdraka"
+],
+"Chilli": [
+"मरिचम्",
+"Maricam"
+],
+"Lemon": [
+"निम्बूकः",
+"Nimbūkaḥ"
+],
+"Coconut": [
+"नारिकेलः",
+"Nārikelaḥ"
+],
+"Banana": [
+"कदल",
+"Kadala"
+],
+"Mango": [
+"आम",
+"Āma"
+],
+"Apple": [
+"सेवफल",
+"Sevaphala"
+],
+"Orange": [
+"नारङ्ग",
+"Nāraṅga"
+],
+"Grape": [
+"द्राक्षाफलम्",
+"Drākṣāphalam"
+],
+"Papaya": [
+"पपाय",
+"Papāya"
+],
+"Guava": [
+"अमरूद",
+"Amarūda"
+],
+"Pomegranate": [
+"दाडिमम्",
+"Dāḍimam"
+],
+"Watermelon": [
+"कालिङ्ग",
+"Kāliṅga"
+],
+"Dates": [
+"तिथयः",
+"Tithayaḥ"
+],
+"Dry fruit": [
+"शुष्कफलम्",
+"Śuṣkaphalam"
+],
+"Honey": [
+"मधु",
+"Madhu"
+],
+"Cook": [
+"पचति",
+"Pacati"
+],
+"Eat": [
+"खादतु",
+"Khādatu"
+],
+"Drink": [
+"पेयं",
+"Peyaṃ"
+],
+"Rotten": [
+"शीर्ण",
+"Śīrṇa"
+],
+"Baked": [
+"पक्त्वा",
+"Paktvā"
+],
+"Recipe": [
+"व्यंजनं",
+"Vyaṃjanaṃ"
+],
+"Kitchen": [
+"पाकशाला",
+"Pākaśālā"
+],
+"Stove": [
+"चुल्लिका",
+"Cullikā"
+],
+"Plate": [
+"स्थालिका",
+"Sthālikā"
+],
+"Spoon": [
+"चमस",
+"Camasa"
+],
+"Fork": [
+"शूलिका",
+"Śūlikā"
+],
+"Knife": [
+"छुरिका",
+"Churikā"
+],
+"Cup": [
+"चषक",
+"Caṣaka"
+],
+"Glass": [
+"चषक",
+"Caṣaka"
+],
+"Bottle": [
+"कूपी",
+"Kūpī"
+],
+"Dish": [
+"व्यंजनं",
+"Vyaṃjanaṃ"
+],
+"Menu": [
+"मेनू",
+"Menū"
+],
+"Bill": [
+"देयकं",
+"Deyakaṃ"
+],
+"Head": [
+"शिरः",
+"Śiraḥ"
+],
+"Eye": [
+"नेत्र",
+"Netra"
+],
+"Hand": [
+"हस्त",
+"Hasta"
+],
+"Foot": [
+"पादः",
+"Pādaḥ"
+],
+"Heart": [
+"हृदयम्‌",
+"Hṛdayam‌"
+],
+"Face": [
+"मुखं",
+"Mukhaṃ"
+],
+"Hair": [
+"केशः",
+"Keśaḥ"
+],
+"Stomach": [
+"उदर",
+"Udara"
+],
+"Neck": [
+"ग्रीवा",
+"Grīvā"
+],
+"Ear": [
+"कर्ण",
+"Karṇa"
+],
+"Nose": [
+"नासिका",
+"Nāsikā"
+],
+"Mouth": [
+"मुख",
+"Mukha"
+],
+"Lip": [
+"अधर",
+"Adhara"
+],
+"Tooth": [
+"दंत",
+"Daṃta"
+],
+"Tongue": [
+"जिह्वा",
+"Jihvā"
+],
+"Cheek": [
+"गल्ल",
+"Galla"
+],
+"Chin": [
+"जोड",
+"Joḍa"
+],
+"Forehead": [
+"ललाट",
+"Lalāṭa"
+],
+"Eyebrow": [
+"भ्रूः",
+"Bhrūḥ"
+],
+"Eyelash": [
+"पलकम्",
+"Palakam"
+],
+"Shoulder": [
+"स्कन्ध",
+"Skandha"
+],
+"Arm": [
+"बाहु",
+"Bāhu"
+],
+"Elbow": [
+"कूर्पर",
+"Kūrpara"
+],
+"Wrist": [
+"मणिबन्ध",
+"Maṇibandha"
+],
+"Finger": [
+"अङ्गुली",
+"Aṅgulī"
+],
+"Thumb": [
+"अङ्गुष्ठ",
+"Aṅguṣṭha"
+],
+"Nail": [
+"कीलं",
+"Kīlaṃ"
+],
+"Chest": [
+"वक्षः",
+"Vakṣaḥ"
+],
+"Waist": [
+"कटी",
+"Kaṭī"
+],
+"Hip": [
+"नितंब",
+"Nitaṃba"
+],
+"Thigh": [
+"जंघा",
+"Jaṃghā"
+],
+"Knee": [
+"जानुक",
+"Jānuka"
+],
+"Leg": [
+"टङ्का",
+"Ṭaṅkā"
+],
+"Ankle": [
+"गुल्फ",
+"Gulpha"
+],
+"Heel": [
+"पार्ष्णिः",
+"Pārṣṇiḥ"
+],
+"Skin": [
+"चर्म",
+"Carma"
+],
+"Bone": [
+"अस्थि",
+"Asthi"
+],
+"Muscle": [
+"मांसपेशी",
+"Māṃsapeśī"
+],
+"Brain": [
+"मस्तिष्क",
+"Mastiṣka"
+],
+"Liver": [
+"यकृत",
+"Yakṛta"
+],
+"Lung": [
+"फुफ्फुसः",
+"Phuphphusaḥ"
+],
+"Kidney": [
+"वृक्क",
+"Vṛkka"
+],
+"Pain": [
+"पीडा",
+"Pīḍā"
+],
+"Fever": [
+"ज्वरः",
+"Jvaraḥ"
+],
+"Cough": [
+"कासः",
+"Kāsaḥ"
+],
+"Healthy": [
+"स्वस्थः",
+"Svasthaḥ"
+],
+"Sick": [
+"रुग्णः",
+"Rugṇaḥ"
+],
+"Hospital": [
+"चिकित्सालय",
+"Cikitsālaya"
+],
+"Breath": [
+"श्वशन",
+"Śvaśana"
+],
+"Pulse": [
+"नाडी",
+"Nāḍī"
+],
+"Sweat": [
+"स्वज",
+"Svaja"
+],
+"Tear": [
+"अश्रू",
+"Aśrū"
+],
+"Voice": [
+"ध्वनि",
+"Dhvani"
+],
+"Touch": [
+"स्पर्श",
+"Sparśa"
+],
+"See": [
+"पश्यतु",
+"Paśyatu"
+],
+"Hear": [
+"शृणोतु",
+"Śṛṇotu"
+],
+"Smell": [
+"गंध",
+"Gaṃdha"
+],
+"Feel": [
+"समनुभवतु",
+"Samanubhavatu"
+],
+"Walk": [
+"अटतु",
+"Aṭatu"
+],
+"Run": [
+"धावनं करोतु",
+"Dhāvanaṃ karotu"
+],
+"Sit": [
+"उप- विश्",
+"Upa- viś"
+],
+"Stand": [
+"उत्तिष्ठते",
+"Uttiṣṭhate"
+],
+"Sleep": [
+"शयनं करोतु",
+"Śayanaṃ karotu"
+],
+"Wake": [
+"उत्थापयति",
+"Utthāpayati"
+],
+"Breathe": [
+"श्वसिति",
+"Śvasiti"
+],
+"Blink": [
+"निमिषं कुरुत",
+"Nimiṣaṃ kuruta"
+],
+"Speak": [
+"वदतिब्रू",
+"Vadatibrū"
+],
+"Listen": [
+"शृणोतु",
+"Śṛṇotu"
+],
+"Think": [
+"चिन्तयतु",
+"Cintayatu"
+],
+"Remember": [
+"स्मरतु",
+"Smaratu"
+],
+"Forget": [
+"विस्मृत",
+"Vismṛta"
+],
+"Understand": [
+"अवबोधनम्‌",
+"Avabodhanam‌"
+],
+"Learn": [
+"जानातु",
+"Jānātu"
+],
+"Know": [
+"जानातु",
+"Jānātu"
+],
+"Believe": [
+"विश्वसितु",
+"Viśvasitu"
+],
+"Hope": [
+"आशा",
+"Āśā"
+],
+"Want": [
+"इच्छा",
+"Icchā"
+],
+"Father": [
+"पिता",
+"Pitā"
+],
+"Mother": [
+"माता",
+"Mātā"
+],
+"Brother": [
+"भ्राता",
+"Bhrātā"
+],
+"Sister": [
+"भगिनी",
+"Bhaginī"
+],
+"Son": [
+"पुत्रः",
+"Putraḥ"
+],
+"Daughter": [
+"पुत्री",
+"Putrī"
+],
+"Husband": [
+"भर्ता",
+"Bhartā"
+],
+"Wife": [
+"भार्या",
+"Bhāryā"
+],
+"Family": [
+"परिवारं",
+"Parivāraṃ"
+],
+"Child": [
+"बालः",
+"Bālaḥ"
+],
+"Grandfather": [
+"पितामहः",
+"Pitāmahaḥ"
+],
+"Grandmother": [
+"पितामही",
+"Pitāmahī"
+],
+"Grandson": [
+"पौत्रः",
+"Pautraḥ"
+],
+"Granddaughter": [
+"पौत्री",
+"Pautrī"
+],
+"Uncle": [
+"पितृव्यः",
+"Pitṛvyaḥ"
+],
+"Aunt": [
+"पितृव्या",
+"Pitṛvyā"
+],
+"Nephew": [
+"भ्रातृ सूतः",
+"Bhrātṛ sūtaḥ"
+],
+"Niece": [
+"भातृजा",
+"Bhātṛjā"
+],
+"Cousin": [
+"भ्रातृव्यः",
+"Bhrātṛvyaḥ"
+],
+"Father-in-law": [
+"श्वशुरः",
+"Śvaśuraḥ"
+],
+"Mother-in-law": [
+"श्वश्रूः",
+"Śvaśrūḥ"
+],
+"Son-in-law": [
+"जामाता",
+"Jāmātā"
+],
+"Daughter-in-law": [
+"स्नुषा",
+"Snuṣā"
+],
+"Brother-in-law": [
+"आवुत्त",
+"Āvutta"
+],
+"Sister-in-law": [
+"ननान्दा",
+"Nanāndā"
+],
+"Relative": [
+"संबंधी",
+"Saṃbaṃdhī"
+],
+"Parents": [
+"मातापितरौ",
+"Mātāpitarau"
+],
+"Children": [
+"बालकाः",
+"Bālakāḥ"
+],
+"Baby": [
+"शिशुः",
+"Śiśuḥ"
+],
+"Elder": [
+"वरिष्ठ",
+"Variṣṭha"
+],
+"Younger": [
+"कनिष्ठः",
+"Kaniṣṭhaḥ"
+],
+"Twin": [
+"द्विजः",
+"Dvijaḥ"
+],
+"Stepfather": [
+"सौतेय पिता",
+"Sauteya pitā"
+],
+"Stepmother": [
+"सौतेयमाता",
+"Sauteyamātā"
+],
+"Orphan": [
+"अनाथः",
+"Anāthaḥ"
+],
+"Widow": [
+"विधवा",
+"Vidhavā"
+],
+"Widower": [
+"विधवा",
+"Vidhavā"
+],
+"Marriage": [
+"पाणिग्रहणम्",
+"Pāṇigrahaṇam"
+],
+"Wedding": [
+"विवाह",
+"Vivāha"
+],
+"Bride": [
+"कन्या",
+"Kanyā"
+],
+"Groom": [
+"वधूवरौ",
+"Vadhūvarau"
+],
+"Birth": [
+"जन्म",
+"Janma"
+],
+"Death": [
+"मृत्यु",
+"Mṛtyu"
+],
+"Ancestor": [
+"पूर्वजः",
+"Pūrvajaḥ"
+],
+"Descendant": [
+"वंशजः",
+"Vaṃśajaḥ"
+],
+"Household": [
+"गार्ह",
+"Gārha"
+],
+"Generation": [
+"पीढ़ी",
+"Pīढ़ī"
+],
+"Relationship": [
+"सम्बन्धः",
+"Sambandhaḥ"
+],
+"Care": [
+"परिचर्या",
+"Paricaryā"
+],
+"Support": [
+"समर्थनम्‌",
+"Samarthanam‌"
+],
+"Duty": [
+"कर्म",
+"Karma"
+],
+"Responsibility": [
+"उत्तरदायित्व",
+"Uttaradāyitva"
+],
+"Eldest": [
+"ज्येष्ठः",
+"Jyeṣṭhaḥ"
+],
+"Youngest": [
+"कनिष्ठतमः",
+"Kaniṣṭhatamaḥ"
+],
+"Only child": [
+"केवलं बालकः",
+"Kevalaṃ bālakaḥ"
+],
+"Sibling": [
+"सहोदर",
+"Sahodara"
+],
+"Spouse": [
+"पत्नी",
+"Patnī"
+],
+"Fatherhood": [
+"पितृत्वम्",
+"Pitṛtvam"
+],
+"Motherhood": [
+"मातृत्वम्",
+"Mātṛtvam"
+],
+"Brotherhood": [
+"भ्रातृत्वम्",
+"Bhrātṛtvam"
+],
+"Sisterhood": [
+"भगिनीत्वम्",
+"Bhaginītvam"
+],
+"Godfather": [
+"गॉडफादर",
+"Gaॉḍaphādara"
+],
+"Godmother": [
+"गॉडमादर",
+"Gaॉḍamādara"
+],
+"Guardian": [
+"गार्जियन",
+"Gārjiyana"
+],
+"Adopted": [
+"दत्तक",
+"Dattaka"
+],
+"Foster": [
+"लल्",
+"Lal"
+],
+"Clan": [
+"कुलम्",
+"Kulam"
+],
+"Tribe": [
+"जनजातिः",
+"Janajātiḥ"
+],
+"Dynasty": [
+"वंशः",
+"Vaṃśaḥ"
+],
+"Inheritance": [
+"उत्तराधिकार",
+"Uttarādhikāra"
+],
+"Heir": [
+"उत्तराधिकारिन्",
+"Uttarādhikārin"
+],
+"Family name": [
+"कुलनाम",
+"Kulanāma"
+],
+"Surname": [
+"उपनाम",
+"Upanāma"
+],
+"Nickname": [
+"उपनाम",
+"Upanāma"
+],
+"Elder brother": [
+"अग्रजः",
+"Agrajaḥ"
+],
+"Younger brother": [
+"अनुजः",
+"Anujaḥ"
+],
+"Elder sister": [
+"अग्रज भगिनी",
+"Agraja bhaginī"
+],
+"Younger sister": [
+"अनुज भगिनी",
+"Anuja bhaginī"
+],
+"Maternal uncle": [
+"मातुलः",
+"Mātulaḥ"
+],
+"Paternal uncle": [
+"पितृक मामा",
+"Pitṛka māmā"
+],
+"Maternal aunt": [
+"मातृका माकी",
+"Mātṛkā mākī"
+],
+"Paternal aunt": [
+"पितृक माकी",
+"Pitṛka mākī"
+],
+"Family gathering": [
+"परिवारसमागमः",
+"Parivārasamāgamaḥ"
+],
+"One": [
+"एकम्‌",
+"Ekam‌"
+],
+"Two": [
+"द्वि",
+"Dvi"
+],
+"Three": [
+"त्रयः",
+"Trayaḥ"
+],
+"Four": [
+"चतुः",
+"Catuḥ"
+],
+"Five": [
+"पंचं",
+"Paṃcaṃ"
+],
+"Six": [
+"षष्टं",
+"Ṣaṣṭaṃ"
+],
+"Seven": [
+"सप्त",
+"Sapta"
+],
+"Eight": [
+"अष्ट",
+"Aṣṭa"
+],
+"Nine": [
+"नवं",
+"Navaṃ"
+],
+"Ten": [
+"दशम",
+"Daśama"
+],
+"Eleven": [
+"एकादशं",
+"Ekādaśaṃ"
+],
+"Twelve": [
+"द्विदशकं",
+"Dvidaśakaṃ"
+],
+"Thirteen": [
+"त्रयोदश",
+"Trayodaśa"
+],
+"Fourteen": [
+"चतुर्दश",
+"Caturdaśa"
+],
+"Fifteen": [
+"पञ्चदश",
+"Pañcadaśa"
+],
+"Sixteen": [
+"षोडशन्",
+"Ṣoḍaśan"
+],
+"Seventeen": [
+"सप्तदश",
+"Saptadaśa"
+],
+"Eighteen": [
+"अष्टदश",
+"Aṣṭadaśa"
+],
+"Nineteen": [
+"एकोनविम्शति",
+"Ekonavimśati"
+],
+"Twenty": [
+"विंशति",
+"Viṃśati"
+],
+"Thirty": [
+"त्रिंशत्",
+"Triṃśat"
+],
+"Forty": [
+"चत्वारिंशत्",
+"Catvāriṃśat"
+],
+"Fifty": [
+"पञ्चाशा",
+"Pañcāśā"
+],
+"Sixty": [
+"षष्टि",
+"Ṣaṣṭi"
+],
+"Seventy": [
+"सप्तति",
+"Saptati"
+],
+"Eighty": [
+"अशीति",
+"Aśīti"
+],
+"Ninety": [
+"नवति",
+"Navati"
+],
+"Hundred": [
+"शतकः",
+"Śatakaḥ"
+],
+"Thousand": [
+"सहस्रं",
+"Sahasraṃ"
+],
+"Lakh": [
+"लक्ष",
+"Lakṣa"
+],
+"First": [
+"प्रथमः",
+"Prathamaḥ"
+],
+"Third": [
+"तृतीयं",
+"Tṛtīyaṃ"
+],
+"Fourth": [
+"चतुर्थः",
+"Caturthaḥ"
+],
+"Fifth": [
+"पञ्चमी",
+"Pañcamī"
+],
+"Half": [
+"अर्ध",
+"Ardha"
+],
+"Quarter": [
+"चतुर्थांश",
+"Caturthāṃśa"
+],
+"Double": [
+"द्विद्वार",
+"Dvidvāra"
+],
+"Triple": [
+"त्रिगुणम्",
+"Triguṇam"
+],
+"Single": [
+"एकैकः",
+"Ekaikaḥ"
+],
+"Pair": [
+"युग्म",
+"Yugma"
+],
+"Dozen": [
+"दर्जनः",
+"Darjanaḥ"
+],
+"Score": [
+"अंक",
+"Aṃka"
+],
+"Zero": [
+"शून्य",
+"Śūnya"
+],
+"Number": [
+"संख्या",
+"Saṃkhyā"
+],
+"Count": [
+"गणनां कारोतु",
+"Gaṇanāṃ kārotu"
+],
+"Add": [
+"संयोजयति",
+"Saṃyojayati"
+],
+"Subtract": [
+"घटाये",
+"Ghaṭāye"
+],
+"Multiply": [
+"गुणा",
+"Guṇā"
+],
+"Divide": [
+"विभाजनं",
+"Vibhājanaṃ"
+],
+"Equal": [
+"समान",
+"Samāna"
+],
+"More": [
+"अधिकः",
+"Adhikaḥ"
+],
+"Less": [
+"न्यूनम्‌",
+"Nyūnam‌"
+],
+"Many": [
+"बहवः",
+"Bahavaḥ"
+],
+"Few": [
+"कतिपय",
+"Katipaya"
+],
+"Some": [
+"केचन",
+"Kecana"
+],
+"All": [
+"सर्वे",
+"Sarve"
+],
+"None": [
+"न कश्चित्",
+"Na kaścit"
+],
+"Several": [
+"इतरेतर",
+"Itaretara"
+],
+"Multiple": [
+"बहु",
+"Bahu"
+],
+"Percent": [
+"प्रतिशतं",
+"Pratiśataṃ"
+],
+"Fraction": [
+"अंशः",
+"Aṃśaḥ"
+],
+"Decimal": [
+"दशमलवः",
+"Daśamalavaḥ"
+],
+"Sum": [
+"योग",
+"Yoga"
+],
+"Total": [
+"कुल",
+"Kula"
+],
+"Amount": [
+"राशिः",
+"Rāśiḥ"
+],
+"Quantity": [
+"मात्रा",
+"Mātrā"
+],
+"Price": [
+"मूल्य",
+"Mūlya"
+],
+"Cost": [
+"मूल्यम्‌",
+"Mūlyam‌"
+],
+"Discount": [
+"अपहार",
+"Apahāra"
+],
+"Age": [
+"वयः",
+"Vayaḥ"
+],
+"Year old": [
+"वर्षीयः",
+"Varṣīyaḥ"
+],
+"Date": [
+"दिनाङ्कः",
+"Dināṅkaḥ"
+],
+"Time": [
+"कालः",
+"Kālaḥ"
+],
+"O'clock": [
+"वादनम्",
+"Vādanam"
+],
+"Day": [
+"दिनं",
+"Dinaṃ"
+],
+"Once": [
+"एकदा",
+"Ekadā"
+],
+"Twice": [
+"द्विबारं",
+"Dvibāraṃ"
+],
+"Thrice": [
+"त्रिवारं",
+"Trivāraṃ"
+],
+"Every": [
+"प्रत्येकं",
+"Pratyekaṃ"
+],
+"Each": [
+"एकैकम्‌",
+"Ekaikam‌"
+],
+"Whole": [
+"सम्पूर्णः",
+"Sampūrṇaḥ"
+],
+"Full": [
+"पूर्ण",
+"Pūrṇa"
+],
+"Empty": [
+"रिक्तम्‌",
+"Riktam‌"
+],
+"House": [
+"गृहम्‌",
+"Gṛham‌"
+],
+"Work": [
+"कार्यम्‌",
+"Kāryam‌"
+],
+"Come": [
+"आगच्छ",
+"Āgaccha"
+],
+"Go": [
+"गच्छ",
+"Gaccha"
+],
+"Give": [
+"देहि",
+"Dehi"
+],
+"Take": [
+"गृह्णातु",
+"Gṛhṇātu"
+],
+"Bedroom": [
+"शयनकक्ष",
+"Śayanakakṣa"
+],
+"Bathroom": [
+"स्नानागारः",
+"Snānāgāraḥ"
+],
+"Door": [
+"द्वारम्",
+"Dvāram"
+],
+"Window": [
+"कोष्ठ",
+"Koṣṭha"
+],
+"Wall": [
+"भित्ति",
+"Bhitti"
+],
+"Roof": [
+"छाद",
+"Chāda"
+],
+"Stairs": [
+"चरणाः",
+"Caraṇāḥ"
+],
+"Table": [
+"पीठिका",
+"Pīṭhikā"
+],
+"Chair": [
+"आसन्द",
+"Āsanda"
+],
+"Bed": [
+"शय्या",
+"Śayyā"
+],
+"Lamp": [
+"दीपकः",
+"Dīpakaḥ"
+],
+"Clock": [
+"घटिका",
+"Ghaṭikā"
+],
+"Lock": [
+"ताल",
+"Tāla"
+],
+"Garden": [
+"उद्यान",
+"Udyāna"
+],
+"Furniture": [
+"उपस्कर",
+"Upaskara"
+],
+"Sofa": [
+"सोफा",
+"Sophā"
+],
+"Cupboard": [
+"कपाटिका",
+"Kapāṭikā"
+],
+"Shelf": [
+"सन्धाय",
+"Sandhāya"
+],
+"Mirror": [
+"दर्पण",
+"Darpaṇa"
+],
+"Curtain": [
+"यवनिका",
+"Yavanikā"
+],
+"Pillow": [
+"उपधान",
+"Upadhāna"
+],
+"Blanket": [
+"कम्बल",
+"Kambala"
+],
+"Towel": [
+"प्रोञ्छ",
+"Proñcha"
+],
+"Soap": [
+"फेनक",
+"Phenaka"
+],
+"Bucket": [
+"डोलं",
+"Ḍolaṃ"
+],
+"Broom": [
+"ऊहनी",
+"Ūhanī"
+],
+"Trash": [
+"तुच्छद्रव्य",
+"Tucchadravya"
+],
+"Clean": [
+"स्वच्छम्‌",
+"Svaccham‌"
+],
+"Dirty": [
+"मलिनम्‌",
+"Malinam‌"
+],
+"Wash": [
+"प्रधाव्",
+"Pradhāv"
+],
+"Sweep": [
+"मर्जन",
+"Marjana"
+],
+"Mop": [
+"मोप",
+"Mopa"
+],
+"Electricity": [
+"विद्युत्",
+"Vidyut"
+],
+"Switch": [
+"नुदति",
+"Nudati"
+],
+"Fan": [
+"व्यजनम्‌",
+"Vyajanam‌"
+],
+"Light": [
+"प्रकाशः",
+"Prakāśaḥ"
+],
+"Fridge": [
+"प्रशीतक",
+"Praśītaka"
+],
+"TV": [
+"टीवी",
+"Ṭīvī"
+],
+"Computer": [
+"संगणक",
+"Saṃgaṇaka"
+],
+"Book": [
+"पुस्तकम्‌",
+"Pustakam‌"
+],
+"Newspaper": [
+"समाचारपत्रम्",
+"Samācārapatram"
+],
+"Later": [
+"कालान्तरे",
+"Kālāntare"
+],
+"Always": [
+"सर्वदा",
+"Sarvadā"
+],
+"Never": [
+"कदापि न",
+"Kadāpi na"
+],
+"Sometimes": [
+"कदाचित्‌",
+"Kadācit‌"
+],
+"Often": [
+"बहुशः",
+"Bahuśaḥ"
+],
+"Usually": [
+"सामान्यतः",
+"Sāmānyataḥ"
+],
+"Daily": [
+"प्रतिदिन",
+"Pratidina"
+],
+"Weekly": [
+"साप्ताहिकम्",
+"Sāptāhikam"
+],
+"Monthly": [
+"मासिकम्",
+"Māsikam"
+],
+"Yearly": [
+"वार्षिकम्",
+"Vārṣikam"
+],
+"Routine": [
+"योजना",
+"Yojanā"
+],
+"Habit": [
+"अभ्यास",
+"Abhyāsa"
+],
+"Rest": [
+"विश्रान्तिः",
+"Viśrāntiḥ"
+],
+"Leisure": [
+"अवकाशः",
+"Avakāśaḥ"
+],
+"Free": [
+"निःशुल्कः",
+"Niḥśulkaḥ"
+],
+"Relax": [
+"विनोदयन",
+"Vinodayana"
+],
+"Wake up": [
+"उत्थापयति",
+"Utthāpayati"
+],
+"Sun": [
+"सूर्य",
+"Sūrya"
+],
+"Moon": [
+"शशांक",
+"Śaśāṃka"
+],
+"Rain": [
+"वृष्टि",
+"Vṛṣṭi"
+],
+"Dog": [
+"कुक्कुरः",
+"Kukkuraḥ"
+],
+"Cat": [
+"मार्जारः",
+"Mārjāraḥ"
+],
+"Cow": [
+"गो",
+"Go"
+],
+"Bird": [
+"पक्षी",
+"Pakṣī"
+],
+"Tree": [
+"वृक्षः",
+"Vṛkṣaḥ"
+],
+"Flower": [
+"पुष्पं",
+"Puṣpaṃ"
+],
+"Sky": [
+"गगनः",
+"Gaganaḥ"
+],
+"Cloud": [
+"मेघ",
+"Megha"
+],
+"Star": [
+"नक्षत्र",
+"Nakṣatra"
+],
+"Wind": [
+"वायुः",
+"Vāyuḥ"
+],
+"River": [
+"नदी",
+"Nadī"
+],
+"Mountain": [
+"पर्वत",
+"Parvata"
+],
+"Forest": [
+"वनः",
+"Vanaḥ"
+],
+"Grass": [
+"तृणं",
+"Tṛṇaṃ"
+],
+"Leaf": [
+"पर्ण",
+"Parṇa"
+],
+"Root": [
+"मूलं",
+"Mūlaṃ"
+],
+"Seed": [
+"बीज",
+"Bīja"
+],
+"Soil": [
+"मृदा",
+"Mṛdā"
+],
+"Stone": [
+"प्रस्तरं",
+"Prastaraṃ"
+],
+"Fire": [
+"अग्निः",
+"Agniḥ"
+],
+"Earth": [
+"पृथ्वी",
+"Pṛthvī"
+],
+"Weather": [
+"वातावरणम्‌",
+"Vātāvaraṇam‌"
+],
+"Horse": [
+"घोटकः",
+"Ghoṭakaḥ"
+],
+"Goat": [
+"अजा",
+"Ajā"
+],
+"Sheep": [
+"मेष",
+"Meṣa"
+],
+"Pig": [
+"सुकरः",
+"Sukaraḥ"
+],
+"Hen": [
+"कुक्कुटः",
+"Kukkuṭaḥ"
+],
+"Duck": [
+"कादम्ब",
+"Kādamba"
+],
+"Elephant": [
+"गज",
+"Gaja"
+],
+"Lion": [
+"सिंहः",
+"Siṃhaḥ"
+],
+"Tiger": [
+"व्याघ्रः",
+"Vyāghraḥ"
+],
+"Monkey": [
+"वानरः",
+"Vānaraḥ"
+],
+"Snake": [
+"सर्प",
+"Sarpa"
+],
+"Insect": [
+"कीट",
+"Kīṭa"
+],
+"Butterfly": [
+"चित्रपतङ्ग",
+"Citrapataṅga"
+],
+"Bee": [
+"मधुमक्षिका",
+"Madhumakṣikā"
+],
+"Ant": [
+"अन्त",
+"Anta"
+],
+"Mosquito": [
+"मशकः",
+"Maśakaḥ"
+],
+"Spider": [
+"मकड़ी",
+"Makar̤ī"
+],
+"Crow": [
+"काक",
+"Kāka"
+],
+"Peacock": [
+"मयूरः",
+"Mayūraḥ"
+],
+"Parrot": [
+"शुकः",
+"Śukaḥ"
+],
+"Sparrow": [
+"गौरवः",
+"Gauravaḥ"
+],
+"Eagle": [
+"गरुड",
+"Garuḍa"
+],
+"Owl": [
+"उलूक",
+"Ulūka"
+],
+"Pigeon": [
+"कपोतः",
+"Kapotaḥ"
+],
+"Swan": [
+"हंसः",
+"Haṃsaḥ"
+],
+"Crocodile": [
+"ग्राहः",
+"Grāhaḥ"
+],
+"Tortoise": [
+"कूर्मः",
+"Kūrmaḥ"
+],
+"Frog": [
+"मंडूक",
+"Maṃḍūka"
+],
+"Lizard": [
+"गृहगोदिका",
+"Gṛhagodikā"
+],
+"Rose": [
+"रोज",
+"Roja"
+],
+"Lotus": [
+"कमलम्",
+"Kamalam"
+],
+"Jasmine": [
+"चमेली",
+"Camelī"
+],
+"Marigold": [
+"मरीगोल्ड्",
+"Marīgolḍ"
+],
+"Sunflower": [
+"सूर्यपुष्प",
+"Sūryapuṣpa"
+],
+"Lily": [
+"लिली",
+"Lilī"
+],
+"Daisy": [
+"डेजी",
+"Ḍejī"
+],
+"Tulip": [
+"तुलिप्",
+"Tulip"
+],
+"Oak": [
+"ओक",
+"Oka"
+],
+"Pine": [
+"पाइन",
+"Pāina"
+],
+"Bamboo": [
+"वेणुः",
+"Veṇuḥ"
+],
+"Palm": [
+"करतल",
+"Karatala"
+],
+"Cactus": [
+"कैक्टसः",
+"Kaikṭasaḥ"
+],
+"Bush": [
+"गुल्म",
+"Gulma"
+],
+"Plant": [
+"वनस्पति",
+"Vanaspati"
+],
+"Farm": [
+"क्षेत्र",
+"Kṣetra"
+],
+"Field": [
+"क्षेत्रम्‌",
+"Kṣetram‌"
+],
+"Lake": [
+"सरोवरः",
+"Sarovaraḥ"
+],
+"Sea": [
+"समुद्रः",
+"Samudraḥ"
+],
+"Ocean": [
+"समुद्रं",
+"Samudraṃ"
+],
+"Beach": [
+"समुद्रतटम्",
+"Samudrataṭam"
+],
+"Island": [
+"द्वीप",
+"Dvīpa"
+],
+"Valley": [
+"घाटी",
+"Ghāṭī"
+],
+"Desert": [
+"मरुभूमिः",
+"Marubhūmiḥ"
+],
+"Snow": [
+"तुषार",
+"Tuṣāra"
+],
+"Storm": [
+"चण्डवात",
+"Caṇḍavāta"
+],
+"Thunder": [
+"गर्जन",
+"Garjana"
+],
+"Rainbow": [
+"इन्द्रधनुषः",
+"Indradhanuṣaḥ"
+],
+"Red": [
+"रक्त",
+"Rakta"
+],
+"Blue": [
+"नील",
+"Nīla"
+],
+"Green": [
+"हरित",
+"Harita"
+],
+"Yellow": [
+"पीतं",
+"Pītaṃ"
+],
+"White": [
+"श्वेतः",
+"Śvetaḥ"
+],
+"Black": [
+"कृष्णः",
+"Kṛṣṇaḥ"
+],
+"Colour": [
+"वर्ण",
+"Varṇa"
+],
+"Pink": [
+"पाटल",
+"Pāṭala"
+],
+"Purple": [
+"शोण",
+"Śoṇa"
+],
+"Brown": [
+"पिङ्गल",
+"Piṅgala"
+],
+"Grey": [
+"धूसर",
+"Dhūsara"
+],
+"Golden": [
+"स्वर्णम्",
+"Svarṇam"
+],
+"Silver": [
+"रजत",
+"Rajata"
+],
+"Dark": [
+"तिमिर",
+"Timira"
+],
+"Bright": [
+"उज्ज्वलः",
+"Ujjvalaḥ"
+],
+"Pale": [
+"पाण्डुर",
+"Pāṇḍura"
+],
+"Shade": [
+"छाया",
+"Chāyā"
+],
+"Tone": [
+"स्वरः",
+"Svaraḥ"
+],
+"Dye": [
+"रञ्जयति",
+"Rañjayati"
+],
+"Paint": [
+"चित्र",
+"Citra"
+],
+"Sky blue": [
+"आकाश नीलः",
+"Ākāśa nīlaḥ"
+],
+"Navy blue": [
+"नेवी ब्लू",
+"Nevī blū"
+],
+"Lime": [
+"चूणम्",
+"Cūṇam"
+],
+"Cream": [
+"क्रीम",
+"Krīma"
+],
+"Beige": [
+"बेजवर्णः",
+"Bejavarṇaḥ"
+],
+"Maroon": [
+"मरून",
+"Marūna"
+],
+"Crimson": [
+"किरमिजी",
+"Kiramijī"
+],
+"Turquoise": [
+"फीरोजा",
+"Phīrojā"
+],
+"Violet": [
+"वायलेट",
+"Vāyaleṭa"
+],
+"Indigo": [
+"नीलः",
+"Nīlaḥ"
+],
+"Magenta": [
+"मैजेन्टा",
+"Maijenṭā"
+],
+"Cyan": [
+"सियान्",
+"Siyān"
+],
+"Teal": [
+"टील",
+"Ṭīla"
+],
+"Olive": [
+"जैतुन",
+"Jaituna"
+],
+"Coral": [
+"प्रवालः",
+"Pravālaḥ"
+],
+"Peach": [
+"आरुक",
+"Āruka"
+],
+"Lavender": [
+"लवण्डर",
+"Lavaṇḍara"
+],
+"Mint": [
+"टकसालम्",
+"Ṭakasālam"
+],
+"Ivory": [
+"हस्तिदन्तम्",
+"Hastidantam"
+],
+"Charcoal": [
+"अङ्गारः",
+"Aṅgāraḥ"
+],
+"Rust": [
+"जंग",
+"Jaṃga"
+],
+"Burgundy": [
+"बरगण्डी",
+"Baragaṇḍī"
+],
+"Mustard": [
+"सर्षपः",
+"Sarṣapaḥ"
+],
+"Saffron": [
+"केसर",
+"Kesara"
+],
+"Tan": [
+"तन्",
+"Tan"
+],
+"Khaki": [
+"खाकी",
+"Khākī"
+],
+"Transparent": [
+"पारदर्शी",
+"Pāradarśī"
+],
+"Opaque": [
+"अपारदर्शी",
+"Apāradarśī"
+],
+"Shiny": [
+"लसत्",
+"Lasat"
+],
+"Dull": [
+"मन्दः",
+"Mandaḥ"
+],
+"Matte": [
+"मट्टे",
+"Maṭṭe"
+],
+"Glossy": [
+"चमकदार",
+"Camakadāra"
+],
+"Striped": [
+"पट्टिकायुक्तः",
+"Paṭṭikāyuktaḥ"
+],
+"Spotted": [
+"स्पॉट्ड्",
+"Spaॉṭḍ"
+],
+"Plain": [
+"सम",
+"Sama"
+],
+"Pattern": [
+"प्रतिमानम्‌",
+"Pratimānam‌"
+],
+"Multicoloured": [
+"बहुवर्णीयः",
+"Bahuvarṇīyaḥ"
+],
+"Colourful": [
+"रङ्गिणी",
+"Raṅgiṇī"
+],
+"Colourless": [
+"निर्वर्णः",
+"Nirvarṇaḥ"
+],
+"Match": [
+"मेलनम्‌",
+"Melanam‌"
+],
+"Contrast": [
+"विप्रकर्ष",
+"Viprakarṣa"
+],
+"Blend": [
+"मिश्रण",
+"Miśraṇa"
+],
+"Mix": [
+"मिश्रणम्",
+"Miśraṇam"
+],
+"Primary": [
+"प्राथमिक",
+"Prāthamika"
+],
+"Secondary": [
+"माध्यमिक",
+"Mādhyamika"
+],
+"Warm": [
+"उष्णम्‌",
+"Uṣṇam‌"
+],
+"Cool": [
+"शोभनम्‌",
+"Śobhanam‌"
+],
+"Neutral": [
+"तटस्थ",
+"Taṭastha"
+],
+"Vivid": [
+"जीवंत",
+"Jīvaṃta"
+],
+"Faded": [
+"क्षीणः अभवत्",
+"Kṣīṇaḥ abhavat"
+],
+"Matching": [
+"मेलनं",
+"Melanaṃ"
+],
+"Clashing": [
+"संघर्षः",
+"Saṃgharṣaḥ"
+],
+"Tint": [
+"टिन्ट्",
+"Ṭinṭ"
+],
+"Hue": [
+"हुए",
+"Hue"
+],
+"Pigment": [
+"वर्णकम्",
+"Varṇakam"
+],
+"Ink": [
+"मसिः",
+"Masiḥ"
+],
+"Crayon": [
+"क्रेयॉन",
+"Kreyaॉna"
+],
+"Brush": [
+"भृष्ट",
+"Bhṛṣṭa"
+],
+"Canvas": [
+"कैनवासः",
+"Kainavāsaḥ"
+],
+"Picture": [
+"चित्र",
+"Citra"
+],
+"Image": [
+"छवि",
+"Chavi"
+],
+"Beautiful": [
+"सुन्दरम्‌",
+"Sundaram‌"
+],
+"Ugly": [
+"कुरूपः",
+"Kurūpaḥ"
+],
+"Pretty": [
+"सुभगा",
+"Subhagā"
+],
+"Elegant": [
+"चारु",
+"Cāru"
+],
+"Style": [
+"शैली",
+"Śailī"
+],
+"What": [
+"किम्‌",
+"Kim‌"
+],
+"Who": [
+"कः",
+"Kaḥ"
+],
+"Where": [
+"कुत्र",
+"Kutra"
+],
+"When": [
+"कदा",
+"Kadā"
+],
+"Why": [
+"किमर्थम्‌",
+"Kimartham‌"
+],
+"How": [
+"कथम्‌",
+"Katham‌"
+],
+"This": [
+"अयम्‌",
+"Ayam‌"
+],
+"That": [
+"तत्‌",
+"Tat‌"
+],
+"Problem": [
+"समस्या",
+"Samasyā"
+],
+"Help": [
+"साहाय्यम्‌",
+"Sāhāyyam‌"
+],
+"Which": [
+"किम्‌",
+"Kim‌"
+],
+"Whose": [
+"कस्य",
+"Kasya"
+],
+"Whom": [
+"कस्मै",
+"Kasmai"
+],
+"Whether": [
+"कतरः",
+"Kataraḥ"
+],
+"Question": [
+"प्रश्न",
+"Praśna"
+],
+"Answer": [
+"उत्तरम्‌",
+"Uttaram‌"
+],
+"Ask": [
+"पृच्छतु",
+"Pṛcchatu"
+],
+"Tell": [
+"कथय",
+"Kathaya"
+],
+"Say": [
+"कथय",
+"Kathaya"
+],
+"Reply": [
+"उत्तरं",
+"Uttaraṃ"
+],
+"Explain": [
+"व्याख्याति",
+"Vyākhyāti"
+],
+"Describe": [
+"वर्णेतु",
+"Varṇetu"
+],
+"Mean": [
+"अर्थः",
+"Arthaḥ"
+],
+"Reason": [
+"कारणम्‌",
+"Kāraṇam‌"
+],
+"Cause": [
+"निमित्तम्‌",
+"Nimittam‌"
+],
+"Result": [
+"परिणाम",
+"Pariṇāma"
+],
+"Fact": [
+"तथ्य",
+"Tathya"
+],
+"Truth": [
+"सत्यं",
+"Satyaṃ"
+],
+"Lie": [
+"असत्यम्‌",
+"Asatyam‌"
+],
+"Opinion": [
+"अभिप्रायः",
+"Abhiprāyaḥ"
+],
+"Perhaps": [
+"कदाचिद्‌",
+"Kadācid‌"
+],
+"Probably": [
+"प्रायेण",
+"Prāyeṇa"
+],
+"Definitely": [
+"निश्चितम्‌",
+"Niścitam‌"
+],
+"Absolutely": [
+"अत्यन्तम्‌",
+"Atyantam‌"
+],
+"Exactly": [
+"यथातथम्‌",
+"Yathātatham‌"
+],
+"Wrong": [
+"दोषपूर्णः",
+"Doṣapūrṇaḥ"
+],
+"True": [
+"सत्यम्‌",
+"Satyam‌"
+],
+"False": [
+"असत्य",
+"Asatya"
+],
+"Correct": [
+"उचितं",
+"Ucitaṃ"
+],
+"Incorrect": [
+"अशुद्धम्",
+"Aśuddham"
+],
+"Same": [
+"समान",
+"Samāna"
+],
+"Different": [
+"भिन्नः",
+"Bhinnaḥ"
+],
+"Similar": [
+"संरूप",
+"Saṃrūpa"
+],
+"Possible": [
+"सम्भव",
+"Sambhava"
+],
+"Impossible": [
+"असंभवः",
+"Asaṃbhavaḥ"
+],
+"Necessary": [
+"आवश्यकम्‌",
+"Āvaśyakam‌"
+],
+"Important": [
+"महत्वपूर्णः",
+"Mahatvapūrṇaḥ"
+],
+"Optional": [
+"वैकल्पिक",
+"Vaikalpika"
+],
+"Choice": [
+"चयनं",
+"Cayanaṃ"
+],
+"Option": [
+"विकल्प",
+"Vikalpa"
+],
+"Decision": [
+"निर्णयः",
+"Nirṇayaḥ"
+],
+"Idea": [
+"विचारं",
+"Vicāraṃ"
+],
+"Thought": [
+"विचिन्ता",
+"Vicintā"
+],
+"Mind": [
+"मस्तिष्कम्‌",
+"Mastiṣkam‌"
+],
+"Because": [
+"यतः",
+"Yataḥ"
+],
+"Therefore": [
+"अतएव",
+"Ataeva"
+],
+"However": [
+"तथापि",
+"Tathāpi"
+],
+"Although": [
+"यद्यपि",
+"Yadyapi"
+],
+"Unless": [
+"न यावत्‌",
+"Na yāvat‌"
+],
+"Until": [
+"यावत्‌",
+"Yāvat‌"
+],
+"If": [
+"यदि",
+"Yadi"
+],
+"Then": [
+"तदा",
+"Tadā"
+],
+"So": [
+"अतः",
+"Ataḥ"
+],
+"But": [
+"किन्तु",
+"Kintu"
+],
+"And": [
+"तथा",
+"Tathā"
+],
+"Or": [
+"वा",
+"Vā"
+],
+"Nor": [
+"नापि",
+"Nāpi"
+],
+"Yet": [
+"तथापि",
+"Tathāpi"
+],
+"Still": [
+"इदानीमपि",
+"Idānīmapi"
+],
+"Already": [
+"पूर्वमेव",
+"Pūrvameva"
+],
+"Again": [
+"पुनः",
+"Punaḥ"
+],
+"Also": [
+"अपि",
+"Api"
+],
+"Too": [
+"अपि",
+"Api"
+],
+"Either": [
+"अन्यतर",
+"Anyatara"
+],
+"Neither": [
+"न वा",
+"Na vā"
+],
+"Both": [
+"उभौ",
+"Ubhau"
+],
+"Only": [
+"केवलम्‌",
+"Kevalam‌"
+],
+"Just": [
+"इदानीम्‌",
+"Idānīm‌"
+],
+"Even": [
+"अपि",
+"Api"
+],
+"Almost": [
+"प्रायशः",
+"Prāyaśaḥ"
+],
+"Quite": [
+"नितान्तम्‌",
+"Nitāntam‌"
+],
+"Very": [
+"अतीव",
+"Atīva"
+],
+"Really": [
+"यथार्थत",
+"Yathārthata"
+]
+}

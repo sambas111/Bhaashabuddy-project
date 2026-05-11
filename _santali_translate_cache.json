@@ -1,0 +1,5618 @@
+{
+"Hello": [
+"ᱡᱚᱦᱟᱨ",
+"Namaste"
+],
+"Good morning": [
+"ᱥᱟᱜᱩᱱ ᱥᱮᱛᱟᱦ",
+"Śubha prabhāta"
+],
+"Good afternoon": [
+"ᱛᱟᱨᱟᱥᱤᱧ ᱡᱚᱦᱟᱨ",
+"Śubha dopahara"
+],
+"Good evening": [
+"ᱥᱤᱸᱜᱚᱲ ᱡᱚᱦᱟᱨ",
+"Śubha saṃdhyā"
+],
+"Good night": [
+"ᱥᱟᱜᱩᱱ-ᱱᱤᱱᱫᱚ",
+"Śubha rātri"
+],
+"Welcome": [
+"ᱫᱟᱨᱟᱢ",
+"Svāgata"
+],
+"How are you?": [
+"ᱟᱢ ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱢᱟ?",
+"Āpa kaise haiṃ?"
+],
+"I am fine": [
+"ᱤᱧ ᱱᱟᱯᱟᱭ ᱤᱧ ᱟ.",
+"Maiṃ ṭhīka hū~"
+],
+"What is your name?": [
+"ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+"Āpakā kyā nāma hai?"
+],
+"My name is...": [
+"ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ...",
+"Merā nāma hai..."
+],
+"Nice to meet you": [
+"ᱟᱢ ᱛᱩᱞᱩᱡ ᱧᱟᱯᱟᱢ ᱠᱮᱛᱮᱜ ᱨᱟᱹᱥᱠᱟᱧ ᱵᱷᱩᱡᱷᱮᱣ ᱠᱮᱫᱟ",
+"Āpase milakara acchā lagā"
+],
+"Thank you": [
+"ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱳ ᱥᱟᱨᱦᱟᱣ",
+"Dhanyavāda"
+],
+"Please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮᱜ",
+"Kṛpayā"
+],
+"Sorry": [
+"ᱤᱠᱟᱹ",
+"Kṣamā māṃganā"
+],
+"Goodbye": [
+"ᱵᱤᱫᱟᱭ",
+"Alavidā"
+],
+"See you": [
+"ᱧᱮᱞ ᱢᱤᱭᱟᱝ",
+"Phira milate haiṃ"
+],
+"Take care": [
+"ᱡᱚᱛᱚᱱ",
+"Apanā dhyāna rakhanā"
+],
+"Happy Birthday": [
+"ᱥᱟᱜᱩᱱ ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟ",
+"Janmadina kī śubhakāmanāe~"
+],
+"Happy Diwali": [
+"ᱨᱟᱹᱥᱠᱟᱹ ᱫᱤᱣᱟᱞᱤ",
+"Dīpāvalī kī hārdika śubhakāmanāeṃ"
+],
+"I love you": [
+"ᱤᱧ ᱫᱩᱞᱮᱲᱮᱜ ᱢᱮᱭᱟ",
+"Mujhe tumase pyāra hai"
+],
+"Get well soon": [
+"ᱡᱚᱛᱷᱟᱛ ᱴᱷᱟᱶᱨᱮ",
+"Jalda svastha ho jāo"
+],
+"Good day": [
+"ᱵᱷᱟᱜᱮ ᱥᱤᱧ",
+"Śubha dina"
+],
+"How do you do?": [
+"ᱟᱢ ᱫᱚ ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱢᱟ?",
+"Āpa kaise haiṃ?"
+],
+"Pleased to meet you": [
+"ᱟᱢ ᱥᱟᱶ ᱧᱟᱯᱟᱢ ᱠᱟᱛᱮ ᱠᱩᱥᱤ ᱮᱱᱟᱹᱧ",
+"Āpase milakara acchā lagā"
+],
+"Excuse me": [
+"ᱤᱠᱟ. ᱠᱟ.ᱧ ᱢᱮ",
+"Dayā| thor̤ā karo."
+],
+"Bless you": [
+"ᱟᱢ ᱛᱷᱩᱢ ᱟᱹᱜᱩ ᱢᱮ",
+"Tumheṃ āśīrvāda dete haiṃ"
+],
+"Congratulations": [
+"ᱥᱟᱨᱦᱟᱣ ᱦᱩᱭᱩᱜ ᱢᱟ",
+"Kṛtajña bano"
+],
+"Happy New Year": [
+"ᱱᱟᱣᱟ ᱥᱮᱨᱢᱟ ᱢᱟᱦᱟ",
+"Nae sāla kī śubhakāmanāe~"
+],
+"Best wishes": [
+"ᱥᱟᱹᱜᱩᱱ ᱥᱟᱱᱟᱝ",
+"Śubhakāmanāeṃ"
+],
+"Take care of yourself": [
+"ᱟᱢ ᱟᱢᱛᱮ ᱡᱚᱛᱚᱱ ᱦᱟᱛᱟᱣ ᱢᱮ",
+"Apanā khyāla rakheṃ"
+],
+"I missed you": [
+"ᱤᱧ ᱟᱢᱤᱧ ᱩᱭᱦᱟᱹᱨ ᱢᱮᱭᱟ",
+"Mujhe tuma yāda āoge"
+],
+"Long time no see": [
+"ᱟᱰᱤ ᱫᱤᱱ ᱵᱟᱝ ᱱᱟᱯᱟᱢ",
+"Bahuta dinoṃ se mulākāta nahīṃ huī"
+],
+"Where have you been?": [
+"ᱟᱢ ᱚᱠᱟᱨᱮᱢ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ?",
+"Āpa kahāṃ the?"
+],
+"I am happy to see you": [
+"ᱟᱢ ᱧᱮᱞ ᱠᱟᱛᱮ ᱤᱧ ᱠᱩᱥᱤ ᱢᱤᱱᱟᱹᱧᱟ",
+"Maiṃ tumheṃ dekha kara khuśa hū~"
+],
+"Come again": [
+"ᱫᱚᱦᱲᱟ ᱦᱤᱡᱩᱜ ᱢᱮ",
+"Phira vāpasa ā gae"
+],
+"Stay in touch": [
+"ᱡᱚᱯᱲᱟᱣ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Saṃparka meṃ rahanā"
+],
+"Give my regards to...": [
+"ᱤᱧᱟᱜ ᱡᱚᱦᱟᱨ ᱮᱢᱚᱜ ᱢᱮ...",
+"Merā k͟hayāla rakheṃ…"
+],
+"Say hello to...": [
+"ᱡᱚᱦᱟᱨ ᱢᱮᱱ ᱢᱮ...",
+"Hailo kaheṃ…"
+],
+"Have a good day": [
+"ᱛᱮᱦᱮᱱ ᱟᱹᱫᱤ ᱵᱚᱜᱮᱛᱮ ᱯᱟᱨᱚᱢ",
+"Āpakā dina śubha ho"
+],
+"Have a safe journey": [
+"ᱱᱟᱯᱟᱭ ᱥᱟᱝᱜᱷᱟᱨ ᱦᱩᱭᱩᱜ ᱢᱟ",
+"Āpakī yātrā surakṣita ho"
+],
+"Good luck": [
+"ᱵᱷᱟᱜᱤ ᱜᱮ ᱦᱩᱭ ᱠᱚᱜᱢᱟ",
+"Āpako kāmayābī mile"
+],
+"All the best": [
+"ᱱᱟᱯᱟᱭ ᱥᱳᱢ ᱢᱮ",
+"Śubhakāmanāeṃ"
+],
+"Well done": [
+"ᱟᱫᱤ ᱵᱦᱟᱜᱮ",
+"Bahuta acchā"
+],
+"You are kind": [
+"ᱟᱢ ᱫᱚ ᱫᱟᱭᱟ ᱜᱮᱭᱟᱢ",
+"Āpa dayālū haiṃ"
+],
+"I appreciate it": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱥᱟᱨᱦᱟᱣ ᱮᱫᱟᱹᱧ",
+"Maiṃ isakī sarāhanā karatā hūṃ"
+],
+"That is very nice": [
+"ᱚᱱᱟ ᱫᱚ ᱟᱹᱰᱤ ᱪᱮᱦᱨᱟ",
+"Yaha khūbasūrata hai"
+],
+"You are welcome": [
+"ᱟᱢᱟᱜ ᱟᱛᱟᱝ ᱫᱟᱨᱟᱢ",
+"Āpakā svāgata hai"
+],
+"Do not mention it": [
+"ᱱᱚᱣᱟ ᱟᱞᱚᱢ ᱥᱚᱫᱚᱨᱟ",
+"Isakā khulāsā mata karo."
+],
+"It was nothing": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Yaha kucha bhī nahīṃ thā"
+],
+"I am grateful": [
+"ᱤᱧ ᱫᱚ ᱚᱱᱟ ᱥᱟᱨᱦᱟᱣ ᱜᱮᱭᱟᱹᱧ",
+"Maiṃ sarāhanā karatā hū~"
+],
+"Many thanks": [
+"ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ",
+"Dhanyavāda"
+],
+"Thanks a lot": [
+"ᱟᱹᱰᱤ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ",
+"Āpakā bahuta-bahuta dhanyavāda"
+],
+"I owe you one": [
+"ᱤᱧ ᱟᱢ ᱢᱤᱫ ᱫᱟᱱ ᱮᱢᱟᱢ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ tumheṃ eka upahāra dū~gā"
+],
+"Forgive me": [
+"ᱤᱧ ᱤᱠᱟᱹ ᱠᱟᱹᱧ ᱢᱮ",
+"Mujhe māfa kareṃ"
+],
+"My apologies": [
+"ᱤᱧ ᱤᱠᱟᱹ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Mujhe māfa kareṃ"
+],
+"It was my fault": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱤᱧᱟᱜ ᱵᱷᱩᱞ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Yaha merī galatī thī"
+],
+"No worries": [
+"ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱩᱰᱤ ᱵᱷᱟᱵᱽᱱᱟᱜ ᱢᱮ",
+"Koī ġama nahīṃ"
+],
+"Do not be sorry": [
+"ᱤᱠᱟᱹ ᱟᱞᱚᱢ ᱵᱩᱡᱷᱟᱹᱣᱟ",
+"Afasosa mata karo"
+],
+"We are friends": [
+"ᱟᱞᱮ ᱫᱚ ᱜᱟᱛᱮ ᱠᱟᱱᱟ ᱞᱮ",
+"Hama dosta haiṃ"
+],
+"May I come in?": [
+"ᱤᱧ ᱵᱷᱤᱛᱨᱤ ᱦᱤᱡᱩᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ?",
+"Kyā maiṃ ā sakatā hū~?"
+],
+"Please sit down": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱫᱩᱲᱩᱵ ᱢᱮ",
+"Āpa ārāma se taśarīpha rakhiye|"
+],
+"Make yourself at home": [
+"ᱟᱢ ᱟᱢᱛᱮ ᱚᱲᱟᱜ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Ise apanā ghara samajheṃ"
+],
+"Would you like tea?": [
+"ᱪᱮᱫ ᱟᱢ ᱪᱟᱢ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ?",
+"Kyā āpako cāya pasaṃda hai?"
+],
+"I am from India": [
+"ᱤᱧ ᱫᱚ ᱵᱷᱟᱨᱚᱛ ᱠᱷᱚᱱ",
+"Maiṃ bhārata se hūṃ."
+],
+"Where are you from?": [
+"ᱟᱢ ᱫᱚ ᱚᱠᱟ ᱨᱮᱱ ᱠᱟᱱᱟᱢ?",
+"Āpa kahā~ se haiṃ?"
+],
+"I live in...": [
+"ᱤᱧ ᱛᱟᱦᱮᱱ ᱠᱟᱱᱟᱹᱧ...",
+"Meṃ jiṃdā hū~..."
+],
+"What do you do?": [
+"ᱟᱢ ᱪᱮᱫ ᱮᱢ ᱪᱮᱠᱟᱭᱟ?",
+"Āpa kyā karate haiṃ?"
+],
+"I am a student": [
+"ᱤᱧ ᱫᱚ ᱢᱤᱫ ᱯᱟᱹᱴᱷᱩᱣᱟᱹ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ par̤hatā hūṃ"
+],
+"I work in...": [
+"ᱤᱧ ᱠᱟᱹᱢᱤᱭᱟᱹᱧ...",
+"Maiṃ kāma karatā hū~..."
+],
+"This is my friend": [
+"ᱱᱩᱭ ᱫᱚ ᱤᱧ ᱨᱮᱱ ᱜᱟᱛᱮ ᱠᱟᱱᱟᱭ",
+"Yaha merā dosta hai"
+],
+"Meet my family": [
+"ᱤᱧᱟᱜ ᱜᱷᱟᱨᱚᱸᱡᱽ ᱥᱟᱶ ᱧᱟᱯᱟᱢ ᱢᱮ",
+"Mere parivāra se milie"
+],
+"How is your family?": [
+"ᱟᱯᱮ ᱜᱷᱟᱨᱚᱧᱡᱽ ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ?",
+"Tumhārā parivāra kesā hai?"
+],
+"Everyone is fine": [
+"ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱴᱷᱤᱠ ᱜᱮᱭᱟ ᱠᱚ",
+"Hara koī sahī hai."
+],
+"I have to go now": [
+"ᱤᱧ ᱱᱤᱛᱚᱜ ᱥᱮᱱ ᱦᱩᱭᱩᱜ ᱛᱤᱧᱟ",
+"Aba mujhe jānā hogā"
+],
+"Can we meet tomorrow?": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱜᱟᱯᱟ ᱵᱚᱱ ᱧᱟᱯᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ?",
+"Kyā hama kala mila sakate haiṃ?"
+],
+"Let us meet soon": [
+"ᱫᱮᱞᱟ ᱞᱚᱜᱚᱱ ᱜᱮ ᱧᱟᱯᱟᱢ ᱦᱩᱭᱩᱜᱼᱟ",
+"Jalda hī phira mileṃge"
+],
+"I will call you": [
+"ᱤᱧ ᱟᱢᱤᱧ ᱦᱚᱦᱚ ᱢᱮᱭᱟ",
+"Maiṃ tumheṃ phona karūṃgā"
+],
+"Here is my number": [
+"ᱱᱚᱸᱰᱮ ᱤᱧᱟᱜ ᱱᱚᱢᱵᱚᱨ ᱢᱮᱱᱟᱜᱼᱟ",
+"Ye rahā merā naṃbara"
+],
+"Keep in touch": [
+"ᱡᱚᱯᱲᱟᱣ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Saṃparka meṃ rahanā"
+],
+"Until we meet again": [
+"ᱛᱤᱱ ᱦᱟᱹᱵᱤᱡ ᱟᱵᱚ ᱵᱟᱝ ᱵᱚᱱ ᱧᱟᱯᱟᱢ ᱟᱠᱟᱱᱟ",
+"Hamāre punaḥ milane taka|"
+],
+"I will never forget you": [
+"ᱤᱧ ᱟᱢ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱹᱧ ᱦᱤᱲᱤᱧ ᱢᱮᱭᱟ",
+"Āpa mujhe hameśā yāda raheṃge"
+],
+"You mean a lot to me": [
+"ᱟᱢᱟᱜ ᱢᱮᱱᱮᱛ ᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱜᱟᱱ",
+"Tuma mere lie bahuta k͟hāsa ho"
+],
+"I care about you": [
+"ᱤᱧ ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱤᱧ ᱡᱚᱜᱛᱚᱱ ᱮᱫᱟ",
+"Mujhe tumhārī phikra hai"
+],
+"Thank you for everything": [
+"ᱡᱷᱚᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ",
+"Haracīja ke lie dhanyavāda"
+],
+"I could not have done it without you": [
+"ᱤᱧ ᱟᱢ ᱵᱮᱜᱚᱨ ᱱᱚᱣᱟ ᱵᱟᱹᱧ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ",
+"Maiṃ tumhāre binā yaha nahīṃ kara pātā"
+],
+"You are very helpful": [
+"ᱟᱢ ᱟᱹᱰᱤ ᱜᱚᱲᱚᱣᱟᱱ ᱜᱮᱭᱟᱢ",
+"Āpa bahuta madadagāra haiṃ"
+],
+"I am proud of you": [
+"ᱤᱧ ᱟᱢ ᱪᱮᱛᱟᱱ ᱜᱚᱨᱚᱵ ᱢᱮᱱᱟᱜ ᱛᱤᱧᱟ",
+"Mujhe tuma para garva hai"
+],
+"Bless you and your family": [
+"ᱟᱢ ᱟᱨ ᱟᱢᱟᱜ ᱜᱷᱟᱨᱚᱧᱡᱽ ᱛᱷᱩᱢ ᱟᱹᱜᱩ ᱢᱮ",
+"Āpako aura āpake parivāra ko āśīrvāda deṃ"
+],
+"Wishing you happiness": [
+"ᱟᱢ ᱨᱟᱹᱥᱠᱟᱹ ᱨᱮᱭᱟᱜ ᱟᱥᱚᱜ ᱠᱟᱱᱟᱢ",
+"Āpase ānaṃda kī ummīda hai"
+],
+"Where is the station?": [
+"ᱥᱴᱮᱥᱚᱱ ᱫᱚ ᱚᱠᱟᱨᱮ?",
+"Sṭeśana kahā~ he?"
+],
+"Take me to the station": [
+"ᱤᱧ ᱥᱴᱮᱥᱚᱱ ᱛᱮ ᱤᱫᱤ ᱠᱟᱹᱧ ᱢᱮ",
+"Mujhe sṭeśana taka le calo"
+],
+"Where is the hospital?": [
+"ᱦᱚᱥᱯᱤᱴᱟᱞ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Aspatāla kahāṃ hai?"
+],
+"Go straight": [
+"ᱥᱤᱫᱷᱟᱹ ᱥᱮᱱᱚᱜ ᱢᱮ",
+"Sīdhe jāo"
+],
+"Turn left": [
+"ᱞᱮᱸᱜᱟ ᱥᱮᱫ ᱟᱹᱪᱩᱨᱚᱜ ᱢᱮ",
+"Bāṃe mur̤ie|"
+],
+"Turn right": [
+"ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱟᱹᱪᱩᱨᱚᱜ ᱢᱮ",
+"Dāīṃ ora mur̤eṃ."
+],
+"Stop here": [
+"ᱱᱚᱸᱰᱮ ᱛᱷᱤᱨᱚᱜ ᱢᱮ",
+"Ise baṃda karo"
+],
+"How far is it?": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱥᱟᱹᱝᱜᱤᱧᱟ?",
+"Yaha kitanī dūra hai?"
+],
+"I am lost": [
+"ᱤᱧ ᱟᱫ ᱟᱠᱟᱱᱟᱹᱧ",
+"Maiṃ hāra gayā hūṃ"
+],
+"Where is the toilet?": [
+"ᱴᱚᱭᱞᱮᱴ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Śaucālaya kahāṃ hai?"
+],
+"Bon voyage": [
+"ᱵᱚᱱ ᱵᱷᱚᱭᱮᱡ",
+"Baॉna yātrā"
+],
+"Where is the bus stop?": [
+"ᱵᱟᱥ ᱛᱤᱸᱜᱩᱱ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Basa sṭaॉpa kahā~ hai?"
+],
+"One ticket to...": [
+"ᱢᱤᱫ ᱴᱤᱠᱤᱴ ᱞᱟᱹᱜᱤᱫ...",
+"Ṭikaṭa ke lie..."
+],
+"When does the bus leave?": [
+"ᱵᱟᱥ ᱛᱤᱱᱨᱮ ᱪᱟᱞᱟᱜᱼᱟ?",
+"Basa kaba chūṭatī hai?"
+],
+"Is this seat free?": [
+"ᱪᱮᱫ ᱱᱚᱣᱟ ᱫᱩᱲᱩᱵ ᱯᱷᱨᱤ ᱜᱮᱭᱟ?",
+"Kyā yaha sīṭa muphta meṃ hai?"
+],
+"Next stop please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱥᱟᱨ ᱛᱷᱤᱨ",
+"Kṛpayā dūsarā par̤āva"
+],
+"I need a map": [
+"ᱤᱧ ᱢᱤᱫ ᱱᱟᱠᱥᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe eka mānacitra cāhie"
+],
+"Where can I get a taxi?": [
+"ᱤᱧ ᱚᱠᱟᱨᱮ ᱴᱮᱠᱥᱤ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱹᱧ?",
+"Mujhe ṭaiksī kahāṃ mila sakatī hai?"
+],
+"Please slow down": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱵᱟᱹᱭ ᱵᱟᱹᱭ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ",
+"Kṛpayā dhīre caleṃ"
+],
+"Airport": [
+"ᱩᱰᱟᱹᱱ ᱜᱟᱰᱤ ᱴᱟᱰᱤᱹ",
+"Eyaraporṭa"
+],
+"Where is the luggage?": [
+"ᱡᱤᱱᱤᱥ ᱠᱚ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Vastue~ kahā~ haiṃ?"
+],
+"I have a reservation": [
+"ᱤᱧᱟᱜ ᱢᱤᱫ ᱨᱤᱡᱟᱨᱣᱮᱥᱚᱱ ᱢᱮᱱᱟᱜᱼᱟ",
+"Mere pāsa ārakṣaṇa hai."
+],
+"Which platform?": [
+"ᱚᱠᱟ ᱯᱞᱟᱴᱯᱷᱚᱨᱢ?",
+"Kauna sā maṃca?"
+],
+"Is there a direct bus?": [
+"ᱪᱮᱫ ᱚᱱᱰᱮ ᱥᱚᱡᱷᱮ ᱵᱟᱥ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā koī sīdhī basa hai?"
+],
+"How long does it take?": [
+"ᱱᱚᱣᱟ ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜᱼᱟ?",
+"Isameṃ kitanā samaya lagegā?"
+],
+"I am travelling alone": [
+"ᱤᱧ ᱮᱥᱠᱟᱨ ᱫᱟᱬᱟᱱ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ akelā yātrā kara rahā hūṃ."
+],
+"Can you show me on the map?": [
+"ᱪᱮᱫ ᱟᱢ ᱤᱧ ᱱᱟᱠᱥᱟ ᱨᱮᱢ ᱩᱫᱩᱜ ᱫᱟᱲᱮ ᱤᱧᱟ?",
+"Kyā āpa mujhe mānacitra para dikhā sakate haiṃ?"
+],
+"Is it safe here?": [
+"ᱪᱮᱫ ᱱᱚᱸᱰᱮ ᱨᱚᱯᱟ ᱜᱮᱭᱟ?",
+"Kyā yaha yahā~ surakṣita hai?"
+],
+"I need a room": [
+"ᱤᱧ ᱢᱤᱫ ᱠᱟᱱᱫᱷᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe eka kamarā cāhie"
+],
+"Do you have a single room?": [
+"ᱪᱮᱫ ᱟᱢᱟᱜ ᱢᱤᱫ ᱠᱟᱸᱫᱷᱟ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā āpake pāsa eka kamarā hai?"
+],
+"Check-in time?": [
+"ᱪᱮᱠ-ᱤᱱ ᱚᱠᱛᱚ?",
+"Samaya para jāṃco?"
+],
+"Check-out time?": [
+"ᱪᱮᱠ-ᱟᱣᱩᱴ ᱚᱠᱛᱚ?",
+"Ceka āuṭa kā samaya?"
+],
+"Is breakfast included?": [
+"ᱪᱮᱫ ᱵᱟᱹᱥᱠᱟᱹᱜ ᱡᱚᱢᱟᱜ ᱥᱮᱞᱮᱫ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā isameṃ nāśtā śāmila hai?"
+],
+"Where is the beach?": [
+"ᱫᱚᱨᱭᱟ ᱟᱲᱮ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Samudrataṭa kahāṃ hai?"
+],
+"I want to rent a car": [
+"ᱤᱧ ᱢᱤᱫ ᱠᱟᱨ ᱵᱷᱟᱲᱟ ᱥᱟᱱᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe eka kāra kirāe para lenī hai"
+],
+"Fill the tank please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱴᱮᱸᱠ ᱯᱮᱨᱮᱡᱽ ᱢᱮ",
+"Kṛpayā ṭaṃkī bhareṃ"
+],
+"Where is the petrol pump?": [
+"ᱯᱮᱴᱨᱚᱞ ᱯᱟᱢᱯ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Peṭrola paṃpa kahā~ hai?"
+],
+"Can I walk there?": [
+"ᱪᱮᱫ ᱤᱧ ᱚᱱᱰᱮ ᱛᱟᱲᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱹᱧ?",
+"Kyā maiṃ vahāṃ cala sakatā hūṃ?"
+],
+"Is it within walking distance?": [
+"ᱪᱮᱫ ᱱᱚᱣᱟ ᱛᱟᱲᱟᱢ ᱥᱟᱹᱝᱜᱤᱧ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā yaha paidala dūrī ke bhītara hai?"
+],
+"Which way to the temple?": [
+"ᱢᱟᱱᱫᱤᱨ ᱥᱮᱫ ᱚᱠᱟ ᱰᱟᱦᱟᱨ ᱛᱮ?",
+"Maṃdira kā kauna sā rāstā?"
+],
+"I am looking for a hotel": [
+"ᱤᱧ ᱢᱤᱫ ᱦᱳᱴᱮᱞ ᱯᱟᱱᱛᱮ ᱮᱫᱟᱹᱧ",
+"Maiṃ eka hoṭala ḍhūṃḍha rahā hūṃ."
+],
+"Do you have a guide?": [
+"ᱪᱮᱫ ᱟᱢ ᱴᱷᱮᱱ ᱜᱟᱭᱤᱰ ᱢᱮᱱᱟᱭᱟ?",
+"Kyā āpake pāsa koī mārgadarśaka hai?"
+],
+"How much for a tour?": [
+"ᱫᱟᱬᱟ ᱞᱟᱹᱜᱤᱫ ᱛᱤᱱᱟᱹᱜ?",
+"Yātrā ke lie kitanā?"
+],
+"I would like to visit...": [
+"ᱤᱧ ᱫᱟᱬᱟᱱ ᱥᱟᱱᱟᱹᱧ ᱠᱟᱱᱟ...",
+"Maiṃ yātrā karanā cāhatā hūṃ..."
+],
+"What is this place called?": [
+"ᱱᱚᱣᱟ ᱡᱟᱭᱜᱟ ᱫᱚ ᱪᱮᱫ ᱠᱚ ᱢᱮᱛᱟᱜᱼᱟ?",
+"Isa jagaha ko kyā kahā jātā hai?"
+],
+"Is photography allowed?": [
+"ᱪᱮᱫ ᱯᱷᱳᱴᱳᱜᱨᱟᱯᱷᱤ ᱫᱚ ᱫᱟᱣ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā phoṭogrāphī kī anumati hai?"
+],
+"Where is the exit?": [
+"ᱚᱰᱚᱠ ᱰᱟᱦᱟᱨ ᱫᱚ ᱚᱠᱟᱨᱮ?",
+"Nikāsa kahā~ hai?"
+],
+"Where is the entrance?": [
+"ᱵᱚᱞᱚᱱ ᱰᱟᱦᱟᱨ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Praveśa dvāra kahā~ hai?"
+],
+"Is there a lift?": [
+"ᱪᱮᱫ ᱚᱱᱰᱮ ᱞᱤᱯᱷᱴ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā vahā~ eka liphṭa hai?"
+],
+"Ground floor": [
+"ᱜᱽᱨᱟᱣᱩᱱᱰ ᱯᱷᱞᱳᱨ",
+"Bhūtala|"
+],
+"First floor": [
+"ᱯᱩᱭᱞᱩ ᱛᱟᱞᱟ",
+"Pahalī maṃjila|"
+],
+"Where is the parking?": [
+"ᱯᱟᱨᱠᱤᱝ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Pārkiṃga kahā~ hai?"
+],
+"I need a SIM card": [
+"ᱤᱧ ᱢᱤᱫ ᱥᱤᱢ ᱠᱟᱨᱰ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe eka sima kārḍa cāhie"
+],
+"Where can I exchange money?": [
+"ᱤᱧ ᱚᱠᱟᱨᱮ ᱴᱟᱠᱟ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱹᱧ?",
+"Maiṃ paise kā ādāna-pradāna kahā~ kara sakatā hū~?"
+],
+"What is the exchange rate?": [
+"ᱵᱚᱫᱚᱞ ᱫᱚᱨ ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+"Vinimaya dara kyā hai?"
+],
+"I need a plug adapter": [
+"ᱤᱧ ᱢᱤᱫ ᱯᱞᱟᱜᱽ ᱮᱰᱟᱯᱴᱟᱨ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe eka plaga eḍāpṭara cāhie"
+],
+"Where is the embassy?": [
+"ᱨᱟᱡᱽᱣᱟᱨ ᱚᱲᱟᱜ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Yahāṃ mahala kahāṃ hai?"
+],
+"I lost my passport": [
+"ᱤᱧ ᱤᱧᱟᱜ ᱯᱟᱥᱯᱚᱨᱴ ᱟᱫ ᱠᱮᱫᱟᱹᱧ",
+"Merā pāsaporṭa kho gayā hai"
+],
+"I need to see a doctor": [
+"ᱤᱧ ᱢᱤᱫ ᱰᱟᱠᱴᱚᱨ ᱧᱮᱞ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe ḍaॉkṭara se milanā hai"
+],
+"Call an ambulance": [
+"ᱢᱤᱫ ᱮᱢᱵᱩᱞᱟᱱᱥ ᱦᱚᱦᱚᱭ ᱢᱮ",
+"Aimbuleṃsa bulāeṃ"
+],
+"Where is the pharmacy?": [
+"ᱯᱷᱟᱨᱢᱟᱥᱭ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Auṣadhālaya kahāṃ hai?"
+],
+"I have travel insurance": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱫᱟᱲᱟᱱ ᱵᱤᱢᱟ ᱢᱮᱱᱟᱜᱼᱟ",
+"Mere pāsa yātrā bīmā hai."
+],
+"Scenic route": [
+"ᱥᱤᱱᱤᱠ ᱨᱳᱴ",
+"Suṃdara mārga"
+],
+"Local market": [
+"ᱴᱚᱴᱷᱟᱹᱠᱤᱭᱟᱹ ᱵᱟᱡᱟᱨ",
+"Sthānīya vipaṇana"
+],
+"Traditional food": [
+"ᱥᱮᱫᱽᱨᱟ ᱡᱚᱢᱟᱜ",
+"Pāraṃparika khādya"
+],
+"Famous monument": [
+"ᱧᱩᱛᱩᱢᱟᱱ ᱢᱚᱱᱭᱩᱢᱮᱱᱴ",
+"Prasiddha smāraka."
+],
+"Historical place": [
+"ᱱᱟᱜᱟᱢᱤᱭᱟᱹ ᱴᱷᱟᱶ",
+"Aitihāsika sthala"
+],
+"Opening hours?": [
+"ᱡᱷᱤᱡᱽ ᱚᱠᱛᱚ?",
+"Khulane kā samaya?"
+],
+"Is it open today?": [
+"ᱪᱮᱫ ᱱᱚᱣᱟ ᱛᱮᱦᱮᱧ ᱡᱷᱤᱡ ᱜᱮᱭᱟ?",
+"Kyā yaha āja khulā hai?"
+],
+"Entrance fee?": [
+"ᱵᱚᱞᱚᱱ ᱯᱷᱤ?",
+"Praveśa śulka?"
+],
+"Student discount?": [
+"ᱯᱟᱹᱴᱷᱩᱣᱟᱹ ᱪᱷᱩᱴ?",
+"Chātra chūṭa?"
+],
+"Free entry?": [
+"ᱯᱷᱨᱤ ᱮᱱᱴᱨᱤ?",
+"Niḥśulka praveśa?"
+],
+"Can you take a photo?": [
+"ᱪᱮᱫ ᱟᱢ ᱪᱤᱛᱟᱹᱨ ᱦᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ?",
+"Kyā āpa eka tasvīra le sakate haiṃ?"
+],
+"Beautiful view": [
+"ᱪᱮᱦᱨᱟ ᱧᱮᱞᱚᱢ",
+"Suṃdara dṛśya|"
+],
+"I am on holiday": [
+"ᱤᱧ ᱪᱷᱩᱴᱤ ᱨᱮ ᱢᱤᱱᱟᱹᱧᱟ",
+"Maiṃ avakāśa para hūṃ"
+],
+"Business trip": [
+"ᱵᱮᱯᱟᱨ ᱫᱟᱬᱟ",
+"Vyāpāra hetu yātrā"
+],
+"Round trip": [
+"ᱜᱩᱞᱟᱹᱭ ᱫᱟᱬᱟ",
+"Vṛtta ke cāroṃ ora yātrā kareṃ."
+],
+"One way": [
+"ᱢᱤᱫ ᱦᱚᱨ",
+"Dūra"
+],
+"Window seat please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱫᱩᱲᱩᱵ ᱢᱮ",
+"Kṛpayā viṃḍo sīṭa"
+],
+"Aisle seat please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱜᱟᱞᱤᱭᱟᱨᱮ ᱫᱩᱲᱩᱵ ᱢᱮ",
+"Kṛpayā galiyāre meṃ baiṭheṃ|"
+],
+"No smoking": [
+"ᱫᱷᱩᱶᱟᱹ ᱧᱩ ᱵᱟᱝ ᱦᱩᱭᱩᱜᱼᱟ",
+"Dhūmrapāna niṣedha|"
+],
+"Luggage allowance?": [
+"ᱡᱤᱱᱤᱥ ᱵᱷᱟᱛᱛᱟ?",
+"Sāmagrī bhattā?"
+],
+"Boarding pass": [
+"ᱵᱚᱨᱰᱤᱝ ᱯᱟᱥ",
+"Borḍiṃga pāsa."
+],
+"Gate number?": [
+"ᱜᱮᱴ ᱱᱚᱢᱵᱚᱨ?",
+"Geṭa naṃbara?"
+],
+"Delayed": [
+"ᱵᱤᱞᱚᱢ",
+"Dera"
+],
+"Cancelled": [
+"ᱵᱟᱝ ᱦᱩᱭ ᱟᱠᱟᱱᱟ",
+"Nahīṃ huā."
+],
+"On time": [
+"ᱚᱠᱛᱚ ᱨᱮ",
+"Daurāna"
+],
+"Customs": [
+"ᱟᱹᱨᱤᱪᱟᱹᱞᱤ",
+"Rivāza"
+],
+"Nothing to declare": [
+"ᱜᱚᱴᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ",
+"Ghoṣita karane ke lie kucha bhī nahīṃ"
+],
+"Souvenir": [
+"ᱥᱚᱣᱮᱱᱤᱭᱟᱨ",
+"Yādagāra"
+],
+"Local specialty": [
+"ᱞᱚᱠᱟᱞ ᱥᱯᱮᱥᱟᱞᱤᱴᱤ",
+"Sthānīya viśeṣatā"
+],
+"Recommend a restaurant": [
+"ᱢᱤᱫ ᱨᱮᱥᱴᱩᱨᱮᱱᱴ ᱥᱚᱞᱦᱟᱭ ᱢᱮ",
+"Eka restarāṃ kī siphāriśa kareṃ"
+],
+"Safe journey": [
+"ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱝᱜᱷᱟᱨ",
+"Surakṣita mārga|"
+],
+"Water": [
+"ᱫᱟᱜ",
+"Pānī"
+],
+"Food": [
+"ᱡᱚᱢᱟᱜ",
+"Khānā"
+],
+"I am hungry": [
+"ᱤᱧ ᱨᱮᱸᱜᱮᱡ ᱢᱤᱱᱟᱹᱧᱟ",
+"Mujhe bhūkha lagī hai"
+],
+"Cooked rice": [
+"ᱤᱥᱤᱱ ᱫᱟᱠᱟ",
+"Pakā huā cāvala."
+],
+"Tea": [
+"ᱪᱟ",
+"Cāya"
+],
+"Coffee": [
+"ᱠᱯᱷᱤ",
+"Kaॉphī"
+],
+"Please give me water": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱫᱟᱜ ᱮᱢᱟᱹᱧ ᱢᱮ",
+"Kṛpayā mujhe thor̤ā pānī dījie"
+],
+"The food is delicious": [
+"ᱡᱚᱢᱟᱜ ᱫᱚ ᱥᱤᱵᱤᱞ ᱜᱮᱭᱟ",
+"Khānā svādiṣṭa hai"
+],
+"I am vegetarian": [
+"ᱤᱧ ᱫᱚ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱡᱚᱢᱟᱜ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ śākāhārī hūṃ"
+],
+"Bill please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱵᱤᱞ",
+"Kṛpayā kṛpayā bila"
+],
+"Have a nice meal": [
+"ᱱᱟᱯᱟᱭ ᱡᱚᱢᱟᱜ ᱦᱩᱭᱩᱜ ᱢᱟ",
+"Acchā bhojana kijiẏe"
+],
+"I am thirsty": [
+"ᱤᱧ ᱛᱮᱛᱟᱝ ᱟᱠᱟᱱᱟᱹᱧ",
+"Mujhe pyāsa lagī hai|"
+],
+"One cup of tea": [
+"ᱢᱤᱫ ᱠᱟᱯ ᱪᱟ",
+"Eka kapa cāya|"
+],
+"No sugar please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱪᱤᱱᱤ ᱵᱟᱝ",
+"Kṛpayā cīnī nahīṃ"
+],
+"Less spicy please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱠᱚᱢ ᱢᱚᱥᱞᱟ",
+"Kṛpayā kama masālā"
+],
+"Too hot": [
+"ᱟᱹᱰᱤ ᱞᱚᱞᱚ",
+"Bahuta garma."
+],
+"I am full": [
+"ᱤᱧ ᱯᱮᱨᱮᱡ ᱜᱮᱭᱟᱹᱧ",
+"Merā peṭa bhara cukā hai"
+],
+"Menu please": [
+"ᱢᱮᱱᱭᱩ ᱫᱟᱭᱟ ᱠᱟᱛᱮ",
+"Kṛpayā menyū deṃ"
+],
+"What do you recommend?": [
+"ᱟᱢ ᱪᱮᱫ ᱥᱚᱞᱦᱟᱢ ᱮᱢᱚᱜ ᱠᱟᱱᱟ?",
+"Āpa kyā salāha deṃge?"
+],
+"Today's special?": [
+"ᱛᱮᱦᱮᱧ ᱫᱚ ᱵᱤᱥᱮᱥ ᱜᱮᱭᱟ?",
+"Āja kā dina khāsa hai?"
+],
+"Is this vegetarian?": [
+"ᱪᱮᱫ ᱱᱩᱭ ᱫᱚ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱡᱚᱢᱟᱜ ᱠᱟᱱᱟᱭ?",
+"Kyā yaha śākāhārī āhāra hai?"
+],
+"I have an allergy": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱮᱞᱟᱨᱡᱤ ᱢᱮᱱᱟᱜᱼᱟ",
+"Mujhe elarjī hai."
+],
+"No onion no garlic": [
+"ᱯᱤᱭᱟᱸᱡᱽ ᱵᱟᱝ ᱨᱟᱥᱚᱥ ᱵᱟᱝ",
+"Koī pyāja yā lahasuna nahīṃ."
+],
+"Pack this to go": [
+"ᱥᱮᱱᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ ᱯᱮᱠ ᱢᱮ",
+"Jāne ke lie ise paika karo"
+],
+"Table for two": [
+"ᱵᱟᱨ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱴᱮᱵᱩᱞ",
+"Do kā pahār̤ā"
+],
+"Can I have the bill?": [
+"ᱪᱮᱫ ᱤᱧ ᱴᱷᱮᱱ ᱵᱤᱞ ᱛᱟᱦᱮᱸ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ?",
+"Kyā mujhe bila mila sakatā hai?"
+],
+"Is service included?": [
+"ᱪᱮᱫ ᱥᱮᱵᱟ ᱥᱮᱞᱮᱫ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kauna sī sevāe~ śāmila haiṃ?"
+],
+"Keep the change": [
+"ᱵᱚᱫᱚᱞ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ",
+"Chuṭṭe paise tuma rakho"
+],
+"This is cold": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱨᱮᱭᱟᱲ ᱜᱮᱭᱟ",
+"Yaha bar̤hīyā hai"
+],
+"Can I get a refill?": [
+"ᱪᱮᱫ ᱤᱧ ᱨᱤᱯᱷᱤᱞ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱹᱧ ᱥᱮ?",
+"Kyā mujhe riphila mila sakatā hai?"
+],
+"Breakfast": [
+"ᱵᱟᱥᱠᱤᱭᱟᱜ",
+"Nāśtā"
+],
+"Lunch": [
+"ᱡᱚᱢᱟᱜ",
+"Khānā"
+],
+"Dinner": [
+"ᱠᱤᱫᱩᱵ",
+"Rāta kā khānā"
+],
+"Snack": [
+"ᱡᱚᱢᱟ",
+"Jamā karanā"
+],
+"Dessert": [
+"ᱥᱤᱵᱤᱞ ᱟ",
+"Miṭhāī"
+],
+"Starter": [
+"ᱥᱴᱟᱨᱴᱟᱨ",
+"Sṭārṭara."
+],
+"Main course": [
+"ᱢᱩᱬ ᱠᱚᱨᱥ",
+"Mena korsa"
+],
+"Soup": [
+"ᱨᱟᱥᱮ",
+"Śorabā"
+],
+"Salad": [
+"ᱥᱟᱞᱟᱰ",
+"Salāda"
+],
+"Rice and curry": [
+"ᱫᱟᱠᱟ ᱟᱨ ᱠᱟᱨᱤ",
+"Cāvala aura karī"
+],
+"Roti": [
+"ᱨᱚᱴᱤ",
+"Roṭī"
+],
+"Dal": [
+"ᱰᱟᱞ",
+"Dala"
+],
+"Vegetable curry": [
+"ᱩᱛᱩ ᱡᱤᱱᱤᱥ ᱠᱟᱨᱤ",
+"Sabjī kar̤hī"
+],
+"Fish curry": [
+"ᱦᱟᱹᱠᱩ ᱠᱟᱨᱤ",
+"Machalī karī"
+],
+"Chicken": [
+"ᱥᱤᱢ",
+"Murgā"
+],
+"Egg": [
+"ᱵᱮᱞᱮ",
+"Aṃḍā"
+],
+"Paneer": [
+"ᱯᱟᱱᱤᱨ",
+"Panīra"
+],
+"Yogurt": [
+"ᱫᱟᱜ",
+"Pānī"
+],
+"Pickle": [
+"ᱟᱹᱪᱩᱨ",
+"Mor̤a"
+],
+"Chutney": [
+"ᱪᱩᱴᱱᱤ",
+"Caṭanī"
+],
+"Sweet": [
+"ᱦᱮᱲᱮᱢ",
+"Miṭhāī"
+],
+"Ice cream": [
+"ᱟᱤᱥ ᱠᱤᱨᱤᱢ",
+"Āisakrīma"
+],
+"Fresh juice": [
+"ᱛᱟᱜᱽᱲᱟ ᱨᱟᱥᱟ",
+"Tāzā rasa"
+],
+"Cold drink": [
+"ᱨᱮᱭᱟᱲ ᱧᱩ",
+"Ṭhaṃḍā ḍriṃka"
+],
+"Hot milk": [
+"ᱞᱚᱞᱚ ᱛᱚᱣᱟ",
+"Garma dūdha."
+],
+"Green tea": [
+"ᱦᱟᱹᱨᱭᱟᱹᱲ ᱪᱟ",
+"Harī cāya"
+],
+"Black coffee": [
+"ᱦᱮᱱᱫᱮ ᱠᱚᱯᱷᱤ",
+"Blaika kaॉfī|"
+],
+"Mineral water": [
+"ᱢᱤᱱᱟᱨᱟᱞ ᱫᱟᱜ",
+"Minarala vaॉṭara|"
+],
+"No ice": [
+"ᱵᱚᱨᱚᱯᱷ ᱵᱟᱹᱱᱩᱜᱼᱟ",
+"Koī barfa nahīṃ"
+],
+"Extra napkins": [
+"ᱵᱟᱹᱲᱛᱤ ᱱᱮᱯᱠᱤᱱ",
+"Adhika naipakina."
+],
+"Raw": [
+"ᱵᱮᱨᱮᱞ",
+"Kaccā"
+],
+"Cooked": [
+"ᱤᱥᱤᱱ ᱦᱩᱭ ᱮᱱᱟ",
+"Pakā huā"
+],
+"Fried": [
+"ᱵᱷᱟᱡᱟ",
+"Talā huā"
+],
+"Boiled": [
+"ᱩᱫ ᱟᱠᱟᱱ",
+"Nigala liyā;"
+],
+"Spicy": [
+"ᱡᱟᱞ",
+"Masāledāra"
+],
+"Sour": [
+"ᱡᱚᱡᱚ",
+"Khaṭṭā"
+],
+"Bitter": [
+"ᱦᱟᱲᱦᱟᱫ",
+"Kar̤avā"
+],
+"Tasty": [
+"ᱥᱤᱵᱤᱞ",
+"Svādiṣṭa"
+],
+"Tasteless": [
+"ᱵᱤᱱ ᱥᱤᱵᱤᱞ",
+"Ko phīkā"
+],
+"Fresh": [
+"ᱴᱟᱴᱠᱟ",
+"Acānaka"
+],
+"Stale": [
+"ᱵᱟᱥᱤ",
+"Bāsī"
+],
+"Hot": [
+"ᱞᱚᱞᱚ",
+"Garama"
+],
+"Cold": [
+"ᱨᱟᱵᱟᱝ",
+"Ṭhaṃḍā"
+],
+"I cannot eat this": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱵᱟᱹᱧ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Maiṃ ise nahīṃ khā sakatā"
+],
+"Different dish please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱮᱴᱟᱜ ᱰᱤᱥ",
+"Kṛpayā eka aura ḍiśa."
+],
+"Same again": [
+"ᱫᱚᱦᱲᱟ ᱢᱤᱫ ᱜᱮ",
+"Phira vahī."
+],
+"Half portion": [
+"ᱟᱫᱷᱟ ᱦᱟᱹᱴᱤᱧ",
+"Ādhā hissā."
+],
+"Large portion": [
+"ᱢᱟᱨᱟᱝ ᱦᱟᱹᱴᱤᱧ",
+"Bar̤ā hissā"
+],
+"Small portion": [
+"ᱠᱟᱹᱴᱤᱡ ᱦᱟᱹᱴᱤᱧ",
+"Choṭe hisse."
+],
+"For here or to go?": [
+"ᱱᱚᱸᱰᱮ ᱞᱟᱹᱜᱤᱫ ᱥᱮ ᱥᱮᱱᱚᱜ ᱞᱟᱹᱜᱤᱫ?",
+"Yahā~ taka yā jānā hai?"
+],
+"Eat slowly": [
+"ᱵᱟᱹᱭ ᱵᱟᱹᱭ ᱛᱮ ᱡᱚᱢ ᱢᱮ",
+"Dhīre dhīre khāeṃ|"
+],
+"Cheers!": [
+"ᱪᱟᱨᱦᱟᱣ!",
+"Protsāhita karanā!"
+],
+"To your health": [
+"ᱟᱢᱟᱜ ᱦᱚᱲᱢᱚ ᱞᱟᱹᱜᱤᱫ",
+"Āpake svāsthya ke lie."
+],
+"Enjoy your meal": [
+"ᱟᱢᱟᱜ ᱡᱚᱢᱟᱜ ᱨᱟᱹᱥᱠᱟᱹᱭ ᱢᱮ",
+"Apane bhojana kā ānaṃda lijiye"
+],
+"It smells good": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱱᱟᱯᱟᱭ ᱢᱚᱦᱚᱞ ᱮᱢᱚᱜ ᱠᱟᱱᱟ",
+"Isase acchī khuśabū ā rahī hai!"
+],
+"Too salty": [
+"ᱟᱹᱰᱤ ᱵᱩᱞᱩᱝ",
+"Behada namakīna|"
+],
+"Perfect": [
+"ᱵᱟᱛᱨᱟᱣ",
+"Uttama"
+],
+"Compliments to the chef": [
+"ᱥᱮᱯ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ",
+"Śepha ke lie dhanyavāda"
+],
+"How much is this?": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ?",
+"Yaha kitane kā hai?"
+],
+"That's too expensive": [
+"ᱚᱱᱟ ᱫᱚ ᱟᱹᱰᱤ ᱫᱟᱢ ᱜᱮᱭᱟ",
+"Vaha bahuta mahaṃgā hai"
+],
+"Cheap": [
+"ᱥᱟᱱᱛᱟᱲᱤ",
+"Saṃthālī"
+],
+"Give me one kg rice": [
+"ᱤᱧ ᱢᱤᱫ ᱠᱮᱡᱤ ᱫᱟᱠᱟ ᱮᱢᱟᱹᱧ ᱢᱮ",
+"Mujhe eka kilo cāvala do"
+],
+"Do you have a bag?": [
+"ᱪᱮᱫ ᱟᱢ ᱴᱷᱮᱱ ᱵᱮᱜᱽ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā āpake pāsa baiga hai?"
+],
+"OK I'll take it": [
+"ᱴᱷᱤᱠ ᱜᱮᱭᱟ ᱤᱧ ᱱᱚᱣᱟᱧ ᱦᱟᱛᱟᱣᱟ",
+"Ṭhīka hai maiṃ le lū~gā."
+],
+"Can you reduce the price?": [
+"ᱪᱮᱫ ᱟᱢ ᱫᱟᱢ ᱠᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ?",
+"Kyā āpa kīmata kama kara sakate haiṃ?"
+],
+"Give me a discount": [
+"ᱤᱧ ᱪᱷᱩᱴ ᱮᱢᱟᱹᱧ ᱢᱮ",
+"Mujhe chūṭa do"
+],
+"Final price?": [
+"ᱢᱩᱪᱟᱹᱫ ᱜᱚᱱᱚᱝ?",
+"Aṃtima kīmata?"
+],
+"I am just looking": [
+"ᱤᱧ ᱫᱚ ᱱᱤᱛ ᱜᱮ ᱠᱚᱭᱚᱜ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ basa dekha rahā hūṃ"
+],
+"Do you have this in red?": [
+"ᱪᱮᱫ ᱟᱢ ᱴᱷᱮᱱ ᱱᱚᱣᱟ ᱟᱨᱟᱜ ᱨᱚᱝ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā āpake pāsa yaha lāla raṃga meṃ hai?"
+],
+"Do you have a bigger size?": [
+"ᱪᱮᱫ ᱟᱢ ᱴᱷᱮᱱ ᱢᱟᱨᱟᱝ ᱥᱟᱭᱤᱡᱽ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā āpake pāsa bar̤ā ākāra hai?"
+],
+"Do you have a smaller size?": [
+"ᱪᱮᱫ ᱟᱢ ᱴᱷᱮᱱ ᱠᱟᱹᱴᱤᱡ ᱥᱟᱭᱤᱡᱽ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā āpake pāsa choṭā ākāra hai?"
+],
+"Can I try this on?": [
+"ᱪᱮᱫ ᱤᱧ ᱱᱚᱣᱟ ᱪᱮᱥᱴᱟᱭᱟᱹᱧ?",
+"Kyā maiṃ ise āzamāūṃgā?"
+],
+"Where is the fitting room?": [
+"ᱯᱷᱤᱴᱤᱝ ᱨᱩᱢ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Phiṭiṃga rūma kahā~ hai?"
+],
+"I will pay by card": [
+"ᱤᱧ ᱠᱟᱨᱰ ᱛᱮ ᱯᱩᱭᱥᱟᱹ ᱮᱢᱟᱹᱧ",
+"Maiṃ kārḍa se bhugatāna karatā hūṃ"
+],
+"Do you accept cards?": [
+"ᱪᱮᱫ ᱟᱢ ᱠᱟᱨᱰ ᱮᱢ ᱟᱝᱜᱚᱪ ᱮᱫᱟ?",
+"Kyā āpa kārḍa svīkāra karate haiṃ?"
+],
+"Cash only": [
+"ᱥᱩᱢᱩᱝ ᱴᱟᱠᱟ",
+"Kevala nagadī|"
+],
+"Do you have change?": [
+"ᱪᱮᱫ ᱟᱢ ᱴᱷᱮᱱ ᱵᱚᱫᱚᱞ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā āpake pāsa badalāva hai?"
+],
+"Receipt please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱨᱟᱹᱥᱤᱫ",
+"Kṛpayā rasīda deṃ"
+],
+"Gift wrap please": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱥᱤᱨᱯᱟᱹ ᱵᱮᱫᱷᱟᱣ",
+"Kṛpayā upahāra lapeṭeṃ"
+],
+"Where do I pay?": [
+"ᱤᱧ ᱚᱠᱟᱨᱮ ᱯᱩᱭᱥᱟᱹ ᱮᱢᱟᱹᱧ?",
+"Mujhe kahāṃ bhugatāna karanā hai?"
+],
+"Is there a warranty?": [
+"ᱪᱮᱫ ᱚᱱᱰᱮ ᱣᱟᱨᱟᱱᱴᱤ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā koī vāraṃṭī hai?"
+],
+"Can I return this?": [
+"ᱪᱮᱫ ᱤᱧ ᱱᱚᱣᱟᱧ ᱨᱩᱣᱟᱹᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ?",
+"Kyā maiṃ ise vāpasa kara sakatā hū~?"
+],
+"Exchange only": [
+"ᱥᱩᱢᱩᱝ ᱵᱚᱫᱚᱞ",
+"Kevala parivartana"
+],
+"Out of stock": [
+"ᱥᱴᱚᱠ ᱵᱟᱦᱨᱮ ᱮᱱᱟ",
+"Sṭaॉka k͟hatma"
+],
+"When will it arrive?": [
+"ᱱᱚᱣᱟ ᱛᱤᱱᱨᱮ ᱥᱮᱴᱮᱨᱚᱜᱼᱟ?",
+"Vaha kaba āegī?"
+],
+"Order": [
+"ᱟᱫᱮᱥ",
+"Ādeśa"
+],
+"Delivery": [
+"ᱥᱮᱴᱮᱨ",
+"Pahu~canā"
+],
+"Free delivery?": [
+"ᱯᱷᱨᱤ ᱰᱮᱞᱤᱵᱷᱟᱨᱤ?",
+"Ni: śulka ḍilivarī?"
+],
+"Supermarket": [
+"ᱥᱩᱯᱟᱨᱢᱟᱨᱠᱮᱴ",
+"Suparamārkeṭa|"
+],
+"Market": [
+"ᱵᱟᱡᱟᱨ",
+"Kharīdārī"
+],
+"Shop": [
+"ᱫᱚᱠᱟᱱ",
+"Dukāna"
+],
+"Mall": [
+"ᱢᱚᱞ",
+"Maॉla"
+],
+"Bakery": [
+"ᱥᱤᱵᱤᱞ ᱤᱥᱤᱱ ᱚᱲᱟᱹ",
+"Bekarī"
+],
+"Pharmacy": [
+"ᱯᱷᱟᱨᱢᱟᱥᱭ",
+"Phārmesī;"
+],
+"Bookstore": [
+"ᱯᱚᱛᱚᱵ ᱫᱚᱠᱟᱱ",
+"Kitāboṃ kī dukāna"
+],
+"Clothing store": [
+"ᱞᱩᱜᱽᱲᱤᱜ ᱫᱚᱠᱟᱱ",
+"Kapar̤e kī dukāna|"
+],
+"Shoe shop": [
+"ᱯᱟᱱᱟᱦᱤ ᱫᱚᱠᱟᱱ",
+"Jūte kī dukāna|"
+],
+"Jewellery shop": [
+"ᱜᱮᱦᱱᱟ ᱠᱚ ᱫᱚᱠᱟᱱ",
+"Ābhūṣaṇa kī dukāna"
+],
+"Electronics store": [
+"ᱤᱞᱮᱠᱴᱨᱚᱱᱤᱠᱥ ᱥᱴᱚᱨ",
+"Ilekṭraॉniksa kī dukāna|"
+],
+"Open": [
+"ᱠᱷᱩᱞᱟᱳ",
+"Khulā"
+],
+"Closed": [
+"ᱵᱚᱱᱫᱚ",
+"Baṃda karanā"
+],
+"Sale": [
+"ᱟᱠᱷᱨᱤᱧ",
+"Becanā"
+],
+"Half price": [
+"ᱟᱫᱷᱟ ᱜᱚᱱᱚᱝ",
+"Ādhī kīmata|"
+],
+"Buy one get one": [
+"ᱢᱤᱫ ᱠᱤᱨᱤᱧ ᱠᱟᱛᱮ ᱢᱤᱫ ᱧᱟᱢ ᱢᱮ",
+"Eka kharīdeṃ aura eka prāpta kareṃ"
+],
+"Clearance": [
+"ᱯᱷᱟᱨᱪᱟ",
+"Sāpha|"
+],
+"New arrival": [
+"ᱱᱟᱶᱟ ᱦᱮᱡ",
+"Nayā āgamana"
+],
+"Best seller": [
+"ᱥᱚᱨᱮᱥ ᱟᱠᱷᱨᱤᱧᱤᱡ",
+"Sarvaśreṣṭha vikretā"
+],
+"Limited edition": [
+"ᱥᱤᱢᱟᱹ ᱨᱟᱫᱟ",
+"Sīmita saṃskaraṇa"
+],
+"Original": [
+"ᱟᱥᱞᱟᱱ",
+"Mūla"
+],
+"Copy": [
+"ᱱᱚᱠᱚᱞ ᱢᱮ",
+"Pratilipi"
+],
+"Brand": [
+"ᱥᱟᱳᱨᱮᱱ ᱠᱚ",
+"Brāṃḍa"
+],
+"Quality": [
+"ᱜᱩᱱ",
+"Viśeṣatā"
+],
+"Cheap quality": [
+"ᱠᱚᱢ ᱜᱩᱱ",
+"Kharāba kvāliṭī"
+],
+"Good quality": [
+"ᱱᱟᱯᱟᱭ ᱜᱩᱱ",
+"Acchī guṇavattā|"
+],
+"Expensive": [
+"ᱟᱰᱤ ᱫᱟᱢᱟᱱ",
+"Maha~gā"
+],
+"Affordable": [
+"ᱫᱟᱲᱮᱭᱟ",
+"Kharīdane kī sāmarthya"
+],
+"Bargain": [
+"ᱫᱨᱫᱟᱢ",
+"Saudā"
+],
+"Negotiate": [
+"ᱱᱮᱜᱚᱥᱤᱭᱮᱴ",
+"Mola-bhāva karanā"
+],
+"I need...": [
+"ᱤᱧ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ...",
+"Mujhe zarūrata hai..."
+],
+"Show me that": [
+"ᱤᱧ ᱩᱫᱩᱜ ᱟᱹᱧ ᱢᱮ ᱚᱱᱟ",
+"Mujhe dikhāo ki"
+],
+"Anything else?": [
+"ᱟᱨ ᱡᱟᱦᱟᱱᱟᱜ ᱜᱮ?",
+"Aura kucha?"
+],
+"That is all": [
+"ᱚᱱᱟ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ",
+"Basa itanā hī"
+],
+"I will think about it": [
+"ᱤᱧ ᱱᱚᱶᱟ ᱵᱟᱨᱮᱛᱮ ᱩᱭᱦᱟᱹᱨᱟᱹᱧ",
+"Maiṃ isake bāre meṃ socū~gā"
+],
+"I will come back": [
+"ᱤᱧ ᱨᱩᱣᱟᱹᱲ ᱦᱤᱡᱩᱜᱼᱟ",
+"Maiṃ vāpasa āūṃgā"
+],
+"Do you have another colour?": [
+"ᱪᱮᱫ ᱟᱢ ᱴᱷᱮᱱ ᱮᱴᱟᱜ ᱨᱚᱝ ᱢᱮᱱᱟᱜᱼᱟ?",
+"Kyā āpake pāsa koī anya raṃga hai?"
+],
+"Only this left": [
+"ᱥᱩᱢᱩᱝ ᱱᱚᱣᱟ ᱜᱮ ᱵᱟᱹᱜᱤ ᱟᱠᱟᱱᱟ",
+"Basa yahī bacā hai."
+],
+"Last piece": [
+"ᱢᱩᱪᱟᱹᱫ ᱯᱤᱥ",
+"Ākhirī ṭukar̤ā"
+],
+"Reserve this for me": [
+"ᱱᱚᱣᱟ ᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱨᱟᱠᱷᱟ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ",
+"Ise mere lie ārakṣita kareṃ"
+],
+"Put it on hold": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱛᱟᱺᱜᱤ ᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ",
+"Basa ise holḍa para rakheṃ."
+],
+"Cancel my order": [
+"ᱤᱧᱟᱜ ᱚᱰᱟᱨ ᱵᱚᱱᱫᱚᱭ ᱢᱮ",
+"Merā ऑrḍara radda kareṃ"
+],
+"Track my order": [
+"ᱤᱧᱟᱜ ᱚᱰᱟᱨ ᱴᱨᱮᱠ ᱢᱮ",
+"Merā ādeśa khojeṃ"
+],
+"Wrong size": [
+"ᱵᱷᱩᱞ ᱥᱟᱭᱤᱡᱽ",
+"Ġalata ākāra."
+],
+"Defective": [
+"ᱰᱤᱯᱷᱮᱠᱴᱤᱵᱷ",
+"Doṣapūrṇa."
+],
+"Refund": [
+"ᱠᱟᱳᱫᱤ ᱨᱩᱭᱟᱲ",
+"Dhanavāpasī"
+],
+"Complaint": [
+"ᱠᱮᱨᱮᱠᱴᱟᱨ",
+"Śikāyata"
+],
+"Manager": [
+"ᱢᱟᱱᱮᱡᱚᱨ",
+"Prabaṃdhaka"
+],
+"Customer service": [
+"ᱜᱚᱨᱟᱦᱟᱠ ᱥᱮᱵᱟ",
+"Grāhaka sevā"
+],
+"Help desk": [
+"ᱜᱚᱲᱚ ᱰᱮᱥᱠ",
+"Sahāyatā keṃdra"
+],
+"Counter": [
+"ᱠᱟᱩᱱᱴᱟᱨ",
+"Virodha karanā"
+],
+"Queue": [
+"ᱛᱷᱟᱨ",
+"Katāra"
+],
+"Waiting": [
+"ᱛᱟᱜᱤ",
+"Iṃtazāra meṃ"
+],
+"Next please": [
+"ᱛᱟᱭᱚᱢ ᱫᱟᱭᱟ ᱠᱟᱛᱮ",
+"To kṛpayā"
+],
+"Hurry": [
+"ᱞᱜᱱ",
+"Jaldī se"
+],
+"No rush": [
+"ᱵᱟᱝ ᱵᱷᱤᱲᱠᱟᱹᱣ",
+"Koī vikarṣaṇa nahīṃ."
+],
+"Take your time": [
+"ᱟᱢᱟᱜ ᱚᱠᱛᱚ ᱦᱟᱛᱟᱣ ᱢᱮ",
+"Paryāpta samaya lo"
+],
+"Have a nice day": [
+"ᱱᱟᱯᱟᱭ ᱫᱤᱱ ᱛᱟᱦᱮᱸᱱ ᱢᱮ",
+"Āpakā dina śubha ho"
+],
+"Thank you for shopping": [
+"ᱥᱚᱯᱤᱝ ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱥᱟᱨᱦᱟᱣ",
+"Kharīdārī karane ke lie dhanyavāda"
+],
+"Help!": [
+"ᱜᱚᱲᱚ!",
+"Sahāyatā!"
+],
+"Stop!": [
+"ᱛᱮᱜᱩᱱ!",
+"Rukanā!"
+],
+"Call the police!": [
+"ᱯᱩᱞᱤᱥ ᱦᱚᱦᱚ ᱠᱚᱢ!",
+"Pulisa ko bulāo!"
+],
+"Fire!": [
+"ᱥᱮᱜᱮᱞ!",
+"Āga!"
+],
+"I need a doctor": [
+"ᱤᱧ ᱢᱤᱫ ᱰᱟᱠᱴᱚᱨ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe ḍaॉkṭara kī jarūrata hai"
+],
+"I'm sick": [
+"ᱤᱧ ᱨᱩᱣᱟᱹ ᱜᱮᱭᱟᱹᱧ",
+"Maiṃ bīmāra hūṃ"
+],
+"It's an emergency": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱤᱢᱟᱨᱡᱮᱱᱥᱤ ᱠᱟᱱᱟ",
+"Yaha eka āpātakāla hai|"
+],
+"There has been an accident": [
+"ᱢᱤᱫ ᱮᱠᱥᱤᱰᱮᱱᱴ ᱦᱩᱭ ᱟᱠᱟᱱᱟ",
+"Vahāṃ eka durghaṭanā huī hai."
+],
+"I have been robbed": [
+"ᱤᱧ ᱠᱩᱢᱲᱩ ᱟᱠᱟᱱᱟᱹᱧ",
+"Mujhe lūṭā gayā hai"
+],
+"Someone is following me": [
+"ᱡᱟᱦᱟᱸᱭ ᱠᱚ ᱤᱧ ᱠᱚ ᱯᱟᱧᱡᱟᱭ ᱠᱟᱱᱟ",
+"Koī hai jo merā pīchā kara rahā hai"
+],
+"I lost my child": [
+"ᱤᱧ ᱤᱧᱤᱡ ᱜᱤᱫᱽᱨᱟᱹᱧ ᱟᱫ ᱠᱮᱫᱮᱭᱟ",
+"Maiṃne apanā baccā kho diyā"
+],
+"I need medicine": [
+"ᱤᱧ ᱨᱟᱱ ᱞᱟᱹᱠᱛᱤᱭᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe davā cāhie"
+],
+"I have pain here": [
+"ᱤᱧ ᱱᱚᱸᱰᱮ ᱦᱟᱹᱥᱩ ᱢᱮᱱᱟᱜ ᱛᱤᱧᱟ",
+"Mujhe yahāṃ darda ho rahā hai"
+],
+"I am allergic to...": [
+"ᱤᱧ ᱫᱚ ᱮᱞᱟᱨᱡᱤ ᱢᱮᱱᱟᱜ ᱛᱤᱧᱟ...",
+"Mujhe elarjī hai…"
+],
+"I have fever": [
+"ᱤᱧ ᱨᱩᱣᱟᱹ ᱢᱮᱱᱟᱜ ᱛᱤᱧᱟ",
+"Mujhe bukhāra he|"
+],
+"I have a headache": [
+"ᱤᱧᱟᱜ ᱵᱚᱦᱚᱜ ᱦᱟᱥᱳ ᱢᱮᱱᱟᱜᱼᱟ",
+"Mujhe sira darda hai|"
+],
+"I have stomach ache": [
+"ᱤᱧᱟᱜ ᱞᱟᱡ ᱦᱟᱥᱳ ᱢᱮᱱᱟᱜᱼᱟ",
+"Mere peṭa meṃ darda hai."
+],
+"I cannot breathe": [
+"ᱤᱧ ᱥᱟᱦᱮᱫ ᱵᱟᱹᱧ ᱦᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ",
+"Maiṃ sā~sa nahīṃ le sakatā"
+],
+"Bleeding": [
+"ᱢᱟᱭᱟᱢ ᱚᱰᱚᱠᱚᱜ ᱠᱟᱱᱟ",
+"Khūna baha rahā hai"
+],
+"Broken bone": [
+"ᱨᱟᱹᱯᱩᱫ ᱡᱟᱝ",
+"Ṭūṭī huī haḍḍiyoṃ|"
+],
+"Burn": [
+"ᱡᱳᱞᱟᱠᱟᱱ",
+"Jalānā"
+],
+"Bite": [
+"ᱜᱮᱨ",
+"Kāṭanā"
+],
+"Poison": [
+"ᱵᱤᱥ",
+"Zahara"
+],
+"Drowning": [
+"ᱰᱩᱵᱩᱡᱚᱜ",
+"Ḍūbanā;"
+],
+"Unconscious": [
+"ᱚᱜᱭᱟᱱ",
+"Aceta"
+],
+"Heart attack": [
+"ᱦᱟᱨᱴ ᱟᱴᱟᱠ",
+"Dila kā daurā"
+],
+"Stay calm": [
+"ᱛᱷᱤᱨ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Cupa raho|"
+],
+"Do not move": [
+"ᱟᱞᱚᱢ ᱥᱚᱨᱚᱜᱼᱟ",
+"Hilanā mata"
+],
+"Police station": [
+"ᱯᱩᱞᱤᱥ ᱴᱷᱟᱶ",
+"Pulisa sṭeśana|"
+],
+"Fire station": [
+"ᱯᱷᱟᱭᱟᱨ ᱥᱴᱮᱥᱚᱱ",
+"Agniśamana keṃdra"
+],
+"Ambulance": [
+"ᱟᱢᱵᱩᱞᱮᱱᱥ",
+"Embuleṃsa."
+],
+"Doctor": [
+"ᱫᱟᱠᱛᱟᱨ",
+"Cikitsaka"
+],
+"Nurse": [
+"ᱥᱮᱵᱟᱭᱤᱡ",
+"Dekhabhāla karanā"
+],
+"Medicine": [
+"ᱨᱟᱱ",
+"Davā"
+],
+"First aid": [
+"ᱯᱷᱟᱨᱥᱴ ᱮᱭᱰ",
+"Prāthamika upacāra"
+],
+"Bandage": [
+"ᱵᱮᱱᱰᱮᱡᱽ",
+"Baiṃḍeja"
+],
+"Antiseptic": [
+"ᱮᱱᱴᱤᱥᱮᱯᱴᱤᱠ",
+"Rogāṇurodhaka"
+],
+"Painkiller": [
+"ᱦᱟᱹᱥᱩ ᱠᱚᱧᱡᱽᱲᱮ",
+"Dardanāka khāṃsī"
+],
+"Injection": [
+"ᱤᱱᱡᱮᱠᱥᱚᱱ",
+"Iṃjekśana."
+],
+"Blood": [
+"ᱢᱟᱭᱟᱢ",
+"Khūna"
+],
+"Blood bank": [
+"ᱢᱟᱭᱟᱢ ᱵᱮᱝᱠ",
+"Rakta baiṃka"
+],
+"Operation": [
+"ᱚᱯᱟᱨᱮᱥᱱ",
+"Saṃcālana"
+],
+"ICU": [
+"ᱟᱭᱤ ᱥᱤ ᱭᱩ",
+"Āīsīyū"
+],
+"Ward": [
+"ᱣᱟᱨᱰ",
+"Vārḍa"
+],
+"Emergency room": [
+"ᱤᱢᱟᱨᱡᱮᱱᱥᱤ ᱠᱟᱸᱫᱷᱟ",
+"Āpātakālīna kakṣa"
+],
+"X-ray": [
+"ᱮᱠᱥ-ᱨᱮ",
+"Eksa-re|"
+],
+"Report": [
+"ᱨᱤᱯᱚᱨᱴ",
+"Prativedana"
+],
+"Prescription": [
+"ᱯᱨᱤᱥᱠᱨᱤᱯᱥᱚᱱ",
+"Nuskhā|"
+],
+"Insurance": [
+"ᱤᱱᱥᱚᱨᱮᱱᱥ",
+"Bīmā"
+],
+"Contact number": [
+"ᱠᱚᱱᱴᱟᱠᱴ ᱱᱚᱢᱵᱚᱨ",
+"Saṃparka saṃkhyā"
+],
+"Next of kin": [
+"ᱥᱩᱨ ᱨᱮᱱ ᱜᱟᱛᱮ",
+"Karībī dosta"
+],
+"Identity": [
+"ᱚᱱᱤᱩᱡᱱᱟ",
+"Pahacāna"
+],
+"Passport": [
+"ᱯᱟᱥᱯᱚᱨᱴ",
+"Pāsaporṭa"
+],
+"Address": [
+"ᱴᱷᱤᱠᱟᱱᱟ",
+"Patā"
+],
+"Phone": [
+"ᱨᱚᱯᱚᱲᱟ",
+"Fona"
+],
+"Quick!": [
+"ᱞᱚᱜᱚᱱ!",
+"Jalda hī!"
+],
+"Hurry up!": [
+"ᱞᱚᱜᱚᱱ ᱢᱮ!",
+"Jaldī karo!"
+],
+"Safe": [
+"ᱨᱩᱠᱷᱤᱭᱟᱹ",
+"Surakṣita"
+],
+"Danger": [
+"ᱵᱟᱲᱤᱡ",
+"Nirdayī"
+],
+"Warning": [
+"ᱚᱭᱟᱨᱱᱤᱝ",
+"Cetāvanī"
+],
+"Caution": [
+"ᱥᱟᱵᱛᱷᱟᱱ ᱛᱮ",
+"Sāvadhānī"
+],
+"Exit": [
+"ᱵᱟᱦᱤᱨ",
+"Bāhara nikalanā"
+],
+"Entrance": [
+"ᱵᱞᱱᱹ",
+"Praveśa dvāra"
+],
+"Evacuate": [
+"ᱚᱰᱚᱠ ᱢᱮ",
+"Nikālanā"
+],
+"Assembly point": [
+"ᱮᱥᱮᱢᱵᱷᱟᱞᱤ ᱯᱚᱭᱮᱱᱴ",
+"Ekitrata hone kā pvāiṃṭa|"
+],
+"Do not enter": [
+"ᱟᱞᱚᱢ ᱵᱚᱞᱚᱱᱟ",
+"Praveśa na kareṃ."
+],
+"No entry": [
+"ᱵᱚᱞᱚᱱ ᱵᱟᱝ",
+"Aṃdara ānā mana hai|"
+],
+"Restricted area": [
+"ᱵᱟᱨᱚᱱ ᱴᱚᱴᱷᱟ",
+"Pratibaṃdhita kṣetra"
+],
+"Keep away": [
+"ᱥᱟᱦᱟᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ",
+"Jela bhejanā"
+],
+"Do not touch": [
+"ᱟᱞᱚᱢ ᱡᱚᱴᱮᱫᱟ",
+"Mata chuo"
+],
+"High voltage": [
+"ᱦᱟᱭ ᱣᱳᱞᱴᱮᱡᱽ",
+"Ucca volṭeja."
+],
+"Flammable": [
+"ᱡᱩᱞᱩᱜ ᱞᱮᱠᱟᱱ",
+"Jvalanaśīla."
+],
+"Toxic": [
+"ᱵᱤᱥᱟᱜ",
+"Viṣākta"
+],
+"Corrosive": [
+"ᱠᱚᱨᱚᱥᱤᱵᱷ",
+"Saṃkṣāraka."
+],
+"Slippery": [
+"ᱞᱮᱧᱡᱮᱨ",
+"Phisalana bharā;"
+],
+"Fragile": [
+"ᱱᱟᱪᱟᱨ",
+"Garība"
+],
+"Handle with care": [
+"ᱡᱚᱛᱚᱱ ᱛᱮ ᱥᱟᱢᱵᱽᱲᱟᱣ ᱢᱮ",
+"Dhyāna se saṃbhāleṃ"
+],
+"Emergency exit": [
+"ᱤᱢᱟᱨᱡᱮᱱᱥᱤ ᱚᱰᱚᱠ",
+"Āpātakālīna nikāsa"
+],
+"Fire extinguisher": [
+"ᱥᱮᱝᱜᱮᱞ ᱵᱚᱸᱫᱚᱜ ᱥᱟᱯᱟᱵ",
+"Āga bujhāne kā yaṃtra"
+],
+"First aid kit": [
+"ᱯᱷᱟᱨᱥᱴ ᱮᱭᱰ ᱠᱤᱴ",
+"Prāthamika cikitsā kiṭa"
+],
+"Emergency number": [
+"ᱤᱢᱟᱨᱡᱮᱱᱥᱤ ᱱᱚᱢᱵᱚᱨ",
+"Āpātakālīna naṃbara"
+],
+"Helpline": [
+"ᱜᱚᱲᱚ ᱞᱟᱭᱤᱱ",
+"Helpalāina"
+],
+"Lost and found": [
+"ᱟᱫ ᱟᱨ ᱧᱟᱢ ᱮᱱᱟ",
+"Khoyā aura pāyā"
+],
+"Missing person": [
+"ᱟᱫ ᱟᱠᱟᱱ ᱦᱚᱲ",
+"Lāpatā vyakti"
+],
+"Report to police": [
+"ᱯᱩᱞᱤᱥ ᱴᱷᱮᱱ ᱨᱤᱯᱚᱨᱴ ᱢᱮ",
+"Isakī sūcanā pulisa ko deṃ"
+],
+"Stay with me": [
+"ᱤᱧ ᱥᱟᱶ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Mere sātha raho"
+],
+"Everything will be fine": [
+"ᱡᱷᱚᱛᱚ ᱴᱷᱤᱠ ᱜᱮ ᱦᱩᱭᱩᱜᱼᱟ",
+"Saba kucha ṭhīka ho jāegā|"
+],
+"What time is it?": [
+"ᱱᱤᱛ ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ ᱦᱩᱭ ᱟᱠᱟᱱᱟ?",
+"Ye vaqta kyā hai?"
+],
+"Morning": [
+"ᱥᱮᱛᱟᱜ",
+"Subaha"
+],
+"Evening": [
+"ᱧᱩᱦᱩᱢ",
+"Śāma"
+],
+"Night": [
+"ᱧᱤᱸᱫᱟᱹ",
+"Rāta"
+],
+"Today": [
+"ᱛᱤᱦᱤᱧ",
+"Āja"
+],
+"Tomorrow": [
+"ᱜᱟᱯᱟ",
+"Kala"
+],
+"Yesterday": [
+"ᱦᱚᱞᱟ",
+"Kala"
+],
+"Now": [
+"ᱧᱤᱛ",
+"Aba"
+],
+"Sunday": [
+"ᱥᱤᱹᱯᱮ ᱢᱟᱦᱟ",
+"Ravivāra"
+],
+"Monday": [
+"ᱚᱛᱮ ᱢᱟᱦᱟ",
+"Somavāra"
+],
+"Tuesday": [
+"ᱵᱟᱞᱮ ᱢᱟᱦᱟ",
+"Maṃgalavāra"
+],
+"Wednesday": [
+"ᱥᱟᱹᱜᱩᱱ ᱢᱟᱦᱟ",
+"Budhavāra"
+],
+"Thursday": [
+"ᱥᱟᱹᱨᱫᱤ ᱢᱟᱦᱟ",
+"Guruvāra"
+],
+"Friday": [
+"ᱡᱟᱹᱨᱩᱢ ᱢᱟᱦᱟ",
+"Śukravāra"
+],
+"Saturday": [
+"ᱧᱩᱢᱩᱢ ᱢᱟᱦᱟ",
+"Śanivāra"
+],
+"Week": [
+"ᱦᱟᱯᱛᱟ",
+"Saptāha"
+],
+"Month": [
+"ᱢᱟᱦᱟ",
+"Mahīnā"
+],
+"Year": [
+"ᱥᱮᱨᱢᱟ",
+"Varṣa"
+],
+"Early morning": [
+"ᱥᱮᱛᱟᱜ ᱞᱚᱜᱚᱱ",
+"Prātaḥ kāla|"
+],
+"Noon": [
+"ᱛᱤᱠᱤᱱ ᱵᱮᱲᱟ",
+"Dopahara"
+],
+"Midnight": [
+"ᱛᱟᱞᱟᱧᱤᱫᱟᱹ",
+"Madhyarātri"
+],
+"Hour": [
+"ᱴᱟᱲᱟᱝ",
+"Ghaṃṭā"
+],
+"Minute": [
+"ᱴᱤᱲᱤᱡ",
+"Minaṭa"
+],
+"Second": [
+"ᱥᱮᱠᱟᱱᱰ",
+"Dūsarā"
+],
+"Late": [
+"ᱵᱤᱞᱚᱢ",
+"Dera"
+],
+"Early": [
+"ᱞᱚᱜᱚᱱ",
+"Jalda hī"
+],
+"Before": [
+"ᱞᱟᱦᱟ",
+"Pahale"
+],
+"After": [
+"ᱯᱚᱨᱮ",
+"Bāda"
+],
+"January": [
+"ᱡᱟᱱᱩᱭᱟᱨᱤ ᱪᱟᱱᱹᱫᱳ",
+"Janavarī"
+],
+"February": [
+"ᱯᱷᱮᱵᱨᱩᱭᱟᱨᱤ ᱪᱟᱸᱫᱳ",
+"Faravarī"
+],
+"March": [
+"ᱢᱟᱨᱪ ᱪᱟᱹᱱᱫᱳ",
+"Mārca"
+],
+"April": [
+"ᱮᱯᱨᱤᱞ ᱪᱟᱸᱱᱫᱳ",
+"Apraila"
+],
+"May": [
+"ᱦᱩᱭ ᱫᱟᱲᱤᱭᱟᱜ-ᱟ",
+"Maī"
+],
+"June": [
+"ᱡᱩᱱ ᱪᱟᱱᱹᱜᱳ",
+"Jūna"
+],
+"July": [
+"ᱡᱩᱞᱟᱭ",
+"Julāī"
+],
+"August": [
+"ᱚᱜᱟᱥᱴ ᱪᱟᱹᱫᱳ",
+"Agasta"
+],
+"September": [
+"ᱥᱮᱯᱛᱮᱯᱢᱵᱨ ᱪᱟᱹᱫᱚ",
+"Sitambara"
+],
+"October": [
+"ᱚᱠᱴᱳᱵᱨ ᱪᱟᱹᱱᱫᱚ",
+"Akṭūbara"
+],
+"November": [
+"ᱱᱚᱵᱷᱮᱢᱵᱨ ᱪᱟᱹᱱᱫᱚ",
+"Navaṃbara"
+],
+"December": [
+"ᱰᱤᱥᱮᱢᱵᱚᱨ",
+"Disaṃbara"
+],
+"Spring": [
+"ᱱᱤᱨᱚᱱ ᱨᱤᱛᱩ",
+"Vasaṃta"
+],
+"Summer": [
+"ᱥᱤᱛᱝ",
+"Garmī"
+],
+"Monsoon": [
+"ᱢᱚᱱᱥᱩᱱ",
+"Mānasūna."
+],
+"Winter": [
+"ᱨᱟᱵᱟᱝ",
+"Ṭhaṃḍā"
+],
+"Season": [
+"ᱥᱮᱥᱚᱱ",
+"Mausama"
+],
+"Holiday": [
+"ᱯᱟᱨᱵᱟᱱ ᱫᱮ",
+"Chuṭṭī"
+],
+"Festival": [
+"ᱯᱨᱚᱵ",
+"Tyohāra"
+],
+"Birthday": [
+"ᱡᱟᱱᱟᱢ-ᱢᱟᱦᱟ",
+"Janmadina"
+],
+"Anniversary": [
+"ᱥᱮᱨᱢᱟ ᱯᱩᱨᱟᱹᱣ",
+"Sālagiraha"
+],
+"Appointment": [
+"ᱵᱟᱦᱟ.ᱞᱤ",
+"Niyukti"
+],
+"Meeting": [
+"ᱧᱟᱯᱟᱢ",
+"Milo"
+],
+"Deadline": [
+"ᱢᱩᱪᱩᱫ-ᱛᱟᱨᱤᱠ",
+"Aṃtima tārīkha"
+],
+"Schedule": [
+"ᱠᱟᱹᱢᱤᱦᱚᱨᱟ",
+"Prakriyā"
+],
+"Free time": [
+"ᱯᱷᱨᱤ ᱚᱠᱛᱚ",
+"Khālī samaya."
+],
+"Busy": [
+"ᱵᱮᱥᱛᱚ",
+"Vyasta"
+],
+"Available": [
+"ᱢᱮᱱᱟᱜ-ᱟ",
+"Upalabdha"
+],
+"Not available": [
+"ᱵᱟᱝ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ",
+"Upalabdha nahīṃ hai"
+],
+"At what time?": [
+"ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ ᱨᱮ?",
+"Kisa samaya?"
+],
+"Until when?": [
+"ᱛᱤᱱ ᱦᱟᱹᱵᱤᱡ?",
+"Jaba taka?"
+],
+"From when?": [
+"ᱛᱤᱱ ᱠᱷᱚᱱ?",
+"Kaba se?"
+],
+"How long?": [
+"ᱛᱤᱱᱟᱹᱜ ᱜᱷᱟᱹᱲᱤᱡ?",
+"Kitanī dera?"
+],
+"A long time": [
+"ᱟᱹᱰᱤ ᱜᱷᱟᱹᱲᱤᱡ ᱚᱠᱛᱚ",
+"Eka laṃbe samaya"
+],
+"A short time": [
+"ᱠᱷᱟᱴᱚ ᱚᱠᱛᱚ",
+"Laghu avadhi"
+],
+"Just now": [
+"ᱱᱤᱛᱚᱜ ᱜᱮ",
+"Abhī|"
+],
+"A while ago": [
+"ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱚᱠᱛᱚ ᱞᱟᱦᱟ",
+"Kucha samaya pahale|"
+],
+"In a moment": [
+"ᱢᱤᱫ ᱜᱷᱟᱹᱲᱤ ᱨᱮ",
+"Palaka jhapakate hī|"
+],
+"Wait a minute": [
+"ᱢᱤᱫ ᱴᱤᱯᱤᱡ ᱛᱟᱺᱜᱤ ᱢᱮ",
+"Zarā ṭhahariye|"
+],
+"See you later": [
+"ᱛᱟᱭᱚᱢ ᱧᱮᱞᱚᱜᱼᱟ",
+"Bāda meṃ milate haiṃ"
+],
+"See you tomorrow": [
+"ᱜᱟᱯᱟ ᱱᱟᱯᱟᱢ ᱦᱭᱳ",
+"Kala milate haiṃ"
+],
+"See you next week": [
+"ᱫᱚᱥᱟᱨ ᱦᱟᱯᱛᱟ ᱞᱟᱝ ᱧᱟᱯᱟᱢᱚᱜᱼᱟ",
+"Āpase agale haphte milate haiṃ"
+],
+"Every day": [
+"ᱥᱟᱱᱟᱢ ᱫᱤᱱ",
+"Roja roja|"
+],
+"Every week": [
+"ᱥᱟᱱᱟᱢ ᱦᱟᱯᱛᱟ",
+"Hara haphte|"
+],
+"Once a week": [
+"ᱦᱟᱴ ᱨᱮ ᱢᱤᱫ ᱫᱷᱟᱣ",
+"Eka saptāha meṃ eka bāra"
+],
+"Twice a day": [
+"ᱫᱤᱱ ᱨᱮ ᱵᱟᱨ ᱫᱷᱟᱣ",
+"Dina meṃ do bāra."
+],
+"All day": [
+"ᱜᱚᱴᱟ ᱫᱤᱱ",
+"Pūre dina"
+],
+"All night": [
+"ᱜᱚᱴᱟ ᱧᱤᱫᱟ.",
+"Sārī rāta."
+],
+"Day after tomorrow": [
+"ᱜᱟᱯᱟ ᱛᱟᱭᱚᱢ ᱢᱟᱦᱟ",
+"Parasoṃ|"
+],
+"Day before yesterday": [
+"ᱦᱚᱞᱟ ᱢᱟᱦᱟᱸ ᱢᱟᱲᱟᱝ",
+"Parasoṃ."
+],
+"Next month": [
+"ᱫᱚᱥᱟᱨ ᱪᱟᱸᱫᱚ",
+"Agale mahīne."
+],
+"Last month": [
+"ᱪᱟᱞᱟᱣᱮᱱ ᱪᱟᱸᱫᱚ",
+"Pichalā mahīnā"
+],
+"Next year": [
+"ᱫᱚᱥᱟᱨ ᱥᱮᱨᱢᱟ",
+"Agale sāla"
+],
+"Last year": [
+"ᱢᱩᱪᱟᱹᱫ ᱥᱮᱨᱢᱟ",
+"Pichale sāla"
+],
+"In the past": [
+"ᱢᱟᱲᱟᱝ ᱨᱮ",
+"Pahale"
+],
+"In the future": [
+"ᱟᱜᱟᱢ ᱨᱮ",
+"Bhaviṣya meṃ."
+],
+"At present": [
+"ᱱᱤᱛᱚᱜ ᱫᱚ",
+"Aba"
+],
+"From now on": [
+"ᱱᱤᱛ ᱠᱷᱚᱱ",
+"Abhī se"
+],
+"So far": [
+"ᱟᱫᱤ ᱥᱟᱜᱤᱱ",
+"Abhī taka"
+],
+"For a long time": [
+"ᱟᱹᱰᱤ ᱜᱷᱟᱹᱲᱤᱡ ᱠᱷᱚᱱ",
+"Kaba kā"
+],
+"Yes": [
+"ᱦᱤ ᱦᱮᱸ",
+"Hā~"
+],
+"No": [
+"ᱵᱟᱝ",
+"Nahīṃ"
+],
+"Please speak slowly": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱵᱟᱹᱭ ᱵᱟᱹᱭ ᱛᱮ ᱨᱚᱲ ᱢᱮ",
+"Dhīre - dhīre bāta kareṃ"
+],
+"I don't understand": [
+"ᱤᱧ ᱵᱟᱝ ᱤᱧ ᱵᱩᱡᱷᱮᱣ ᱞᱮᱫᱟ",
+"Maiṃ nahīṃ samajhatā"
+],
+"Do you speak Maithili?": [
+"ᱪᱮᱫ ᱟᱢ ᱢᱟᱭᱛᱷᱤᱞᱤ ᱨᱚᱲ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱢ?",
+"Kyā āpa maithilī bolate haiṃ?"
+],
+"No problem": [
+"ᱮᱴᱠᱮᱸᱴᱚᱲᱮ ᱵᱟᱱᱩᱜ-ᱟ",
+"Koī bāta nahīṃ"
+],
+"I agree": [
+"ᱤᱧ ᱨᱮᱵᱮᱱ ᱢᱤᱱᱟᱹᱧᱟ",
+"Maiṃ sahamata hūṃ"
+],
+"Come in": [
+"ᱵᱷᱤᱛᱨᱤ ᱦᱤᱡᱩᱜ ᱢᱮ",
+"Aṃdara ā jāie|"
+],
+"Have you eaten?": [
+"ᱟᱢ ᱡᱚᱢ ᱟᱠᱟᱫᱟ?",
+"Kyā āpane khānā khā liyā?"
+],
+"We are happy": [
+"ᱟᱞᱮ ᱠᱩᱥᱤ ᱜᱮᱭᱟ ᱞᱮ",
+"Hama khuśa haiṃ."
+],
+"Maybe": [
+"ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Śāyada"
+],
+"Of course": [
+"ᱠᱷᱟᱴᱤ ᱜᱮ",
+"Bilkula"
+],
+"Certainly": [
+"ᱮᱛᱦᱚᱵ ᱨᱮ",
+"Niścita rūpa se"
+],
+"I think so": [
+"ᱤᱧ ᱚᱱᱠᱟᱧ ᱩᱭᱦᱟᱹᱨ ᱮᱫᱟ",
+"Mujhe bhī aisā hī lagatā hai"
+],
+"I don't think so": [
+"ᱤᱧ ᱫᱚ ᱚᱱᱠᱟ ᱵᱟᱹᱧ ᱩᱭᱦᱟᱹᱨᱟ",
+"Mujhe aisā nahīṃ lagatā"
+],
+"I hope so": [
+"ᱤᱧ ᱟᱹ ᱢᱱᱮᱦᱳᱟᱹ",
+"Aisā hī ho"
+],
+"I am not sure": [
+"ᱤᱧ ᱫᱚ ᱵᱟᱹᱧ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱜᱮᱭᱟ",
+"Mujhe yakīna nahīṃ hai"
+],
+"It depends": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱴᱮᱦᱟᱱᱰ ᱢᱮᱱᱟᱜᱼᱟ",
+"Yaha nirbhara karatā hai"
+],
+"That is right": [
+"ᱚᱱᱟ ᱫᱚ ᱴᱷᱤᱠ ᱜᱮᱭᱟ",
+"Yaha sahī hai"
+],
+"That is wrong": [
+"ᱚᱱᱟ ᱫᱚ ᱵᱷᱩᱞ ᱜᱮᱭᱟ",
+"Yaha galata hai"
+],
+"I see": [
+"ᱤᱧ ᱧᱟᱢᱮᱫᱼᱟ",
+"Acchā aisā hai"
+],
+"Really?": [
+"ᱥᱟᱹᱨᱤᱜᱮ?",
+"Vāstava meṃ?"
+],
+"Are you sure?": [
+"ᱟᱢ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱜᱮᱭᱟᱢ ᱥᱮ?",
+"Kyā āpako yakīna hai?"
+],
+"Why not?": [
+"ᱪᱮᱫᱟᱸᱵᱟᱝ?",
+"Kyoṃ nahīṃ?"
+],
+"What for?": [
+"ᱪᱮᱫ ᱞᱟᱹᱜᱤᱫ?",
+"Kisa lie?"
+],
+"Never mind": [
+"ᱟᱞᱢ ᱢᱱᱮᱭᱟ",
+"Koī bāta nahīṃ"
+],
+"It does not matter": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱯᱷᱟᱨᱪᱟᱭᱟ",
+"Koī pharka nahīṃ par̤atā ki"
+],
+"Same here": [
+"ᱢᱤᱫ ᱜᱮ",
+"Yahā~ bhī aisā hī"
+],
+"Me too": [
+"ᱤᱧ ᱦᱚᱸ",
+"Maiṃ bhī"
+],
+"Neither do I": [
+"ᱤᱧ ᱦᱚᱸ ᱵᱟᱝ",
+"Na hī maiṃ"
+],
+"Let me see": [
+"ᱤᱧ ᱧᱮᱞ ᱚᱪᱚᱭᱤᱧ ᱢᱮ",
+"Mujhe dekhane do"
+],
+"Let us go": [
+"ᱫᱮᱞᱟ ᱵᱚᱱ ᱪᱟᱞᱟᱜ",
+"Cala dara|"
+],
+"Wait": [
+"ᱛᱟᱺᱜᱤ",
+"Iṃtazāra"
+],
+"Hold on": [
+"ᱦᱟᱯᱮ ᱥᱮ",
+"Pakar̤anā"
+],
+"Just a second": [
+"ᱥᱩᱢᱩᱝ ᱢᱤᱫ ᱴᱤᱯᱤᱡ",
+"Eka minaṭa rukie|"
+],
+"One moment": [
+"ᱢᱤᱫ ᱜᱷᱟᱹᱲᱤ",
+"Eka kṣaṇa."
+],
+"As you wish": [
+"ᱟᱢᱟᱜ ᱢᱚᱱᱮ ᱞᱮᱠᱟ",
+"Jaisī āpakī icchā|"
+],
+"Whatever you say": [
+"ᱟᱢ ᱡᱟᱦᱟᱸᱱᱟᱜ ᱜᱮᱢ ᱞᱟᱹᱭᱟ",
+"Āpa kucha bhī kaheṃ"
+],
+"I have no idea": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱪᱮᱫ ᱦᱚᱸ ᱦᱩᱫᱤᱥ ᱵᱟᱹᱱᱩᱜᱼᱟ",
+"Mujhe patā nahīṃ hai"
+],
+"I forgot": [
+"ᱤᱧ ᱦᱤᱲᱤᱧ ᱠᱮᱫᱟ",
+"Maiṃ bhūla gayā"
+],
+"I remember": [
+"ᱤᱧ ᱫᱤᱥᱟᱹ ᱢᱮᱱᱟᱜ ᱛᱤᱧᱟ",
+"Mujhe yāda"
+],
+"It slipped my mind": [
+"ᱱᱚᱣᱟ ᱤᱧᱟᱜ ᱢᱚᱱ ᱥᱤᱞᱯᱷ ᱠᱮᱫᱟᱭ",
+"Isase merā dimāga phisala gayā"
+],
+"Remind me": [
+"ᱤᱧ ᱫᱤᱥᱟᱹ ᱚᱪᱚᱭᱤᱧ ᱢᱮ",
+"Mujhe yāda dilāeṃ"
+],
+"I mean": [
+"ᱤᱧ ᱢᱮᱱᱮᱫ ᱠᱟᱱᱟ",
+"Merā matalaba"
+],
+"I mean it": [
+"ᱤᱧᱟᱜ ᱢᱮᱱ ᱫᱚ ᱱᱚᱣᱟ",
+"Vākaī"
+],
+"What I mean is": [
+"ᱤᱧ ᱪᱮᱫ ᱤᱧ ᱢᱮᱱ ᱮᱫᱟ",
+"Maiṃ ye kahanā cāhatā hūṃ ki"
+],
+"In other words": [
+"ᱮᱴᱟᱜ ᱟᱹᱲᱟᱹ ᱛᱮ",
+"Dūsare śabdoṃ meṃ"
+],
+"That is to say": [
+"ᱚᱱᱟ ᱫᱚ ᱢᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱠᱟᱱᱟ",
+"Yahī kahanā hai"
+],
+"For example": [
+"ᱩᱫᱷᱚᱨ ᱞᱮᱠᱟ",
+"Udāharaṇa ke lie"
+],
+"Such as": [
+"ᱮᱢᱟᱱ ᱠᱹ",
+"Jaise ki"
+],
+"And so on": [
+"ᱟᱨ ᱚᱱᱠᱟ ᱜᱮ",
+"Aura isī taraha|"
+],
+"Et cetera": [
+"ᱮᱴ ᱥᱮᱴᱮᱨᱟ",
+"Vagairaha"
+],
+"And so forth": [
+"ᱟᱨ ᱚᱱᱠᱟ ᱞᱟᱦᱟ",
+"Aura isī taraha|"
+],
+"By the way": [
+"ᱡᱟᱦᱟᱱᱟᱜ ᱜᱮ ᱦᱩᱭᱩᱜ-ᱟ",
+"Vaise"
+],
+"Speaking of which": [
+"ᱚᱠᱟ ᱨᱮᱭᱟᱜ ᱠᱟᱛᱷᱟ",
+"Kā vādā"
+],
+"Anyway": [
+"ᱡᱟ.ᱦᱟ ᱞᱮᱠᱟ",
+"Phira bhī"
+],
+"Anyhow": [
+"ᱡᱟᱦᱟᱸ ᱞᱮᱠᱟ ᱜᱮ",
+"Phira bhī|"
+],
+"Actually": [
+"ᱥᱟᱨᱤ ᱜᱮ",
+"Vāstava meṃ"
+],
+"Basically": [
+"ᱥᱟᱛᱷᱟᱨᱱ",
+"Mūla rūpa se"
+],
+"To be honest": [
+"ᱥᱟᱹᱨᱤ ᱠᱟᱛᱷᱟ ᱞᱟᱹᱭ ᱞᱮᱠᱷᱟᱱ",
+"Īmānadāra rahanā"
+],
+"To tell the truth": [
+"ᱥᱟᱹᱨᱤ ᱠᱟᱛᱷᱟ ᱞᱟᱹᱭ ᱞᱟᱹᱜᱤᱫ",
+"Saca bolane ke lie"
+],
+"Frankly": [
+"ᱥᱟᱹᱨᱤ ᱜᱮ",
+"Vāstava meṃ"
+],
+"Honestly": [
+"ᱥᱟᱨᱤᱜᱮ",
+"Vāstava meṃ"
+],
+"Believe me": [
+"ᱤᱧ ᱨᱮ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱢᱮ",
+"Mujha para bharosā kareṃ"
+],
+"Trust me": [
+"ᱤᱧ ᱨᱮ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱢᱮ",
+"Mujha para bharosā kareṃ"
+],
+"I promise": [
+"ᱤᱧ ᱠᱟᱛᱷᱟ ᱮᱢᱚᱜ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ vādā karatā hū~"
+],
+"I swear": [
+"ᱤᱧ ᱠᱤᱨᱤᱧ ᱮᱫᱟᱹᱧ",
+"Maiṃ kasama khātā hū~"
+],
+"No way": [
+"ᱵᱟᱝ ᱦᱭᱟᱟᱳᱹ",
+"Bilakula nahīṃ"
+],
+"No doubt": [
+"ᱪᱮᱫ ᱥᱚᱱᱫᱮᱦᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ",
+"Isameṃ koī śaka nahīṃ"
+],
+"No wonder": [
+"ᱪᱮᱫ ᱦᱟᱦᱟᱲᱟ ᱠᱟᱛᱷᱟ ᱵᱟᱝ ᱠᱟᱱᱟ",
+"Koī āścarya nahīṃ"
+],
+"No kidding": [
+"ᱞᱟᱱᱫᱟ ᱵᱟᱝ ᱠᱟᱱᱟ",
+"Majāka nahīṃ kara rahā"
+],
+"Just kidding": [
+"ᱞᱟᱱᱫᱟ ᱠᱟᱛᱷᱟ",
+"Mazāka kara rahā hai"
+],
+"I am joking": [
+"ᱤᱧ ᱞᱟᱱᱫᱟ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ majāka kara rahā hūṃ"
+],
+"Seriously": [
+"ᱥᱟᱨᱤᱥᱨ",
+"Gaṃbhīratā se"
+],
+"Are you serious?": [
+"ᱟᱢ ᱫᱚ ᱥᱤᱨᱤᱭᱟᱥ ᱜᱮᱭᱟᱢ ᱥᱮ?",
+"Kyā āpa gaṃbhīra haiṃ?"
+],
+"I am serious": [
+"ᱤᱧ ᱫᱚ ᱥᱤᱨᱤᱭᱟᱥ ᱜᱮᱭᱟᱹᱧ",
+"Maiṃ gaṃbhīra hūṃ"
+],
+"Sounds good": [
+"ᱱᱟᱯᱟᱭ ᱜᱮ ᱟᱸᱡᱚᱢᱚᱜ ᱠᱟᱱᱟ",
+"Sunane meṃ to acchā lagatā hai"
+],
+"Looks good": [
+"ᱱᱟᱯᱟᱭ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ",
+"Acchā laga rahā hai"
+],
+"Feels good": [
+"ᱱᱟᱯᱟᱭ ᱟᱹᱭᱠᱟᱹᱣ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ",
+"Acchā laga rahā hai"
+],
+"Good idea": [
+"ᱱᱟᱯᱟᱭ ᱵᱤᱪᱟᱹᱨ",
+"Acchā vicāra"
+],
+"Bad idea": [
+"ᱵᱟᱹᱲᱤᱡ ᱵᱤᱪᱟᱹᱨ",
+"Burā vicāra"
+],
+"Great idea": [
+"ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱵᱤᱪᱟᱹᱨ",
+"Mahāna vicāra"
+],
+"Not bad": [
+"ᱵᱟᱝ ᱵᱷᱟᱜᱮ",
+"Itanā kharāba bhī nahīṃ"
+],
+"Not bad at all": [
+"ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱵᱟᱹᱲᱤᱡ ᱜᱮᱭᱟ",
+"Kucha bhī ġalata nahīṃ hai"
+],
+"Could be better": [
+"ᱱᱟᱯᱟᱭ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Acchā ho sakatā hai"
+],
+"Could be worse": [
+"ᱟᱨᱦᱚᱸ ᱵᱟᱹᱲᱤᱡ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Burā ho sakatā hai"
+],
+"So so": [
+"ᱚᱱᱟᱛᱮ ᱚᱱᱟᱛᱮ",
+"To isalie"
+],
+"Same as usual": [
+"ᱥᱟᱫᱷᱟᱨᱚᱱ ᱞᱮᱠᱟ ᱜᱮ",
+"Hameśā kī taraha."
+],
+"Nothing special": [
+"ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱠᱷᱟᱥ",
+"Kucha bhī khāsa nahīṃ"
+],
+"Name": [
+"ᱧᱩᱛᱩᱢ",
+"Nāma"
+],
+"Good": [
+"ᱱᱟᱯᱟᱭ",
+"Acchā"
+],
+"Bad": [
+"ᱵᱟᱲᱤᱜ",
+"Kharāba"
+],
+"Fine": [
+"ᱱᱟᱯᱟᱭ",
+"Acchā"
+],
+"Well": [
+"ᱱᱟᱯᱟᱭ",
+"Acchā"
+],
+"Kind": [
+"ᱦᱚᱥᱚᱬᱞ",
+"Dayālu"
+],
+"Polite": [
+"ᱢᱟᱦᱤᱨ",
+"Vinamra"
+],
+"Respect": [
+"ᱢᱟᱱᱚᱛ",
+"Ādara"
+],
+"Love": [
+"ᱫᱩᱞᱟᱲ",
+"Pyāra"
+],
+"Friend": [
+"ᱜᱟᱛᱮ",
+"Dosta"
+],
+"Guest": [
+"ᱯᱮᱹᱲᱟ",
+"Riśtedāra"
+],
+"Host": [
+"ᱯᱮᱲ",
+"Mezabāna"
+],
+"Greeting": [
+"ᱡᱦᱟᱨ",
+"Abhivādana karanā"
+],
+"Farewell": [
+"ᱵᱤᱫᱟᱭ",
+"Alavidā"
+],
+"Blessing": [
+"ᱟᱥᱤᱨᱵᱷᱟᱣ",
+"Āśīrvāda kā|"
+],
+"Wish": [
+"ᱤᱠᱪᱷᱟ",
+"Icchā"
+],
+"Gratitude": [
+"ᱠᱟᱨᱚᱱ",
+"Kyoṃki"
+],
+"Apology": [
+"ᱤᱠᱟᱹ ᱠᱷᱚᱡᱚᱜ",
+"Kṣamā yācanā"
+],
+"Excuse": [
+"ᱵᱟᱦᱟᱱᱟ",
+"Kṣamā"
+],
+"Pardon": [
+"ᱤᱹᱠᱟ",
+"Kṣamā"
+],
+"Courtesy": [
+"ᱟᱪᱟᱨ",
+"Śiṣṭācāra"
+],
+"Happy": [
+"ᱠᱷᱩᱥᱤ",
+"Khuśa"
+],
+"Sad": [
+"ᱫᱩᱠ",
+"Udāsī."
+],
+"Angry": [
+"ᱨᱟᱹᱜᱤ",
+"Gussā"
+],
+"Calm": [
+"ᱛᱷᱤᱨ",
+"Śāṃta"
+],
+"Nervous": [
+"ᱩᱫᱮᱥ",
+"Pareśāna"
+],
+"Excited": [
+"ᱩᱢᱡᱷᱮᱣ",
+"Utsāhita"
+],
+"Bored": [
+"ᱟᱲᱤᱥ",
+"Ubāū"
+],
+"Tired": [
+"ᱞᱟᱝᱜᱟ ᱟᱠᱟᱱ",
+"Thakā huā"
+],
+"Relaxed": [
+"ᱡᱤᱨᱟᱹᱣ",
+"Ārāma"
+],
+"Worried": [
+"ᱪᱤᱱᱛᱟ",
+"Socā"
+],
+"Proud": [
+"ᱜᱚᱨᱚᱵᱽ",
+"Garva"
+],
+"Shy": [
+"ᱞᱟᱡᱟᱣ",
+"Śarmīlā"
+],
+"Brave": [
+"ᱥᱟᱦᱚᱥ",
+"Bahādura"
+],
+"Honest": [
+"ᱥᱟᱹᱨᱤ",
+"Satya"
+],
+"Lazy": [
+"ᱠᱷᱩᱬᱭᱟ",
+"Ālasī"
+],
+"Active": [
+"ᱥᱚᱡᱟᱜ",
+"Sakriya"
+],
+"Clever": [
+"ᱪᱟᱞᱟᱠ",
+"Catura"
+],
+"Stupid": [
+"ᱞᱮᱞᱦᱟ",
+"Mūrkha"
+],
+"Wise": [
+"ᱜᱟᱹᱠᱷᱩᱲ",
+"Ḍhaṃga"
+],
+"Foolish": [
+"ᱵᱚᱠᱟ",
+"Nāsamajha"
+],
+"Smart": [
+"ᱪᱟᱛᱩᱨ",
+"Buddhimāna"
+],
+"Kindness": [
+"ᱫᱟᱭᱟᱹᱠᱟᱱ",
+"Dayālutā"
+],
+"Cruel": [
+"ᱵᱟᱲᱤᱡ",
+"Nirdayī"
+],
+"Gentle": [
+"ᱱᱚᱨᱢ",
+"Komala"
+],
+"Rude": [
+"ᱨᱟᱝᱜᱟᱣ",
+"Aśiṣṭa"
+],
+"Friendly": [
+"ᱜᱟᱛᱮᱜᱤᱭᱟᱠ",
+"Dostānā"
+],
+"Enemy": [
+"ᱵᱟᱤᱨᱤ",
+"Duśmana"
+],
+"Stranger": [
+"ᱵᱟᱝ ᱵᱟᱰᱟᱭ",
+"Ajanabī"
+],
+"Neighbour": [
+"ᱯᱚᱲᱹᱥᱤ",
+"Par̤osī"
+],
+"Parting": [
+"ᱵᱷᱮᱜᱟᱨ",
+"Vividhatā"
+],
+"Introduction": [
+"ᱮᱦᱵ",
+"Paricaya"
+],
+"Handshake": [
+"ᱛᱤ ᱦᱟᱯᱟᱴᱤᱧ",
+"Hātha milāo."
+],
+"Hug": [
+"ᱦᱟᱲᱩᱯ",
+"Āliṃgana"
+],
+"Bow": [
+"ᱚᱝᱜᱳᱛ",
+"Jhukanā"
+],
+"Wave": [
+"ᱚᱭᱮᱵ",
+"Lahara"
+],
+"Smile": [
+"ᱞᱟᱱᱫᱟ",
+"Ha~sanā"
+],
+"Laugh": [
+"ᱞᱟᱱᱫᱟ",
+"Ha~sanā"
+],
+"Cry": [
+"ᱨᱟᱹ",
+"Cillānā"
+],
+"Gesture": [
+"ᱵᱮᱵᱳᱦᱟᱨ",
+"Iśārā"
+],
+"Manner": [
+"ᱵᱮᱵᱦᱟᱨ",
+"Ḍhaṃga"
+],
+"Custom": [
+"ᱟᱹᱨᱤᱪᱟᱹᱞᱤ",
+"Rivāza"
+],
+"Tradition": [
+"ᱟᱹᱨᱤᱪᱟᱹᱞᱤ",
+"Rivāza"
+],
+"Culture": [
+"ᱟᱨᱪᱟᱞᱤ",
+"Saṃskṛti"
+],
+"Etiquette": [
+"ᱮᱴᱤᱠᱮᱴ",
+"Śiṣṭācāra|"
+],
+"Formal": [
+"ᱞᱟᱠᱪᱟᱨ ᱨᱮᱱᱟᱹ ᱦᱚᱨᱹᱫᱟᱱᱛᱷᱮ",
+"Aupacārika"
+],
+"Informal": [
+"ᱤᱱᱯᱷᱚᱨᱢᱟᱞ",
+"Anaupacārika"
+],
+"Casual": [
+"ᱚᱠᱛᱚᱠᱤᱭᱟᱹ",
+"Anaupacārika"
+],
+"Respectful": [
+"ᱢᱟᱹᱱᱟᱱ",
+"Ādaraṇīya"
+],
+"Humble": [
+"ᱫᱟᱭᱟ ᱠᱮᱛᱮᱡ",
+"Vinamra"
+],
+"Modest": [
+"ᱢᱟᱱᱚᱛᱟᱱ",
+"Kīmatī"
+],
+"Generous": [
+"ᱩᱫᱟ.ᱨ",
+"Udāra"
+],
+"Selfish": [
+"ᱱᱤᱨᱢᱟᱭᱟ",
+"Svārthī"
+],
+"Grateful": [
+"ᱜᱨᱮᱴᱤᱯᱷᱩᱞ",
+"Ābhārī"
+],
+"Ungrateful": [
+"ᱵᱟᱝ ᱥᱟᱨᱦᱟᱣ",
+"Jī nahīṃ, dhanyavāda"
+],
+"Thoughtful": [
+"ᱢᱚᱱᱮᱭᱟᱱ",
+"Vicāramagna"
+],
+"Careless": [
+"ᱵᱮᱠᱷᱮᱭᱟᱞ",
+"Lāparavāha"
+],
+"Street": [
+"ᱨᱟᱥᱛᱟᱹ",
+"Galī"
+],
+"Left": [
+"ᱞᱮᱱᱜᱟ",
+"Bāeṃ"
+],
+"Right": [
+"ᱵᱷᱟᱜᱤ",
+"Sahī"
+],
+"Here": [
+"ᱱᱚᱱᱰᱮ",
+"Yahā~"
+],
+"There": [
+"ᱚᱱᱰᱮ",
+"Vahā~"
+],
+"Near": [
+"ᱥᱩᱨ",
+"Pāsa meṃ"
+],
+"Far": [
+"ᱥᱟᱺᱜᱤᱧ",
+"Dūra"
+],
+"North": [
+"ᱩᱛᱳᱨ",
+"Uttara"
+],
+"South": [
+"ᱫᱟᱠᱷᱤᱱ",
+"Dakṣiṇa"
+],
+"East": [
+"ᱯᱩᱨᱚᱵ",
+"Pūrva"
+],
+"West": [
+"ᱯᱟᱪᱷᱤᱢ",
+"Paścima;"
+],
+"Road": [
+"ᱥᱚᱲᱠ",
+"Sar̤aka"
+],
+"Path": [
+"ᱰᱟᱦᱟᱨ",
+"Rāstā"
+],
+"Bridge": [
+"ᱥᱮᱛᱩ",
+"Pula"
+],
+"Crossing": [
+"ᱠᱨᱚᱥᱤᱝ",
+"Pāra karanā|"
+],
+"Corner": [
+"ᱠᱚᱲ",
+"Konā"
+],
+"Straight": [
+"ᱥᱚᱡᱷᱮ",
+"Sīdhā"
+],
+"Back": [
+"ᱨᱩᱣᱮᱲ",
+"Pīche"
+],
+"Front": [
+"ᱥᱟᱢᱝ",
+"Sāmane"
+],
+"Side": [
+"ᱢᱤᱫ-ᱛᱷᱟᱨᱮ",
+"Ora"
+],
+"Behind": [
+"ᱛᱟᱭᱚᱢ ᱨᱮ",
+"Pīche"
+],
+"Between": [
+"ᱛᱟᱞᱟᱨᱮ",
+"Bīca meṃ"
+],
+"Opposite": [
+"ᱮᱴᱟᱜ ᱱᱟᱠᱷᱟ",
+"Viloma"
+],
+"Next to": [
+"ᱥᱳᱨ ᱨᱣ",
+"Ke pāsa"
+],
+"Above": [
+"ᱪᱮᱛᱟᱱ",
+"Para"
+],
+"Below": [
+"ᱞᱟᱛᱟᱨ",
+"Nīce"
+],
+"Inside": [
+"ᱵᱷᱤᱛᱤᱨ",
+"Aṃdara"
+],
+"Outside": [
+"ᱵᱟᱦᱨᱮ ᱥᱮᱜ",
+"Bāhara"
+],
+"Distance": [
+"ᱥᱟᱜᱤᱱ",
+"Dūrī"
+],
+"Direction": [
+"ᱫᱤᱥᱟᱹ",
+"Diśā"
+],
+"Bus": [
+"ᱵᱟᱥ ᱜᱟᱰᱤ",
+"Basa"
+],
+"Train": [
+"ᱨᱮᱞ ᱜᱟᱲᱤ",
+"Relagār̤ī"
+],
+"Car": [
+"ᱜᱟ.ᱰᱤ",
+"Kāra"
+],
+"Taxi": [
+"ᱴᱮᱠᱥᱤ",
+"Ṭaiksī"
+],
+"Bicycle": [
+"ᱥᱟᱭᱠᱮᱞ",
+"Cakra"
+],
+"Motorcycle": [
+"ᱢᱚᱴᱚᱨᱥᱟᱭᱠᱮᱞ",
+"Moṭarasāikila."
+],
+"Boat": [
+"ᱱᱳᱹᱠᱟ",
+"Nāva"
+],
+"Ship": [
+"ᱡᱟᱦᱟᱡ",
+"Jahāja"
+],
+"Plane": [
+"ᱩᱲᱱᱡᱟᱦᱟᱡ",
+"Vimāna"
+],
+"Ticket": [
+"ᱴᱤᱠᱤᱴ",
+"Ṭikaṭa;"
+],
+"Station": [
+"ᱥᱴᱮᱥᱱ",
+"Sṭeśana"
+],
+"Port": [
+"ᱯᱚᱨᱴ",
+"Pattana"
+],
+"Luggage": [
+"ᱡᱤᱱᱤᱥᱯᱟᱛᱤ",
+"Sāmāna"
+],
+"Bag": [
+"ᱡᱷᱚᱞᱟ",
+"Thailā"
+],
+"Visa": [
+"ᱵᱷᱤᱥᱟ",
+"Vīzā"
+],
+"Map": [
+"ᱢᱮᱯ",
+"Mānacitra"
+],
+"Guide": [
+"ᱩᱫᱩᱜ",
+"Dikhāo"
+],
+"Tour": [
+"ᱫᱟᱲᱟᱱ",
+"Yātrā"
+],
+"Trip": [
+"ᱫᱟᱲᱟᱱ",
+"Yātrā"
+],
+"Journey": [
+"ᱫᱟᱲᱟᱱ",
+"Yātrā"
+],
+"Travel": [
+"ᱫᱟᱲᱟᱱ",
+"Yātrā"
+],
+"Visit": [
+"ᱧᱮᱞᱚᱜ",
+"Ke jaisā laganā"
+],
+"Return": [
+"ᱨᱩᱭᱟᱲ",
+"Vāpasa karanā"
+],
+"Depart": [
+"ᱚᱰᱚᱠᱚᱜ ᱢᱮ",
+"Cale jāo"
+],
+"Arrive": [
+"ᱦᱮᱡ",
+"Ānā"
+],
+"Board": [
+"ᱵᱳᱨᱰ",
+"Tak͟htā"
+],
+"Get off": [
+"ᱚᱰᱚᱠᱚᱜ ᱢᱮ",
+"Cale jāo"
+],
+"Hotel": [
+"ᱦᱚᱴᱮᱞ",
+"Hoṭala"
+],
+"Room": [
+"ᱚᱲᱟᱹ",
+"Kamarā"
+],
+"Booking": [
+"ᱵᱩᱠᱤᱝ",
+"Bukiṃga."
+],
+"Reservation": [
+"ᱨᱤᱡᱟᱨᱵᱮᱥᱚᱱ",
+"Ārakṣaṇa"
+],
+"Check-in": [
+"ᱪᱮᱠ-ᱤᱱ",
+"Ceka ina|"
+],
+"Check-out": [
+"ᱪᱮᱠ-ᱟᱣᱩᱴ",
+"Ceka āuṭa|"
+],
+"Single room": [
+"ᱮᱠᱞᱟ ᱠᱟᱸᱫᱷᱟ",
+"Ekala rūma|"
+],
+"Double room": [
+"ᱵᱟᱨ ᱜᱚᱴᱟᱝ ᱠᱟᱸᱫᱷᱟ",
+"Ḍabala kamare."
+],
+"Key": [
+"ᱪᱷᱟᱸᱪ",
+"Cābī"
+],
+"Reception": [
+"ᱨᱤᱥᱮᱯᱥᱱ",
+"Svāgata"
+],
+"Lift": [
+"ᱨᱟᱠᱟᱯ",
+"Uṭhānā"
+],
+"Floor": [
+"ᱚᱛ",
+"Zamīna"
+],
+"Parking": [
+"ᱯᱟᱨᱠᱤᱝ",
+"Pārkiṃga|"
+],
+"View": [
+"ᱧᱮᱞ",
+"Dekhanā"
+],
+"Balcony": [
+"ᱵᱟᱞᱠᱚᱱᱤ",
+"Bālakanī"
+],
+"Restaurant": [
+"ᱨᱟᱥᱴᱚᱨ",
+"Resṭoreṃṭa"
+],
+"WiFi": [
+"ᱣᱟᱭᱯᱷᱟᱭ",
+"Vāīfāī"
+],
+"Scenic": [
+"ᱥᱤᱱᱤᱠ",
+"Suṃdara"
+],
+"Famous": [
+"ᱧᱩᱛᱩᱢᱟᱱ",
+"Prasiddha"
+],
+"Local": [
+"ᱥᱳᱨ ᱥᱟᱯᱳᱨ",
+"Sthānīya"
+],
+"Foreign": [
+"ᱵᱤᱫᱮᱥᱤ",
+"Videśa"
+],
+"Domestic": [
+"ᱚᱲᱟᱜ ᱨᱮᱱ",
+"Gharelū"
+],
+"International": [
+"ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ",
+"Aṃtararāṣṭrīya"
+],
+"Border": [
+"ᱥᱤᱢᱟᱹ",
+"Kinārā"
+],
+"Immigration": [
+"ᱤᱢᱤᱜᱽᱨᱮᱥᱚᱱ",
+"Apravāsana;"
+],
+"Rice": [
+"ᱪᱳᱞᱮ",
+"Cāvala"
+],
+"Lentils": [
+"ᱢᱟᱹᱭᱞᱟᱹ",
+"Gaṃdha|"
+],
+"Bread": [
+"ᱯᱤᱴᱷᱟ",
+"Roṭī"
+],
+"Salt": [
+"ᱵᱩᱞᱩᱱᱝ",
+"Namaka"
+],
+"Sugar": [
+"ᱪᱤᱱᱤ",
+"Cīnī"
+],
+"Milk": [
+"ᱛᱳᱟᱹ",
+"Dūdha"
+],
+"Vegetable": [
+"ᱟᱱᱟᱡᱹ",
+"Sabzī"
+],
+"Fruit": [
+"ᱡᱹᱚ",
+"Phala"
+],
+"Meat": [
+"ᱡᱤᱞ",
+"Māṃsa"
+],
+"Fish": [
+"ᱦᱟᱠᱩ",
+"Machalī"
+],
+"Oil": [
+"ᱥᱩᱧᱩᱢ",
+"Tela"
+],
+"Spice": [
+"ᱢᱚᱥᱞᱟ",
+"Masāledāra;"
+],
+"Curry": [
+"ᱠᱟᱨᱤ",
+"Karī"
+],
+"Meal": [
+"ᱡᱚᱢᱟᱜ",
+"Khānā"
+],
+"Taste": [
+"ᱥᱟᱫᱹ",
+"Svāda"
+],
+"Hunger": [
+"ᱨᱮᱸᱜᱮᱡ",
+"Garība"
+],
+"Thirst": [
+"ᱛᱮᱛᱟᱝ",
+"Pyāsā"
+],
+"Onion": [
+"ᱱᱤᱡᱱᱵᱩᱣ",
+"Pyāja"
+],
+"Garlic": [
+"ᱨᱟᱥᱩᱱ",
+"Lahasuna"
+],
+"Tomato": [
+"ᱵᱤᱞᱤᱛᱤ",
+"Ṭamāṭara"
+],
+"Potato": [
+"ᱟᱞᱩ",
+"Ālū"
+],
+"Carrot": [
+"ᱜᱟᱡᱨ",
+"Gājara"
+],
+"Peas": [
+"ᱢᱴᱚᱨ",
+"Maṭara"
+],
+"Beans": [
+"ᱜᱷᱟᱝᱨᱟ",
+"Phaliyā~"
+],
+"Spinach": [
+"ᱯᱟᱞᱟᱝ",
+"Pālaka"
+],
+"Cabbage": [
+"ᱛᱚᱞ ᱠᱯᱤ",
+"Pattā gobhī"
+],
+"Cauliflower": [
+"ᱵᱟᱦᱟ ᱠᱩᱵᱤ",
+"Phūlagobhī|"
+],
+"Brinjal": [
+"ᱵᱨᱤᱱᱡᱟᱞ",
+"Baiṃgana"
+],
+"Cucumber": [
+"ᱠᱟᱠᱲᱤ",
+"Khīrā"
+],
+"Radish": [
+"ᱢᱩᱞᱤ",
+"Mūlī"
+],
+"Ginger": [
+"ᱟᱫᱹᱟ",
+"Adaraka"
+],
+"Chilli": [
+"ᱢᱤᱨᱤᱪ",
+"Mirca"
+],
+"Lemon": [
+"ᱞᱮᱵᱩ",
+"Nīṃbū"
+],
+"Coconut": [
+"ᱱᱟᱹᱨᱠᱟᱹᱲ",
+"Nāriyala"
+],
+"Banana": [
+"ᱠᱟᱭᱨᱟ",
+"Kelā"
+],
+"Mango": [
+"ᱟᱹᱢᱩ",
+"Khīrā"
+],
+"Apple": [
+"ᱟᱯᱮᱞ",
+"Seba"
+],
+"Orange": [
+"ᱡᱟᱢᱵᱤᱨ",
+"Nāraṃgī"
+],
+"Grape": [
+"ᱟᱹᱝᱜᱩᱨ",
+"Aṃgūra"
+],
+"Papaya": [
+"ᱯᱟᱯᱟᱭᱟ",
+"Papītā"
+],
+"Guava": [
+"ᱯᱮᱭᱟᱣᱟ",
+"Peyāvā"
+],
+"Pomegranate": [
+"ᱯᱚᱢᱜᱽᱨᱮᱱᱮᱴ",
+"Anāra"
+],
+"Watermelon": [
+"ᱛᱚᱨᱢᱩᱡ",
+"Tarabūja"
+],
+"Dates": [
+"ᱢᱟᱹᱦᱤᱛ ᱠᱚ",
+"Khajūra"
+],
+"Dry fruit": [
+"ᱨᱚᱦᱚᱲ ᱡᱚ",
+"Sūkhe phala"
+],
+"Honey": [
+"ᱛᱮᱨᱟᱢ",
+"Śahada"
+],
+"Cook": [
+"ᱤᱥᱤᱱ",
+"Pakānā"
+],
+"Eat": [
+"ᱡᱚᱢ",
+"Ilāja"
+],
+"Drink": [
+"ᱧᱩᱹ",
+"Pīnā"
+],
+"Rotten": [
+"ᱥᱮᱭᱟᱹ",
+"Sar̤ā huā"
+],
+"Baked": [
+"ᱵᱮᱠᱮᱰ",
+"Beka kiyā huā"
+],
+"Recipe": [
+"ᱨᱮᱤᱯᱤ",
+"Vyaṃjana vidhi"
+],
+"Kitchen": [
+"ᱫᱟᱠᱟ-ᱚᱲᱟᱦ",
+"Rasoīghara"
+],
+"Stove": [
+"ᱥᱴᱳᱵᱹ",
+"Cūlhā"
+],
+"Plate": [
+"ᱯᱮᱞᱮᱴ",
+"Thālī"
+],
+"Spoon": [
+"ᱪᱟᱢᱪ",
+"Cammaca"
+],
+"Fork": [
+"ᱯᱷᱨᱠᱚ",
+"Kā~ṭā"
+],
+"Knife": [
+"ᱪᱩᱨᱤ",
+"Cākū"
+],
+"Cup": [
+"ᱠᱟᱯ",
+"Kapa"
+],
+"Glass": [
+"ᱜᱮᱞᱟᱥ",
+"Kā~ca"
+],
+"Bottle": [
+"ᱵᱚᱛᱞ",
+"Botala"
+],
+"Dish": [
+"ᱛᱷᱟᱨᱤ",
+"Vyaṃjana"
+],
+"Menu": [
+"ᱢᱮᱱᱭᱩ",
+"Menū."
+],
+"Bill": [
+"ᱵᱤᱞ",
+"Bila"
+],
+"Head": [
+"ᱵᱚᱦᱚᱜ",
+"Sira"
+],
+"Eye": [
+"ᱢᱮᱸᱫ",
+"Ā~kha"
+],
+"Hand": [
+"ᱛᱤ",
+"Hātha"
+],
+"Foot": [
+"ᱡᱟᱝᱜᱟ",
+"Paira"
+],
+"Heart": [
+"ᱵᱳᱨᱳ",
+"Dila"
+],
+"Face": [
+"ᱢᱩᱴᱷᱚᱱᱵ",
+"Ceharā"
+],
+"Hair": [
+"ᱩᱵ",
+"Bāla"
+],
+"Stomach": [
+"ᱞᱟᱡ",
+"Peṭa"
+],
+"Neck": [
+"ᱦᱚᱴᱹ",
+"Garadana"
+],
+"Ear": [
+"ᱞᱩᱛᱩᱨ",
+"Kāna"
+],
+"Nose": [
+"ᱢᱩ",
+"Nāka"
+],
+"Mouth": [
+"ᱢᱚᱪᱟ",
+"Mu~ha"
+],
+"Lip": [
+"ᱞᱩᱛᱩᱨ",
+"Kāna"
+],
+"Tooth": [
+"ᱰᱟᱴᱟ",
+"Dā~ta"
+],
+"Tongue": [
+"ᱟᱞᱟᱝ",
+"Jībha"
+],
+"Cheek": [
+"ᱛᱷᱛᱱᱟ",
+"Gāla"
+],
+"Chin": [
+"ᱷᱟᱨᱪᱩᱭᱟᱞ",
+"Ṭhor̤ī"
+],
+"Forehead": [
+"ᱢᱞᱚᱝ",
+"Māthā"
+],
+"Eyebrow": [
+"ᱟᱭᱤᱵᱽᱨᱚ",
+"Bhauṃ"
+],
+"Eyelash": [
+"ᱢᱮᱫ ᱨᱮᱭᱟᱜ ᱯᱚᱴᱚᱢ",
+"Palakeṃ"
+],
+"Shoulder": [
+"ᱫᱟᱵᱤ",
+"Kaṃdhā"
+],
+"Arm": [
+"ᱛᱤ",
+"Hātha"
+],
+"Elbow": [
+"ᱢᱠᱟ",
+"Kohanī"
+],
+"Wrist": [
+"ᱛᱤ",
+"Hātha"
+],
+"Finger": [
+"ᱠᱟᱛᱩᱵ",
+"U~galiyā"
+],
+"Thumb": [
+"ᱟᱜᱴᱷ",
+"A~gūṭhā"
+],
+"Nail": [
+"ᱨᱟᱢᱟ",
+"Nākhūna"
+],
+"Chest": [
+"ᱠᱚᱲᱟᱢ",
+"Chātī"
+],
+"Waist": [
+"ᱰᱟᱸᱰᱟ",
+"Kamara"
+],
+"Hip": [
+"ᱯᱷᱤᱪᱚ",
+"Kūlhā"
+],
+"Thigh": [
+"ᱛᱷᱟᱲᱟ",
+"Jā~gha"
+],
+"Knee": [
+"ᱜᱱᱴᱷᱮ",
+"Ghuṭanā"
+],
+"Leg": [
+"ᱡᱟᱝᱜᱟᱹ",
+"Ṭāṃga"
+],
+"Ankle": [
+"ᱤᱰᱤ",
+"Ṭakhanā"
+],
+"Heel": [
+"ᱦᱤᱞ",
+"Pahār̤ī"
+],
+"Skin": [
+"ᱦᱟᱨᱛᱟ",
+"Camar̤ā"
+],
+"Bone": [
+"ᱡᱟᱝ",
+"Haḍḍī"
+],
+"Muscle": [
+"ᱡᱟᱝ ᱡᱤᱞ",
+"Mā~sapeśiyā~"
+],
+"Brain": [
+"ᱵᱦᱹ",
+"Dimāga"
+],
+"Liver": [
+"ᱠᱚᱞᱡᱟ",
+"Jigara"
+],
+"Lung": [
+"ᱯᱷᱩᱰᱷᱟᱹ",
+"Phephar̤ā"
+],
+"Kidney": [
+"ᱠᱚᱞᱡᱟ",
+"Jigara"
+],
+"Pain": [
+"ᱦᱟᱥᱩ",
+"Darda"
+],
+"Fever": [
+"ᱨᱩᱣᱟᱹ",
+"Bīmāra"
+],
+"Cough": [
+"ᱠᱷᱩᱜ",
+"Khā~sī"
+],
+"Healthy": [
+"ᱱᱟᱯᱟᱭ ᱦᱚᱲᱢᱚ",
+"Svastha"
+],
+"Sick": [
+"ᱨᱩᱣᱟᱹ",
+"Bīmāra"
+],
+"Hospital": [
+"ᱨᱟᱱ ᱚᱲᱟᱹ",
+"Aspatāla"
+],
+"Breath": [
+"ᱱᱤᱹᱥᱟᱥ",
+"Sā~sa"
+],
+"Pulse": [
+"ᱯᱟᱞᱥ",
+"Nār̤ī|"
+],
+"Sweat": [
+"ᱩᱫᱜᱟᱨ",
+"Pasīnā"
+],
+"Tear": [
+"ᱚᱲᱮ",
+"Āṃsū"
+],
+"Voice": [
+"ᱟᱲᱟᱝ",
+"Lahazā"
+],
+"Touch": [
+"ᱡᱚᱴᱮᱛ",
+"Chūnā"
+],
+"See": [
+"ᱧᱮᱞ",
+"Dekhanā"
+],
+"Hear": [
+"ᱟᱡᱚᱢ",
+"Suno"
+],
+"Smell": [
+"ᱥᱚ",
+"Gaṃdha"
+],
+"Feel": [
+"ᱟᱹᱭᱠᱟᱹᱣ",
+"Anubhava karanā"
+],
+"Walk": [
+"ᱛᱟᱲᱟᱢ",
+"Ṭahalanā"
+],
+"Run": [
+"ᱧᱤᱨ",
+"Daur̤anā"
+],
+"Sit": [
+"ᱫᱩᱨᱩᱵ",
+"Baiṭhanā"
+],
+"Stand": [
+"ᱛᱮᱜᱚ",
+"Khar̤ā honā"
+],
+"Sleep": [
+"ᱡᱟᱹᱯᱤᱫᱽ",
+"Nīṃda"
+],
+"Wake": [
+"ᱵᱮᱨᱮᱡ",
+"Jāganā"
+],
+"Breathe": [
+"ᱥᱟᱦᱮᱥ",
+"Sā~sa lenā"
+],
+"Blink": [
+"ᱢᱤᱞᱠ",
+"Dūdha"
+],
+"Speak": [
+"ᱨᱚᱲ",
+"Bolanā"
+],
+"Listen": [
+"ᱟᱡᱚᱢ",
+"Suno"
+],
+"Think": [
+"ᱦᱩᱫᱤᱥ",
+"Socanā"
+],
+"Remember": [
+"ᱩᱭᱦᱮᱨ",
+"Yāda karanā"
+],
+"Forget": [
+"ᱦᱤᱲᱤᱧ",
+"Yāda"
+],
+"Understand": [
+"ᱵᱩᱡᱽ",
+"Samajhanā"
+],
+"Learn": [
+"ᱥᱮᱬᱟ",
+"Sīkhanā"
+],
+"Know": [
+"ᱵᱟᱰᱟᱭ",
+"Jānanā"
+],
+"Believe": [
+"ᱯᱟ.ᱛᱭᱟ.ᱣ",
+"Viśvāsa"
+],
+"Hope": [
+"ᱟᱥᱟ",
+"Āśā"
+],
+"Want": [
+"ᱠᱷᱚᱡ",
+"Cāhanā"
+],
+"Father": [
+"ᱵᱟᱵᱟ",
+"Pitā"
+],
+"Mother": [
+"ᱜᱚᱜᱚ",
+"Mā~"
+],
+"Brother": [
+"ᱵᱚᱭᱦᱟ",
+"Cacerā"
+],
+"Sister": [
+"ᱢᱤᱥᱨᱟ",
+"Bahana"
+],
+"Son": [
+"ᱦᱚᱯᱚᱱ",
+"Thor̤ā"
+],
+"Daughter": [
+"ᱦᱚᱯᱚᱱᱮᱨᱟ",
+"Beṭī"
+],
+"Husband": [
+"ᱡᱟᱶᱟᱭ",
+"Pati"
+],
+"Wife": [
+"ᱵᱟᱦᱩ",
+"Patnī"
+],
+"Family": [
+"ᱜᱷᱟᱨᱚᱸᱧᱡᱽ",
+"Parivāra"
+],
+"Child": [
+"ᱜᱤᱫᱽᱨᱟ",
+"Baccā"
+],
+"Grandfather": [
+"ᱜᱚᱲᱚᱢ ᱦᱟᱲᱟᱢ",
+"Dādā."
+],
+"Grandmother": [
+"ᱵᱩᱰᱷᱤ ᱟᱭᱳ",
+"Dādī."
+],
+"Grandson": [
+"ᱜᱚᱲᱚᱢ ᱦᱚᱯᱚᱱ",
+"Potā."
+],
+"Granddaughter": [
+"ᱜᱚᱲᱚᱢ ᱠᱩᱲᱤ",
+"Potī."
+],
+"Uncle": [
+"ᱠᱟᱠᱟ",
+"Cācā"
+],
+"Aunt": [
+"ᱦᱟᱛᱚᱢ",
+"Cācī"
+],
+"Nephew": [
+"ᱦᱚᱢᱚᱱ ᱠᱚᱲᱟ",
+"Bhatījā"
+],
+"Niece": [
+"ᱜᱳᱝᱜᱚᱛ ᱠᱩᱲᱤ",
+"Bhatījī"
+],
+"Cousin": [
+"ᱵᱚᱭᱦᱟ",
+"Cacerā"
+],
+"Father-in-law": [
+"ᱥᱟᱶᱛᱟ ᱵᱟᱵᱟ",
+"Sasura."
+],
+"Mother-in-law": [
+"ᱦᱟᱲᱟᱢ ᱟᱭᱳ",
+"Būr̤hī mā~."
+],
+"Son-in-law": [
+"ᱡᱟᱶᱟᱭ",
+"Pati"
+],
+"Daughter-in-law": [
+"ᱦᱚᱯᱚᱱ ᱠᱩᱲᱤ",
+"Beṭī;"
+],
+"Brother-in-law": [
+"ᱛᱮᱧᱟᱝ",
+"Sālā"
+],
+"Sister-in-law": [
+"ᱵᱟᱦᱩ",
+"Patnī"
+],
+"Relative": [
+"ᱯᱮᱹᱲᱟ",
+"Riśtedāra"
+],
+"Parents": [
+"ᱟᱭᱚ-ᱵᱟᱵᱟ",
+"Abhibhāvaka"
+],
+"Children": [
+"ᱜᱤᱫᱨᱚ",
+"Baccā"
+],
+"Baby": [
+"ᱜᱤᱫᱨᱚ",
+"Baccā"
+],
+"Elder": [
+"ᱢᱟᱨᱟᱝ",
+"Viśāla"
+],
+"Younger": [
+"ᱦᱩᱰᱤᱧ",
+"Thor̤ā"
+],
+"Twin": [
+"ᱵᱟᱨᱭᱟ ᱵᱟᱹᱦᱩ",
+"Jur̤avā~."
+],
+"Stepfather": [
+"ᱥᱚᱭᱩ ᱵᱟᱵᱟ",
+"Sautelā bāpa"
+],
+"Stepmother": [
+"ᱥᱚᱭᱩ ᱟᱭᱳ",
+"Sautelī mā~"
+],
+"Orphan": [
+"ᱴᱩᱭᱟᱨᱹ",
+"Anātha"
+],
+"Widow": [
+"ᱨᱟᱱᱰᱤ",
+"Vidhavā"
+],
+"Widower": [
+"ᱨᱟᱹᱱᱰᱤ ᱦᱚᱯᱚᱱ",
+"Vidhavā|"
+],
+"Marriage": [
+"ᱵᱟᱯᱞᱟ",
+"Śādī"
+],
+"Wedding": [
+"ᱵᱟᱯᱞᱟ",
+"Śādī"
+],
+"Bride": [
+"ᱱᱟᱚᱭᱟ ᱵᱟᱦᱩ",
+"Dulhana"
+],
+"Groom": [
+"ᱡᱟᱳᱟᱭ",
+"Dūlhā"
+],
+"Birth": [
+"ᱡᱟᱱᱟᱢ",
+"Janma"
+],
+"Death": [
+"ᱵᱚᱝᱜᱟ-ᱛᱟᱞᱟ",
+"Mauta"
+],
+"Ancestor": [
+"ᱵᱩᱰᱷᱤ ᱦᱟᱲᱟᱢ",
+"Būr̤hā ādamī|"
+],
+"Descendant": [
+"ᱵᱚᱛᱚᱨ",
+"Ḍaranā"
+],
+"Household": [
+"ᱚᱲᱟᱦᱨᱮᱱ",
+"Parivāra"
+],
+"Generation": [
+"ᱡᱟᱱᱟᱢ",
+"Janma"
+],
+"Relationship": [
+"ᱥᱟᱹᱜᱟᱭ",
+"Saṃbaṃdha"
+],
+"Care": [
+"ᱡᱚᱛᱚᱱ",
+"Apanā dhyāna rakhanā"
+],
+"Support": [
+"ᱜᱚᱲᱚ",
+"Sahāyatā"
+],
+"Duty": [
+"ᱫᱟᱭᱤᱠ",
+"Jimmedāra"
+],
+"Responsibility": [
+"ᱫᱟᱭᱤᱛᱳ",
+"Zimmedārī"
+],
+"Eldest": [
+"ᱥᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ",
+"Sabase vṛhada"
+],
+"Youngest": [
+"ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱦᱩᱰᱤᱧ",
+"Sabase choṭā"
+],
+"Only child": [
+"ᱮᱠᱞᱟ ᱜᱤᱫᱽᱨᱟᱹ",
+"Kevala bacce|"
+],
+"Sibling": [
+"ᱵᱭᱦᱟ",
+"Dosta"
+],
+"Spouse": [
+"ᱵᱟᱦᱩ",
+"Patnī"
+],
+"Fatherhood": [
+"ᱵᱟᱵᱟ ᱦᱩᱭᱩᱜ",
+"Pitādharma"
+],
+"Motherhood": [
+"ᱟᱭᱳ ᱦᱩᱭᱩᱜ",
+"Mātṛtva."
+],
+"Brotherhood": [
+"ᱵᱚᱭᱦᱟᱛᱟ",
+"Bhāīcārā;"
+],
+"Sisterhood": [
+"ᱢᱤᱥᱨᱟ ᱦᱩᱭᱩᱜ",
+"Bahana hone ke nāte"
+],
+"Godfather": [
+"ᱜᱚᱲᱚᱢ ᱵᱟᱵᱟ",
+"Dādā."
+],
+"Godmother": [
+"ᱜᱚᱲᱚᱢ ᱟᱭᱳ",
+"Dādī;"
+],
+"Guardian": [
+"ᱜᱟᱨᱰᱤᱭᱟᱱ",
+"Abhibhāvaka"
+],
+"Adopted": [
+"ᱟᱯᱱᱟᱨ ᱟᱠᱟᱱᱟ",
+"Apanāyā"
+],
+"Foster": [
+"ᱯᱷᱚᱥᱴᱚᱨ",
+"Poṣaka"
+],
+"Clan": [
+"ᱠᱞᱟᱱ",
+"Klāna"
+],
+"Tribe": [
+"ᱡᱟᱱᱡᱟᱛᱤ",
+"Janajāti"
+],
+"Dynasty": [
+"ᱨᱟᱡᱟᱥᱴᱤ",
+"Rājavaṃśa"
+],
+"Inheritance": [
+"ᱦᱮᱨᱤᱴᱮᱡᱽ",
+"Virāsata"
+],
+"Heir": [
+"ᱵᱚᱝᱥᱚ",
+"Vārisa"
+],
+"Family name": [
+"ᱜᱷᱟᱨᱚᱸᱡᱽ ᱧᱩᱛᱩᱢ",
+"Pārivārika nāma"
+],
+"Surname": [
+"ᱧᱩᱛᱩᱢ",
+"Nāma"
+],
+"Nickname": [
+"ᱫᱚᱥᱟᱨ ᱧᱩᱛᱩᱢ",
+"Upanāma."
+],
+"Elder brother": [
+"ᱢᱟᱨᱟᱝ ᱵᱚᱭᱦᱟ",
+"Bar̤e bhāī|"
+],
+"Younger brother": [
+"ᱦᱩᱰᱤᱧ ᱵᱚᱭᱦᱟ",
+"Choṭā bhāī."
+],
+"Elder sister": [
+"ᱢᱟᱨᱟᱝ ᱢᱤᱥᱨᱟ",
+"Bar̤ī bahana."
+],
+"Younger sister": [
+"ᱦᱩᱰᱤᱧ ᱢᱤᱥᱨᱟ",
+"Choṭī bahana"
+],
+"Maternal uncle": [
+"ᱟᱭᱳ ᱦᱟᱲᱟᱢ ᱦᱟᱲᱟᱢ",
+"Dādā-dādī."
+],
+"Paternal uncle": [
+"ᱵᱟᱵᱟ ᱥᱮᱫ ᱠᱷᱚᱱ ᱦᱟᱢᱟ ᱦᱟᱯᱟ",
+"Māmā."
+],
+"Maternal aunt": [
+"ᱟᱭᱳ ᱦᱚᱱᱜᱚ",
+"Māmī|"
+],
+"Paternal aunt": [
+"ᱵᱟᱵᱟ ᱥᱮᱫ ᱠᱷᱚᱱ ᱦᱚᱱᱜᱚ",
+"Mausī"
+],
+"Family gathering": [
+"ᱜᱷᱟᱨᱚᱧᱡᱽ ᱡᱟᱣᱨᱟ",
+"Pārivārika saṃgraha"
+],
+"One": [
+"ᱢᱤᱫ",
+"Vahī"
+],
+"Two": [
+"ᱵᱟᱨᱭᱟ",
+"Do"
+],
+"Three": [
+"ᱯᱮ",
+"Tīna"
+],
+"Four": [
+"ᱯᱩᱱ",
+"Cāra."
+],
+"Five": [
+"ᱢᱹᱲᱮ",
+"Pā~ca"
+],
+"Six": [
+"ᱮᱭᱟᱭ",
+"Āṭha"
+],
+"Seven": [
+"ᱮᱭᱟᱭ",
+"Āṭha"
+],
+"Eight": [
+"ᱮᱭᱟᱭ",
+"Āṭha"
+],
+"Nine": [
+"ᱟᱨᱮ",
+"Nau"
+],
+"Ten": [
+"ᱜᱮᱞ",
+"Dasa"
+],
+"Eleven": [
+"ᱜᱢᱤᱛ",
+"Gyāraha"
+],
+"Twelve": [
+"ᱵᱟᱨᱜᱮᱞ",
+"Bāraha"
+],
+"Thirteen": [
+"ᱜᱮᱞ ᱯᱮ",
+"Teraha"
+],
+"Fourteen": [
+"ᱜᱮᱞ ᱯᱳᱱ",
+"Caudaha"
+],
+"Fifteen": [
+"ᱢᱤᱫ ᱜᱮᱞ ᱢᱚᱸᱲᱮ",
+"Paṃdraha"
+],
+"Sixteen": [
+"ᱜᱩᱛᱩᱨ",
+"Solaha"
+],
+"Seventeen": [
+"ᱜᱮᱞ ᱮᱭᱟᱭ",
+"Satraha"
+],
+"Eighteen": [
+"ᱢᱤᱫ ᱜᱮᱞ ᱮᱨᱤᱞ",
+"Aṭhāraha"
+],
+"Nineteen": [
+"ᱜᱮᱞ ᱟᱨᱮ",
+"Unnīsa"
+],
+"Twenty": [
+"ᱵᱟᱨ ᱜᱮᱞ",
+"Bāraha"
+],
+"Thirty": [
+"ᱯᱮ ᱜᱮᱞ",
+"Tīsa"
+],
+"Forty": [
+"ᱯᱚᱱ ᱜᱮᱞ",
+"Cālīsa"
+],
+"Fifty": [
+"ᱢᱚᱸᱲᱮ ᱜᱮᱞ",
+"Pacāsa"
+],
+"Sixty": [
+"ᱛᱩᱨᱩᱭ ᱜᱮᱞ",
+"Sāṭha"
+],
+"Seventy": [
+"ᱮᱭᱟᱭ ᱜᱮᱞ",
+"Sattara"
+],
+"Eighty": [
+"ᱮᱨᱤᱞ ᱜᱮᱞ",
+"Assī"
+],
+"Ninety": [
+"ᱟᱨᱮ ᱜᱮᱞ",
+"Nabbe"
+],
+"Hundred": [
+"ᱢᱤᱫ ᱥᱟᱭ",
+"Śataka"
+],
+"Thousand": [
+"ᱢᱤᱫ ᱜᱮᱥᱟᱭ",
+"Hazāra"
+],
+"Lakh": [
+"ᱞᱟᱠᱷ",
+"Lākha."
+],
+"First": [
+"ᱯᱟᱦᱤᱞ",
+"Pahalā"
+],
+"Third": [
+"ᱯᱮᱹᱵᱟᱨ",
+"Tīsarā"
+],
+"Fourth": [
+"ᱯᱩᱱᱟᱜ",
+"Cauthā."
+],
+"Fifth": [
+"ᱢᱚᱬᱮ ᱟᱜ",
+"Pāṃcavā"
+],
+"Half": [
+"ᱚᱫᱦᱮᱠ",
+"Ādhā"
+],
+"Quarter": [
+"ᱠᱚᱭᱟᱴᱟᱨ",
+"Timāhī"
+],
+"Double": [
+"ᱵᱟᱨᱭᱟ",
+"Do"
+],
+"Triple": [
+"ᱯᱮ ᱫᱷᱟᱣ",
+"Tīna bāra."
+],
+"Single": [
+"ᱮᱥᱠᱟᱨ",
+"Akelā"
+],
+"Pair": [
+"ᱡᱳᱲ",
+"Jor̤ā"
+],
+"Dozen": [
+"ᱰᱚᱡᱮᱱ",
+"Darjana"
+],
+"Score": [
+"ᱥᱠᱳᱨ",
+"Aṃka"
+],
+"Zero": [
+"ᱥᱩᱱ",
+"Śūnya"
+],
+"Number": [
+"ᱮᱞᱮᱞ",
+"Saṃkhyā"
+],
+"Count": [
+"ᱜᱩᱱᱛᱤ",
+"Ginatī karanā"
+],
+"Add": [
+"ᱢᱮᱥᱟ",
+"Jor̤anā"
+],
+"Subtract": [
+"ᱚᱪᱚᱜᱽ ᱢᱮ",
+"Nikālanā"
+],
+"Multiply": [
+"ᱜᱩᱱᱟᱹᱣ ᱢᱮ",
+"Guṇā"
+],
+"Divide": [
+"ᱵᱷᱟᱜ",
+"Vibhājita karanā"
+],
+"Equal": [
+"ᱥᱚᱢᱟᱱ",
+"Samatala"
+],
+"More": [
+"ᱵᱟᱲᱛᱤ",
+"Adhika"
+],
+"Less": [
+"ᱛᱷᱚᱲᱟ",
+"Kucha"
+],
+"Many": [
+"ᱟᱭᱢᱟ",
+"Aneka"
+],
+"Few": [
+"ᱛᱷᱚᱲᱟ",
+"Kucha"
+],
+"Some": [
+"ᱡᱟᱦᱟᱛᱤᱱᱟ",
+"Kucha"
+],
+"All": [
+"ᱡᱚᱛᱚ",
+"Sabhī"
+],
+"None": [
+"ᱵᱟᱱᱝ",
+"Koī nahīṃ"
+],
+"Several": [
+"ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱᱟᱜ",
+"Aneka"
+],
+"Multiple": [
+"ᱵᱟᱹᱲᱛᱤ",
+"Thoka"
+],
+"Percent": [
+"ᱯᱨᱚᱛᱤᱥᱟᱛ",
+"Pratiśata."
+],
+"Fraction": [
+"ᱯᱷᱨᱮᱠᱥᱚᱱ",
+"Aṃśa|"
+],
+"Decimal": [
+"ᱰᱮᱥᱤᱢᱟᱞ",
+"Daśamalava."
+],
+"Sum": [
+"ᱡᱚᱜ",
+"Saṃyukta"
+],
+"Total": [
+"ᱢᱤᱫᱥᱟᱳ",
+"Kula"
+],
+"Amount": [
+"ᱫᱟᱢ",
+"Mātrā"
+],
+"Quantity": [
+"ᱟᱹᱫᱤᱭᱟᱱ",
+"Mātrā"
+],
+"Price": [
+"ᱫᱟᱢ",
+"Mātrā"
+],
+"Cost": [
+"ᱫᱟᱢ",
+"Mātrā"
+],
+"Discount": [
+"ᱪᱷᱟᱹᱲ",
+"Mukta"
+],
+"Age": [
+"ᱵᱚᱭᱮᱥ",
+"Āyu"
+],
+"Year old": [
+"ᱢᱤᱫ ᱥᱮᱨᱢᱟ ᱢᱟᱨᱮ",
+"Eka sāla kā"
+],
+"Date": [
+"ᱢᱟᱹᱦᱤᱛ",
+"Tārīkha"
+],
+"Time": [
+"ᱚᱠᱛᱚ",
+"Avadhi"
+],
+"O'clock": [
+"ᱴᱟᱲᱟᱝ",
+"Ghaṃṭā"
+],
+"Day": [
+"ᱥᱤᱧ",
+"Dina"
+],
+"Once": [
+"ᱢᱤᱫ ᱫᱷᱟᱣ",
+"Eka bāra"
+],
+"Twice": [
+"ᱵᱟᱨᱭᱟ",
+"Do"
+],
+"Thrice": [
+"ᱯᱮ ᱫᱷᱟᱣ",
+"Tīna bāra."
+],
+"Every": [
+"ᱡᱦᱚᱛ",
+"Pratyeka"
+],
+"Each": [
+"ᱢᱤᱢᱤᱫ",
+"Pratyeka"
+],
+"Whole": [
+"ᱯᱩᱨᱟᱹ",
+"Sābuta"
+],
+"Full": [
+"ᱯᱮᱨᱮᱡ",
+"Bharā huā"
+],
+"Empty": [
+"ᱠᱷᱟᱹᱞᱤ",
+"Khālī"
+],
+"House": [
+"ᱚᱲᱟᱜ",
+"Ghara"
+],
+"Work": [
+"ᱠᱟᱹᱢᱤ",
+"Kāma"
+],
+"Come": [
+"ᱦᱟᱡᱩᱜ",
+"Ānā"
+],
+"Go": [
+"ᱪᱟᱞᱟᱜ",
+"Jānā"
+],
+"Give": [
+"ᱮᱢ",
+"Upalabdha karavānā"
+],
+"Take": [
+"ᱦᱟᱛᱟᱣ",
+"Lenā"
+],
+"Bedroom": [
+"ᱡᱟᱯᱤᱹ ᱚᱲᱟᱹ",
+"Sone kā kamarā"
+],
+"Bathroom": [
+"ᱛᱚᱯᱚᱱ ᱚᱲᱟᱦ",
+"Snānaghara"
+],
+"Door": [
+"ᱫᱩᱣᱟᱹᱨ",
+"Daravāzā."
+],
+"Window": [
+"ᱡᱟᱱᱞᱟ",
+"Khir̤akī"
+],
+"Wall": [
+"ᱫᱮᱭᱟᱞ",
+"Dīvāra"
+],
+"Roof": [
+"ᱪᱟᱫᱹ",
+"Chata"
+],
+"Stairs": [
+"ᱥᱤᱹᱲᱤ",
+"Sīr̤hī"
+],
+"Table": [
+"ᱴᱮᱵᱤᱞ",
+"Meza"
+],
+"Chair": [
+"ᱢᱟᱪᱤ",
+"Kursī"
+],
+"Bed": [
+"ᱟᱴᱮᱜ",
+"Bistara"
+],
+"Lamp": [
+"ᱞᱚᱱᱴᱷᱱ",
+"Cirāga"
+],
+"Clock": [
+"ᱜᱷᱟᱹᱲᱤ",
+"Ghar̤ī"
+],
+"Lock": [
+"ᱛᱟᱞᱟᱹ",
+"Tālā"
+],
+"Garden": [
+"ᱵᱟᱲᱜᱮ",
+"Bagīcā"
+],
+"Furniture": [
+"ᱠᱟᱴ ᱨᱮᱭᱟᱜ ᱡᱤᱱᱤᱥ",
+"Pharnīcara"
+],
+"Sofa": [
+"ᱥᱳᱯᱷᱟ",
+"Sofā."
+],
+"Cupboard": [
+"ᱠᱷᱟᱴᱚ",
+"Choṭā"
+],
+"Shelf": [
+"ᱯᱟᱠᱷᱟᱹ",
+"Darāja"
+],
+"Mirror": [
+"ᱟᱨᱥᱤ",
+"Āīnā"
+],
+"Curtain": [
+"ᱯᱨᱜᱟ",
+"Paradā"
+],
+"Pillow": [
+"ᱵᱚᱦᱜᱟᱹ",
+"Takiyā"
+],
+"Blanket": [
+"ᱠᱚᱢᱵᱟᱞ",
+"Kaṃbala"
+],
+"Towel": [
+"ᱛᱳᱭᱟᱞᱟ",
+"Tauliyā"
+],
+"Soap": [
+"ᱥᱟᱵᱟᱱ",
+"Sābuna"
+],
+"Bucket": [
+"ᱵᱟᱞᱛᱤ",
+"Bālṭī"
+],
+"Broom": [
+"ᱡᱚᱹᱱᱚ",
+"Jhār̤ū"
+],
+"Trash": [
+"ᱡᱚᱵᱨᱟ",
+"Kacarā"
+],
+"Clean": [
+"ᱥᱟᱯᱷᱟ",
+"Sāpha"
+],
+"Dirty": [
+"ᱜᱮᱥᱴᱟᱦᱤ",
+"Gaṃdā"
+],
+"Wash": [
+"ᱟᱨᱩᱵ",
+"Kullā"
+],
+"Sweep": [
+"ᱡᱚᱹ",
+"Badalanā"
+],
+"Mop": [
+"ᱢᱚᱯ",
+"Jhār̤ū"
+],
+"Electricity": [
+"ᱵᱤᱡᱽᱞᱤ ᱫᱟᱲᱮ",
+"Bijalī"
+],
+"Switch": [
+"ᱥᱩᱮᱪ",
+"Badalanā"
+],
+"Fan": [
+"ᱵᱤᱱᱤ",
+"Paṃkhā"
+],
+"Light": [
+"ᱢᱟᱨᱥᱟᱞ",
+"Rośanī"
+],
+"Fridge": [
+"ᱱᱵᱫᱩ",
+"Frija"
+],
+"TV": [
+"TV",
+""
+],
+"Computer": [
+"ᱠᱚᱢᱯᱩᱴᱚᱨ",
+"Kaṃpyūṭara"
+],
+"Book": [
+"ᱯᱚᱛᱚᱵ",
+"Kitāba"
+],
+"Newspaper": [
+"ᱠᱷᱚᱵᱚᱨ ᱠᱟᱜᱚᱡᱽ",
+"Akhabāra"
+],
+"Later": [
+"ᱯᱚᱨᱮ",
+"Bāda"
+],
+"Always": [
+"ᱡᱟᱣᱜᱮ",
+"Hameśā"
+],
+"Never": [
+"ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱝ",
+"Kabhī nahīṃ"
+],
+"Sometimes": [
+"ᱡᱟᱦᱟᱱ ᱛᱤᱱᱨᱮ",
+"Kabhī-kabhī"
+],
+"Often": [
+"ᱢᱟᱡᱮ-ᱥᱟᱡᱮ",
+"Aksara"
+],
+"Usually": [
+"ᱟᱥᱚᱠᱟᱭᱛᱮ",
+"Āma taura para"
+],
+"Daily": [
+"ᱫᱤᱱᱟᱜᱹ",
+"Dainika"
+],
+"Weekly": [
+"ᱦᱟᱯᱛᱟ ᱯᱤᱪᱷᱤ",
+"Sāptāhika."
+],
+"Monthly": [
+"ᱪᱟᱸᱫᱚ ᱯᱤᱪᱷᱤ",
+"Mahīne ke|"
+],
+"Yearly": [
+"ᱥᱮᱨᱢᱟᱠᱤᱭᱟᱹ",
+"Vārṣika"
+],
+"Routine": [
+"ᱨᱩᱴᱤᱱ",
+"Dinacaryā"
+],
+"Habit": [
+"ᱦᱮᱵᱤᱛ",
+"Ādata"
+],
+"Rest": [
+"ᱡᱤᱨᱟᱹᱣ",
+"Ārāma"
+],
+"Leisure": [
+"ᱟᱨᱟᱢ",
+"Aura āpa"
+],
+"Free": [
+"ᱪᱷᱟᱹᱲ",
+"Mukta"
+],
+"Relax": [
+"ᱨᱮᱞᱟᱥ",
+"Ārāma karanā"
+],
+"Wake up": [
+"ᱵᱮᱨᱮᱡ ᱢᱮ",
+"Jāgo"
+],
+"Sun": [
+"ᱵᱮᱲᱟᱸ",
+"Sūraja"
+],
+"Moon": [
+"ᱪᱟᱹᱫᱳ",
+"Caṃdramā"
+],
+"Rain": [
+"ᱫᱟᱜ",
+"Pānī"
+],
+"Dog": [
+"ᱥᱮᱛᱟ",
+"Kuttā"
+],
+"Cat": [
+"ᱯᱩᱥᱤ",
+"Billī"
+],
+"Cow": [
+"ᱰᱟᱝᱨᱤ",
+"Gāya"
+],
+"Bird": [
+"ᱪᱮᱹᱰᱮ",
+"Cir̤iyā"
+],
+"Tree": [
+"ᱫᱟᱨᱮ",
+"Paudhā"
+],
+"Flower": [
+"ᱵᱟᱦᱟ",
+"Phūla"
+],
+"Sky": [
+"᱙ᱱᱚᱡᱫᱪᱱᱜ",
+"Ākāśa"
+],
+"Cloud": [
+"ᱨᱤᱢᱤᱞ",
+"Bādala"
+],
+"Star": [
+"ᱤᱯᱤᱞ",
+"Tārā"
+],
+"Wind": [
+"ᱦᱚᱭ",
+"Havā"
+],
+"River": [
+"ᱜᱟᱰᱟ",
+"Jhīla"
+],
+"Mountain": [
+"ᱵᱩᱨᱩ",
+"Pahār̤ī"
+],
+"Forest": [
+"ᱵᱤᱨ",
+"Jaṃgalī"
+],
+"Grass": [
+"ᱜᱷᱟᱥ",
+"Ghāsa"
+],
+"Leaf": [
+"ᱥᱟᱠᱟᱢ",
+"Rūpa"
+],
+"Root": [
+"ᱨᱮᱦᱮᱫ",
+"Jar̤a"
+],
+"Seed": [
+"ᱡᱟᱝ",
+"Haḍḍī"
+],
+"Soil": [
+"ᱦᱟᱥᱟ",
+"Miṭṭī"
+],
+"Stone": [
+"ᱛᱷᱤᱨᱤ",
+"Caṭṭāna"
+],
+"Fire": [
+"ᱥᱮᱜᱮᱞ",
+"Āga"
+],
+"Earth": [
+"ᱛᱷᱟᱨᱛᱤ",
+"Dharatī"
+],
+"Weather": [
+"ᱦᱚᱭ ᱦᱤᱥᱤᱫ",
+"Mausama"
+],
+"Horse": [
+"ᱥᱟᱫᱚᱢ",
+"Ghor̤ā"
+],
+"Goat": [
+"ᱢᱮᱨᱚᱢ",
+"Bakarī"
+],
+"Sheep": [
+"ᱵᱷᱮᱹᱲᱟᱹ",
+"Bher̤a"
+],
+"Pig": [
+"ᱥᱩᱠᱨᱤ",
+"Suara kā mā~sa"
+],
+"Hen": [
+"ᱥᱤᱢ ᱥᱤᱢ",
+"Cikana cikana."
+],
+"Duck": [
+"ᱜᱮᱹᱰᱮ",
+"Battakha"
+],
+"Elephant": [
+"ᱦᱟᱛᱤ",
+"Hāthī"
+],
+"Lion": [
+"ᱠᱩᱞ",
+"Bhejanā"
+],
+"Tiger": [
+"ᱛᱟᱨᱩᱵ",
+"Cītā"
+],
+"Monkey": [
+"ᱜᱟᱬᱤ",
+"Baṃdara"
+],
+"Snake": [
+"ᱵᱤᱹᱱ",
+"Sā~pa"
+],
+"Insect": [
+"ᱛᱮᱡᱹ",
+"Kīr̤ā"
+],
+"Butterfly": [
+"ᱯᱤᱯᱤᱲᱤᱡᱟᱝ",
+"Titalī"
+],
+"Bee": [
+"ᱧᱮᱞᱮ",
+"Madhumakkhī"
+],
+"Ant": [
+"ᱞᱮᱸᱜᱟ",
+"Bāeṃ|"
+],
+"Mosquito": [
+"ᱥᱤᱠᱟ",
+"Sikke."
+],
+"Spider": [
+"ᱠᱚᱠᱚᱨ",
+"Ullū"
+],
+"Crow": [
+"ᱠᱟᱦᱩ",
+"Kauā"
+],
+"Peacock": [
+"ᱢᱚᱭᱨᱩ",
+"Mora"
+],
+"Parrot": [
+"ᱢᱤᱨᱩ",
+"Totā"
+],
+"Sparrow": [
+"ᱥᱯᱮᱨᱳ",
+"Gauraiyā."
+],
+"Eagle": [
+"ᱠᱩᱬᱩᱫ",
+"Garur̤a"
+],
+"Owl": [
+"ᱠᱚᱠᱚᱨ",
+"Ullū"
+],
+"Pigeon": [
+"ᱯᱟᱣᱨᱟ",
+"Kabūtara"
+],
+"Swan": [
+"ᱥᱳᱱ",
+"Śaॉna"
+],
+"Crocodile": [
+"ᱜᱳᱰᱳ",
+"Cūhā"
+],
+"Tortoise": [
+"ᱦᱚᱲᱢᱚ ᱦᱚᱲᱢᱚ",
+"Svastha śarīra."
+],
+"Frog": [
+"ᱨᱮᱴᱚ",
+"Meṃḍhaka"
+],
+"Lizard": [
+"ᱪᱮᱨᱪᱮᱴᱮᱡ",
+"Chipakalī"
+],
+"Rose": [
+"ᱜᱩᱞᱟᱯ",
+"Gulāba"
+],
+"Lotus": [
+"ᱠᱚᱢᱞᱟᱥ",
+"Lotus"
+],
+"Jasmine": [
+"ᱡᱟᱥᱢᱤᱱ",
+"Camelī"
+],
+"Marigold": [
+"ᱢᱮᱨᱤᱜᱚᱞᱰ",
+"Geṃde kā phūla|"
+],
+"Sunflower": [
+"ᱥᱩᱨᱩᱢ ᱵᱟᱦᱟ",
+"Sūrajamukhī"
+],
+"Lily": [
+"ᱞᱤᱞᱤ",
+"Lilī"
+],
+"Daisy": [
+"ᱰᱮᱡᱤ",
+"Gulabahāra"
+],
+"Tulip": [
+"ᱴᱩᱞᱤᱯ",
+"Ṭyūlipa"
+],
+"Oak": [
+"ᱚᱠ",
+"Balūta"
+],
+"Pine": [
+"ᱯᱟᱭᱤᱱ",
+"Cīr̤a"
+],
+"Bamboo": [
+"ᱵᱟᱥ",
+"Basa"
+],
+"Palm": [
+"ᱛᱤ",
+"Hātha"
+],
+"Cactus": [
+"ᱠᱮᱠᱴᱚᱥ",
+"Kaikṭasa."
+],
+"Bush": [
+"ᱜᱟᱡᱟᱲ",
+"Jhār̤ī"
+],
+"Plant": [
+"ᱫᱟᱨᱮ",
+"Paudhā"
+],
+"Farm": [
+"ᱠᱷᱮᱛ",
+"Kheta"
+],
+"Field": [
+"ᱴᱟᱱᱰᱤ",
+"Maidāna"
+],
+"Lake": [
+"ᱜᱟᱰᱟ",
+"Jhīla"
+],
+"Sea": [
+"ᱫᱟᱨᱭᱟ",
+"Samudra"
+],
+"Ocean": [
+"ᱫᱚᱨᱭᱟ",
+"Mahāsāgara"
+],
+"Beach": [
+"ᱫᱷᱟᱨᱮ ᱵᱮᱰᱟ",
+"Samudra taṭa"
+],
+"Island": [
+"ᱫᱤᱯ",
+"Dvīpa"
+],
+"Valley": [
+"ᱵᱷᱮᱞᱤ",
+"Ghāṭī"
+],
+"Desert": [
+"ᱜᱤᱛᱤᱞ ᱡᱟᱭᱜᱟ",
+"Registāna"
+],
+"Snow": [
+"ᱵᱚᱨᱚᱯᱷ",
+"Barpha"
+],
+"Storm": [
+"ᱦᱭ-ᱫᱟᱹ",
+"Āṃdhī"
+],
+"Thunder": [
+"ᱵᱤᱡᱞᱤ",
+"Gar̤agar̤āhaṭa"
+],
+"Rainbow": [
+"ᱥᱟᱸᱫᱷᱟ",
+"Sarāya|"
+],
+"Red": [
+"ᱟᱨᱟᱜ",
+"Lāla"
+],
+"Blue": [
+"ᱞᱤᱞ",
+"Nīlā"
+],
+"Green": [
+"ᱱᱤᱨᱚᱱ",
+"Śarada ṛtu"
+],
+"Yellow": [
+"ᱥᱟᱥᱟᱹᱝ",
+"Pīlā"
+],
+"White": [
+"ᱯᱩᱬ",
+"Safeda"
+],
+"Black": [
+"ᱦᱮᱹᱫᱮ",
+"Kālā"
+],
+"Colour": [
+"ᱨᱚᱝ",
+"Ra~ganā"
+],
+"Pink": [
+"ᱤᱩᱭᱩᱫ",
+"Gulābī"
+],
+"Purple": [
+"ᱯᱟᱨᱯᱞ",
+"Baiṃganī"
+],
+"Brown": [
+"ᱠᱷᱭᱮᱨ",
+"Bhūrā"
+],
+"Grey": [
+"ᱛᱷᱩᱥᱚᱨ",
+"Sleṭī"
+],
+"Golden": [
+"ᱥᱚᱱᱟ ᱞᱮᱠᱟᱱ",
+"Svarṇa prakāra"
+],
+"Silver": [
+"ᱨᱩᱹᱯᱟ",
+"Cā~dī"
+],
+"Dark": [
+"ᱧᱩᱛᱩᱢ",
+"Nāma"
+],
+"Bright": [
+"ᱢᱟᱨᱥᱟᱞ",
+"Rośanī"
+],
+"Pale": [
+"ᱦᱟᱞᱠᱟ",
+"Thor̤ā"
+],
+"Shade": [
+"ᱪᱟᱣ",
+"Chāyā"
+],
+"Tone": [
+"ᱥᱩᱨ",
+"Pāsa meṃ"
+],
+"Dye": [
+"ᱨᱚᱝ",
+"Ra~ganā"
+],
+"Paint": [
+"ᱨᱚᱝ",
+"Ra~ganā"
+],
+"Sky blue": [
+"ᱥᱮᱨᱢᱟ ᱞᱤᱞ",
+"Āsamānī nīlā."
+],
+"Navy blue": [
+"ᱱᱮᱵᱷᱤ ᱞᱤᱞ",
+"Gaharā nīlā|"
+],
+"Lime": [
+"ᱪᱩᱱᱩ",
+"Nīṃbū"
+],
+"Cream": [
+"ᱠᱨᱤᱢ",
+"Krīma"
+],
+"Beige": [
+"ᱵᱤᱡᱽ",
+"Biza"
+],
+"Maroon": [
+"ᱢᱟᱨᱩᱱ",
+"Lāla raṃga"
+],
+"Crimson": [
+"ᱠᱨᱤᱢᱥᱚᱱ",
+"Gaharā lāla"
+],
+"Turquoise": [
+"ᱯᱷᱟᱨᱠᱩᱭᱤᱡᱽ",
+"Firozā."
+],
+"Violet": [
+"ᱵᱮᱝᱜᱟᱲ",
+"Baiṃganī"
+],
+"Indigo": [
+"ᱤᱱᱰᱤᱜᱳ",
+"Nīla"
+],
+"Magenta": [
+"ᱢᱮᱡᱮᱱᱴᱟ",
+"Majeṃṭā;"
+],
+"Cyan": [
+"ᱥᱟᱭᱟᱱ",
+"Siyāna"
+],
+"Teal": [
+"ᱴᱤᱞ",
+"Ṭīla"
+],
+"Olive": [
+"ᱚᱞᱤᱵᱷ",
+"Jaitūna"
+],
+"Coral": [
+"ᱠᱚᱨᱟᱞ",
+"Mūṃgā"
+],
+"Peach": [
+"ᱟᱱᱰᱩ",
+"Ār̤ū"
+],
+"Lavender": [
+"ᱞᱮᱵᱷᱮᱱᱰᱟᱨ",
+"Laiveṃḍara."
+],
+"Mint": [
+"ᱯᱩᱸᱰᱟ",
+"Pudīnā"
+],
+"Ivory": [
+"ᱟᱭᱵᱷᱚᱨᱤ",
+"Hāthī dāṃta"
+],
+"Charcoal": [
+"ᱠᱚᱭᱞᱟ",
+"Koyalā"
+],
+"Rust": [
+"ᱡᱷᱟᱹᱞ",
+"Dūrī"
+],
+"Burgundy": [
+"ᱵᱟᱨᱜᱩᱱᱰᱤ",
+"Baragaṃḍī"
+],
+"Mustard": [
+"ᱥᱤᱨᱦᱟᱹ",
+"Sarasoṃ"
+],
+"Saffron": [
+"ᱠᱮᱯᱷᱨᱚᱱ",
+"Bhagavā."
+],
+"Tan": [
+"ᱴᱟᱱ",
+"Ṭaina"
+],
+"Khaki": [
+"ᱠᱟᱠᱤ",
+"Cācī"
+],
+"Transparent": [
+"ᱯᱟᱨᱚᱵᱷᱟᱣ",
+"Pāradarśī"
+],
+"Opaque": [
+"ᱚᱯᱮᱠ",
+"Opeka"
+],
+"Shiny": [
+"ᱥᱟᱭᱱᱤ",
+"Camakadāra"
+],
+"Dull": [
+"ᱧᱩᱞᱩ ᱧᱩᱞᱩ",
+"Udāsīna"
+],
+"Matte": [
+"ᱢᱮᱴ",
+"Maiṭa"
+],
+"Glossy": [
+"ᱪᱟᱢᱠᱟᱜ",
+"Camakadāra."
+],
+"Striped": [
+"ᱥᱴᱨᱟᱭᱤᱯᱰ",
+"Dhārīdāra"
+],
+"Spotted": [
+"ᱥᱯᱚᱴᱮᱰ",
+"Dhabbedāra"
+],
+"Plain": [
+"ᱰᱟᱸᱰᱤ",
+"Maidāna"
+],
+"Pattern": [
+"ᱱᱟᱢᱩᱱᱟ",
+"Namūnā"
+],
+"Multicoloured": [
+"ᱟᱭᱢᱟ ᱨᱚᱝ",
+"Aneka raṃga."
+],
+"Colourful": [
+"ᱨᱚᱝᱜᱤᱱ",
+"Raṃgīna."
+],
+"Colourless": [
+"ᱵᱤᱱ ᱨᱚᱝ",
+"Raṃgahīna"
+],
+"Match": [
+"ᱢᱤᱞᱮᱣ",
+"Milāna"
+],
+"Contrast": [
+"ᱟᱞᱟᱰᱟ",
+"Aṃtara"
+],
+"Blend": [
+"ᱢᱮᱹᱥᱟ",
+"Milānā"
+],
+"Mix": [
+"ᱢᱮᱥᱟᱭ ᱢᱮ",
+"Bhesa"
+],
+"Primary": [
+"ᱯᱚᱤᱭᱞᱚ",
+"Prāthamika"
+],
+"Secondary": [
+"ᱫᱚᱫᱟᱨᱟᱱᱟᱜ",
+"Mādhyamika"
+],
+"Warm": [
+"ᱞᱚᱞᱚ",
+"Garama"
+],
+"Cool": [
+"ᱨᱮᱭᱟᱲ",
+"Ṭhaṃḍā"
+],
+"Neutral": [
+"ᱥᱚᱢᱟᱱ",
+"Samatala"
+],
+"Vivid": [
+"ᱩᱡᱡᱚᱞ",
+"Jīvaṃta"
+],
+"Faded": [
+"ᱯᱷᱮᱰᱰ",
+"Phīkā"
+],
+"Matching": [
+"ᱢᱮᱪᱤᱝ",
+"Mela milānā|"
+],
+"Clashing": [
+"ᱛᱟᱯᱟᱢ",
+"Jhagar̤ā karanā"
+],
+"Tint": [
+"ᱴᱤᱱᱴ",
+"Ṭiṃṭa|"
+],
+"Hue": [
+"ᱦᱩᱭ",
+"Honā"
+],
+"Pigment": [
+"ᱯᱤᱜᱽᱢᱮᱱᱴ",
+"Raṃga"
+],
+"Ink": [
+"ᱠᱟᱞᱤ",
+"Āīenake"
+],
+"Crayon": [
+"ᱠᱨᱮᱭᱚᱱ",
+"Kreyaॉna;"
+],
+"Brush": [
+"ᱵᱮᱨᱟᱥ",
+"Braśa"
+],
+"Canvas": [
+"ᱠᱮᱱᱵᱟᱥ",
+"Kainavāsa"
+],
+"Picture": [
+"ᱪᱤᱛᱟᱹᱨ",
+"Citra"
+],
+"Image": [
+"ᱪᱤᱛᱟᱨ",
+"Tasvīra"
+],
+"Beautiful": [
+"ᱪᱚᱨᱚᱠ",
+"Suṃdara"
+],
+"Ugly": [
+"ᱵᱤᱱ ᱢᱳᱡ",
+"Kurūpa"
+],
+"Pretty": [
+"ᱪᱚᱨᱚᱠ",
+"Suṃdara"
+],
+"Elegant": [
+"ᱦᱩᱰᱤᱧ",
+"Thor̤ā"
+],
+"Style": [
+"ᱥᱟᱡᱟᱣ",
+"Vyavasthita karanā"
+],
+"What": [
+"ᱪᱫ ᱪᱮᱫ",
+"Kyā"
+],
+"Who": [
+"ᱚᱠᱚᱭ",
+"Kauna"
+],
+"Where": [
+"ᱚᱠᱟᱨᱮ",
+"Kahā~"
+],
+"When": [
+"ᱛᱤᱨᱮ",
+"Kaba"
+],
+"Why": [
+"ᱪᱫᱟ ᱪᱮᱫᱟᱜ",
+"Kyoṃ"
+],
+"How": [
+"ᱪᱮᱛᱞᱮᱠᱟ ᱪᱮᱫᱞᱮᱠᱟ",
+"Kaise"
+],
+"This": [
+"ᱱᱚᱣᱟ",
+"Yaha"
+],
+"That": [
+"ᱚᱱᱟ",
+"Vaha"
+],
+"Problem": [
+"ᱚᱥᱩᱵᱤᱛᱷᱟ",
+"Saṃkaṭa"
+],
+"Help": [
+"ᱜᱚᱲᱚ",
+"Sahāyatā"
+],
+"Which": [
+"ᱚᱠᱟᱴᱟᱹ",
+"Kauna"
+],
+"Whose": [
+"ᱚᱠᱚᱭ",
+"Kauna"
+],
+"Whom": [
+"ᱚᱠᱭ",
+"Kisako"
+],
+"Whether": [
+"ᱪᱮᱫ ᱪᱚ",
+"Cāhe"
+],
+"Question": [
+"ᱠᱩᱠᱞᱤ",
+"Savāla"
+],
+"Answer": [
+"ᱛᱮᱞᱟ",
+"Uttara"
+],
+"Ask": [
+"ᱠᱩᱞᱤ",
+"Pūchanā"
+],
+"Tell": [
+"ᱞᱟᱹᱭ",
+"Kahanā"
+],
+"Say": [
+"ᱞᱟᱹᱭ",
+"Kahanā"
+],
+"Reply": [
+"ᱛᱮᱞᱟ ᱨᱩᱣᱮᱲ",
+"Javāba"
+],
+"Explain": [
+"ᱵᱤᱵᱚᱨᱚᱱ",
+"Vyākhyā karanā"
+],
+"Describe": [
+"ᱵᱤᱵᱚᱨᱚᱱ",
+"Vyākhyā karanā"
+],
+"Mean": [
+"ᱢᱟᱱᱮ",
+"Artha"
+],
+"Reason": [
+"ᱠᱟᱨᱚᱱ",
+"Kyoṃki"
+],
+"Cause": [
+"ᱠᱟᱨᱚᱱ",
+"Kyoṃki"
+],
+"Result": [
+"ᱚᱨᱡᱚ",
+"Pariṇāma"
+],
+"Fact": [
+"ᱰᱚᱜᱚᱨ",
+"Tathya"
+],
+"Truth": [
+"ᱥᱟᱲᱤ",
+"Saca"
+],
+"Lie": [
+"ᱮᱲᱮ",
+"Jhūṭha"
+],
+"Opinion": [
+"ᱢᱚᱱᱚᱛ",
+"Rāya"
+],
+"Perhaps": [
+"ᱯᱟᱥᱮᱜ",
+"Śāyada"
+],
+"Probably": [
+"ᱯᱟᱥᱮᱜ",
+"Śāyada"
+],
+"Definitely": [
+"ᱠᱷᱟᱹᱴᱤᱜᱮ",
+"Bilkula"
+],
+"Absolutely": [
+"ᱠᱷᱟᱹᱴᱤ ᱜᱮ",
+"Bilkula"
+],
+"Exactly": [
+"ᱠᱷᱟᱹᱴᱤ",
+"Zarūra"
+],
+"Wrong": [
+"ᱵᱷᱩᱞ",
+"Galata"
+],
+"True": [
+"ᱥᱟᱹᱨᱤ",
+"Satya"
+],
+"False": [
+"ᱮᱲᱮ",
+"Jhūṭha"
+],
+"Correct": [
+"ᱥᱟᱹᱦᱤ",
+"Sahī"
+],
+"Incorrect": [
+"ᱵᱷᱩᱞ",
+"Galata"
+],
+"Same": [
+"ᱢᱤᱫ",
+"Vahī"
+],
+"Different": [
+"ᱵᱮᱜᱟᱨ",
+"Alaga"
+],
+"Similar": [
+"ᱢᱮᱞᱮᱜ ᱞᱮᱠᱟᱱᱟᱜ",
+"Samāna"
+],
+"Possible": [
+"ᱦᱚᱭ ᱫᱟᱲᱤᱭᱟᱜ-ᱟ",
+"Saṃbhava"
+],
+"Impossible": [
+"ᱵᱟᱝᱜᱟᱱᱚᱹ",
+"Asaṃbhava"
+],
+"Necessary": [
+"ᱞᱟᱠᱛᱤ",
+"Mahatvapūrṇa"
+],
+"Important": [
+"ᱞᱟᱠᱛᱤ",
+"Mahatvapūrṇa"
+],
+"Optional": [
+"ᱚᱯᱥᱚᱱ",
+"Vikalpa"
+],
+"Choice": [
+"ᱠᱩᱥᱤ",
+"Sukhada"
+],
+"Option": [
+"ᱚᱯᱥᱚᱱ",
+"Vikalpa"
+],
+"Decision": [
+"ᱴᱷᱟᱹᱣᱠᱟᱹ",
+"Faisalā"
+],
+"Idea": [
+"ᱵᱷᱟᱵᱱᱟ",
+"Vicāra"
+],
+"Thought": [
+"ᱪᱤᱱᱛᱟ",
+"Socā"
+],
+"Mind": [
+"ᱢᱚᱱ",
+"Dimāga"
+],
+"Because": [
+"ᱠᱟᱨᱚᱱ",
+"Kyoṃki"
+],
+"Therefore": [
+"ᱚᱱᱟᱛᱮ",
+"Yadyapi"
+],
+"However": [
+"ᱡᱟᱦᱟᱞᱮᱠᱟ",
+"Phira bhī"
+],
+"Although": [
+"ᱢᱮᱱᱠᱷᱟᱱ",
+"Lekina"
+],
+"Unless": [
+"ᱡᱚᱠᱷᱚᱱ ᱦᱟᱵᱤᱜ",
+"Jaba taka"
+],
+"Until": [
+"ᱦᱟᱵᱤᱜ",
+"Jaba taka"
+],
+"If": [
+"ᱡᱩᱫᱤ",
+"Agara"
+],
+"Then": [
+"ᱚᱱᱟ ᱛᱟᱭᱱᱚᱢ",
+"Taba"
+],
+"So": [
+"ᱛᱚᱵᱮ",
+"Isalie"
+],
+"But": [
+"ᱢᱮᱱᱠᱷᱟᱱ",
+"Lekina"
+],
+"And": [
+"ᱟᱨ",
+"Aura"
+],
+"Or": [
+"ᱥᱮ",
+"Yā"
+],
+"Nor": [
+"ᱵᱟᱝ",
+"Nahīṃ"
+],
+"Yet": [
+"ᱱᱤᱛ ᱦᱟᱵᱤᱜ",
+"Abhī taka"
+],
+"Still": [
+"ᱱᱤᱛ ᱦᱚᱸ",
+"Phira bhī"
+],
+"Already": [
+"ᱯᱟᱦᱤᱞ ᱠᱷᱚᱱ",
+"Pahale se"
+],
+"Again": [
+"ᱫᱚᱦᱚᱲᱟ",
+"Dobārā"
+],
+"Also": [
+"ᱟᱨ ᱦᱚᱸ",
+"Bhī"
+],
+"Too": [
+"ᱦᱚᱸ",
+"Bahuta"
+],
+"Either": [
+"ᱡᱟᱦᱟᱱ ᱴᱟᱜ ᱢᱤᱫ ᱴᱟᱝ",
+"Donoṃ meṃ se eka"
+],
+"Neither": [
+"ᱟᱰᱮ-ᱯᱟᱥᱮ",
+"Koī bhī nahīṃ"
+],
+"Both": [
+"ᱵᱟᱱᱟᱨ",
+"Donoṃ"
+],
+"Only": [
+"ᱮᱠᱮᱱ",
+"Kevala"
+],
+"Just": [
+"ᱱᱤᱛ",
+"Abhī"
+],
+"Even": [
+"ᱮᱱ ᱛᱮ ᱨᱮᱦᱚᱸ",
+"Yahāṃ taka ​​kī"
+],
+"Almost": [
+"ᱞᱚᱜᱵᱷᱚᱜ",
+"Lagabhaga"
+],
+"Quite": [
+"ᱰᱷᱮᱨ",
+"Paryāpta"
+],
+"Very": [
+"ᱟᱰᱤ",
+"Bahuta"
+],
+"Really": [
+"ᱥᱟᱹᱨᱤᱜᱮ",
+"Vāstava meṃ"
+]
+}
