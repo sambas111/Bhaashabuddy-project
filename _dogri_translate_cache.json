@@ -1,0 +1,5618 @@
+{
+"Hello": [
+"नमस्कार",
+"Namaskāra"
+],
+"Good morning": [
+"शुभ सवेर",
+"Śubha savera"
+],
+"Good afternoon": [
+"शुभ दपैहर",
+"Śubha dapaihara"
+],
+"Good evening": [
+"शुभ सं'ञ",
+"Śubha saṃ'ña"
+],
+"Good night": [
+"शुभ रात्रि",
+"Śubha rātri"
+],
+"Welcome": [
+"सुआगत",
+"Suāgata"
+],
+"How are you?": [
+"थुआढ़ा केह् हाल ऐ?",
+"Thuār̤hā keh hāla ai?"
+],
+"I am fine": [
+"में ठीक आं",
+"Meṃ ṭhīka āṃ"
+],
+"What is your name?": [
+"थुआढ़ा केह् नांऽ ऐ?",
+"Thuār̤hā keh nāṃ' ai?"
+],
+"My name is...": [
+"मेरा नां ऐ...",
+"Merā nāṃ ai..."
+],
+"Nice to meet you": [
+"थुआढ़े कन्नै मिलियै चंगा लग्गा",
+"Thuār̤he kannai miliyai caṃgā laggā"
+],
+"Thank you": [
+"थुआढ़ा धन्नवाद",
+"Thuār̤hā dhannavāda"
+],
+"Please": [
+"किरपा करियै",
+"Kirapā kariyai"
+],
+"Sorry": [
+"माफ करो",
+"Māpha karo"
+],
+"Goodbye": [
+"अलविदा",
+"Alavidā"
+],
+"See you": [
+"फ्ही मिलने आं",
+"Phhī milane āṃ"
+],
+"Take care": [
+"ध्यान रक्खेओ",
+"Dhyāna rakkheo"
+],
+"Happy Birthday": [
+"सालगिरह् मबारक",
+"Sālagirah mabāraka"
+],
+"Happy Diwali": [
+"दिवाली की हार्दिक शुभकामनाएं",
+"Divālī kī hārdika śubhakāmanāeṃ"
+],
+"I love you": [
+"में तुगी हिरख करना",
+"Meṃ tugī hirakha karanā"
+],
+"Get well soon": [
+"तौैले ठीक होई जाहगेओ",
+"Tauaile ṭhīka hoī jāhageo"
+],
+"Good day": [
+"दिन चंगा होए",
+"Dina caṃgā hoe"
+],
+"How do you do?": [
+"तुस कियां ओ?",
+"Tusa kiyāṃ o?"
+],
+"Pleased to meet you": [
+"तुहाडे नाल मिल के खुश होया",
+"Tuhāḍe nāla mila ke khuśa hoyā"
+],
+"Excuse me": [
+"मिगी माफ करेओ",
+"Migī māpha kareo"
+],
+"Bless you": [
+"आशीर्वाद दे",
+"Āśīrvāda de"
+],
+"Congratulations": [
+"बधाई",
+"Badhāī"
+],
+"Happy New Year": [
+"नमें ब'रे दी मबारक",
+"Nameṃ ba're dī mabāraka"
+],
+"Best wishes": [
+"शुभकामनाएं",
+"Śubhakāmanāeṃ"
+],
+"Take care of yourself": [
+"अपना ख्याल रखना",
+"Apanā khyāla rakhanā"
+],
+"I missed you": [
+"याद आया तेरी",
+"Yāda āyā terī"
+],
+"Long time no see": [
+"बड़े टैम थमां नेईं मिले",
+"Bar̤e ṭaima thamāṃ neīṃ mile"
+],
+"Where have you been?": [
+"कित्थे गए हो?",
+"Kitthe gae ho?"
+],
+"I am happy to see you": [
+"तुहानूं वेख के मैं खुश हां",
+"Tuhānūṃ vekha ke maiṃ khuśa hāṃ"
+],
+"Come again": [
+"फिर आओ",
+"Phira āo"
+],
+"Stay in touch": [
+"संपर्क में बने रहो",
+"Saṃparka meṃ bane raho"
+],
+"Give my regards to...": [
+"मेरा नमस्कार दे...",
+"Merā namaskāra de..."
+],
+"Say hello to...": [
+"नमस्ते करो...",
+"Namaste karo..."
+],
+"Have a good day": [
+"तुंदा दिन शुभ होए",
+"Tuṃdā dina śubha hoe"
+],
+"Have a safe journey": [
+"सुरक्षित सफर करो",
+"Surakṣita saphara karo"
+],
+"Good luck": [
+"कामयाबी",
+"Kāmayābī"
+],
+"All the best": [
+"शुभकामनां",
+"Śubhakāmanāṃ"
+],
+"Well done": [
+"बड़ा शैल",
+"Bar̤ā śaila"
+],
+"You are kind": [
+"तुस मेहरबान हो",
+"Tusa meharabāna ho"
+],
+"I appreciate it": [
+"मैं इसदी सराहना करदा हां",
+"Maiṃ isadī sarāhanā karadā hāṃ"
+],
+"That is very nice": [
+"जो बड़ा शैल ऐ",
+"Jo bar̤ā śaila ai"
+],
+"You are welcome": [
+"थुआढ़ा सुआगत ऐ",
+"Thuār̤hā suāgata ai"
+],
+"Do not mention it": [
+"इसदा जिक्र मत करो",
+"Isadā jikra mata karo"
+],
+"It was nothing": [
+"कुछ बी नशीॊ था",
+"Kucha bī naśīò thā"
+],
+"I am grateful": [
+"मैं आभारी हां",
+"Maiṃ ābhārī hāṃ"
+],
+"Many thanks": [
+"बहुत बहुत धन्यवाद",
+"Bahuta bahuta dhanyavāda"
+],
+"Thanks a lot": [
+"बहुत बहुत धन्यवाद",
+"Bahuta bahuta dhanyavāda"
+],
+"I owe you one": [
+"मैं तुहाडे इक दा कर्जा हां",
+"Maiṃ tuhāḍe ika dā karjā hāṃ"
+],
+"Forgive me": [
+"माफ कर दे",
+"Māpha kara de"
+],
+"My apologies": [
+"मेरी माफी",
+"Merī māphī"
+],
+"It was my fault": [
+"कसूर मेरा ही था",
+"Kasūra merā hī thā"
+],
+"No worries": [
+"कोई चिंता नहीं",
+"Koī ciṃtā nahīṃ"
+],
+"Do not be sorry": [
+"अफसोस मत करो",
+"Aphasosa mata karo"
+],
+"We are friends": [
+"असी दोस्त हां",
+"Asī dosta hāṃ"
+],
+"May I come in?": [
+"क्या मैं अंदर आ सकदा हां?",
+"Kyā maiṃ aṃdara ā sakadā hāṃ?"
+],
+"Please sit down": [
+"कृपया बैठ जाओ",
+"Kṛpayā baiṭha jāo"
+],
+"Make yourself at home": [
+"अपने आप को घर में बनाये",
+"Apane āpa ko ghara meṃ banāye"
+],
+"Would you like tea?": [
+"क्या तुसें गी चाय पसंद ऐ?",
+"Kyā tuseṃ gī cāya pasaṃda ai?"
+],
+"I am from India": [
+"मैं भारत दा हां",
+"Maiṃ bhārata dā hāṃ"
+],
+"Where are you from?": [
+"तुस कुत्थै रौंहदे ओ?",
+"Tusa kutthai rauṃhade o?"
+],
+"I live in...": [
+"मैं जींदा हां...",
+"Maiṃ jīṃdā hāṃ..."
+],
+"What do you do?": [
+"तुस केह् करदे ओ?",
+"Tusa keh karade o?"
+],
+"I am a student": [
+"मैं इक विद्यार्थी हां",
+"Maiṃ ika vidyārthī hāṃ"
+],
+"I work in...": [
+"मैं कम्म करदा हां...",
+"Maiṃ kamma karadā hāṃ..."
+],
+"This is my friend": [
+"ये मेरा यार है",
+"Ye merā yāra hai"
+],
+"Meet my family": [
+"मेरे परिवार कन्ने मिलिए",
+"Mere parivāra kanne milie"
+],
+"How is your family?": [
+"तुहाडा परिवार केहड़ा हाल ऐ?",
+"Tuhāḍā parivāra kehar̤ā hāla ai?"
+],
+"Everyone is fine": [
+"सब ठीक ऐ",
+"Saba ṭhīka ai"
+],
+"I have to go now": [
+"अब जाना है",
+"Aba jānā hai"
+],
+"Can we meet tomorrow?": [
+"क्या कल मिल सकदे हां?",
+"Kyā kala mila sakade hāṃ?"
+],
+"Let us meet soon": [
+"आओ जल्दी मिलिए",
+"Āo jaldī milie"
+],
+"I will call you": [
+"मैं तुहानूं फोन करां",
+"Maiṃ tuhānūṃ phona karāṃ"
+],
+"Here is my number": [
+"यहां मेरा नंबर है",
+"Yahāṃ merā naṃbara hai"
+],
+"Keep in touch": [
+"संपर्क में बने रहो",
+"Saṃparka meṃ bane raho"
+],
+"Until we meet again": [
+"जदूं तकर अस दुबारा नेईं मिलगे",
+"Jadūṃ takara asa dubārā neīṃ milage"
+],
+"I will never forget you": [
+"मैं तुहानू कदे नहीं भुलना",
+"Maiṃ tuhānū kade nahīṃ bhulanā"
+],
+"You mean a lot to me": [
+"तुहाडा मेरे वास्ते बहुत मतलब है",
+"Tuhāḍā mere vāste bahuta matalaba hai"
+],
+"I care about you": [
+"मैं तुहाडी परवाह करदा हां",
+"Maiṃ tuhāḍī paravāha karadā hāṃ"
+],
+"Thank you for everything": [
+"हर गल्ल दा शुक्रिया",
+"Hara galla dā śukriyā"
+],
+"I could not have done it without you": [
+"तुहाडे बगैर मैं एह् नेईं करी सकदा हा",
+"Tuhāḍe bagaira maiṃ eh neīṃ karī sakadā hā"
+],
+"You are very helpful": [
+"तुस बड़ी मददगार ओ",
+"Tusa bar̤ī madadagāra o"
+],
+"I am proud of you": [
+"तुहाडे ते गर्व करदा हां",
+"Tuhāḍe te garva karadā hāṃ"
+],
+"Bless you and your family": [
+"तुसें ते तुंदे परिवार गी आशीर्वाद देओ",
+"Tuseṃ te tuṃde parivāra gī āśīrvāda deo"
+],
+"Wishing you happiness": [
+"खुशियाँ शुभकामनाएं",
+"Khuśiyā~ śubhakāmanāeṃ"
+],
+"Where is the station?": [
+"स्टेशन कित्थे ऐ?",
+"Sṭeśana kitthe ai?"
+],
+"Take me to the station": [
+"स्टेशन पर ले जाओ",
+"Sṭeśana para le jāo"
+],
+"Where is the hospital?": [
+"अस्पताल कित्थे ऐ?",
+"Aspatāla kitthe ai?"
+],
+"Go straight": [
+"सीधा जाओ",
+"Sīdhā jāo"
+],
+"Turn left": [
+"बाएं मुड़ जाओ",
+"Bāeṃ mur̤a jāo"
+],
+"Turn right": [
+"दाएं मुड़ जाओ",
+"Dāeṃ mur̤a jāo"
+],
+"Stop here": [
+"यहां रुक जाओ",
+"Yahāṃ ruka jāo"
+],
+"How far is it?": [
+"किन्नी दूर ऐ?",
+"Kinnī dūra ai?"
+],
+"I am lost": [
+"मैं खोया हां",
+"Maiṃ khoyā hāṃ"
+],
+"Where is the toilet?": [
+"शौचालय कित्थे है?",
+"Śaucālaya kitthe hai?"
+],
+"Bon voyage": [
+"बोन यात्रा",
+"Bona yātrā"
+],
+"Where is the bus stop?": [
+"बस स्टॉप कित्थे ऐ?",
+"Basa sṭaॉpa kitthe ai?"
+],
+"One ticket to...": [
+"इक टिकट दा...",
+"Ika ṭikaṭa dā..."
+],
+"When does the bus leave?": [
+"बस कदूं निकलदी ऐ?",
+"Basa kadūṃ nikaladī ai?"
+],
+"Is this seat free?": [
+"क्या ए सीट मुफ्त ऐ?",
+"Kyā e sīṭa muphta ai?"
+],
+"Next stop please": [
+"अगला स्टॉप प्लीज",
+"Agalā sṭaॉpa plīja"
+],
+"I need a map": [
+"मेनू इक नक्शा चाहिदा",
+"Menū ika nakśā cāhidā"
+],
+"Where can I get a taxi?": [
+"टैक्सी कित्थे मिल सकदी ऐ?",
+"Ṭaiksī kitthe mila sakadī ai?"
+],
+"Please slow down": [
+"कृपया धीमा कर दे",
+"Kṛpayā dhīmā kara de"
+],
+"Airport": [
+"एयरपोर्ट",
+"Eyaraporṭa"
+],
+"Where is the luggage?": [
+"सामान कित्थे ऐ?",
+"Sāmāna kitthe ai?"
+],
+"I have a reservation": [
+"मेरे कोल आरक्षण ऐ",
+"Mere kola ārakṣaṇa ai"
+],
+"Which platform?": [
+"किस प्लेटफार्म दा ?",
+"Kisa pleṭaphārma dā ?"
+],
+"Is there a direct bus?": [
+"क्या कोई सीधी बस ऐ?",
+"Kyā koī sīdhī basa ai?"
+],
+"How long does it take?": [
+"किन्ना समां लगदा ऐ?",
+"Kinnā samāṃ lagadā ai?"
+],
+"I am travelling alone": [
+"मैं अकेला सफर करदा हां",
+"Maiṃ akelā saphara karadā hāṃ"
+],
+"Can you show me on the map?": [
+"क्या तुस मिगी नक्शे उप्पर दस्सी सकदे ओ?",
+"Kyā tusa migī nakśe uppara dassī sakade o?"
+],
+"Is it safe here?": [
+"क्या इत्थे सुरक्षित ऐ?",
+"Kyā itthe surakṣita ai?"
+],
+"I need a room": [
+"मिगी इक कमरा लोड़चदा ऐ",
+"Migī ika kamarā lor̤acadā ai"
+],
+"Do you have a single room?": [
+"तुहाडे कोल इक कमरा ऐ?",
+"Tuhāḍe kola ika kamarā ai?"
+],
+"Check-in time?": [
+"चेक-इन दा समां ?",
+"Ceka-ina dā samāṃ ?"
+],
+"Check-out time?": [
+"चेक-आउट दा टैम ?",
+"Ceka-āuṭa dā ṭaima ?"
+],
+"Is breakfast included?": [
+"क्या नाश्ता बी शामल ऐ ?",
+"Kyā nāśtā bī śāmala ai ?"
+],
+"Where is the beach?": [
+"समुंदरी किनारा कित्थे ऐ?",
+"Samuṃdarī kinārā kitthe ai?"
+],
+"I want to rent a car": [
+"मैं इक कार किराए पर लेना चाहंदा हां",
+"Maiṃ ika kāra kirāe para lenā cāhaṃdā hāṃ"
+],
+"Fill the tank please": [
+"टंकी भरें प्लीज",
+"Ṭaṃkī bhareṃ plīja"
+],
+"Where is the petrol pump?": [
+"पेट्रोल पम्प कित्थे ऐ?",
+"Peṭrola pampa kitthe ai?"
+],
+"Can I walk there?": [
+"क्या मैं उथे चल सकदा हां?",
+"Kyā maiṃ uthe cala sakadā hāṃ?"
+],
+"Is it within walking distance?": [
+"क्या ए पैदल दूरी दे अंदर ऐ ?",
+"Kyā e paidala dūrī de aṃdara ai ?"
+],
+"Which way to the temple?": [
+"किस रास्ते मंदिर तक?",
+"Kisa rāste maṃdira taka?"
+],
+"I am looking for a hotel": [
+"मैं इक होटल दी तलाश च हां",
+"Maiṃ ika hoṭala dī talāśa ca hāṃ"
+],
+"Do you have a guide?": [
+"तुहाडे कोल कोई गाइड ऐ?",
+"Tuhāḍe kola koī gāiḍa ai?"
+],
+"How much for a tour?": [
+"इक दौरे दे वास्ते किन्ना?",
+"Ika daure de vāste kinnā?"
+],
+"I would like to visit...": [
+"मैं दौरा करना चाहुंदा हां...",
+"Maiṃ daurā karanā cāhuṃdā hāṃ..."
+],
+"What is this place called?": [
+"इस जगह दा केह आखदे ने?",
+"Isa jagaha dā keha ākhade ne?"
+],
+"Is photography allowed?": [
+"क्या फोटोग्राफी दी इजाजत ऐ ?",
+"Kyā phoṭogrāphī dī ijājata ai ?"
+],
+"Where is the exit?": [
+"निकास कित्थे ऐ?",
+"Nikāsa kitthe ai?"
+],
+"Where is the entrance?": [
+"प्रवेश द्वार कित्थे ऐ?",
+"Praveśa dvāra kitthe ai?"
+],
+"Is there a lift?": [
+"क्या कोई लिफ्ट ऐ?",
+"Kyā koī liphṭa ai?"
+],
+"Ground floor": [
+"ग्राउंड फ्लोर",
+"Grāuṃḍa phlora"
+],
+"First floor": [
+"पहली मंजिल",
+"Pahalī maṃjila"
+],
+"Where is the parking?": [
+"पार्किंग कित्थे ऐ?",
+"Pārkiṃga kitthe ai?"
+],
+"I need a SIM card": [
+"सिम कार्ड दी लोड़ ऐ",
+"Sima kārḍa dī lor̤a ai"
+],
+"Where can I exchange money?": [
+"मैं कित्थे पैसे दा आदान-प्रदान कर सकदा हां?",
+"Maiṃ kitthe paise dā ādāna-pradāna kara sakadā hāṃ?"
+],
+"What is the exchange rate?": [
+"विनिमय दर केह् ऐ ?",
+"Vinimaya dara keh ai ?"
+],
+"I need a plug adapter": [
+"मिगी इक प्लग एडाप्टर दी लोड़ ऐ",
+"Migī ika plaga eḍāpṭara dī lor̤a ai"
+],
+"Where is the embassy?": [
+"दूतावास कित्थे ऐ?",
+"Dūtāvāsa kitthe ai?"
+],
+"I lost my passport": [
+"मेरा पासपोर्ट खोया",
+"Merā pāsaporṭa khoyā"
+],
+"I need to see a doctor": [
+"डाक्टर कोल जाने दी लोड़ ऐ",
+"Ḍākṭara kola jāne dī lor̤a ai"
+],
+"Call an ambulance": [
+"एम्बुलेंस गी फोन करो",
+"Embuleṃsa gī phona karo"
+],
+"Where is the pharmacy?": [
+"दवाई दी दुकान कित्थे ऐ?",
+"Davāī dī dukāna kitthe ai?"
+],
+"I have travel insurance": [
+"मेरे कोल यात्रा बीमा ऐ",
+"Mere kola yātrā bīmā ai"
+],
+"Scenic route": [
+"दर्शनीय रूट",
+"Darśanīya rūṭa"
+],
+"Local market": [
+"लोकल मार्केट",
+"Lokala mārkeṭa"
+],
+"Traditional food": [
+"पारंपरिक खाना",
+"Pāraṃparika khānā"
+],
+"Famous monument": [
+"प्रसिद्ध स्मारक",
+"Prasiddha smāraka"
+],
+"Historical place": [
+"ऐतिहासिक थां",
+"Aitihāsika thāṃ"
+],
+"Opening hours?": [
+"खुलने दा समां ?",
+"Khulane dā samāṃ ?"
+],
+"Is it open today?": [
+"अज्ज खुल्ली दी ऐ?",
+"Ajja khullī dī ai?"
+],
+"Entrance fee?": [
+"प्रवेश शुल्क ?",
+"Praveśa śulka ?"
+],
+"Student discount?": [
+"छात्र छूट?",
+"Chātra chūṭa?"
+],
+"Free entry?": [
+"मुफ्त एंट्री ?",
+"Muphta eṃṭrī ?"
+],
+"Can you take a photo?": [
+"क्या तुस फोटो खिच्ची सकदे ओ?",
+"Kyā tusa phoṭo khiccī sakade o?"
+],
+"Beautiful view": [
+"सुन्दर नज़ारा",
+"Sundara nazārā"
+],
+"I am on holiday": [
+"मैं छुट्टी पर हां",
+"Maiṃ chuṭṭī para hāṃ"
+],
+"Business trip": [
+"बिजनेस ट्रिप",
+"Bijanesa ṭripa"
+],
+"Round trip": [
+"गोल यात्रा",
+"Gola yātrā"
+],
+"One way": [
+"इक तरफा",
+"Ika taraphā"
+],
+"Window seat please": [
+"खिड़की सीट प्लीज",
+"Khir̤akī sīṭa plīja"
+],
+"Aisle seat please": [
+"गलियारे सीट प्लीज",
+"Galiyāre sīṭa plīja"
+],
+"No smoking": [
+"सिगरेट पीना ना",
+"Sigareṭa pīnā nā"
+],
+"Luggage allowance?": [
+"सामान भत्ता ?",
+"Sāmāna bhattā ?"
+],
+"Boarding pass": [
+"बोर्डिंग पास",
+"Borḍiṃga pāsa"
+],
+"Gate number?": [
+"गेट नंबर ?",
+"Geṭa naṃbara ?"
+],
+"Delayed": [
+"चिरें",
+"Cireṃ"
+],
+"Cancelled": [
+"रद्द कर दी गई",
+"Radda kara dī gaī"
+],
+"On time": [
+"वक्त पर",
+"Vakta para"
+],
+"Customs": [
+"रवाज",
+"Ravāja"
+],
+"Nothing to declare": [
+"घोषणा करने के लरए कुछ बी नशीॊ",
+"Ghoṣaṇā karane ke larae kucha bī naśīò"
+],
+"Souvenir": [
+"स्मारिका",
+"Smārikā"
+],
+"Local specialty": [
+"लोकल स्पेशलिटी",
+"Lokala speśaliṭī"
+],
+"Recommend a restaurant": [
+"रेस्टोरेंट दी सिफारिश करो",
+"Resṭoreṃṭa dī siphāriśa karo"
+],
+"Safe journey": [
+"सुरक्षित सफर",
+"Surakṣita saphara"
+],
+"Water": [
+"पानी",
+"Pānī"
+],
+"Food": [
+"रुट्टी",
+"Ruṭṭī"
+],
+"I am hungry": [
+"मैं भूखे हां",
+"Maiṃ bhūkhe hāṃ"
+],
+"Cooked rice": [
+"पके चावल",
+"Pake cāvala"
+],
+"Tea": [
+"चाह्",
+"Cāh"
+],
+"Coffee": [
+"काफी",
+"Kāphī"
+],
+"Please give me water": [
+"प्लीज पानी दे दे",
+"Plīja pānī de de"
+],
+"The food is delicious": [
+"खाना स्वादिष्ट होंदा ऐ",
+"Khānā svādiṣṭa hoṃdā ai"
+],
+"I am vegetarian": [
+"मैं शाकाहारी हां",
+"Maiṃ śākāhārī hāṃ"
+],
+"Bill please": [
+"बिल प्लीज",
+"Bila plīja"
+],
+"Have a nice meal": [
+"अच्छा खाना खाओ",
+"Acchā khānā khāo"
+],
+"I am thirsty": [
+"मैं प्यास करदा हां",
+"Maiṃ pyāsa karadā hāṃ"
+],
+"One cup of tea": [
+"इक कप चाय",
+"Ika kapa cāya"
+],
+"No sugar please": [
+"ना चीनी प्लीज",
+"Nā cīnī plīja"
+],
+"Less spicy please": [
+"कम मसालेदार प्लीज",
+"Kama masāledāra plīja"
+],
+"Too hot": [
+"बहुत ही गरम",
+"Bahuta hī garama"
+],
+"I am full": [
+"मैं भरा हां",
+"Maiṃ bharā hāṃ"
+],
+"Menu please": [
+"मेनू प्लीज",
+"Menū plīja"
+],
+"What do you recommend?": [
+"तुस की सिफारिश करदे ओ ?",
+"Tusa kī siphāriśa karade o ?"
+],
+"Today's special?": [
+"आज का स्पेशल?",
+"Āja kā speśala?"
+],
+"Is this vegetarian?": [
+"क्या ए शाकाहारी ऐ?",
+"Kyā e śākāhārī ai?"
+],
+"I have an allergy": [
+"मिगी एलर्जी ऐ",
+"Migī elarjī ai"
+],
+"No onion no garlic": [
+"ना प्याज ना लहसुन",
+"Nā pyāja nā lahasuna"
+],
+"Pack this to go": [
+"इस पैक करने के लिए",
+"Isa paika karane ke lie"
+],
+"Table for two": [
+"दो लोकें लेई तालिका",
+"Do lokeṃ leī tālikā"
+],
+"Can I have the bill?": [
+"क्या मैं बिल पा सकदा हां?",
+"Kyā maiṃ bila pā sakadā hāṃ?"
+],
+"Is service included?": [
+"क्या सेवा शामल ऐ ?",
+"Kyā sevā śāmala ai ?"
+],
+"Keep the change": [
+"बदलाव रखना",
+"Badalāva rakhanā"
+],
+"This is cold": [
+"एह् ठंड ऐ",
+"Eh ṭhaṃḍa ai"
+],
+"Can I get a refill?": [
+"क्या मैं रिफिल पाई सकदा हां?",
+"Kyā maiṃ riphila pāī sakadā hāṃ?"
+],
+"Breakfast": [
+"न्हारी",
+"Nhārī"
+],
+"Lunch": [
+"सब्हैरी",
+"Sabhairī"
+],
+"Dinner": [
+"रातीं दी रुट्टी",
+"Rātīṃ dī ruṭṭī"
+],
+"Snack": [
+"स्नैक",
+"Snaika"
+],
+"Dessert": [
+"मठेआई",
+"Maṭheāī"
+],
+"Starter": [
+"स्टार्टर",
+"Sṭārṭara"
+],
+"Main course": [
+"मेन कोर्स",
+"Mena korsa"
+],
+"Soup": [
+"सूप",
+"Sūpa"
+],
+"Salad": [
+"सलाद दा",
+"Salāda dā"
+],
+"Rice and curry": [
+"चावल ते करी",
+"Cāvala te karī"
+],
+"Roti": [
+"रोटी",
+"Roṭī"
+],
+"Dal": [
+"दल",
+"Dala"
+],
+"Vegetable curry": [
+"सब्जी करी",
+"Sabjī karī"
+],
+"Fish curry": [
+"मछली करी",
+"Machalī karī"
+],
+"Chicken": [
+"कुक्कड़ू",
+"Kukkar̤ū"
+],
+"Egg": [
+"अंडा",
+"Aṃḍā"
+],
+"Paneer": [
+"पनीर जी",
+"Panīra jī"
+],
+"Yogurt": [
+"दही",
+"Dahī"
+],
+"Pickle": [
+"अचार",
+"Acāra"
+],
+"Chutney": [
+"चटनी",
+"Caṭanī"
+],
+"Sweet": [
+"मिट्ठा",
+"Miṭṭhā"
+],
+"Ice cream": [
+"आईस क्रीम",
+"Āīsa krīma"
+],
+"Fresh juice": [
+"ताजा रस",
+"Tājā rasa"
+],
+"Cold drink": [
+"कोल्ड ड्रिंक",
+"Kolḍa ḍriṃka"
+],
+"Hot milk": [
+"गरम दूध",
+"Garama dūdha"
+],
+"Green tea": [
+"हरी चाय",
+"Harī cāya"
+],
+"Black coffee": [
+"काली कॉफी",
+"Kālī kaॉphī"
+],
+"Mineral water": [
+"खनिज पानी",
+"Khanija pānī"
+],
+"No ice": [
+"कोई बर्फ नहीं",
+"Koī barpha nahīṃ"
+],
+"Extra napkins": [
+"एक्स्ट्रा नैपकिन",
+"Eksṭrā naipakina"
+],
+"Raw": [
+"कच्चा",
+"Kaccā"
+],
+"Cooked": [
+"पकाया",
+"Pakāyā"
+],
+"Fried": [
+"तला हुआ",
+"Talā huā"
+],
+"Boiled": [
+"उबले हुए",
+"Ubale hue"
+],
+"Spicy": [
+"मसालेदार",
+"Masāledāra"
+],
+"Sour": [
+"खट्टा",
+"Khaṭṭā"
+],
+"Bitter": [
+"कौड़ा",
+"Kaur̤ā"
+],
+"Tasty": [
+"सुआदला",
+"Suādalā"
+],
+"Tasteless": [
+"बेस्वाद",
+"Besvāda"
+],
+"Fresh": [
+"ताजा",
+"Tājā"
+],
+"Stale": [
+"बासी",
+"Bāsī"
+],
+"Hot": [
+"तत्ता",
+"Tattā"
+],
+"Cold": [
+"ठंडा",
+"Ṭhaṃḍā"
+],
+"I cannot eat this": [
+"मैं एह् नेईं खाइयै",
+"Maiṃ eh neīṃ khāiyai"
+],
+"Different dish please": [
+"अलग अलग पकवान कृपया",
+"Alaga alaga pakavāna kṛpayā"
+],
+"Same again": [
+"फिर वही",
+"Phira vahī"
+],
+"Half portion": [
+"आधा हिस्सा",
+"Ādhā hissā"
+],
+"Large portion": [
+"बड़ा हिस्सा",
+"Bar̤ā hissā"
+],
+"Small portion": [
+"छोटा सा हिस्सा",
+"Choṭā sā hissā"
+],
+"For here or to go?": [
+"इत्थे आस्ते या जाने आस्ते?",
+"Itthe āste yā jāne āste?"
+],
+"Eat slowly": [
+"धीरे-धीरे खाओ",
+"Dhīre-dhīre khāo"
+],
+"Cheers!": [
+"तालियां!",
+"Tāliyāṃ!"
+],
+"To your health": [
+"तुंदी सेहत गी",
+"Tuṃdī sehata gī"
+],
+"Enjoy your meal": [
+"अपने खाने दा मजा लैओ",
+"Apane khāne dā majā laio"
+],
+"It smells good": [
+"अच्छी गंध आंदी ऐ",
+"Acchī gaṃdha āṃdī ai"
+],
+"Too salty": [
+"बहुत नमकीन",
+"Bahuta namakīna"
+],
+"Perfect": [
+"पूरण",
+"Pūraṇa"
+],
+"Compliments to the chef": [
+"शेफ दी तारीफ",
+"Śepha dī tārīpha"
+],
+"How much is this?": [
+"एह् किन्ना ऐ?",
+"Eh kinnā ai?"
+],
+"That's too expensive": [
+"कि बड़ा महंगा ऐ",
+"Ki bar̤ā mahaṃgā ai"
+],
+"Cheap": [
+"सस्ता",
+"Sastā"
+],
+"Give me one kg rice": [
+"इक किलो चावल दे",
+"Ika kilo cāvala de"
+],
+"Do you have a bag?": [
+"तुहाडे कोल कोई बैग है?",
+"Tuhāḍe kola koī baiga hai?"
+],
+"OK I'll take it": [
+"ठीक है मैं ले जाऊंगा",
+"Ṭhīka hai maiṃ le jāūṃgā"
+],
+"Can you reduce the price?": [
+"क्या तुस कीमत घट्ट करी सकदे ओ?",
+"Kyā tusa kīmata ghaṭṭa karī sakade o?"
+],
+"Give me a discount": [
+"छूट दे दे",
+"Chūṭa de de"
+],
+"Final price?": [
+"अंतिम कीमत ?",
+"Aṃtima kīmata ?"
+],
+"I am just looking": [
+"मैं तां बस देखदा हां",
+"Maiṃ tāṃ basa dekhadā hāṃ"
+],
+"Do you have this in red?": [
+"क्या तुहाडे कोल ए लाल रंग च ऐ?",
+"Kyā tuhāḍe kola e lāla raṃga ca ai?"
+],
+"Do you have a bigger size?": [
+"क्या तुहाडे कोल इस तों वी वड्डा साइज है?",
+"Kyā tuhāḍe kola isa toṃ vī vaḍḍā sāija hai?"
+],
+"Do you have a smaller size?": [
+"क्या तुहाडे कोल इस तों वी छोटा साइज है?",
+"Kyā tuhāḍe kola isa toṃ vī choṭā sāija hai?"
+],
+"Can I try this on?": [
+"क्या मैं इस पर कोशिश कर सकदा हां?",
+"Kyā maiṃ isa para kośiśa kara sakadā hāṃ?"
+],
+"Where is the fitting room?": [
+"फिटिंग रूम कित्थे ऐ?",
+"Phiṭiṃga rūma kitthe ai?"
+],
+"I will pay by card": [
+"कार्ड दे जरिए भुगतान करगा",
+"Kārḍa de jarie bhugatāna karagā"
+],
+"Do you accept cards?": [
+"क्या तुस कार्ड स्वीकार करदे ओ ?",
+"Kyā tusa kārḍa svīkāra karade o ?"
+],
+"Cash only": [
+"नकद ही",
+"Nakada hī"
+],
+"Do you have change?": [
+"क्या तुहाडे कोल बदलाव आया ऐ?",
+"Kyā tuhāḍe kola badalāva āyā ai?"
+],
+"Receipt please": [
+"रसीद जरूर दे",
+"Rasīda jarūra de"
+],
+"Gift wrap please": [
+"गिफ्ट लपेटें प्लीज",
+"Giphṭa lapeṭeṃ plīja"
+],
+"Where do I pay?": [
+"मैं कित्थे भुगतान करां?",
+"Maiṃ kitthe bhugatāna karāṃ?"
+],
+"Is there a warranty?": [
+"क्या कोई वारंटी ऐ ?",
+"Kyā koī vāraṃṭī ai ?"
+],
+"Can I return this?": [
+"क्या मैं इसगी वापस करी सकना ऐ?",
+"Kyā maiṃ isagī vāpasa karī sakanā ai?"
+],
+"Exchange only": [
+"एक्सचेंज ही",
+"Eksaceṃja hī"
+],
+"Out of stock": [
+"स्टॉक से बाहर",
+"Sṭaॉka se bāhara"
+],
+"When will it arrive?": [
+"कदूं औग ?",
+"Kadūṃ auga ?"
+],
+"Order": [
+"तरतीब",
+"Taratība"
+],
+"Delivery": [
+"सपुर्दगी",
+"Sapurdagī"
+],
+"Free delivery?": [
+"मुफ्त डिलीवरी?",
+"Muphta ḍilīvarī?"
+],
+"Supermarket": [
+"सुपरमार्केट च",
+"Suparamārkeṭa ca"
+],
+"Market": [
+"बजार",
+"Bajāra"
+],
+"Shop": [
+"हट्टी",
+"Haṭṭī"
+],
+"Mall": [
+"माल",
+"Māla"
+],
+"Bakery": [
+"बेकरी",
+"Bekarī"
+],
+"Pharmacy": [
+"दवाई की दुकान",
+"Davāī kī dukāna"
+],
+"Bookstore": [
+"किताबें दी दुकान",
+"Kitābeṃ dī dukāna"
+],
+"Clothing store": [
+"कपड़े दी दुकान",
+"Kapar̤e dī dukāna"
+],
+"Shoe shop": [
+"जूते की दुकान",
+"Jūte kī dukāna"
+],
+"Jewellery shop": [
+"गहने की दुकान",
+"Gahane kī dukāna"
+],
+"Electronics store": [
+"इलेक्ट्रॉनिक्स दा स्टोर",
+"Ilekṭraॉniksa dā sṭora"
+],
+"Open": [
+"खु'ल्ला",
+"Khu'llā"
+],
+"Closed": [
+"बंद हो गया",
+"Baṃda ho gayā"
+],
+"Sale": [
+"सेल",
+"Sela"
+],
+"Half price": [
+"आधी कीमत",
+"Ādhī kīmata"
+],
+"Buy one get one": [
+"इक खरीदें इक पाओ",
+"Ika kharīdeṃ ika pāo"
+],
+"Clearance": [
+"सफाई दी",
+"Saphāī dī"
+],
+"New arrival": [
+"नई आगमन",
+"Naī āgamana"
+],
+"Best seller": [
+"बेस्ट सेलर",
+"Besṭa selara"
+],
+"Limited edition": [
+"सीमित संस्करण",
+"Sīmita saṃskaraṇa"
+],
+"Original": [
+"मूल",
+"Mūla"
+],
+"Copy": [
+"नकल करो",
+"Nakala karo"
+],
+"Brand": [
+"ब्रांड",
+"Brāṃḍa"
+],
+"Quality": [
+"म्यार",
+"Myāra"
+],
+"Cheap quality": [
+"सस्ती क्वालिटी",
+"Sastī kvāliṭī"
+],
+"Good quality": [
+"अच्छी क्वालिटी",
+"Acchī kvāliṭī"
+],
+"Expensive": [
+"मैंहगा",
+"Maiṃhagā"
+],
+"Affordable": [
+"सस्ती",
+"Sastī"
+],
+"Bargain": [
+"सौदा",
+"Saudā"
+],
+"Negotiate": [
+"गल्ल-बात करना",
+"Galla-bāta karanā"
+],
+"I need...": [
+"मिगी लोड़ ऐ...",
+"Migī lor̤a ai..."
+],
+"Show me that": [
+"मुझे देखो कि",
+"Mujhe dekho ki"
+],
+"Anything else?": [
+"कोई होर गल्ल?",
+"Koī hora galla?"
+],
+"That is all": [
+"बस इतना ही है",
+"Basa itanā hī hai"
+],
+"I will think about it": [
+"मैं इस बारे च सोचना",
+"Maiṃ isa bāre ca socanā"
+],
+"I will come back": [
+"मैं वापस आऊंगा",
+"Maiṃ vāpasa āūṃgā"
+],
+"Do you have another colour?": [
+"तुहाडे कोल इक होर रंग ऐ?",
+"Tuhāḍe kola ika hora raṃga ai?"
+],
+"Only this left": [
+"सिर्फ एह् गै बची गेआ",
+"Sirpha eh gai bacī geā"
+],
+"Last piece": [
+"आखरी टुकड़ा",
+"Ākharī ṭukar̤ā"
+],
+"Reserve this for me": [
+"इस गी मेरे लेई आरक्षित करो",
+"Isa gī mere leī ārakṣita karo"
+],
+"Put it on hold": [
+"इसे रोक दे",
+"Ise roka de"
+],
+"Cancel my order": [
+"मेरा आर्डर रद्द करो",
+"Merā ārḍara radda karo"
+],
+"Track my order": [
+"मेरा आर्डर ट्रैक करो",
+"Merā ārḍara ṭraika karo"
+],
+"Wrong size": [
+"गलत साइज",
+"Galata sāija"
+],
+"Defective": [
+"दोषपूर्ण",
+"Doṣapūrṇa"
+],
+"Refund": [
+"रकम-बापसी",
+"Rakama-bāpasī"
+],
+"Complaint": [
+"शकैत",
+"Śakaita"
+],
+"Manager": [
+"मैनजर",
+"Mainajara"
+],
+"Customer service": [
+"ग्राहक सेवा",
+"Grāhaka sevā"
+],
+"Help desk": [
+"हेल्प डेस्क",
+"Helpa ḍeska"
+],
+"Counter": [
+"जवाबी",
+"Javābī"
+],
+"Queue": [
+"कतार",
+"Katāra"
+],
+"Waiting": [
+"बलगना",
+"Balaganā"
+],
+"Next please": [
+"अगला प्लीज",
+"Agalā plīja"
+],
+"Hurry": [
+"तौल",
+"Taula"
+],
+"No rush": [
+"कोई हड़बड़ी नहीं",
+"Koī har̤abar̤ī nahīṃ"
+],
+"Take your time": [
+"अपना टाइम निकालें",
+"Apanā ṭāima nikāleṃ"
+],
+"Have a nice day": [
+"थुआढ़ा दिन शुभ होए",
+"Thuār̤hā dina śubha hoe"
+],
+"Thank you for shopping": [
+"खरीददारी करने दा शुक्रिया",
+"Kharīdadārī karane dā śukriyā"
+],
+"Help!": [
+"मदाद!",
+"Madāda!"
+],
+"Stop!": [
+"रुको!",
+"Ruko!"
+],
+"Call the police!": [
+"पुलिस गी फोन करो !",
+"Pulisa gī phona karo !"
+],
+"Fire!": [
+"अग्ग!",
+"Agga!"
+],
+"I need a doctor": [
+"मिगी इक डाक्टर दी लोड़ ऐ",
+"Migī ika ḍākṭara dī lor̤a ai"
+],
+"I'm sick": [
+"मैं बीमार हां",
+"Maiṃ bīmāra hāṃ"
+],
+"It's an emergency": [
+"इमरजेंसी ऐ",
+"Imarajeṃsī ai"
+],
+"There has been an accident": [
+"हादसा हो चुका है",
+"Hādasā ho cukā hai"
+],
+"I have been robbed": [
+"लूट दी गई है",
+"Lūṭa dī gaī hai"
+],
+"Someone is following me": [
+"कोई मेरे पीछे चल रहा है",
+"Koī mere pīche cala rahā hai"
+],
+"I lost my child": [
+"मैं अपना बच्चा खोया",
+"Maiṃ apanā baccā khoyā"
+],
+"I need medicine": [
+"दवाई दी लोड़ ऐ",
+"Davāī dī lor̤a ai"
+],
+"I have pain here": [
+"इत्थे दर्द है",
+"Itthe darda hai"
+],
+"I am allergic to...": [
+"मैं एलर्जी करदा हां...",
+"Maiṃ elarjī karadā hāṃ..."
+],
+"I have fever": [
+"बुखार हो गया",
+"Bukhāra ho gayā"
+],
+"I have a headache": [
+"सिर च दर्द होया ऐ",
+"Sira ca darda hoyā ai"
+],
+"I have stomach ache": [
+"मेरे पेट च दर्द ऐ",
+"Mere peṭa ca darda ai"
+],
+"I cannot breathe": [
+"मैं सांस नहीं ले सकदा",
+"Maiṃ sāṃsa nahīṃ le sakadā"
+],
+"Bleeding": [
+"खून बहना",
+"Khūna bahanā"
+],
+"Broken bone": [
+"टूटी हड्डी",
+"Ṭūṭī haḍḍī"
+],
+"Burn": [
+"छाल्ला",
+"Chāllā"
+],
+"Bite": [
+"टक्क मारना",
+"Ṭakka māranā"
+],
+"Poison": [
+"जैहर",
+"Jaihara"
+],
+"Drowning": [
+"डूबना",
+"Ḍūbanā"
+],
+"Unconscious": [
+"बे-होश",
+"Be-hośa"
+],
+"Heart attack": [
+"दिल दा दौरा",
+"Dila dā daurā"
+],
+"Stay calm": [
+"शांत रहो",
+"Śāṃta raho"
+],
+"Do not move": [
+"ना हिलना",
+"Nā hilanā"
+],
+"Police station": [
+"थाना",
+"Thānā"
+],
+"Fire station": [
+"फायर स्टेशन",
+"Phāyara sṭeśana"
+],
+"Ambulance": [
+"एम्बुलेंस",
+"Embuleṃsa"
+],
+"Doctor": [
+"डाक्टर",
+"Ḍākṭara"
+],
+"Nurse": [
+"नर्स",
+"Narsa"
+],
+"Medicine": [
+"दुआई",
+"Duāī"
+],
+"First aid": [
+"प्राथमिक चिकित्सा",
+"Prāthamika cikitsā"
+],
+"Bandage": [
+"पट्टी पट्टी",
+"Paṭṭī paṭṭī"
+],
+"Antiseptic": [
+"एंटीसेप्टिक",
+"Eṃṭīsepṭika"
+],
+"Painkiller": [
+"दर्द निवारक दवा",
+"Darda nivāraka davā"
+],
+"Injection": [
+"इंजेक्शन देना",
+"Iṃjekśana denā"
+],
+"Blood": [
+"लहू",
+"Lahū"
+],
+"Blood bank": [
+"ब्लड बैंक",
+"Blaḍa baiṃka"
+],
+"Operation": [
+"अपरेशन",
+"Apareśana"
+],
+"ICU": [
+"आईसीयू",
+"Āīsīyū"
+],
+"Ward": [
+"वार्ड ने दी",
+"Vārḍa ne dī"
+],
+"Emergency room": [
+"इमरजेंसी कक्ष",
+"Imarajeṃsī kakṣa"
+],
+"X-ray": [
+"एक्स-रे कर दे",
+"Eksa-re kara de"
+],
+"Report": [
+"रिपोर्ट",
+"Riporṭa"
+],
+"Prescription": [
+"पर्चे दा",
+"Parce dā"
+],
+"Insurance": [
+"बीमा",
+"Bīmā"
+],
+"Contact number": [
+"संपर्क नंबर",
+"Saṃparka naṃbara"
+],
+"Next of kin": [
+"अगले रिश्तेदार",
+"Agale riśtedāra"
+],
+"Identity": [
+"पंछान",
+"Paṃchāna"
+],
+"Passport": [
+"पासपोर्ट दा",
+"Pāsaporṭa dā"
+],
+"Address": [
+"पता",
+"Patā"
+],
+"Phone": [
+"फोन",
+"Phona"
+],
+"Quick!": [
+"फौरन!",
+"Phaurana!"
+],
+"Hurry up!": [
+"तौल करो!",
+"Taula karo!"
+],
+"Safe": [
+"सुरक्खत",
+"Surakkhata"
+],
+"Danger": [
+"खतरा",
+"Khatarā"
+],
+"Warning": [
+"चेतावनी",
+"Cetāvanī"
+],
+"Caution": [
+"चौकसी",
+"Caukasī"
+],
+"Exit": [
+"बाहर",
+"Bāhara"
+],
+"Entrance": [
+"दुआठन",
+"Duāṭhana"
+],
+"Evacuate": [
+"खाली कर दे",
+"Khālī kara de"
+],
+"Assembly point": [
+"विधानसभा बिंदु",
+"Vidhānasabhā biṃdu"
+],
+"Do not enter": [
+"प्रवेश ना करो",
+"Praveśa nā karo"
+],
+"No entry": [
+"कोई एंट्री नहीं",
+"Koī eṃṭrī nahīṃ"
+],
+"Restricted area": [
+"प्रतिबंधित क्षेत्र",
+"Pratibaṃdhita kṣetra"
+],
+"Keep away": [
+"दूर रहो",
+"Dūra raho"
+],
+"Do not touch": [
+"छूने ना",
+"Chūne nā"
+],
+"High voltage": [
+"हाई वोल्टेज",
+"Hāī volṭeja"
+],
+"Flammable": [
+"ज्वलनशील",
+"Jvalanaśīla"
+],
+"Toxic": [
+"जैहरीला",
+"Jaiharīlā"
+],
+"Corrosive": [
+"संक्षारक",
+"Saṃkṣāraka"
+],
+"Slippery": [
+"फिसलने वाला",
+"Phisalane vālā"
+],
+"Fragile": [
+"नाजक",
+"Nājaka"
+],
+"Handle with care": [
+"सावधानी कन्नै संभालो",
+"Sāvadhānī kannai saṃbhālo"
+],
+"Emergency exit": [
+"आपातकालीन निकास",
+"Āpātakālīna nikāsa"
+],
+"Fire extinguisher": [
+"आग बुझाने आला",
+"Āga bujhāne ālā"
+],
+"First aid kit": [
+"प्राथमिक चिकित्सा किट",
+"Prāthamika cikitsā kiṭa"
+],
+"Emergency number": [
+"इमरजेंसी नंबर",
+"Imarajeṃsī naṃbara"
+],
+"Helpline": [
+"हेल्पलाइन",
+"Helpalāina"
+],
+"Lost and found": [
+"खोया मिल गया",
+"Khoyā mila gayā"
+],
+"Missing person": [
+"लापता व्यक्ति",
+"Lāpatā vyakti"
+],
+"Report to police": [
+"पुलिस गी रिपोर्ट करो",
+"Pulisa gī riporṭa karo"
+],
+"Stay with me": [
+"मेरे साथ रहो",
+"Mere sātha raho"
+],
+"Everything will be fine": [
+"सब ठीक हो जावेगा",
+"Saba ṭhīka ho jāvegā"
+],
+"What time is it?": [
+"किन्ना वक्त ऐ?",
+"Kinnā vakta ai?"
+],
+"Morning": [
+"बड़ला",
+"Bar̤alā"
+],
+"Evening": [
+"तरकालां",
+"Tarakālāṃ"
+],
+"Night": [
+"रात",
+"Rāta"
+],
+"Today": [
+"अज्ज",
+"Ajja"
+],
+"Tomorrow": [
+"औंदे कल",
+"Auṃde kala"
+],
+"Yesterday": [
+"पिछले रोज",
+"Pichale roja"
+],
+"Now": [
+"हूनै",
+"Hūnai"
+],
+"Sunday": [
+"ऐतवार",
+"Aitavāra"
+],
+"Monday": [
+"सोमवार",
+"Somavāra"
+],
+"Tuesday": [
+"मंगलवार",
+"Maṃgalavāra"
+],
+"Wednesday": [
+"बुधवार",
+"Budhavāra"
+],
+"Thursday": [
+"बीरवार",
+"Bīravāra"
+],
+"Friday": [
+"शुक्रवार",
+"Śukravāra"
+],
+"Saturday": [
+"शनिवार",
+"Śanivāra"
+],
+"Week": [
+"हफ्ता",
+"Haphtā"
+],
+"Month": [
+"म्हीना",
+"Mhīnā"
+],
+"Year": [
+"ब'रा",
+"Ba'rā"
+],
+"Early morning": [
+"सवेरे सवेरे",
+"Savere savere"
+],
+"Noon": [
+"दपैह्‌र",
+"Dapaih‌ra"
+],
+"Midnight": [
+"अद्धी रात",
+"Addhī rāta"
+],
+"Hour": [
+"घैंटा",
+"Ghaiṃṭā"
+],
+"Minute": [
+"मिंट्‌ट",
+"Miṃṭ‌ṭa"
+],
+"Second": [
+"दूआ",
+"Dūā"
+],
+"Late": [
+"चिरें",
+"Cireṃ"
+],
+"Early": [
+"सबेला",
+"Sabelā"
+],
+"Before": [
+"पैहलें",
+"Paihaleṃ"
+],
+"After": [
+"बाद च",
+"Bāda ca"
+],
+"January": [
+"जनवरी",
+"Janavarī"
+],
+"February": [
+"फरवरी",
+"Pharavarī"
+],
+"March": [
+"मार्च",
+"Mārca"
+],
+"April": [
+"अप्रैल",
+"Apraila"
+],
+"May": [
+"होई सकदा",
+"Hoī sakadā"
+],
+"June": [
+"जून",
+"Jūna"
+],
+"July": [
+"जुलाई",
+"Julāī"
+],
+"August": [
+"अगस्त",
+"Agasta"
+],
+"September": [
+"सितंबर",
+"Sitaṃbara"
+],
+"October": [
+"अक्तूबर",
+"Aktūbara"
+],
+"November": [
+"नवंबर",
+"Navaṃbara"
+],
+"December": [
+"दिसंबर",
+"Disaṃbara"
+],
+"Spring": [
+"ब्हार",
+"Bhāra"
+],
+"Summer": [
+"सोहा",
+"Sohā"
+],
+"Monsoon": [
+"मानसून दा",
+"Mānasūna dā"
+],
+"Winter": [
+"स्याल",
+"Syāla"
+],
+"Season": [
+"रुत्त",
+"Rutta"
+],
+"Holiday": [
+"छुट्टी",
+"Chuṭṭī"
+],
+"Festival": [
+"त्यहार",
+"Tyahāra"
+],
+"Birthday": [
+"साल-गिरह",
+"Sāla-giraha"
+],
+"Anniversary": [
+"सालगिरह्",
+"Sālagirah"
+],
+"Appointment": [
+"मुलाकात",
+"Mulākāta"
+],
+"Meeting": [
+"मलाटी",
+"Malāṭī"
+],
+"Deadline": [
+"समें-सीमा",
+"Sameṃ-sīmā"
+],
+"Schedule": [
+"शिडयूल",
+"Śiḍayūla"
+],
+"Free time": [
+"खाली वक्त",
+"Khālī vakta"
+],
+"Busy": [
+"मसरूफ",
+"Masarūpha"
+],
+"Available": [
+"दस्तयाब",
+"Dastayāba"
+],
+"Not available": [
+"उपलब्ध नहीं",
+"Upalabdha nahīṃ"
+],
+"At what time?": [
+"किस वक्त?",
+"Kisa vakta?"
+],
+"Until when?": [
+"कब तक?",
+"Kaba taka?"
+],
+"From when?": [
+"कदूं तों?",
+"Kadūṃ toṃ?"
+],
+"How long?": [
+"कितनी देर?",
+"Kitanī dera?"
+],
+"A long time": [
+"लंबा समय तक",
+"Laṃbā samaya taka"
+],
+"A short time": [
+"थोड़ी देर",
+"Thor̤ī dera"
+],
+"Just now": [
+"अभी अभी",
+"Abhī abhī"
+],
+"A while ago": [
+"थोड़ी देर पहले",
+"Thor̤ī dera pahale"
+],
+"In a moment": [
+"एक पल में",
+"Eka pala meṃ"
+],
+"Wait a minute": [
+"इक मिनट रुको",
+"Ika minaṭa ruko"
+],
+"See you later": [
+"बाद च मिलने आं",
+"Bāda ca milane āṃ"
+],
+"See you tomorrow": [
+"कल मिलने आं",
+"Kala milane āṃ"
+],
+"See you next week": [
+"अगले हफ्ते मिलिए",
+"Agale haphte milie"
+],
+"Every day": [
+"हर रोज",
+"Hara roja"
+],
+"Every week": [
+"हर हफ्ते",
+"Hara haphte"
+],
+"Once a week": [
+"हफ्ते च इक बारी",
+"Haphte ca ika bārī"
+],
+"Twice a day": [
+"दिन च दो बारी",
+"Dina ca do bārī"
+],
+"All day": [
+"सारा दिन",
+"Sārā dina"
+],
+"All night": [
+"सारी रात",
+"Sārī rāta"
+],
+"Day after tomorrow": [
+"कल के बाद के दिन",
+"Kala ke bāda ke dina"
+],
+"Day before yesterday": [
+"कल से एक दिन पहले",
+"Kala se eka dina pahale"
+],
+"Next month": [
+"अगले महीने",
+"Agale mahīne"
+],
+"Last month": [
+"पिछले महीने",
+"Pichale mahīne"
+],
+"Next year": [
+"अगले साल",
+"Agale sāla"
+],
+"Last year": [
+"पिछले साल",
+"Pichale sāla"
+],
+"In the past": [
+"अतीत में",
+"Atīta meṃ"
+],
+"In the future": [
+"भविष्य च",
+"Bhaviṣya ca"
+],
+"At present": [
+"वर्तमान में",
+"Vartamāna meṃ"
+],
+"From now on": [
+"अब से",
+"Aba se"
+],
+"So far": [
+"अजें तगर",
+"Ajeṃ tagara"
+],
+"For a long time": [
+"लंबे समय तक",
+"Laṃbe samaya taka"
+],
+"Yes": [
+"हां",
+"Hāṃ"
+],
+"No": [
+"नेईं",
+"Neīṃ"
+],
+"Please speak slowly": [
+"कृपया धीरे-धीरे बोलो",
+"Kṛpayā dhīre-dhīre bolo"
+],
+"I don't understand": [
+"मिगी समझ नेईं आवै करदा",
+"Migī samajha neīṃ āvai karadā"
+],
+"Do you speak Maithili?": [
+"क्या तुसीं मैथिली बोलदे हो?",
+"Kyā tusīṃ maithilī bolade ho?"
+],
+"No problem": [
+"कोई परेशानी नेईं",
+"Koī pareśānī neīṃ"
+],
+"I agree": [
+"मैं सहमत हां",
+"Maiṃ sahamata hāṃ"
+],
+"Come in": [
+"अंदर आओ",
+"Aṃdara āo"
+],
+"Have you eaten?": [
+"क्या तुसें खाई लेआ?",
+"Kyā tuseṃ khāī leā?"
+],
+"We are happy": [
+"असीं खुश हां",
+"Asīṃ khuśa hāṃ"
+],
+"Maybe": [
+"होई सकदा ऐ",
+"Hoī sakadā ai"
+],
+"Of course": [
+"बेशक्क",
+"Beśakka"
+],
+"Certainly": [
+"जकीनी",
+"Jakīnī"
+],
+"I think so": [
+"मैं ऐसा सोचदा हां",
+"Maiṃ aisā socadā hāṃ"
+],
+"I don't think so": [
+"मैं ऐसा नहीं सोचदा",
+"Maiṃ aisā nahīṃ socadā"
+],
+"I hope so": [
+"मिगी मेद ऐ",
+"Migī meda ai"
+],
+"I am not sure": [
+"भैं ऩक्का नशीॊ शूॊ",
+"Bhaiṃ ṉakkā naśīò śūò"
+],
+"It depends": [
+"निर्भर करदा ऐ",
+"Nirbhara karadā ai"
+],
+"That is right": [
+"ठीक ऐ",
+"Ṭhīka ai"
+],
+"That is wrong": [
+"जो गलत है",
+"Jo galata hai"
+],
+"I see": [
+"समझेआ",
+"Samajheā"
+],
+"Really?": [
+"सच्चें?",
+"Sacceṃ?"
+],
+"Are you sure?": [
+"तुस पक्का ओ?",
+"Tusa pakkā o?"
+],
+"Why not?": [
+"की नेईं?",
+"Kī neīṃ?"
+],
+"What for?": [
+"क्या दे वास्ते?",
+"Kyā de vāste?"
+],
+"Never mind": [
+"कोई गल्ल नेईं",
+"Koī galla neīṃ"
+],
+"It does not matter": [
+"कोई फर्क नेईं पौंदा",
+"Koī pharka neīṃ pauṃdā"
+],
+"Same here": [
+"मेरी बी इ'ऐ राय ऐ",
+"Merī bī i'ai rāya ai"
+],
+"Me too": [
+"में बी",
+"Meṃ bī"
+],
+"Neither do I": [
+"ना ही मैं",
+"Nā hī maiṃ"
+],
+"Let me see": [
+"देखना दे",
+"Dekhanā de"
+],
+"Let us go": [
+"चलो चलो",
+"Calo calo"
+],
+"Wait": [
+"बल्गो",
+"Balgo"
+],
+"Hold on": [
+"रूको",
+"Rūko"
+],
+"Just a second": [
+"बस इक सेकंड",
+"Basa ika sekaṃḍa"
+],
+"One moment": [
+"इक पल",
+"Ika pala"
+],
+"As you wish": [
+"जियां तुस चांदे ओ",
+"Jiyāṃ tusa cāṃde o"
+],
+"Whatever you say": [
+"जो भी कहते हैं",
+"Jo bhī kahate haiṃ"
+],
+"I have no idea": [
+"मेनू कोई अंदाजा नहीं",
+"Menū koī aṃdājā nahīṃ"
+],
+"I forgot": [
+"भूल गया",
+"Bhūla gayā"
+],
+"I remember": [
+"याद आया",
+"Yāda āyā"
+],
+"It slipped my mind": [
+"मन फिसल गया",
+"Mana phisala gayā"
+],
+"Remind me": [
+"याद दिला दे",
+"Yāda dilā de"
+],
+"I mean": [
+"मेरा मतलब ऐ",
+"Merā matalaba ai"
+],
+"I mean it": [
+"मेरा मतलब ऐ",
+"Merā matalaba ai"
+],
+"What I mean is": [
+"मेरा मतलब क्या ऐ",
+"Merā matalaba kyā ai"
+],
+"In other words": [
+"दूजे शबदां च",
+"Dūje śabadāṃ ca"
+],
+"That is to say": [
+"मतलब",
+"Matalaba"
+],
+"For example": [
+"मसाल दे तौर पर",
+"Masāla de taura para"
+],
+"Such as": [
+"जियां कि",
+"Jiyāṃ ki"
+],
+"And so on": [
+"ते इयां गै",
+"Te iyāṃ gai"
+],
+"Et cetera": [
+"एट सेटेरा",
+"Eṭa seṭerā"
+],
+"And so forth": [
+"ते इयां गै",
+"Te iyāṃ gai"
+],
+"By the way": [
+"उं'आं",
+"Uṃ'āṃ"
+],
+"Speaking of which": [
+"जिसकी बात करते हुए",
+"Jisakī bāta karate hue"
+],
+"Anyway": [
+"कोई गल्ल नेईं",
+"Koī galla neīṃ"
+],
+"Anyhow": [
+"वैसे भी",
+"Vaise bhī"
+],
+"Actually": [
+"असल च",
+"Asala ca"
+],
+"Basically": [
+"बुनियादी तौर पर",
+"Buniyādī taura para"
+],
+"To be honest": [
+"सच कहूँ तां",
+"Saca kahū~ tāṃ"
+],
+"To tell the truth": [
+"सच बोलने के लिये",
+"Saca bolane ke liye"
+],
+"Frankly": [
+"सच कहूँ तां",
+"Saca kahū~ tāṃ"
+],
+"Honestly": [
+"शरेआम",
+"Śareāma"
+],
+"Believe me": [
+"विश्वास करो",
+"Viśvāsa karo"
+],
+"Trust me": [
+"भरोसा करो",
+"Bharosā karo"
+],
+"I promise": [
+"मैं वादा करदा हां",
+"Maiṃ vādā karadā hāṃ"
+],
+"I swear": [
+"कसम से",
+"Kasama se"
+],
+"No way": [
+"बिलकुल नेईं",
+"Bilakula neīṃ"
+],
+"No doubt": [
+"कोई शक नहीं",
+"Koī śaka nahīṃ"
+],
+"No wonder": [
+"कोई आश्चर्य नहीं",
+"Koī āścarya nahīṃ"
+],
+"No kidding": [
+"कोई मजाक नहीं",
+"Koī majāka nahīṃ"
+],
+"Just kidding": [
+"बस मजाक करदा हां",
+"Basa majāka karadā hāṃ"
+],
+"I am joking": [
+"मैं मजाक करदा हां",
+"Maiṃ majāka karadā hāṃ"
+],
+"Seriously": [
+"संजीदगी कन्नै",
+"Saṃjīdagī kannai"
+],
+"Are you serious?": [
+"क्या तुस गंभीर ओ?",
+"Kyā tusa gaṃbhīra o?"
+],
+"I am serious": [
+"मैं गंभीर हां",
+"Maiṃ gaṃbhīra hāṃ"
+],
+"Sounds good": [
+"अच्छा लगदा ऐ",
+"Acchā lagadā ai"
+],
+"Looks good": [
+"अच्छा लगदा ऐ",
+"Acchā lagadā ai"
+],
+"Feels good": [
+"अच्छा लगदा ऐ",
+"Acchā lagadā ai"
+],
+"Good idea": [
+"अच्छा विचार ऐ",
+"Acchā vicāra ai"
+],
+"Bad idea": [
+"बुरा विचार",
+"Burā vicāra"
+],
+"Great idea": [
+"शानदार आइडिया",
+"Śānadāra āiḍiyā"
+],
+"Not bad": [
+"माड़ा नेईं",
+"Mār̤ā neīṃ"
+],
+"Not bad at all": [
+"बिल्कुल बुरा नहीं",
+"Bilkula burā nahīṃ"
+],
+"Could be better": [
+"बेहतर हो सकदा ऐ",
+"Behatara ho sakadā ai"
+],
+"Could be worse": [
+"इस थमां बी बुरा होई सकदा ऐ",
+"Isa thamāṃ bī burā hoī sakadā ai"
+],
+"So so": [
+"तो ऐसा ही",
+"To aisā hī"
+],
+"Same as usual": [
+"हमेशा दी तरह ही",
+"Hameśā dī taraha hī"
+],
+"Nothing special": [
+"कोई खास गल्ल नेईं",
+"Koī khāsa galla neīṃ"
+],
+"Name": [
+"नां",
+"Nāṃ"
+],
+"Good": [
+"चंगा",
+"Caṃgā"
+],
+"Bad": [
+"भैड़ा",
+"Bhair̤ā"
+],
+"Fine": [
+"ठीक",
+"Ṭhīka"
+],
+"Well": [
+"ठीक",
+"Ṭhīka"
+],
+"Kind": [
+"किरपालू",
+"Kirapālū"
+],
+"Polite": [
+"तमीजदार",
+"Tamījadāra"
+],
+"Respect": [
+"आदर-मान",
+"Ādara-māna"
+],
+"Love": [
+"हिरख",
+"Hirakha"
+],
+"Friend": [
+"दोस्तो",
+"Dosto"
+],
+"Guest": [
+"मेहमान",
+"Mehamāna"
+],
+"Host": [
+"मेजबान",
+"Mejabāna"
+],
+"Greeting": [
+"शुभकामना",
+"Śubhakāmanā"
+],
+"Farewell": [
+"विदाई",
+"Vidāī"
+],
+"Blessing": [
+"आशीर्वाद दे",
+"Āśīrvāda de"
+],
+"Wish": [
+"कामना",
+"Kāmanā"
+],
+"Gratitude": [
+"शुकर",
+"Śukara"
+],
+"Apology": [
+"माफी मंगना",
+"Māphī maṃganā"
+],
+"Excuse": [
+"माफ करेओ",
+"Māpha kareo"
+],
+"Pardon": [
+"माफी",
+"Māphī"
+],
+"Courtesy": [
+"खलूस",
+"Khalūsa"
+],
+"Happy": [
+"खुश",
+"Khuśa"
+],
+"Sad": [
+"उदास",
+"Udāsa"
+],
+"Angry": [
+"गुस्सा",
+"Gussā"
+],
+"Calm": [
+"दा'वा",
+"Dā'vā"
+],
+"Nervous": [
+"बे-चैन",
+"Be-caina"
+],
+"Excited": [
+"जोश च",
+"Jośa ca"
+],
+"Bored": [
+"उबाऊ",
+"Ubāū"
+],
+"Tired": [
+"थक्का-मांदा",
+"Thakkā-māṃdā"
+],
+"Relaxed": [
+"आराम से",
+"Ārāma se"
+],
+"Worried": [
+"निम्मोझान",
+"Nimmojhāna"
+],
+"Proud": [
+"फक्र",
+"Phakra"
+],
+"Shy": [
+"शर्मोकल",
+"Śarmokala"
+],
+"Brave": [
+"ब्हादर",
+"Bhādara"
+],
+"Honest": [
+"ईमानदार",
+"Īmānadāra"
+],
+"Lazy": [
+"सुस्त",
+"Susta"
+],
+"Active": [
+"सरगर्म",
+"Saragarma"
+],
+"Clever": [
+"चलाक",
+"Calāka"
+],
+"Stupid": [
+"डैंजा. बेवकूफ",
+"Ḍaiṃjā. bevakūpha"
+],
+"Wise": [
+"समझदार",
+"Samajhadāra"
+],
+"Foolish": [
+"झल्ला",
+"Jhallā"
+],
+"Smart": [
+"सन्हाकड़ा",
+"Sanhākar̤ā"
+],
+"Kindness": [
+"किरपा",
+"Kirapā"
+],
+"Cruel": [
+"जालम",
+"Jālama"
+],
+"Gentle": [
+"भलामानस",
+"Bhalāmānasa"
+],
+"Rude": [
+"अक्खड़",
+"Akkhar̤a"
+],
+"Friendly": [
+"दोस्ताना",
+"Dostānā"
+],
+"Enemy": [
+"दुश्मन",
+"Duśmana"
+],
+"Stranger": [
+"पराया",
+"Parāyā"
+],
+"Neighbour": [
+"गुआंढी",
+"Guāṃḍhī"
+],
+"Parting": [
+"बिदाई",
+"Bidāī"
+],
+"Introduction": [
+"परिचे",
+"Parice"
+],
+"Handshake": [
+"हत्थ मिलाना",
+"Hattha milānā"
+],
+"Hug": [
+"जप्फी",
+"Japphī"
+],
+"Bow": [
+"धनख",
+"Dhanakha"
+],
+"Wave": [
+"लैहर",
+"Laihara"
+],
+"Smile": [
+"हास्सा",
+"Hāssā"
+],
+"Laugh": [
+"हास्सा",
+"Hāssā"
+],
+"Cry": [
+"रौना",
+"Raunā"
+],
+"Gesture": [
+"शारा",
+"Śārā"
+],
+"Manner": [
+"कायदा",
+"Kāyadā"
+],
+"Custom": [
+"रवाज",
+"Ravāja"
+],
+"Tradition": [
+"रवायत",
+"Ravāyata"
+],
+"Culture": [
+"संस्कृति",
+"Saṃskṛti"
+],
+"Etiquette": [
+"शिष्टाचार",
+"Śiṣṭācāra"
+],
+"Formal": [
+"रसमी",
+"Rasamī"
+],
+"Informal": [
+"अनौपचारिक",
+"Anaupacārika"
+],
+"Casual": [
+"बे-ध्यान",
+"Be-dhyāna"
+],
+"Respectful": [
+"आदर दे",
+"Ādara de"
+],
+"Humble": [
+"दीन",
+"Dīna"
+],
+"Modest": [
+"सिद्धा-सादा",
+"Siddhā-sādā"
+],
+"Generous": [
+"दानी",
+"Dānī"
+],
+"Selfish": [
+"खुदगर्ज",
+"Khudagarja"
+],
+"Grateful": [
+"शुक्रगुजार",
+"Śukragujāra"
+],
+"Ungrateful": [
+"कृतघ्न",
+"Kṛtaghna"
+],
+"Thoughtful": [
+"दलगीर",
+"Dalagīra"
+],
+"Careless": [
+"लापरवाह्",
+"Lāparavāh"
+],
+"Street": [
+"शिड़क",
+"Śir̤aka"
+],
+"Left": [
+"छड्डो",
+"Chaḍḍo"
+],
+"Right": [
+"स्हेई",
+"Sheī"
+],
+"Here": [
+"इत्थें",
+"Ittheṃ"
+],
+"There": [
+"तुआंह्",
+"Tuāṃh"
+],
+"Near": [
+"नेड़ै",
+"Ner̤ai"
+],
+"Far": [
+"दूर",
+"Dūra"
+],
+"North": [
+"पच्छम",
+"Pacchama"
+],
+"South": [
+"दक्खन",
+"Dakkhana"
+],
+"East": [
+"पूरब",
+"Pūraba"
+],
+"West": [
+"पश्चिम",
+"Paścima"
+],
+"Road": [
+"रस्ता",
+"Rastā"
+],
+"Path": [
+"बत्त",
+"Batta"
+],
+"Bridge": [
+"पुल",
+"Pula"
+],
+"Crossing": [
+"पार करना",
+"Pāra karanā"
+],
+"Corner": [
+"कोना",
+"Konā"
+],
+"Straight": [
+"सिद्धा",
+"Siddhā"
+],
+"Back": [
+"पिच्छै",
+"Picchai"
+],
+"Front": [
+"अगला",
+"Agalā"
+],
+"Side": [
+"तरफ",
+"Tarapha"
+],
+"Behind": [
+"पिच्छें",
+"Piccheṃ"
+],
+"Between": [
+"बिच्च",
+"Bicca"
+],
+"Opposite": [
+"उलट",
+"Ulaṭa"
+],
+"Next to": [
+"दी बगल च",
+"Dī bagala ca"
+],
+"Above": [
+"उप्पर",
+"Uppara"
+],
+"Below": [
+"हेठ",
+"Heṭha"
+],
+"Inside": [
+"अंदर",
+"Aṃdara"
+],
+"Outside": [
+"बाहरी",
+"Bāharī"
+],
+"Distance": [
+"बक्फा",
+"Bakphā"
+],
+"Direction": [
+"दिशा",
+"Diśā"
+],
+"Bus": [
+"बस्स",
+"Bassa"
+],
+"Train": [
+"रेल",
+"Rela"
+],
+"Car": [
+"कार",
+"Kāra"
+],
+"Taxi": [
+"टैक्सी",
+"Ṭaiksī"
+],
+"Bicycle": [
+"सैकल",
+"Saikala"
+],
+"Motorcycle": [
+"मोटरसाइकिल",
+"Moṭarasāikila"
+],
+"Boat": [
+"किश्ती",
+"Kiśtī"
+],
+"Ship": [
+"ज्हाज",
+"Jhāja"
+],
+"Plane": [
+"ज्हाज",
+"Jhāja"
+],
+"Ticket": [
+"टिकट",
+"Ṭikaṭa"
+],
+"Station": [
+"स्टेशन",
+"Sṭeśana"
+],
+"Port": [
+"बंदरगाह्",
+"Baṃdaragāh"
+],
+"Luggage": [
+"समान",
+"Samāna"
+],
+"Bag": [
+"थैल्ला",
+"Thaillā"
+],
+"Visa": [
+"वीजा",
+"Vījā"
+],
+"Map": [
+"नक्शा",
+"Nakśā"
+],
+"Guide": [
+"गाइड",
+"Gāiḍa"
+],
+"Tour": [
+"सैर",
+"Saira"
+],
+"Trip": [
+"जात्तरा",
+"Jāttarā"
+],
+"Journey": [
+"जात्तरा",
+"Jāttarā"
+],
+"Travel": [
+"जात्तरा",
+"Jāttarā"
+],
+"Visit": [
+"सैर",
+"Saira"
+],
+"Return": [
+"बापस",
+"Bāpasa"
+],
+"Depart": [
+"रवाना हो जाओ",
+"Ravānā ho jāo"
+],
+"Arrive": [
+"औना",
+"Aunā"
+],
+"Board": [
+"बोर्ड",
+"Borḍa"
+],
+"Get off": [
+"उतर जाओ",
+"Utara jāo"
+],
+"Hotel": [
+"होटल",
+"Hoṭala"
+],
+"Room": [
+"कमरा",
+"Kamarā"
+],
+"Booking": [
+"बुकिंग करना",
+"Bukiṃga karanā"
+],
+"Reservation": [
+"रोक",
+"Roka"
+],
+"Check-in": [
+"चेक-इन करना",
+"Ceka-ina karanā"
+],
+"Check-out": [
+"चेक आउट करो",
+"Ceka āuṭa karo"
+],
+"Single room": [
+"सिंगल रूम",
+"Siṃgala rūma"
+],
+"Double room": [
+"डबल रूम",
+"Ḍabala rūma"
+],
+"Key": [
+"चाबी",
+"Cābī"
+],
+"Reception": [
+"अगवाई",
+"Agavāī"
+],
+"Lift": [
+"लिफ्ट",
+"Liphṭa"
+],
+"Floor": [
+"फर्श",
+"Pharśa"
+],
+"Parking": [
+"पार्किंग दी",
+"Pārkiṃga dī"
+],
+"View": [
+"दिक्खना",
+"Dikkhanā"
+],
+"Balcony": [
+"बालकनी",
+"Bālakanī"
+],
+"Restaurant": [
+"रेस्टोरेंट",
+"Resṭoreṃṭa"
+],
+"WiFi": [
+"वाईफाई",
+"Vāīphāī"
+],
+"Scenic": [
+"दर्शनीय स्थल",
+"Darśanīya sthala"
+],
+"Famous": [
+"मश्हूर",
+"Maśhūra"
+],
+"Local": [
+"मकामी",
+"Makāmī"
+],
+"Foreign": [
+"बदेसी",
+"Badesī"
+],
+"Domestic": [
+"घरेलू",
+"Gharelū"
+],
+"International": [
+"आलमी",
+"Ālamī"
+],
+"Border": [
+"सरहद्‌द",
+"Sarahad‌da"
+],
+"Immigration": [
+"आप्रवासन दा",
+"Āpravāsana dā"
+],
+"Rice": [
+"चौल",
+"Caula"
+],
+"Lentils": [
+"मसूर दा",
+"Masūra dā"
+],
+"Bread": [
+"ब्रैड",
+"Braiḍa"
+],
+"Salt": [
+"लून",
+"Lūna"
+],
+"Sugar": [
+"खंड",
+"Khaṃḍa"
+],
+"Milk": [
+"दुद्ध",
+"Duddha"
+],
+"Vegetable": [
+"सब्जी",
+"Sabjī"
+],
+"Fruit": [
+"फल",
+"Phala"
+],
+"Meat": [
+"मीट",
+"Mīṭa"
+],
+"Fish": [
+"मच्छी",
+"Macchī"
+],
+"Oil": [
+"तेल",
+"Tela"
+],
+"Spice": [
+"मसाला",
+"Masālā"
+],
+"Curry": [
+"करी",
+"Karī"
+],
+"Meal": [
+"रुट्टी",
+"Ruṭṭī"
+],
+"Taste": [
+"सुआद",
+"Suāda"
+],
+"Hunger": [
+"भूख",
+"Bhūkha"
+],
+"Thirst": [
+"प्यास",
+"Pyāsa"
+],
+"Onion": [
+"गंढा",
+"Gaṃḍhā"
+],
+"Garlic": [
+"थोम",
+"Thoma"
+],
+"Tomato": [
+"टमाटर",
+"Ṭamāṭara"
+],
+"Potato": [
+"आलू",
+"Ālū"
+],
+"Carrot": [
+"गाजर",
+"Gājara"
+],
+"Peas": [
+"मटर",
+"Maṭara"
+],
+"Beans": [
+"भौंठे",
+"Bhauṃṭhe"
+],
+"Spinach": [
+"पालक",
+"Pālaka"
+],
+"Cabbage": [
+"बंदगोभी",
+"Baṃdagobhī"
+],
+"Cauliflower": [
+"फूलगोभी",
+"Phūlagobhī"
+],
+"Brinjal": [
+"बृंजाल जी",
+"Bṛṃjāla jī"
+],
+"Cucumber": [
+"खीरा",
+"Khīrā"
+],
+"Radish": [
+"मूली",
+"Mūlī"
+],
+"Ginger": [
+"अदरक",
+"Adaraka"
+],
+"Chilli": [
+"मिर्च",
+"Mirca"
+],
+"Lemon": [
+"नींबू",
+"Nīṃbū"
+],
+"Coconut": [
+"नारियल",
+"Nāriyala"
+],
+"Banana": [
+"केला",
+"Kelā"
+],
+"Mango": [
+"आम",
+"Āma"
+],
+"Apple": [
+"स्येऊ",
+"Syeū"
+],
+"Orange": [
+"संत्तरा",
+"Saṃttarā"
+],
+"Grape": [
+"अंगूर दा",
+"Aṃgūra dā"
+],
+"Papaya": [
+"पपीता",
+"Papītā"
+],
+"Guava": [
+"अमरूद",
+"Amarūda"
+],
+"Pomegranate": [
+"अनार दा",
+"Anāra dā"
+],
+"Watermelon": [
+"दुहाना",
+"Duhānā"
+],
+"Dates": [
+"तारीखें",
+"Tārīkheṃ"
+],
+"Dry fruit": [
+"सूखे फल",
+"Sūkhe phala"
+],
+"Honey": [
+"शैहद",
+"Śaihada"
+],
+"Cook": [
+"रसोइया",
+"Rasoiyā"
+],
+"Eat": [
+"खाओ",
+"Khāo"
+],
+"Drink": [
+"पीना",
+"Pīnā"
+],
+"Rotten": [
+"दा'गी",
+"Dā'gī"
+],
+"Baked": [
+"पके हुआ",
+"Pake huā"
+],
+"Recipe": [
+"नुस्खा",
+"Nuskhā"
+],
+"Kitchen": [
+"रसोई",
+"Rasoī"
+],
+"Stove": [
+"चुल्ला",
+"Cullā"
+],
+"Plate": [
+"प्लेट",
+"Pleṭa"
+],
+"Spoon": [
+"चिम्मचा",
+"Cimmacā"
+],
+"Fork": [
+"कांटा",
+"Kāṃṭā"
+],
+"Knife": [
+"काचू",
+"Kācū"
+],
+"Cup": [
+"कप",
+"Kapa"
+],
+"Glass": [
+"शीशा",
+"Śīśā"
+],
+"Bottle": [
+"बोतल",
+"Botala"
+],
+"Dish": [
+"प्लेट",
+"Pleṭa"
+],
+"Menu": [
+"मेनू",
+"Menū"
+],
+"Bill": [
+"बिल",
+"Bila"
+],
+"Head": [
+"सिर",
+"Sira"
+],
+"Eye": [
+"अक्ख",
+"Akkha"
+],
+"Hand": [
+"हत्थ",
+"Hattha"
+],
+"Foot": [
+"पैर",
+"Paira"
+],
+"Heart": [
+"दिल",
+"Dila"
+],
+"Face": [
+"चेहरा",
+"Ceharā"
+],
+"Hair": [
+"बाल",
+"Bāla"
+],
+"Stomach": [
+"ढिड्ड",
+"Ḍhiḍḍa"
+],
+"Neck": [
+"मुंडी",
+"Muṃḍī"
+],
+"Ear": [
+"कन्न",
+"Kanna"
+],
+"Nose": [
+"नक्क",
+"Nakka"
+],
+"Mouth": [
+"मूंह्",
+"Mūṃh"
+],
+"Lip": [
+"होठ",
+"Hoṭha"
+],
+"Tooth": [
+"दंद",
+"Daṃda"
+],
+"Tongue": [
+"जुबान",
+"Jubāna"
+],
+"Cheek": [
+"खाख",
+"Khākha"
+],
+"Chin": [
+"ठुड्डी",
+"Ṭhuḍḍī"
+],
+"Forehead": [
+"मत्था",
+"Matthā"
+],
+"Eyebrow": [
+"भौंह",
+"Bhauṃha"
+],
+"Eyelash": [
+"जुल्फें",
+"Julpheṃ"
+],
+"Shoulder": [
+"मूंढा",
+"Mūṃḍhā"
+],
+"Arm": [
+"बांह्",
+"Bāṃh"
+],
+"Elbow": [
+"आरक",
+"Āraka"
+],
+"Wrist": [
+"डुंडू",
+"Ḍuṃḍū"
+],
+"Finger": [
+"उंगली",
+"Uṃgalī"
+],
+"Thumb": [
+"अंगूठा",
+"Aṃgūṭhā"
+],
+"Nail": [
+"नैंह्",
+"Naiṃh"
+],
+"Chest": [
+"छाती",
+"Chātī"
+],
+"Waist": [
+"लक्क",
+"Lakka"
+],
+"Hip": [
+"गुफ्फी",
+"Guphphī"
+],
+"Thigh": [
+"रान",
+"Rāna"
+],
+"Knee": [
+"गोड्डा",
+"Goḍḍā"
+],
+"Leg": [
+"लत्त",
+"Latta"
+],
+"Ankle": [
+"गिट्टा",
+"Giṭṭā"
+],
+"Heel": [
+"एड़ी",
+"Er̤ī"
+],
+"Skin": [
+"चमड़ी",
+"Camar̤ī"
+],
+"Bone": [
+"हड्डी",
+"Haḍḍī"
+],
+"Muscle": [
+"पट्‌ठा",
+"Paṭ‌ṭhā"
+],
+"Brain": [
+"दमाग",
+"Damāga"
+],
+"Liver": [
+"कलेजा",
+"Kalejā"
+],
+"Lung": [
+"फेफड़े",
+"Phephar̤e"
+],
+"Kidney": [
+"गुरदा",
+"Guradā"
+],
+"Pain": [
+"पीड़",
+"Pīr̤a"
+],
+"Fever": [
+"बखार",
+"Bakhāra"
+],
+"Cough": [
+"खंग",
+"Khaṃga"
+],
+"Healthy": [
+"नरोआ",
+"Naroā"
+],
+"Sick": [
+"बमार",
+"Bamāra"
+],
+"Hospital": [
+"अस्पताल",
+"Aspatāla"
+],
+"Breath": [
+"दम",
+"Dama"
+],
+"Pulse": [
+"नाड़ी",
+"Nār̤ī"
+],
+"Sweat": [
+"पसीना",
+"Pasīnā"
+],
+"Tear": [
+"अत्थरूं",
+"Attharūṃ"
+],
+"Voice": [
+"अवाज",
+"Avāja"
+],
+"Touch": [
+"छूहना",
+"Chūhanā"
+],
+"See": [
+"दिक्खो",
+"Dikkho"
+],
+"Hear": [
+"सुनो",
+"Suno"
+],
+"Smell": [
+"मुश्क",
+"Muśka"
+],
+"Feel": [
+"मसूस करो",
+"Masūsa karo"
+],
+"Walk": [
+"टुरना",
+"Ṭuranā"
+],
+"Run": [
+"दौड़",
+"Daur̤a"
+],
+"Sit": [
+"बौहना",
+"Bauhanā"
+],
+"Stand": [
+"थां",
+"Thāṃ"
+],
+"Sleep": [
+"सोना",
+"Sonā"
+],
+"Wake": [
+"जागना",
+"Jāganā"
+],
+"Breathe": [
+"साह् लैना",
+"Sāh lainā"
+],
+"Blink": [
+"पलक झपकना",
+"Palaka jhapakanā"
+],
+"Speak": [
+"बोलो",
+"Bolo"
+],
+"Listen": [
+"सुनो",
+"Suno"
+],
+"Think": [
+"सोचो",
+"Soco"
+],
+"Remember": [
+"चेता रक्खना",
+"Cetā rakkhanā"
+],
+"Forget": [
+"भुल्लना",
+"Bhullanā"
+],
+"Understand": [
+"समझेआ",
+"Samajheā"
+],
+"Learn": [
+"सिक्खेआ",
+"Sikkheā"
+],
+"Know": [
+"जानो",
+"Jāno"
+],
+"Believe": [
+"मन्नो",
+"Manno"
+],
+"Hope": [
+"मेद",
+"Meda"
+],
+"Want": [
+"चांहना",
+"Cāṃhanā"
+],
+"Father": [
+"बापू",
+"Bāpū"
+],
+"Mother": [
+"मां",
+"Māṃ"
+],
+"Brother": [
+"भ्रा",
+"Bhrā"
+],
+"Sister": [
+"भैन",
+"Bhaina"
+],
+"Son": [
+"बेटा",
+"Beṭā"
+],
+"Daughter": [
+"धी",
+"Dhī"
+],
+"Husband": [
+"घरै-आहला",
+"Gharai-āhalā"
+],
+"Wife": [
+"घरै-आहली",
+"Gharai-āhalī"
+],
+"Family": [
+"परिवार",
+"Parivāra"
+],
+"Child": [
+"बच्चा",
+"Baccā"
+],
+"Grandfather": [
+"दादा जी",
+"Dādā jī"
+],
+"Grandmother": [
+"दादी जी",
+"Dādī jī"
+],
+"Grandson": [
+"पोता जी",
+"Potā jī"
+],
+"Granddaughter": [
+"पोती",
+"Potī"
+],
+"Uncle": [
+"चाचा",
+"Cācā"
+],
+"Aunt": [
+"चाची",
+"Cācī"
+],
+"Nephew": [
+"भनेहा",
+"Bhanehā"
+],
+"Niece": [
+"भनेई",
+"Bhaneī"
+],
+"Cousin": [
+"परतेर",
+"Paratera"
+],
+"Father-in-law": [
+"ससुर जी",
+"Sasura jī"
+],
+"Mother-in-law": [
+"सास जी",
+"Sāsa jī"
+],
+"Son-in-law": [
+"दामाद जी",
+"Dāmāda jī"
+],
+"Daughter-in-law": [
+"बहू",
+"Bahū"
+],
+"Brother-in-law": [
+"साला",
+"Sālā"
+],
+"Sister-in-law": [
+"जठानी",
+"Jaṭhānī"
+],
+"Relative": [
+"रिश्तेदार",
+"Riśtedāra"
+],
+"Parents": [
+"मां-प्यौ",
+"Māṃ-pyau"
+],
+"Children": [
+"ञ्याणें",
+"Ñyāṇeṃ"
+],
+"Baby": [
+"ञ्याणा",
+"Ñyāṇā"
+],
+"Elder": [
+"बड्डा",
+"Baḍḍā"
+],
+"Younger": [
+"छोटे",
+"Choṭe"
+],
+"Twin": [
+"जुड़वाँ",
+"Jur̤avā~"
+],
+"Stepfather": [
+"सौतेला पिता जी",
+"Sautelā pitā jī"
+],
+"Stepmother": [
+"सौतेली माँ",
+"Sautelī mā~"
+],
+"Orphan": [
+"अनाथ",
+"Anātha"
+],
+"Widow": [
+"बिधवा",
+"Bidhavā"
+],
+"Widower": [
+"विधवा",
+"Vidhavā"
+],
+"Marriage": [
+"ब्याह्",
+"Byāh"
+],
+"Wedding": [
+"ब्याह्",
+"Byāh"
+],
+"Bride": [
+"लाड़ी",
+"Lār̤ī"
+],
+"Groom": [
+"चरबेदार",
+"Carabedāra"
+],
+"Birth": [
+"जन्म",
+"Janma"
+],
+"Death": [
+"मौत",
+"Mauta"
+],
+"Ancestor": [
+"पूर्वज जी",
+"Pūrvaja jī"
+],
+"Descendant": [
+"वंशज जी",
+"Vaṃśaja jī"
+],
+"Household": [
+"घर",
+"Ghara"
+],
+"Generation": [
+"पीढ़ी",
+"Pīr̤hī"
+],
+"Relationship": [
+"रिश्ता",
+"Riśtā"
+],
+"Care": [
+"परवाह करो",
+"Paravāha karo"
+],
+"Support": [
+"मदाद",
+"Madāda"
+],
+"Duty": [
+"ड्यूटी",
+"Ḍyūṭī"
+],
+"Responsibility": [
+"जिम्मेदारी",
+"Jimmedārī"
+],
+"Eldest": [
+"बड़का",
+"Bar̤akā"
+],
+"Youngest": [
+"सब तों छोटा",
+"Saba toṃ choṭā"
+],
+"Only child": [
+"सिर्फ बच्चा",
+"Sirpha baccā"
+],
+"Sibling": [
+"लौहके भैन-भ्रा",
+"Lauhake bhaina-bhrā"
+],
+"Spouse": [
+"जीवन-साथी",
+"Jīvana-sāthī"
+],
+"Fatherhood": [
+"पिता दा",
+"Pitā dā"
+],
+"Motherhood": [
+"मातृत्व",
+"Mātṛtva"
+],
+"Brotherhood": [
+"भाईचारा",
+"Bhāīcārā"
+],
+"Sisterhood": [
+"बहन-बहन",
+"Bahana-bahana"
+],
+"Godfather": [
+"गॉडफादर जी",
+"Gaॉḍaphādara jī"
+],
+"Godmother": [
+"गॉडमदर",
+"Gaॉḍamadara"
+],
+"Guardian": [
+"गार्जियन",
+"Gārjiyana"
+],
+"Adopted": [
+"गोद लेया",
+"Goda leyā"
+],
+"Foster": [
+"पोशक",
+"Pośaka"
+],
+"Clan": [
+"कुल",
+"Kula"
+],
+"Tribe": [
+"कबीले",
+"Kabīle"
+],
+"Dynasty": [
+"राजवंश",
+"Rājavaṃśa"
+],
+"Inheritance": [
+"बरासत",
+"Barāsata"
+],
+"Heir": [
+"बारस",
+"Bārasa"
+],
+"Family name": [
+"परिवार दा नाम",
+"Parivāra dā nāma"
+],
+"Surname": [
+"सिरनामां",
+"Siranāmāṃ"
+],
+"Nickname": [
+"उपनाम",
+"Upanāma"
+],
+"Elder brother": [
+"बड़े भाई",
+"Bar̤e bhāī"
+],
+"Younger brother": [
+"छोटे भाई",
+"Choṭe bhāī"
+],
+"Elder sister": [
+"बड़ी बहन",
+"Bar̤ī bahana"
+],
+"Younger sister": [
+"छोटी बहन",
+"Choṭī bahana"
+],
+"Maternal uncle": [
+"मातृक चाचा",
+"Mātṛka cācā"
+],
+"Paternal uncle": [
+"पैतृक चाचा",
+"Paitṛka cācā"
+],
+"Maternal aunt": [
+"मातृक चाची",
+"Mātṛka cācī"
+],
+"Paternal aunt": [
+"पैतृक चाची",
+"Paitṛka cācī"
+],
+"Family gathering": [
+"पारिवारिक जमघट",
+"Pārivārika jamaghaṭa"
+],
+"One": [
+"इक",
+"Ika"
+],
+"Two": [
+"दो",
+"Do"
+],
+"Three": [
+"त्रै",
+"Trai"
+],
+"Four": [
+"चार",
+"Cāra"
+],
+"Five": [
+"पंज",
+"Paṃja"
+],
+"Six": [
+"छे",
+"Che"
+],
+"Seven": [
+"सात",
+"Sāta"
+],
+"Eight": [
+"अट्ठ",
+"Aṭṭha"
+],
+"Nine": [
+"नौ",
+"Nau"
+],
+"Ten": [
+"दस",
+"Dasa"
+],
+"Eleven": [
+"ञारां",
+"Ñārāṃ"
+],
+"Twelve": [
+"बारां",
+"Bārāṃ"
+],
+"Thirteen": [
+"तेरां",
+"Terāṃ"
+],
+"Fourteen": [
+"चौदां",
+"Caudāṃ"
+],
+"Fifteen": [
+"पंदरां",
+"Paṃdarāṃ"
+],
+"Sixteen": [
+"सोलां",
+"Solāṃ"
+],
+"Seventeen": [
+"सतारां",
+"Satārāṃ"
+],
+"Eighteen": [
+"ठारां",
+"Ṭhārāṃ"
+],
+"Nineteen": [
+"उन्नी",
+"Unnī"
+],
+"Twenty": [
+"बीह्",
+"Bīh"
+],
+"Thirty": [
+"त्रीह्",
+"Trīh"
+],
+"Forty": [
+"चाली",
+"Cālī"
+],
+"Fifty": [
+"पंजाह्‌",
+"Paṃjāh‌"
+],
+"Sixty": [
+"सट्ठ",
+"Saṭṭha"
+],
+"Seventy": [
+"सत्तर",
+"Sattara"
+],
+"Eighty": [
+"अस्सी",
+"Assī"
+],
+"Ninety": [
+"नब्बै",
+"Nabbai"
+],
+"Hundred": [
+"सौ",
+"Sau"
+],
+"Thousand": [
+"ज्हार",
+"Jhāra"
+],
+"Lakh": [
+"लाख",
+"Lākha"
+],
+"First": [
+"पैहला",
+"Paihalā"
+],
+"Third": [
+"त्रीआ",
+"Trīā"
+],
+"Fourth": [
+"चौथा",
+"Cauthā"
+],
+"Fifth": [
+"पंजवां",
+"Paṃjavāṃ"
+],
+"Half": [
+"अद्धा",
+"Addhā"
+],
+"Quarter": [
+"म्हल्ला",
+"Mhallā"
+],
+"Double": [
+"दुगना",
+"Duganā"
+],
+"Triple": [
+"तिगुना",
+"Tigunā"
+],
+"Single": [
+"कल्ला",
+"Kallā"
+],
+"Pair": [
+"जोड़ा",
+"Jor̤ā"
+],
+"Dozen": [
+"दर्जन भर",
+"Darjana bhara"
+],
+"Score": [
+"स्कोर",
+"Skora"
+],
+"Zero": [
+"सिफर",
+"Siphara"
+],
+"Number": [
+"नंबर",
+"Naṃbara"
+],
+"Count": [
+"गिनना",
+"Ginanā"
+],
+"Add": [
+"जोड़ करना",
+"Jor̤a karanā"
+],
+"Subtract": [
+"घटाओ",
+"Ghaṭāo"
+],
+"Multiply": [
+"गुणा करो",
+"Guṇā karo"
+],
+"Divide": [
+"बंड",
+"Baṃḍa"
+],
+"Equal": [
+"बरोबर",
+"Barobara"
+],
+"More": [
+"होर",
+"Hora"
+],
+"Less": [
+"घट्ट",
+"Ghaṭṭa"
+],
+"Many": [
+"केईं",
+"Keīṃ"
+],
+"Few": [
+"किश",
+"Kiśa"
+],
+"Some": [
+"चंद",
+"Caṃda"
+],
+"All": [
+"सब्भै",
+"Sabbhai"
+],
+"None": [
+"कोई नेईं",
+"Koī neīṃ"
+],
+"Several": [
+"केईं",
+"Keīṃ"
+],
+"Multiple": [
+"कई",
+"Kaī"
+],
+"Percent": [
+"प्रतिशत",
+"Pratiśata"
+],
+"Fraction": [
+"अंश",
+"Aṃśa"
+],
+"Decimal": [
+"दशमलव दा",
+"Daśamalava dā"
+],
+"Sum": [
+"जोड़",
+"Jor̤a"
+],
+"Total": [
+"कुल",
+"Kula"
+],
+"Amount": [
+"पैहा",
+"Paihā"
+],
+"Quantity": [
+"मिकदार",
+"Mikadāra"
+],
+"Price": [
+"कीमत",
+"Kīmata"
+],
+"Cost": [
+"कीमत",
+"Kīmata"
+],
+"Discount": [
+"डिस्कांउट",
+"Ḍiskāṃuṭa"
+],
+"Age": [
+"बरेस",
+"Baresa"
+],
+"Year old": [
+"साल पुराना",
+"Sāla purānā"
+],
+"Date": [
+"तरीक",
+"Tarīka"
+],
+"Time": [
+"समां",
+"Samāṃ"
+],
+"O'clock": [
+"बजरी दे",
+"Bajarī de"
+],
+"Day": [
+"दिन",
+"Dina"
+],
+"Once": [
+"इक बारी",
+"Ika bārī"
+],
+"Twice": [
+"दो बार",
+"Do bāra"
+],
+"Thrice": [
+"तीन बार",
+"Tīna bāra"
+],
+"Every": [
+"हर",
+"Hara"
+],
+"Each": [
+"हर",
+"Hara"
+],
+"Whole": [
+"पूरा",
+"Pūrā"
+],
+"Full": [
+"पूरा",
+"Pūrā"
+],
+"Empty": [
+"खा'ल्ली",
+"Khā'llī"
+],
+"House": [
+"घर",
+"Ghara"
+],
+"Work": [
+"कम्म",
+"Kamma"
+],
+"Come": [
+"आओ",
+"Āo"
+],
+"Go": [
+"जाओ",
+"Jāo"
+],
+"Give": [
+"देओ",
+"Deo"
+],
+"Take": [
+"लैओ",
+"Laio"
+],
+"Bedroom": [
+"अरांमगाह्‌",
+"Arāṃmagāh‌"
+],
+"Bathroom": [
+"गुसलखाना",
+"Gusalakhānā"
+],
+"Door": [
+"दरवाजा",
+"Daravājā"
+],
+"Window": [
+"दुआरी",
+"Duārī"
+],
+"Wall": [
+"कंध",
+"Kaṃdha"
+],
+"Roof": [
+"छत्त",
+"Chatta"
+],
+"Stairs": [
+"पोड़ियां",
+"Por̤iyāṃ"
+],
+"Table": [
+"टेबल",
+"Ṭebala"
+],
+"Chair": [
+"कुर्सी",
+"Kursī"
+],
+"Bed": [
+"बिस्तर",
+"Bistara"
+],
+"Lamp": [
+"लैंप्प",
+"Laiṃppa"
+],
+"Clock": [
+"घड़ी",
+"Ghar̤ī"
+],
+"Lock": [
+"जंदरा",
+"Jaṃdarā"
+],
+"Garden": [
+"बगीचा",
+"Bagīcā"
+],
+"Furniture": [
+"फर्नीचर",
+"Pharnīcara"
+],
+"Sofa": [
+"सोफा",
+"Sophā"
+],
+"Cupboard": [
+"लमारी",
+"Lamārī"
+],
+"Shelf": [
+"आला",
+"Ālā"
+],
+"Mirror": [
+"शीशा",
+"Śīśā"
+],
+"Curtain": [
+"पड़दा",
+"Par̤adā"
+],
+"Pillow": [
+"सरहैना",
+"Sarahainā"
+],
+"Blanket": [
+"कंबल",
+"Kaṃbala"
+],
+"Towel": [
+"तौलिया",
+"Tauliyā"
+],
+"Soap": [
+"साबन",
+"Sābana"
+],
+"Bucket": [
+"बालटी",
+"Bālaṭī"
+],
+"Broom": [
+"झाड़ू",
+"Jhār̤ū"
+],
+"Trash": [
+"कचरा",
+"Kacarā"
+],
+"Clean": [
+"साफ",
+"Sāpha"
+],
+"Dirty": [
+"गंदा",
+"Gaṃdā"
+],
+"Wash": [
+"धोना",
+"Dhonā"
+],
+"Sweep": [
+"ब्हारी फेरना",
+"Bhārī pheranā"
+],
+"Mop": [
+"पोंछ",
+"Poṃcha"
+],
+"Electricity": [
+"बिजली दी",
+"Bijalī dī"
+],
+"Switch": [
+"सुच्च",
+"Succa"
+],
+"Fan": [
+"पक्खा",
+"Pakkhā"
+],
+"Light": [
+"लो",
+"Lo"
+],
+"Fridge": [
+"फ्रिज",
+"Phrija"
+],
+"TV": [
+"टीवी",
+"Ṭīvī"
+],
+"Computer": [
+"कंप्यूटर",
+"Kaṃpyūṭara"
+],
+"Book": [
+"कताब",
+"Katāba"
+],
+"Newspaper": [
+"अखबार",
+"Akhabāra"
+],
+"Later": [
+"बाद च",
+"Bāda ca"
+],
+"Always": [
+"म्हेशां",
+"Mheśāṃ"
+],
+"Never": [
+"कदें नेईं",
+"Kadeṃ neīṃ"
+],
+"Sometimes": [
+"केईं बारी",
+"Keīṃ bārī"
+],
+"Often": [
+"अक्सर",
+"Aksara"
+],
+"Usually": [
+"अमूमन",
+"Amūmana"
+],
+"Daily": [
+"रोजना",
+"Rojanā"
+],
+"Weekly": [
+"साप्ताहिक",
+"Sāptāhika"
+],
+"Monthly": [
+"मासिक",
+"Māsika"
+],
+"Yearly": [
+"सालाना",
+"Sālānā"
+],
+"Routine": [
+"नेमी",
+"Nemī"
+],
+"Habit": [
+"आदत",
+"Ādata"
+],
+"Rest": [
+"बाकी",
+"Bākī"
+],
+"Leisure": [
+"बेहल",
+"Behala"
+],
+"Free": [
+"अजाद",
+"Ajāda"
+],
+"Relax": [
+"अराम",
+"Arāma"
+],
+"Wake up": [
+"उट्ठना",
+"Uṭṭhanā"
+],
+"Sun": [
+"सूरज",
+"Sūraja"
+],
+"Moon": [
+"चन्न",
+"Canna"
+],
+"Rain": [
+"बरखा",
+"Barakhā"
+],
+"Dog": [
+"कुत्ता",
+"Kuttā"
+],
+"Cat": [
+"बिल्ली",
+"Billī"
+],
+"Cow": [
+"गौ",
+"Gau"
+],
+"Bird": [
+"पक्खरू",
+"Pakkharū"
+],
+"Tree": [
+"बूहटा",
+"Būhaṭā"
+],
+"Flower": [
+"फुल्ल",
+"Phulla"
+],
+"Sky": [
+"शमान",
+"Śamāna"
+],
+"Cloud": [
+"बद्दल",
+"Baddala"
+],
+"Star": [
+"तारा",
+"Tārā"
+],
+"Wind": [
+"ब्हाऽ",
+"Bhā'"
+],
+"River": [
+"दरेआ",
+"Dareā"
+],
+"Mountain": [
+"प्हाड़",
+"Phār̤a"
+],
+"Forest": [
+"जंगल",
+"Jaṃgala"
+],
+"Grass": [
+"घा",
+"Ghā"
+],
+"Leaf": [
+"पत्ता",
+"Pattā"
+],
+"Root": [
+"जड़",
+"Jar̤a"
+],
+"Seed": [
+"बीऽ",
+"Bī'"
+],
+"Soil": [
+"मिट्ठी",
+"Miṭṭhī"
+],
+"Stone": [
+"पत्थर",
+"Patthara"
+],
+"Fire": [
+"अग्ग",
+"Agga"
+],
+"Earth": [
+"धरत",
+"Dharata"
+],
+"Weather": [
+"मौसम",
+"Mausama"
+],
+"Horse": [
+"घोड़ा",
+"Ghor̤ā"
+],
+"Goat": [
+"बक्करी",
+"Bakkarī"
+],
+"Sheep": [
+"भिड्ड",
+"Bhiḍḍa"
+],
+"Pig": [
+"सूर",
+"Sūra"
+],
+"Hen": [
+"मुर्गी",
+"Murgī"
+],
+"Duck": [
+"बतख",
+"Batakha"
+],
+"Elephant": [
+"हाथी",
+"Hāthī"
+],
+"Lion": [
+"शेर",
+"Śera"
+],
+"Tiger": [
+"चीता",
+"Cītā"
+],
+"Monkey": [
+"बांदर",
+"Bāṃdara"
+],
+"Snake": [
+"सप्प",
+"Sappa"
+],
+"Insect": [
+"कीड़ा",
+"Kīr̤ā"
+],
+"Butterfly": [
+"तितली",
+"Titalī"
+],
+"Bee": [
+"मधुमक्खी",
+"Madhumakkhī"
+],
+"Ant": [
+"चींटी",
+"Cīṃṭī"
+],
+"Mosquito": [
+"मच्छर",
+"Macchara"
+],
+"Spider": [
+"मकड़ी",
+"Makar̤ī"
+],
+"Crow": [
+"कां",
+"Kāṃ"
+],
+"Peacock": [
+"मोर",
+"Mora"
+],
+"Parrot": [
+"तोता",
+"Totā"
+],
+"Sparrow": [
+"गौरैया",
+"Gauraiyā"
+],
+"Eagle": [
+"इल्ल",
+"Illa"
+],
+"Owl": [
+"उल्लू",
+"Ullū"
+],
+"Pigeon": [
+"कबूतर",
+"Kabūtara"
+],
+"Swan": [
+"हंस",
+"Haṃsa"
+],
+"Crocodile": [
+"मगरमच्छ",
+"Magaramaccha"
+],
+"Tortoise": [
+"कछुए दा",
+"Kachue dā"
+],
+"Frog": [
+"डिड्डू",
+"Ḍiḍḍū"
+],
+"Lizard": [
+"किरली",
+"Kiralī"
+],
+"Rose": [
+"गुलाब",
+"Gulāba"
+],
+"Lotus": [
+"कमल दा",
+"Kamala dā"
+],
+"Jasmine": [
+"चमेली",
+"Camelī"
+],
+"Marigold": [
+"मैरीगोल्ड",
+"Mairīgolḍa"
+],
+"Sunflower": [
+"सूरजमुखी",
+"Sūrajamukhī"
+],
+"Lily": [
+"लिली",
+"Lilī"
+],
+"Daisy": [
+"डेज़ी जी",
+"Ḍezī jī"
+],
+"Tulip": [
+"ट्यूलिप",
+"Ṭyūlipa"
+],
+"Oak": [
+"ओक",
+"Oka"
+],
+"Pine": [
+"पाइन",
+"Pāina"
+],
+"Bamboo": [
+"बांस दा",
+"Bāṃsa dā"
+],
+"Palm": [
+"तली",
+"Talī"
+],
+"Cactus": [
+"कैक्टस",
+"Kaikṭasa"
+],
+"Bush": [
+"ज्हूड़ी",
+"Jhūr̤ī"
+],
+"Plant": [
+"बूहटा",
+"Būhaṭā"
+],
+"Farm": [
+"खेतर",
+"Khetara"
+],
+"Field": [
+"खेत्तर",
+"Khettara"
+],
+"Lake": [
+"झील",
+"Jhīla"
+],
+"Sea": [
+"समुंदर",
+"Samuṃdara"
+],
+"Ocean": [
+"समुंदर",
+"Samuṃdara"
+],
+"Beach": [
+"समुंदरी कनारा",
+"Samuṃdarī kanārā"
+],
+"Island": [
+"टापू",
+"Ṭāpū"
+],
+"Valley": [
+"घाटी",
+"Ghāṭī"
+],
+"Desert": [
+"रेगिस्तान",
+"Registāna"
+],
+"Snow": [
+"बर्फ",
+"Barpha"
+],
+"Storm": [
+"तफान",
+"Taphāna"
+],
+"Thunder": [
+"बढ़क",
+"Bar̤haka"
+],
+"Rainbow": [
+"इंद्रधनुष",
+"Iṃdradhanuṣa"
+],
+"Red": [
+"लाल",
+"Lāla"
+],
+"Blue": [
+"नीला",
+"Nīlā"
+],
+"Green": [
+"सैल्ला",
+"Saillā"
+],
+"Yellow": [
+"पीला",
+"Pīlā"
+],
+"White": [
+"चिट्टा",
+"Ciṭṭā"
+],
+"Black": [
+"काला",
+"Kālā"
+],
+"Colour": [
+"रंग",
+"Raṃga"
+],
+"Pink": [
+"गलाबी",
+"Galābī"
+],
+"Purple": [
+"काशनी",
+"Kāśanī"
+],
+"Brown": [
+"भूरा",
+"Bhūrā"
+],
+"Grey": [
+"ग्रे",
+"Gre"
+],
+"Golden": [
+"सुनहरा",
+"Sunaharā"
+],
+"Silver": [
+"चांदी",
+"Cāṃdī"
+],
+"Dark": [
+"न्हेरा",
+"Nherā"
+],
+"Bright": [
+"चमकीला",
+"Camakīlā"
+],
+"Pale": [
+"भुस्सा",
+"Bhussā"
+],
+"Shade": [
+"छां",
+"Chāṃ"
+],
+"Tone": [
+"टोन",
+"Ṭona"
+],
+"Dye": [
+"डाई",
+"Ḍāī"
+],
+"Paint": [
+"पेंट",
+"Peṃṭa"
+],
+"Sky blue": [
+"आसमान नीला",
+"Āsamāna nīlā"
+],
+"Navy blue": [
+"गहरे नीले रंग दा",
+"Gahare nīle raṃga dā"
+],
+"Lime": [
+"चूना",
+"Cūnā"
+],
+"Cream": [
+"क्रीम",
+"Krīma"
+],
+"Beige": [
+"बेज रंग दा",
+"Beja raṃga dā"
+],
+"Maroon": [
+"मैरून",
+"Mairūna"
+],
+"Crimson": [
+"किरमिजी रंग दा",
+"Kiramijī raṃga dā"
+],
+"Turquoise": [
+"फ़िरोज़ा रंग दा",
+"Firozā raṃga dā"
+],
+"Violet": [
+"वायलेट",
+"Vāyaleṭa"
+],
+"Indigo": [
+"नील",
+"Nīla"
+],
+"Magenta": [
+"मैजेंटा",
+"Maijeṃṭā"
+],
+"Cyan": [
+"सियान",
+"Siyāna"
+],
+"Teal": [
+"टील",
+"Ṭīla"
+],
+"Olive": [
+"जैतून दा",
+"Jaitūna dā"
+],
+"Coral": [
+"कोरल",
+"Korala"
+],
+"Peach": [
+"आड़ू",
+"Ār̤ū"
+],
+"Lavender": [
+"लैवेंडर",
+"Laiveṃḍara"
+],
+"Mint": [
+"टकसाल",
+"Ṭakasāla"
+],
+"Ivory": [
+"हाथीदांत दा",
+"Hāthīdāṃta dā"
+],
+"Charcoal": [
+"कोयला दा",
+"Koyalā dā"
+],
+"Rust": [
+"जंग",
+"Jaṃga"
+],
+"Burgundy": [
+"बरगंडी",
+"Baragaṃḍī"
+],
+"Mustard": [
+"सरसों दा",
+"Sarasoṃ dā"
+],
+"Saffron": [
+"केसर",
+"Kesara"
+],
+"Tan": [
+"तान",
+"Tāna"
+],
+"Khaki": [
+"खाकी",
+"Khākī"
+],
+"Transparent": [
+"निरमल",
+"Niramala"
+],
+"Opaque": [
+"अपारदर्शी",
+"Apāradarśī"
+],
+"Shiny": [
+"चमकदार",
+"Camakadāra"
+],
+"Dull": [
+"नकम्मा",
+"Nakammā"
+],
+"Matte": [
+"मैट",
+"Maiṭa"
+],
+"Glossy": [
+"चमकदार",
+"Camakadāra"
+],
+"Striped": [
+"धारीदार",
+"Dhārīdāra"
+],
+"Spotted": [
+"धब्बेदार",
+"Dhabbedāra"
+],
+"Plain": [
+"साद्दा",
+"Sāddā"
+],
+"Pattern": [
+"ढंग",
+"Ḍhaṃga"
+],
+"Multicoloured": [
+"बहुरंगी",
+"Bahuraṃgī"
+],
+"Colourful": [
+"रंगीन",
+"Raṃgīna"
+],
+"Colourless": [
+"बेरंग",
+"Beraṃga"
+],
+"Match": [
+"मेल",
+"Mela"
+],
+"Contrast": [
+"उलटा",
+"Ulaṭā"
+],
+"Blend": [
+"मलावट",
+"Malāvaṭa"
+],
+"Mix": [
+"मिक्स करो",
+"Miksa karo"
+],
+"Primary": [
+"मुंढला",
+"Muṃḍhalā"
+],
+"Secondary": [
+"माध्यमिक",
+"Mādhyamika"
+],
+"Warm": [
+"तत्ता",
+"Tattā"
+],
+"Cool": [
+"बधिया",
+"Badhiyā"
+],
+"Neutral": [
+"बे-लाग",
+"Be-lāga"
+],
+"Vivid": [
+"चटकीला",
+"Caṭakīlā"
+],
+"Faded": [
+"फीका हो गया",
+"Phīkā ho gayā"
+],
+"Matching": [
+"मिलान करना",
+"Milāna karanā"
+],
+"Clashing": [
+"टक्कर मारना",
+"Ṭakkara māranā"
+],
+"Tint": [
+"टिंट",
+"Ṭiṃṭa"
+],
+"Hue": [
+"ह्यू",
+"Hyū"
+],
+"Pigment": [
+"पिगमेंट दा",
+"Pigameṃṭa dā"
+],
+"Ink": [
+"स्याही",
+"Syāhī"
+],
+"Crayon": [
+"क्रेयॉन",
+"Kreyaॉna"
+],
+"Brush": [
+"बुरश",
+"Buraśa"
+],
+"Canvas": [
+"कैनवास दा",
+"Kainavāsa dā"
+],
+"Picture": [
+"तसवीर",
+"Tasavīra"
+],
+"Image": [
+"बिंब",
+"Biṃba"
+],
+"Beautiful": [
+"रूपवान",
+"Rūpavāna"
+],
+"Ugly": [
+"बदशक्ल",
+"Badaśakla"
+],
+"Pretty": [
+"रूपवान",
+"Rūpavāna"
+],
+"Elegant": [
+"शानदार",
+"Śānadāra"
+],
+"Style": [
+"स्टाइल",
+"Sṭāila"
+],
+"What": [
+"केह्",
+"Keh"
+],
+"Who": [
+"कु'न",
+"Ku'na"
+],
+"Where": [
+"कतांह्",
+"Katāṃh"
+],
+"When": [
+"कदूं",
+"Kadūṃ"
+],
+"Why": [
+"की",
+"Kī"
+],
+"How": [
+"कि'यां",
+"Ki'yāṃ"
+],
+"This": [
+"एह्",
+"Eh"
+],
+"That": [
+"ओह्",
+"Oh"
+],
+"Problem": [
+"परेशानी",
+"Pareśānī"
+],
+"Help": [
+"मदाद",
+"Madāda"
+],
+"Which": [
+"जित",
+"Jita"
+],
+"Whose": [
+"कोहदा",
+"Kohadā"
+],
+"Whom": [
+"कुसी",
+"Kusī"
+],
+"Whether": [
+"भाएं",
+"Bhāeṃ"
+],
+"Question": [
+"सुआल",
+"Suāla"
+],
+"Answer": [
+"परता",
+"Paratā"
+],
+"Ask": [
+"पुच्छो",
+"Puccho"
+],
+"Tell": [
+"दस्सो",
+"Dasso"
+],
+"Say": [
+"आक्खो",
+"Ākkho"
+],
+"Reply": [
+"परता",
+"Paratā"
+],
+"Explain": [
+"व्याख्या करना",
+"Vyākhyā karanā"
+],
+"Describe": [
+"वर्णन करना",
+"Varṇana karanā"
+],
+"Mean": [
+"कमीना",
+"Kamīnā"
+],
+"Reason": [
+"कारण",
+"Kāraṇa"
+],
+"Cause": [
+"कारण",
+"Kāraṇa"
+],
+"Result": [
+"नतीजा",
+"Natījā"
+],
+"Fact": [
+"तत्थ",
+"Tattha"
+],
+"Truth": [
+"सच्चाई",
+"Saccāī"
+],
+"Lie": [
+"झूठ",
+"Jhūṭha"
+],
+"Opinion": [
+"राय",
+"Rāya"
+],
+"Perhaps": [
+"कुश्वै",
+"Kuśvai"
+],
+"Probably": [
+"खबरै",
+"Khabarai"
+],
+"Definitely": [
+"जरूर",
+"Jarūra"
+],
+"Absolutely": [
+"बिलकुल",
+"Bilakula"
+],
+"Exactly": [
+"बिलकुल स्हेई",
+"Bilakula sheī"
+],
+"Wrong": [
+"गलत",
+"Galata"
+],
+"True": [
+"सच्च",
+"Sacca"
+],
+"False": [
+"गलत",
+"Galata"
+],
+"Correct": [
+"स्हेई",
+"Sheī"
+],
+"Incorrect": [
+"गलत",
+"Galata"
+],
+"Same": [
+"इक्कै जनेहा",
+"Ikkai janehā"
+],
+"Different": [
+"बक्खरा",
+"Bakkharā"
+],
+"Similar": [
+"इक्कै जनेहा",
+"Ikkai janehā"
+],
+"Possible": [
+"मुमकन",
+"Mumakana"
+],
+"Impossible": [
+"ना-मुमकन",
+"Nā-mumakana"
+],
+"Necessary": [
+"जरूरी",
+"Jarūrī"
+],
+"Important": [
+"जरूरी",
+"Jarūrī"
+],
+"Optional": [
+"विकल्पी",
+"Vikalpī"
+],
+"Choice": [
+"पसंद",
+"Pasaṃda"
+],
+"Option": [
+"चारा",
+"Cārā"
+],
+"Decision": [
+"फैसला",
+"Phaisalā"
+],
+"Idea": [
+"बचार",
+"Bacāra"
+],
+"Thought": [
+"बचार",
+"Bacāra"
+],
+"Mind": [
+"दमाग",
+"Damāga"
+],
+"Because": [
+"की जे",
+"Kī je"
+],
+"Therefore": [
+"सो",
+"So"
+],
+"However": [
+"उं'आं",
+"Uṃ'āṃ"
+],
+"Although": [
+"भाएं",
+"Bhāeṃ"
+],
+"Unless": [
+"जदूं तगर",
+"Jadūṃ tagara"
+],
+"Until": [
+"जदूं तगर",
+"Jadūṃ tagara"
+],
+"If": [
+"जेकर",
+"Jekara"
+],
+"Then": [
+"अदूं",
+"Adūṃ"
+],
+"So": [
+"इसलेई",
+"Isaleī"
+],
+"But": [
+"पर",
+"Para"
+],
+"And": [
+"ते",
+"Te"
+],
+"Or": [
+"जां",
+"Jāṃ"
+],
+"Nor": [
+"ते नेईं",
+"Te neīṃ"
+],
+"Yet": [
+"अजें",
+"Ajeṃ"
+],
+"Still": [
+"तां-बी",
+"Tāṃ-bī"
+],
+"Already": [
+"अग्गें",
+"Aggeṃ"
+],
+"Again": [
+"परतियै",
+"Paratiyai"
+],
+"Also": [
+"बी",
+"Bī"
+],
+"Too": [
+"बी",
+"Bī"
+],
+"Either": [
+"जां",
+"Jāṃ"
+],
+"Neither": [
+"कोई नेईं",
+"Koī neīṃ"
+],
+"Both": [
+"दोए",
+"Doe"
+],
+"Only": [
+"छड़ा",
+"Char̤ā"
+],
+"Just": [
+"हूनै",
+"Hūnai"
+],
+"Even": [
+"धोड़ी",
+"Dhor̤ī"
+],
+"Almost": [
+"लगभग",
+"Lagabhaga"
+],
+"Quite": [
+"बिलकुल",
+"Bilakula"
+],
+"Very": [
+"बड़ा",
+"Bar̤ā"
+],
+"Really": [
+"सच्चें",
+"Sacceṃ"
+]
+}

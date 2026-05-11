@@ -1,0 +1,8 @@
+ks	Hello
+kas	Hello
+ur	ہیلو
+hi	नमस्ते
+gom	हॅलो
+doi	नमस्कार
+sd	سلام
+ps	سلام
