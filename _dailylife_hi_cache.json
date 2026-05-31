@@ -1,0 +1,4002 @@
+{
+"We (listener including)": [
+"हम (श्रोता सहित)",
+"Hama (śrotā sahita)"
+],
+"He / That (m.)": [
+"वह / वह (एम.)",
+"Vaha / vaha (ema.)"
+],
+"She / That (f.)": [
+"वह / वह (एफ.)",
+"Vaha / vaha (epha.)"
+],
+"It / That (n.)": [
+"यह / वह (एन.)",
+"Yaha / vaha (ena.)"
+],
+"They (Plural of He) / Those (m.)": [
+"वे (उसका बहुवचन) / वो (एम.)",
+"Ve (usakā bahuvacana) / vo (ema.)"
+],
+"They (Plural of She) / Those (f.)": [
+"वे (वह का बहुवचन) / वो (एफ.)",
+"Ve (vaha kā bahuvacana) / vo (epha.)"
+],
+"They (Plural of it) / Those (n.)": [
+"वे (इसका बहुवचन) / वे (एन.)",
+"Ve (isakā bahuvacana) / ve (ena.)"
+],
+"We went to the party (listener not included)": [
+"हम पार्टी में गए (श्रोता शामिल नहीं)",
+"Hama pārṭī meṃ gae (śrotā śāmila nahīṃ)"
+],
+"We went to the party (listener included)": [
+"हम पार्टी में गए (श्रोता भी शामिल)",
+"Hama pārṭī meṃ gae (śrotā bhī śāmila)"
+],
+"This is a horse": [
+"यह एक घोड़ा है",
+"Yaha eka ghor̤ā hai"
+],
+"This is an ant": [
+"यह एक चींटी है",
+"Yaha eka cīṃṭī hai"
+],
+"You (singular male)": [
+"आप (एकवचन पुरुष)",
+"Āpa (ekavacana puruṣa)"
+],
+"You (singular female)": [
+"आप (एकवचन महिला)",
+"Āpa (ekavacana mahilā)"
+],
+"He / That (male) / This (male)": [
+"वह / वह (पुरुष) / यह (पुरुष)",
+"Vaha / vaha (puruṣa) / yaha (puruṣa)"
+],
+"She / That (female) / This (female)": [
+"वह / वह (महिला) / यह (महिला)",
+"Vaha / vaha (mahilā) / yaha (mahilā)"
+],
+"It / That (neuter) / This (neuter)": [
+"यह / वह (नपुंसकलिंग) / यह (नपुंसकलिंग)",
+"Yaha / vaha (napuṃsakaliṃga) / yaha (napuṃsakaliṃga)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"वे (एम.) / वे (एम.) / ये (एम.)",
+"Ve (ema.) / ve (ema.) / ye (ema.)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"वे (एफ.) / वे (एफ.) / ये (एफ.)",
+"Ve (epha.) / ve (epha.) / ye (epha.)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"वे (एन.) / वे (एन.) / ये (एन.)",
+"Ve (ena.) / ve (ena.) / ye (ena.)"
+],
+"I (male) do": [
+"मैं (पुरुष) करता हूँ",
+"Maiṃ (puruṣa) karatā hū~"
+],
+"I (female) do": [
+"मैं (महिला) करती हूं",
+"Maiṃ (mahilā) karatī hūṃ"
+],
+"You (male) cry": [
+"आप (पुरुष) रोते हैं",
+"Āpa (puruṣa) rote haiṃ"
+],
+"You (female) cry": [
+"तुम (महिला) रोती हो",
+"Tuma (mahilā) rotī ho"
+],
+"You (plural) walk": [
+"आप (बहुवचन) चलते हैं",
+"Āpa (bahuvacana) calate haiṃ"
+],
+"I shall be doing.": [
+"मैं करता रहूँगा.",
+"Maiṃ karatā rahū~gā."
+],
+"We will be dancing.": [
+"हम नाचेंगे.",
+"Hama nāceṃge."
+],
+"You will be crying.": [
+"आप रो रहे होंगे.",
+"Āpa ro rahe hoṃge."
+],
+"You (pl.) will be walking.": [
+"आप (कृपया) चल रहे होंगे।",
+"Āpa (kṛpayā) cala rahe hoṃge|"
+],
+"He will be walking.": [
+"वह चल रहा होगा.",
+"Vaha cala rahā hogā."
+],
+"She will be speaking.": [
+"वह बोल रही होगी.",
+"Vaha bola rahī hogī."
+],
+"It will be moving.": [
+"यह गतिमान होगा.",
+"Yaha gatimāna hogā."
+],
+"They will be dancing.": [
+"वे नाच रहे होंगे.",
+"Ve nāca rahe hoṃge."
+],
+"He / That (m.) / This (m.)": [
+"वह / वह (एम.) / यह (एम.)",
+"Vaha / vaha (ema.) / yaha (ema.)"
+],
+"She / That (f.) / This (f.)": [
+"वह / वह (एफ.) / यह (एफ.)",
+"Vaha / vaha (epha.) / yaha (epha.)"
+],
+"It / That (n.) / This (n.)": [
+"यह / वह (एन.) / यह (एन.)",
+"Yaha / vaha (ena.) / yaha (ena.)"
+],
+"I (male) / I (female)": [
+"मैं (पुरुष) / मैं (महिला)",
+"Maiṃ (puruṣa) / maiṃ (mahilā)"
+],
+"I (male) was doing.": [
+"मैं (पुरुष) कर रहा था.",
+"Maiṃ (puruṣa) kara rahā thā."
+],
+"I (female) was doing.": [
+"मैं (महिला) कर रही थी.",
+"Maiṃ (mahilā) kara rahī thī."
+],
+"We were dancing.": [
+"हम नाच रहे थे।",
+"Hama nāca rahe the|"
+],
+"You (male) were crying.": [
+"आप (पुरुष) रो रहे थे.",
+"Āpa (puruṣa) ro rahe the."
+],
+"You (female) were crying.": [
+"तुम (महिला) रो रही थी.",
+"Tuma (mahilā) ro rahī thī."
+],
+"You (Plural) were walking": [
+"आप (बहुवचन) चल रहे थे",
+"Āpa (bahuvacana) cala rahe the"
+],
+"He was walking.": [
+"वहटहल रहा था।",
+"Vahaṭahala rahā thā|"
+],
+"She was speaking.": [
+"वह बोल रही थी.",
+"Vaha bola rahī thī."
+],
+"It was moving.": [
+"यह घूम रहा था.",
+"Yaha ghūma rahā thā."
+],
+"They(m.) were dancing.": [
+"वे नाच रहे थे।",
+"Ve nāca rahe the|"
+],
+"They(f.) were dancing.": [
+"वे(एफ.) नाच रहे थे।",
+"Ve(epha.) nāca rahe the|"
+],
+"They(n.) were dancing.": [
+"वे नाच रहे थे।",
+"Ve nāca rahe the|"
+],
+"She has opened door": [
+"उसने दरवाज़ा खोल दिया है",
+"Usane daravāzā khola diyā hai"
+],
+"She had opened door": [
+"उसने दरवाज़ा खोला था",
+"Usane daravāzā kholā thā"
+],
+"She will have opened door": [
+"उसने दरवाज़ा खोला होगा",
+"Usane daravāzā kholā hogā"
+],
+"You (female) have danced": [
+"आपने (महिला) नृत्य किया है",
+"Āpane (mahilā) nṛtya kiyā hai"
+],
+"You (female) had danced": [
+"आपने (महिला) डांस किया था",
+"Āpane (mahilā) ḍāṃsa kiyā thā"
+],
+"You (female) will have danced": [
+"आप (महिला) नाच चुकी होंगी",
+"Āpa (mahilā) nāca cukī hoṃgī"
+],
+"You (plural) have danced": [
+"आपने (बहुवचन) नृत्य किया है",
+"Āpane (bahuvacana) nṛtya kiyā hai"
+],
+"You (plural) had danced": [
+"आपने (बहुवचन) नृत्य किया था",
+"Āpane (bahuvacana) nṛtya kiyā thā"
+],
+"You (plural) will have danced": [
+"आपने (बहुवचन) नृत्य किया होगा",
+"Āpane (bahuvacana) nṛtya kiyā hogā"
+],
+"On behalf of": [
+"की ओर से",
+"Kī ora se"
+],
+"In front of": [
+"के सामने",
+"Ke sāmane"
+],
+"He / That (male)": [
+"वह / वह (पुरुष)",
+"Vaha / vaha (puruṣa)"
+],
+"She / That (female)": [
+"वह / वह (महिला)",
+"Vaha / vaha (mahilā)"
+],
+"It / That (neuter)": [
+"यह / वह (नपुंसक)",
+"Yaha / vaha (napuṃsaka)"
+],
+"They (m.) / Those (m.)": [
+"वे (एम.) / वे (एम.)",
+"Ve (ema.) / ve (ema.)"
+],
+"They (f.) / Those (f.)": [
+"वे (एफ.) / वे (एफ.)",
+"Ve (epha.) / ve (epha.)"
+],
+"They (n.) / Those (n.)": [
+"वे (एन.) / वे (एन.)",
+"Ve (ena.) / ve (ena.)"
+],
+"I do not speak": [
+"मै नही बोलता",
+"Mai nahī bolatā"
+],
+"He does not walk": [
+"वह चलता नहीं है",
+"Vaha calatā nahīṃ hai"
+],
+"You do not eat": [
+"तुम नहीं खाते हो",
+"Tuma nahīṃ khāte ho"
+],
+"They do not dance": [
+"वे नृत्य नहीं करते",
+"Ve nṛtya nahīṃ karate"
+],
+"I am not speaking": [
+"मैं नहीं बोल रहा हूँ",
+"Maiṃ nahīṃ bola rahā hū~"
+],
+"He is not walking": [
+"वह चल नहीं रहा है",
+"Vaha cala nahīṃ rahā hai"
+],
+"She is not speaking": [
+"वह बोल नहीं रही है",
+"Vaha bola nahīṃ rahī hai"
+],
+"It is not moving": [
+"यह हिल नहीं रहा है",
+"Yaha hila nahīṃ rahā hai"
+],
+"They are not dancing": [
+"वे नाच नहीं रहे हैं",
+"Ve nāca nahīṃ rahe haiṃ"
+],
+"You are not dancing": [
+"तुम नाच नहीं रहे हो",
+"Tuma nāca nahīṃ rahe ho"
+],
+"I have not opened the box": [
+"मैंने बक्सा नहीं खोला है",
+"Maiṃne baksā nahīṃ kholā hai"
+],
+"I have not spoken": [
+"मैंने बात नहीं की है",
+"Maiṃne bāta nahīṃ kī hai"
+],
+"He has not eaten the mango": [
+"उसने आम नहीं खाया है",
+"Usane āma nahīṃ khāyā hai"
+],
+"You do not speak": [
+"आप बात ना करो",
+"Āpa bāta nā karo"
+],
+"Do not read it": [
+"इसे मत पढ़ो",
+"Ise mata par̤ho"
+],
+"Do not do it": [
+"इसे नहीं करें",
+"Ise nahīṃ kareṃ"
+],
+"You do not go": [
+"तुम जाओ मत",
+"Tuma jāo mata"
+],
+"I moved toy": [
+"मैंने खिलौना घुमाया",
+"Maiṃne khilaunā ghumāyā"
+],
+"To cause to cook": [
+"पकाने के लिए प्रेरित करना",
+"Pakāne ke lie prerita karanā"
+],
+"I cooked rice": [
+"मैंने चावल पकाया",
+"Maiṃne cāvala pakāyā"
+],
+"To cause to die / To kill": [
+"मरने के लिए प्रेरित करना/मार डालना",
+"Marane ke lie prerita karanā/māra ḍālanā"
+],
+"To cause to fall": [
+"गिराने का कारण बनना",
+"Girāne kā kāraṇa bananā"
+],
+"To break (intransitive)": [
+"तोड़ना (अकर्मक)",
+"Tor̤anā (akarmaka)"
+],
+"To cause to break": [
+"तोड़ने का कारण बनना",
+"Tor̤ane kā kāraṇa bananā"
+],
+"I broke glass": [
+"मैंने शीशा तोड़ दिया",
+"Maiṃne śīśā tor̤a diyā"
+],
+"To cause to leave": [
+"छोड़ने का कारण बनना",
+"Chor̤ane kā kāraṇa bananā"
+],
+"To cause to drink / To feed liquid": [
+"तरल पदार्थ पिलाना/पिलाना",
+"Tarala padārtha pilānā/pilānā"
+],
+"To call (not cause to speak)": [
+"कॉल करना (बोलने का कारण नहीं)",
+"Kaॉla karanā (bolane kā kāraṇa nahīṃ)"
+],
+"To keep animal (not cause to run)": [
+"जानवर पालने के लिए (भागने का कारण नहीं)",
+"Jānavara pālane ke lie (bhāgane kā kāraṇa nahīṃ)"
+],
+"I had spoken": [
+"मैंने बात की थी",
+"Maiṃne bāta kī thī"
+],
+"You (male) had danced": [
+"आपने (पुरुष) नृत्य किया था",
+"Āpane (puruṣa) nṛtya kiyā thā"
+],
+"He had laughed": [
+"वह हंसा था",
+"Vaha haṃsā thā"
+],
+"Those boys had laughed": [
+"वो लड़के हंस पड़े थे",
+"Vo lar̤ake haṃsa par̤e the"
+],
+"I had opened door": [
+"मैंने दरवाज़ा खोला था",
+"Maiṃne daravāzā kholā thā"
+],
+"I had opened window": [
+"मैंने खिड़की खोल रखी थी",
+"Maiṃne khir̤akī khola rakhī thī"
+],
+"She had eaten mango": [
+"उसने आम खाया था",
+"Usane āma khāyā thā"
+],
+"Those girls had picked keys": [
+"उन लड़कियों ने चाबी उठा ली थी",
+"Una lar̤akiyoṃ ne cābī uṭhā lī thī"
+],
+"I have spoken": [
+"मैं बात कर ली है",
+"Maiṃ bāta kara lī hai"
+],
+"I will have spoken": [
+"मैंने बात कर ली होगी",
+"Maiṃne bāta kara lī hogī"
+],
+"He had been saying": [
+"वह कह रहा था",
+"Vaha kaha rahā thā"
+],
+"He has been saying": [
+"वह कहते रहे हैं",
+"Vaha kahate rahe haiṃ"
+],
+"He will have been saying": [
+"वह कहता रहा होगा",
+"Vaha kahatā rahā hogā"
+],
+"I have been saying": [
+"मैं कहता रहा हूं",
+"Maiṃ kahatā rahā hūṃ"
+],
+"She has been saying": [
+"वह कहती रही है",
+"Vaha kahatī rahī hai"
+],
+"They have been dancing": [
+"वे नाच रहे हैं",
+"Ve nāca rahe haiṃ"
+],
+"You have been eating mango": [
+"आप आम खाते रहे होंगे",
+"Āpa āma khāte rahe hoṃge"
+],
+"I have been working there for 3 years": [
+"मैं वहां 3 साल से काम कर रहा हूं",
+"Maiṃ vahāṃ 3 sāla se kāma kara rahā hūṃ"
+],
+"I had been saying": [
+"मैं कह रहा था",
+"Maiṃ kaha rahā thā"
+],
+"She had been saying": [
+"वह कह रही थी",
+"Vaha kaha rahī thī"
+],
+"They had been dancing": [
+"वे नाच रहे थे",
+"Ve nāca rahe the"
+],
+"You had been eating mango": [
+"आप आम खा रहे थे",
+"Āpa āma khā rahe the"
+],
+"She will have been saying": [
+"वह कहती होगी",
+"Vaha kahatī hogī"
+],
+"They will have been dancing": [
+"वे नाच रहे होंगे",
+"Ve nāca rahe hoṃge"
+],
+"You will have been eating mango": [
+"आप आम तो खाते ही होंगे",
+"Āpa āma to khāte hī hoṃge"
+],
+"I will have been working there for 3 years": [
+"मैं वहां 3 साल से काम कर रहा हूंगा",
+"Maiṃ vahāṃ 3 sāla se kāma kara rahā hūṃgā"
+],
+"They are going to come": [
+"वे आने वाले हैं",
+"Ve āne vāle haiṃ"
+],
+"I am going to speak": [
+"मैं बोलने जा रहा हूं",
+"Maiṃ bolane jā rahā hūṃ"
+],
+"She is going to open door": [
+"वह दरवाजा खोलने जा रही है",
+"Vaha daravājā kholane jā rahī hai"
+],
+"You are going to dance": [
+"आप नाचने जा रहे हैं",
+"Āpa nācane jā rahe haiṃ"
+],
+"Are they going to come?": [
+"क्या वे आने वाले हैं?",
+"Kyā ve āne vāle haiṃ?"
+],
+"Am I going to speak?": [
+"क्या मैं बोलने जा रहा हूँ?",
+"Kyā maiṃ bolane jā rahā hū~?"
+],
+"Is she going to open door?": [
+"क्या वह दरवाज़ा खोलने जा रही है?",
+"Kyā vaha daravāzā kholane jā rahī hai?"
+],
+"Are you going to dance?": [
+"क्या आप नृत्य करने जा रहे हैं?",
+"Kyā āpa nṛtya karane jā rahe haiṃ?"
+],
+"She / That (f.)/ This (f.)": [
+"वह / वह (एफ.)/ यह (एफ.)",
+"Vaha / vaha (epha.)/ yaha (epha.)"
+],
+"It / That(n.) / This (n.)": [
+"यह / वह(एन.) / यह (एन.)",
+"Yaha / vaha(ena.) / yaha (ena.)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"वे (उसका बहुवचन) / वे (एम.) / ये (एम.)",
+"Ve (usakā bahuvacana) / ve (ema.) / ye (ema.)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"वे (वह का बहुवचन) / वो (एफ.) / ये (एफ.)",
+"Ve (vaha kā bahuvacana) / vo (epha.) / ye (epha.)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"वे (इसका बहुवचन) / वे (एन.) / ये (एन.)",
+"Ve (isakā bahuvacana) / ve (ena.) / ye (ena.)"
+],
+"I used to do": [
+"मैं करता था",
+"Maiṃ karatā thā"
+],
+"She used to speak": [
+"वह बोलती थी",
+"Vaha bolatī thī"
+],
+"He used to dance": [
+"वह नाचता था",
+"Vaha nācatā thā"
+],
+"They (plural of he) used to eat mangos": [
+"वे (उसका बहुवचन) आम खाते थे",
+"Ve (usakā bahuvacana) āma khāte the"
+],
+"They (plural of she) used to play cricket": [
+"वे (उसका बहुवचन) क्रिकेट खेलते थे",
+"Ve (usakā bahuvacana) krikeṭa khelate the"
+],
+"He used to be there": [
+"वह वहीं होता था",
+"Vaha vahīṃ hotā thā"
+],
+"She used to be quiet": [
+"वह शांत रहती थी",
+"Vaha śāṃta rahatī thī"
+],
+"I did not use to do": [
+"मैं नहीं करता था",
+"Maiṃ nahīṃ karatā thā"
+],
+"She did not use to speak": [
+"वह बोलती नहीं थी",
+"Vaha bolatī nahīṃ thī"
+],
+"You did not use to dance": [
+"तुम्हें नाचना नहीं आता था",
+"Tumheṃ nācanā nahīṃ ātā thā"
+],
+"They (plural of he) did not use to eat mangos": [
+"वे (उसका बहुवचन) आम नहीं खाते थे",
+"Ve (usakā bahuvacana) āma nahīṃ khāte the"
+],
+"She did not use to be quiet": [
+"वह चुप नहीं रहती थी",
+"Vaha cupa nahīṃ rahatī thī"
+],
+"He did not use to be there": [
+"वह वहां नहीं होता था",
+"Vaha vahāṃ nahīṃ hotā thā"
+],
+"He is used to dance": [
+"उसे नाचने की आदत है",
+"Use nācane kī ādata hai"
+],
+"She is used to speak": [
+"वह बोलने की आदी है",
+"Vaha bolane kī ādī hai"
+],
+"Those girls are used to laugh": [
+"उन लड़कियों को हंसने की आदत होती है",
+"Una lar̤akiyoṃ ko haṃsane kī ādata hotī hai"
+],
+"I am used to be there": [
+"मुझे वहां रहने की आदत है",
+"Mujhe vahāṃ rahane kī ādata hai"
+],
+"She is used to be quiet": [
+"वह शांत रहने की आदी है",
+"Vaha śāṃta rahane kī ādī hai"
+],
+"He is not used to dance": [
+"उसे नाचने की आदत नहीं है",
+"Use nācane kī ādata nahīṃ hai"
+],
+"She is not used to speak": [
+"उसे बोलने की आदत नहीं है",
+"Use bolane kī ādata nahīṃ hai"
+],
+"I used to eat mango": [
+"मैं आम खाता था",
+"Maiṃ āma khātā thā"
+],
+"Kaushik used to eat mango": [
+"कौशिक आम खाते थे",
+"Kauśika āma khāte the"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"कौशिक, गुरु, सुन्दर रोज मिलते थे",
+"Kauśika, guru, sundara roja milate the"
+],
+"My friends and I used to play cricket": [
+"मैं और मेरे दोस्त क्रिकेट खेलते थे",
+"Maiṃ aura mere dosta krikeṭa khelate the"
+],
+"I used to see": [
+"मैं देखा करता था",
+"Maiṃ dekhā karatā thā"
+],
+"Kaushik used to see": [
+"कौशिक देखता था",
+"Kauśika dekhatā thā"
+],
+"Kaushik used to do": [
+"कौशिक करते थे",
+"Kauśika karate the"
+],
+"He opened the door": [
+"उसने दरवाजा खोला",
+"Usane daravājā kholā"
+],
+"If he had opened the door then": [
+"अगर उसने दरवाज़ा खोला होता तो",
+"Agara usane daravāzā kholā hotā to"
+],
+"He had spoken": [
+"उन्होंने बात की थी",
+"Unhoṃne bāta kī thī"
+],
+"If he had spoken": [
+"अगर उसने बोला होता",
+"Agara usane bolā hotā"
+],
+"If you had spoken then she would have spoken": [
+"तुम बोलते तो बोलती",
+"Tuma bolate to bolatī"
+],
+"If he had cried then they would have ran": [
+"अगर वह चिल्लाता तो वे भाग जाते",
+"Agara vaha cillātā to ve bhāga jāte"
+],
+"If you go I will cry": [
+"तुम जाओगे तो मैं रोऊँगा",
+"Tuma jāoge to maiṃ roū~gā"
+],
+"If he sings she will dance": [
+"अगर वह गाएगा तो वह नाचेगी",
+"Agara vaha gāegā to vaha nācegī"
+],
+"reason of coming": [
+"आने का कारण",
+"Āne kā kāraṇa"
+],
+"She spoke after my dancing": [
+"वह मेरे डांस के बाद बोलीं",
+"Vaha mere ḍāṃsa ke bāda bolīṃ"
+],
+"after I danced": [
+"मेरे नाचने के बाद",
+"Mere nācane ke bāda"
+],
+"She spoke after I danced": [
+"मेरे नाचने के बाद वह बोली",
+"Mere nācane ke bāda vaha bolī"
+],
+"He cried after she went": [
+"उसके जाने के बाद वह रोया",
+"Usake jāne ke bāda vaha royā"
+],
+"He told about his coming to school": [
+"उसने स्कूल आने की बात बतायी",
+"Usane skūla āne kī bāta batāyī"
+],
+"He told me that he is coming": [
+"उसने मुझसे कहा कि वह आ रहा है",
+"Usane mujhase kahā ki vaha ā rahā hai"
+],
+"He told me that he is going to come": [
+"उसने मुझसे कहा कि वह आने वाला है",
+"Usane mujhase kahā ki vaha āne vālā hai"
+],
+"I don't remember she having said something": [
+"मुझे याद नहीं कि उसने कुछ कहा हो",
+"Mujhe yāda nahīṃ ki usane kucha kahā ho"
+],
+"I don't remember she having eaten mango": [
+"मुझे याद नहीं कि उसने आम खाया हो",
+"Mujhe yāda nahīṃ ki usane āma khāyā ho"
+],
+"while I speak": [
+"जब मैं बोलता हूं",
+"Jaba maiṃ bolatā hūṃ"
+],
+"while I do": [
+"जबकि मैं करता हूँ",
+"Jabaki maiṃ karatā hū~"
+],
+"while I dance": [
+"जब मैं नृत्य करता हूँ",
+"Jaba maiṃ nṛtya karatā hū~"
+],
+"Come to see this photo": [
+"इस फोटो को देखने आइये",
+"Isa phoṭo ko dekhane āiye"
+],
+"Come to eat with me": [
+"मेरे साथ खाना खाने आओ",
+"Mere sātha khānā khāne āo"
+],
+"Smoking is prohibited": [
+"धूम्रपान वर्जित है",
+"Dhūmrapāna varjita hai"
+],
+"Court asked to be present tomorrow": [
+"कोर्ट ने कल पेश होने को कहा",
+"Korṭa ne kala peśa hone ko kahā"
+],
+"Sit and watch": [
+"बैठो और देखो",
+"Baiṭho aura dekho"
+],
+"come and go": [
+"आना और जाना",
+"Ānā aura jānā"
+],
+"He came and saw it": [
+"उसने आकर देखा",
+"Usane ākara dekhā"
+],
+"They will go and check it": [
+"वे जाकर इसकी जांच करेंगे",
+"Ve jākara isakī jāṃca kareṃge"
+],
+"smile and say": [
+"मुस्कुराओ और कहो",
+"Muskurāo aura kaho"
+],
+"till I speak": [
+"जब तक मैं बोलूं",
+"Jaba taka maiṃ bolūṃ"
+],
+"until she smiles": [
+"जब तक वह मुस्कुराए नहीं",
+"Jaba taka vaha muskurāe nahīṃ"
+],
+"till he goes": [
+"जब तक वह नहीं जाता",
+"Jaba taka vaha nahīṃ jātā"
+],
+"until we come": [
+"जब तक हम नहीं आते",
+"Jaba taka hama nahīṃ āte"
+],
+"For good horse": [
+"अच्छे घोड़े के लिए",
+"Acche ghor̤e ke lie"
+],
+"For good chair": [
+"अच्छी कुर्सी के लिए",
+"Acchī kursī ke lie"
+],
+"After easy exam": [
+"आसान परीक्षा के बाद",
+"Āsāna parīkṣā ke bāda"
+],
+"For red horse": [
+"लाल घोड़े के लिए",
+"Lāla ghor̤e ke lie"
+],
+"About beautiful drawing": [
+"खूबसूरत ड्राइंग के बारे में",
+"Khūbasūrata ḍrāiṃga ke bāre meṃ"
+],
+"I can eat": [
+"मैं खा सकता हूं",
+"Maiṃ khā sakatā hūṃ"
+],
+"He can sing": [
+"वह गा सकता है",
+"Vaha gā sakatā hai"
+],
+"You(plural) could eat mango": [
+"आप (बहुवचन) आम खा सकते हैं",
+"Āpa (bahuvacana) āma khā sakate haiṃ"
+],
+"You(plural) could eat chutney": [
+"आप (बहुवचन) चटनी खा सकते हैं",
+"Āpa (bahuvacana) caṭanī khā sakate haiṃ"
+],
+"She could dance": [
+"वह नृत्य कर सकती थी",
+"Vaha nṛtya kara sakatī thī"
+],
+"They (plural of she) will be able to move": [
+"वे (वह का बहुवचन) हिलने-डुलने में सक्षम होंगे",
+"Ve (vaha kā bahuvacana) hilane-ḍulane meṃ sakṣama hoṃge"
+],
+"I can not eat": [
+"मैं नहीं खा सकते हैं",
+"Maiṃ nahīṃ khā sakate haiṃ"
+],
+"He can not sing": [
+"वह गा नहीं सकता",
+"Vaha gā nahīṃ sakatā"
+],
+"She could not dance": [
+"उसे डांस नहीं आता था",
+"Use ḍāṃsa nahīṃ ātā thā"
+],
+"You(plural) could not eat mango": [
+"आप (बहुवचन) आम नहीं खा सकते",
+"Āpa (bahuvacana) āma nahīṃ khā sakate"
+],
+"You(plural) could not eat chutney": [
+"आप (बहुवचन) चटनी नहीं खा सकते",
+"Āpa (bahuvacana) caṭanī nahīṃ khā sakate"
+],
+"They will not be able to move": [
+"वे हिल-डुल नहीं सकेंगे",
+"Ve hila-ḍula nahīṃ sakeṃge"
+],
+"I can play cricket": [
+"मैं क्रिकेट खेल सकता हूं",
+"Maiṃ krikeṭa khela sakatā hūṃ"
+],
+"I could play cricket": [
+"मैं क्रिकेट खेल सकता था",
+"Maiṃ krikeṭa khela sakatā thā"
+],
+"I will be able to play cricket": [
+"मैं क्रिकेट खेल सकूंगा",
+"Maiṃ krikeṭa khela sakūṃgā"
+],
+"He can eat mangoes": [
+"वह आम खा सकता है",
+"Vaha āma khā sakatā hai"
+],
+"He could eat mangoes": [
+"वह आम खा सकता था",
+"Vaha āma khā sakatā thā"
+],
+"He will be able to eat mangoes": [
+"वह आम खा सकेंगे",
+"Vaha āma khā sakeṃge"
+],
+"They could open box": [
+"वे बक्सा खोल सकते थे",
+"Ve baksā khola sakate the"
+],
+"They could open bag": [
+"वे बैग खोल सकते थे",
+"Ve baiga khola sakate the"
+],
+"They could speak": [
+"वे बोल सकते थे",
+"Ve bola sakate the"
+],
+"They gathered to speak": [
+"वे बोलने के लिए एकत्र हुए",
+"Ve bolane ke lie ekatra hue"
+],
+"I want mango": [
+"मुझे आम चाहिए",
+"Mujhe āma cāhie"
+],
+"He wants mango": [
+"उसे आम चाहिए",
+"Use āma cāhie"
+],
+"She wants mango": [
+"उसे आम चाहिए",
+"Use āma cāhie"
+],
+"I/He/She want mangoes": [
+"मुझे/उसे/उसे आम चाहिए",
+"Mujhe/use/use āma cāhie"
+],
+"He/She/They want chalk": [
+"वह/वह/वे चाक चाहते हैं",
+"Vaha/vaha/ve cāka cāhate haiṃ"
+],
+"He/She/They want chalks": [
+"वह/वह/वे चॉक चाहते हैं",
+"Vaha/vaha/ve caॉka cāhate haiṃ"
+],
+"He/She/They want bag": [
+"उसे/उसे बैग चाहिए/चाहती है",
+"Use/use baiga cāhie/cāhatī hai"
+],
+"He/She/They want bags": [
+"उसे/उसे बैग चाहिए",
+"Use/use baiga cāhie"
+],
+"He/She/They want page": [
+"वह/वह/वे पेज चाहते हैं",
+"Vaha/vaha/ve peja cāhate haiṃ"
+],
+"He/She/They want pages": [
+"वह/वह/वे पेज चाहते हैं",
+"Vaha/vaha/ve peja cāhate haiṃ"
+],
+"He/She/They wanted chalk": [
+"वह/वह/वे चाक चाहते थे",
+"Vaha/vaha/ve cāka cāhate the"
+],
+"He/She/They wanted chalks": [
+"वह/वह/वे चॉक चाहते थे",
+"Vaha/vaha/ve caॉka cāhate the"
+],
+"He/She/They wanted bag": [
+"वह/वह/वे बैग चाहते थे",
+"Vaha/vaha/ve baiga cāhate the"
+],
+"He/She/They wanted bags": [
+"वह/वे बैग चाहते थे/चाहती थीं",
+"Vaha/ve baiga cāhate the/cāhatī thīṃ"
+],
+"He/She/They wanted page": [
+"वह/वह/वे पेज चाहते थे",
+"Vaha/vaha/ve peja cāhate the"
+],
+"He/She/They wanted pages": [
+"वह/वे पन्ने चाहते थे",
+"Vaha/ve panne cāhate the"
+],
+"He/She/They will need chalk": [
+"उसे/उसे चाक की आवश्यकता होगी",
+"Use/use cāka kī āvaśyakatā hogī"
+],
+"He/She/They will need chalks": [
+"उसे/उसे चाक की आवश्यकता होगी",
+"Use/use cāka kī āvaśyakatā hogī"
+],
+"He/She/They will need bag": [
+"उसे बैग की आवश्यकता होगी",
+"Use baiga kī āvaśyakatā hogī"
+],
+"He/She/They will need bags": [
+"उसे बैग की आवश्यकता होगी",
+"Use baiga kī āvaśyakatā hogī"
+],
+"He/She/They will need page": [
+"उसे/उसे पेज की आवश्यकता होगी",
+"Use/use peja kī āvaśyakatā hogī"
+],
+"He/She/They will need pages": [
+"उसे/उन्हें पृष्ठों की आवश्यकता होगी",
+"Use/unheṃ pṛṣṭhoṃ kī āvaśyakatā hogī"
+],
+"I do not want mango": [
+"मुझे आम नहीं चाहिए",
+"Mujhe āma nahīṃ cāhie"
+],
+"She will not want bag": [
+"उसे बैग नहीं चाहिए होगा",
+"Use baiga nahīṃ cāhie hogā"
+],
+"He did not want chalk": [
+"उसे चाक नहीं चाहिए था",
+"Use cāka nahīṃ cāhie thā"
+],
+"He did not want bag": [
+"उसे बैग नहीं चाहिए था",
+"Use baiga nahīṃ cāhie thā"
+],
+"She does not want ice cream": [
+"उसे आइसक्रीम नहीं चाहिए",
+"Use āisakrīma nahīṃ cāhie"
+],
+"What will happen?": [
+"क्या हो जाएगा?",
+"Kyā ho jāegā?"
+],
+"What is happening?": [
+"क्या हो रहा है?",
+"Kyā ho rahā hai?"
+],
+"It did not happen": [
+"ऐसा नहीं हुआ",
+"Aisā nahīṃ huā"
+],
+"I will become winner": [
+"मैं विजेता बनूंगा",
+"Maiṃ vijetā banūṃgā"
+],
+"It was happening": [
+"ऐसा हो रहा था",
+"Aisā ho rahā thā"
+],
+"He will become mad": [
+"वह पागल हो जायेगा",
+"Vaha pāgala ho jāyegā"
+],
+"He should have eaten mango": [
+"उन्हें आम खाना चाहिए था",
+"Unheṃ āma khānā cāhie thā"
+],
+"He should have eaten tamarind": [
+"उन्हें इमली खानी चाहिए थी",
+"Unheṃ imalī khānī cāhie thī"
+],
+"He should eat mango": [
+"उन्हें आम खाना चाहिए",
+"Unheṃ āma khānā cāhie"
+],
+"He should go": [
+"उसे जाना चाहिए",
+"Use jānā cāhie"
+],
+"He should have gone": [
+"उसे जाना चाहिए था",
+"Use jānā cāhie thā"
+],
+"I should speak": [
+"मुझे बोलना चाहिए",
+"Mujhe bolanā cāhie"
+],
+"I should have spoken": [
+"मुझे बोलना चाहिए था",
+"Mujhe bolanā cāhie thā"
+],
+"They should dance": [
+"उन्हें नाचना चाहिए",
+"Unheṃ nācanā cāhie"
+],
+"They should not dance": [
+"उन्हें डांस नहीं करना चाहिए",
+"Unheṃ ḍāṃsa nahīṃ karanā cāhie"
+],
+"They should have danced": [
+"उन्हें नाचना चाहिए था",
+"Unheṃ nācanā cāhie thā"
+],
+"They should not have danced": [
+"उन्हें डांस नहीं करना चाहिए था",
+"Unheṃ ḍāṃsa nahīṃ karanā cāhie thā"
+],
+"You should play": [
+"तुम्हें खेलना चाहिए",
+"Tumheṃ khelanā cāhie"
+],
+"You should not play": [
+"तुम्हें नहीं खेलना चाहिए",
+"Tumheṃ nahīṃ khelanā cāhie"
+],
+"You should have played": [
+"तुम्हें खेलना चाहिए था",
+"Tumheṃ khelanā cāhie thā"
+],
+"You should not have smiled": [
+"तुम्हें मुस्कुराना नहीं चाहिए था",
+"Tumheṃ muskurānā nahīṃ cāhie thā"
+],
+"She should open box": [
+"उसे बक्सा खोलना चाहिए",
+"Use baksā kholanā cāhie"
+],
+"He should eat": [
+"उसे खाना चाहिए",
+"Use khānā cāhie"
+],
+"You(male) should go": [
+"तुम्हें (पुरुष) जाना चाहिए",
+"Tumheṃ (puruṣa) jānā cāhie"
+],
+"You(male) should eat mango": [
+"आपको (पुरुष) आम खाना चाहिए",
+"Āpako (puruṣa) āma khānā cāhie"
+],
+"He should not go": [
+"उसे नहीं जाना चाहिए",
+"Use nahīṃ jānā cāhie"
+],
+"She should not open box": [
+"उसे बक्सा नहीं खोलना चाहिए",
+"Use baksā nahīṃ kholanā cāhie"
+],
+"He should not eat": [
+"उसे नहीं खाना चाहिए",
+"Use nahīṃ khānā cāhie"
+],
+"He should eat tamarind": [
+"उन्हें इमली खानी चाहिए",
+"Unheṃ imalī khānī cāhie"
+],
+"She should write letter": [
+"उसे पत्र लिखना चाहिए",
+"Use patra likhanā cāhie"
+],
+"You should eat mango": [
+"आपको आम खाना चाहिए",
+"Āpako āma khānā cāhie"
+],
+"He has to do it every day": [
+"उसे यह हर दिन करना होगा",
+"Use yaha hara dina karanā hogā"
+],
+"He will have to do it every day": [
+"ऐसा उसे हर दिन करना होगा",
+"Aisā use hara dina karanā hogā"
+],
+"He had to do it every day": [
+"उसे यह हर दिन करना पड़ता था",
+"Use yaha hara dina karanā par̤atā thā"
+],
+"She has to eat mango": [
+"उसे आम खाना है",
+"Use āma khānā hai"
+],
+"She will have to eat mango": [
+"उसे आम तो खाना ही पड़ेगा",
+"Use āma to khānā hī par̤egā"
+],
+"She had to eat mango": [
+"उसे आम खाना था",
+"Use āma khānā thā"
+],
+"She has to eat mangoes": [
+"उसे आम खाने हैं",
+"Use āma khāne haiṃ"
+],
+"She has to eat tamarind": [
+"उसे इमली खानी है",
+"Use imalī khānī hai"
+],
+"She has to eat tamarinds": [
+"उसे इमली खानी है",
+"Use imalī khānī hai"
+],
+"She has to eat medicine": [
+"उसे दवा खानी पड़ेगी",
+"Use davā khānī par̤egī"
+],
+"She has to eat medicines": [
+"उसे दवाइयां खानी होंगी",
+"Use davāiyāṃ khānī hoṃgī"
+],
+"I have to go": [
+"मुजे जाना है",
+"Muje jānā hai"
+],
+"We have to speak": [
+"हमें बोलना होगा",
+"Hameṃ bolanā hogā"
+],
+"I keep speaking": [
+"मैं बोलता रहता हूं",
+"Maiṃ bolatā rahatā hūṃ"
+],
+"I kept speaking": [
+"मैं बोलता रहा",
+"Maiṃ bolatā rahā"
+],
+"I will keep speaking": [
+"मैं बोलता रहूंगा",
+"Maiṃ bolatā rahūṃgā"
+],
+"You keep speaking": [
+"आप बोलते रहिये",
+"Āpa bolate rahiye"
+],
+"You kept speaking": [
+"आप बोलते रहे",
+"Āpa bolate rahe"
+],
+"You will keep speaking": [
+"आप बोलते रहेंगे",
+"Āpa bolate raheṃge"
+],
+"Keep speaking! (Imperative)": [
+"बोलते रहो! (अनिवार्य)",
+"Bolate raho! (anivārya)"
+],
+"He is taller than me": [
+"वह मुझ से लम्बा है",
+"Vaha mujha se lambā hai"
+],
+"I am shorter than you": [
+"मैं तुमसे छोटा हूँ",
+"Maiṃ tumase choṭā hū~"
+],
+"They were happier than now": [
+"वे अब से भी अधिक खुश थे",
+"Ve aba se bhī adhika khuśa the"
+],
+"He is best": [
+"वह सर्वोत्तम है",
+"Vaha sarvottama hai"
+],
+"Everest is the tallest peak": [
+"एवरेस्ट सबसे ऊंची चोटी है",
+"Evaresṭa sabase ūṃcī coṭī hai"
+],
+"She was the youngest player": [
+"वह सबसे कम उम्र की खिलाड़ी थीं",
+"Vaha sabase kama umra kī khilār̤ī thīṃ"
+],
+"Your voice is loudest of all": [
+"आपकी आवाज सबसे ऊंची है",
+"Āpakī āvāja sabase ūṃcī hai"
+],
+"Your name is known to me": [
+"आपका नाम मुझे मालूम है",
+"Āpakā nāma mujhe mālūma hai"
+],
+"She knows his address": [
+"वह उसका पता जानती है",
+"Vaha usakā patā jānatī hai"
+],
+"She knew his address": [
+"वह उसका पता जानती थी",
+"Vaha usakā patā jānatī thī"
+],
+"Do you know it?": [
+"क्या आप यह जानते हो?",
+"Kyā āpa yaha jānate ho?"
+],
+"Did she know that?": [
+"क्या वह यह जानती थी?",
+"Kyā vaha yaha jānatī thī?"
+],
+"Your name is not known to me": [
+"आपका नाम मुझे ज्ञात नहीं है",
+"Āpakā nāma mujhe jñāta nahīṃ hai"
+],
+"She does not know his address": [
+"वह उसका पता नहीं जानती",
+"Vaha usakā patā nahīṃ jānatī"
+],
+"She did not know his address": [
+"वह उसका पता नहीं जानती थी",
+"Vaha usakā patā nahīṃ jānatī thī"
+],
+"Don't you know it?": [
+"क्या आप इसे नहीं जानते?",
+"Kyā āpa ise nahīṃ jānate?"
+],
+"Didn't she know that?": [
+"क्या वह यह नहीं जानती थी?",
+"Kyā vaha yaha nahīṃ jānatī thī?"
+],
+"I know eating cake": [
+"मैं केक खाना जानता हूं",
+"Maiṃ keka khānā jānatā hūṃ"
+],
+"I know swimming": [
+"मुझे तैरना आता है",
+"Mujhe tairanā ātā hai"
+],
+"I know Japanese": [
+"मैं जापानी जानता हूं",
+"Maiṃ jāpānī jānatā hūṃ"
+],
+"I know cooking": [
+"मैं खाना बनाना जानता हूं",
+"Maiṃ khānā banānā jānatā hūṃ"
+],
+"Do you know playing cricket?": [
+"क्या आप क्रिकेट खेलना जानते हैं?",
+"Kyā āpa krikeṭa khelanā jānate haiṃ?"
+],
+"I know killing mosquitoes": [
+"मैं मच्छर मारना जानता हूं",
+"Maiṃ macchara māranā jānatā hūṃ"
+],
+"She used to know dancing before": [
+"वह पहले डांस करना जानती थी",
+"Vaha pahale ḍāṃsa karanā jānatī thī"
+],
+"They knew to talk": [
+"वे बात करना जानते थे",
+"Ve bāta karanā jānate the"
+],
+"He learned. So he could speak Japanese": [
+"उसने सीख लिया। इसलिए वह जापानी भाषा बोल सकता था",
+"Usane sīkha liyā| isalie vaha jāpānī bhāṣā bola sakatā thā"
+],
+"I do not know eating cake": [
+"मुझे केक खाना नहीं आता",
+"Mujhe keka khānā nahīṃ ātā"
+],
+"I do not know swimming": [
+"मुझे तैरना नहीं आता",
+"Mujhe tairanā nahīṃ ātā"
+],
+"I do not know Japanese": [
+"मैं जापानी भाषा नहीं जानता",
+"Maiṃ jāpānī bhāṣā nahīṃ jānatā"
+],
+"She did not know dancing before": [
+"वह पहले डांस नहीं जानती थी",
+"Vaha pahale ḍāṃsa nahīṃ jānatī thī"
+],
+"They did not know to talk": [
+"वे बात करना नहीं जानते थे",
+"Ve bāta karanā nahīṃ jānate the"
+],
+"He did not learn. So he could not speak Japanese": [
+"उसने सीखा नहीं. इसलिए वह जापानी भाषा नहीं बोल सकता था",
+"Usane sīkhā nahīṃ. isalie vaha jāpānī bhāṣā nahīṃ bola sakatā thā"
+],
+"I(boy) know you": [
+"मैं(लड़का) तुम्हें जानता हूं",
+"Maiṃ(lar̤akā) tumheṃ jānatā hūṃ"
+],
+"I(girl) know you": [
+"मैं(लड़की) तुम्हें जानती हूं",
+"Maiṃ(lar̤akī) tumheṃ jānatī hūṃ"
+],
+"You know me": [
+"आप मुझे जानते हैं",
+"Āpa mujhe jānate haiṃ"
+],
+"He knows Mr. Ram": [
+"वह श्री राम को जानते हैं",
+"Vaha śrī rāma ko jānate haiṃ"
+],
+"Let's not play": [
+"चलो मत खेलो",
+"Calo mata khelo"
+],
+"Let's not go": [
+"चलो मत जाओ",
+"Calo mata jāo"
+],
+"Let's not speak": [
+"चलिए बात नहीं करते",
+"Calie bāta nahīṃ karate"
+],
+"Shall we play cricket? (style 1)": [
+"क्या हम क्रिकेट खेलेंगे? (शैली 1)",
+"Kyā hama krikeṭa kheleṃge? (śailī 1)"
+],
+"Shall we play cricket? (style 2)": [
+"क्या हम क्रिकेट खेलेंगे? (शैली 2)",
+"Kyā hama krikeṭa kheleṃge? (śailī 2)"
+],
+"Shall we watch movie? (style 1)": [
+"क्या हम फिल्म देखेंगे? (शैली 1)",
+"Kyā hama philma dekheṃge? (śailī 1)"
+],
+"Shall we watch movie? (style 2)": [
+"क्या हम फिल्म देखेंगे? (शैली 2)",
+"Kyā hama philma dekheṃge? (śailī 2)"
+],
+"Shall we go home? (style 1)": [
+"क्या हम घर चलें? (शैली 1)",
+"Kyā hama ghara caleṃ? (śailī 1)"
+],
+"Shall we go home? (style 2)": [
+"क्या हम घर चलें? (शैली 2)",
+"Kyā hama ghara caleṃ? (śailī 2)"
+],
+"Shall we eat mango? (style 1)": [
+"क्या हम आम खायेंगे? (शैली 1)",
+"Kyā hama āma khāyeṃge? (śailī 1)"
+],
+"Shall we eat mango? (style 2)": [
+"क्या हम आम खायेंगे? (शैली 2)",
+"Kyā hama āma khāyeṃge? (śailī 2)"
+],
+"Shall we eat tamarind? (style 1)": [
+"क्या हम इमली खायेंगे? (शैली 1)",
+"Kyā hama imalī khāyeṃge? (śailī 1)"
+],
+"Shall we eat tamarind? (style 2)": [
+"क्या हम इमली खायेंगे? (शैली 2)",
+"Kyā hama imalī khāyeṃge? (śailī 2)"
+],
+"Let him play": [
+"उसे खेलने दो",
+"Use khelane do"
+],
+"Let me eat": [
+"मुझे खाने दो",
+"Mujhe khāne do"
+],
+"Let her speak": [
+"उसे बोलने दो",
+"Use bolane do"
+],
+"You all, Let him play": [
+"तुम सब, उसे खेलने दो",
+"Tuma saba, use khelane do"
+],
+"You all, Let me eat": [
+"तुम सब, मुझे खाने दो",
+"Tuma saba, mujhe khāne do"
+],
+"You all, Let her speak": [
+"आप सब, उसे बोलने दीजिए",
+"Āpa saba, use bolane dījie"
+],
+"Don't let him play": [
+"उसे खेलने मत दो",
+"Use khelane mata do"
+],
+"Don't let me eat": [
+"मुझे खाने मत दो",
+"Mujhe khāne mata do"
+],
+"You all, don't let her speak": [
+"तुम सब, उसे बोलने मत दो",
+"Tuma saba, use bolane mata do"
+],
+"You all, don't let me eat": [
+"तुम सब, मुझे खाने मत दो",
+"Tuma saba, mujhe khāne mata do"
+],
+"I could not understand what you just said": [
+"अभी आपने जो कहा, मैं समझ नहीं पाया",
+"Abhī āpane jo kahā, maiṃ samajha nahīṃ pāyā"
+],
+"Which fruit you want, show me that": [
+"तुम्हें कौन सा फल चाहिए, वह मुझे दिखाओ",
+"Tumheṃ kauna sā phala cāhie, vaha mujhe dikhāo"
+],
+"When you come I feel happy": [
+"जब तुम आते हो तो मुझे ख़ुशी होती है",
+"Jaba tuma āte ho to mujhe k͟huśī hotī hai"
+],
+"What is in your mind, tell me that": [
+"तुम्हारे मन में क्या है, वो बताओ",
+"Tumhāre mana meṃ kyā hai, vo batāo"
+],
+"When you(girl) come I feel happy": [
+"जब तुम (लड़की) आती हो तो मुझे ख़ुशी होती है",
+"Jaba tuma (lar̤akī) ātī ho to mujhe k͟huśī hotī hai"
+],
+"Go back, the way you have come": [
+"जिस रास्ते से आये हो उसी रास्ते से वापस जाओ",
+"Jisa rāste se āye ho usī rāste se vāpasa jāo"
+],
+"Give it to him, who wants it": [
+"इसे उसे दे दो, जो इसे चाहता है",
+"Ise use de do, jo ise cāhatā hai"
+],
+"Tell me about them whom you read about": [
+"जिनके बारे में आपने पढ़ा है, उनके बारे में बतायें?",
+"Jinake bāre meṃ āpane par̤hā hai, unake bāre meṃ batāyeṃ?"
+],
+"Wherever you will go I will come": [
+"तुम जहाँ भी जाओगे मैं आ जाऊँगा",
+"Tuma jahā~ bhī jāoge maiṃ ā jāū~gā"
+],
+"Whichever vegetables you want, you buy it": [
+"आपको जो भी सब्जी चाहिए आप खरीद लीजिए",
+"Āpako jo bhī sabjī cāhie āpa kharīda lījie"
+],
+"Whenever you call he will answer": [
+"जब भी तुम बुलाओगे वह उत्तर देगा",
+"Jaba bhī tuma bulāoge vaha uttara degā"
+],
+"Do not smoke here": [
+"यहाँ धूम्रपान नहीं करते",
+"Yahā~ dhūmrapāna nahīṃ karate"
+],
+"Do not use mobile phones": [
+"मोबाइल फोन का प्रयोग न करें",
+"Mobāila phona kā prayoga na kareṃ"
+],
+"Enter your preferences": [
+"अपनी प्राथमिकताएँ दर्ज करें",
+"Apanī prāthamikatāe~ darja kareṃ"
+],
+"Write your address": [
+"अपना पता लिखें",
+"Apanā patā likheṃ"
+],
+"Write your addresses": [
+"अपने पते लिखें",
+"Apane pate likheṃ"
+],
+"Enter your preference": [
+"अपनी प्राथमिकता दर्ज करें",
+"Apanī prāthamikatā darja kareṃ"
+],
+"Speak your name": [
+"अपना नाम बोलो",
+"Apanā nāma bolo"
+],
+"Speak your names": [
+"अपने नाम बोलो",
+"Apane nāma bolo"
+],
+"Do not speak": [
+"मत बोलो",
+"Mata bolo"
+],
+"Do not smoke": [
+"धूम्रपान ना करें",
+"Dhūmrapāna nā kareṃ"
+],
+"Do not cross road here": [
+"यहां सड़क पार न करें",
+"Yahāṃ sar̤aka pāra na kareṃ"
+],
+"Do not pluck flowers": [
+"फूलों तोड़ो नहीं करना",
+"Phūloṃ tor̤o nahīṃ karanā"
+],
+"I like to eat mango": [
+"मुझे आम खाना पसंद है",
+"Mujhe āma khānā pasaṃda hai"
+],
+"I like to eat mangoes": [
+"मुझे आम खाना पसंद है",
+"Mujhe āma khānā pasaṃda hai"
+],
+"He liked to open bag": [
+"उसे बैग खोलना अच्छा लगता था",
+"Use baiga kholanā acchā lagatā thā"
+],
+"He liked to open bags": [
+"उन्हें बैग खोलना पसंद था",
+"Unheṃ baiga kholanā pasaṃda thā"
+],
+"She will like to sing song": [
+"उसे गाना गाना अच्छा लगेगा",
+"Use gānā gānā acchā lagegā"
+],
+"She will like to sing songs": [
+"उसे गाने गाना अच्छा लगेगा",
+"Use gāne gānā acchā lagegā"
+],
+"I do not like to eat mango": [
+"मुझे आम खाना पसंद नहीं है",
+"Mujhe āma khānā pasaṃda nahīṃ hai"
+],
+"I do not like to eat mangoes": [
+"मुझे आम खाना पसंद नहीं है",
+"Mujhe āma khānā pasaṃda nahīṃ hai"
+],
+"He did not like to open bag": [
+"उन्हें बैग खोलना पसंद नहीं था",
+"Unheṃ baiga kholanā pasaṃda nahīṃ thā"
+],
+"She will not like to sing song": [
+"उसे गाना गाना पसंद नहीं आएगा",
+"Use gānā gānā pasaṃda nahīṃ āegā"
+],
+"I like to see Kaushik": [
+"मुझे कौशिक को देखना अच्छा लगता है",
+"Mujhe kauśika ko dekhanā acchā lagatā hai"
+],
+"He likes to push me": [
+"उसे मुझे धक्का देना पसंद है",
+"Use mujhe dhakkā denā pasaṃda hai"
+],
+"He likes to push her": [
+"वह उसे धक्का देना पसंद करता है",
+"Vaha use dhakkā denā pasaṃda karatā hai"
+],
+"They will like to hold us": [
+"वे हमें पकड़ना पसंद करेंगे",
+"Ve hameṃ pakar̤anā pasaṃda kareṃge"
+],
+"Kaushik said that he would eat": [
+"कौशिक ने कहा कि वह खायेंगे",
+"Kauśika ne kahā ki vaha khāyeṃge"
+],
+"I thought I would be late so I would have to run": [
+"मैंने सोचा कि मुझे देर हो जाएगी इसलिए मुझे भागना पड़ेगा",
+"Maiṃne socā ki mujhe dera ho jāegī isalie mujhe bhāganā par̤egā"
+],
+"I would love to visit New York": [
+"मुझे न्यूयॉर्क जाना अच्छा लगेगा",
+"Mujhe nyūyaॉrka jānā acchā lagegā"
+],
+"We would go, but we are too busy": [
+"हम जाएंगे, लेकिन हम बहुत व्यस्त हैं",
+"Hama jāeṃge, lekina hama bahuta vyasta haiṃ"
+],
+"I would not disclose it in any condition": [
+"मैं इसका खुलासा किसी भी हालत में नहीं करूंगा.'",
+"Maiṃ isakā khulāsā kisī bhī hālata meṃ nahīṃ karūṃgā.'"
+],
+"Would you like to drink tea?": [
+"क्या आप चाय पीना चाहेंगे?",
+"Kyā āpa cāya pīnā cāheṃge?"
+],
+"Would you please help me?": [
+"क्या आप मेरी मदद करेंगे?",
+"Kyā āpa merī madada kareṃge?"
+],
+"I would suggest you to take this medicine": [
+"मैं आपको यह दवा लेने का सुझाव दूंगा",
+"Maiṃ āpako yaha davā lene kā sujhāva dūṃgā"
+],
+"I understand its importance": [
+"मैं इसका महत्व समझता हूं",
+"Maiṃ isakā mahatva samajhatā hūṃ"
+],
+"He understood the logic": [
+"वह तर्क समझ गया",
+"Vaha tarka samajha gayā"
+],
+"She came to know the news": [
+"उसे खबर पता चली",
+"Use khabara patā calī"
+],
+"They will understand your mistakes": [
+"वे आपकी गलतियाँ समझेंगे",
+"Ve āpakī galatiyā~ samajheṃge"
+],
+"Did you understand?": [
+"आया समझ में?",
+"Āyā samajha meṃ?"
+],
+"She does not understand": [
+"वह नहीं समझती",
+"Vaha nahīṃ samajhatī"
+],
+"He will not come to know this": [
+"यह बात उसे पता नहीं चलेगी",
+"Yaha bāta use patā nahīṃ calegī"
+],
+"You are coming": [
+"आप आ रहे हैं",
+"Āpa ā rahe haiṃ"
+],
+"You are coming, aren't you?": [
+"आप आ रहे हैं ना?",
+"Āpa ā rahe haiṃ nā?"
+],
+"She did not speak": [
+"वह कुछ नहीं बोली",
+"Vaha kucha nahīṃ bolī"
+],
+"She did not speak, did she?": [
+"वह तो नहीं बोली?",
+"Vaha to nahīṃ bolī?"
+],
+"He will do": [
+"वह करेगा",
+"Vaha karegā"
+],
+"He will do, won't he?": [
+"करेगा ना?",
+"Karegā nā?"
+],
+"I remember you": [
+"मुझे आप याद हैं",
+"Mujhe āpa yāda haiṃ"
+],
+"You remember me": [
+"तुम मुझे याद करते हो",
+"Tuma mujhe yāda karate ho"
+],
+"We remember Mary": [
+"हमें मैरी याद है",
+"Hameṃ mairī yāda hai"
+],
+"Mary remembers us": [
+"मैरी हमें याद करती है",
+"Mairī hameṃ yāda karatī hai"
+],
+"I remember you (miss)": [
+"मैं तुम्हें याद करता हूँ (मिस)",
+"Maiṃ tumheṃ yāda karatā hū~ (misa)"
+],
+"Mary remembered us": [
+"मैरी ने हमें याद किया",
+"Mairī ne hameṃ yāda kiyā"
+],
+"Peter misses his friend": [
+"पीटर को अपने दोस्त की याद आती है",
+"Pīṭara ko apane dosta kī yāda ātī hai"
+],
+"She missed her mother a lot": [
+"उसे अपनी मां की बहुत याद आती थी",
+"Use apanī māṃ kī bahuta yāda ātī thī"
+],
+"I will remember your favor": [
+"मैं आपका एहसान याद रखूंगा",
+"Maiṃ āpakā ehasāna yāda rakhūṃgā"
+],
+"He always remembered my advice": [
+"उन्हें मेरी सलाह हमेशा याद रहती थी",
+"Unheṃ merī salāha hameśā yāda rahatī thī"
+],
+"I want to eat mango": [
+"मुझे आम खाना है",
+"Mujhe āma khānā hai"
+],
+"I want to eat mangoes": [
+"मुझे आम खाना है",
+"Mujhe āma khānā hai"
+],
+"He wanted to open bag": [
+"वह बैग खोलना चाहता था",
+"Vaha baiga kholanā cāhatā thā"
+],
+"He wanted to open bags": [
+"वह बैग खोलना चाहता था",
+"Vaha baiga kholanā cāhatā thā"
+],
+"She will want to sing song": [
+"वह गाना गाना चाहेगी",
+"Vaha gānā gānā cāhegī"
+],
+"She will want to sing songs": [
+"वह गाना गाना चाहेंगी",
+"Vaha gānā gānā cāheṃgī"
+],
+"I wanted to go": [
+"मैं जाना चाहता था",
+"Maiṃ jānā cāhatā thā"
+],
+"I will want to run": [
+"मैं दौड़ना चाहूँगा",
+"Maiṃ daur̤anā cāhū~gā"
+],
+"I do not want to eat mango": [
+"मुझे आम नहीं खाना है",
+"Mujhe āma nahīṃ khānā hai"
+],
+"He did not want to open bag": [
+"वह बैग खोलना नहीं चाहता था",
+"Vaha baiga kholanā nahīṃ cāhatā thā"
+],
+"She will not want to sing song": [
+"वह गाना नहीं गाना चाहेंगी",
+"Vaha gānā nahīṃ gānā cāheṃgī"
+],
+"Kaushik wants to see Peter": [
+"कौशिक पीटर से मिलना चाहता है",
+"Kauśika pīṭara se milanā cāhatā hai"
+],
+"Kaushik wants to see him": [
+"कौशिक उससे मिलना चाहता है",
+"Kauśika usase milanā cāhatā hai"
+],
+"Kaushik wants to see you": [
+"कौशिक तुमसे मिलना चाहता है",
+"Kauśika tumase milanā cāhatā hai"
+],
+"I want you to finish work": [
+"मैं चाहता हूं कि आप काम खत्म करें",
+"Maiṃ cāhatā hūṃ ki āpa kāma khatma kareṃ"
+],
+"She wants me to avoid junk food": [
+"वह चाहती है कि मैं जंक फूड से परहेज करूं",
+"Vaha cāhatī hai ki maiṃ jaṃka phūḍa se paraheja karūṃ"
+],
+"Kaushik wants students to practice more": [
+"कौशिक चाहते हैं कि छात्र अधिक अभ्यास करें",
+"Kauśika cāhate haiṃ ki chātra adhika abhyāsa kareṃ"
+],
+"Kaushik wanted students to practice more": [
+"कौशिक चाहते थे कि छात्र अधिक अभ्यास करें",
+"Kauśika cāhate the ki chātra adhika abhyāsa kareṃ"
+],
+"Students want Kaushik to talk slowly": [
+"छात्र चाहते हैं कि कौशिक धीरे-धीरे बात करें",
+"Chātra cāhate haiṃ ki kauśika dhīre-dhīre bāta kareṃ"
+],
+"I am supposed to meet him tomorrow": [
+"मुझे कल उनसे मिलना है",
+"Mujhe kala unase milanā hai"
+],
+"I am supposed to finish that bottle": [
+"मुझे वह बोतल ख़त्म करनी है",
+"Mujhe vaha botala k͟hatma karanī hai"
+],
+"He is supposed to finish that bottle": [
+"उसे वह बोतल ख़त्म करनी है",
+"Use vaha botala k͟hatma karanī hai"
+],
+"She is supposed to finish that bottle": [
+"उसे वह बोतल ख़त्म करनी है",
+"Use vaha botala k͟hatma karanī hai"
+],
+"I/He/She was supposed to finish that bottle": [
+"मुझे/उसे/उसे वह बोतल ख़त्म करनी थी",
+"Mujhe/use/use vaha botala k͟hatma karanī thī"
+],
+"I/He/She was supposed to finish those bottles": [
+"मुझे/उसे/उसे उन बोतलों को ख़त्म करना था",
+"Mujhe/use/use una botaloṃ ko k͟hatma karanā thā"
+],
+"I am supposed to go there tomorrow": [
+"मुझे कल वहां जाना है",
+"Mujhe kala vahāṃ jānā hai"
+],
+"He is supposed to come tomorrow": [
+"उसे कल आना है",
+"Use kala ānā hai"
+],
+"We could not meet but next time we must meet": [
+"हम मिल नहीं सके लेकिन अगली बार जरूर मिलना",
+"Hama mila nahīṃ sake lekina agalī bāra jarūra milanā"
+],
+"You must pay me ransom tomorrow itself": [
+"आपको कल ही मुझे फिरौती देनी होगी",
+"Āpako kala hī mujhe phirautī denī hogī"
+],
+"I get a prize": [
+"मुझे पुरस्कार मिलता है",
+"Mujhe puraskāra milatā hai"
+],
+"I get 10 prizes": [
+"मुझे 10 पुरस्कार मिले",
+"Mujhe 10 puraskāra mile"
+],
+"He gets a prize": [
+"उसे पुरस्कार मिलता है",
+"Use puraskāra milatā hai"
+],
+"He gets 10 prizes": [
+"उसे 10 पुरस्कार मिलते हैं",
+"Use 10 puraskāra milate haiṃ"
+],
+"He got a prize": [
+"उसे पुरस्कार मिला",
+"Use puraskāra milā"
+],
+"He got 10 prizes": [
+"उन्हें 10 पुरस्कार मिले",
+"Unheṃ 10 puraskāra mile"
+],
+"I found my wallet under the bed": [
+"मुझे अपना बटुआ बिस्तर के नीचे मिला",
+"Mujhe apanā baṭuā bistara ke nīce milā"
+],
+"She became angry": [
+"वह क्रोधित हो गयी",
+"Vaha krodhita ho gayī"
+],
+"He became angry": [
+"वह क्रोधित हो गया",
+"Vaha krodhita ho gayā"
+],
+"He agrees to this condition": [
+"वह इस शर्त से सहमत है",
+"Vaha isa śarta se sahamata hai"
+],
+"He agrees to these conditions": [
+"वह इन शर्तों से सहमत हैं",
+"Vaha ina śartoṃ se sahamata haiṃ"
+],
+"Finish it off in 10 minutes": [
+"इसे 10 मिनट में ख़त्म करें",
+"Ise 10 minaṭa meṃ k͟hatma kareṃ"
+],
+"Do not hesitate. Speak it out": [
+"संकोच न करें। इसे बोलो",
+"Saṃkoca na kareṃ| ise bolo"
+],
+"Nobody is looking. Just do it": [
+"कोई नहीं देख रहा है. इसे कर ही डालो",
+"Koī nahīṃ dekha rahā hai. ise kara hī ḍālo"
+],
+"I somehow managed to gulp it": [
+"मैं किसी तरह इसे निगलने में कामयाब रहा",
+"Maiṃ kisī taraha ise nigalane meṃ kāmayāba rahā"
+],
+"He quickly came and read the letter": [
+"वह जल्दी से आया और पत्र पढ़ा",
+"Vaha jaldī se āyā aura patra par̤hā"
+],
+"Ask whatever you want; right now": [
+"जो चाहो मांग लो; अभी",
+"Jo cāho māṃga lo; abhī"
+],
+"You may call me whatever you want": [
+"तुम मुझे जो चाहो बुला सकते हो",
+"Tuma mujhe jo cāho bulā sakate ho"
+],
+"Get that work done by him": [
+"वह काम उससे कराओ",
+"Vaha kāma usase karāo"
+],
+"I made her take exercise every day": [
+"मैंने उसे हर दिन व्यायाम कराया",
+"Maiṃne use hara dina vyāyāma karāyā"
+],
+"I washed clothes very hard": [
+"मैंने बहुत मेहनत से कपड़े धोये",
+"Maiṃne bahuta mehanata se kapar̤e dhoye"
+],
+"Batsman hit every ball very hard": [
+"बल्लेबाज ने हर गेंद पर जोरदार प्रहार किया",
+"Ballebāja ne hara geṃda para joradāra prahāra kiyā"
+],
+"I just told him we drank liquor": [
+"मैंने उसे बस इतना बताया कि हमने शराब पी है",
+"Maiṃne use basa itanā batāyā ki hamane śarāba pī hai"
+],
+"Oh my God! What have I done!": [
+"अरे बाप रे! मैने क्या कि!",
+"Are bāpa re! maine kyā ki!"
+],
+"Now keep crying": [
+"अब रोते रहो",
+"Aba rote raho"
+],
+"She will search it forever": [
+"वह इसे हमेशा खोजती रहेगी",
+"Vaha ise hameśā khojatī rahegī"
+],
+"I forgot to tell you": [
+"मैं तुम्हें बताना भूल गया",
+"Maiṃ tumheṃ batānā bhūla gayā"
+],
+"She could not see the sign": [
+"वह साइन नहीं देख सकी",
+"Vaha sāina nahīṃ dekha sakī"
+],
+"Start following my advice": [
+"मेरी सलाह का पालन करना शुरू करें",
+"Merī salāha kā pālana karanā śurū kareṃ"
+],
+"If you had taken exercise every day then": [
+"यदि आपने प्रतिदिन व्यायाम किया होता",
+"Yadi āpane pratidina vyāyāma kiyā hotā"
+],
+"I was about to open the door when I saw": [
+"मैं दरवाज़ा खोलने ही वाला था कि मैंने देखा",
+"Maiṃ daravāzā kholane hī vālā thā ki maiṃne dekhā"
+],
+"If we think of eating mango then": [
+"अगर हम आम खाने के बारे में सोचें तो",
+"Agara hama āma khāne ke bāre meṃ soceṃ to"
+],
+"If he decides to take revenge": [
+"अगर वह बदला लेने का फैसला करता है",
+"Agara vaha badalā lene kā phaisalā karatā hai"
+],
+"Give him your information": [
+"उसे अपनी जानकारी दें",
+"Use apanī jānakārī deṃ"
+],
+"Keep tea ready": [
+"चाय तैयार रखें",
+"Cāya taiyāra rakheṃ"
+],
+"We have booked tickets": [
+"हमने टिकट बुक कर लिया है",
+"Hamane ṭikaṭa buka kara liyā hai"
+],
+"I had already given my password": [
+"मैंने अपना पासवर्ड पहले ही दे दिया था",
+"Maiṃne apanā pāsavarḍa pahale hī de diyā thā"
+],
+"I have decided plan for tonight": [
+"मैंने आज रात का प्लान तय कर लिया है",
+"Maiṃne āja rāta kā plāna taya kara liyā hai"
+],
+"He happened to say he was from India": [
+"उसने कहा कि वह भारत से है",
+"Usane kahā ki vaha bhārata se hai"
+],
+"I happened to hear about strike": [
+"मुझे हड़ताल के बारे में सुनने को मिला",
+"Mujhe har̤atāla ke bāre meṃ sunane ko milā"
+],
+"Hey! When did you come?": [
+"अरे! कब आये आप?",
+"Are! kaba āye āpa?"
+],
+"Nice smell / Very tasty": [
+"अच्छी खुशबू / बहुत स्वादिष्ट",
+"Acchī khuśabū / bahuta svādiṣṭa"
+],
+"Oh my God! Who did this?": [
+"अरे बाप रे! किसने किया यह?",
+"Are bāpa re! kisane kiyā yaha?"
+],
+"Oh! He failed!": [
+"ओह! वह असफल रहा!",
+"Oha! vaha asaphala rahā!"
+],
+"No! He will never do it": [
+"नहीं! वह ऐसा कभी नहीं करेगा",
+"Nahīṃ! vaha aisā kabhī nahīṃ karegā"
+],
+"No! I do not believe": [
+"नहीं! मुझे विश्वास नहीं हो रहा",
+"Nahīṃ! mujhe viśvāsa nahīṃ ho rahā"
+],
+"Yes! I will surely come": [
+"हाँ! जरुर आऊंगा",
+"Hā~! jarura āūṃgā"
+],
+"Hmm! I got it": [
+"हम्म! मैं समझ गया",
+"Hamma! maiṃ samajha gayā"
+],
+"Well done! You won": [
+"बहुत अच्छा! आप जीते",
+"Bahuta acchā! āpa jīte"
+],
+"Mummy! It is paining": [
+"मां! बहुत दर्द हो रहा है",
+"Māṃ! bahuta darda ho rahā hai"
+],
+"Yuck! It looks ugly": [
+"हाँ! यह बदसूरत दिखता है",
+"Hā~! yaha badasūrata dikhatā hai"
+],
+"I spit on your cowardice": [
+"मैं तुम्हारी कायरता पर थूकता हूं",
+"Maiṃ tumhārī kāyaratā para thūkatā hūṃ"
+],
+"Shhh! Keep quiet": [
+"श्श्श! चुप रहो",
+"Śśśa! cupa raho"
+],
+"How well you danced!": [
+"आपने कितना अच्छा नृत्य किया!",
+"Āpane kitanā acchā nṛtya kiyā!"
+],
+"What a fool he is!": [
+"वह कितना मूर्ख है!",
+"Vaha kitanā mūrkha hai!"
+],
+"Oh! What happened then?": [
+"ओह! फिर क्या हुआ?",
+"Oha! phira kyā huā?"
+],
+"Oh! When did you come?": [
+"ओह! कब आये आप?",
+"Oha! kaba āye āpa?"
+],
+"Someone may see it! (blush)": [
+"शायद कोई इसे देख ले! (शर्म)",
+"Śāyada koī ise dekha le! (śarma)"
+],
+"May I come": [
+"क्या मैं आ सकता हुँ",
+"Kyā maiṃ ā sakatā hu~"
+],
+"May I go": [
+"क्या मैं जा सकता हुँ",
+"Kyā maiṃ jā sakatā hu~"
+],
+"May we come": [
+"क्या हम आ सकते हैं?",
+"Kyā hama ā sakate haiṃ?"
+],
+"May we go": [
+"क्या हम जा सकते हैं?",
+"Kyā hama jā sakate haiṃ?"
+],
+"May we speak": [
+"क्या हम बोल सकते हैं",
+"Kyā hama bola sakate haiṃ"
+],
+"May you come": [
+"क्या आप आ सकते हैं?",
+"Kyā āpa ā sakate haiṃ?"
+],
+"May you speak": [
+"क्या आप बोल सकते हैं",
+"Kyā āpa bola sakate haiṃ"
+],
+"May he tell": [
+"क्या वह बता सकता है?",
+"Kyā vaha batā sakatā hai?"
+],
+"Can I tell": [
+"क्या मैं बता सकता हूँ",
+"Kyā maiṃ batā sakatā hū~"
+],
+"Can I write": [
+"क्या मैं लिख सकता हूँ",
+"Kyā maiṃ likha sakatā hū~"
+],
+"May you give pen": [
+"क्या आप कलम दे सकते हैं?",
+"Kyā āpa kalama de sakate haiṃ?"
+],
+"Please give pen": [
+"कृपया कलम दीजिए",
+"Kṛpayā kalama dījie"
+],
+"Please tell address": [
+"कृपया पता बताएं",
+"Kṛpayā patā batāeṃ"
+],
+"He may go": [
+"वह जा सकता है",
+"Vaha jā sakatā hai"
+],
+"I may sing": [
+"मैं गा सकता हूँ",
+"Maiṃ gā sakatā hū~"
+],
+"He might come": [
+"वह आ सकता है",
+"Vaha ā sakatā hai"
+],
+"He might have gone yesterday": [
+"वह शायद कल ही गया होगा",
+"Vaha śāyada kala hī gayā hogā"
+],
+"She might have completed it": [
+"हो सकता है उसने इसे पूरा कर लिया हो",
+"Ho sakatā hai usane ise pūrā kara liyā ho"
+],
+"They might have returned yesterday": [
+"हो सकता है वे कल लौट आए हों",
+"Ho sakatā hai ve kala lauṭa āe hoṃ"
+],
+"He had gone": [
+"वह चला गया था",
+"Vaha calā gayā thā"
+],
+"He might have gone": [
+"हो सकता है वह चला गया हो",
+"Ho sakatā hai vaha calā gayā ho"
+],
+"She had said": [
+"उसने कहा था",
+"Usane kahā thā"
+],
+"She might have said": [
+"उसने शायद कहा होगा",
+"Usane śāyada kahā hogā"
+],
+"You have eaten mango": [
+"आपने आम खाया है",
+"Āpane āma khāyā hai"
+],
+"You might have eaten mango": [
+"आपने आम तो खाया ही होगा",
+"Āpane āma to khāyā hī hogā"
+],
+"The day I like": [
+"जिस दिन मुझे अच्छा लगेगा",
+"Jisa dina mujhe acchā lagegā"
+],
+"Boy who is giving": [
+"लड़का जो दे रहा है",
+"Lar̤akā jo de rahā hai"
+],
+"Person who is dancing": [
+"वह व्यक्ति जो नाच रहा हो",
+"Vaha vyakti jo nāca rahā ho"
+],
+"Pot on table": [
+"मेज पर बर्तन",
+"Meja para bartana"
+],
+"Jar on table": [
+"मेज पर जार",
+"Meja para jāra"
+],
+"Leaf on table": [
+"मेज पर पत्ता",
+"Meja para pattā"
+],
+"Gift inside box": [
+"बॉक्स के अंदर उपहार",
+"Baॉksa ke aṃdara upahāra"
+],
+"Area outside my home": [
+"मेरे घर के बाहर का क्षेत्र",
+"Mere ghara ke bāhara kā kṣetra"
+],
+"I make him say": [
+"मैं उससे कहलवाता हूं",
+"Maiṃ usase kahalavātā hūṃ"
+],
+"I will make him say": [
+"मैं उससे कहलवा दूँगा",
+"Maiṃ usase kahalavā dū~gā"
+],
+"I made him say": [
+"मैंने उससे कहलवाया",
+"Maiṃne usase kahalavāyā"
+],
+"He made me work": [
+"उसने मुझसे काम करवाया",
+"Usane mujhase kāma karavāyā"
+],
+"He makes me work": [
+"वह मुझसे काम कराता है",
+"Vaha mujhase kāma karātā hai"
+],
+"He will make me work": [
+"वह मुझसे काम कराएगा",
+"Vaha mujhase kāma karāegā"
+],
+"That joke made me laugh": [
+"उस चुटकुले ने मुझे हंसाया",
+"Usa cuṭakule ne mujhe haṃsāyā"
+],
+"Peter made Mary eat mango": [
+"पीटर ने मैरी को आम खिलाया",
+"Pīṭara ne mairī ko āma khilāyā"
+],
+"Peter made Mary eat mangoes": [
+"पीटर ने मैरी को आम खिलाये",
+"Pīṭara ne mairī ko āma khilāye"
+],
+"I myself did it": [
+"मैंने खुद ही ऐसा किया",
+"Maiṃne khuda hī aisā kiyā"
+],
+"I did this itself": [
+"ये मैंने ही किया",
+"Ye maiṃne hī kiyā"
+],
+"I will come tomorrow itself": [
+"मैं कल ही आऊंगा",
+"Maiṃ kala hī āūṃgā"
+],
+"I will surely come": [
+"जरुर आऊंगा",
+"Jarura āūṃgā"
+],
+"I have seen India only": [
+"मैंने भारत ही देखा है",
+"Maiṃne bhārata hī dekhā hai"
+],
+"He kept on talking": [
+"वह बोलता रहा",
+"Vaha bolatā rahā"
+],
+"He kept on staring that car": [
+"वह उस कार को देखता ही रह गया",
+"Vaha usa kāra ko dekhatā hī raha gayā"
+],
+"I want only sedan car": [
+"मुझे केवल सेडान कार चाहिए",
+"Mujhe kevala seḍāna kāra cāhie"
+],
+"I must go there": [
+"मुझे वहां अवश्य जाना चाहिए",
+"Mujhe vahāṃ avaśya jānā cāhie"
+],
+"Why just me?": [
+"सिर्फ मैं ही क्यों?",
+"Sirpha maiṃ hī kyoṃ?"
+],
+"I have a car": [
+"मेरे पास एक कार है",
+"Mere pāsa eka kāra hai"
+],
+"I have 10 cars": [
+"मेरे पास 10 कारें हैं",
+"Mere pāsa 10 kāreṃ haiṃ"
+],
+"I had a car": [
+"मेरे पास एक कार थी",
+"Mere pāsa eka kāra thī"
+],
+"Anup will have watch": [
+"अनुप के पास घड़ी होगी",
+"Anupa ke pāsa ghar̤ī hogī"
+],
+"I do not have car": [
+"मेरे पास कार नहीं है",
+"Mere pāsa kāra nahīṃ hai"
+],
+"I did not have car": [
+"मेरे पास कार नहीं थी",
+"Mere pāsa kāra nahīṃ thī"
+],
+"I have 2 brothers": [
+"मेरे 2 भाई हैं",
+"Mere 2 bhāī haiṃ"
+],
+"He has three paternal uncles": [
+"उनके तीन चाचा हैं",
+"Unake tīna cācā haiṃ"
+],
+"Ravi had 2 kids": [
+"रवि के 2 बच्चे थे",
+"Ravi ke 2 bacce the"
+],
+"He does not have a brother": [
+"उसका कोई भाई नहीं है",
+"Usakā koī bhāī nahīṃ hai"
+],
+"She did not have any relatives": [
+"उसका कोई रिश्तेदार नहीं था",
+"Usakā koī riśtedāra nahīṃ thā"
+],
+"What does it mean?": [
+"इसका मतलब क्या है?",
+"Isakā matalaba kyā hai?"
+],
+"What does that signboard mean?": [
+"उस साइनबोर्ड का क्या मतलब है?",
+"Usa sāinaborḍa kā kyā matalaba hai?"
+],
+"What did his speech mean?": [
+"उनके भाषण का क्या मतलब था?",
+"Unake bhāṣaṇa kā kyā matalaba thā?"
+],
+"What does encyclopedia mean?": [
+"विश्वकोश का क्या अर्थ है?",
+"Viśvakośa kā kyā artha hai?"
+],
+"What does Sundar mean in Marathi?": [
+"मराठी में सुंदर का क्या अर्थ होता है?",
+"Marāṭhī meṃ suṃdara kā kyā artha hotā hai?"
+],
+"I did mean it": [
+"मेरा मतलब यह था",
+"Merā matalaba yaha thā"
+],
+"I did not mean it": [
+"मैं यह मतलब नहीं था",
+"Maiṃ yaha matalaba nahīṃ thā"
+],
+"He did not mean hurting you": [
+"उसका इरादा आपको चोट पहुंचाने का नहीं था",
+"Usakā irādā āpako coṭa pahuṃcāne kā nahīṃ thā"
+],
+"I meant to insult him": [
+"मेरा मतलब उसका अपमान करना था",
+"Merā matalaba usakā apamāna karanā thā"
+],
+"He and me": [
+"वह और मैं",
+"Vaha aura maiṃ"
+],
+"Milk and sugar": [
+"दूध और चीनी",
+"Dūdha aura cīnī"
+],
+"I want to buy but shop is closed": [
+"मैं खरीदना चाहता हूं लेकिन दुकान बंद है",
+"Maiṃ kharīdanā cāhatā hūṃ lekina dukāna baṃda hai"
+],
+"He was clever but did not work hard": [
+"वह चतुर तो था परन्तु परिश्रम नहीं करता था",
+"Vaha catura to thā parantu pariśrama nahīṃ karatā thā"
+],
+"I had warned him, still he opened the box": [
+"मैंने उसे चेतावनी दी थी, फिर भी उसने बक्सा खोला",
+"Maiṃne use cetāvanī dī thī, phira bhī usane baksā kholā"
+],
+"He helped her still she insulted him": [
+"उसने उसकी मदद की फिर भी उसने उसका अपमान किया",
+"Usane usakī madada kī phira bhī usane usakā apamāna kiyā"
+],
+"I did not come yesterday, because I was sick": [
+"मैं कल नहीं आया, क्योंकि मैं बीमार था",
+"Maiṃ kala nahīṃ āyā, kyoṃki maiṃ bīmāra thā"
+],
+"Car will not start because no petrol": [
+"पेट्रोल नहीं होने के कारण कार स्टार्ट नहीं होगी",
+"Peṭrola nahīṃ hone ke kāraṇa kāra sṭārṭa nahīṃ hogī"
+],
+"I was sick so I did not come": [
+"मैं बीमार था इसलिए नहीं आया",
+"Maiṃ bīmāra thā isalie nahīṃ āyā"
+],
+"No petrol so car will not start": [
+"पेट्रोल नहीं तो कार स्टार्ट नहीं होगी",
+"Peṭrola nahīṃ to kāra sṭārṭa nahīṃ hogī"
+],
+"He told her that he is happy": [
+"उसने उससे कहा कि वह खुश है",
+"Usane usase kahā ki vaha khuśa hai"
+],
+"I am sure that we will succeed": [
+"मुझे यकीन है कि हम सफल होंगे",
+"Mujhe yakīna hai ki hama saphala hoṃge"
+],
+"As you wish, my lord": [
+"जो हुकुम मेरे आका",
+"Jo hukuma mere ākā"
+],
+"Do it the same way as he is doing": [
+"जैसा वह कर रहा है, वैसा ही करो",
+"Jaisā vaha kara rahā hai, vaisā hī karo"
+],
+"He as well as me": [
+"वह भी और मैं भी",
+"Vaha bhī aura maiṃ bhī"
+],
+"She sang as well as danced": [
+"उन्होंने गाना भी गाया और डांस भी किया",
+"Unhoṃne gānā bhī gāyā aura ḍāṃsa bhī kiyā"
+],
+"He or me": [
+"वह या मैं",
+"Vaha yā maiṃ"
+],
+"Do or die": [
+"करो या मरो",
+"Karo yā maro"
+],
+"Neither he nor I were interested": [
+"न तो उसे और न ही मुझे कोई दिलचस्पी थी",
+"Na to use aura na hī mujhe koī dilacaspī thī"
+],
+"I finished study then I went to play": [
+"मैंने पढ़ाई पूरी की और फिर खेलने चला गया",
+"Maiṃne par̤hāī pūrī kī aura phira khelane calā gayā"
+],
+"I will call you then you enter on stage": [
+"मैं तुम्हें बुलाऊंगा फिर तुम मंच पर प्रवेश करना",
+"Maiṃ tumheṃ bulāūṃgā phira tuma maṃca para praveśa karanā"
+],
+"As long as you want me, I will stay": [
+"जब तक तुम मुझे चाहोगे, मैं रहूँगा",
+"Jaba taka tuma mujhe cāhoge, maiṃ rahū~gā"
+],
+"As long as you follow rules": [
+"जब तक आप नियमों का पालन करते हैं",
+"Jaba taka āpa niyamoṃ kā pālana karate haiṃ"
+],
+"As far as I know, he is studious": [
+"जहाँ तक मुझे पता है, वह अध्ययनशील है",
+"Jahā~ taka mujhe patā hai, vaha adhyayanaśīla hai"
+],
+"As far as India is concerned": [
+"जहां तक ​​भारत का सवाल है",
+"Jahāṃ taka ​​bhārata kā savāla hai"
+],
+"As far as literacy is concerned": [
+"जहां तक ​​साक्षरता का सवाल है",
+"Jahāṃ taka ​​sākṣaratā kā savāla hai"
+],
+"He is blaming me as if I have not tried": [
+"वह मुझ पर ऐसे आरोप लगा रहा है जैसे मैंने कोशिश ही नहीं की हो।'",
+"Vaha mujha para aise āropa lagā rahā hai jaise maiṃne kośiśa hī nahīṃ kī ho|'"
+],
+"He passed by as if she was not there": [
+"वह ऐसे गुजरा जैसे वह वहां थी ही नहीं",
+"Vaha aise gujarā jaise vaha vahāṃ thī hī nahīṃ"
+],
+"As soon as he came": [
+"जैसे ही वह आया",
+"Jaise hī vaha āyā"
+],
+"As soon as she saw": [
+"जैसे ही उसने देखा",
+"Jaise hī usane dekhā"
+],
+"As soon as they become": [
+"जैसे ही वे बन जाते हैं",
+"Jaise hī ve bana jāte haiṃ"
+],
+"Let me know once he comes": [
+"जब वह आये तो मुझे बताना",
+"Jaba vaha āye to mujhe batānā"
+],
+"Once I see your story I will give review": [
+"एक बार मैं आपकी कहानी देखूंगा तो समीक्षा करूंगा",
+"Eka bāra maiṃ āpakī kahānī dekhūṃgā to samīkṣā karūṃgā"
+],
+"Rather than surrendering soldier will accept death": [
+"सैनिक आत्मसमर्पण करने के बजाय मौत स्वीकार करेगा",
+"Sainika ātmasamarpaṇa karane ke bajāya mauta svīkāra karegā"
+],
+"I will take tea rather than coffee": [
+"मैं कॉफी की जगह चाय लूंगा",
+"Maiṃ kaॉphī kī jagaha cāya lūṃgā"
+],
+"I will work hard so that I will win": [
+"मैं कड़ी मेहनत करूंगा ताकि जीत हासिल कर सकूं.'",
+"Maiṃ kar̤ī mehanata karūṃgā tāki jīta hāsila kara sakūṃ.'"
+],
+"We should avoid plastic so that less pollution": [
+"हमें प्लास्टिक से बचना चाहिए ताकि प्रदूषण कम हो",
+"Hameṃ plāsṭika se bacanā cāhie tāki pradūṣaṇa kama ho"
+],
+"He cheated me whereas I was helping him": [
+"उसने मुझे धोखा दिया जबकि मैं उसकी मदद कर रहा था",
+"Usane mujhe dhokhā diyā jabaki maiṃ usakī madada kara rahā thā"
+],
+"Govt said prices declined whereas inflation rose": [
+"सरकार ने कहा कि कीमतों में गिरावट आई जबकि मुद्रास्फीति बढ़ी",
+"Sarakāra ne kahā ki kīmatoṃ meṃ girāvaṭa āī jabaki mudrāsphīti bar̤hī"
+],
+"I did not know whether he is going": [
+"मुझे नहीं पता था कि वह जा रहा है या नहीं",
+"Mujhe nahīṃ patā thā ki vaha jā rahā hai yā nahīṃ"
+],
+"She could not realize whether to speak or not": [
+"उसे समझ नहीं आ रहा था कि वह बोले या नहीं",
+"Use samajha nahīṃ ā rahā thā ki vaha bole yā nahīṃ"
+],
+"Do this otherwise you will not win": [
+"ऐसा करो नहीं तो जीत नहीं पाओगे",
+"Aisā karo nahīṃ to jīta nahīṃ pāoge"
+],
+"He should inform me otherwise I will not know": [
+"वह मुझे बता दे नहीं तो मुझे पता नहीं चलेगा",
+"Vaha mujhe batā de nahīṃ to mujhe patā nahīṃ calegā"
+],
+"I also ran": [
+"मैं भी भागा",
+"Maiṃ bhī bhāgā"
+],
+"He will come tomorrow as well": [
+"वह कल भी आयेंगे",
+"Vaha kala bhī āyeṃge"
+],
+"This is old video. I saw it. I am sharing today": [
+"ये पुराना वीडियो है. मैंने उसे देखा। मैं आज साझा कर रहा हूं",
+"Ye purānā vīḍiyo hai. maiṃne use dekhā| maiṃ āja sājhā kara rahā hūṃ"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"ये पुराना वीडियो है फिर भी देखा तो आज शेयर कर रहा हूँ",
+"Ye purānā vīḍiyo hai phira bhī dekhā to āja śeyara kara rahā hū~"
+],
+"This is old song. I heard it today": [
+"ये पुराना गाना है. मैंने इसे आज सुना",
+"Ye purānā gānā hai. maiṃne ise āja sunā"
+],
+"Though it is old song, I heard it today": [
+"हालाँकि यह पुराना गाना है, मैंने इसे आज सुना",
+"Hālā~ki yaha purānā gānā hai, maiṃne ise āja sunā"
+],
+"My wife was standing there. He asked about girlfriend": [
+"मेरी पत्नी वहीं खड़ी थी. उसने गर्लफ्रेंड के बारे में पूछा",
+"Merī patnī vahīṃ khar̤ī thī. usane garlaphreṃḍa ke bāre meṃ pūchā"
+],
+"My wife was standing there yet he asked": [
+"मेरी पत्नी वहीं खड़ी थी फिर भी उसने पूछा",
+"Merī patnī vahīṃ khar̤ī thī phira bhī usane pūchā"
+],
+"Policeman was watching. He did not dare to run": [
+"पुलिस वाला देख रहा था. उसकी भागने की हिम्मत नहीं हुई",
+"Pulisa vālā dekha rahā thā. usakī bhāgane kī himmata nahīṃ huī"
+],
+"As policeman was watching he did not dare": [
+"पुलिसकर्मी देख रहा था इसलिए उसकी हिम्मत नहीं हुई",
+"Pulisakarmī dekha rahā thā isalie usakī himmata nahīṃ huī"
+],
+"I had illusion of monsters coming": [
+"मुझे राक्षसों के आने का भ्रम हो गया था",
+"Mujhe rākṣasoṃ ke āne kā bhrama ho gayā thā"
+],
+"Now she will search it forever": [
+"अब वह इसे हमेशा ढूंढ़ती रहेगी",
+"Aba vaha ise hameśā ḍhūṃr̤hatī rahegī"
+],
+"If we think of eating mango then..": [
+"अगर हम आम खाने के बारे में सोचें तो...",
+"Agara hama āma khāne ke bāre meṃ soceṃ to..."
+],
+"If he decides to take revenge..": [
+"अगर उसने बदला लेने का फैसला किया..",
+"Agara usane badalā lene kā phaisalā kiyā.."
+],
+"I have decided a plan for tonight": [
+"मैंने आज रात के लिए एक योजना तय कर ली है",
+"Maiṃne āja rāta ke lie eka yojanā taya kara lī hai"
+],
+"I feel this way": [
+"मुझे ऐसा लगता है",
+"Mujhe aisā lagatā hai"
+],
+"I feel this": [
+"मुझे ये महसूस होता है",
+"Mujhe ye mahasūsa hotā hai"
+],
+"He felt that I will not come": [
+"उसे लगा कि मैं नहीं आऊंगा",
+"Use lagā ki maiṃ nahīṃ āūṃgā"
+],
+"What do you feel?": [
+"आप क्या महसूस करते हो?",
+"Āpa kyā mahasūsa karate ho?"
+],
+"He felt happiness": [
+"उसे ख़ुशी महसूस हुई",
+"Use k͟huśī mahasūsa huī"
+],
+"Don't you feel ashamed?": [
+"तुम्हें शर्म नहीं आती?",
+"Tumheṃ śarma nahīṃ ātī?"
+],
+"Kaushik thinks he should go": [
+"कौशिक सोचता है कि उसे जाना चाहिए",
+"Kauśika socatā hai ki use jānā cāhie"
+],
+"He will feel bad": [
+"उसे बुरा लगेगा",
+"Use burā lagegā"
+],
+"To show different aspects": [
+"अलग-अलग पहलू दिखाने के लिए",
+"Alaga-alaga pahalū dikhāne ke lie"
+],
+"To follow up & pressurize": [
+"फॉलोअप करना और दबाव बनाना",
+"Phaॉloapa karanā aura dabāva banānā"
+],
+"Every home same story": [
+"हर घर की एक ही कहानी",
+"Hara ghara kī eka hī kahānī"
+],
+"To approve formally": [
+"औपचारिक रूप से अनुमोदन करना",
+"Aupacārika rūpa se anumodana karanā"
+],
+"To cause destruction": [
+"विनाश का कारण बनना",
+"Vināśa kā kāraṇa bananā"
+],
+"Repeat like tape": [
+"टेप की तरह दोहराएँ",
+"Ṭepa kī taraha doharāe~"
+],
+"To force to do": [
+"करने के लिए बाध्य करना",
+"Karane ke lie bādhya karanā"
+],
+"No control on tongue": [
+"जुबान पर नियंत्रण नहीं",
+"Jubāna para niyaṃtraṇa nahīṃ"
+],
+"Not utter a word": [
+"एक शब्द भी नहीं बोला",
+"Eka śabda bhī nahīṃ bolā"
+],
+"To take control": [
+"नियंत्रण लेने के लिए",
+"Niyaṃtraṇa lene ke lie"
+],
+"To feel embarrassed": [
+"मुँह उतरना",
+"Mu~ha utaranā"
+],
+"To spew venom": [
+"जहर उगलना",
+"Jahara ugalanā"
+],
+"To uncover mystery": [
+"रहस्य उजागर करने के लिए",
+"Rahasya ujāgara karane ke lie"
+],
+"To be puzzled": [
+"हैरान होना",
+"Hairāna honā"
+],
+"To defeat completely": [
+"पूरी तरह से हराना",
+"Pūrī taraha se harānā"
+],
+"If employee works 1 year, gratuity right": [
+"अगर कर्मचारी 1 साल तक काम करता है तो ग्रेच्युटी का अधिकार",
+"Agara karmacārī 1 sāla taka kāma karatā hai to grecyuṭī kā adhikāra"
+],
+"If wrong info given, disciplinary action": [
+"गलत जानकारी दी तो होगी अनुशासनात्मक कार्रवाई",
+"Galata jānakārī dī to hogī anuśāsanātmaka kārravāī"
+],
+"If possible, come to meet me": [
+"हो सके तो मुझसे मिलने आ जाना",
+"Ho sake to mujhase milane ā jānā"
+],
+"What does this mean?": [
+"इसका अर्थ क्या है?",
+"Isakā artha kyā hai?"
+],
+"I came because you called": [
+"मैं इसलिए आया क्योंकि तुमने बुलाया था",
+"Maiṃ isalie āyā kyoṃki tumane bulāyā thā"
+],
+"Someone called Kaushik has come": [
+"कौशिक नामक कोई व्यक्ति आया है",
+"Kauśika nāmaka koī vyakti āyā hai"
+],
+"Someone named Kaushik has come": [
+"कोई कौशिक नाम का आदमी आया है",
+"Koī kauśika nāma kā ādamī āyā hai"
+],
+"Why do you want it for?": [
+"आप इसे क्यों चाहते हैं?",
+"Āpa ise kyoṃ cāhate haiṃ?"
+],
+"What is its reason?": [
+"इसका कारण क्या है?",
+"Isakā kāraṇa kyā hai?"
+],
+"You only complete this": [
+"आप ही इसे पूरा करें",
+"Āpa hī ise pūrā kareṃ"
+],
+"It is you who told": [
+"आपने ही बताया था",
+"Āpane hī batāyā thā"
+],
+"I want it tomorrow itself": [
+"मैं इसे कल ही चाहता हूं",
+"Maiṃ ise kala hī cāhatā hūṃ"
+],
+"I am bored": [
+"मुझे ऊबन हो चुकी है",
+"Mujhe ūbana ho cukī hai"
+],
+"He was bored": [
+"वह ऊब गया था",
+"Vaha ūba gayā thā"
+],
+"Relative / Relatives": [
+"रिश्तेदार/रिश्तेदार",
+"Riśtedāra/riśtedāra"
+],
+"Father's brother's wife": [
+"पिता के भाई की पत्नी",
+"Pitā ke bhāī kī patnī"
+],
+"Father's brother's son": [
+"पिता के भाई का पुत्र",
+"Pitā ke bhāī kā putra"
+],
+"Father's brother's daughter": [
+"पिता के भाई की बेटी",
+"Pitā ke bhāī kī beṭī"
+],
+"Mother's brother's wife": [
+"माँ के भाई की पत्नी",
+"Mā~ ke bhāī kī patnī"
+],
+"Mother's brother's son": [
+"माँ के भाई का बेटा",
+"Mā~ ke bhāī kā beṭā"
+],
+"Mother's brother's daughter": [
+"माँ के भाई की बेटी",
+"Mā~ ke bhāī kī beṭī"
+],
+"Father's sister's son": [
+"पिता की बहन का बेटा",
+"Pitā kī bahana kā beṭā"
+],
+"Father's sister's daughter": [
+"पिता की बहन की बेटी",
+"Pitā kī bahana kī beṭī"
+],
+"Father's sister's husband": [
+"पिता की बहन का पति",
+"Pitā kī bahana kā pati"
+],
+"Mother's sister's son": [
+"माँ की बहन का बेटा",
+"Mā~ kī bahana kā beṭā"
+],
+"Mother's sister's daughter": [
+"माँ की बहन की बेटी",
+"Mā~ kī bahana kī beṭī"
+],
+"Mother's sister's husband": [
+"माँ की बहन का पति",
+"Mā~ kī bahana kā pati"
+],
+"Great grand father": [
+"महान दादा",
+"Mahāna dādā"
+],
+"Great grand mother": [
+"ग्रेट ग्रांडमदर",
+"Greṭa grāṃḍamadara"
+],
+"Son's wife / Daughter in law": [
+"बेटे की पत्नी/बहू",
+"Beṭe kī patnī/bahū"
+],
+"Daughter's husband / Son in law": [
+"बेटी का पति/दामाद",
+"Beṭī kā pati/dāmāda"
+],
+"Father in law": [
+"ससुर",
+"Sasura"
+],
+"Mother in law": [
+"सास",
+"Sāsa"
+],
+"Father in law's father": [
+"ससुर के पिता",
+"Sasura ke pitā"
+],
+"We": [
+"हम",
+"Hama"
+],
+"You (singular)": [
+"आप (एकवचन)",
+"Āpa (ekavacana)"
+],
+"You (plural)": [
+"आप बहुवचन)",
+"Āpa bahuvacana)"
+],
+"This (m.)": [
+"यह (एम.)",
+"Yaha (ema.)"
+],
+"This (f.)": [
+"लानत होना।)",
+"Lānata honā|)"
+],
+"This (n.)": [
+"यह (सं.)",
+"Yaha (saṃ.)"
+],
+"These (m.)": [
+"ये (एम.)",
+"Ye (ema.)"
+],
+"These (f.)": [
+"ये (एफ.)",
+"Ye (epha.)"
+],
+"These (n.)": [
+"ये (सं.)",
+"Ye (saṃ.)"
+],
+"Self": [
+"खुद",
+"Khuda"
+],
+"Sing": [
+"गाओ",
+"Gāo"
+],
+"Beat": [
+"मारो",
+"Māro"
+],
+"Write": [
+"लिखना",
+"Likhanā"
+],
+"Do": [
+"करना",
+"Karanā"
+],
+"Get up": [
+"उठना",
+"Uṭhanā"
+],
+"Stop": [
+"रुकना",
+"Rukanā"
+],
+"Close": [
+"बंद करना",
+"Baṃda karanā"
+],
+"I (male)": [
+"मैं (पुरुष)",
+"Maiṃ (puruṣa)"
+],
+"I (female)": [
+"मैं (महिला)",
+"Maiṃ (mahilā)"
+],
+"We dance": [
+"हम नाचते हैं",
+"Hama nācate haiṃ"
+],
+"He walks": [
+"वह चलता है",
+"Vaha calatā hai"
+],
+"She speaks": [
+"वह बोलता है",
+"Vaha bolatā hai"
+],
+"It moves": [
+"यह चलता है",
+"Yaha calatā hai"
+],
+"They dance": [
+"वे नृत्य करें",
+"Ve nṛtya kareṃ"
+],
+"You (singular/plural)": [
+"आप (एकवचन/बहुवचन)",
+"Āpa (ekavacana/bahuvacana)"
+],
+"They (all)": [
+"वो सब)",
+"Vo saba)"
+],
+"I (male/female)": [
+"मैं (पुरुष/महिला)",
+"Maiṃ (puruṣa/mahilā)"
+],
+"He": [
+"वह",
+"Vaha"
+],
+"She": [
+"वह",
+"Vaha"
+],
+"It": [
+"यह",
+"Yaha"
+],
+"They (m.)": [
+"वे (मु.)",
+"Ve (mu.)"
+],
+"They (f.)": [
+"वे (एफ.)",
+"Ve (epha.)"
+],
+"They (n.)": [
+"वे (न.)",
+"Ve (na.)"
+],
+"This (Male)": [
+"यह (पुरुष)",
+"Yaha (puruṣa)"
+],
+"This (Female)": [
+"यह (महिला)",
+"Yaha (mahilā)"
+],
+"This (neuter)": [
+"यह (नपुंसक)",
+"Yaha (napuṃsaka)"
+],
+"These (male/female/neuter)": [
+"ये (पुरुष/महिला/नपुंसक)",
+"Ye (puruṣa/mahilā/napuṃsaka)"
+],
+"about": [
+"के बारे में",
+"Ke bāre meṃ"
+],
+"across": [
+"आर-पार",
+"Āra-pāra"
+],
+"against": [
+"ख़िलाफ़",
+"K͟hilāfa"
+],
+"Among": [
+"के बीच",
+"Ke bīca"
+],
+"Around": [
+"आस-पास",
+"Āsa-pāsa"
+],
+"As/like": [
+"जैसे ही",
+"Jaise hī"
+],
+"aside": [
+"अलग",
+"Alaga"
+],
+"for": [
+"के लिए",
+"Ke lie"
+],
+"From/since": [
+"से/से",
+"Se/se"
+],
+"in": [
+"में",
+"Meṃ"
+],
+"till/until": [
+"तक/जब तक",
+"Taka/jaba taka"
+],
+"without": [
+"बिना",
+"Binā"
+],
+"during": [
+"दौरान",
+"Daurāna"
+],
+"Near/close to": [
+"खत्म होने के समीप",
+"Khatma hone ke samīpa"
+],
+"towards": [
+"की ओर",
+"Kī ora"
+],
+"with": [
+"साथ",
+"Sātha"
+],
+"Instead of": [
+"के बजाय",
+"Ke bajāya"
+],
+"Prior to": [
+"निम्न से पहले",
+"Nimna se pahale"
+],
+"Because of": [
+"के कारण",
+"Ke kāraṇa"
+],
+"According to": [
+"के अनुसार",
+"Ke anusāra"
+],
+"Through": [
+"के माध्यम से",
+"Ke mādhyama se"
+],
+"You speak": [
+"आप बोलिए",
+"Āpa bolie"
+],
+"Read it": [
+"इसे पढ़ें",
+"Ise par̤heṃ"
+],
+"Do it": [
+"इसे करें",
+"Ise kareṃ"
+],
+"You go": [
+"तुम जाओ",
+"Tuma jāo"
+],
+"You give": [
+"आप दे",
+"Āpa de"
+],
+"You drink": [
+"आप पीते हैं",
+"Āpa pīte haiṃ"
+],
+"Toy moved": [
+"खिलौना चला गया",
+"Khilaunā calā gayā"
+],
+"To cook": [
+"खाना बनाना",
+"Khānā banānā"
+],
+"Rice cooked": [
+"चावल पका हुआ",
+"Cāvala pakā huā"
+],
+"To die": [
+"दम टूटना",
+"Dama ṭūṭanā"
+],
+"To fall": [
+"गिरने के लिये",
+"Girane ke liye"
+],
+"Glass broke": [
+"शीशा टूट गया",
+"Śīśā ṭūṭa gayā"
+],
+"To leave": [
+"छोड़ जाना",
+"Chor̤a jānā"
+],
+"To drink": [
+"पीने के लिए",
+"Pīne ke lie"
+],
+"To eat": [
+"को खाने के",
+"Ko khāne ke"
+],
+"To feed": [
+"खिलाना",
+"Khilānā"
+],
+"To speak": [
+"बात करने के लिए",
+"Bāta karane ke lie"
+],
+"To run": [
+"चलाने के लिए",
+"Calāne ke lie"
+],
+"my": [
+"मेरा",
+"Merā"
+],
+"speaking": [
+"बोला जा रहा है",
+"Bolā jā rahā hai"
+],
+"your": [
+"आपका",
+"Āpakā"
+],
+"his": [
+"उसका",
+"Usakā"
+],
+"Ram's": [
+"राम का",
+"Rāma kā"
+],
+"dance": [
+"नृत्य",
+"Nṛtya"
+],
+"About speaking": [
+"बोलने के बारे में",
+"Bolane ke bāre meṃ"
+],
+"For eating": [
+"खाने के लिए",
+"Khāne ke lie"
+],
+"while speaking": [
+"बोलते समय",
+"Bolate samaya"
+],
+"while doing": [
+"ये करते समय",
+"Ye karate samaya"
+],
+"while dancing": [
+"नाचते समय",
+"Nācate samaya"
+],
+"to see": [
+"देखने के लिए",
+"Dekhane ke lie"
+],
+"to do": [
+"करने के लिए",
+"Karane ke lie"
+],
+"to dance": [
+"नृत्य करने के लिए",
+"Nṛtya karane ke lie"
+],
+"Black horse": [
+"काला घोड़ा",
+"Kālā ghor̤ā"
+],
+"Black chair": [
+"काली कुर्सी",
+"Kālī kursī"
+],
+"Black page": [
+"काला पन्ना",
+"Kālā pannā"
+],
+"Black horses": [
+"काले घोड़े",
+"Kāle ghor̤e"
+],
+"Black chairs": [
+"काली कुर्सियाँ",
+"Kālī kursiyā~"
+],
+"Black pages": [
+"काले पन्ने",
+"Kāle panne"
+],
+"Good horse": [
+"अच्छा घोड़ा",
+"Acchā ghor̤ā"
+],
+"Good chair": [
+"अच्छी कुर्सी",
+"Acchī kursī"
+],
+"Easy exam": [
+"आसान परीक्षा",
+"Āsāna parīkṣā"
+],
+"Red horse": [
+"लाल घोड़ा",
+"Lāla ghor̤ā"
+],
+"Beautiful drawing": [
+"सुंदर रेखांकन",
+"Suṃdara rekhāṃkana"
+],
+"Talking boy": [
+"बात करने वाला लड़का",
+"Bāta karane vālā lar̤akā"
+],
+"Rotating fan": [
+"घूमता हुआ पंखा",
+"Ghūmatā huā paṃkhā"
+],
+"Talking girl": [
+"बात कर रही लड़की",
+"Bāta kara rahī lar̤akī"
+],
+"Moving chair": [
+"चलती कुर्सी",
+"Calatī kursī"
+],
+"Flying saucer": [
+"उड़न तश्तरी",
+"Ur̤ana taśtarī"
+],
+"Talking book": [
+"बात करने वाली किताब",
+"Bāta karane vālī kitāba"
+],
+"Moving tree": [
+"हिलता हुआ पेड़",
+"Hilatā huā per̤a"
+],
+"Talked boy": [
+"लड़के से बात की",
+"Lar̤ake se bāta kī"
+],
+"Rotated fan": [
+"घुमाया हुआ पंखा",
+"Ghumāyā huā paṃkhā"
+],
+"Talked girl": [
+"बात की लड़की",
+"Bāta kī lar̤akī"
+],
+"Moved chair": [
+"कुर्सी खिसका दी",
+"Kursī khisakā dī"
+],
+"Flown saucer": [
+"उड़ा हुआ तश्तरी",
+"Ur̤ā huā taśtarī"
+],
+"Talked book": [
+"बात की किताब",
+"Bāta kī kitāba"
+],
+"Moved tree": [
+"हट गया पेड़",
+"Haṭa gayā per̤a"
+],
+"What happened?": [
+"क्या हुआ?",
+"Kyā huā?"
+],
+"More bitter": [
+"अधिक कड़वा",
+"Adhika kar̤avā"
+],
+"Most bitter": [
+"सबसे कड़वा",
+"Sabase kar̤avā"
+],
+"Tall": [
+"लंबा",
+"Laṃbā"
+],
+"Taller": [
+"लम्बे",
+"Lambe"
+],
+"Tallest": [
+"सबसे ऊंची",
+"Sabase ūṃcī"
+],
+"Better": [
+"बेहतर",
+"Behatara"
+],
+"Best": [
+"श्रेष्ठ",
+"Śreṣṭha"
+],
+"Let's play": [
+"आइए खेलते हैं",
+"Āie khelate haiṃ"
+],
+"Let's go": [
+"चल दर",
+"Cala dara"
+],
+"Let's speak": [
+"चलिए बोलते हैं",
+"Calie bolate haiṃ"
+],
+"Really!": [
+"वास्तव में!",
+"Vāstava meṃ!"
+],
+"How big!": [
+"कितने बड़े है!",
+"Kitane bar̤e hai!"
+],
+"Very bad": [
+"बहुत बुरा",
+"Bahuta burā"
+],
+"Good handwriting": [
+"अच्छी लिखावट",
+"Acchī likhāvaṭa"
+],
+"Very Good": [
+"बहुत अच्छा",
+"Bahuta acchā"
+],
+"Excellent!": [
+"उत्कृष्ट!",
+"Utkṛṣṭa!"
+],
+"Speaking phone": [
+"बोल रहा हूँ फ़ोन",
+"Bola rahā hū~ fona"
+],
+"Something fishy": [
+"कुछ गड़बड़ है",
+"Kucha gar̤abar̤a hai"
+],
+"Dampen spirit": [
+"आत्मा को नम करना",
+"Ātmā ko nama karanā"
+],
+"To threaten": [
+"धमकी देना",
+"Dhamakī denā"
+],
+"After-effects": [
+"प्रभाव के बाद",
+"Prabhāva ke bāda"
+],
+"To override/violate": [
+"अतिक्रमण/उल्लंघन करना",
+"Atikramaṇa/ullaṃghana karanā"
+],
+"To renounce": [
+"त्याग करना",
+"Tyāga karanā"
+],
+"To pretend": [
+"नाटक करना",
+"Nāṭaka karanā"
+],
+"To trap": [
+"जाल में फंसाने के लिए",
+"Jāla meṃ phaṃsāne ke lie"
+],
+"To support": [
+"समर्थन के लिए",
+"Samarthana ke lie"
+],
+"To strike": [
+"चोट मारना",
+"Coṭa māranā"
+],
+"To pardon": [
+"क्षमा करना",
+"Kṣamā karanā"
+],
+"Cryptography means?": [
+"क्रिप्टोग्राफी का मतलब है?",
+"Kripṭogrāphī kā matalaba hai?"
+],
+"Relation": [
+"रिश्ता",
+"Riśtā"
+],
+"Direct brother": [
+"सीधा भाई",
+"Sīdhā bhāī"
+],
+"Direct sister": [
+"सीधी बहन",
+"Sīdhī bahana"
+],
+"Grand father": [
+"दादा",
+"Dādā"
+],
+"Grand mother": [
+"दादी",
+"Dādī"
+],
+"Father's brother": [
+"पिता का भाई",
+"Pitā kā bhāī"
+],
+"Mother's brother": [
+"माँ का भाई",
+"Mā~ kā bhāī"
+],
+"Father's sister": [
+"पिता की बहन",
+"Pitā kī bahana"
+],
+"Mother's sister": [
+"माँ की बहन",
+"Mā~ kī bahana"
+],
+"Grandson's wife": [
+"पोते की पत्नी",
+"Pote kī patnī"
+],
+"Great grandson": [
+"महान पोता",
+"Mahāna potā"
+],
+"Great granddaughter": [
+"महान पोती",
+"Mahāna potī"
+],
+"Husband's brother": [
+"पति का भाई",
+"Pati kā bhāī"
+],
+"Husband's sister": [
+"पति की बहन",
+"Pati kī bahana"
+],
+"Wife's brother": [
+"पत्नी का भाई",
+"Patnī kā bhāī"
+],
+"Wife's sister": [
+"साली",
+"Sālī"
+],
+"Sister's husband": [
+"बहन का पति",
+"Bahana kā pati"
+],
+"Sister's son": [
+"बहन का बेटा",
+"Bahana kā beṭā"
+],
+"Sister's daughter": [
+"बहन की बेटी",
+"Bahana kī beṭī"
+],
+"Friend (boy)": [
+"मित्र लड़का)",
+"Mitra lar̤akā)"
+],
+"Friend (girl)": [
+"दोस्त (लड़की)",
+"Dosta (lar̤akī)"
+],
+"Bridegroom": [
+"वर वधु",
+"Vara vadhu"
+],
+"Adopted son": [
+"दत्तक पुत्र",
+"Dattaka putra"
+],
+"Adopted daughter": [
+"गोद ली हुई बेटी",
+"Goda lī huī beṭī"
+],
+"Assumed son": [
+"मान लिया बेटा",
+"Māna liyā beṭā"
+],
+"Assumed daughter": [
+"मान ली बेटी",
+"Māna lī beṭī"
+],
+"To wash": [
+"धोना",
+"Dhonā"
+],
+"To brush": [
+"ब्रश करने के लिए",
+"Braśa karane ke lie"
+],
+"To gargle": [
+"गरारे करना",
+"Garāre karanā"
+],
+"To fold": [
+"फोल्ड करना",
+"Pholḍa karanā"
+],
+"To urinate": [
+"पेशाब करना",
+"Peśāba karanā"
+],
+"To exercise": [
+"अभ्यास करना",
+"Abhyāsa karanā"
+],
+"To bath": [
+"स्नान करना",
+"Snāna karanā"
+],
+"To change": [
+"को बदलने",
+"Ko badalane"
+],
+"To wear": [
+"पहनने के लिए",
+"Pahanane ke lie"
+],
+"To comb": [
+"कंघी करने के लिए",
+"Kaṃghī karane ke lie"
+],
+"To apply": [
+"लगा देना",
+"Lagā denā"
+],
+"To close": [
+"बंद कर देना",
+"Baṃda kara denā"
+],
+"To sit": [
+"बेठना",
+"Beṭhanā"
+],
+"To start": [
+"आरंभ करना",
+"Āraṃbha karanā"
+],
+"To reach": [
+"तक पहुँचने",
+"Taka pahu~cane"
+],
+"To work": [
+"काम करने के लिए",
+"Kāma karane ke lie"
+],
+"To speak/say/talk": [
+"बोलना/कहना/बातचीत करना",
+"Bolanā/kahanā/bātacīta karanā"
+],
+"To answer": [
+"जवाब देने के लिए",
+"Javāba dene ke lie"
+],
+"To send": [
+"भेजने के लिए",
+"Bhejane ke lie"
+],
+"To chitchat": [
+"बातें करना",
+"Bāteṃ karanā"
+],
+"To buy": [
+"खरीदने के लिए",
+"Kharīdane ke lie"
+],
+"To sell": [
+"बेचने के लिए",
+"Becane ke lie"
+],
+"To put/keep": [
+"रखना/रखना",
+"Rakhanā/rakhanā"
+],
+"To put": [
+"डालने के लिए",
+"Ḍālane ke lie"
+],
+"To count": [
+"गिनती करने के लिए",
+"Ginatī karane ke lie"
+],
+"To stand": [
+"सहन करना",
+"Sahana karanā"
+],
+"To listen": [
+"श्रवण करना",
+"Śravaṇa karanā"
+],
+"To return": [
+"लौटने के लिये",
+"Lauṭane ke liye"
+],
+"To open": [
+"को खोलने के लिए",
+"Ko kholane ke lie"
+],
+"To lift": [
+"उठा देना",
+"Uṭhā denā"
+],
+"To play": [
+"क्रीड़ा करना",
+"Krīr̤ā karanā"
+],
+"To jump": [
+"कूदने के लिए",
+"Kūdane ke lie"
+],
+"To hide": [
+"छिपाने के लिए",
+"Chipāne ke lie"
+],
+"To search": [
+"खोजना",
+"Khojanā"
+],
+"To recite": [
+"सुनाना",
+"Sunānā"
+],
+"To sing": [
+"गाने के लिए",
+"Gāne ke lie"
+],
+"To shout": [
+"चिल्लाना",
+"Cillānā"
+],
+"To throw": [
+"फेंकना",
+"Pheṃkanā"
+],
+"To hit": [
+"हमला करना",
+"Hamalā karanā"
+],
+"To ask": [
+"पूछने के लिए",
+"Pūchane ke lie"
+],
+"To clean": [
+"को साफ",
+"Ko sāpha"
+],
+"To cut": [
+"कटौती करने के लिए",
+"Kaṭautī karane ke lie"
+],
+"To break": [
+"तोड़ना",
+"Tor̤anā"
+],
+"To burst": [
+"फट करने के लिए",
+"Phaṭa karane ke lie"
+],
+"To write": [
+"लिखना",
+"Likhanā"
+],
+"Accept": [
+"स्वीकार करना",
+"Svīkāra karanā"
+],
+"Bring": [
+"लाना",
+"Lānā"
+],
+"Complain": [
+"शिकायत करना",
+"Śikāyata karanā"
+],
+"Draw": [
+"खींचना",
+"Khīṃcanā"
+],
+"Fall": [
+"गिरना",
+"Giranā"
+],
+"Fill": [
+"भरना",
+"Bharanā"
+],
+"Start/begin": [
+"शुरू शुरू करें",
+"Śurū śurū kareṃ"
+],
+"Finish": [
+"खत्म करना",
+"Khatma karanā"
+],
+"Live": [
+"रहना",
+"Rahanā"
+],
+"See/watch/look": [
+"देखें/देखें/देखें",
+"Dekheṃ/dekheṃ/dekheṃ"
+],
+"Use": [
+"उपयोग",
+"Upayoga"
+],
+"Teach": [
+"पढ़ाना",
+"Par̤hānā"
+],
+"Study": [
+"अध्ययन",
+"Adhyayana"
+],
+"Read": [
+"पढ़ना",
+"Par̤hanā"
+],
+"Make/prepare": [
+"बनाना/तैयार करना",
+"Banānā/taiyāra karanā"
+],
+"Fly": [
+"उड़ना",
+"Ur̤anā"
+],
+"Get bored": [
+"उकताना",
+"Ukatānā"
+],
+"Leave": [
+"छुट्टी",
+"Chuṭṭī"
+],
+"Want/need": [
+"चाहिए/आवश्यकता",
+"Cāhie/āvaśyakatā"
+],
+"Sign": [
+"संकेत",
+"Saṃketa"
+],
+"Swim": [
+"तैरना",
+"Tairanā"
+],
+"Try": [
+"कोशिश",
+"Kośiśa"
+],
+"Worry": [
+"चिंता",
+"Ciṃtā"
+],
+"Achieve": [
+"प्राप्त करना",
+"Prāpta karanā"
+],
+"Admit (mistake)": [
+"स्वीकार करें (गलती)",
+"Svīkāra kareṃ (galatī)"
+],
+"Admit (school)": [
+"प्रवेश (स्कूल)",
+"Praveśa (skūla)"
+],
+"Afford": [
+"वहन",
+"Vahana"
+],
+"Win": [
+"जीतना",
+"Jītanā"
+],
+"Lose": [
+"खोना",
+"Khonā"
+],
+"Shake": [
+"हिलाना",
+"Hilānā"
+],
+"Decide": [
+"तय करना",
+"Taya karanā"
+],
+"Hold": [
+"पकड़ना",
+"Pakar̤anā"
+],
+"Choose": [
+"चुनना",
+"Cunanā"
+],
+"Turn": [
+"मोड़",
+"Mor̤a"
+],
+"Rise": [
+"उठना",
+"Uṭhanā"
+],
+"Set (sun,moon)": [
+"सेट (सूर्य, चंद्रमा)",
+"Seṭa (sūrya, caṃdramā)"
+],
+"Deny": [
+"अस्वीकार करना",
+"Asvīkāra karanā"
+],
+"To reproach/blame": [
+"निन्दा/दोष देना",
+"Nindā/doṣa denā"
+],
+"To color": [
+"रंग भरना",
+"Raṃga bharanā"
+],
+"To destroy": [
+"ध्वंस करना",
+"Dhvaṃsa karanā"
+],
+"Big": [
+"बड़ा",
+"Bar̤ā"
+],
+"Small": [
+"छोटा",
+"Choṭā"
+],
+"Deep": [
+"गहरा",
+"Gaharā"
+],
+"Shallow": [
+"उथला",
+"Uthalā"
+],
+"Simple": [
+"सरल",
+"Sarala"
+],
+"Special": [
+"विशेष",
+"Viśeṣa"
+],
+"Faint": [
+"बेहोश होना",
+"Behośa honā"
+],
+"Short": [
+"छोटा",
+"Choṭā"
+],
+"Thin": [
+"पतला",
+"Patalā"
+],
+"Wide": [
+"चौड़ा",
+"Caur̤ā"
+],
+"Narrow": [
+"सँकरा",
+"Sa~karā"
+],
+"Curved": [
+"मुड़ा हुआ",
+"Mur̤ā huā"
+],
+"Salty": [
+"नमकीन",
+"Namakīna"
+],
+"Easy": [
+"आसान",
+"Āsāna"
+],
+"Dry": [
+"सूखा",
+"Sūkhā"
+],
+"Wet": [
+"गीला",
+"Gīlā"
+],
+"Filled": [
+"भरा हुआ",
+"Bharā huā"
+],
+"Incomplete": [
+"अधूरा",
+"Adhūrā"
+],
+"Hard (surface)": [
+"कठोर (सतह)",
+"Kaṭhora (sataha)"
+],
+"Soft": [
+"कोमल",
+"Komala"
+],
+"Heavy": [
+"भारी",
+"Bhārī"
+],
+"Light (weight)": [
+"हल्का (वजन)",
+"Halkā (vajana)"
+],
+"New": [
+"नया",
+"Nayā"
+],
+"Old": [
+"पुराना",
+"Purānā"
+],
+"Slow": [
+"धीमा",
+"Dhīmā"
+],
+"Fast": [
+"तेज़",
+"Teza"
+],
+"Young": [
+"युवा",
+"Yuvā"
+],
+"Unhappy": [
+"अप्रसन्न",
+"Aprasanna"
+],
+"Gloomy": [
+"उदास",
+"Udāsa"
+],
+"Carefully": [
+"सावधानी से",
+"Sāvadhānī se"
+],
+"Slowly": [
+"धीरे से",
+"Dhīre se"
+],
+"Quickly": [
+"जल्दी से",
+"Jaldī se"
+],
+"A bit": [
+"एक सा",
+"Eka sā"
+],
+"A lot": [
+"बहुत",
+"Bahuta"
+],
+"Aback": [
+"अचंभे",
+"Acaṃbhe"
+],
+"Accordingly": [
+"इसलिए",
+"Isalie"
+],
+"Accurately": [
+"सही रूप में",
+"Sahī rūpa meṃ"
+],
+"Actively": [
+"सक्रिय",
+"Sakriya"
+],
+"Afresh": [
+"नए सिरे से",
+"Nae sire se"
+],
+"Ago": [
+"पहले",
+"Pahale"
+],
+"Agreeably": [
+"चाव से",
+"Cāva se"
+],
+"Altogether": [
+"कुल मिलाकर",
+"Kula milākara"
+],
+"Any": [
+"कोई",
+"Koī"
+],
+"Away": [
+"दूर",
+"Dūra"
+]
+}

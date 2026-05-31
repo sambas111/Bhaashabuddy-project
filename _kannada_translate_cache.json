@@ -5614,5 +5614,4005 @@
 "Really": [
 "ನಿಜವಾಗಿಯೂ",
 "Nijavāgiyū"
+],
+"We (listener including)": [
+"ನಾವು (ಕೇಳುಗರು ಸೇರಿದಂತೆ)",
+"Nāvu (keḻugaru seridaṃtè)"
+],
+"He / That (m.)": [
+"ಅವನು / ಅದು (ಎಂ.)",
+"Avanu / adu (èṃ.)"
+],
+"She / That (f.)": [
+"ಅವಳು / ಅದು (ಎಫ್.)",
+"Avaḻu / adu (èph.)"
+],
+"It / That (n.)": [
+"ಇದು / ಅದು (ಎನ್.)",
+"Idu / adu (èn.)"
+],
+"They (Plural of He) / Those (m.)": [
+"ಅವರು (ಅವರು ಬಹುವಚನ) / ಆ (m.)",
+"Avaru (avaru bahuvacana) / ā (m.)"
+],
+"They (Plural of She) / Those (f.)": [
+"ಅವರು (ಆಕೆಯ ಬಹುವಚನ) / ಆ (ಎಫ್.)",
+"Avaru (ākèya bahuvacana) / ā (èph.)"
+],
+"They (Plural of it) / Those (n.)": [
+"ಅವರು (ಅದರ ಬಹುವಚನ) / ಆ (ಎನ್.)",
+"Avaru (adara bahuvacana) / ā (èn.)"
+],
+"We went to the party (listener not included)": [
+"ನಾವು ಪಾರ್ಟಿಗೆ ಹೋಗಿದ್ದೆವು (ಕೇಳುಗರನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ)",
+"Nāvu pārṭigè hogiddèvu (keḻugarannu serisalāgilla)"
+],
+"We went to the party (listener included)": [
+"ನಾವು ಪಾರ್ಟಿಗೆ ಹೋದೆವು (ಕೇಳುಗರನ್ನು ಒಳಗೊಂಡಿತ್ತು)",
+"Nāvu pārṭigè hodèvu (keḻugarannu òḻagòṃḍittu)"
+],
+"This is a horse": [
+"ಇದು ಕುದುರೆ",
+"Idu kudurè"
+],
+"This is an ant": [
+"ಇದು ಇರುವೆ",
+"Idu iruvè"
+],
+"You (singular male)": [
+"ನೀವು (ಏಕವಚನ ಪುರುಷ)",
+"Nīvu (ekavacana puruṣa)"
+],
+"You (singular female)": [
+"ನೀವು (ಏಕ ಸ್ತ್ರೀ)",
+"Nīvu (eka strī)"
+],
+"He / That (male) / This (male)": [
+"ಅವನು / ಅದು (ಪುರುಷ) / ಇದು (ಪುರುಷ)",
+"Avanu / adu (puruṣa) / idu (puruṣa)"
+],
+"She / That (female) / This (female)": [
+"ಅವಳು / ಅದು (ಹೆಣ್ಣು) / ಇದು (ಹೆಣ್ಣು)",
+"Avaḻu / adu (hèṇṇu) / idu (hèṇṇu)"
+],
+"It / That (neuter) / This (neuter)": [
+"ಇದು / ಅದು (ನಪುಂಸಕ) / ಇದು (ನಪುಂಸಕ)",
+"Idu / adu (napuṃsaka) / idu (napuṃsaka)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"ಅವರು (m.) / ಆ (m.) / ಈ (m.)",
+"Avaru (m.) / ā (m.) / ī (m.)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"ಅವರು (ಎಫ್.) / ಆ (ಎಫ್.) / ಈ (ಎಫ್.)",
+"Avaru (èph.) / ā (èph.) / ī (èph.)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"ಅವರು (ಎನ್.) / ಆ (ಎನ್.) / ಈ (ಎನ್.)",
+"Avaru (èn.) / ā (èn.) / ī (èn.)"
+],
+"I (male) do": [
+"ನಾನು (ಪುರುಷ) ಮಾಡುತ್ತೇನೆ",
+"Nānu (puruṣa) māḍuttenè"
+],
+"I (female) do": [
+"ನಾನು (ಹೆಣ್ಣು) ಮಾಡುತ್ತೇನೆ",
+"Nānu (hèṇṇu) māḍuttenè"
+],
+"You (male) cry": [
+"ನೀವು (ಪುರುಷ) ಅಳುತ್ತೀರಿ",
+"Nīvu (puruṣa) aḻuttīri"
+],
+"You (female) cry": [
+"ನೀವು (ಹೆಣ್ಣು) ಅಳುತ್ತೀರಿ",
+"Nīvu (hèṇṇu) aḻuttīri"
+],
+"You (plural) walk": [
+"ನೀವು (ಬಹುವಚನ) ನಡೆಯಿರಿ",
+"Nīvu (bahuvacana) naḍèyiri"
+],
+"I shall be doing.": [
+"ನಾನು ಮಾಡುತ್ತಿರುತ್ತೇನೆ.",
+"Nānu māḍuttiruttenè."
+],
+"We will be dancing.": [
+"ನಾವು ನೃತ್ಯ ಮಾಡುತ್ತೇವೆ.",
+"Nāvu nṛtya māḍuttevè."
+],
+"You will be crying.": [
+"ನೀವು ಅಳುತ್ತಿರುತ್ತೀರಿ.",
+"Nīvu aḻuttiruttīri."
+],
+"You (pl.) will be walking.": [
+"ನೀವು (pl.) ನಡೆಯುತ್ತೀರಿ.",
+"Nīvu (pl.) naḍèyuttīri."
+],
+"He will be walking.": [
+"ಅವನು ನಡೆಯುತ್ತಿರುತ್ತಾನೆ.",
+"Avanu naḍèyuttiruttānè."
+],
+"She will be speaking.": [
+"ಅವಳು ಮಾತನಾಡುವಳು.",
+"Avaḻu mātanāḍuvaḻu."
+],
+"It will be moving.": [
+"ಅದು ಚಲಿಸುತ್ತಿರುತ್ತದೆ.",
+"Adu calisuttiruttadè."
+],
+"They will be dancing.": [
+"ಅವರು ನೃತ್ಯ ಮಾಡಲಿದ್ದಾರೆ.",
+"Avaru nṛtya māḍaliddārè."
+],
+"He / That (m.) / This (m.)": [
+"ಅವನು / ಅದು (m.) / ಇದು (m.)",
+"Avanu / adu (m.) / idu (m.)"
+],
+"She / That (f.) / This (f.)": [
+"ಅವಳು / ಅದು (ಎಫ್.) / ಇದು (ಎಫ್.)",
+"Avaḻu / adu (èph.) / idu (èph.)"
+],
+"It / That (n.) / This (n.)": [
+"ಇದು / ಅದು (ಎನ್.) / ಇದು (ಎನ್.)",
+"Idu / adu (èn.) / idu (èn.)"
+],
+"I (male) / I (female)": [
+"ನಾನು (ಪುರುಷ) / ನಾನು (ಹೆಣ್ಣು)",
+"Nānu (puruṣa) / nānu (hèṇṇu)"
+],
+"I (male) was doing.": [
+"ನಾನು (ಪುರುಷ) ಮಾಡುತ್ತಿದ್ದೆ.",
+"Nānu (puruṣa) māḍuttiddè."
+],
+"I (female) was doing.": [
+"ನಾನು (ಹೆಣ್ಣು) ಮಾಡುತ್ತಿದ್ದೆ.",
+"Nānu (hèṇṇu) māḍuttiddè."
+],
+"We were dancing.": [
+"ನಾವು ನೃತ್ಯ ಮಾಡುತ್ತಿದ್ದೆವು.",
+"Nāvu nṛtya māḍuttiddèvu."
+],
+"You (male) were crying.": [
+"ನೀವು (ಪುರುಷ) ಅಳುತ್ತಿದ್ದಿರಿ.",
+"Nīvu (puruṣa) aḻuttiddiri."
+],
+"You (female) were crying.": [
+"ನೀನು (ಹೆಣ್ಣು) ಅಳುತ್ತಿದ್ದೆ.",
+"Nīnu (hèṇṇu) aḻuttiddè."
+],
+"You (Plural) were walking": [
+"ನೀವು (ಬಹುವಚನ) ನಡೆಯುತ್ತಿದ್ದಿರಿ",
+"Nīvu (bahuvacana) naḍèyuttiddiri"
+],
+"He was walking.": [
+"ಅವನು ನಡೆಯುತ್ತಿದ್ದನು.",
+"Avanu naḍèyuttiddanu."
+],
+"She was speaking.": [
+"ಅವಳು ಮಾತನಾಡುತ್ತಿದ್ದಳು.",
+"Avaḻu mātanāḍuttiddaḻu."
+],
+"It was moving.": [
+"ಅದು ಚಲಿಸುತ್ತಿತ್ತು.",
+"Adu calisuttittu."
+],
+"They(m.) were dancing.": [
+"ಅವರು (ಮ.) ನೃತ್ಯ ಮಾಡುತ್ತಿದ್ದರು.",
+"Avaru (ma.) nṛtya māḍuttiddaru."
+],
+"They(f.) were dancing.": [
+"ಅವರು (ಎಫ್.) ನೃತ್ಯ ಮಾಡುತ್ತಿದ್ದರು.",
+"Avaru (èph.) nṛtya māḍuttiddaru."
+],
+"They(n.) were dancing.": [
+"ಅವರು (ಎನ್.) ನೃತ್ಯ ಮಾಡುತ್ತಿದ್ದರು.",
+"Avaru (èn.) nṛtya māḍuttiddaru."
+],
+"She has opened door": [
+"ಅವಳು ಬಾಗಿಲು ತೆರೆದಳು",
+"Avaḻu bāgilu tèrèdaḻu"
+],
+"She had opened door": [
+"ಅವಳು ಬಾಗಿಲು ತೆರೆದಿದ್ದಳು",
+"Avaḻu bāgilu tèrèdiddaḻu"
+],
+"She will have opened door": [
+"ಅವಳು ಬಾಗಿಲು ತೆರೆದಿರುತ್ತಾಳೆ",
+"Avaḻu bāgilu tèrèdiruttāḻè"
+],
+"You (female) have danced": [
+"ನೀವು (ಮಹಿಳೆ) ನೃತ್ಯ ಮಾಡಿದ್ದೀರಿ",
+"Nīvu (mahiḻè) nṛtya māḍiddīri"
+],
+"You (female) had danced": [
+"ನೀವು (ಮಹಿಳೆ) ನೃತ್ಯ ಮಾಡಿದ್ದೀರಿ",
+"Nīvu (mahiḻè) nṛtya māḍiddīri"
+],
+"You (female) will have danced": [
+"ನೀವು (ಹೆಣ್ಣು) ನೃತ್ಯ ಮಾಡಿದ್ದೀರಿ",
+"Nīvu (hèṇṇu) nṛtya māḍiddīri"
+],
+"You (plural) have danced": [
+"ನೀವು (ಬಹುವಚನ) ನೃತ್ಯ ಮಾಡಿದ್ದೀರಿ",
+"Nīvu (bahuvacana) nṛtya māḍiddīri"
+],
+"You (plural) had danced": [
+"ನೀವು (ಬಹುವಚನ) ನೃತ್ಯ ಮಾಡಿದ್ದೀರಿ",
+"Nīvu (bahuvacana) nṛtya māḍiddīri"
+],
+"You (plural) will have danced": [
+"ನೀವು (ಬಹುವಚನ) ನೃತ್ಯ ಮಾಡಿದ್ದೀರಿ",
+"Nīvu (bahuvacana) nṛtya māḍiddīri"
+],
+"On behalf of": [
+"ಪರವಾಗಿ",
+"Paravāgi"
+],
+"In front of": [
+"ಮುಂದೆ",
+"Muṃdè"
+],
+"He / That (male)": [
+"ಅವನು / ಅದು (ಪುರುಷ)",
+"Avanu / adu (puruṣa)"
+],
+"She / That (female)": [
+"ಅವಳು / ಅದು (ಹೆಣ್ಣು)",
+"Avaḻu / adu (hèṇṇu)"
+],
+"It / That (neuter)": [
+"ಇದು / ಅದು (ನಪುಂಸಕ)",
+"Idu / adu (napuṃsaka)"
+],
+"They (m.) / Those (m.)": [
+"ಅವರು (ಮೀ.) / ಆ (ಮೀ.)",
+"Avaru (mī.) / ā (mī.)"
+],
+"They (f.) / Those (f.)": [
+"ಅವರು (ಎಫ್.) / ಆ (ಎಫ್.)",
+"Avaru (èph.) / ā (èph.)"
+],
+"They (n.) / Those (n.)": [
+"ಅವರು (ಎನ್.) / ಆ (ಎನ್.)",
+"Avaru (èn.) / ā (èn.)"
+],
+"I do not speak": [
+"ನಾನು ಮಾತನಾಡುವುದಿಲ್ಲ",
+"Nānu mātanāḍuvudilla"
+],
+"He does not walk": [
+"ಅವನು ನಡೆಯುವುದಿಲ್ಲ",
+"Avanu naḍèyuvudilla"
+],
+"You do not eat": [
+"ನೀನು ತಿನ್ನಬೇಡ",
+"Nīnu tinnabeḍa"
+],
+"They do not dance": [
+"ಅವರು ನೃತ್ಯ ಮಾಡುವುದಿಲ್ಲ",
+"Avaru nṛtya māḍuvudilla"
+],
+"I am not speaking": [
+"ನಾನು ಮಾತನಾಡುತ್ತಿಲ್ಲ",
+"Nānu mātanāḍuttilla"
+],
+"He is not walking": [
+"ಅವನು ನಡೆಯುತ್ತಿಲ್ಲ",
+"Avanu naḍèyuttilla"
+],
+"She is not speaking": [
+"ಅವಳು ಮಾತನಾಡುತ್ತಿಲ್ಲ",
+"Avaḻu mātanāḍuttilla"
+],
+"It is not moving": [
+"ಇದು ಚಲಿಸುತ್ತಿಲ್ಲ",
+"Idu calisuttilla"
+],
+"They are not dancing": [
+"ಅವರು ನೃತ್ಯ ಮಾಡುತ್ತಿಲ್ಲ",
+"Avaru nṛtya māḍuttilla"
+],
+"You are not dancing": [
+"ನೀವು ನೃತ್ಯ ಮಾಡುತ್ತಿಲ್ಲ",
+"Nīvu nṛtya māḍuttilla"
+],
+"I have not opened the box": [
+"ನಾನು ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆದಿಲ್ಲ",
+"Nānu pèṭṭigèyannu tèrèdilla"
+],
+"I have not spoken": [
+"ನಾನು ಮಾತನಾಡಿಲ್ಲ",
+"Nānu mātanāḍilla"
+],
+"He has not eaten the mango": [
+"ಅವನು ಮಾವಿನ ಹಣ್ಣನ್ನು ತಿಂದಿಲ್ಲ",
+"Avanu māvina haṇṇannu tiṃdilla"
+],
+"You do not speak": [
+"ನೀನು ಮಾತನಾಡಬೇಡ",
+"Nīnu mātanāḍabeḍa"
+],
+"Do not read it": [
+"ಅದನ್ನು ಓದಬೇಡಿ",
+"Adannu odabeḍi"
+],
+"Do not do it": [
+"ಅದನ್ನು ಮಾಡಬೇಡಿ",
+"Adannu māḍabeḍi"
+],
+"You do not go": [
+"ನೀನು ಹೋಗಬೇಡ",
+"Nīnu hogabeḍa"
+],
+"I moved toy": [
+"ನಾನು ಆಟಿಕೆ ಸರಿಸಿದ್ದೇನೆ",
+"Nānu āṭikè sarisiddenè"
+],
+"To cause to cook": [
+"ಅಡುಗೆ ಮಾಡಲು",
+"Aḍugè māḍalu"
+],
+"I cooked rice": [
+"ನಾನು ಅಕ್ಕಿ ಬೇಯಿಸಿದೆ",
+"Nānu akki beyisidè"
+],
+"To cause to die / To kill": [
+"ಸಾಯಲು / ಕೊಲ್ಲಲು",
+"Sāyalu / kòllalu"
+],
+"To cause to fall": [
+"ಬೀಳಲು ಕಾರಣವಾಗಲು",
+"Bīḻalu kāraṇavāgalu"
+],
+"To break (intransitive)": [
+"ಮುರಿಯಲು (ಇಂಟ್ರಾನ್ಸಿಟಿವ್)",
+"Muriyalu (iṃṭrānsiṭiv)"
+],
+"To cause to break": [
+"ಮುರಿಯಲು ಕಾರಣವಾಗಲು",
+"Muriyalu kāraṇavāgalu"
+],
+"I broke glass": [
+"ನಾನು ಗಾಜು ಒಡೆದಿದ್ದೇನೆ",
+"Nānu gāju òḍèdiddenè"
+],
+"To cause to leave": [
+"ಬಿಡಲು ಕಾರಣವಾಗಲು",
+"Biḍalu kāraṇavāgalu"
+],
+"To cause to drink / To feed liquid": [
+"ಕುಡಿಯಲು / ದ್ರವವನ್ನು ತಿನ್ನಿಸಲು",
+"Kuḍiyalu / dravavannu tinnisalu"
+],
+"To call (not cause to speak)": [
+"ಕರೆ ಮಾಡಲು (ಮಾತನಾಡಲು ಕಾರಣವಲ್ಲ)",
+"Karè māḍalu (mātanāḍalu kāraṇavalla)"
+],
+"To keep animal (not cause to run)": [
+"ಪ್ರಾಣಿಗಳನ್ನು ಇಟ್ಟುಕೊಳ್ಳಲು (ಓಡಲು ಕಾರಣವಲ್ಲ)",
+"Prāṇigaḻannu iṭṭukòḻḻalu (oḍalu kāraṇavalla)"
+],
+"I had spoken": [
+"ನಾನು ಮಾತನಾಡಿದ್ದೆ",
+"Nānu mātanāḍiddè"
+],
+"You (male) had danced": [
+"ನೀವು (ಪುರುಷ) ನೃತ್ಯ ಮಾಡಿದ್ದೀರಿ",
+"Nīvu (puruṣa) nṛtya māḍiddīri"
+],
+"He had laughed": [
+"ಅವನು ನಕ್ಕಿದ್ದ",
+"Avanu nakkidda"
+],
+"Those boys had laughed": [
+"ಆ ಹುಡುಗರು ನಕ್ಕರು",
+"Ā huḍugaru nakkaru"
+],
+"I had opened door": [
+"ನಾನು ಬಾಗಿಲು ತೆರೆದಿದ್ದೆ",
+"Nānu bāgilu tèrèdiddè"
+],
+"I had opened window": [
+"ನಾನು ಕಿಟಕಿ ತೆರೆದಿದ್ದೆ",
+"Nānu kiṭaki tèrèdiddè"
+],
+"She had eaten mango": [
+"ಮಾವಿನಕಾಯಿ ತಿಂದಿದ್ದಳು",
+"Māvinakāyi tiṃdiddaḻu"
+],
+"Those girls had picked keys": [
+"ಆ ಹುಡುಗಿಯರು ಕೀಲಿಗಳನ್ನು ಆರಿಸಿಕೊಂಡಿದ್ದರು",
+"Ā huḍugiyaru kīligaḻannu ārisikòṃḍiddaru"
+],
+"I have spoken": [
+"ನಾನು ಮಾತನಾಡಿದ್ದೇನೆ",
+"Nānu mātanāḍiddenè"
+],
+"I will have spoken": [
+"ನಾನು ಮಾತನಾಡುತ್ತೇನೆ",
+"Nānu mātanāḍuttenè"
+],
+"He had been saying": [
+"ಅವನು ಹೇಳುತ್ತಲೇ ಇದ್ದ",
+"Avanu heḻuttale idda"
+],
+"He has been saying": [
+"ಅವರು ಹೇಳುತ್ತಲೇ ಬಂದಿದ್ದಾರೆ",
+"Avaru heḻuttale baṃdiddārè"
+],
+"He will have been saying": [
+"ಅವರು ಹೇಳುತ್ತಲೇ ಇರುತ್ತಾರೆ",
+"Avaru heḻuttale iruttārè"
+],
+"I have been saying": [
+"ನಾನು ಹೇಳುತ್ತಲೇ ಬಂದಿದ್ದೇನೆ",
+"Nānu heḻuttale baṃdiddenè"
+],
+"She has been saying": [
+"ಅವಳು ಹೇಳುತ್ತಲೇ ಇದ್ದಳು",
+"Avaḻu heḻuttale iddaḻu"
+],
+"They have been dancing": [
+"ಅವರು ನೃತ್ಯ ಮಾಡಿದ್ದಾರೆ",
+"Avaru nṛtya māḍiddārè"
+],
+"You have been eating mango": [
+"ನೀವು ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನುತ್ತಿದ್ದೀರಿ",
+"Nīvu māvina haṇṇu tinnuttiddīri"
+],
+"I have been working there for 3 years": [
+"ನಾನು 3 ವರ್ಷಗಳಿಂದ ಅಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+"Nānu 3 varṣagaḻiṃda alli kèlasa māḍuttiddenè"
+],
+"I had been saying": [
+"ನಾನು ಹೇಳುತ್ತಲೇ ಇದ್ದೆ",
+"Nānu heḻuttale iddè"
+],
+"She had been saying": [
+"ಅವಳು ಹೇಳುತ್ತಲೇ ಇದ್ದಳು",
+"Avaḻu heḻuttale iddaḻu"
+],
+"They had been dancing": [
+"ಅವರು ನೃತ್ಯ ಮಾಡುತ್ತಿದ್ದರು",
+"Avaru nṛtya māḍuttiddaru"
+],
+"You had been eating mango": [
+"ನೀನು ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನುತ್ತಿದ್ದೆ",
+"Nīnu māvina haṇṇu tinnuttiddè"
+],
+"She will have been saying": [
+"ಅವಳು ಹೇಳುತ್ತಲೇ ಇದ್ದಳು",
+"Avaḻu heḻuttale iddaḻu"
+],
+"They will have been dancing": [
+"ಅವರು ನೃತ್ಯ ಮಾಡುತ್ತಿದ್ದರು",
+"Avaru nṛtya māḍuttiddaru"
+],
+"You will have been eating mango": [
+"ನೀವು ಮಾವಿನಹಣ್ಣು ತಿನ್ನುತ್ತಿದ್ದೀರಿ",
+"Nīvu māvinahaṇṇu tinnuttiddīri"
+],
+"I will have been working there for 3 years": [
+"ನಾನು 3 ವರ್ಷಗಳಿಂದ ಅಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ",
+"Nānu 3 varṣagaḻiṃda alli kèlasa māḍuttenè"
+],
+"They are going to come": [
+"ಅವರು ಬರಲಿದ್ದಾರೆ",
+"Avaru baraliddārè"
+],
+"I am going to speak": [
+"ನಾನು ಮಾತನಾಡಲು ಹೋಗುತ್ತಿದ್ದೇನೆ",
+"Nānu mātanāḍalu hoguttiddenè"
+],
+"She is going to open door": [
+"ಅವಳು ಬಾಗಿಲು ತೆರೆಯಲು ಹೊರಟಿದ್ದಾಳೆ",
+"Avaḻu bāgilu tèrèyalu hòraṭiddāḻè"
+],
+"You are going to dance": [
+"ನೀವು ನೃತ್ಯ ಮಾಡಲು ಹೋಗುತ್ತಿದ್ದೀರಿ",
+"Nīvu nṛtya māḍalu hoguttiddīri"
+],
+"Are they going to come?": [
+"ಅವರು ಬರಲಿದ್ದಾರೆಯೇ?",
+"Avaru baraliddārèye?"
+],
+"Am I going to speak?": [
+"ನಾನು ಮಾತನಾಡಲು ಹೋಗುತ್ತಿದ್ದೇನೆಯೇ?",
+"Nānu mātanāḍalu hoguttiddenèye?"
+],
+"Is she going to open door?": [
+"ಅವಳು ಬಾಗಿಲು ತೆರೆಯಲಿದ್ದಾಳೆಯೇ?",
+"Avaḻu bāgilu tèrèyaliddāḻèye?"
+],
+"Are you going to dance?": [
+"ನೀವು ನೃತ್ಯ ಮಾಡಲು ಹೋಗುತ್ತೀರಾ?",
+"Nīvu nṛtya māḍalu hoguttīrā?"
+],
+"She / That (f.)/ This (f.)": [
+"ಅವಳು / ಅದು (ಎಫ್.)/ ಇದು (ಎಫ್.)",
+"Avaḻu / adu (èph.)/ idu (èph.)"
+],
+"It / That(n.) / This (n.)": [
+"ಇದು / ಅದು (ಎನ್.) / ಇದು (ಎನ್.)",
+"Idu / adu (èn.) / idu (èn.)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"ಅವರು (ಅವರು ಬಹುವಚನ) / ಆ (m.) / ಈ (m.)",
+"Avaru (avaru bahuvacana) / ā (m.) / ī (m.)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"ಅವರು (ಆಕೆಯ ಬಹುವಚನ) / ಆ (ಎಫ್.) / ಈ (ಎಫ್.)",
+"Avaru (ākèya bahuvacana) / ā (èph.) / ī (èph.)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"ಅವರು (ಅದರ ಬಹುವಚನ) / ಆ (ಎನ್.) / ಈ (ಎನ್.)",
+"Avaru (adara bahuvacana) / ā (èn.) / ī (èn.)"
+],
+"I used to do": [
+"ನಾನು ಮಾಡುತ್ತಿದ್ದೆ",
+"Nānu māḍuttiddè"
+],
+"She used to speak": [
+"ಅವಳು ಮಾತನಾಡುತ್ತಿದ್ದಳು",
+"Avaḻu mātanāḍuttiddaḻu"
+],
+"He used to dance": [
+"ಅವರು ನೃತ್ಯ ಮಾಡುತ್ತಿದ್ದರು",
+"Avaru nṛtya māḍuttiddaru"
+],
+"They (plural of he) used to eat mangos": [
+"ಅವರು (ಅವನ ಬಹುವಚನ) ಮಾವಿನ ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನುತ್ತಿದ್ದರು",
+"Avaru (avana bahuvacana) māvina haṇṇugaḻannu tinnuttiddaru"
+],
+"They (plural of she) used to play cricket": [
+"ಅವರು (ಆಕೆಯ ಬಹುವಚನ) ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದರು",
+"Avaru (ākèya bahuvacana) krikèṭ āḍuttiddaru"
+],
+"He used to be there": [
+"ಅವರು ಅಲ್ಲಿಯೇ ಇರುತ್ತಿದ್ದರು",
+"Avaru alliye iruttiddaru"
+],
+"She used to be quiet": [
+"ಅವಳು ಸುಮ್ಮನಿರುತ್ತಿದ್ದಳು",
+"Avaḻu summaniruttiddaḻu"
+],
+"I did not use to do": [
+"ನಾನು ಮಾಡಲು ಬಳಸಲಿಲ್ಲ",
+"Nānu māḍalu baḻasalilla"
+],
+"She did not use to speak": [
+"ಅವಳು ಮಾತನಾಡಲು ಬಳಸಲಿಲ್ಲ",
+"Avaḻu mātanāḍalu baḻasalilla"
+],
+"You did not use to dance": [
+"ನೀವು ನೃತ್ಯ ಮಾಡಲು ಬಳಸಲಿಲ್ಲ",
+"Nīvu nṛtya māḍalu baḻasalilla"
+],
+"They (plural of he) did not use to eat mangos": [
+"ಅವರು (ಅವನ ಬಹುವಚನ) ಮಾವಿನಹಣ್ಣು ತಿನ್ನಲು ಬಳಸುತ್ತಿರಲಿಲ್ಲ",
+"Avaru (avana bahuvacana) māvinahaṇṇu tinnalu baḻasuttiralilla"
+],
+"She did not use to be quiet": [
+"ಅವಳು ಸುಮ್ಮನಿರಲು ಬಳಸಲಿಲ್ಲ",
+"Avaḻu summaniralu baḻasalilla"
+],
+"He did not use to be there": [
+"ಅವನು ಅಲ್ಲಿರಲು ಬಳಸಲಿಲ್ಲ",
+"Avanu alliralu baḻasalilla"
+],
+"He is used to dance": [
+"ಅವರು ನೃತ್ಯ ಮಾಡಲು ಬಳಸಲಾಗುತ್ತದೆ",
+"Avaru nṛtya māḍalu baḻasalāguttadè"
+],
+"She is used to speak": [
+"ಅವಳು ಮಾತನಾಡಲು ಬಳಸಲಾಗುತ್ತದೆ",
+"Avaḻu mātanāḍalu baḻasalāguttadè"
+],
+"Those girls are used to laugh": [
+"ಆ ಹುಡುಗಿಯರು ನಗುವುದು ಅಭ್ಯಾಸ",
+"Ā huḍugiyaru naguvudu abhyāsa"
+],
+"I am used to be there": [
+"ನಾನು ಅಲ್ಲಿರುವುದು ಅಭ್ಯಾಸ",
+"Nānu alliruvudu abhyāsa"
+],
+"She is used to be quiet": [
+"ಅವಳು ಮೌನವಾಗಿರಲು ಬಳಸಲಾಗುತ್ತದೆ",
+"Avaḻu maunavāgiralu baḻasalāguttadè"
+],
+"He is not used to dance": [
+"ಅವನಿಗೆ ನೃತ್ಯ ಅಭ್ಯಾಸವಿಲ್ಲ",
+"Avanigè nṛtya abhyāsavilla"
+],
+"She is not used to speak": [
+"ಅವಳು ಮಾತನಾಡುವ ಅಭ್ಯಾಸವಿಲ್ಲ",
+"Avaḻu mātanāḍuva abhyāsavilla"
+],
+"I used to eat mango": [
+"ನಾನು ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನುತ್ತಿದ್ದೆ",
+"Nānu māvina haṇṇu tinnuttiddè"
+],
+"Kaushik used to eat mango": [
+"ಕೌಶಿಕ್ ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನುತ್ತಿದ್ದ",
+"Kauśik māvina haṇṇu tinnuttidda"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"ಕೌಶಿಕ್, ಗುರು, ಸುಂದರ್ ಪ್ರತಿದಿನ ಭೇಟಿಯಾಗುತ್ತಿದ್ದರು",
+"Kauśik, guru, suṃdar pratidina bheṭiyāguttiddaru"
+],
+"My friends and I used to play cricket": [
+"ನಾನು ಮತ್ತು ನನ್ನ ಸ್ನೇಹಿತರು ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದೆವು",
+"Nānu mattu nanna snehitaru krikèṭ āḍuttiddèvu"
+],
+"I used to see": [
+"ನಾನು ನೋಡುತ್ತಿದ್ದೆ",
+"Nānu noḍuttiddè"
+],
+"Kaushik used to see": [
+"ಕೌಶಿಕ್ ನೋಡುತ್ತಿದ್ದ",
+"Kauśik noḍuttidda"
+],
+"Kaushik used to do": [
+"ಕೌಶಿಕ್ ಮಾಡುತ್ತಿದ್ದರು",
+"Kauśik māḍuttiddaru"
+],
+"He opened the door": [
+"ಅವನು ಬಾಗಿಲು ತೆರೆದನು",
+"Avanu bāgilu tèrèdanu"
+],
+"If he had opened the door then": [
+"ಆಗ ಬಾಗಿಲು ತೆರೆದಿದ್ದರೆ",
+"Āga bāgilu tèrèdiddarè"
+],
+"He had spoken": [
+"ಅವರು ಮಾತನಾಡಿದ್ದರು",
+"Avaru mātanāḍiddaru"
+],
+"If he had spoken": [
+"ಅವರು ಮಾತನಾಡಿದ್ದರೆ",
+"Avaru mātanāḍiddarè"
+],
+"If you had spoken then she would have spoken": [
+"ನೀನು ಮಾತಾಡಿದ್ದರೆ ಅವಳು ಮಾತಾಡುತ್ತಿದ್ದಳು",
+"Nīnu mātāḍiddarè avaḻu mātāḍuttiddaḻu"
+],
+"If he had cried then they would have ran": [
+"ಅವನು ಅಳುತ್ತಿದ್ದರೆ ಅವರು ಓಡಿಹೋಗುತ್ತಿದ್ದರು",
+"Avanu aḻuttiddarè avaru oḍihoguttiddaru"
+],
+"If you go I will cry": [
+"ನೀನು ಹೋದರೆ ನಾನು ಅಳುತ್ತೇನೆ",
+"Nīnu hodarè nānu aḻuttenè"
+],
+"If he sings she will dance": [
+"ಅವನು ಹಾಡಿದರೆ ಅವಳು ನೃತ್ಯ ಮಾಡುತ್ತಾಳೆ",
+"Avanu hāḍidarè avaḻu nṛtya māḍuttāḻè"
+],
+"reason of coming": [
+"ಬರಲು ಕಾರಣ",
+"Baralu kāraṇa"
+],
+"She spoke after my dancing": [
+"ನನ್ನ ನೃತ್ಯದ ನಂತರ ಅವಳು ಮಾತನಾಡಿದರು",
+"Nanna nṛtyada naṃtara avaḻu mātanāḍidaru"
+],
+"after I danced": [
+"ನಾನು ನೃತ್ಯ ಮಾಡಿದ ನಂತರ",
+"Nānu nṛtya māḍida naṃtara"
+],
+"She spoke after I danced": [
+"ನಾನು ಡ್ಯಾನ್ಸ್ ಮಾಡಿದ ನಂತರ ಮಾತನಾಡಿದಳು",
+"Nānu ḍyāns māḍida naṃtara mātanāḍidaḻu"
+],
+"He cried after she went": [
+"ಅವಳು ಹೋದ ನಂತರ ಅವನು ಅಳುತ್ತಾನೆ",
+"Avaḻu hoda naṃtara avanu aḻuttānè"
+],
+"He told about his coming to school": [
+"ಅವನು ಶಾಲೆಗೆ ಬಂದ ಬಗ್ಗೆ ಹೇಳಿದನು",
+"Avanu śālègè baṃda baggè heḻidanu"
+],
+"He told me that he is coming": [
+"ಅವರು ಬರುತ್ತಿದ್ದಾರೆ ಎಂದು ಹೇಳಿದರು",
+"Avaru baruttiddārè èṃdu heḻidaru"
+],
+"He told me that he is going to come": [
+"ಅವರು ಬರಲಿದ್ದಾರೆ ಎಂದು ಹೇಳಿದರು",
+"Avaru baraliddārè èṃdu heḻidaru"
+],
+"I don't remember she having said something": [
+"ಅವಳು ಏನಾದರೂ ಹೇಳಿದಳೆಂದು ನನಗೆ ನೆನಪಿಲ್ಲ",
+"Avaḻu enādarū heḻidaḻèṃdu nanagè nènapilla"
+],
+"I don't remember she having eaten mango": [
+"ಅವಳು ಮಾವಿನಕಾಯಿ ತಿಂದಿದ್ದು ನನಗೆ ನೆನಪಿಲ್ಲ",
+"Avaḻu māvinakāyi tiṃdiddu nanagè nènapilla"
+],
+"while I speak": [
+"ನಾನು ಮಾತನಾಡುವಾಗ",
+"Nānu mātanāḍuvāga"
+],
+"while I do": [
+"ನಾನು ಮಾಡುವಾಗ",
+"Nānu māḍuvāga"
+],
+"while I dance": [
+"ನಾನು ನೃತ್ಯ ಮಾಡುವಾಗ",
+"Nānu nṛtya māḍuvāga"
+],
+"Come to see this photo": [
+"ಈ ಫೋಟೋ ನೋಡಲು ಬನ್ನಿ",
+"Ī phoṭo noḍalu banni"
+],
+"Come to eat with me": [
+"ನನ್ನ ಜೊತೆ ಊಟಕ್ಕೆ ಬಾ",
+"Nanna jòtè ūṭakkè bā"
+],
+"Smoking is prohibited": [
+"ಧೂಮಪಾನವನ್ನು ನಿಷೇಧಿಸಲಾಗಿದೆ",
+"Dhūmapānavannu niṣedhisalāgidè"
+],
+"Court asked to be present tomorrow": [
+"ನಾಳೆ ಹಾಜರಾಗುವಂತೆ ಕೋರ್ಟ್ ಹೇಳಿದೆ",
+"Nāḻè hājarāguvaṃtè korṭ heḻidè"
+],
+"Sit and watch": [
+"ಕುಳಿತು ನೋಡು",
+"Kuḻitu noḍu"
+],
+"come and go": [
+"ಬಂದು ಹೋಗು",
+"Baṃdu hogu"
+],
+"He came and saw it": [
+"ಅವನು ಬಂದು ನೋಡಿದನು",
+"Avanu baṃdu noḍidanu"
+],
+"They will go and check it": [
+"ಅವರು ಹೋಗಿ ಪರಿಶೀಲಿಸುತ್ತಾರೆ",
+"Avaru hogi pariśīlisuttārè"
+],
+"smile and say": [
+"ಮುಗುಳ್ನಕ್ಕು ಹೇಳು",
+"Muguḻnakku heḻu"
+],
+"till I speak": [
+"ನಾನು ಮಾತನಾಡುವ ತನಕ",
+"Nānu mātanāḍuva tanaka"
+],
+"until she smiles": [
+"ಅವಳು ನಗುವ ತನಕ",
+"Avaḻu naguva tanaka"
+],
+"till he goes": [
+"ಅವನು ಹೋಗುವವರೆಗೆ",
+"Avanu hoguvavarègè"
+],
+"until we come": [
+"ನಾವು ಬರುವ ತನಕ",
+"Nāvu baruva tanaka"
+],
+"For good horse": [
+"ಒಳ್ಳೆಯ ಕುದುರೆಗಾಗಿ",
+"Òḻḻèya kudurègāgi"
+],
+"For good chair": [
+"ಉತ್ತಮ ಕುರ್ಚಿಗಾಗಿ",
+"Uttama kurcigāgi"
+],
+"After easy exam": [
+"ಸುಲಭ ಪರೀಕ್ಷೆಯ ನಂತರ",
+"Sulabha parīkṣèya naṃtara"
+],
+"For red horse": [
+"ಕೆಂಪು ಕುದುರೆಗೆ",
+"Kèṃpu kudurègè"
+],
+"About beautiful drawing": [
+"ಸುಂದರವಾದ ರೇಖಾಚಿತ್ರದ ಬಗ್ಗೆ",
+"Suṃdaravāda rekhācitrada baggè"
+],
+"I can eat": [
+"ನಾನು ತಿನ್ನಬಹುದು",
+"Nānu tinnabahudu"
+],
+"He can sing": [
+"ಅವನು ಹಾಡಬಲ್ಲ",
+"Avanu hāḍaballa"
+],
+"You(plural) could eat mango": [
+"ನೀವು (ಬಹುವಚನ) ಮಾವು ತಿನ್ನಬಹುದು",
+"Nīvu (bahuvacana) māvu tinnabahudu"
+],
+"You(plural) could eat chutney": [
+"ನೀವು (ಬಹುವಚನ) ಚಟ್ನಿ ತಿನ್ನಬಹುದು",
+"Nīvu (bahuvacana) caṭni tinnabahudu"
+],
+"She could dance": [
+"ಅವಳು ನೃತ್ಯ ಮಾಡಬಲ್ಲಳು",
+"Avaḻu nṛtya māḍaballaḻu"
+],
+"They (plural of she) will be able to move": [
+"ಅವರು (ಅವಳ ಬಹುವಚನ) ಚಲಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ",
+"Avaru (avaḻa bahuvacana) calisalu sādhyavāguttadè"
+],
+"I can not eat": [
+"ನಾನು ತಿನ್ನಲು ಸಾಧ್ಯವಿಲ್ಲ",
+"Nānu tinnalu sādhyavilla"
+],
+"He can not sing": [
+"ಅವನಿಗೆ ಹಾಡಲು ಬರುವುದಿಲ್ಲ",
+"Avanigè hāḍalu baruvudilla"
+],
+"She could not dance": [
+"ಅವಳು ನೃತ್ಯ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ",
+"Avaḻu nṛtya māḍalu sādhyavāgalilla"
+],
+"You(plural) could not eat mango": [
+"ನೀವು (ಬಹುವಚನ) ಮಾವು ತಿನ್ನಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ",
+"Nīvu (bahuvacana) māvu tinnalu sādhyavāgalilla"
+],
+"You(plural) could not eat chutney": [
+"ನೀವು (ಬಹುವಚನ) ಚಟ್ನಿ ತಿನ್ನಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ",
+"Nīvu (bahuvacana) caṭni tinnalu sādhyavāgalilla"
+],
+"They will not be able to move": [
+"ಅವರು ಚಲಿಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ",
+"Avaru calisalu sādhyavāguvudilla"
+],
+"I can play cricket": [
+"ನಾನು ಕ್ರಿಕೆಟ್ ಆಡಬಲ್ಲೆ",
+"Nānu krikèṭ āḍaballè"
+],
+"I could play cricket": [
+"ನಾನು ಕ್ರಿಕೆಟ್ ಆಡಬಹುದಿತ್ತು",
+"Nānu krikèṭ āḍabahudittu"
+],
+"I will be able to play cricket": [
+"ನಾನು ಕ್ರಿಕೆಟ್ ಆಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ",
+"Nānu krikèṭ āḍalu sādhyavāguttadè"
+],
+"He can eat mangoes": [
+"ಅವನು ಮಾವಿನ ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನಬಹುದು",
+"Avanu māvina haṇṇugaḻannu tinnabahudu"
+],
+"He could eat mangoes": [
+"ಅವನು ಮಾವಿನಹಣ್ಣು ತಿನ್ನಬಹುದಿತ್ತು",
+"Avanu māvinahaṇṇu tinnabahudittu"
+],
+"He will be able to eat mangoes": [
+"ಅವನು ಮಾವಿನ ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ",
+"Avanu māvina haṇṇugaḻannu tinnalu sādhyavāguttadè"
+],
+"They could open box": [
+"ಅವರು ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆಯಬಹುದು",
+"Avaru pèṭṭigèyannu tèrèyabahudu"
+],
+"They could open bag": [
+"ಅವರು ಚೀಲವನ್ನು ತೆರೆಯಬಹುದು",
+"Avaru cīlavannu tèrèyabahudu"
+],
+"They could speak": [
+"ಅವರು ಮಾತನಾಡಬಲ್ಲರು",
+"Avaru mātanāḍaballaru"
+],
+"They gathered to speak": [
+"ಅವರು ಮಾತನಾಡಲು ಒಟ್ಟುಗೂಡಿದರು",
+"Avaru mātanāḍalu òṭṭugūḍidaru"
+],
+"I want mango": [
+"ನನಗೆ ಮಾವು ಬೇಕು",
+"Nanagè māvu beku"
+],
+"He wants mango": [
+"ಅವನಿಗೆ ಮಾವು ಬೇಕು",
+"Avanigè māvu beku"
+],
+"She wants mango": [
+"ಅವಳಿಗೆ ಮಾವು ಬೇಕು",
+"Avaḻigè māvu beku"
+],
+"I/He/She want mangoes": [
+"ನನಗೆ/ಅವನು/ಅವಳಿಗೆ ಮಾವಿನ ಹಣ್ಣು ಬೇಕು",
+"Nanagè/avanu/avaḻigè māvina haṇṇu beku"
+],
+"He/She/They want chalk": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಸೀಮೆಸುಣ್ಣ ಬೇಕು",
+"Avanu/avaḻu/avarigè sīmèsuṇṇa beku"
+],
+"He/She/They want chalks": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಸೀಮೆಸುಣ್ಣ ಬೇಕು",
+"Avanu/avaḻu/avarigè sīmèsuṇṇa beku"
+],
+"He/She/They want bag": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಬ್ಯಾಗ್ ಬೇಕು",
+"Avanu/avaḻu/avarigè byāg beku"
+],
+"He/She/They want bags": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಚೀಲಗಳು ಬೇಕು",
+"Avanu/avaḻu/avarigè cīlagaḻu beku"
+],
+"He/She/They want page": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಪುಟ ಬೇಕು",
+"Avanu/avaḻu/avarigè puṭa beku"
+],
+"He/She/They want pages": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಪುಟಗಳು ಬೇಕು",
+"Avanu/avaḻu/avarigè puṭagaḻu beku"
+],
+"He/She/They wanted chalk": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಸೀಮೆಸುಣ್ಣ ಬೇಕಿತ್ತು",
+"Avanu/avaḻu/avarigè sīmèsuṇṇa bekittu"
+],
+"He/She/They wanted chalks": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಸೀಮೆಸುಣ್ಣ ಬೇಕಿತ್ತು",
+"Avanu/avaḻu/avarigè sīmèsuṇṇa bekittu"
+],
+"He/She/They wanted bag": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಬ್ಯಾಗ್ ಬೇಕಿತ್ತು",
+"Avanu/avaḻu/avarigè byāg bekittu"
+],
+"He/She/They wanted bags": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಚೀಲಗಳು ಬೇಕಾಗಿದ್ದವು",
+"Avanu/avaḻu/avarigè cīlagaḻu bekāgiddavu"
+],
+"He/She/They wanted page": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಪುಟ ಬೇಕಿತ್ತು",
+"Avanu/avaḻu/avarigè puṭa bekittu"
+],
+"He/She/They wanted pages": [
+"ಅವನು/ಅವಳು/ಅವರು ಪುಟಗಳನ್ನು ಬಯಸಿದ್ದರು",
+"Avanu/avaḻu/avaru puṭagaḻannu bayasiddaru"
+],
+"He/She/They will need chalk": [
+"ಅವನಿಗೆ / ಅವಳು / ಅವರಿಗೆ ಸೀಮೆಸುಣ್ಣದ ಅಗತ್ಯವಿದೆ",
+"Avanigè / avaḻu / avarigè sīmèsuṇṇada agatyavidè"
+],
+"He/She/They will need chalks": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಸೀಮೆಸುಣ್ಣದ ಅಗತ್ಯವಿದೆ",
+"Avanu/avaḻu/avarigè sīmèsuṇṇada agatyavidè"
+],
+"He/She/They will need bag": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಬ್ಯಾಗ್ ಬೇಕು",
+"Avanu/avaḻu/avarigè byāg beku"
+],
+"He/She/They will need bags": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಬ್ಯಾಗ್‌ಗಳು ಬೇಕಾಗುತ್ತವೆ",
+"Avanu/avaḻu/avarigè byāg‌gaḻu bekāguttavè"
+],
+"He/She/They will need page": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಪುಟದ ಅಗತ್ಯವಿದೆ",
+"Avanu/avaḻu/avarigè puṭada agatyavidè"
+],
+"He/She/They will need pages": [
+"ಅವನು/ಅವಳು/ಅವರಿಗೆ ಪುಟಗಳು ಬೇಕಾಗುತ್ತವೆ",
+"Avanu/avaḻu/avarigè puṭagaḻu bekāguttavè"
+],
+"I do not want mango": [
+"ನನಗೆ ಮಾವು ಬೇಡ",
+"Nanagè māvu beḍa"
+],
+"She will not want bag": [
+"ಅವಳು ಚೀಲವನ್ನು ಬಯಸುವುದಿಲ್ಲ",
+"Avaḻu cīlavannu bayasuvudilla"
+],
+"He did not want chalk": [
+"ಅವರು ಸೀಮೆಸುಣ್ಣವನ್ನು ಬಯಸಲಿಲ್ಲ",
+"Avaru sīmèsuṇṇavannu bayasalilla"
+],
+"He did not want bag": [
+"ಅವನಿಗೆ ಚೀಲ ಬೇಕಾಗಿಲ್ಲ",
+"Avanigè cīla bekāgilla"
+],
+"She does not want ice cream": [
+"ಅವಳಿಗೆ ಐಸ್ ಕ್ರೀಮ್ ಬೇಡ",
+"Avaḻigè ais krīm beḍa"
+],
+"What will happen?": [
+"ಏನಾಗುತ್ತದೆ?",
+"Enāguttadè?"
+],
+"What is happening?": [
+"ಏನಾಗುತ್ತಿದೆ?",
+"Enāguttidè?"
+],
+"It did not happen": [
+"ಆಗಲಿಲ್ಲ",
+"Āgalilla"
+],
+"I will become winner": [
+"ನಾನು ವಿಜೇತನಾಗುತ್ತೇನೆ",
+"Nānu vijetanāguttenè"
+],
+"It was happening": [
+"ನಡೆಯುತ್ತಿತ್ತು",
+"Naḍèyuttittu"
+],
+"He will become mad": [
+"ಅವನು ಹುಚ್ಚನಾಗುತ್ತಾನೆ",
+"Avanu huccanāguttānè"
+],
+"He should have eaten mango": [
+"ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಬೇಕಿತ್ತು",
+"Māvina haṇṇu tinnabekittu"
+],
+"He should have eaten tamarind": [
+"ಹುಣಸೆಹಣ್ಣು ತಿಂದಿರಬೇಕು",
+"Huṇasèhaṇṇu tiṃdirabeku"
+],
+"He should eat mango": [
+"ಅವನು ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Avanu māvina haṇṇu tinnabeku"
+],
+"He should go": [
+"ಅವನು ಹೋಗಬೇಕು",
+"Avanu hogabeku"
+],
+"He should have gone": [
+"ಅವನು ಹೋಗಬೇಕಿತ್ತು",
+"Avanu hogabekittu"
+],
+"I should speak": [
+"ನಾನು ಮಾತನಾಡಬೇಕು",
+"Nānu mātanāḍabeku"
+],
+"I should have spoken": [
+"ನಾನು ಮಾತನಾಡಬೇಕಿತ್ತು",
+"Nānu mātanāḍabekittu"
+],
+"They should dance": [
+"ಅವರು ನೃತ್ಯ ಮಾಡಬೇಕು",
+"Avaru nṛtya māḍabeku"
+],
+"They should not dance": [
+"ಅವರು ನೃತ್ಯ ಮಾಡಬಾರದು",
+"Avaru nṛtya māḍabāradu"
+],
+"They should have danced": [
+"ಅವರು ನೃತ್ಯ ಮಾಡಬೇಕಿತ್ತು",
+"Avaru nṛtya māḍabekittu"
+],
+"They should not have danced": [
+"ಅವರು ನೃತ್ಯ ಮಾಡಬಾರದಿತ್ತು",
+"Avaru nṛtya māḍabāradittu"
+],
+"You should play": [
+"ನೀವು ಆಡಬೇಕು",
+"Nīvu āḍabeku"
+],
+"You should not play": [
+"ನೀವು ಆಡಬಾರದು",
+"Nīvu āḍabāradu"
+],
+"You should have played": [
+"ನೀನು ಆಡಬೇಕಿತ್ತು",
+"Nīnu āḍabekittu"
+],
+"You should not have smiled": [
+"ನೀನು ನಗಬಾರದಿತ್ತು",
+"Nīnu nagabāradittu"
+],
+"She should open box": [
+"ಅವಳು ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆಯಬೇಕು",
+"Avaḻu pèṭṭigèyannu tèrèyabeku"
+],
+"He should eat": [
+"ಅವನು ತಿನ್ನಬೇಕು",
+"Avanu tinnabeku"
+],
+"You(male) should go": [
+"ನೀವು (ಪುರುಷ) ಹೋಗಬೇಕು",
+"Nīvu (puruṣa) hogabeku"
+],
+"You(male) should eat mango": [
+"ನೀವು (ಗಂಡು) ಮಾವು ತಿನ್ನಬೇಕು",
+"Nīvu (gaṃḍu) māvu tinnabeku"
+],
+"He should not go": [
+"ಅವನು ಹೋಗಬಾರದು",
+"Avanu hogabāradu"
+],
+"She should not open box": [
+"ಅವಳು ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆಯಬಾರದು",
+"Avaḻu pèṭṭigèyannu tèrèyabāradu"
+],
+"He should not eat": [
+"ಅವನು ತಿನ್ನಬಾರದು",
+"Avanu tinnabāradu"
+],
+"He should eat tamarind": [
+"ಅವನು ಹುಣಸೆಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Avanu huṇasèhaṇṇu tinnabeku"
+],
+"She should write letter": [
+"ಅವಳು ಪತ್ರ ಬರೆಯಬೇಕು",
+"Avaḻu patra barèyabeku"
+],
+"You should eat mango": [
+"ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Māvina haṇṇu tinnabeku"
+],
+"He has to do it every day": [
+"ಅವನು ಅದನ್ನು ಪ್ರತಿದಿನ ಮಾಡಬೇಕು",
+"Avanu adannu pratidina māḍabeku"
+],
+"He will have to do it every day": [
+"ಅವನು ಅದನ್ನು ಪ್ರತಿದಿನ ಮಾಡಬೇಕಾಗುತ್ತದೆ",
+"Avanu adannu pratidina māḍabekāguttadè"
+],
+"He had to do it every day": [
+"ಅವನು ಅದನ್ನು ಪ್ರತಿದಿನ ಮಾಡಬೇಕಾಗಿತ್ತು",
+"Avanu adannu pratidina māḍabekāgittu"
+],
+"She has to eat mango": [
+"ಅವಳು ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Avaḻu māvina haṇṇu tinnabeku"
+],
+"She will have to eat mango": [
+"ಅವಳು ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Avaḻu māvina haṇṇu tinnabeku"
+],
+"She had to eat mango": [
+"ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಬೇಕಿತ್ತು",
+"Māvina haṇṇu tinnabekittu"
+],
+"She has to eat mangoes": [
+"ಅವಳು ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Avaḻu māvina haṇṇu tinnabeku"
+],
+"She has to eat tamarind": [
+"ಅವಳು ಹುಣಸೆಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Avaḻu huṇasèhaṇṇu tinnabeku"
+],
+"She has to eat tamarinds": [
+"ಅವಳು ಹುಣಸೆಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Avaḻu huṇasèhaṇṇu tinnabeku"
+],
+"She has to eat medicine": [
+"ಅವಳು ಔಷಧಿ ತಿನ್ನಬೇಕು",
+"Avaḻu auṣadhi tinnabeku"
+],
+"She has to eat medicines": [
+"ಅವಳು ಔಷಧಿಗಳನ್ನು ತಿನ್ನಬೇಕು",
+"Avaḻu auṣadhigaḻannu tinnabeku"
+],
+"I have to go": [
+"ನಾನು ಹೋಗಬೇಕು",
+"Nānu hogabeku"
+],
+"We have to speak": [
+"ನಾವು ಮಾತನಾಡಬೇಕು",
+"Nāvu mātanāḍabeku"
+],
+"I keep speaking": [
+"ನಾನು ಮಾತನಾಡುತ್ತಲೇ ಇರುತ್ತೇನೆ",
+"Nānu mātanāḍuttale iruttenè"
+],
+"I kept speaking": [
+"ನಾನು ಮಾತನಾಡುತ್ತಲೇ ಇದ್ದೆ",
+"Nānu mātanāḍuttale iddè"
+],
+"I will keep speaking": [
+"ನಾನು ಮಾತನಾಡುತ್ತಲೇ ಇರುತ್ತೇನೆ",
+"Nānu mātanāḍuttale iruttenè"
+],
+"You keep speaking": [
+"ನೀವು ಮಾತನಾಡುತ್ತಾ ಇರಿ",
+"Nīvu mātanāḍuttā iri"
+],
+"You kept speaking": [
+"ನೀನು ಮಾತನಾಡುತ್ತಲೇ ಇದ್ದೆ",
+"Nīnu mātanāḍuttale iddè"
+],
+"You will keep speaking": [
+"ನೀವು ಮಾತನಾಡುತ್ತಲೇ ಇರುತ್ತೀರಿ",
+"Nīvu mātanāḍuttale iruttīri"
+],
+"Keep speaking! (Imperative)": [
+"ಮಾತನಾಡುತ್ತಲೇ ಇರಿ! (ಅಗತ್ಯ)",
+"Mātanāḍuttale iri! (agatya)"
+],
+"He is taller than me": [
+"ಅವನು ನನಗಿಂತ ಎತ್ತರ",
+"Avanu nanagiṃta èttara"
+],
+"I am shorter than you": [
+"ನಾನು ನಿನಗಿಂತ ಚಿಕ್ಕವನು",
+"Nānu ninagiṃta cikkavanu"
+],
+"They were happier than now": [
+"ಅವರು ಈಗಿಗಿಂತ ಹೆಚ್ಚು ಸಂತೋಷಪಟ್ಟರು",
+"Avaru īgigiṃta hèccu saṃtoṣapaṭṭaru"
+],
+"He is best": [
+"ಅವನು ಅತ್ಯುತ್ತಮ",
+"Avanu atyuttama"
+],
+"Everest is the tallest peak": [
+"ಎವರೆಸ್ಟ್ ಅತ್ಯಂತ ಎತ್ತರದ ಶಿಖರವಾಗಿದೆ",
+"Èvarèsṭ atyaṃta èttarada śikharavāgidè"
+],
+"She was the youngest player": [
+"ಆಕೆ ಅತ್ಯಂತ ಕಿರಿಯ ಆಟಗಾರ್ತಿಯಾಗಿದ್ದಳು",
+"Ākè atyaṃta kiriya āṭagārtiyāgiddaḻu"
+],
+"Your voice is loudest of all": [
+"ನಿಮ್ಮ ಧ್ವನಿ ಎಲ್ಲಕ್ಕಿಂತ ಜೋರಾಗಿದೆ",
+"Nimma dhvani èllakkiṃta jorāgidè"
+],
+"Your name is known to me": [
+"ನಿಮ್ಮ ಹೆಸರು ನನಗೆ ತಿಳಿದಿದೆ",
+"Nimma hèsaru nanagè tiḻididè"
+],
+"She knows his address": [
+"ಅವಳಿಗೆ ಅವನ ವಿಳಾಸ ಗೊತ್ತು",
+"Avaḻigè avana viḻāsa gòttu"
+],
+"She knew his address": [
+"ಅವಳಿಗೆ ಅವನ ವಿಳಾಸ ಗೊತ್ತಿತ್ತು",
+"Avaḻigè avana viḻāsa gòttittu"
+],
+"Do you know it?": [
+"ಅದು ನಿಮಗೆ ತಿಳಿದಿದೆಯೇ?",
+"Adu nimagè tiḻididèye?"
+],
+"Did she know that?": [
+"ಅದು ಅವಳಿಗೆ ಗೊತ್ತಿತ್ತಾ?",
+"Adu avaḻigè gòttittā?"
+],
+"Your name is not known to me": [
+"ನಿಮ್ಮ ಹೆಸರು ನನಗೆ ತಿಳಿದಿಲ್ಲ",
+"Nimma hèsaru nanagè tiḻidilla"
+],
+"She does not know his address": [
+"ಅವಳಿಗೆ ಅವನ ವಿಳಾಸ ಗೊತ್ತಿಲ್ಲ",
+"Avaḻigè avana viḻāsa gòttilla"
+],
+"She did not know his address": [
+"ಅವಳಿಗೆ ಅವನ ವಿಳಾಸ ಗೊತ್ತಿರಲಿಲ್ಲ",
+"Avaḻigè avana viḻāsa gòttiralilla"
+],
+"Don't you know it?": [
+"ಅದು ನಿನಗೆ ಗೊತ್ತಿಲ್ಲವೇ?",
+"Adu ninagè gòttillave?"
+],
+"Didn't she know that?": [
+"ಅದು ಅವಳಿಗೆ ಗೊತ್ತಿರಲಿಲ್ಲವೇ?",
+"Adu avaḻigè gòttiralillave?"
+],
+"I know eating cake": [
+"ನನಗೆ ಕೇಕ್ ತಿನ್ನುವುದು ಗೊತ್ತು",
+"Nanagè kek tinnuvudu gòttu"
+],
+"I know swimming": [
+"ನನಗೆ ಈಜು ಗೊತ್ತು",
+"Nanagè īju gòttu"
+],
+"I know Japanese": [
+"ನನಗೆ ಜಪಾನೀಸ್ ಗೊತ್ತು",
+"Nanagè japānīs gòttu"
+],
+"I know cooking": [
+"ನನಗೆ ಅಡುಗೆ ಗೊತ್ತು",
+"Nanagè aḍugè gòttu"
+],
+"Do you know playing cricket?": [
+"ಕ್ರಿಕೆಟ್ ಆಡುವುದು ಗೊತ್ತಾ?",
+"Krikèṭ āḍuvudu gòttā?"
+],
+"I know killing mosquitoes": [
+"ಸೊಳ್ಳೆಗಳನ್ನು ಕೊಲ್ಲುವುದು ನನಗೆ ಗೊತ್ತು",
+"Sòḻḻègaḻannu kòlluvudu nanagè gòttu"
+],
+"She used to know dancing before": [
+"ಆಕೆಗೆ ಮೊದಲು ನೃತ್ಯ ಗೊತ್ತಿತ್ತು",
+"Ākègè mòdalu nṛtya gòttittu"
+],
+"They knew to talk": [
+"ಅವರಿಗೆ ಮಾತನಾಡಲು ಗೊತ್ತಿತ್ತು",
+"Avarigè mātanāḍalu gòttittu"
+],
+"He learned. So he could speak Japanese": [
+"ಅವರು ಕಲಿತರು. ಆದ್ದರಿಂದ ಅವರು ಜಪಾನೀಸ್ ಮಾತನಾಡಬಲ್ಲರು",
+"Avaru kalitaru. āddariṃda avaru japānīs mātanāḍaballaru"
+],
+"I do not know eating cake": [
+"ಕೇಕ್ ತಿನ್ನೋದೇ ಗೊತ್ತಿಲ್ಲ",
+"Kek tinnode gòttilla"
+],
+"I do not know swimming": [
+"ನನಗೆ ಈಜು ಗೊತ್ತಿಲ್ಲ",
+"Nanagè īju gòttilla"
+],
+"I do not know Japanese": [
+"ನನಗೆ ಜಪಾನೀಸ್ ಗೊತ್ತಿಲ್ಲ",
+"Nanagè japānīs gòttilla"
+],
+"She did not know dancing before": [
+"ಅವಳಿಗೆ ಮೊದಲು ನೃತ್ಯ ಗೊತ್ತಿರಲಿಲ್ಲ",
+"Avaḻigè mòdalu nṛtya gòttiralilla"
+],
+"They did not know to talk": [
+"ಅವರಿಗೆ ಮಾತನಾಡಲು ತಿಳಿದಿರಲಿಲ್ಲ",
+"Avarigè mātanāḍalu tiḻidiralilla"
+],
+"He did not learn. So he could not speak Japanese": [
+"ಅವನು ಕಲಿಯಲಿಲ್ಲ. ಹಾಗಾಗಿ ಅವರಿಗೆ ಜಪಾನೀಸ್ ಮಾತನಾಡಲು ಬರುತ್ತಿರಲಿಲ್ಲ",
+"Avanu kaliyalilla. hāgāgi avarigè japānīs mātanāḍalu baruttiralilla"
+],
+"I(boy) know you": [
+"ನಾನು (ಹುಡುಗ) ನಿನ್ನನ್ನು ಬಲ್ಲೆ",
+"Nānu (huḍuga) ninnannu ballè"
+],
+"I(girl) know you": [
+"ನಾನು (ಹುಡುಗಿ) ನಿನ್ನನ್ನು ಬಲ್ಲೆ",
+"Nānu (huḍugi) ninnannu ballè"
+],
+"You know me": [
+"ನೀನು ನನಗೆ ಗೊತ್ತು",
+"Nīnu nanagè gòttu"
+],
+"He knows Mr. Ram": [
+"ಅವರು ಶ್ರೀ ರಾಮನನ್ನು ತಿಳಿದಿದ್ದಾರೆ",
+"Avaru śrī rāmanannu tiḻididdārè"
+],
+"Let's not play": [
+"ಆಡುವುದು ಬೇಡ",
+"Āḍuvudu beḍa"
+],
+"Let's not go": [
+"ಹೋಗೋದು ಬೇಡ",
+"Hogodu beḍa"
+],
+"Let's not speak": [
+"ಮಾತನಾಡುವುದು ಬೇಡ",
+"Mātanāḍuvudu beḍa"
+],
+"Shall we play cricket? (style 1)": [
+"ನಾವು ಕ್ರಿಕೆಟ್ ಆಡೋಣವೇ? (ಶೈಲಿ 1)",
+"Nāvu krikèṭ āḍoṇave? (śaili 1)"
+],
+"Shall we play cricket? (style 2)": [
+"ನಾವು ಕ್ರಿಕೆಟ್ ಆಡೋಣವೇ? (ಶೈಲಿ 2)",
+"Nāvu krikèṭ āḍoṇave? (śaili 2)"
+],
+"Shall we watch movie? (style 1)": [
+"ನಾವು ಸಿನಿಮಾ ನೋಡೋಣವೇ? (ಶೈಲಿ 1)",
+"Nāvu sinimā noḍoṇave? (śaili 1)"
+],
+"Shall we watch movie? (style 2)": [
+"ನಾವು ಸಿನಿಮಾ ನೋಡೋಣವೇ? (ಶೈಲಿ 2)",
+"Nāvu sinimā noḍoṇave? (śaili 2)"
+],
+"Shall we go home? (style 1)": [
+"ನಾವು ಮನೆಗೆ ಹೋಗೋಣವೇ? (ಶೈಲಿ 1)",
+"Nāvu manègè hogoṇave? (śaili 1)"
+],
+"Shall we go home? (style 2)": [
+"ನಾವು ಮನೆಗೆ ಹೋಗೋಣವೇ? (ಶೈಲಿ 2)",
+"Nāvu manègè hogoṇave? (śaili 2)"
+],
+"Shall we eat mango? (style 1)": [
+"ಮಾವು ತಿನ್ನೋಣವೇ? (ಶೈಲಿ 1)",
+"Māvu tinnoṇave? (śaili 1)"
+],
+"Shall we eat mango? (style 2)": [
+"ಮಾವು ತಿನ್ನೋಣವೇ? (ಶೈಲಿ 2)",
+"Māvu tinnoṇave? (śaili 2)"
+],
+"Shall we eat tamarind? (style 1)": [
+"ಹುಣಸೆಹಣ್ಣು ತಿನ್ನೋಣವೇ? (ಶೈಲಿ 1)",
+"Huṇasèhaṇṇu tinnoṇave? (śaili 1)"
+],
+"Shall we eat tamarind? (style 2)": [
+"ಹುಣಸೆಹಣ್ಣು ತಿನ್ನೋಣವೇ? (ಶೈಲಿ 2)",
+"Huṇasèhaṇṇu tinnoṇave? (śaili 2)"
+],
+"Let him play": [
+"ಅವನು ಆಡಲಿ",
+"Avanu āḍali"
+],
+"Let me eat": [
+"ನನಗೆ ತಿನ್ನಲು ಬಿಡಿ",
+"Nanagè tinnalu biḍi"
+],
+"Let her speak": [
+"ಅವಳು ಮಾತನಾಡಲಿ",
+"Avaḻu mātanāḍali"
+],
+"You all, Let him play": [
+"ನೀವೆಲ್ಲರೂ ಅವನನ್ನು ಆಡಲು ಬಿಡಿ",
+"Nīvèllarū avanannu āḍalu biḍi"
+],
+"You all, Let me eat": [
+"ನೀವೆಲ್ಲರೂ, ನನಗೆ ತಿನ್ನಲು ಬಿಡಿ",
+"Nīvèllarū, nanagè tinnalu biḍi"
+],
+"You all, Let her speak": [
+"ನೀವೆಲ್ಲರೂ ಅವಳನ್ನು ಮಾತನಾಡಲು ಬಿಡಿ",
+"Nīvèllarū avaḻannu mātanāḍalu biḍi"
+],
+"Don't let him play": [
+"ಅವನನ್ನು ಆಡಲು ಬಿಡಬೇಡಿ",
+"Avanannu āḍalu biḍabeḍi"
+],
+"Don't let me eat": [
+"ನನಗೆ ತಿನ್ನಲು ಬಿಡಬೇಡಿ",
+"Nanagè tinnalu biḍabeḍi"
+],
+"You all, don't let her speak": [
+"ನೀವೆಲ್ಲರೂ ಅವಳನ್ನು ಮಾತನಾಡಲು ಬಿಡಬೇಡಿ",
+"Nīvèllarū avaḻannu mātanāḍalu biḍabeḍi"
+],
+"You all, don't let me eat": [
+"ನೀವೆಲ್ಲರೂ ನನಗೆ ತಿನ್ನಲು ಬಿಡಬೇಡಿ",
+"Nīvèllarū nanagè tinnalu biḍabeḍi"
+],
+"I could not understand what you just said": [
+"ನೀನು ಹೇಳಿದ್ದು ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ",
+"Nīnu heḻiddu nanagè arthavāgalilla"
+],
+"Which fruit you want, show me that": [
+"ನಿನಗೆ ಯಾವ ಹಣ್ಣು ಬೇಕು, ತೋರಿಸು",
+"Ninagè yāva haṇṇu beku, torisu"
+],
+"When you come I feel happy": [
+"ನೀವು ಬಂದಾಗ ನನಗೆ ಸಂತೋಷವಾಗುತ್ತದೆ",
+"Nīvu baṃdāga nanagè saṃtoṣavāguttadè"
+],
+"What is in your mind, tell me that": [
+"ನಿಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಏನಿದೆ, ಅದನ್ನು ಹೇಳಿ",
+"Nimma manassinalli enidè, adannu heḻi"
+],
+"When you(girl) come I feel happy": [
+"ನೀನು (ಹುಡುಗಿ) ಬಂದಾಗ ನನಗೆ ಸಂತೋಷವಾಗುತ್ತದೆ",
+"Nīnu (huḍugi) baṃdāga nanagè saṃtoṣavāguttadè"
+],
+"Go back, the way you have come": [
+"ನೀನು ಬಂದ ದಾರಿಯಲ್ಲೇ ಹಿಂತಿರುಗು",
+"Nīnu baṃda dāriyalle hiṃtirugu"
+],
+"Give it to him, who wants it": [
+"ಯಾರಿಗೆ ಬೇಕೋ ಅವನಿಗೆ ಕೊಡು",
+"Yārigè beko avanigè kòḍu"
+],
+"Tell me about them whom you read about": [
+"ನೀವು ಯಾರ ಬಗ್ಗೆ ಓದುತ್ತೀರೋ ಅವರ ಬಗ್ಗೆ ಹೇಳಿ",
+"Nīvu yāra baggè oduttīro avara baggè heḻi"
+],
+"Wherever you will go I will come": [
+"ನೀನು ಎಲ್ಲಿಗೆ ಹೋದರೂ ನಾನು ಬರುತ್ತೇನೆ",
+"Nīnu èlligè hodarū nānu baruttenè"
+],
+"Whichever vegetables you want, you buy it": [
+"ನಿಮಗೆ ಯಾವ ತರಕಾರಿ ಬೇಕೋ ಅದನ್ನು ಖರೀದಿಸಿ",
+"Nimagè yāva tarakāri beko adannu kharīdisi"
+],
+"Whenever you call he will answer": [
+"ನೀವು ಕರೆದಾಗಲೆಲ್ಲಾ ಅವನು ಉತ್ತರಿಸುತ್ತಾನೆ",
+"Nīvu karèdāgalèllā avanu uttarisuttānè"
+],
+"Do not smoke here": [
+"ಇಲ್ಲಿ ಧೂಮಪಾನ ಮಾಡಬೇಡಿ",
+"Illi dhūmapāna māḍabeḍi"
+],
+"Do not use mobile phones": [
+"ಮೊಬೈಲ್ ಫೋನ್ ಬಳಸಬೇಡಿ",
+"Mòbail phon baḻasabeḍi"
+],
+"Enter your preferences": [
+"ನಿಮ್ಮ ಆದ್ಯತೆಗಳನ್ನು ನಮೂದಿಸಿ",
+"Nimma ādyatègaḻannu namūdisi"
+],
+"Write your address": [
+"ನಿಮ್ಮ ವಿಳಾಸವನ್ನು ಬರೆಯಿರಿ",
+"Nimma viḻāsavannu barèyiri"
+],
+"Write your addresses": [
+"ನಿಮ್ಮ ವಿಳಾಸಗಳನ್ನು ಬರೆಯಿರಿ",
+"Nimma viḻāsagaḻannu barèyiri"
+],
+"Enter your preference": [
+"ನಿಮ್ಮ ಆದ್ಯತೆಯನ್ನು ನಮೂದಿಸಿ",
+"Nimma ādyatèyannu namūdisi"
+],
+"Speak your name": [
+"ನಿಮ್ಮ ಹೆಸರನ್ನು ಮಾತನಾಡಿ",
+"Nimma hèsarannu mātanāḍi"
+],
+"Speak your names": [
+"ನಿಮ್ಮ ಹೆಸರುಗಳನ್ನು ಹೇಳಿ",
+"Nimma hèsarugaḻannu heḻi"
+],
+"Do not speak": [
+"ಮಾತನಾಡಬೇಡ",
+"Mātanāḍabeḍa"
+],
+"Do not smoke": [
+"ಧೂಮಪಾನ ಮಾಡಬೇಡಿ",
+"Dhūmapāna māḍabeḍi"
+],
+"Do not cross road here": [
+"ಇಲ್ಲಿ ರಸ್ತೆ ದಾಟಬೇಡಿ",
+"Illi rastè dāṭabeḍi"
+],
+"Do not pluck flowers": [
+"ಹೂವುಗಳನ್ನು ಕೀಳಬೇಡಿ",
+"Hūvugaḻannu kīḻabeḍi"
+],
+"I like to eat mango": [
+"ನನಗೆ ಮಾವು ತಿನ್ನಲು ಇಷ್ಟ",
+"Nanagè māvu tinnalu iṣṭa"
+],
+"I like to eat mangoes": [
+"ನನಗೆ ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಲು ಇಷ್ಟ",
+"Nanagè māvina haṇṇu tinnalu iṣṭa"
+],
+"He liked to open bag": [
+"ಅವರು ಚೀಲವನ್ನು ತೆರೆಯಲು ಇಷ್ಟಪಟ್ಟರು",
+"Avaru cīlavannu tèrèyalu iṣṭapaṭṭaru"
+],
+"He liked to open bags": [
+"ಅವರು ಚೀಲಗಳನ್ನು ತೆರೆಯಲು ಇಷ್ಟಪಟ್ಟರು",
+"Avaru cīlagaḻannu tèrèyalu iṣṭapaṭṭaru"
+],
+"She will like to sing song": [
+"ಅವಳು ಹಾಡು ಹಾಡಲು ಇಷ್ಟಪಡುತ್ತಾಳೆ",
+"Avaḻu hāḍu hāḍalu iṣṭapaḍuttāḻè"
+],
+"She will like to sing songs": [
+"ಅವಳು ಹಾಡುಗಳನ್ನು ಹಾಡಲು ಇಷ್ಟಪಡುತ್ತಾಳೆ",
+"Avaḻu hāḍugaḻannu hāḍalu iṣṭapaḍuttāḻè"
+],
+"I do not like to eat mango": [
+"ನನಗೆ ಮಾವು ತಿನ್ನಲು ಇಷ್ಟವಿಲ್ಲ",
+"Nanagè māvu tinnalu iṣṭavilla"
+],
+"I do not like to eat mangoes": [
+"ನನಗೆ ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಲು ಇಷ್ಟವಿಲ್ಲ",
+"Nanagè māvina haṇṇu tinnalu iṣṭavilla"
+],
+"He did not like to open bag": [
+"ಅವರು ಚೀಲವನ್ನು ತೆರೆಯಲು ಇಷ್ಟಪಡಲಿಲ್ಲ",
+"Avaru cīlavannu tèrèyalu iṣṭapaḍalilla"
+],
+"She will not like to sing song": [
+"ಅವಳು ಹಾಡು ಹಾಡಲು ಇಷ್ಟಪಡುವುದಿಲ್ಲ",
+"Avaḻu hāḍu hāḍalu iṣṭapaḍuvudilla"
+],
+"I like to see Kaushik": [
+"ನನಗೆ ಕೌಶಿಕನನ್ನು ಕಂಡರೆ ಇಷ್ಟ",
+"Nanagè kauśikanannu kaṃḍarè iṣṭa"
+],
+"He likes to push me": [
+"ಅವನು ನನ್ನನ್ನು ತಳ್ಳಲು ಇಷ್ಟಪಡುತ್ತಾನೆ",
+"Avanu nannannu taḻḻalu iṣṭapaḍuttānè"
+],
+"He likes to push her": [
+"ಅವನು ಅವಳನ್ನು ತಳ್ಳಲು ಇಷ್ಟಪಡುತ್ತಾನೆ",
+"Avanu avaḻannu taḻḻalu iṣṭapaḍuttānè"
+],
+"They will like to hold us": [
+"ಅವರು ನಮ್ಮನ್ನು ಹಿಡಿದಿಡಲು ಇಷ್ಟಪಡುತ್ತಾರೆ",
+"Avaru nammannu hiḍidiḍalu iṣṭapaḍuttārè"
+],
+"Kaushik said that he would eat": [
+"ತಿನ್ನುತ್ತೇನೆ ಎಂದ ಕೌಶಿಕ್",
+"Tinnuttenè èṃda kauśik"
+],
+"I thought I would be late so I would have to run": [
+"ನಾನು ತಡವಾಗುತ್ತೇನೆ ಆದ್ದರಿಂದ ನಾನು ಓಡಬೇಕು ಎಂದು ನಾನು ಭಾವಿಸಿದೆ",
+"Nānu taḍavāguttenè āddariṃda nānu oḍabeku èṃdu nānu bhāvisidè"
+],
+"I would love to visit New York": [
+"ನಾನು ನ್ಯೂಯಾರ್ಕ್‌ಗೆ ಭೇಟಿ ನೀಡಲು ಇಷ್ಟಪಡುತ್ತೇನೆ",
+"Nānu nyūyārk‌gè bheṭi nīḍalu iṣṭapaḍuttenè"
+],
+"We would go, but we are too busy": [
+"ನಾವು ಹೋಗುತ್ತೇವೆ, ಆದರೆ ನಾವು ತುಂಬಾ ಕಾರ್ಯನಿರತರಾಗಿದ್ದೇವೆ",
+"Nāvu hoguttevè, ādarè nāvu tuṃbā kāryaniratarāgiddevè"
+],
+"I would not disclose it in any condition": [
+"ನಾನು ಯಾವುದೇ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಅದನ್ನು ಬಹಿರಂಗಪಡಿಸುವುದಿಲ್ಲ",
+"Nānu yāvude paristhitiyalli adannu bahiraṃgapaḍisuvudilla"
+],
+"Would you like to drink tea?": [
+"ನೀವು ಚಹಾ ಕುಡಿಯಲು ಬಯಸುವಿರಾ?",
+"Nīvu cahā kuḍiyalu bayasuvirā?"
+],
+"Would you please help me?": [
+"ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡುವಿರಾ?",
+"Dayaviṭṭu nanagè sahāya māḍuvirā?"
+],
+"I would suggest you to take this medicine": [
+"ಈ ಔಷಧಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ನಾನು ನಿಮಗೆ ಸಲಹೆ ನೀಡುತ್ತೇನೆ",
+"Ī auṣadhiyannu tègèdukòḻḻalu nānu nimagè salahè nīḍuttenè"
+],
+"I understand its importance": [
+"ನಾನು ಅದರ ಮಹತ್ವವನ್ನು ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೇನೆ",
+"Nānu adara mahatvavannu arthamāḍikòṃḍiddenè"
+],
+"He understood the logic": [
+"ಅವರು ತರ್ಕವನ್ನು ಅರ್ಥಮಾಡಿಕೊಂಡರು",
+"Avaru tarkavannu arthamāḍikòṃḍaru"
+],
+"She came to know the news": [
+"ಆಕೆಗೆ ಸುದ್ದಿ ತಿಳಿಯಿತು",
+"Ākègè suddi tiḻiyitu"
+],
+"They will understand your mistakes": [
+"ಅವರು ನಿಮ್ಮ ತಪ್ಪುಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತಾರೆ",
+"Avaru nimma tappugaḻannu arthamāḍikòḻḻuttārè"
+],
+"Did you understand?": [
+"ನಿಮಗೆ ಅರ್ಥವಾಯಿತೇ?",
+"Nimagè arthavāyite?"
+],
+"She does not understand": [
+"ಅವಳಿಗೆ ಅರ್ಥವಾಗುತ್ತಿಲ್ಲ",
+"Avaḻigè arthavāguttilla"
+],
+"He will not come to know this": [
+"ಇದು ಅವನಿಗೆ ತಿಳಿಯುವುದಿಲ್ಲ",
+"Idu avanigè tiḻiyuvudilla"
+],
+"You are coming": [
+"ನೀವು ಬರುತ್ತಿದ್ದೀರಿ",
+"Nīvu baruttiddīri"
+],
+"You are coming, aren't you?": [
+"ನೀವು ಬರುತ್ತಿದ್ದೀರಿ ಅಲ್ಲವೇ?",
+"Nīvu baruttiddīri allave?"
+],
+"She did not speak": [
+"ಅವಳು ಮಾತನಾಡಲಿಲ್ಲ",
+"Avaḻu mātanāḍalilla"
+],
+"She did not speak, did she?": [
+"ಅವಳು ಮಾತನಾಡಲಿಲ್ಲ ಅಲ್ಲವೇ?",
+"Avaḻu mātanāḍalilla allave?"
+],
+"He will do": [
+"ಅವನು ಮಾಡುತ್ತಾನೆ",
+"Avanu māḍuttānè"
+],
+"He will do, won't he?": [
+"ಅವನು ಮಾಡುತ್ತಾನೆ, ಅಲ್ಲವೇ?",
+"Avanu māḍuttānè, allave?"
+],
+"I remember you": [
+"ನಾನು ನಿನ್ನನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತೇನೆ",
+"Nānu ninnannu nènapisikòḻḻuttenè"
+],
+"You remember me": [
+"ನೀವು ನನ್ನನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ",
+"Nīvu nannannu nènapisikòḻḻi"
+],
+"We remember Mary": [
+"ನಾವು ಮೇರಿಯನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತೇವೆ",
+"Nāvu meriyannu nènapisikòḻḻuttevè"
+],
+"Mary remembers us": [
+"ಮೇರಿ ನಮ್ಮನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+"Meri nammannu nènapisikòḻḻuttārè"
+],
+"I remember you (miss)": [
+"ನಾನು ನಿನ್ನನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತೇನೆ (ಮಿಸ್)",
+"Nānu ninnannu nènapisikòḻḻuttenè (mis)"
+],
+"Mary remembered us": [
+"ಮೇರಿ ನಮ್ಮನ್ನು ನೆನಪಿಸಿಕೊಂಡಳು",
+"Meri nammannu nènapisikòṃḍaḻu"
+],
+"Peter misses his friend": [
+"ಪೀಟರ್ ತನ್ನ ಸ್ನೇಹಿತನನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ",
+"Pīṭar tanna snehitanannu kaḻèdukòḻḻuttānè"
+],
+"She missed her mother a lot": [
+"ಅವಳು ತನ್ನ ತಾಯಿಯನ್ನು ತುಂಬಾ ಕಳೆದುಕೊಂಡಳು",
+"Avaḻu tanna tāyiyannu tuṃbā kaḻèdukòṃḍaḻu"
+],
+"I will remember your favor": [
+"ನಿನ್ನ ಉಪಕಾರವನ್ನು ಸ್ಮರಿಸುತ್ತೇನೆ",
+"Ninna upakāravannu smarisuttenè"
+],
+"He always remembered my advice": [
+"ಅವರು ಯಾವಾಗಲೂ ನನ್ನ ಸಲಹೆಯನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ",
+"Avaru yāvāgalū nanna salahèyannu nènapisikòḻḻuttārè"
+],
+"I want to eat mango": [
+"ನನಗೆ ಮಾವಿನ ಹಣ್ಣು ತಿನ್ನಬೇಕು",
+"Nanagè māvina haṇṇu tinnabeku"
+],
+"I want to eat mangoes": [
+"ನಾನು ಮಾವಿನಹಣ್ಣು ತಿನ್ನಲು ಬಯಸುತ್ತೇನೆ",
+"Nānu māvinahaṇṇu tinnalu bayasuttenè"
+],
+"He wanted to open bag": [
+"ಅವರು ಚೀಲವನ್ನು ತೆರೆಯಲು ಬಯಸಿದ್ದರು",
+"Avaru cīlavannu tèrèyalu bayasiddaru"
+],
+"He wanted to open bags": [
+"ಅವರು ಚೀಲಗಳನ್ನು ತೆರೆಯಲು ಬಯಸಿದ್ದರು",
+"Avaru cīlagaḻannu tèrèyalu bayasiddaru"
+],
+"She will want to sing song": [
+"ಅವಳು ಹಾಡನ್ನು ಹಾಡಲು ಬಯಸುತ್ತಾಳೆ",
+"Avaḻu hāḍannu hāḍalu bayasuttāḻè"
+],
+"She will want to sing songs": [
+"ಅವಳು ಹಾಡುಗಳನ್ನು ಹಾಡಲು ಬಯಸುತ್ತಾಳೆ",
+"Avaḻu hāḍugaḻannu hāḍalu bayasuttāḻè"
+],
+"I wanted to go": [
+"ನಾನು ಹೋಗಲು ಬಯಸಿದ್ದೆ",
+"Nānu hogalu bayasiddè"
+],
+"I will want to run": [
+"ನಾನು ಓಡಲು ಬಯಸುತ್ತೇನೆ",
+"Nānu oḍalu bayasuttenè"
+],
+"I do not want to eat mango": [
+"ನನಗೆ ಮಾವು ತಿನ್ನಲು ಇಷ್ಟವಿಲ್ಲ",
+"Nanagè māvu tinnalu iṣṭavilla"
+],
+"He did not want to open bag": [
+"ಅವರು ಚೀಲವನ್ನು ತೆರೆಯಲು ಬಯಸಲಿಲ್ಲ",
+"Avaru cīlavannu tèrèyalu bayasalilla"
+],
+"She will not want to sing song": [
+"ಅವಳು ಹಾಡು ಹಾಡಲು ಬಯಸುವುದಿಲ್ಲ",
+"Avaḻu hāḍu hāḍalu bayasuvudilla"
+],
+"Kaushik wants to see Peter": [
+"ಕೌಶಿಕ್ ಪೀಟರ್ ಅನ್ನು ನೋಡಲು ಬಯಸುತ್ತಾನೆ",
+"Kauśik pīṭar annu noḍalu bayasuttānè"
+],
+"Kaushik wants to see him": [
+"ಕೌಶಿಕ್ ಅವನನ್ನು ನೋಡಲು ಬಯಸುತ್ತಾನೆ",
+"Kauśik avanannu noḍalu bayasuttānè"
+],
+"Kaushik wants to see you": [
+"ಕೌಶಿಕ್ ನಿನ್ನನ್ನು ನೋಡಲು ಬಯಸುತ್ತಾನೆ",
+"Kauśik ninnannu noḍalu bayasuttānè"
+],
+"I want you to finish work": [
+"ನೀವು ಕೆಲಸವನ್ನು ಮುಗಿಸಬೇಕೆಂದು ನಾನು ಬಯಸುತ್ತೇನೆ",
+"Nīvu kèlasavannu mugisabekèṃdu nānu bayasuttenè"
+],
+"She wants me to avoid junk food": [
+"ನಾನು ಜಂಕ್ ಫುಡ್ ಅನ್ನು ತಪ್ಪಿಸಬೇಕೆಂದು ಅವಳು ಬಯಸುತ್ತಾಳೆ",
+"Nānu jaṃk phuḍ annu tappisabekèṃdu avaḻu bayasuttāḻè"
+],
+"Kaushik wants students to practice more": [
+"ವಿದ್ಯಾರ್ಥಿಗಳು ಹೆಚ್ಚು ಅಭ್ಯಾಸ ಮಾಡಬೇಕೆಂದು ಕೌಶಿಕ್ ಬಯಸುತ್ತಾರೆ",
+"Vidyārthigaḻu hèccu abhyāsa māḍabekèṃdu kauśik bayasuttārè"
+],
+"Kaushik wanted students to practice more": [
+"ವಿದ್ಯಾರ್ಥಿಗಳು ಹೆಚ್ಚು ಅಭ್ಯಾಸ ಮಾಡಬೇಕೆಂದು ಕೌಶಿಕ್ ಬಯಸಿದ್ದರು",
+"Vidyārthigaḻu hèccu abhyāsa māḍabekèṃdu kauśik bayasiddaru"
+],
+"Students want Kaushik to talk slowly": [
+"ಕೌಶಿಕ್ ನಿಧಾನವಾಗಿ ಮಾತನಾಡಬೇಕೆಂದು ವಿದ್ಯಾರ್ಥಿಗಳು ಬಯಸುತ್ತಾರೆ",
+"Kauśik nidhānavāgi mātanāḍabekèṃdu vidyārthigaḻu bayasuttārè"
+],
+"I am supposed to meet him tomorrow": [
+"ನಾನು ನಾಳೆ ಅವರನ್ನು ಭೇಟಿಯಾಗಬೇಕು",
+"Nānu nāḻè avarannu bheṭiyāgabeku"
+],
+"I am supposed to finish that bottle": [
+"ನಾನು ಆ ಬಾಟಲಿಯನ್ನು ಮುಗಿಸಬೇಕು",
+"Nānu ā bāṭaliyannu mugisabeku"
+],
+"He is supposed to finish that bottle": [
+"ಅವನು ಆ ಬಾಟಲಿಯನ್ನು ಮುಗಿಸಬೇಕು",
+"Avanu ā bāṭaliyannu mugisabeku"
+],
+"She is supposed to finish that bottle": [
+"ಅವಳು ಆ ಬಾಟಲಿಯನ್ನು ಮುಗಿಸಬೇಕು",
+"Avaḻu ā bāṭaliyannu mugisabeku"
+],
+"I/He/She was supposed to finish that bottle": [
+"ನಾನು/ಅವನು/ಅವಳು ಆ ಬಾಟಲಿಯನ್ನು ಮುಗಿಸಬೇಕಿತ್ತು",
+"Nānu/avanu/avaḻu ā bāṭaliyannu mugisabekittu"
+],
+"I/He/She was supposed to finish those bottles": [
+"ನಾನು/ಅವನು/ಅವಳು ಆ ಬಾಟಲಿಗಳನ್ನು ಮುಗಿಸಬೇಕಿತ್ತು",
+"Nānu/avanu/avaḻu ā bāṭaligaḻannu mugisabekittu"
+],
+"I am supposed to go there tomorrow": [
+"ನಾನು ನಾಳೆ ಅಲ್ಲಿಗೆ ಹೋಗಬೇಕು",
+"Nānu nāḻè alligè hogabeku"
+],
+"He is supposed to come tomorrow": [
+"ಅವನು ನಾಳೆ ಬರಬೇಕು",
+"Avanu nāḻè barabeku"
+],
+"We could not meet but next time we must meet": [
+"ನಾವು ಭೇಟಿಯಾಗಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ ಆದರೆ ಮುಂದಿನ ಬಾರಿ ಭೇಟಿಯಾಗಬೇಕು",
+"Nāvu bheṭiyāgalu sādhyavāgalilla ādarè muṃdina bāri bheṭiyāgabeku"
+],
+"You must pay me ransom tomorrow itself": [
+"ನಾಳೆಯೇ ನೀನು ನನಗೆ ಸುಲಿಗೆ ಕೊಡಬೇಕು",
+"Nāḻèye nīnu nanagè suligè kòḍabeku"
+],
+"I get a prize": [
+"ನನಗೆ ಬಹುಮಾನ ಸಿಗುತ್ತದೆ",
+"Nanagè bahumāna siguttadè"
+],
+"I get 10 prizes": [
+"ನಾನು 10 ಬಹುಮಾನಗಳನ್ನು ಪಡೆಯುತ್ತೇನೆ",
+"Nānu 10 bahumānagaḻannu paḍèyuttenè"
+],
+"He gets a prize": [
+"ಅವನು ಬಹುಮಾನ ಪಡೆಯುತ್ತಾನೆ",
+"Avanu bahumāna paḍèyuttānè"
+],
+"He gets 10 prizes": [
+"ಅವರು 10 ಬಹುಮಾನಗಳನ್ನು ಪಡೆಯುತ್ತಾರೆ",
+"Avaru 10 bahumānagaḻannu paḍèyuttārè"
+],
+"He got a prize": [
+"ಬಹುಮಾನ ಪಡೆದರು",
+"Bahumāna paḍèdaru"
+],
+"He got 10 prizes": [
+"ಅವರು 10 ಬಹುಮಾನಗಳನ್ನು ಪಡೆದರು",
+"Avaru 10 bahumānagaḻannu paḍèdaru"
+],
+"I found my wallet under the bed": [
+"ಹಾಸಿಗೆಯ ಕೆಳಗೆ ನನ್ನ ಕೈಚೀಲವನ್ನು ನಾನು ಕಂಡುಕೊಂಡೆ",
+"Hāsigèya kèḻagè nanna kaicīlavannu nānu kaṃḍukòṃḍè"
+],
+"She became angry": [
+"ಅವಳು ಕೋಪಗೊಂಡಳು",
+"Avaḻu kopagòṃḍaḻu"
+],
+"He became angry": [
+"ಅವನು ಕೋಪಗೊಂಡನು",
+"Avanu kopagòṃḍanu"
+],
+"He agrees to this condition": [
+"ಅವನು ಈ ಷರತ್ತಿಗೆ ಒಪ್ಪುತ್ತಾನೆ",
+"Avanu ī ṣarattigè òpputtānè"
+],
+"He agrees to these conditions": [
+"ಅವರು ಈ ಷರತ್ತುಗಳನ್ನು ಒಪ್ಪುತ್ತಾರೆ",
+"Avaru ī ṣarattugaḻannu òpputtārè"
+],
+"Finish it off in 10 minutes": [
+"10 ನಿಮಿಷಗಳಲ್ಲಿ ಅದನ್ನು ಮುಗಿಸಿ",
+"10 nimiṣagaḻalli adannu mugisi"
+],
+"Do not hesitate. Speak it out": [
+"ಹಿಂಜರಿಯಬೇಡಿ. ಅದನ್ನು ಮಾತನಾಡು",
+"Hiṃjariyabeḍi. adannu mātanāḍu"
+],
+"Nobody is looking. Just do it": [
+"ಯಾರೂ ನೋಡುತ್ತಿಲ್ಲ. ಸುಮ್ಮನೆ ಮಾಡು",
+"Yārū noḍuttilla. summanè māḍu"
+],
+"I somehow managed to gulp it": [
+"ನಾನು ಹೇಗೋ ಅದನ್ನು ಗುಟುಕು ಹಾಕಿದೆ",
+"Nānu hego adannu guṭuku hākidè"
+],
+"He quickly came and read the letter": [
+"ಅವನು ಬೇಗನೆ ಬಂದು ಪತ್ರವನ್ನು ಓದಿದನು",
+"Avanu beganè baṃdu patravannu odidanu"
+],
+"Ask whatever you want; right now": [
+"ನಿನಗೆ ಏನು ಬೇಕೋ ಕೇಳು; ಇದೀಗ",
+"Ninagè enu beko keḻu; idīga"
+],
+"You may call me whatever you want": [
+"ನೀವು ನನಗೆ ಏನು ಬೇಕಾದರೂ ಕರೆಯಬಹುದು",
+"Nīvu nanagè enu bekādarū karèyabahudu"
+],
+"Get that work done by him": [
+"ಆ ಕೆಲಸವನ್ನು ಅವನಿಂದ ಮಾಡಿಸಿ",
+"Ā kèlasavannu avaniṃda māḍisi"
+],
+"I made her take exercise every day": [
+"ನಾನು ಅವಳನ್ನು ಪ್ರತಿದಿನ ವ್ಯಾಯಾಮ ಮಾಡುವಂತೆ ಮಾಡಿದೆ",
+"Nānu avaḻannu pratidina vyāyāma māḍuvaṃtè māḍidè"
+],
+"I washed clothes very hard": [
+"ನಾನು ತುಂಬಾ ಕಷ್ಟಪಟ್ಟು ಬಟ್ಟೆ ತೊಳೆದೆ",
+"Nānu tuṃbā kaṣṭapaṭṭu baṭṭè tòḻèdè"
+],
+"Batsman hit every ball very hard": [
+"ಬ್ಯಾಟ್ಸ್‌ಮನ್ ಪ್ರತಿ ಚೆಂಡನ್ನು ತುಂಬಾ ಜೋರಾಗಿ ಹೊಡೆದರು",
+"Byāṭs‌man prati cèṃḍannu tuṃbā jorāgi hòḍèdaru"
+],
+"I just told him we drank liquor": [
+"ನಾವು ಮದ್ಯ ಸೇವಿಸಿದ್ದೇವೆ ಎಂದು ನಾನು ಅವನಿಗೆ ಹೇಳಿದೆ",
+"Nāvu madya sevisiddevè èṃdu nānu avanigè heḻidè"
+],
+"Oh my God! What have I done!": [
+"ಓ ದೇವರೇ! ನಾನೇನು ಮಾಡಿದೆ!",
+"O devare! nānenu māḍidè!"
+],
+"Now keep crying": [
+"ಈಗ ಅಳುತ್ತಲೇ ಇರು",
+"Īga aḻuttale iru"
+],
+"She will search it forever": [
+"ಅವಳು ಅದನ್ನು ಶಾಶ್ವತವಾಗಿ ಹುಡುಕುತ್ತಾಳೆ",
+"Avaḻu adannu śāśvatavāgi huḍukuttāḻè"
+],
+"I forgot to tell you": [
+"ನಾನು ನಿಮಗೆ ಹೇಳಲು ಮರೆತಿದ್ದೇನೆ",
+"Nānu nimagè heḻalu marètiddenè"
+],
+"She could not see the sign": [
+"ಅವಳು ಚಿಹ್ನೆಯನ್ನು ನೋಡಲಾಗಲಿಲ್ಲ",
+"Avaḻu cihnèyannu noḍalāgalilla"
+],
+"Start following my advice": [
+"ನನ್ನ ಸಲಹೆಯನ್ನು ಅನುಸರಿಸಲು ಪ್ರಾರಂಭಿಸಿ",
+"Nanna salahèyannu anusarisalu prāraṃbhisi"
+],
+"If you had taken exercise every day then": [
+"ನೀವು ಪ್ರತಿದಿನ ವ್ಯಾಯಾಮವನ್ನು ತೆಗೆದುಕೊಂಡಿದ್ದರೆ",
+"Nīvu pratidina vyāyāmavannu tègèdukòṃḍiddarè"
+],
+"I was about to open the door when I saw": [
+"ನಾನು ನೋಡಿದಾಗ ನಾನು ಬಾಗಿಲು ತೆರೆಯಲು ಹೊರಟಿದ್ದೆ",
+"Nānu noḍidāga nānu bāgilu tèrèyalu hòraṭiddè"
+],
+"If we think of eating mango then": [
+"ಆಗ ಮಾವು ತಿನ್ನುವ ಯೋಚನೆ ಮಾಡಿದರೆ",
+"Āga māvu tinnuva yocanè māḍidarè"
+],
+"If he decides to take revenge": [
+"ಅವನು ಸೇಡು ತೀರಿಸಿಕೊಳ್ಳಲು ನಿರ್ಧರಿಸಿದರೆ",
+"Avanu seḍu tīrisikòḻḻalu nirdharisidarè"
+],
+"Give him your information": [
+"ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಅವನಿಗೆ ನೀಡಿ",
+"Nimma māhitiyannu avanigè nīḍi"
+],
+"Keep tea ready": [
+"ಚಹಾವನ್ನು ಸಿದ್ಧವಾಗಿಡಿ",
+"Cahāvannu siddhavāgiḍi"
+],
+"We have booked tickets": [
+"ನಾವು ಟಿಕೆಟ್ ಬುಕ್ ಮಾಡಿದ್ದೇವೆ",
+"Nāvu ṭikèṭ buk māḍiddevè"
+],
+"I had already given my password": [
+"ನಾನು ಈಗಾಗಲೇ ನನ್ನ ಪಾಸ್‌ವರ್ಡ್ ನೀಡಿದ್ದೆ",
+"Nānu īgāgale nanna pās‌varḍ nīḍiddè"
+],
+"I have decided plan for tonight": [
+"ನಾನು ಇಂದು ರಾತ್ರಿಯ ಯೋಜನೆಯನ್ನು ನಿರ್ಧರಿಸಿದೆ",
+"Nānu iṃdu rātriya yojanèyannu nirdharisidè"
+],
+"He happened to say he was from India": [
+"ಅವರು ಭಾರತದವರು ಎಂದು ಹೇಳಲು ಸಂಭವಿಸಿತು",
+"Avaru bhāratadavaru èṃdu heḻalu saṃbhavisitu"
+],
+"I happened to hear about strike": [
+"ನಾನು ಮುಷ್ಕರದ ಬಗ್ಗೆ ಕೇಳಿದೆ",
+"Nānu muṣkarada baggè keḻidè"
+],
+"Hey! When did you come?": [
+"ಹೇ! ಯಾವಾಗ ಬಂದೆ?",
+"He! yāvāga baṃdè?"
+],
+"Nice smell / Very tasty": [
+"ಉತ್ತಮ ವಾಸನೆ / ತುಂಬಾ ಟೇಸ್ಟಿ",
+"Uttama vāsanè / tuṃbā ṭesṭi"
+],
+"Oh my God! Who did this?": [
+"ಓ ದೇವರೇ! ಇದನ್ನು ಮಾಡಿದವರು ಯಾರು?",
+"O devare! idannu māḍidavaru yāru?"
+],
+"Oh! He failed!": [
+"ಓಹ್! ಅವನು ವಿಫಲನಾದ!",
+"Oh! avanu viphalanāda!"
+],
+"No! He will never do it": [
+"ಇಲ್ಲ! ಅವನು ಅದನ್ನು ಎಂದಿಗೂ ಮಾಡುವುದಿಲ್ಲ",
+"Illa! avanu adannu èṃdigū māḍuvudilla"
+],
+"No! I do not believe": [
+"ಇಲ್ಲ! ನಾನು ನಂಬುವುದಿಲ್ಲ",
+"Illa! nānu naṃbuvudilla"
+],
+"Yes! I will surely come": [
+"ಹೌದು! ನಾನು ಖಂಡಿತ ಬರುತ್ತೇನೆ",
+"Haudu! nānu khaṃḍita baruttenè"
+],
+"Hmm! I got it": [
+"ಹಾಂ! ನನಗೆ ಸಿಕ್ಕಿತು",
+"Hāṃ! nanagè sikkitu"
+],
+"Well done! You won": [
+"ಚೆನ್ನಾಗಿದೆ! ನೀನು ಗೆದ್ದೆ",
+"Cènnāgidè! nīnu gèddè"
+],
+"Mummy! It is paining": [
+"ಮಮ್ಮಿ! ಇದು ನೋವುಂಟುಮಾಡುತ್ತದೆ",
+"Mammi! idu novuṃṭumāḍuttadè"
+],
+"Yuck! It looks ugly": [
+"ಅಯ್ಯೋ! ಇದು ಕೊಳಕು ಕಾಣುತ್ತದೆ",
+"Ayyo! idu kòḻaku kāṇuttadè"
+],
+"I spit on your cowardice": [
+"ನಿನ್ನ ಹೇಡಿತನದ ಮೇಲೆ ನಾನು ಉಗುಳಿದೆ",
+"Ninna heḍitanada melè nānu uguḻidè"
+],
+"Shhh! Keep quiet": [
+"ಶ್! ಸುಮ್ಮನಿರು",
+"Ś! summaniru"
+],
+"How well you danced!": [
+"ನೀವು ಎಷ್ಟು ಚೆನ್ನಾಗಿ ನೃತ್ಯ ಮಾಡಿದ್ದೀರಿ!",
+"Nīvu èṣṭu cènnāgi nṛtya māḍiddīri!"
+],
+"What a fool he is!": [
+"ಅವನು ಎಂತಹ ಮೂರ್ಖ!",
+"Avanu èṃtaha mūrkha!"
+],
+"Oh! What happened then?": [
+"ಓಹ್! ಆಗ ಏನಾಯಿತು?",
+"Oh! āga enāyitu?"
+],
+"Oh! When did you come?": [
+"ಓಹ್! ಯಾವಾಗ ಬಂದೆ?",
+"Oh! yāvāga baṃdè?"
+],
+"Someone may see it! (blush)": [
+"ಯಾರಾದರೂ ಅದನ್ನು ನೋಡಬಹುದು! (ಬ್ಲಶ್)",
+"Yārādarū adannu noḍabahudu! (blaś)"
+],
+"May I come": [
+"ನಾನು ಬರಲಿ",
+"Nānu barali"
+],
+"May I go": [
+"ನಾನು ಹೋಗಬಹುದೇ",
+"Nānu hogabahude"
+],
+"May we come": [
+"ನಾವು ಬರೋಣ",
+"Nāvu baroṇa"
+],
+"May we go": [
+"ನಾವು ಹೋಗೋಣ",
+"Nāvu hogoṇa"
+],
+"May we speak": [
+"ನಾವು ಮಾತನಾಡೋಣ",
+"Nāvu mātanāḍoṇa"
+],
+"May you come": [
+"ನೀನು ಬರಲಿ",
+"Nīnu barali"
+],
+"May you speak": [
+"ನೀನು ಮಾತನಾಡಲಿ",
+"Nīnu mātanāḍali"
+],
+"May he tell": [
+"ಅವನು ಹೇಳಲಿ",
+"Avanu heḻali"
+],
+"Can I tell": [
+"ನಾನು ಹೇಳಬಹುದೇ?",
+"Nānu heḻabahude?"
+],
+"Can I write": [
+"ನಾನು ಬರೆಯಬಹುದೇ",
+"Nānu barèyabahude"
+],
+"May you give pen": [
+"ನೀವು ಪೆನ್ನು ನೀಡಬಹುದು",
+"Nīvu pènnu nīḍabahudu"
+],
+"Please give pen": [
+"ದಯವಿಟ್ಟು ಪೆನ್ನು ಕೊಡಿ",
+"Dayaviṭṭu pènnu kòḍi"
+],
+"Please tell address": [
+"ದಯವಿಟ್ಟು ವಿಳಾಸ ತಿಳಿಸಿ",
+"Dayaviṭṭu viḻāsa tiḻisi"
+],
+"He may go": [
+"ಅವನು ಹೋಗಬಹುದು",
+"Avanu hogabahudu"
+],
+"I may sing": [
+"ನಾನು ಹಾಡಬಹುದು",
+"Nānu hāḍabahudu"
+],
+"He might come": [
+"ಅವನು ಬರಬಹುದು",
+"Avanu barabahudu"
+],
+"He might have gone yesterday": [
+"ಅವನು ನಿನ್ನೆ ಹೋಗಿರಬಹುದು",
+"Avanu ninnè hogirabahudu"
+],
+"She might have completed it": [
+"ಅವಳು ಅದನ್ನು ಪೂರ್ಣಗೊಳಿಸಿರಬಹುದು",
+"Avaḻu adannu pūrṇagòḻisirabahudu"
+],
+"They might have returned yesterday": [
+"ಅವರು ನಿನ್ನೆ ಹಿಂತಿರುಗಿರಬಹುದು",
+"Avaru ninnè hiṃtirugirabahudu"
+],
+"He had gone": [
+"ಅವನು ಹೋಗಿದ್ದ",
+"Avanu hogidda"
+],
+"He might have gone": [
+"ಅವನು ಹೋಗಿರಬಹುದು",
+"Avanu hogirabahudu"
+],
+"She had said": [
+"ಅವಳು ಹೇಳಿದ್ದಳು",
+"Avaḻu heḻiddaḻu"
+],
+"She might have said": [
+"ಅವಳು ಹೇಳಿರಬಹುದು",
+"Avaḻu heḻirabahudu"
+],
+"You have eaten mango": [
+"ನೀವು ಮಾವಿನಕಾಯಿ ತಿಂದಿದ್ದೀರಿ",
+"Nīvu māvinakāyi tiṃdiddīri"
+],
+"You might have eaten mango": [
+"ನೀವು ಮಾವಿನಹಣ್ಣು ತಿಂದಿರಬಹುದು",
+"Nīvu māvinahaṇṇu tiṃdirabahudu"
+],
+"The day I like": [
+"ನನಗೆ ಇಷ್ಟವಾದ ದಿನ",
+"Nanagè iṣṭavāda dina"
+],
+"Boy who is giving": [
+"ಕೊಡುತ್ತಿರುವ ಹುಡುಗ",
+"Kòḍuttiruva huḍuga"
+],
+"Person who is dancing": [
+"ನೃತ್ಯ ಮಾಡುತ್ತಿರುವ ವ್ಯಕ್ತಿ",
+"Nṛtya māḍuttiruva vyakti"
+],
+"Pot on table": [
+"ಮೇಜಿನ ಮೇಲೆ ಮಡಕೆ",
+"Mejina melè maḍakè"
+],
+"Jar on table": [
+"ಮೇಜಿನ ಮೇಲೆ ಜಾರ್",
+"Mejina melè jār"
+],
+"Leaf on table": [
+"ಮೇಜಿನ ಮೇಲೆ ಎಲೆ",
+"Mejina melè èlè"
+],
+"Gift inside box": [
+"ಬಾಕ್ಸ್ ಒಳಗೆ ಉಡುಗೊರೆ",
+"Bāks òḻagè uḍugòrè"
+],
+"Area outside my home": [
+"ನನ್ನ ಮನೆಯ ಹೊರಗಿನ ಪ್ರದೇಶ",
+"Nanna manèya hòragina pradeśa"
+],
+"I make him say": [
+"ನಾನು ಅವನನ್ನು ಹೇಳುವಂತೆ ಮಾಡುತ್ತೇನೆ",
+"Nānu avanannu heḻuvaṃtè māḍuttenè"
+],
+"I will make him say": [
+"ನಾನು ಅವನನ್ನು ಹೇಳುವಂತೆ ಮಾಡುತ್ತೇನೆ",
+"Nānu avanannu heḻuvaṃtè māḍuttenè"
+],
+"I made him say": [
+"ನಾನು ಅವನನ್ನು ಹೇಳುವಂತೆ ಮಾಡಿದೆ",
+"Nānu avanannu heḻuvaṃtè māḍidè"
+],
+"He made me work": [
+"ಅವರು ನನಗೆ ಕೆಲಸ ಮಾಡಿದರು",
+"Avaru nanagè kèlasa māḍidaru"
+],
+"He makes me work": [
+"ಅವನು ನನ್ನನ್ನು ಕೆಲಸ ಮಾಡುತ್ತಾನೆ",
+"Avanu nannannu kèlasa māḍuttānè"
+],
+"He will make me work": [
+"ಅವನು ನನ್ನನ್ನು ಕೆಲಸ ಮಾಡುತ್ತಾನೆ",
+"Avanu nannannu kèlasa māḍuttānè"
+],
+"That joke made me laugh": [
+"ಆ ತಮಾಷೆ ನನಗೆ ನಗು ತರಿಸಿತು",
+"Ā tamāṣè nanagè nagu tarisitu"
+],
+"Peter made Mary eat mango": [
+"ಪೇತ್ರನು ಮೇರಿಗೆ ಮಾವು ತಿನ್ನುವಂತೆ ಮಾಡಿದನು",
+"Petranu merigè māvu tinnuvaṃtè māḍidanu"
+],
+"Peter made Mary eat mangoes": [
+"ಪೇತ್ರನು ಮೇರಿಗೆ ಮಾವಿನ ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನುವಂತೆ ಮಾಡಿದನು",
+"Petranu merigè māvina haṇṇugaḻannu tinnuvaṃtè māḍidanu"
+],
+"I myself did it": [
+"ನಾನೇ ಮಾಡಿದೆ",
+"Nāne māḍidè"
+],
+"I did this itself": [
+"ನಾನೇ ಇದನ್ನು ಮಾಡಿದ್ದೇನೆ",
+"Nāne idannu māḍiddenè"
+],
+"I will come tomorrow itself": [
+"ನಾಳೆಯೇ ಬರುತ್ತೇನೆ",
+"Nāḻèye baruttenè"
+],
+"I will surely come": [
+"ನಾನು ಖಂಡಿತ ಬರುತ್ತೇನೆ",
+"Nānu khaṃḍita baruttenè"
+],
+"I have seen India only": [
+"ನಾನು ಭಾರತವನ್ನು ಮಾತ್ರ ನೋಡಿದ್ದೇನೆ",
+"Nānu bhāratavannu mātra noḍiddenè"
+],
+"He kept on talking": [
+"ಅವನು ಮಾತಾಡುತ್ತಲೇ ಇದ್ದ",
+"Avanu mātāḍuttale idda"
+],
+"He kept on staring that car": [
+"ಅವನು ಆ ಕಾರನ್ನು ನೋಡುತ್ತಲೇ ಇದ್ದ",
+"Avanu ā kārannu noḍuttale idda"
+],
+"I want only sedan car": [
+"ನನಗೆ ಸೆಡಾನ್ ಕಾರು ಮಾತ್ರ ಬೇಕು",
+"Nanagè sèḍān kāru mātra beku"
+],
+"I must go there": [
+"ನಾನು ಅಲ್ಲಿಗೆ ಹೋಗಬೇಕು",
+"Nānu alligè hogabeku"
+],
+"Why just me?": [
+"ನನಗೇಕೆ?",
+"Nanagekè?"
+],
+"I have a car": [
+"ನನ್ನ ಬಳಿ ಕಾರು ಇದೆ",
+"Nanna baḻi kāru idè"
+],
+"I have 10 cars": [
+"ನನ್ನ ಬಳಿ 10 ಕಾರುಗಳಿವೆ",
+"Nanna baḻi 10 kārugaḻivè"
+],
+"I had a car": [
+"ನನ್ನ ಬಳಿ ಕಾರು ಇತ್ತು",
+"Nanna baḻi kāru ittu"
+],
+"Anup will have watch": [
+"ಅನುಪ್ ಬಳಿ ವಾಚ್ ಇರುತ್ತದೆ",
+"Anup baḻi vāc iruttadè"
+],
+"I do not have car": [
+"ನನ್ನ ಬಳಿ ಕಾರು ಇಲ್ಲ",
+"Nanna baḻi kāru illa"
+],
+"I did not have car": [
+"ನನ್ನ ಬಳಿ ಕಾರು ಇರಲಿಲ್ಲ",
+"Nanna baḻi kāru iralilla"
+],
+"I have 2 brothers": [
+"ನನಗೆ 2 ಸಹೋದರರು ಇದ್ದಾರೆ",
+"Nanagè 2 sahodararu iddārè"
+],
+"He has three paternal uncles": [
+"ಅವರಿಗೆ ಮೂವರು ತಂದೆಯ ಚಿಕ್ಕಪ್ಪಂದಿರಿದ್ದಾರೆ",
+"Avarigè mūvaru taṃdèya cikkappaṃdiriddārè"
+],
+"Ravi had 2 kids": [
+"ರವಿಗೆ 2 ಮಕ್ಕಳಿದ್ದರು",
+"Ravigè 2 makkaḻiddaru"
+],
+"He does not have a brother": [
+"ಅವನಿಗೆ ಒಬ್ಬ ಸಹೋದರ ಇಲ್ಲ",
+"Avanigè òbba sahodara illa"
+],
+"She did not have any relatives": [
+"ಆಕೆಗೆ ಸಂಬಂಧಿಕರು ಇರಲಿಲ್ಲ",
+"Ākègè saṃbaṃdhikaru iralilla"
+],
+"What does it mean?": [
+"ಇದರ ಅರ್ಥವೇನು?",
+"Idara arthavenu?"
+],
+"What does that signboard mean?": [
+"ಆ ಸೂಚನಾ ಫಲಕದ ಅರ್ಥವೇನು?",
+"Ā sūcanā phalakada arthavenu?"
+],
+"What did his speech mean?": [
+"ಅವರ ಮಾತಿನ ಅರ್ಥವೇನು?",
+"Avara mātina arthavenu?"
+],
+"What does encyclopedia mean?": [
+"ವಿಶ್ವಕೋಶದ ಅರ್ಥವೇನು?",
+"Viśvakośada arthavenu?"
+],
+"What does Sundar mean in Marathi?": [
+"ಮರಾಠಿಯಲ್ಲಿ ಸುಂದರ್ ಅರ್ಥವೇನು?",
+"Marāṭhiyalli suṃdar arthavenu?"
+],
+"I did mean it": [
+"ನಾನು ಅದನ್ನು ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೇನೆ",
+"Nānu adannu arthamāḍikòṃḍiddenè"
+],
+"I did not mean it": [
+"ನಾನು ಅದನ್ನು ಅರ್ಥೈಸಲಿಲ್ಲ",
+"Nānu adannu arthaisalilla"
+],
+"He did not mean hurting you": [
+"ಅವನು ನಿನ್ನನ್ನು ನೋಯಿಸುವ ಉದ್ದೇಶವನ್ನು ಹೊಂದಿರಲಿಲ್ಲ",
+"Avanu ninnannu noyisuva uddeśavannu hòṃdiralilla"
+],
+"I meant to insult him": [
+"ನಾನು ಅವನನ್ನು ಅವಮಾನಿಸಲು ಉದ್ದೇಶಿಸಿದೆ",
+"Nānu avanannu avamānisalu uddeśisidè"
+],
+"He and me": [
+"ಅವನು ಮತ್ತು ನಾನು",
+"Avanu mattu nānu"
+],
+"Milk and sugar": [
+"ಹಾಲು ಮತ್ತು ಸಕ್ಕರೆ",
+"Hālu mattu sakkarè"
+],
+"I want to buy but shop is closed": [
+"ನಾನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ ಆದರೆ ಅಂಗಡಿ ಮುಚ್ಚಿದೆ",
+"Nānu kharīdisalu bayasuttenè ādarè aṃgaḍi muccidè"
+],
+"He was clever but did not work hard": [
+"ಅವರು ಬುದ್ಧಿವಂತರಾಗಿದ್ದರೂ ಕಷ್ಟಪಟ್ಟು ಕೆಲಸ ಮಾಡಲಿಲ್ಲ",
+"Avaru buddhivaṃtarāgiddarū kaṣṭapaṭṭu kèlasa māḍalilla"
+],
+"I had warned him, still he opened the box": [
+"ನಾನು ಅವನಿಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದೆ, ಆದರೂ ಅವನು ಪೆಟ್ಟಿಗೆಯನ್ನು ತೆರೆದನು",
+"Nānu avanigè èccarikè nīḍiddè, ādarū avanu pèṭṭigèyannu tèrèdanu"
+],
+"He helped her still she insulted him": [
+"ಅವನು ಅವಳಿಗೆ ಸಹಾಯ ಮಾಡಿದನು, ಅವಳು ಅವನನ್ನು ಅವಮಾನಿಸಿದಳು",
+"Avanu avaḻigè sahāya māḍidanu, avaḻu avanannu avamānisidaḻu"
+],
+"I did not come yesterday, because I was sick": [
+"ನಾನು ನಿನ್ನೆ ಬಂದಿಲ್ಲ, ಏಕೆಂದರೆ ನಾನು ಅನಾರೋಗ್ಯದಿಂದಿದ್ದೇನೆ",
+"Nānu ninnè baṃdilla, ekèṃdarè nānu anārogyadiṃdiddenè"
+],
+"Car will not start because no petrol": [
+"ಪೆಟ್ರೋಲ್ ಇಲ್ಲದ ಕಾರಣ ಕಾರು ಸ್ಟಾರ್ಟ್ ಆಗುವುದಿಲ್ಲ",
+"Pèṭrol illada kāraṇa kāru sṭārṭ āguvudilla"
+],
+"I was sick so I did not come": [
+"ನನಗೆ ಖಾಯಿಲೆ ಇದ್ದುದರಿಂದ ಬರಲಿಲ್ಲ",
+"Nanagè khāyilè iddudariṃda baralilla"
+],
+"No petrol so car will not start": [
+"ಪೆಟ್ರೋಲ್ ಇಲ್ಲ ಹಾಗಾಗಿ ಕಾರು ಸ್ಟಾರ್ಟ್ ಆಗುವುದಿಲ್ಲ",
+"Pèṭrol illa hāgāgi kāru sṭārṭ āguvudilla"
+],
+"He told her that he is happy": [
+"ಅವರು ಸಂತೋಷವಾಗಿದ್ದಾರೆ ಎಂದು ಹೇಳಿದರು",
+"Avaru saṃtoṣavāgiddārè èṃdu heḻidaru"
+],
+"I am sure that we will succeed": [
+"ನಾವು ಯಶಸ್ವಿಯಾಗುತ್ತೇವೆ ಎಂದು ನನಗೆ ಖಾತ್ರಿಯಿದೆ",
+"Nāvu yaśasviyāguttevè èṃdu nanagè khātriyidè"
+],
+"As you wish, my lord": [
+"ನಿಮ್ಮ ಇಚ್ಛೆಯಂತೆ, ನನ್ನ ಸ್ವಾಮಿ",
+"Nimma icchèyaṃtè, nanna svāmi"
+],
+"Do it the same way as he is doing": [
+"ಅವನು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದಾನೋ ಅದೇ ರೀತಿಯಲ್ಲಿ ಮಾಡಿ",
+"Avanu hegè māḍuttiddāno ade rītiyalli māḍi"
+],
+"He as well as me": [
+"ಅವನೂ ನನ್ನಂತೆಯೇ",
+"Avanū nannaṃtèye"
+],
+"She sang as well as danced": [
+"ಹಾಡುವುದರ ಜೊತೆಗೆ ನೃತ್ಯವನ್ನೂ ಮಾಡಿದ್ದಳು",
+"Hāḍuvudara jòtègè nṛtyavannū māḍiddaḻu"
+],
+"He or me": [
+"ಅವನು ಅಥವಾ ನಾನು",
+"Avanu athavā nānu"
+],
+"Do or die": [
+"ಮಾಡು ಇಲ್ಲವೇ ಮಡಿ",
+"Māḍu illave maḍi"
+],
+"Neither he nor I were interested": [
+"ನನಗಾಗಲಿ ಅವನಿಗಾಗಲಿ ಆಸಕ್ತಿ ಇರಲಿಲ್ಲ",
+"Nanagāgali avanigāgali āsakti iralilla"
+],
+"I finished study then I went to play": [
+"ಓದು ಮುಗಿಸಿ ಆಟವಾಡಲು ಹೋದೆ",
+"Odu mugisi āṭavāḍalu hodè"
+],
+"I will call you then you enter on stage": [
+"ನಾನು ನಿಮ್ಮನ್ನು ಕರೆಯುತ್ತೇನೆ ನಂತರ ನೀವು ವೇದಿಕೆಯ ಮೇಲೆ ಪ್ರವೇಶಿಸಿ",
+"Nānu nimmannu karèyuttenè naṃtara nīvu vedikèya melè praveśisi"
+],
+"As long as you want me, I will stay": [
+"ನೀನು ಎಲ್ಲಿಯವರೆಗೆ ನನ್ನನ್ನು ಬಯಸುತ್ತೀಯೋ ಅಲ್ಲಿಯವರೆಗೆ ನಾನು ಇರುತ್ತೇನೆ",
+"Nīnu èlliyavarègè nannannu bayasuttīyo alliyavarègè nānu iruttenè"
+],
+"As long as you follow rules": [
+"ನೀವು ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುವವರೆಗೆ",
+"Nīvu niyamagaḻannu anusarisuvavarègè"
+],
+"As far as I know, he is studious": [
+"ನನಗೆ ತಿಳಿದ ಮಟ್ಟಿಗೆ ಅವರು ಅಧ್ಯಯನಶೀಲರು",
+"Nanagè tiḻida maṭṭigè avaru adhyayanaśīlaru"
+],
+"As far as India is concerned": [
+"ಭಾರತದ ಮಟ್ಟಿಗೆ",
+"Bhāratada maṭṭigè"
+],
+"As far as literacy is concerned": [
+"ಸಾಕ್ಷರತೆಯ ಮಟ್ಟಿಗೆ",
+"Sākṣaratèya maṭṭigè"
+],
+"He is blaming me as if I have not tried": [
+"ನಾನು ಪ್ರಯತ್ನಿಸಲಿಲ್ಲ ಎಂಬಂತೆ ಅವನು ನನ್ನ ಮೇಲೆ ಆರೋಪ ಮಾಡುತ್ತಿದ್ದಾನೆ",
+"Nānu prayatnisalilla èṃbaṃtè avanu nanna melè āropa māḍuttiddānè"
+],
+"He passed by as if she was not there": [
+"ಅವಳಿಲ್ಲವೆಂಬಂತೆ ಅವನು ಹಾದುಹೋದನು",
+"Avaḻillavèṃbaṃtè avanu hāduhodanu"
+],
+"As soon as he came": [
+"ಬಂದ ಕೂಡಲೇ",
+"Baṃda kūḍale"
+],
+"As soon as she saw": [
+"ಅವಳು ನೋಡಿದ ತಕ್ಷಣ",
+"Avaḻu noḍida takṣaṇa"
+],
+"As soon as they become": [
+"ಅವರು ಆದ ತಕ್ಷಣ",
+"Avaru āda takṣaṇa"
+],
+"Let me know once he comes": [
+"ಅವರು ಬಂದರೆ ಒಮ್ಮೆ ತಿಳಿಸಿ",
+"Avaru baṃdarè òmmè tiḻisi"
+],
+"Once I see your story I will give review": [
+"ನಿಮ್ಮ ಕಥೆಯನ್ನು ನೋಡಿದ ನಂತರ ನಾನು ವಿಮರ್ಶೆಯನ್ನು ನೀಡುತ್ತೇನೆ",
+"Nimma kathèyannu noḍida naṃtara nānu vimarśèyannu nīḍuttenè"
+],
+"Rather than surrendering soldier will accept death": [
+"ಸೈನಿಕನು ಶರಣಾಗುವ ಬದಲು ಸಾವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾನೆ",
+"Sainikanu śaraṇāguva badalu sāvannu òppikòḻḻuttānè"
+],
+"I will take tea rather than coffee": [
+"ನಾನು ಕಾಫಿಗಿಂತ ಟೀ ತೆಗೆದುಕೊಳ್ಳುತ್ತೇನೆ",
+"Nānu kāphigiṃta ṭī tègèdukòḻḻuttenè"
+],
+"I will work hard so that I will win": [
+"ನಾನು ಗೆಲ್ಲಲು ಶ್ರಮಿಸುತ್ತೇನೆ",
+"Nānu gèllalu śramisuttenè"
+],
+"We should avoid plastic so that less pollution": [
+"ಮಾಲಿನ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನಾವು ಪ್ಲಾಸ್ಟಿಕ್ ಅನ್ನು ತ್ಯಜಿಸಬೇಕು",
+"Mālinyavannu kaḍimè māḍalu nāvu plāsṭik annu tyajisabeku"
+],
+"He cheated me whereas I was helping him": [
+"ನಾನು ಅವನಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದಾಗ ಅವನು ನನಗೆ ಮೋಸ ಮಾಡಿದನು",
+"Nānu avanigè sahāya māḍuttiddāga avanu nanagè mosa māḍidanu"
+],
+"Govt said prices declined whereas inflation rose": [
+"ಬೆಲೆ ಇಳಿಕೆ ಆದರೆ ಹಣದುಬ್ಬರ ಏರಿಕೆಯಾಗಿದೆ ಎಂದು ಸರ್ಕಾರ ಹೇಳಿದೆ",
+"Bèlè iḻikè ādarè haṇadubbara erikèyāgidè èṃdu sarkāra heḻidè"
+],
+"I did not know whether he is going": [
+"ಅವನು ಹೋಗುತ್ತಿದ್ದಾನೆಯೇ ಎಂದು ನನಗೆ ತಿಳಿದಿರಲಿಲ್ಲ",
+"Avanu hoguttiddānèye èṃdu nanagè tiḻidiralilla"
+],
+"She could not realize whether to speak or not": [
+"ಮಾತನಾಡಬೇಕೋ ಬೇಡವೋ ಎಂದು ಅವಳಿಗೆ ಅರಿವಾಗಲಿಲ್ಲ",
+"Mātanāḍabeko beḍavo èṃdu avaḻigè arivāgalilla"
+],
+"Do this otherwise you will not win": [
+"ಇದನ್ನು ಮಾಡಿ ಇಲ್ಲದಿದ್ದರೆ ನೀವು ಗೆಲ್ಲುವುದಿಲ್ಲ",
+"Idannu māḍi illadiddarè nīvu gèlluvudilla"
+],
+"He should inform me otherwise I will not know": [
+"ಅವನು ನನಗೆ ತಿಳಿಸಬೇಕು ಇಲ್ಲದಿದ್ದರೆ ನನಗೆ ಗೊತ್ತಿಲ್ಲ",
+"Avanu nanagè tiḻisabeku illadiddarè nanagè gòttilla"
+],
+"I also ran": [
+"ನಾನೂ ಓಡಿದೆ",
+"Nānū oḍidè"
+],
+"He will come tomorrow as well": [
+"ನಾಳೆಯೂ ಬರುತ್ತಾನೆ",
+"Nāḻèyū baruttānè"
+],
+"This is old video. I saw it. I am sharing today": [
+"ಇದು ಹಳೆಯ ವಿಡಿಯೋ. ನಾನು ಅದನ್ನು ನೋಡಿದೆ. ನಾನು ಇಂದು ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+"Idu haḻèya viḍiyo. nānu adannu noḍidè. nānu iṃdu haṃcikòḻḻuttiddenè"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"ಇದು ಹಳೆಯ ವೀಡಿಯೊ, ಆದರೂ ನಾನು ಇದನ್ನು ನೋಡಿದ್ದೇನೆ ಆದ್ದರಿಂದ ನಾನು ಇಂದು ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದೇನೆ",
+"Idu haḻèya vīḍiyò, ādarū nānu idannu noḍiddenè āddariṃda nānu iṃdu haṃcikòḻḻuttiddenè"
+],
+"This is old song. I heard it today": [
+"ಇದು ಹಳೆಯ ಹಾಡು. ಇವತ್ತು ಕೇಳಿದ್ದೆ",
+"Idu haḻèya hāḍu. ivattu keḻiddè"
+],
+"Though it is old song, I heard it today": [
+"ಹಳೆಯ ಹಾಡು ಆದರೂ ಇಂದು ಕೇಳಿದೆ",
+"Haḻèya hāḍu ādarū iṃdu keḻidè"
+],
+"My wife was standing there. He asked about girlfriend": [
+"ಅಲ್ಲಿ ನನ್ನ ಹೆಂಡತಿ ನಿಂತಿದ್ದಳು. ಅವನು ಗೆಳತಿಯ ಬಗ್ಗೆ ಕೇಳಿದನು",
+"Alli nanna hèṃḍati niṃtiddaḻu. avanu gèḻatiya baggè keḻidanu"
+],
+"My wife was standing there yet he asked": [
+"ನನ್ನ ಹೆಂಡತಿ ಅಲ್ಲಿಯೇ ನಿಂತಿದ್ದಳು ಇನ್ನೂ ಅವನು ಕೇಳಿದನು",
+"Nanna hèṃḍati alliye niṃtiddaḻu innū avanu keḻidanu"
+],
+"Policeman was watching. He did not dare to run": [
+"ಪೋಲೀಸರು ನೋಡುತ್ತಿದ್ದರು. ಓಡುವ ಧೈರ್ಯ ಬರಲಿಲ್ಲ",
+"Polīsaru noḍuttiddaru. oḍuva dhairya baralilla"
+],
+"As policeman was watching he did not dare": [
+"ಪೋಲೀಸರು ನೋಡುತ್ತಿದ್ದಂತೆ ಧೈರ್ಯವಿರಲಿಲ್ಲ",
+"Polīsaru noḍuttiddaṃtè dhairyaviralilla"
+],
+"I had illusion of monsters coming": [
+"ರಾಕ್ಷಸರು ಬರುತ್ತಾರೆಂಬ ಭ್ರಮೆ ನನಗಿತ್ತು",
+"Rākṣasaru baruttārèṃba bhramè nanagittu"
+],
+"Now she will search it forever": [
+"ಈಗ ಅವಳು ಅದನ್ನು ಶಾಶ್ವತವಾಗಿ ಹುಡುಕುತ್ತಾಳೆ",
+"Īga avaḻu adannu śāśvatavāgi huḍukuttāḻè"
+],
+"If we think of eating mango then..": [
+"ಮಾವು ತಿನ್ನುವ ಯೋಚನೆ ಮಾಡಿದರೆ..",
+"Māvu tinnuva yocanè māḍidarè.."
+],
+"If he decides to take revenge..": [
+"ಅವನು ಸೇಡು ತೀರಿಸಿಕೊಳ್ಳಲು ನಿರ್ಧರಿಸಿದರೆ..",
+"Avanu seḍu tīrisikòḻḻalu nirdharisidarè.."
+],
+"I have decided a plan for tonight": [
+"ನಾನು ಇಂದು ರಾತ್ರಿಯ ಯೋಜನೆಯನ್ನು ನಿರ್ಧರಿಸಿದೆ",
+"Nānu iṃdu rātriya yojanèyannu nirdharisidè"
+],
+"I feel this way": [
+"ನಾನು ಈ ರೀತಿ ಭಾವಿಸುತ್ತೇನೆ",
+"Nānu ī rīti bhāvisuttenè"
+],
+"I feel this": [
+"ನಾನು ಇದನ್ನು ಅನುಭವಿಸುತ್ತೇನೆ",
+"Nānu idannu anubhavisuttenè"
+],
+"He felt that I will not come": [
+"ನಾನು ಬರುವುದಿಲ್ಲ ಎಂದು ಅವನಿಗೆ ಅನಿಸಿತು",
+"Nānu baruvudilla èṃdu avanigè anisitu"
+],
+"What do you feel?": [
+"ನಿಮಗೆ ಏನನಿಸುತ್ತದೆ?",
+"Nimagè enanisuttadè?"
+],
+"He felt happiness": [
+"ಅವನು ಸಂತೋಷವನ್ನು ಅನುಭವಿಸಿದನು",
+"Avanu saṃtoṣavannu anubhavisidanu"
+],
+"Don't you feel ashamed?": [
+"ನಿಮಗೆ ನಾಚಿಕೆಯಾಗುವುದಿಲ್ಲವೇ?",
+"Nimagè nācikèyāguvudillave?"
+],
+"Kaushik thinks he should go": [
+"ಕೌಶಿಕ್ ಹೋಗಬೇಕು ಎಂದುಕೊಂಡ",
+"Kauśik hogabeku èṃdukòṃḍa"
+],
+"He will feel bad": [
+"ಅವನು ಕೆಟ್ಟದ್ದನ್ನು ಅನುಭವಿಸುವನು",
+"Avanu kèṭṭaddannu anubhavisuvanu"
+],
+"To show different aspects": [
+"ವಿಭಿನ್ನ ಅಂಶಗಳನ್ನು ತೋರಿಸಲು",
+"Vibhinna aṃśagaḻannu torisalu"
+],
+"To follow up & pressurize": [
+"ಅನುಸರಿಸಲು ಮತ್ತು ಒತ್ತಡ ಹೇರಲು",
+"Anusarisalu mattu òttaḍa heralu"
+],
+"Every home same story": [
+"ಪ್ರತಿ ಮನೆಯಲ್ಲೂ ಅದೇ ಕಥೆ",
+"Prati manèyallū ade kathè"
+],
+"To approve formally": [
+"ಔಪಚಾರಿಕವಾಗಿ ಅನುಮೋದಿಸಲು",
+"Aupacārikavāgi anumodisalu"
+],
+"To cause destruction": [
+"ವಿನಾಶವನ್ನು ಉಂಟುಮಾಡಲು",
+"Vināśavannu uṃṭumāḍalu"
+],
+"Repeat like tape": [
+"ಟೇಪ್ನಂತೆ ಪುನರಾವರ್ತಿಸಿ",
+"Ṭepnaṃtè punarāvartisi"
+],
+"To force to do": [
+"ಮಾಡಲು ಒತ್ತಾಯಿಸಲು",
+"Māḍalu òttāyisalu"
+],
+"No control on tongue": [
+"ನಾಲಿಗೆಯ ಮೇಲೆ ನಿಯಂತ್ರಣವಿಲ್ಲ",
+"Nāligèya melè niyaṃtraṇavilla"
+],
+"Not utter a word": [
+"ಒಂದು ಮಾತನ್ನೂ ಹೇಳುವುದಿಲ್ಲ",
+"Òṃdu mātannū heḻuvudilla"
+],
+"To take control": [
+"ನಿಯಂತ್ರಣವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು",
+"Niyaṃtraṇavannu tègèdukòḻḻalu"
+],
+"To feel embarrassed": [
+"ಮುಜುಗರ ಅನುಭವಿಸಲು",
+"Mujugara anubhavisalu"
+],
+"To spew venom": [
+"ವಿಷವನ್ನು ಉಗುಳಲು",
+"Viṣavannu uguḻalu"
+],
+"To uncover mystery": [
+"ರಹಸ್ಯವನ್ನು ಬಹಿರಂಗಪಡಿಸಲು",
+"Rahasyavannu bahiraṃgapaḍisalu"
+],
+"To be puzzled": [
+"ಗೊಂದಲಕ್ಕೊಳಗಾಗಬೇಕು",
+"Gòṃdalakkòḻagāgabeku"
+],
+"To defeat completely": [
+"ಸಂಪೂರ್ಣವಾಗಿ ಸೋಲಿಸಲು",
+"Saṃpūrṇavāgi solisalu"
+],
+"If employee works 1 year, gratuity right": [
+"ಉದ್ಯೋಗಿ 1 ವರ್ಷ ಕೆಲಸ ಮಾಡಿದರೆ, ಗ್ರಾಚ್ಯುಟಿ ಹಕ್ಕು",
+"Udyogi 1 varṣa kèlasa māḍidarè, grācyuṭi hakku"
+],
+"If wrong info given, disciplinary action": [
+"ತಪ್ಪು ಮಾಹಿತಿ ನೀಡಿದರೆ ಶಿಸ್ತು ಕ್ರಮ",
+"Tappu māhiti nīḍidarè śistu krama"
+],
+"If possible, come to meet me": [
+"ಸಾಧ್ಯವಾದರೆ ನನ್ನನ್ನು ಭೇಟಿಯಾಗಲು ಬನ್ನಿ",
+"Sādhyavādarè nannannu bheṭiyāgalu banni"
+],
+"What does this mean?": [
+"ಇದರ ಅರ್ಥವೇನು?",
+"Idara arthavenu?"
+],
+"I came because you called": [
+"ನೀನು ಕರೆದಿದ್ದರಿಂದ ಬಂದೆ",
+"Nīnu karèdiddariṃda baṃdè"
+],
+"Someone called Kaushik has come": [
+"ಕೌಶಿಕ್ ಎಂದು ಯಾರೋ ಬಂದಿದ್ದಾರೆ",
+"Kauśik èṃdu yāro baṃdiddārè"
+],
+"Someone named Kaushik has come": [
+"ಕೌಶಿಕ್ ಎನ್ನುವವರು ಬಂದಿದ್ದಾರೆ",
+"Kauśik ènnuvavaru baṃdiddārè"
+],
+"Why do you want it for?": [
+"ನೀವು ಅದನ್ನು ಏಕೆ ಬಯಸುತ್ತೀರಿ?",
+"Nīvu adannu ekè bayasuttīri?"
+],
+"What is its reason?": [
+"ಅದರ ಕಾರಣವೇನು?",
+"Adara kāraṇavenu?"
+],
+"You only complete this": [
+"ನೀವು ಇದನ್ನು ಮಾತ್ರ ಪೂರ್ಣಗೊಳಿಸಿ",
+"Nīvu idannu mātra pūrṇagòḻisi"
+],
+"It is you who told": [
+"ಹೇಳಿದ್ದು ನೀವೇ",
+"Heḻiddu nīve"
+],
+"I want it tomorrow itself": [
+"ನನಗೆ ನಾಳೆಯೇ ಬೇಕು",
+"Nanagè nāḻèye beku"
+],
+"I am bored": [
+"ನನಗೆ ಬೇಸರವಾಗಿದೆ",
+"Nanagè besaravāgidè"
+],
+"He was bored": [
+"ಅವನಿಗೆ ಬೇಸರವಾಯಿತು",
+"Avanigè besaravāyitu"
+],
+"Relative / Relatives": [
+"ಸಂಬಂಧಿಗಳು / ಸಂಬಂಧಿಗಳು",
+"Saṃbaṃdhigaḻu / saṃbaṃdhigaḻu"
+],
+"Father's brother's wife": [
+"ತಂದೆಯ ಸಹೋದರನ ಹೆಂಡತಿ",
+"Taṃdèya sahodarana hèṃḍati"
+],
+"Father's brother's son": [
+"ತಂದೆಯ ಸಹೋದರನ ಮಗ",
+"Taṃdèya sahodarana maga"
+],
+"Father's brother's daughter": [
+"ತಂದೆಯ ಅಣ್ಣನ ಮಗಳು",
+"Taṃdèya aṇṇana magaḻu"
+],
+"Mother's brother's wife": [
+"ತಾಯಿಯ ಸಹೋದರನ ಹೆಂಡತಿ",
+"Tāyiya sahodarana hèṃḍati"
+],
+"Mother's brother's son": [
+"ತಾಯಿಯ ಅಣ್ಣನ ಮಗ",
+"Tāyiya aṇṇana maga"
+],
+"Mother's brother's daughter": [
+"ತಾಯಿಯ ಅಣ್ಣನ ಮಗಳು",
+"Tāyiya aṇṇana magaḻu"
+],
+"Father's sister's son": [
+"ತಂದೆಯ ಸಹೋದರಿಯ ಮಗ",
+"Taṃdèya sahodariya maga"
+],
+"Father's sister's daughter": [
+"ತಂದೆಯ ತಂಗಿಯ ಮಗಳು",
+"Taṃdèya taṃgiya magaḻu"
+],
+"Father's sister's husband": [
+"ತಂದೆಯ ಸಹೋದರಿಯ ಪತಿ",
+"Taṃdèya sahodariya pati"
+],
+"Mother's sister's son": [
+"ತಾಯಿಯ ತಂಗಿಯ ಮಗ",
+"Tāyiya taṃgiya maga"
+],
+"Mother's sister's daughter": [
+"ತಾಯಿಯ ತಂಗಿಯ ಮಗಳು",
+"Tāyiya taṃgiya magaḻu"
+],
+"Mother's sister's husband": [
+"ತಾಯಿಯ ಸಹೋದರಿಯ ಪತಿ",
+"Tāyiya sahodariya pati"
+],
+"Great grand father": [
+"ದೊಡ್ಡ ಅಜ್ಜ",
+"Dòḍḍa ajja"
+],
+"Great grand mother": [
+"ದೊಡ್ಡ ಅಜ್ಜಿ",
+"Dòḍḍa ajji"
+],
+"Son's wife / Daughter in law": [
+"ಮಗನ ಹೆಂಡತಿ / ಸೊಸೆ",
+"Magana hèṃḍati / sòsè"
+],
+"Daughter's husband / Son in law": [
+"ಮಗಳ ಗಂಡ / ಅಳಿಯ",
+"Magaḻa gaṃḍa / aḻiya"
+],
+"Father in law": [
+"ಮಾವ",
+"Māva"
+],
+"Mother in law": [
+"ಅತ್ತೆ",
+"Attè"
+],
+"Father in law's father": [
+"ಮಾವ ತಂದೆ",
+"Māva taṃdè"
+],
+"We": [
+"ನಾವು",
+"Nāvu"
+],
+"You (singular)": [
+"ನೀವು (ಏಕವಚನ)",
+"Nīvu (ekavacana)"
+],
+"You (plural)": [
+"ನೀವು (ಬಹುವಚನ)",
+"Nīvu (bahuvacana)"
+],
+"This (m.)": [
+"ಇದು (ಮೀ.)",
+"Idu (mī.)"
+],
+"This (f.)": [
+"ಇದು (ಎಫ್.)",
+"Idu (èph.)"
+],
+"This (n.)": [
+"ಇದು (ಎನ್.)",
+"Idu (èn.)"
+],
+"These (m.)": [
+"ಇವು (ಮೀ.)",
+"Ivu (mī.)"
+],
+"These (f.)": [
+"ಇವು (ಎಫ್.)",
+"Ivu (èph.)"
+],
+"These (n.)": [
+"ಇವು (ಎನ್.)",
+"Ivu (èn.)"
+],
+"Self": [
+"ಸ್ವಯಂ",
+"Svayaṃ"
+],
+"Sing": [
+"ಹಾಡಿರಿ",
+"Hāḍiri"
+],
+"Beat": [
+"ಬೀಟ್",
+"Bīṭ"
+],
+"Write": [
+"ಬರೆಯಿರಿ",
+"Barèyiri"
+],
+"Do": [
+"ಮಾಡು",
+"Māḍu"
+],
+"Get up": [
+"ಎದ್ದೇಳು",
+"Èddeḻu"
+],
+"Stop": [
+"ನಿಲ್ಲಿಸು",
+"Nillisu"
+],
+"Close": [
+"ಮುಚ್ಚಿ",
+"Mucci"
+],
+"I (male)": [
+"ನಾನು (ಪುರುಷ)",
+"Nānu (puruṣa)"
+],
+"I (female)": [
+"ನಾನು (ಮಹಿಳೆ)",
+"Nānu (mahiḻè)"
+],
+"We dance": [
+"ನಾವು ನೃತ್ಯ ಮಾಡುತ್ತೇವೆ",
+"Nāvu nṛtya māḍuttevè"
+],
+"He walks": [
+"ಅವನು ನಡೆಯುತ್ತಾನೆ",
+"Avanu naḍèyuttānè"
+],
+"She speaks": [
+"ಅವಳು ಮಾತನಾಡುತ್ತಾಳೆ",
+"Avaḻu mātanāḍuttāḻè"
+],
+"It moves": [
+"ಇದು ಚಲಿಸುತ್ತದೆ",
+"Idu calisuttadè"
+],
+"They dance": [
+"ಅವರು ನೃತ್ಯ ಮಾಡುತ್ತಾರೆ",
+"Avaru nṛtya māḍuttārè"
+],
+"You (singular/plural)": [
+"ನೀವು (ಏಕವಚನ/ಬಹುವಚನ)",
+"Nīvu (ekavacana/bahuvacana)"
+],
+"They (all)": [
+"ಅವರು (ಎಲ್ಲ)",
+"Avaru (èlla)"
+],
+"I (male/female)": [
+"ನಾನು (ಗಂಡು/ಹೆಣ್ಣು)",
+"Nānu (gaṃḍu/hèṇṇu)"
+],
+"He": [
+"ಅವನು",
+"Avanu"
+],
+"She": [
+"ಅವಳು",
+"Avaḻu"
+],
+"It": [
+"ಇದು",
+"Idu"
+],
+"They (m.)": [
+"ಅವರು (ಮೀ.)",
+"Avaru (mī.)"
+],
+"They (f.)": [
+"ಅವರು (ಎಫ್.)",
+"Avaru (èph.)"
+],
+"They (n.)": [
+"ಅವರು (ಎನ್.)",
+"Avaru (èn.)"
+],
+"This (Male)": [
+"ಇದು (ಪುರುಷ)",
+"Idu (puruṣa)"
+],
+"This (Female)": [
+"ಇದು (ಮಹಿಳೆ)",
+"Idu (mahiḻè)"
+],
+"This (neuter)": [
+"ಇದು (ನಪುಂಸಕ)",
+"Idu (napuṃsaka)"
+],
+"These (male/female/neuter)": [
+"ಇವು (ಗಂಡು/ಹೆಣ್ಣು/ನಪುಂಸಕ)",
+"Ivu (gaṃḍu/hèṇṇu/napuṃsaka)"
+],
+"about": [
+"ಸುಮಾರು",
+"Sumāru"
+],
+"across": [
+"ಅಡ್ಡಲಾಗಿ",
+"Aḍḍalāgi"
+],
+"against": [
+"ವಿರುದ್ಧ",
+"Viruddha"
+],
+"Among": [
+"ನಡುವೆ",
+"Naḍuvè"
+],
+"Around": [
+"ಸುಮಾರು",
+"Sumāru"
+],
+"As/like": [
+"ಹಾಗೆ/ಇಷ್ಟ",
+"Hāgè/iṣṭa"
+],
+"aside": [
+"ಪಕ್ಕಕ್ಕೆ",
+"Pakkakkè"
+],
+"for": [
+"ಫಾರ್",
+"Phār"
+],
+"From/since": [
+"ಇಂದ/ಅಂದಿನಿಂದ",
+"Iṃda/aṃdiniṃda"
+],
+"in": [
+"ಒಳಗೆ",
+"Òḻagè"
+],
+"till/until": [
+"ತನಕ / ತನಕ",
+"Tanaka / tanaka"
+],
+"without": [
+"ಇಲ್ಲದೆ",
+"Illadè"
+],
+"during": [
+"ಸಮಯದಲ್ಲಿ",
+"Samayadalli"
+],
+"Near/close to": [
+"ಹತ್ತಿರ/ಹತ್ತಿರ",
+"Hattira/hattira"
+],
+"towards": [
+"ಕಡೆಗೆ",
+"Kaḍègè"
+],
+"with": [
+"ಜೊತೆಗೆ",
+"Jòtègè"
+],
+"Instead of": [
+"ಬದಲಿಗೆ",
+"Badaligè"
+],
+"Prior to": [
+"ಮೊದಲು",
+"Mòdalu"
+],
+"Because of": [
+"ಏಕೆಂದರೆ",
+"Ekèṃdarè"
+],
+"According to": [
+"ಪ್ರಕಾರ",
+"Prakāra"
+],
+"Through": [
+"ಮೂಲಕ",
+"Mūlaka"
+],
+"You speak": [
+"ನೀನು ಮಾತಾಡು",
+"Nīnu mātāḍu"
+],
+"Read it": [
+"ಅದನ್ನು ಓದಿ",
+"Adannu odi"
+],
+"Do it": [
+"ಅದನ್ನು ಮಾಡು",
+"Adannu māḍu"
+],
+"You go": [
+"ನೀನು ಹೋಗು",
+"Nīnu hogu"
+],
+"You give": [
+"ನೀನು ಕೊಡು",
+"Nīnu kòḍu"
+],
+"You drink": [
+"ನೀವು ಕುಡಿಯಿರಿ",
+"Nīvu kuḍiyiri"
+],
+"Toy moved": [
+"ಆಟಿಕೆ ಚಲಿಸಿತು",
+"Āṭikè calisitu"
+],
+"To cook": [
+"ಅಡುಗೆ ಮಾಡಲು",
+"Aḍugè māḍalu"
+],
+"Rice cooked": [
+"ಅಕ್ಕಿ ಬೇಯಿಸಲಾಗುತ್ತದೆ",
+"Akki beyisalāguttadè"
+],
+"To die": [
+"ಸಾಯಲು",
+"Sāyalu"
+],
+"To fall": [
+"ಬೀಳಲು",
+"Bīḻalu"
+],
+"Glass broke": [
+"ಗಾಜು ಒಡೆದಿದೆ",
+"Gāju òḍèdidè"
+],
+"To leave": [
+"ಬಿಡಲು",
+"Biḍalu"
+],
+"To drink": [
+"ಕುಡಿಯಲು",
+"Kuḍiyalu"
+],
+"To eat": [
+"ತಿನ್ನಲು",
+"Tinnalu"
+],
+"To feed": [
+"ಆಹಾರಕ್ಕಾಗಿ",
+"Āhārakkāgi"
+],
+"To speak": [
+"ಮಾತನಾಡಲು",
+"Mātanāḍalu"
+],
+"To run": [
+"ಓಡಲು",
+"Oḍalu"
+],
+"my": [
+"ನನ್ನ",
+"Nanna"
+],
+"speaking": [
+"ಮಾತನಾಡುವ",
+"Mātanāḍuva"
+],
+"your": [
+"ನಿಮ್ಮ",
+"Nimma"
+],
+"his": [
+"ಅವನ",
+"Avana"
+],
+"Ram's": [
+"ರಾಮ್ ಅವರ",
+"Rām avara"
+],
+"dance": [
+"ನೃತ್ಯ",
+"Nṛtya"
+],
+"About speaking": [
+"ಮಾತನಾಡುವ ಬಗ್ಗೆ",
+"Mātanāḍuva baggè"
+],
+"For eating": [
+"ತಿನ್ನುವುದಕ್ಕಾಗಿ",
+"Tinnuvudakkāgi"
+],
+"while speaking": [
+"ಮಾತನಾಡುವಾಗ",
+"Mātanāḍuvāga"
+],
+"while doing": [
+"ಮಾಡುವಾಗ",
+"Māḍuvāga"
+],
+"while dancing": [
+"ನೃತ್ಯ ಮಾಡುವಾಗ",
+"Nṛtya māḍuvāga"
+],
+"to see": [
+"ನೋಡಲು",
+"Noḍalu"
+],
+"to do": [
+"ಮಾಡಲು",
+"Māḍalu"
+],
+"to dance": [
+"ನೃತ್ಯ ಮಾಡಲು",
+"Nṛtya māḍalu"
+],
+"Black horse": [
+"ಕಪ್ಪು ಕುದುರೆ",
+"Kappu kudurè"
+],
+"Black chair": [
+"ಕಪ್ಪು ಕುರ್ಚಿ",
+"Kappu kurci"
+],
+"Black page": [
+"ಕಪ್ಪು ಪುಟ",
+"Kappu puṭa"
+],
+"Black horses": [
+"ಕಪ್ಪು ಕುದುರೆಗಳು",
+"Kappu kudurègaḻu"
+],
+"Black chairs": [
+"ಕಪ್ಪು ಕುರ್ಚಿಗಳು",
+"Kappu kurcigaḻu"
+],
+"Black pages": [
+"ಕಪ್ಪು ಪುಟಗಳು",
+"Kappu puṭagaḻu"
+],
+"Good horse": [
+"ಒಳ್ಳೆಯ ಕುದುರೆ",
+"Òḻḻèya kudurè"
+],
+"Good chair": [
+"ಒಳ್ಳೆಯ ಕುರ್ಚಿ",
+"Òḻḻèya kurci"
+],
+"Easy exam": [
+"ಸುಲಭ ಪರೀಕ್ಷೆ",
+"Sulabha parīkṣè"
+],
+"Red horse": [
+"ಕೆಂಪು ಕುದುರೆ",
+"Kèṃpu kudurè"
+],
+"Beautiful drawing": [
+"ಸುಂದರ ರೇಖಾಚಿತ್ರ",
+"Suṃdara rekhācitra"
+],
+"Talking boy": [
+"ಮಾತನಾಡುವ ಹುಡುಗ",
+"Mātanāḍuva huḍuga"
+],
+"Rotating fan": [
+"ತಿರುಗುವ ಫ್ಯಾನ್",
+"Tiruguva phyān"
+],
+"Talking girl": [
+"ಮಾತನಾಡುವ ಹುಡುಗಿ",
+"Mātanāḍuva huḍugi"
+],
+"Moving chair": [
+"ಚಲಿಸುವ ಕುರ್ಚಿ",
+"Calisuva kurci"
+],
+"Flying saucer": [
+"ಹಾರುವ ತಟ್ಟೆ",
+"Hāruva taṭṭè"
+],
+"Talking book": [
+"ಮಾತನಾಡುವ ಪುಸ್ತಕ",
+"Mātanāḍuva pustaka"
+],
+"Moving tree": [
+"ಚಲಿಸುವ ಮರ",
+"Calisuva mara"
+],
+"Talked boy": [
+"ಮಾತನಾಡಿದ ಹುಡುಗ",
+"Mātanāḍida huḍuga"
+],
+"Rotated fan": [
+"ತಿರುಗಿಸಿದ ಫ್ಯಾನ್",
+"Tirugisida phyān"
+],
+"Talked girl": [
+"ಮಾತನಾಡಿದ ಹುಡುಗಿ",
+"Mātanāḍida huḍugi"
+],
+"Moved chair": [
+"ಸರಿಸಿದ ಕುರ್ಚಿ",
+"Sarisida kurci"
+],
+"Flown saucer": [
+"ಹಾರಿಹೋದ ತಟ್ಟೆ",
+"Hārihoda taṭṭè"
+],
+"Talked book": [
+"ಮಾತನಾಡಿದ ಪುಸ್ತಕ",
+"Mātanāḍida pustaka"
+],
+"Moved tree": [
+"ಸರಿಸಿದ ಮರ",
+"Sarisida mara"
+],
+"What happened?": [
+"ಏನಾಯಿತು?",
+"Enāyitu?"
+],
+"More bitter": [
+"ಹೆಚ್ಚು ಕಹಿ",
+"Hèccu kahi"
+],
+"Most bitter": [
+"ಅತ್ಯಂತ ಕಹಿ",
+"Atyaṃta kahi"
+],
+"Tall": [
+"ಎತ್ತರದ",
+"Èttarada"
+],
+"Taller": [
+"ಎತ್ತರ",
+"Èttara"
+],
+"Tallest": [
+"ಎತ್ತರದ",
+"Èttarada"
+],
+"Better": [
+"ಉತ್ತಮ",
+"Uttama"
+],
+"Best": [
+"ಅತ್ಯುತ್ತಮ",
+"Atyuttama"
+],
+"Let's play": [
+"ಆಡೋಣ",
+"Āḍoṇa"
+],
+"Let's go": [
+"ಹೋಗೋಣ",
+"Hogoṇa"
+],
+"Let's speak": [
+"ಮಾತನಾಡೋಣ",
+"Mātanāḍoṇa"
+],
+"Really!": [
+"ನಿಜವಾಗಿಯೂ!",
+"Nijavāgiyū!"
+],
+"How big!": [
+"ಎಷ್ಟು ದೊಡ್ಡದು!",
+"Èṣṭu dòḍḍadu!"
+],
+"Very bad": [
+"ತುಂಬಾ ಕೆಟ್ಟದು",
+"Tuṃbā kèṭṭadu"
+],
+"Good handwriting": [
+"ಉತ್ತಮ ಕೈಬರಹ",
+"Uttama kaibaraha"
+],
+"Very Good": [
+"ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ",
+"Tuṃbā cènnāgidè"
+],
+"Excellent!": [
+"ಅತ್ಯುತ್ತಮ!",
+"Atyuttama!"
+],
+"Speaking phone": [
+"ಮಾತನಾಡುವ ಫೋನ್",
+"Mātanāḍuva phon"
+],
+"Something fishy": [
+"ಏನೋ ಮೀನಮೇಷ",
+"Eno mīnameṣa"
+],
+"Dampen spirit": [
+"ಚೈತನ್ಯವನ್ನು ತಗ್ಗಿಸಿ",
+"Caitanyavannu taggisi"
+],
+"To threaten": [
+"ಬೆದರಿಕೆ ಹಾಕಲು",
+"Bèdarikè hākalu"
+],
+"After-effects": [
+"ನಂತರದ ಪರಿಣಾಮಗಳು",
+"Naṃtarada pariṇāmagaḻu"
+],
+"To override/violate": [
+"ಅತಿಕ್ರಮಿಸಲು/ಉಲ್ಲಂಘಿಸಲು",
+"Atikramisalu/ullaṃghisalu"
+],
+"To renounce": [
+"ತ್ಯಜಿಸಲು",
+"Tyajisalu"
+],
+"To pretend": [
+"ನಟಿಸಲು",
+"Naṭisalu"
+],
+"To trap": [
+"ಬಲೆಗೆ ಬೀಳಿಸಲು",
+"Balègè bīḻisalu"
+],
+"To support": [
+"ಬೆಂಬಲಿಸಲು",
+"Bèṃbalisalu"
+],
+"To strike": [
+"ಹೊಡೆಯಲು",
+"Hòḍèyalu"
+],
+"To pardon": [
+"ಕ್ಷಮಿಸಲು",
+"Kṣamisalu"
+],
+"Cryptography means?": [
+"ಕ್ರಿಪ್ಟೋಗ್ರಫಿ ಎಂದರೆ?",
+"Kripṭographi èṃdarè?"
+],
+"Relation": [
+"ಸಂಬಂಧ",
+"Saṃbaṃdha"
+],
+"Direct brother": [
+"ನೇರ ಸಹೋದರ",
+"Nera sahodara"
+],
+"Direct sister": [
+"ನೇರ ಸಹೋದರಿ",
+"Nera sahodari"
+],
+"Grand father": [
+"ಅಜ್ಜ ತಂದೆ",
+"Ajja taṃdè"
+],
+"Grand mother": [
+"ಅಜ್ಜಿ",
+"Ajji"
+],
+"Father's brother": [
+"ತಂದೆಯ ಸಹೋದರ",
+"Taṃdèya sahodara"
+],
+"Mother's brother": [
+"ತಾಯಿಯ ಸಹೋದರ",
+"Tāyiya sahodara"
+],
+"Father's sister": [
+"ತಂದೆಯ ಸಹೋದರಿ",
+"Taṃdèya sahodari"
+],
+"Mother's sister": [
+"ತಾಯಿಯ ತಂಗಿ",
+"Tāyiya taṃgi"
+],
+"Grandson's wife": [
+"ಮೊಮ್ಮಗನ ಹೆಂಡತಿ",
+"Mòmmagana hèṃḍati"
+],
+"Great grandson": [
+"ದೊಡ್ಡ ಮೊಮ್ಮಗ",
+"Dòḍḍa mòmmaga"
+],
+"Great granddaughter": [
+"ದೊಡ್ಡ ಮೊಮ್ಮಗಳು",
+"Dòḍḍa mòmmagaḻu"
+],
+"Husband's brother": [
+"ಗಂಡನ ಸಹೋದರ",
+"Gaṃḍana sahodara"
+],
+"Husband's sister": [
+"ಗಂಡನ ತಂಗಿ",
+"Gaṃḍana taṃgi"
+],
+"Wife's brother": [
+"ಹೆಂಡತಿಯ ಸಹೋದರ",
+"Hèṃḍatiya sahodara"
+],
+"Wife's sister": [
+"ಹೆಂಡತಿಯ ತಂಗಿ",
+"Hèṃḍatiya taṃgi"
+],
+"Sister's husband": [
+"ತಂಗಿಯ ಗಂಡ",
+"Taṃgiya gaṃḍa"
+],
+"Sister's son": [
+"ತಂಗಿಯ ಮಗ",
+"Taṃgiya maga"
+],
+"Sister's daughter": [
+"ತಂಗಿಯ ಮಗಳು",
+"Taṃgiya magaḻu"
+],
+"Friend (boy)": [
+"ಸ್ನೇಹಿತ (ಹುಡುಗ)",
+"Snehita (huḍuga)"
+],
+"Friend (girl)": [
+"ಸ್ನೇಹಿತ (ಹುಡುಗಿ)",
+"Snehita (huḍugi)"
+],
+"Bridegroom": [
+"ಮದುಮಗ",
+"Madumaga"
+],
+"Adopted son": [
+"ದತ್ತು ಪಡೆದ ಮಗ",
+"Dattu paḍèda maga"
+],
+"Adopted daughter": [
+"ದತ್ತು ಪಡೆದ ಮಗಳು",
+"Dattu paḍèda magaḻu"
+],
+"Assumed son": [
+"ಊಹಿಸಿದ ಮಗ",
+"Ūhisida maga"
+],
+"Assumed daughter": [
+"ಊಹಿಸಿದ ಮಗಳು",
+"Ūhisida magaḻu"
+],
+"To wash": [
+"ತೊಳೆಯಲು",
+"Tòḻèyalu"
+],
+"To brush": [
+"ಬ್ರಷ್ ಮಾಡಲು",
+"Braṣ māḍalu"
+],
+"To gargle": [
+"ಗಾರ್ಗ್ಲ್ ಮಾಡಲು",
+"Gārgl māḍalu"
+],
+"To fold": [
+"ಮಡಚಲು",
+"Maḍacalu"
+],
+"To urinate": [
+"ಮೂತ್ರ ವಿಸರ್ಜಿಸಲು",
+"Mūtra visarjisalu"
+],
+"To exercise": [
+"ವ್ಯಾಯಾಮ ಮಾಡಲು",
+"Vyāyāma māḍalu"
+],
+"To bath": [
+"ಸ್ನಾನ ಮಾಡಲು",
+"Snāna māḍalu"
+],
+"To change": [
+"ಬದಲಾಯಿಸಲು",
+"Badalāyisalu"
+],
+"To wear": [
+"ಧರಿಸಲು",
+"Dharisalu"
+],
+"To comb": [
+"ಬಾಚಣಿಗೆ",
+"Bācaṇigè"
+],
+"To apply": [
+"ಅರ್ಜಿ ಸಲ್ಲಿಸಲು",
+"Arji sallisalu"
+],
+"To close": [
+"ಮುಚ್ಚಲು",
+"Muccalu"
+],
+"To sit": [
+"ಕುಳಿತುಕೊಳ್ಳಲು",
+"Kuḻitukòḻḻalu"
+],
+"To start": [
+"ಪ್ರಾರಂಭಿಸಲು",
+"Prāraṃbhisalu"
+],
+"To reach": [
+"ತಲುಪಲು",
+"Talupalu"
+],
+"To work": [
+"ಕೆಲಸ ಮಾಡಲು",
+"Kèlasa māḍalu"
+],
+"To speak/say/talk": [
+"ಮಾತನಾಡಲು/ಹೇಳಲು/ಮಾತನಾಡಲು",
+"Mātanāḍalu/heḻalu/mātanāḍalu"
+],
+"To answer": [
+"ಉತ್ತರಿಸಲು",
+"Uttarisalu"
+],
+"To send": [
+"ಕಳುಹಿಸಲು",
+"Kaḻuhisalu"
+],
+"To chitchat": [
+"ಚಿಟ್ಚಾಟ್ ಮಾಡಲು",
+"Ciṭcāṭ māḍalu"
+],
+"To buy": [
+"ಖರೀದಿಸಲು",
+"Kharīdisalu"
+],
+"To sell": [
+"ಮಾರಾಟ ಮಾಡಲು",
+"Mārāṭa māḍalu"
+],
+"To put/keep": [
+"ಇರಿಸಲು / ಇರಿಸಲು",
+"Irisalu / irisalu"
+],
+"To put": [
+"ಹಾಕಲು",
+"Hākalu"
+],
+"To count": [
+"ಎಣಿಸಲು",
+"Èṇisalu"
+],
+"To stand": [
+"ನಿಲ್ಲಲು",
+"Nillalu"
+],
+"To listen": [
+"ಕೇಳಲು",
+"Keḻalu"
+],
+"To return": [
+"ಹಿಂತಿರುಗಲು",
+"Hiṃtirugalu"
+],
+"To open": [
+"ತೆರೆಯಲು",
+"Tèrèyalu"
+],
+"To lift": [
+"ಎತ್ತಲು",
+"Èttalu"
+],
+"To play": [
+"ಆಡಲು",
+"Āḍalu"
+],
+"To jump": [
+"ನೆಗೆಯಲು",
+"Nègèyalu"
+],
+"To hide": [
+"ಮರೆಮಾಡಲು",
+"Marèmāḍalu"
+],
+"To search": [
+"ಹುಡುಕಲು",
+"Huḍukalu"
+],
+"To recite": [
+"ಪಠಿಸಲು",
+"Paṭhisalu"
+],
+"To sing": [
+"ಹಾಡಲು",
+"Hāḍalu"
+],
+"To shout": [
+"ಕೂಗಲು",
+"Kūgalu"
+],
+"To throw": [
+"ಎಸೆಯಲು",
+"Èsèyalu"
+],
+"To hit": [
+"ಹೊಡೆಯಲು",
+"Hòḍèyalu"
+],
+"To ask": [
+"ಕೇಳಲು",
+"Keḻalu"
+],
+"To clean": [
+"ಸ್ವಚ್ಛಗೊಳಿಸಲು",
+"Svacchagòḻisalu"
+],
+"To cut": [
+"ಕತ್ತರಿಸಲು",
+"Kattarisalu"
+],
+"To break": [
+"ಮುರಿಯಲು",
+"Muriyalu"
+],
+"To burst": [
+"ಸಿಡಿಯಲು",
+"Siḍiyalu"
+],
+"To write": [
+"ಬರೆಯಲು",
+"Barèyalu"
+],
+"Accept": [
+"ಸ್ವೀಕರಿಸಿ",
+"Svīkarisi"
+],
+"Bring": [
+"ತನ್ನಿ",
+"Tanni"
+],
+"Complain": [
+"ದೂರು ನೀಡಿ",
+"Dūru nīḍi"
+],
+"Draw": [
+"ಎಳೆಯಿರಿ",
+"Èḻèyiri"
+],
+"Fall": [
+"ಪತನ",
+"Patana"
+],
+"Fill": [
+"ಭರ್ತಿ ಮಾಡಿ",
+"Bharti māḍi"
+],
+"Start/begin": [
+"ಪ್ರಾರಂಭಿಸಿ/ಪ್ರಾರಂಭಿಸಿ",
+"Prāraṃbhisi/prāraṃbhisi"
+],
+"Finish": [
+"ಮುಗಿಸು",
+"Mugisu"
+],
+"Live": [
+"ಲೈವ್",
+"Laiv"
+],
+"See/watch/look": [
+"ನೋಡಿ/ನೋಡಿ/ನೋಡಿ",
+"Noḍi/noḍi/noḍi"
+],
+"Use": [
+"ಬಳಸಿ",
+"Baḻasi"
+],
+"Teach": [
+"ಕಲಿಸು",
+"Kalisu"
+],
+"Study": [
+"ಅಧ್ಯಯನ",
+"Adhyayana"
+],
+"Read": [
+"ಓದು",
+"Odu"
+],
+"Make/prepare": [
+"ತಯಾರಿಸಿ/ತಯಾರಿಸು",
+"Tayārisi/tayārisu"
+],
+"Fly": [
+"ಫ್ಲೈ",
+"Phlai"
+],
+"Get bored": [
+"ಬೇಸರ ಮಾಡಿಕೊಳ್ಳಿ",
+"Besara māḍikòḻḻi"
+],
+"Leave": [
+"ಬಿಡು",
+"Biḍu"
+],
+"Want/need": [
+"ಬೇಕು/ಬೇಕು",
+"Beku/beku"
+],
+"Sign": [
+"ಸಹಿ ಮಾಡಿ",
+"Sahi māḍi"
+],
+"Swim": [
+"ಈಜು",
+"Īju"
+],
+"Try": [
+"ಪ್ರಯತ್ನಿಸಿ",
+"Prayatnisi"
+],
+"Worry": [
+"ಚಿಂತೆ",
+"Ciṃtè"
+],
+"Achieve": [
+"ಸಾಧಿಸಿ",
+"Sādhisi"
+],
+"Admit (mistake)": [
+"ಒಪ್ಪಿಕೊಳ್ಳಿ (ತಪ್ಪು)",
+"Òppikòḻḻi (tappu)"
+],
+"Admit (school)": [
+"ಪ್ರವೇಶ (ಶಾಲೆ)",
+"Praveśa (śālè)"
+],
+"Afford": [
+"ಭರಿಸುತ್ತಾರೆ",
+"Bharisuttārè"
+],
+"Win": [
+"ಗೆಲ್ಲು",
+"Gèllu"
+],
+"Lose": [
+"ಕಳೆದುಕೊಳ್ಳು",
+"Kaḻèdukòḻḻu"
+],
+"Shake": [
+"ಅಲ್ಲಾಡಿಸಿ",
+"Allāḍisi"
+],
+"Decide": [
+"ನಿರ್ಧರಿಸಿ",
+"Nirdharisi"
+],
+"Hold": [
+"ಹಿಡಿದುಕೊಳ್ಳಿ",
+"Hiḍidukòḻḻi"
+],
+"Choose": [
+"ಆಯ್ಕೆ ಮಾಡಿ",
+"Āykè māḍi"
+],
+"Turn": [
+"ತಿರುಗಿ",
+"Tirugi"
+],
+"Rise": [
+"ಏರಿಸು",
+"Erisu"
+],
+"Set (sun,moon)": [
+"ಅಸ್ತಮಿ (ಸೂರ್ಯ, ಚಂದ್ರ)",
+"Astami (sūrya, caṃdra)"
+],
+"Deny": [
+"ನಿರಾಕರಿಸು",
+"Nirākarisu"
+],
+"To reproach/blame": [
+"ನಿಂದಿಸಲು/ದೂಷಿಸಲು",
+"Niṃdisalu/dūṣisalu"
+],
+"To color": [
+"ಬಣ್ಣ ಮಾಡಲು",
+"Baṇṇa māḍalu"
+],
+"To destroy": [
+"ನಾಶಮಾಡಲು",
+"Nāśamāḍalu"
+],
+"Big": [
+"ದೊಡ್ಡದು",
+"Dòḍḍadu"
+],
+"Small": [
+"ಚಿಕ್ಕದು",
+"Cikkadu"
+],
+"Deep": [
+"ಆಳವಾದ",
+"Āḻavāda"
+],
+"Shallow": [
+"ಆಳವಿಲ್ಲದ",
+"Āḻavillada"
+],
+"Simple": [
+"ಸರಳ",
+"Saraḻa"
+],
+"Special": [
+"ವಿಶೇಷ",
+"Viśeṣa"
+],
+"Faint": [
+"ಮೂರ್ಛೆ ಹೋಗು",
+"Mūrchè hogu"
+],
+"Short": [
+"ಚಿಕ್ಕದು",
+"Cikkadu"
+],
+"Thin": [
+"ತೆಳುವಾದ",
+"Tèḻuvāda"
+],
+"Wide": [
+"ಅಗಲ",
+"Agala"
+],
+"Narrow": [
+"ಕಿರಿದಾದ",
+"Kiridāda"
+],
+"Curved": [
+"ಬಾಗಿದ",
+"Bāgida"
+],
+"Salty": [
+"ಉಪ್ಪು",
+"Uppu"
+],
+"Easy": [
+"ಸುಲಭ",
+"Sulabha"
+],
+"Dry": [
+"ಒಣ",
+"Òṇa"
+],
+"Wet": [
+"ತೇವ",
+"Teva"
+],
+"Filled": [
+"ತುಂಬಿದೆ",
+"Tuṃbidè"
+],
+"Incomplete": [
+"ಅಪೂರ್ಣ",
+"Apūrṇa"
+],
+"Hard (surface)": [
+"ಹಾರ್ಡ್ (ಮೇಲ್ಮೈ)",
+"Hārḍ (melmai)"
+],
+"Soft": [
+"ಮೃದು",
+"Mṛdu"
+],
+"Heavy": [
+"ಭಾರೀ",
+"Bhārī"
+],
+"Light (weight)": [
+"ಬೆಳಕು (ತೂಕ)",
+"Bèḻaku (tūka)"
+],
+"New": [
+"ಹೊಸದು",
+"Hòsadu"
+],
+"Old": [
+"ಹಳೆಯದು",
+"Haḻèyadu"
+],
+"Slow": [
+"ನಿಧಾನ",
+"Nidhāna"
+],
+"Fast": [
+"ವೇಗವಾಗಿ",
+"Vegavāgi"
+],
+"Young": [
+"ಯುವ",
+"Yuva"
+],
+"Unhappy": [
+"ಅತೃಪ್ತಿ",
+"Atṛpti"
+],
+"Gloomy": [
+"ಕತ್ತಲೆಯಾದ",
+"Kattalèyāda"
+],
+"Carefully": [
+"ಎಚ್ಚರಿಕೆಯಿಂದ",
+"Èccarikèyiṃda"
+],
+"Slowly": [
+"ನಿಧಾನವಾಗಿ",
+"Nidhānavāgi"
+],
+"Quickly": [
+"ತ್ವರಿತವಾಗಿ",
+"Tvaritavāgi"
+],
+"A bit": [
+"ಸ್ವಲ್ಪ",
+"Svalpa"
+],
+"A lot": [
+"ಬಹಳಷ್ಟು",
+"Bahaḻaṣṭu"
+],
+"Aback": [
+"ದಿಗ್ಭ್ರಮೆ",
+"Digbhramè"
+],
+"Accordingly": [
+"ಅದರಂತೆ",
+"Adaraṃtè"
+],
+"Accurately": [
+"ನಿಖರವಾಗಿ",
+"Nikharavāgi"
+],
+"Actively": [
+"ಸಕ್ರಿಯವಾಗಿ",
+"Sakriyavāgi"
+],
+"Afresh": [
+"ಹೊಸದಾಗಿ",
+"Hòsadāgi"
+],
+"Ago": [
+"ಹಿಂದೆ",
+"Hiṃdè"
+],
+"Agreeably": [
+"ಒಪ್ಪುವಂತೆ",
+"Òppuvaṃtè"
+],
+"Altogether": [
+"ಒಟ್ಟಿನಲ್ಲಿ",
+"Òṭṭinalli"
+],
+"Any": [
+"ಯಾವುದೇ",
+"Yāvude"
+],
+"Away": [
+"ದೂರ",
+"Dūra"
 ]
 }

@@ -5614,5 +5614,4005 @@
 "Really": [
 "ପ୍ରକୃତରେ",
 "Prakṛtare"
+],
+"We (listener including)": [
+"ଆମେ (ଶ୍ରୋତା ଅନ୍ତର୍ଭୁକ୍ତ)",
+"Āme (śrotā antarbhukta)"
+],
+"He / That (m.)": [
+"ସେ / ତାହା (ମି।)",
+"Se / tāhā (mi|)"
+],
+"She / That (f.)": [
+"ସେ / ତାହା (f।)",
+"Se / tāhā (f|)"
+],
+"It / That (n.)": [
+"ଏହା / ତାହା (n।)",
+"Ehā / tāhā (n|)"
+],
+"They (Plural of He) / Those (m.)": [
+"ସେମାନେ (ସେ ବହୁବଚନ) / ସେହି (ମି।)",
+"Semāne (se bahubacana) / sehi (mi|)"
+],
+"They (Plural of She) / Those (f.)": [
+"ସେମାନେ (ବହୁବଚନ ସେ) / ସେହି (f।)",
+"Semāne (bahubacana se) / sehi (f|)"
+],
+"They (Plural of it) / Those (n.)": [
+"ସେମାନେ (ଏହାର ବହୁବଚନ) / ସେହି (n।)",
+"Semāne (ehāra bahubacana) / sehi (n|)"
+],
+"We went to the party (listener not included)": [
+"ଆମେ ପାର୍ଟିକୁ ଯାଇଥିଲୁ (ଶ୍ରୋତା ଅନ୍ତର୍ଭୁକ୍ତ ନୁହଁନ୍ତି)",
+"Āme pārṭiku yāithilu (śrotā antarbhukta nuha~nti)"
+],
+"We went to the party (listener included)": [
+"ଆମେ ପାର୍ଟୀକୁ ଯାଇଥିଲୁ (ଶ୍ରୋତା ଅନ୍ତର୍ଭୁକ୍ତ)",
+"Āme pārṭīku yāithilu (śrotā antarbhukta)"
+],
+"This is a horse": [
+"ଏହା ଏକ ଘୋଡା |",
+"Ehā eka ghoḍā |"
+],
+"This is an ant": [
+"ଏହା ଏକ ପିମ୍ପୁଡ଼ି |",
+"Ehā eka pimpuḍa଼i |"
+],
+"You (singular male)": [
+"ତୁମେ (ଏକକ ପୁରୁଷ)",
+"Tume (ekaka puruṣa)"
+],
+"You (singular female)": [
+"ତୁମେ (ଏକକ ମହିଳା)",
+"Tume (ekaka mahiḻā)"
+],
+"He / That (male) / This (male)": [
+"ସେ / ସେହି (ପୁରୁଷ) / ଏହା (ପୁରୁଷ)",
+"Se / sehi (puruṣa) / ehā (puruṣa)"
+],
+"She / That (female) / This (female)": [
+"ସେ / ସେହି (ମହିଳା) / ଏହା (ମହିଳା)",
+"Se / sehi (mahiḻā) / ehā (mahiḻā)"
+],
+"It / That (neuter) / This (neuter)": [
+"ଏହା / ତାହା (ନିଉଟର୍) / ଏହା (ନିଉଟର୍) |",
+"Ehā / tāhā (niuṭar) / ehā (niuṭar) |"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"ସେମାନେ (ମି।) / ସେହି (ମି।) / ଏଗୁଡିକ (ମି।)",
+"Semāne (mi|) / sehi (mi|) / eguḍika (mi|)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"ସେମାନେ (f।) / ସେହି (f।) / ଏଗୁଡିକ (f।)",
+"Semāne (f|) / sehi (f|) / eguḍika (f|)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"ସେମାନେ (n।) / ସେହି (n।) / ଏଗୁଡିକ (n।)",
+"Semāne (n|) / sehi (n|) / eguḍika (n|)"
+],
+"I (male) do": [
+"ମୁଁ (ପୁରୁଷ) କରେ |",
+"Mu~ (puruṣa) kare |"
+],
+"I (female) do": [
+"ମୁଁ (ମହିଳା) କରେ |",
+"Mu~ (mahiḻā) kare |"
+],
+"You (male) cry": [
+"ତୁମେ (ପୁରୁଷ) କାନ୍ଦ |",
+"Tume (puruṣa) kānda |"
+],
+"You (female) cry": [
+"ତୁମେ (ନାରୀ) କାନ୍ଦ |",
+"Tume (nārī) kānda |"
+],
+"You (plural) walk": [
+"ତୁମେ (ବହୁବଚନ) ଚାଲ |",
+"Tume (bahubacana) cāla |"
+],
+"I shall be doing.": [
+"ମୁଁ କରିବି",
+"Mu~ karibi"
+],
+"We will be dancing.": [
+"ଆମେ ନାଚିବା |",
+"Āme nācibā |"
+],
+"You will be crying.": [
+"ତୁମେ କାନ୍ଦିବ।",
+"Tume kāndiba|"
+],
+"You (pl.) will be walking.": [
+"ତୁମେ (pl।) ଚାଲିବ |",
+"Tume (pl|) cāliba |"
+],
+"He will be walking.": [
+"ସେ ଚାଲିବେ।",
+"Se cālibe|"
+],
+"She will be speaking.": [
+"ସେ କହିବେ।",
+"Se kahibe|"
+],
+"It will be moving.": [
+"ଏହା ଗତିଶୀଳ ହେବ |",
+"Ehā gatiśīḻa heba |"
+],
+"They will be dancing.": [
+"ସେମାନେ ନାଚିବେ।",
+"Semāne nācibe|"
+],
+"He / That (m.) / This (m.)": [
+"ସେ / ତାହା (ମି।) / ଏହା (ମି।)",
+"Se / tāhā (mi|) / ehā (mi|)"
+],
+"She / That (f.) / This (f.)": [
+"ସେ / ତାହା (f।) / ଏହା (f।)",
+"Se / tāhā (f|) / ehā (f|)"
+],
+"It / That (n.) / This (n.)": [
+"ଏହା / ତାହା (n।) / ଏହା (n।)",
+"Ehā / tāhā (n|) / ehā (n|)"
+],
+"I (male) / I (female)": [
+"ମୁଁ (ପୁରୁଷ) / ମୁଁ (ମହିଳା)",
+"Mu~ (puruṣa) / mu~ (mahiḻā)"
+],
+"I (male) was doing.": [
+"ମୁଁ (ପୁରୁଷ) କରୁଥିଲି |",
+"Mu~ (puruṣa) karuthili |"
+],
+"I (female) was doing.": [
+"ମୁଁ (ମହିଳା) କରୁଥିଲି |",
+"Mu~ (mahiḻā) karuthili |"
+],
+"We were dancing.": [
+"ଆମେ ନାଚୁଥିଲୁ |",
+"Āme nācuthilu |"
+],
+"You (male) were crying.": [
+"ତୁମେ (ପୁରୁଷ) କାନ୍ଦୁଥିଲ |",
+"Tume (puruṣa) kānduthila |"
+],
+"You (female) were crying.": [
+"ତୁମେ (ସ୍ତ୍ରୀ) କାନ୍ଦୁଥିଲ।",
+"Tume (strī) kānduthila|"
+],
+"You (Plural) were walking": [
+"ତୁମେ (ବହୁବଚନ) ଚାଲୁଥିଲ |",
+"Tume (bahubacana) cāluthila |"
+],
+"He was walking.": [
+"ସେ ଚାଲୁଥିଲେ।",
+"Se cāluthile|"
+],
+"She was speaking.": [
+"ସେ କହୁଥିଲେ।",
+"Se kahuthile|"
+],
+"It was moving.": [
+"ଏହା ଗତି କରୁଥିଲା |",
+"Ehā gati karuthilā |"
+],
+"They(m.) were dancing.": [
+"ସେମାନେ (ମି।) ନାଚୁଥିଲେ |",
+"Semāne (mi|) nācuthile |"
+],
+"They(f.) were dancing.": [
+"ସେମାନେ (f।) ନାଚୁଥିଲେ |",
+"Semāne (f|) nācuthile |"
+],
+"They(n.) were dancing.": [
+"ସେମାନେ (n।) ନାଚୁଥିଲେ |",
+"Semāne (n|) nācuthile |"
+],
+"She has opened door": [
+"ସେ କବାଟ ଖୋଲିଛନ୍ତି",
+"Se kabāṭa kholichanti"
+],
+"She had opened door": [
+"ସେ କବାଟ ଖୋଲିଥିଲେ",
+"Se kabāṭa kholithile"
+],
+"She will have opened door": [
+"ସେ କବାଟ ଖୋଲିବେ",
+"Se kabāṭa kholibe"
+],
+"You (female) have danced": [
+"ତୁମେ (ନାରୀ) ନାଚିଲ |",
+"Tume (nārī) nācila |"
+],
+"You (female) had danced": [
+"ତୁମେ (ମହିଳା) ନାଚିଲ |",
+"Tume (mahiḻā) nācila |"
+],
+"You (female) will have danced": [
+"ତୁମେ (ନାରୀ) ନାଚିବ |",
+"Tume (nārī) nāciba |"
+],
+"You (plural) have danced": [
+"ତୁମେ (ବହୁବଚନ) ନାଚିଲ |",
+"Tume (bahubacana) nācila |"
+],
+"You (plural) had danced": [
+"ତୁମେ (ବହୁବଚନ) ନାଚିଲ |",
+"Tume (bahubacana) nācila |"
+],
+"You (plural) will have danced": [
+"ତୁମେ (ବହୁବଚନ) ନାଚିବ |",
+"Tume (bahubacana) nāciba |"
+],
+"On behalf of": [
+"ତରଫରୁ",
+"Tarapharu"
+],
+"In front of": [
+"ସାମ୍ନାରେ |",
+"Sāmnāre |"
+],
+"He / That (male)": [
+"ସେ / ସେହି (ପୁରୁଷ)",
+"Se / sehi (puruṣa)"
+],
+"She / That (female)": [
+"ସେ / ସେହି (ମହିଳା)",
+"Se / sehi (mahiḻā)"
+],
+"It / That (neuter)": [
+"ଏହା / ତାହା (ନିଉଟର୍)",
+"Ehā / tāhā (niuṭar)"
+],
+"They (m.) / Those (m.)": [
+"ସେମାନେ (ମି।) / ସେହି (ମି।)",
+"Semāne (mi|) / sehi (mi|)"
+],
+"They (f.) / Those (f.)": [
+"ସେମାନେ (f।) / ସେହି (f।)",
+"Semāne (f|) / sehi (f|)"
+],
+"They (n.) / Those (n.)": [
+"ସେମାନେ (n।) / ସେହି (n।)",
+"Semāne (n|) / sehi (n|)"
+],
+"I do not speak": [
+"ମୁଁ କହେ ନାହିଁ",
+"Mu~ kahe nāhi~"
+],
+"He does not walk": [
+"ସେ ଚାଲନ୍ତି ନାହିଁ",
+"Se cālanti nāhi~"
+],
+"You do not eat": [
+"ତୁମେ ଖାଅ ନାହିଁ |",
+"Tume khāa nāhi~ |"
+],
+"They do not dance": [
+"ସେମାନେ ନାଚନ୍ତି ନାହିଁ |",
+"Semāne nācanti nāhi~ |"
+],
+"I am not speaking": [
+"ମୁଁ କହୁନାହିଁ",
+"Mu~ kahunāhi~"
+],
+"He is not walking": [
+"ସେ ଚାଲୁ ନାହାଁନ୍ତି",
+"Se cālu nāhā~nti"
+],
+"She is not speaking": [
+"ସେ କହୁ ନାହାଁନ୍ତି",
+"Se kahu nāhā~nti"
+],
+"It is not moving": [
+"ଏହା ଗତି କରୁନାହିଁ |",
+"Ehā gati karunāhi~ |"
+],
+"They are not dancing": [
+"ସେମାନେ ନାଚୁ ନାହାଁନ୍ତି |",
+"Semāne nācu nāhā~nti |"
+],
+"You are not dancing": [
+"ତୁମେ ନାଚୁ ନାହଁ |",
+"Tume nācu nāha~ |"
+],
+"I have not opened the box": [
+"ମୁଁ ବାକ୍ସ ଖୋଲିନାହିଁ |",
+"Mu~ bāksa kholināhi~ |"
+],
+"I have not spoken": [
+"ମୁଁ କହି ନାହିଁ",
+"Mu~ kahi nāhi~"
+],
+"He has not eaten the mango": [
+"ସେ ଆମ୍ବ ଖାଇ ନାହାଁନ୍ତି",
+"Se āmba khāi nāhā~nti"
+],
+"You do not speak": [
+"ତୁମେ କୁହ ନାହିଁ",
+"Tume kuha nāhi~"
+],
+"Do not read it": [
+"ଏହାକୁ ପ read ଼ନ୍ତୁ ନାହିଁ |",
+"Ehāku pa read ଼ntu nāhi~ |"
+],
+"Do not do it": [
+"ଏହା କର ନାହିଁ |",
+"Ehā kara nāhi~ |"
+],
+"You do not go": [
+"ତୁମେ ଯାଅ ନାହିଁ",
+"Tume yāa nāhi~"
+],
+"I moved toy": [
+"ମୁଁ ଖେଳନା ଘୁଞ୍ଚାଇଲି |",
+"Mu~ kheḻanā ghuñcāili |"
+],
+"To cause to cook": [
+"ରାନ୍ଧିବା ପାଇଁ",
+"Rāndhibā pāi~"
+],
+"I cooked rice": [
+"ମୁଁ ଚାଉଳ ରାନ୍ଧିଲି |",
+"Mu~ cāuḻa rāndhili |"
+],
+"To cause to die / To kill": [
+"ମରିବା ପାଇଁ / ହତ୍ୟା କରିବା |",
+"Maribā pāi~ / hatẏā karibā |"
+],
+"To cause to fall": [
+"ପତନ ହେବାର କାରଣ |",
+"Patana hebāra kāraṇa |"
+],
+"To break (intransitive)": [
+"ଭାଙ୍ଗିବାକୁ (ଇଣ୍ଟ୍ରାନସିଟିଭ୍)",
+"Bhāṅgibāku (iṇṭrānasiṭibh)"
+],
+"To cause to break": [
+"ଭାଙ୍ଗିବାକୁ",
+"Bhāṅgibāku"
+],
+"I broke glass": [
+"ମୁଁ ଗ୍ଲାସ ଭାଙ୍ଗିଲି |",
+"Mu~ glāsa bhāṅgili |"
+],
+"To cause to leave": [
+"ଛାଡିବାକୁ",
+"Chāḍibāku"
+],
+"To cause to drink / To feed liquid": [
+"ପିଇବାକୁ / ତରଳ ଖାଇବାକୁ ଦେବା |",
+"Piibāku / taraḻa khāibāku debā |"
+],
+"To call (not cause to speak)": [
+"କଲ୍ କରିବାକୁ (କହିବାର କାରଣ ନୁହେଁ)",
+"Kal karibāku (kahibāra kāraṇa nuhe~)"
+],
+"To keep animal (not cause to run)": [
+"ପଶୁ ରଖିବା ପାଇଁ (ଚାଲିବାର କାରଣ ନୁହେଁ)",
+"Paśu rakhibā pāi~ (cālibāra kāraṇa nuhe~)"
+],
+"I had spoken": [
+"ମୁଁ କହିଥିଲି",
+"Mu~ kahithili"
+],
+"You (male) had danced": [
+"ତୁମେ (ପୁରୁଷ) ନାଚିଲ |",
+"Tume (puruṣa) nācila |"
+],
+"He had laughed": [
+"ସେ ହସିଥିଲେ",
+"Se hasithile"
+],
+"Those boys had laughed": [
+"ସେହି ପୁଅମାନେ ହସିଥିଲେ",
+"Sehi puamāne hasithile"
+],
+"I had opened door": [
+"ମୁଁ କବାଟ ଖୋଲିଥିଲି",
+"Mu~ kabāṭa kholithili"
+],
+"I had opened window": [
+"ମୁଁ window ରକା ଖୋଲିଥିଲି |",
+"Mu~ window rakā kholithili |"
+],
+"She had eaten mango": [
+"ସେ ଆମ୍ବ ଖାଇଥିଲେ",
+"Se āmba khāithile"
+],
+"Those girls had picked keys": [
+"ସେହି girls ିଅମାନେ ଚାବି ଉଠାଇଥିଲେ",
+"Sehi girls iamāne cābi uṭhāithile"
+],
+"I have spoken": [
+"ମୁଁ କହିଛି",
+"Mu~ kahichi"
+],
+"I will have spoken": [
+"ମୁଁ କହିବି",
+"Mu~ kahibi"
+],
+"He had been saying": [
+"ସେ କହୁଥିଲେ",
+"Se kahuthile"
+],
+"He has been saying": [
+"ସେ କହୁଛନ୍ତି",
+"Se kahuchanti"
+],
+"He will have been saying": [
+"ସେ କହିଥିବେ",
+"Se kahithibe"
+],
+"I have been saying": [
+"ମୁଁ କହୁଛି",
+"Mu~ kahuchi"
+],
+"She has been saying": [
+"ସେ କହୁଛନ୍ତି",
+"Se kahuchanti"
+],
+"They have been dancing": [
+"ସେମାନେ ନାଚୁଛନ୍ତି",
+"Semāne nācuchanti"
+],
+"You have been eating mango": [
+"ଆପଣ ଆମ୍ବ ଖାଉଛନ୍ତି |",
+"Āpaṇa āmba khāuchanti |"
+],
+"I have been working there for 3 years": [
+"ମୁଁ ସେଠାରେ 3 ବର୍ଷ କାର୍ଯ୍ୟ କରୁଛି |",
+"Mu~ seṭhāre 3 barṣa kāryẏa karuchi |"
+],
+"I had been saying": [
+"ମୁଁ କହୁଥିଲି",
+"Mu~ kahuthili"
+],
+"She had been saying": [
+"ସେ କହୁଥିଲେ",
+"Se kahuthile"
+],
+"They had been dancing": [
+"ସେମାନେ ନାଚୁଥିଲେ",
+"Semāne nācuthile"
+],
+"You had been eating mango": [
+"ତୁମେ ଆମ୍ବ ଖାଉଥିଲ |",
+"Tume āmba khāuthila |"
+],
+"She will have been saying": [
+"ସେ କହିଥିବେ |",
+"Se kahithibe |"
+],
+"They will have been dancing": [
+"ସେମାନେ ନାଚୁଥିବେ |",
+"Semāne nācuthibe |"
+],
+"You will have been eating mango": [
+"ଆପଣ ଆମ୍ବ ଖାଇଥିବେ |",
+"Āpaṇa āmba khāithibe |"
+],
+"I will have been working there for 3 years": [
+"ମୁଁ ସେଠାରେ 3 ବର୍ଷ କାର୍ଯ୍ୟ କରିବି |",
+"Mu~ seṭhāre 3 barṣa kāryẏa karibi |"
+],
+"They are going to come": [
+"ସେମାନେ ଆସିବାକୁ ଯାଉଛନ୍ତି",
+"Semāne āsibāku yāuchanti"
+],
+"I am going to speak": [
+"ମୁଁ କହିବାକୁ ଯାଉଛି",
+"Mu~ kahibāku yāuchi"
+],
+"She is going to open door": [
+"ସେ କବାଟ ଖୋଲିବାକୁ ଯାଉଛନ୍ତି |",
+"Se kabāṭa kholibāku yāuchanti |"
+],
+"You are going to dance": [
+"ତୁମେ ନାଚିବାକୁ ଯାଉଛ |",
+"Tume nācibāku yāucha |"
+],
+"Are they going to come?": [
+"ସେମାନେ ଆସିବାକୁ ଯାଉଛନ୍ତି କି?",
+"Semāne āsibāku yāuchanti ki?"
+],
+"Am I going to speak?": [
+"ମୁଁ କହିବାକୁ ଯାଉଛି କି?",
+"Mu~ kahibāku yāuchi ki?"
+],
+"Is she going to open door?": [
+"ସେ କବାଟ ଖୋଲିବାକୁ ଯାଉଛନ୍ତି କି?",
+"Se kabāṭa kholibāku yāuchanti ki?"
+],
+"Are you going to dance?": [
+"ଆପଣ ନାଚିବାକୁ ଯାଉଛନ୍ତି କି?",
+"Āpaṇa nācibāku yāuchanti ki?"
+],
+"She / That (f.)/ This (f.)": [
+"ସେ / ତାହା (f।) / ଏହା (f।)",
+"Se / tāhā (f|) / ehā (f|)"
+],
+"It / That(n.) / This (n.)": [
+"ଏହା / ତାହା (n।) / ଏହା (n।)",
+"Ehā / tāhā (n|) / ehā (n|)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"ସେମାନେ (ସେ ବହୁବଚନ) / ସେହି (ମି।) / ଏଗୁଡିକ (ମି।)",
+"Semāne (se bahubacana) / sehi (mi|) / eguḍika (mi|)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"ସେମାନେ (ବହୁବଚନ ସେ) / ସେହି (f।) / ଏଗୁଡିକ (f।)",
+"Semāne (bahubacana se) / sehi (f|) / eguḍika (f|)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"ସେମାନେ (ଏହାର ବହୁବଚନ) / ସେହି (n।) / ଏଗୁଡିକ (n।)",
+"Semāne (ehāra bahubacana) / sehi (n|) / eguḍika (n|)"
+],
+"I used to do": [
+"ମୁଁ କରିଥିଲି",
+"Mu~ karithili"
+],
+"She used to speak": [
+"ସେ କଥା କହୁଥିଲେ |",
+"Se kathā kahuthile |"
+],
+"He used to dance": [
+"ସେ ନାଚୁଥିଲେ |",
+"Se nācuthile |"
+],
+"They (plural of he) used to eat mangos": [
+"ସେମାନେ (ବହୁବଚନ) ଆମ୍ବ ଖାଉଥିଲେ |",
+"Semāne (bahubacana) āmba khāuthile |"
+],
+"They (plural of she) used to play cricket": [
+"ସେମାନେ (ବହୁବଚନ) କ୍ରିକେଟ୍ ଖେଳୁଥିଲେ |",
+"Semāne (bahubacana) krikeṭ kheḻuthile |"
+],
+"He used to be there": [
+"ସେ ସେଠାରେ ଥିଲେ |",
+"Se seṭhāre thile |"
+],
+"She used to be quiet": [
+"ସେ ଚୁପ୍ ରହିଆସୁଥିଲେ",
+"Se cup rahiāsuthile"
+],
+"I did not use to do": [
+"ମୁଁ କରିବାକୁ ବ୍ୟବହାର କରି ନାହିଁ",
+"Mu~ karibāku bẏabahāra kari nāhi~"
+],
+"She did not use to speak": [
+"ସେ କହିବାକୁ ବ୍ୟବହାର କରୁନଥିଲେ |",
+"Se kahibāku bẏabahāra karunathile |"
+],
+"You did not use to dance": [
+"ତୁମେ ନାଚିବା ପାଇଁ ବ୍ୟବହାର କରିନାହଁ |",
+"Tume nācibā pāi~ bẏabahāra karināha~ |"
+],
+"They (plural of he) did not use to eat mangos": [
+"ସେମାନେ (ସେ ବହୁବଚନ) ଆମ୍ବ ଖାଇବା ପାଇଁ ବ୍ୟବହାର କରିନଥିଲେ |",
+"Semāne (se bahubacana) āmba khāibā pāi~ bẏabahāra karinathile |"
+],
+"She did not use to be quiet": [
+"ସେ ଚୁପ୍ ରହିବାକୁ ବ୍ୟବହାର କରୁନଥିଲେ",
+"Se cup rahibāku bẏabahāra karunathile"
+],
+"He did not use to be there": [
+"ସେ ସେଠାରେ ରହିବାକୁ ବ୍ୟବହାର କରିନଥିଲେ |",
+"Se seṭhāre rahibāku bẏabahāra karinathile |"
+],
+"He is used to dance": [
+"ସେ ନାଚିବାରେ ଅଭ୍ୟସ୍ତ |",
+"Se nācibāre abhẏasta |"
+],
+"She is used to speak": [
+"ସେ କହିବାକୁ ଅଭ୍ୟସ୍ତ |",
+"Se kahibāku abhẏasta |"
+],
+"Those girls are used to laugh": [
+"ସେହି girls ିଅମାନେ ହସିବାକୁ ଅଭ୍ୟସ୍ତ |",
+"Sehi girls iamāne hasibāku abhẏasta |"
+],
+"I am used to be there": [
+"ମୁଁ ସେଠାରେ ଥିଲି",
+"Mu~ seṭhāre thili"
+],
+"She is used to be quiet": [
+"ସେ ଚୁପ୍ ରହିବାକୁ ଅଭ୍ୟସ୍ତ |",
+"Se cup rahibāku abhẏasta |"
+],
+"He is not used to dance": [
+"ସେ ନାଚିବାରେ ଅଭ୍ୟସ୍ତ ନୁହଁନ୍ତି |",
+"Se nācibāre abhẏasta nuha~nti |"
+],
+"She is not used to speak": [
+"ସେ କହିବାକୁ ଅଭ୍ୟସ୍ତ ନୁହେଁ |",
+"Se kahibāku abhẏasta nuhe~ |"
+],
+"I used to eat mango": [
+"ମୁଁ ଆମ୍ବ ଖାଉଥିଲି |",
+"Mu~ āmba khāuthili |"
+],
+"Kaushik used to eat mango": [
+"କ ush ଶିକ ଆମ୍ବ ଖାଉଥିଲେ",
+"Ka ush śika āmba khāuthile"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"କ ush ଶିକ, ଗୁରୁ, ସୂର୍ଯ୍ୟ ପ୍ରତିଦିନ ସାକ୍ଷାତ କରୁଥିଲେ |",
+"Ka ush śika, guru, sūryẏa pratidina sākṣāta karuthile |"
+],
+"My friends and I used to play cricket": [
+"ମୋର ବନ୍ଧୁ ଏବଂ ମୁଁ କ୍ରିକେଟ୍ ଖେଳୁଥିଲୁ |",
+"Mora bandhu ebaṃ mu~ krikeṭ kheḻuthilu |"
+],
+"I used to see": [
+"ମୁଁ ଦେଖୁଥିଲି",
+"Mu~ dekhuthili"
+],
+"Kaushik used to see": [
+"କ ush ଶିକ ଦେଖୁଥିଲେ |",
+"Ka ush śika dekhuthile |"
+],
+"Kaushik used to do": [
+"କ ush ଶିକ୍ କରୁଥିଲେ |",
+"Ka ush śik karuthile |"
+],
+"He opened the door": [
+"ସେ କବାଟ ଖୋଲିଲେ",
+"Se kabāṭa kholile"
+],
+"If he had opened the door then": [
+"ଯଦି ସେ କବାଟ ଖୋଲିଥାନ୍ତେ |",
+"Yadi se kabāṭa kholithānte |"
+],
+"He had spoken": [
+"ସେ କହିଥିଲେ",
+"Se kahithile"
+],
+"If he had spoken": [
+"ଯଦି ସେ କହିଥାନ୍ତେ",
+"Yadi se kahithānte"
+],
+"If you had spoken then she would have spoken": [
+"ଯଦି ତୁମେ କହିଥାନ୍ତ ତେବେ ସେ କହିଥାନ୍ତେ |",
+"Yadi tume kahithānta tebe se kahithānte |"
+],
+"If he had cried then they would have ran": [
+"ଯଦି ସେ କାନ୍ଦନ୍ତି ତେବେ ସେମାନେ ଦ ran ଡ଼ିଥାନ୍ତେ |",
+"Yadi se kāndanti tebe semāne da ran ḍa଼ithānte |"
+],
+"If you go I will cry": [
+"ଯଦି ତୁମେ ଯାଅ ମୁଁ କାନ୍ଦିବି |",
+"Yadi tume yāa mu~ kāndibi |"
+],
+"If he sings she will dance": [
+"ଯଦି ସେ ଗୀତ କରନ୍ତି ତେବେ ସେ ନାଚିବେ |",
+"Yadi se gīta karanti tebe se nācibe |"
+],
+"reason of coming": [
+"ଆସିବାର କାରଣ",
+"Āsibāra kāraṇa"
+],
+"She spoke after my dancing": [
+"ସେ ମୋ ନାଚ ପରେ କହିଥିଲେ",
+"Se mo nāca pare kahithile"
+],
+"after I danced": [
+"ମୁଁ ନାଚିବା ପରେ",
+"Mu~ nācibā pare"
+],
+"She spoke after I danced": [
+"ମୁଁ ନାଚିବା ପରେ ସେ କହିଲା |",
+"Mu~ nācibā pare se kahilā |"
+],
+"He cried after she went": [
+"ସେ ଯିବା ପରେ କାନ୍ଦିଲା",
+"Se yibā pare kāndilā"
+],
+"He told about his coming to school": [
+"ସେ ସ୍କୁଲକୁ ଆସିବା ବିଷୟରେ କହିଥିଲେ",
+"Se skulaku āsibā biṣaẏare kahithile"
+],
+"He told me that he is coming": [
+"ସେ ମୋତେ ଆସୁଛନ୍ତି ବୋଲି କହିଥିଲେ",
+"Se mote āsuchanti boli kahithile"
+],
+"He told me that he is going to come": [
+"ସେ ମୋତେ କହିଥିଲେ ଯେ ସେ ଆସିବେ",
+"Se mote kahithile ye se āsibe"
+],
+"I don't remember she having said something": [
+"ମୋର ମନେ ନାହିଁ ଯେ ସେ କିଛି କହିଥଲେ |",
+"Mora mane nāhi~ ye se kichi kahithale |"
+],
+"I don't remember she having eaten mango": [
+"ମୋର ଆମ୍ବ ଖାଇଥିବାର ମୋର ମନେ ନାହିଁ |",
+"Mora āmba khāithibāra mora mane nāhi~ |"
+],
+"while I speak": [
+"ଯେତେବେଳେ ମୁଁ କହୁଛି",
+"Yetebeḻe mu~ kahuchi"
+],
+"while I do": [
+"ଯେତେବେଳେ ମୁଁ କରେ",
+"Yetebeḻe mu~ kare"
+],
+"while I dance": [
+"ଯେତେବେଳେ ମୁଁ ନାଚୁଛି",
+"Yetebeḻe mu~ nācuchi"
+],
+"Come to see this photo": [
+"ଏହି ଫଟୋ ଦେଖିବାକୁ ଆସ |",
+"Ehi phaṭo dekhibāku āsa |"
+],
+"Come to eat with me": [
+"ମୋ ସହିତ ଖାଇବାକୁ ଆସ |",
+"Mo sahita khāibāku āsa |"
+],
+"Smoking is prohibited": [
+"ଧୂମପାନ ନିଷେଧ |",
+"Dhūmapāna niṣedha |"
+],
+"Court asked to be present tomorrow": [
+"ଆସନ୍ତାକାଲି ଉପସ୍ଥିତ ରହିବାକୁ କୋର୍ଟ କହିଛନ୍ତି",
+"Āsantākāli upasthita rahibāku korṭa kahichanti"
+],
+"Sit and watch": [
+"ବସ ଏବଂ ଦେଖ |",
+"Basa ebaṃ dekha |"
+],
+"come and go": [
+"ଆସ ଏବଂ ଯାଅ |",
+"Āsa ebaṃ yāa |"
+],
+"He came and saw it": [
+"ସେ ଆସି ଦେଖିଲେ",
+"Se āsi dekhile"
+],
+"They will go and check it": [
+"ସେମାନେ ଯାଇ ଏହାକୁ ଯାଞ୍ଚ କରିବେ |",
+"Semāne yāi ehāku yāñca karibe |"
+],
+"smile and say": [
+"ହସ ଏବଂ କୁହ |",
+"Hasa ebaṃ kuha |"
+],
+"till I speak": [
+"ମୁଁ କହିବା ପର୍ଯ୍ୟନ୍ତ",
+"Mu~ kahibā paryẏanta"
+],
+"until she smiles": [
+"ସେ ହସିବା ପର୍ଯ୍ୟନ୍ତ",
+"Se hasibā paryẏanta"
+],
+"till he goes": [
+"ସେ ଯିବା ପର୍ଯ୍ୟନ୍ତ",
+"Se yibā paryẏanta"
+],
+"until we come": [
+"ଆମେ ଆସିବା ପର୍ଯ୍ୟନ୍ତ",
+"Āme āsibā paryẏanta"
+],
+"For good horse": [
+"ଭଲ ଘୋଡା ପାଇଁ |",
+"Bhala ghoḍā pāi~ |"
+],
+"For good chair": [
+"ଭଲ ଚେୟାର ପାଇଁ |",
+"Bhala ceẏāra pāi~ |"
+],
+"After easy exam": [
+"ସହଜ ପରୀକ୍ଷା ପରେ |",
+"Sahaja parīkṣā pare |"
+],
+"For red horse": [
+"ନାଲି ଘୋଡା ପାଇଁ |",
+"Nāli ghoḍā pāi~ |"
+],
+"About beautiful drawing": [
+"ସୁନ୍ଦର ଚିତ୍ର ବିଷୟରେ |",
+"Sundara citra biṣaẏare |"
+],
+"I can eat": [
+"ମୁଁ ଖାଇପାରେ",
+"Mu~ khāipāre"
+],
+"He can sing": [
+"ସେ ଗୀତ ଗାଇ ପାରିବେ |",
+"Se gīta gāi pāribe |"
+],
+"You(plural) could eat mango": [
+"ତୁମେ (ବହୁବଚନ) ଆମ୍ବ ଖାଇ ପାରିବ |",
+"Tume (bahubacana) āmba khāi pāriba |"
+],
+"You(plural) could eat chutney": [
+"ତୁମେ (ବହୁବଚନ) ଚଟନି ଖାଇ ପାରିବ |",
+"Tume (bahubacana) caṭani khāi pāriba |"
+],
+"She could dance": [
+"ସେ ନାଚି ପାରନ୍ତି |",
+"Se nāci pāranti |"
+],
+"They (plural of she) will be able to move": [
+"ସେମାନେ (ବହୁବଚନ) ଚଳପ୍ରଚଳ କରିବାକୁ ସମର୍ଥ ହେବେ |",
+"Semāne (bahubacana) caḻapracaḻa karibāku samartha hebe |"
+],
+"I can not eat": [
+"ମୁଁ ଖାଇ ପାରିବି ନାହିଁ",
+"Mu~ khāi pāribi nāhi~"
+],
+"He can not sing": [
+"ସେ ଗୀତ ଗାଇ ପାରିବେ ନାହିଁ |",
+"Se gīta gāi pāribe nāhi~ |"
+],
+"She could not dance": [
+"ସେ ନାଚି ପାରିଲା ନାହିଁ",
+"Se nāci pārilā nāhi~"
+],
+"You(plural) could not eat mango": [
+"ତୁମେ (ବହୁବଚନ) ଆମ୍ବ ଖାଇ ପାରିବ ନାହିଁ |",
+"Tume (bahubacana) āmba khāi pāriba nāhi~ |"
+],
+"You(plural) could not eat chutney": [
+"ତୁମେ (ବହୁବଚନ) ଚଟନି ଖାଇ ପାରିବ ନାହିଁ |",
+"Tume (bahubacana) caṭani khāi pāriba nāhi~ |"
+],
+"They will not be able to move": [
+"ସେମାନେ ଗତି କରିବାକୁ ସମର୍ଥ ହେବେ ନାହିଁ |",
+"Semāne gati karibāku samartha hebe nāhi~ |"
+],
+"I can play cricket": [
+"ମୁଁ କ୍ରିକେଟ୍ ଖେଳିପାରେ |",
+"Mu~ krikeṭ kheḻipāre |"
+],
+"I could play cricket": [
+"ମୁଁ କ୍ରିକେଟ୍ ଖେଳିପାରେ |",
+"Mu~ krikeṭ kheḻipāre |"
+],
+"I will be able to play cricket": [
+"ମୁଁ କ୍ରିକେଟ୍ ଖେଳିବାକୁ ସମର୍ଥ ହେବି |",
+"Mu~ krikeṭ kheḻibāku samartha hebi |"
+],
+"He can eat mangoes": [
+"ସେ ଆମ୍ବ ଖାଇପାରିବେ |",
+"Se āmba khāipāribe |"
+],
+"He could eat mangoes": [
+"ସେ ଆମ୍ବ ଖାଇପାରନ୍ତି |",
+"Se āmba khāipāranti |"
+],
+"He will be able to eat mangoes": [
+"ସେ ଆମ୍ବ ଖାଇବାକୁ ସକ୍ଷମ ହେବେ",
+"Se āmba khāibāku sakṣama hebe"
+],
+"They could open box": [
+"ସେମାନେ ବାକ୍ସ ଖୋଲିପାରନ୍ତି |",
+"Semāne bāksa kholipāranti |"
+],
+"They could open bag": [
+"ସେମାନେ ବ୍ୟାଗ ଖୋଲିପାରନ୍ତି |",
+"Semāne bẏāga kholipāranti |"
+],
+"They could speak": [
+"ସେମାନେ କହିପାରନ୍ତି |",
+"Semāne kahipāranti |"
+],
+"They gathered to speak": [
+"ସେମାନେ କହିବାକୁ ଏକତ୍ରିତ ହେଲେ",
+"Semāne kahibāku ekatrita hele"
+],
+"I want mango": [
+"ମୁଁ ଆମ୍ବ ଚାହୁଁଛି |",
+"Mu~ āmba cāhu~chi |"
+],
+"He wants mango": [
+"ସେ ଆମ୍ବ ଚାହୁଁଛନ୍ତି |",
+"Se āmba cāhu~chanti |"
+],
+"She wants mango": [
+"ସେ ଆମ୍ବ ଚାହୁଁଛନ୍ତି |",
+"Se āmba cāhu~chanti |"
+],
+"I/He/She want mangoes": [
+"ମୁଁ / ସେ / ସେ ଆମ୍ବ ଚାହାଁନ୍ତି |",
+"Mu~ / se / se āmba cāhā~nti |"
+],
+"He/She/They want chalk": [
+"ସେ / ସେ / ସେମାନେ ଚକ ଚାହାଁନ୍ତି |",
+"Se / se / semāne caka cāhā~nti |"
+],
+"He/She/They want chalks": [
+"ସେ / ସେ / ସେମାନେ ଚକ ଚାହାଁନ୍ତି |",
+"Se / se / semāne caka cāhā~nti |"
+],
+"He/She/They want bag": [
+"ସେ / ସେ / ସେମାନେ ବ୍ୟାଗ୍ ଚାହାଁନ୍ତି |",
+"Se / se / semāne bẏāg cāhā~nti |"
+],
+"He/She/They want bags": [
+"ସେ / ସେ / ସେମାନେ ବ୍ୟାଗ୍ ଚାହାଁନ୍ତି |",
+"Se / se / semāne bẏāg cāhā~nti |"
+],
+"He/She/They want page": [
+"ସେ / ସେ / ସେମାନେ ପୃଷ୍ଠା ଚାହାଁନ୍ତି |",
+"Se / se / semāne pṛṣṭhā cāhā~nti |"
+],
+"He/She/They want pages": [
+"ସେ / ସେ / ସେମାନେ ପୃଷ୍ଠା ଚାହାଁନ୍ତି |",
+"Se / se / semāne pṛṣṭhā cāhā~nti |"
+],
+"He/She/They wanted chalk": [
+"ସେ / ସେ / ସେମାନେ ଚକ୍ ଚାହୁଁଥିଲେ |",
+"Se / se / semāne cak cāhu~thile |"
+],
+"He/She/They wanted chalks": [
+"ସେ / ସେ / ସେମାନେ ଚକ୍ ଚାହୁଁଥିଲେ |",
+"Se / se / semāne cak cāhu~thile |"
+],
+"He/She/They wanted bag": [
+"ସେ / ସେ / ସେମାନେ ବ୍ୟାଗ୍ ଚାହୁଁଥିଲେ |",
+"Se / se / semāne bẏāg cāhu~thile |"
+],
+"He/She/They wanted bags": [
+"ସେ / ସେ / ସେମାନେ ବ୍ୟାଗ ଚାହୁଁଥିଲେ |",
+"Se / se / semāne bẏāga cāhu~thile |"
+],
+"He/She/They wanted page": [
+"ସେ / ସେ / ସେମାନେ ପୃଷ୍ଠା ଚାହୁଁଥିଲେ |",
+"Se / se / semāne pṛṣṭhā cāhu~thile |"
+],
+"He/She/They wanted pages": [
+"ସେ / ସେ / ସେମାନେ ପୃଷ୍ଠା ଚାହୁଁଥିଲେ |",
+"Se / se / semāne pṛṣṭhā cāhu~thile |"
+],
+"He/She/They will need chalk": [
+"ସେ / ସେ / ସେମାନଙ୍କୁ ଚକ ଦରକାର ହେବ |",
+"Se / se / semānaṅku caka darakāra heba |"
+],
+"He/She/They will need chalks": [
+"ସେ / ସେ / ସେମାନଙ୍କୁ ଚକ ଦରକାର ହେବ |",
+"Se / se / semānaṅku caka darakāra heba |"
+],
+"He/She/They will need bag": [
+"ସେ / ସେ / ସେମାନଙ୍କୁ ବ୍ୟାଗ୍ ଦରକାର ହେବ |",
+"Se / se / semānaṅku bẏāg darakāra heba |"
+],
+"He/She/They will need bags": [
+"ସେ / ସେ / ସେମାନଙ୍କୁ ବ୍ୟାଗ ଦରକାର ହେବ |",
+"Se / se / semānaṅku bẏāga darakāra heba |"
+],
+"He/She/They will need page": [
+"ସେ / ସେ / ସେମାନେ ପୃଷ୍ଠା ଆବଶ୍ୟକ କରିବେ |",
+"Se / se / semāne pṛṣṭhā ābaśẏaka karibe |"
+],
+"He/She/They will need pages": [
+"ସେ / ସେ / ସେମାନେ ପୃଷ୍ଠା ଆବଶ୍ୟକ କରିବେ |",
+"Se / se / semāne pṛṣṭhā ābaśẏaka karibe |"
+],
+"I do not want mango": [
+"ମୁଁ ଆମ୍ବ ଚାହେଁ ନାହିଁ |",
+"Mu~ āmba cāhe~ nāhi~ |"
+],
+"She will not want bag": [
+"ସେ ବ୍ୟାଗ୍ ଚାହୁଁନାହାଁନ୍ତି |",
+"Se bẏāg cāhu~nāhā~nti |"
+],
+"He did not want chalk": [
+"ସେ ଚକ୍ ଚାହୁଁନଥିଲେ",
+"Se cak cāhu~nathile"
+],
+"He did not want bag": [
+"ସେ ବ୍ୟାଗ ଚାହୁଁନଥିଲେ",
+"Se bẏāga cāhu~nathile"
+],
+"She does not want ice cream": [
+"ସେ ଆଇସ୍କ୍ରିମ୍ ଚାହାଁନ୍ତି ନାହିଁ |",
+"Se āiskrim cāhā~nti nāhi~ |"
+],
+"What will happen?": [
+"କ’ଣ ହେବ?",
+"Ka’ṇa heba?"
+],
+"What is happening?": [
+"କ’ଣ ଘଟୁଛି?",
+"Ka’ṇa ghaṭuchi?"
+],
+"It did not happen": [
+"ଏହା ଘଟିଲା ନାହିଁ |",
+"Ehā ghaṭilā nāhi~ |"
+],
+"I will become winner": [
+"ମୁଁ ବିଜେତା ହେବି |",
+"Mu~ bijetā hebi |"
+],
+"It was happening": [
+"ଏହା ଘଟୁଥିଲା |",
+"Ehā ghaṭuthilā |"
+],
+"He will become mad": [
+"ସେ ପାଗଳ ହୋଇଯିବେ",
+"Se pāgaḻa hoiyibe"
+],
+"He should have eaten mango": [
+"ସେ ଆମ୍ବ ଖାଇବା ଉଚିତ୍ |",
+"Se āmba khāibā ucit |"
+],
+"He should have eaten tamarind": [
+"ସେ ତାମ୍ର ଖାଇବା ଉଚିତ୍ |",
+"Se tāmra khāibā ucit |"
+],
+"He should eat mango": [
+"ସେ ଆମ୍ବ ଖାଇବା ଉଚିତ୍ |",
+"Se āmba khāibā ucit |"
+],
+"He should go": [
+"ସେ ଯିବା ଉଚିତ୍ |",
+"Se yibā ucit |"
+],
+"He should have gone": [
+"ସେ ଯିବା ଉଚିତ୍ |",
+"Se yibā ucit |"
+],
+"I should speak": [
+"ମୁଁ କହିବା ଉଚିତ୍",
+"Mu~ kahibā ucit"
+],
+"I should have spoken": [
+"ମୁଁ କହିଥାନ୍ତେ",
+"Mu~ kahithānte"
+],
+"They should dance": [
+"ସେମାନେ ନାଚିବା ଉଚିତ୍ |",
+"Semāne nācibā ucit |"
+],
+"They should not dance": [
+"ସେମାନେ ନାଚିବା ଉଚିତ୍ ନୁହେଁ |",
+"Semāne nācibā ucit nuhe~ |"
+],
+"They should have danced": [
+"ସେମାନେ ନାଚିବା ଉଚିତ୍ |",
+"Semāne nācibā ucit |"
+],
+"They should not have danced": [
+"ସେମାନେ ନାଚିବା ଉଚିତ୍ ନୁହେଁ |",
+"Semāne nācibā ucit nuhe~ |"
+],
+"You should play": [
+"ତୁମେ ଖେଳିବା ଉଚିତ୍ |",
+"Tume kheḻibā ucit |"
+],
+"You should not play": [
+"ତୁମେ ଖେଳିବା ଉଚିତ୍ ନୁହେଁ |",
+"Tume kheḻibā ucit nuhe~ |"
+],
+"You should have played": [
+"ତୁମେ ଖେଳିବା ଉଚିତ୍ |",
+"Tume kheḻibā ucit |"
+],
+"You should not have smiled": [
+"ତୁମେ ହସିବା ଉଚିତ୍ ନୁହେଁ |",
+"Tume hasibā ucit nuhe~ |"
+],
+"She should open box": [
+"ସେ ବାକ୍ସ ଖୋଲିବା ଉଚିତ୍ |",
+"Se bāksa kholibā ucit |"
+],
+"He should eat": [
+"ସେ ଖାଇବା ଉଚିତ୍ |",
+"Se khāibā ucit |"
+],
+"You(male) should go": [
+"ତୁମେ (ପୁରୁଷ) ଯିବା ଉଚିତ୍ |",
+"Tume (puruṣa) yibā ucit |"
+],
+"You(male) should eat mango": [
+"ତୁମେ (ପୁରୁଷ) ଆମ୍ବ ଖାଇବା ଉଚିତ୍ |",
+"Tume (puruṣa) āmba khāibā ucit |"
+],
+"He should not go": [
+"ସେ ଯିବା ଉଚିତ୍ ନୁହେଁ |",
+"Se yibā ucit nuhe~ |"
+],
+"She should not open box": [
+"ସେ ବାକ୍ସ ଖୋଲିବା ଉଚିତ୍ ନୁହେଁ |",
+"Se bāksa kholibā ucit nuhe~ |"
+],
+"He should not eat": [
+"ସେ ଖାଇବା ଉଚିତ୍ ନୁହେଁ |",
+"Se khāibā ucit nuhe~ |"
+],
+"He should eat tamarind": [
+"ସେ ତାମ୍ର ଖାଇବା ଉଚିତ୍ |",
+"Se tāmra khāibā ucit |"
+],
+"She should write letter": [
+"ସେ ଚିଠି ଲେଖିବା ଉଚିତ୍ |",
+"Se ciṭhi lekhibā ucit |"
+],
+"You should eat mango": [
+"ଆପଣ ଆମ୍ବ ଖାଇବା ଉଚିତ୍ |",
+"Āpaṇa āmba khāibā ucit |"
+],
+"He has to do it every day": [
+"ତାଙ୍କୁ ପ୍ରତିଦିନ କରିବାକୁ ପଡିବ |",
+"Tāṅku pratidina karibāku paḍiba |"
+],
+"He will have to do it every day": [
+"ତାଙ୍କୁ ପ୍ରତିଦିନ ଏହା କରିବାକୁ ପଡିବ |",
+"Tāṅku pratidina ehā karibāku paḍiba |"
+],
+"He had to do it every day": [
+"ତାଙ୍କୁ ପ୍ରତିଦିନ କରିବାକୁ ପଡୁଥିଲା |",
+"Tāṅku pratidina karibāku paḍuthilā |"
+],
+"She has to eat mango": [
+"ତାଙ୍କୁ ଆମ୍ବ ଖାଇବାକୁ ପଡିବ |",
+"Tāṅku āmba khāibāku paḍiba |"
+],
+"She will have to eat mango": [
+"ତାଙ୍କୁ ଆମ୍ବ ଖାଇବାକୁ ପଡିବ |",
+"Tāṅku āmba khāibāku paḍiba |"
+],
+"She had to eat mango": [
+"ତାଙ୍କୁ ଆମ୍ବ ଖାଇବାକୁ ପଡିଲା |",
+"Tāṅku āmba khāibāku paḍilā |"
+],
+"She has to eat mangoes": [
+"ତାଙ୍କୁ ଆମ୍ବ ଖାଇବାକୁ ପଡିବ |",
+"Tāṅku āmba khāibāku paḍiba |"
+],
+"She has to eat tamarind": [
+"ତାଙ୍କୁ ଚାମଚ ଖାଇବାକୁ ପଡିବ |",
+"Tāṅku cāmaca khāibāku paḍiba |"
+],
+"She has to eat tamarinds": [
+"ତାଙ୍କୁ ଚାମଚ ଖାଇବାକୁ ପଡିବ |",
+"Tāṅku cāmaca khāibāku paḍiba |"
+],
+"She has to eat medicine": [
+"ତାଙ୍କୁ medicine ଷଧ ଖାଇବାକୁ ପଡିବ |",
+"Tāṅku medicine ṣadha khāibāku paḍiba |"
+],
+"She has to eat medicines": [
+"ତାଙ୍କୁ medicines ଷଧ ଖାଇବାକୁ ପଡିବ |",
+"Tāṅku medicines ṣadha khāibāku paḍiba |"
+],
+"I have to go": [
+"ମୋତେ ଯିବାକୁ ପଡିବ |",
+"Mote yibāku paḍiba |"
+],
+"We have to speak": [
+"ଆମକୁ କହିବାକୁ ପଡିବ |",
+"Āmaku kahibāku paḍiba |"
+],
+"I keep speaking": [
+"ମୁଁ କହୁଛି",
+"Mu~ kahuchi"
+],
+"I kept speaking": [
+"ମୁଁ କହିଲି",
+"Mu~ kahili"
+],
+"I will keep speaking": [
+"ମୁଁ କହିବି",
+"Mu~ kahibi"
+],
+"You keep speaking": [
+"ତୁମେ କଥାବାର୍ତ୍ତା ଜାରି ରଖ |",
+"Tume kathābārttā jāri rakha |"
+],
+"You kept speaking": [
+"ତୁମେ କଥା କହିଥିଲ",
+"Tume kathā kahithila"
+],
+"You will keep speaking": [
+"ତୁମେ କହିବ",
+"Tume kahiba"
+],
+"Keep speaking! (Imperative)": [
+"କଥାବାର୍ତ୍ତା ଜାରି ରଖ! (ଜରୁରୀ)",
+"Kathābārttā jāri rakha! (jarurī)"
+],
+"He is taller than me": [
+"ସେ ମୋଠାରୁ ଲମ୍ବା",
+"Se moṭhāru lambā"
+],
+"I am shorter than you": [
+"ମୁଁ ତୁମଠାରୁ ଛୋଟ",
+"Mu~ tumaṭhāru choṭa"
+],
+"They were happier than now": [
+"ସେମାନେ ବର୍ତ୍ତମାନ ଅପେକ୍ଷା ଅଧିକ ଖୁସି ଥିଲେ |",
+"Semāne barttamāna apekṣā adhika khusi thile |"
+],
+"He is best": [
+"ସେ ସର୍ବୋତ୍ତମ",
+"Se sarbottama"
+],
+"Everest is the tallest peak": [
+"ଏଭରେଷ୍ଟ ହେଉଛି ଉଚ୍ଚତମ ଶିଖର |",
+"Ebhareṣṭa heuchi uccatama śikhara |"
+],
+"She was the youngest player": [
+"ସେ ସବୁଠାରୁ କନିଷ୍ଠ ଖେଳାଳି ଥିଲେ |",
+"Se sabuṭhāru kaniṣṭha kheḻāḻi thile |"
+],
+"Your voice is loudest of all": [
+"ତୁମର ସ୍ୱର ସବୁଠୁ ଅଧିକ ଉଚ୍ଚ ଅଟେ |",
+"Tumara sୱra sabuṭhu adhika ucca aṭe |"
+],
+"Your name is known to me": [
+"ତୁମର ନାମ ମୋତେ ଜଣା",
+"Tumara nāma mote jaṇā"
+],
+"She knows his address": [
+"ସେ ତାଙ୍କର ଠିକଣା ଜାଣନ୍ତି |",
+"Se tāṅkara ṭhikaṇā jāṇanti |"
+],
+"She knew his address": [
+"ସେ ତାଙ୍କର ଠିକଣା ଜାଣିଥିଲେ",
+"Se tāṅkara ṭhikaṇā jāṇithile"
+],
+"Do you know it?": [
+"ଆପଣ ଏହା ଜାଣିଛନ୍ତି କି?",
+"Āpaṇa ehā jāṇichanti ki?"
+],
+"Did she know that?": [
+"ସେ ଏହା ଜାଣିଥିଲେ କି?",
+"Se ehā jāṇithile ki?"
+],
+"Your name is not known to me": [
+"ତୁମର ନାମ ମୋତେ ଜଣା ନାହିଁ |",
+"Tumara nāma mote jaṇā nāhi~ |"
+],
+"She does not know his address": [
+"ସେ ତାଙ୍କ ଠିକଣା ଜାଣନ୍ତି ନାହିଁ |",
+"Se tāṅka ṭhikaṇā jāṇanti nāhi~ |"
+],
+"She did not know his address": [
+"ସେ ତାଙ୍କ ଠିକଣା ଜାଣି ନଥିଲେ",
+"Se tāṅka ṭhikaṇā jāṇi nathile"
+],
+"Don't you know it?": [
+"ଆପଣ ଏହା ଜାଣି ନାହାଁନ୍ତି କି?",
+"Āpaṇa ehā jāṇi nāhā~nti ki?"
+],
+"Didn't she know that?": [
+"ସେ ଜାଣି ନଥିଲେ କି?",
+"Se jāṇi nathile ki?"
+],
+"I know eating cake": [
+"ମୁଁ ଜାଣେ କେକ୍ ଖାଇବା |",
+"Mu~ jāṇe kek khāibā |"
+],
+"I know swimming": [
+"ମୁଁ ପହଁରିବା ଜାଣେ |",
+"Mu~ paha~ribā jāṇe |"
+],
+"I know Japanese": [
+"ମୁଁ ଜାପାନୀ ଜାଣେ |",
+"Mu~ jāpānī jāṇe |"
+],
+"I know cooking": [
+"ମୁଁ ରାନ୍ଧିବା ଜାଣିଛି |",
+"Mu~ rāndhibā jāṇichi |"
+],
+"Do you know playing cricket?": [
+"ଆପଣ କ୍ରିକେଟ୍ ଖେଳିବା ଜାଣିଛନ୍ତି କି?",
+"Āpaṇa krikeṭ kheḻibā jāṇichanti ki?"
+],
+"I know killing mosquitoes": [
+"ମୁଁ ଜାଣେ ମଶା ମାରିବା |",
+"Mu~ jāṇe maśā māribā |"
+],
+"She used to know dancing before": [
+"ସେ ପୂର୍ବରୁ ନୃତ୍ୟ ଜାଣିଥିଲେ |",
+"Se pūrbaru nṛtẏa jāṇithile |"
+],
+"They knew to talk": [
+"ସେମାନେ କଥାବାର୍ତ୍ତା କରିବାକୁ ଜାଣିଥିଲେ",
+"Semāne kathābārttā karibāku jāṇithile"
+],
+"He learned. So he could speak Japanese": [
+"ସେ ଶିଖିଲେ | ତେଣୁ ସେ ଜାପାନିଜ୍ କହିପାରନ୍ତି |",
+"Se śikhile | teṇu se jāpānij kahipāranti |"
+],
+"I do not know eating cake": [
+"ମୁଁ କେକ୍ ଖାଇବା ଜାଣି ନାହିଁ |",
+"Mu~ kek khāibā jāṇi nāhi~ |"
+],
+"I do not know swimming": [
+"ମୁଁ ପହଁରିବା ଜାଣେ ନାହିଁ |",
+"Mu~ paha~ribā jāṇe nāhi~ |"
+],
+"I do not know Japanese": [
+"ମୁଁ ଜାପାନୀ ଜାଣେ ନାହିଁ |",
+"Mu~ jāpānī jāṇe nāhi~ |"
+],
+"She did not know dancing before": [
+"ସେ ଆଗରୁ ନାଚ ଜାଣି ନଥିଲେ",
+"Se āgaru nāca jāṇi nathile"
+],
+"They did not know to talk": [
+"ସେମାନେ କଥାବାର୍ତ୍ତା କରିବାକୁ ଜାଣି ନ ଥିଲେ",
+"Semāne kathābārttā karibāku jāṇi na thile"
+],
+"He did not learn. So he could not speak Japanese": [
+"ସେ ଶିଖିଲେ ନାହିଁ। ତେଣୁ ସେ ଜାପାନିଜ୍ କହିପାରିଲେ ନାହିଁ |",
+"Se śikhile nāhi~| teṇu se jāpānij kahipārile nāhi~ |"
+],
+"I(boy) know you": [
+"ମୁଁ (ବାଳକ) ତୁମକୁ ଜାଣେ",
+"Mu~ (bāḻaka) tumaku jāṇe"
+],
+"I(girl) know you": [
+"ମୁଁ (girl ିଅ) ତୁମକୁ ଜାଣେ",
+"Mu~ (girl ia) tumaku jāṇe"
+],
+"You know me": [
+"ତୁମେ ମୋତେ ଜାଣିଛ",
+"Tume mote jāṇicha"
+],
+"He knows Mr. Ram": [
+"ସେ ଶ୍ରୀ ରାମଙ୍କୁ ଜାଣନ୍ତି |",
+"Se śrī rāmaṅku jāṇanti |"
+],
+"Let's not play": [
+"ଚାଲ ଖେଳିବା ନାହିଁ |",
+"Cāla kheḻibā nāhi~ |"
+],
+"Let's not go": [
+"ଚାଲ ଯିବା ନାହିଁ |",
+"Cāla yibā nāhi~ |"
+],
+"Let's not speak": [
+"ଚାଲନ୍ତୁ କହିବା ନାହିଁ |",
+"Cālantu kahibā nāhi~ |"
+],
+"Shall we play cricket? (style 1)": [
+"ଆମେ କ୍ରିକେଟ୍ ଖେଳିବା କି? (ଶ style ଳୀ 1)",
+"Āme krikeṭ kheḻibā ki? (śa style ḻī 1)"
+],
+"Shall we play cricket? (style 2)": [
+"ଆମେ କ୍ରିକେଟ୍ ଖେଳିବା କି? (ଶ style ଳୀ 2)",
+"Āme krikeṭ kheḻibā ki? (śa style ḻī 2)"
+],
+"Shall we watch movie? (style 1)": [
+"ଆମେ ଚଳଚ୍ଚିତ୍ର ଦେଖିବା କି? (ଶ style ଳୀ 1)",
+"Āme caḻaccitra dekhibā ki? (śa style ḻī 1)"
+],
+"Shall we watch movie? (style 2)": [
+"ଆମେ ଚଳଚ୍ଚିତ୍ର ଦେଖିବା କି? (ଶ style ଳୀ 2)",
+"Āme caḻaccitra dekhibā ki? (śa style ḻī 2)"
+],
+"Shall we go home? (style 1)": [
+"ଆମେ ଘରକୁ ଯିବା କି? (ଶ style ଳୀ 1)",
+"Āme gharaku yibā ki? (śa style ḻī 1)"
+],
+"Shall we go home? (style 2)": [
+"ଆମେ ଘରକୁ ଯିବା କି? (ଶ style ଳୀ 2)",
+"Āme gharaku yibā ki? (śa style ḻī 2)"
+],
+"Shall we eat mango? (style 1)": [
+"ଆମେ ଆମ୍ବ ଖାଇବା କି? (ଶ style ଳୀ 1)",
+"Āme āmba khāibā ki? (śa style ḻī 1)"
+],
+"Shall we eat mango? (style 2)": [
+"ଆମେ ଆମ୍ବ ଖାଇବା କି? (ଶ style ଳୀ 2)",
+"Āme āmba khāibā ki? (śa style ḻī 2)"
+],
+"Shall we eat tamarind? (style 1)": [
+"ଆମେ ଚାମଚ ଖାଇବା କି? (ଶ style ଳୀ 1)",
+"Āme cāmaca khāibā ki? (śa style ḻī 1)"
+],
+"Shall we eat tamarind? (style 2)": [
+"ଆମେ ଚାମଚ ଖାଇବା କି? (ଶ style ଳୀ 2)",
+"Āme cāmaca khāibā ki? (śa style ḻī 2)"
+],
+"Let him play": [
+"ତାଙ୍କୁ ଖେଳିବାକୁ ଦିଅ |",
+"Tāṅku kheḻibāku dia |"
+],
+"Let me eat": [
+"ମୋତେ ଖାଇବାକୁ ଦିଅ |",
+"Mote khāibāku dia |"
+],
+"Let her speak": [
+"ତାଙ୍କୁ କହିବାକୁ ଦିଅ |",
+"Tāṅku kahibāku dia |"
+],
+"You all, Let him play": [
+"ଆପଣ ସମସ୍ତେ, ତାଙ୍କୁ ଖେଳିବାକୁ ଦିଅନ୍ତୁ |",
+"Āpaṇa samaste, tāṅku kheḻibāku diantu |"
+],
+"You all, Let me eat": [
+"ତୁମେ ସମସ୍ତେ, ମୋତେ ଖାଇବାକୁ ଦିଅ |",
+"Tume samaste, mote khāibāku dia |"
+],
+"You all, Let her speak": [
+"ଆପଣ ସମସ୍ତେ, ତାଙ୍କୁ କୁହନ୍ତୁ |",
+"Āpaṇa samaste, tāṅku kuhantu |"
+],
+"Don't let him play": [
+"ତାଙ୍କୁ ଖେଳିବାକୁ ଦିଅନ୍ତୁ ନାହିଁ |",
+"Tāṅku kheḻibāku diantu nāhi~ |"
+],
+"Don't let me eat": [
+"ମୋତେ ଖାଇବାକୁ ଦିଅ ନାହିଁ |",
+"Mote khāibāku dia nāhi~ |"
+],
+"You all, don't let her speak": [
+"ଆପଣ ସମସ୍ତେ, ତାଙ୍କୁ କହିବାକୁ ଦିଅନ୍ତୁ ନାହିଁ |",
+"Āpaṇa samaste, tāṅku kahibāku diantu nāhi~ |"
+],
+"You all, don't let me eat": [
+"ତୁମେ ସମସ୍ତେ, ମୋତେ ଖାଇବାକୁ ଦିଅ ନାହିଁ |",
+"Tume samaste, mote khāibāku dia nāhi~ |"
+],
+"I could not understand what you just said": [
+"ତୁମେ ଯାହା କହିଛ ମୁଁ ବୁ understand ିପାରିଲି ନାହିଁ |",
+"Tume yāhā kahicha mu~ bu understand ipārili nāhi~ |"
+],
+"Which fruit you want, show me that": [
+"ଆପଣ କେଉଁ ଫଳ ଚାହୁଁଛନ୍ତି, ମୋତେ ତାହା ଦେଖାନ୍ତୁ |",
+"Āpaṇa keu~ phaḻa cāhu~chanti, mote tāhā dekhāntu |"
+],
+"When you come I feel happy": [
+"ଯେତେବେଳେ ତୁମେ ଆସିବ ମୁଁ ଖୁସି ଅନୁଭବ କରେ |",
+"Yetebeḻe tume āsiba mu~ khusi anubhaba kare |"
+],
+"What is in your mind, tell me that": [
+"ତୁମର ମନରେ କଣ ଅଛି, ମୋତେ ତାହା କୁହ |",
+"Tumara manare kaṇa achi, mote tāhā kuha |"
+],
+"When you(girl) come I feel happy": [
+"ଯେତେବେଳେ ତୁମେ (girl ିଅ) ଆସିବ ମୁଁ ଖୁସି ଅନୁଭବ କରେ |",
+"Yetebeḻe tume (girl ia) āsiba mu~ khusi anubhaba kare |"
+],
+"Go back, the way you have come": [
+"ତୁମେ ଯେଉଁ ପଥରେ ଆସିଛ, ଫେରିଯାଅ |",
+"Tume yeu~ pathare āsicha, pheriyāa |"
+],
+"Give it to him, who wants it": [
+"ଯିଏ ଚାହାଁନ୍ତି, ତାଙ୍କୁ ଦିଅ |",
+"Yie cāhā~nti, tāṅku dia |"
+],
+"Tell me about them whom you read about": [
+"ତୁମେ ସେମାନଙ୍କ ବିଷୟରେ କାହା ବିଷୟରେ ପ read ଼, ମୋତେ କୁହ |",
+"Tume semānaṅka biṣaẏare kāhā biṣaẏare pa read ଼, mote kuha |"
+],
+"Wherever you will go I will come": [
+"ତୁମେ କୁଆଡେ ଯିବ ମୁଁ ଆସିବି |",
+"Tume kuāḍe yiba mu~ āsibi |"
+],
+"Whichever vegetables you want, you buy it": [
+"ଆପଣ କେଉଁ ପନିପରିବା ଚାହୁଁଛନ୍ତି, ଆପଣ ଏହାକୁ କିଣନ୍ତୁ |",
+"Āpaṇa keu~ paniparibā cāhu~chanti, āpaṇa ehāku kiṇantu |"
+],
+"Whenever you call he will answer": [
+"ଯେତେବେଳେ ତୁମେ ଡାକିବ ସେ ଉତ୍ତର ଦେବ |",
+"Yetebeḻe tume ḍākiba se uttara deba |"
+],
+"Do not smoke here": [
+"ଏଠାରେ ଧୂମପାନ କରନ୍ତୁ ନାହିଁ |",
+"Eṭhāre dhūmapāna karantu nāhi~ |"
+],
+"Do not use mobile phones": [
+"ମୋବାଇଲ୍ ଫୋନ୍ ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ |",
+"Mobāil phon bẏabahāra karantu nāhi~ |"
+],
+"Enter your preferences": [
+"ଆପଣଙ୍କର ପସନ୍ଦଗୁଡିକ ପ୍ରବେଶ କରନ୍ତୁ |",
+"Āpaṇaṅkara pasandaguḍika prabeśa karantu |"
+],
+"Write your address": [
+"ତୁମର ଠିକଣା ଲେଖ |",
+"Tumara ṭhikaṇā lekha |"
+],
+"Write your addresses": [
+"ତୁମର ଠିକଣା ଲେଖ |",
+"Tumara ṭhikaṇā lekha |"
+],
+"Enter your preference": [
+"ଆପଣଙ୍କର ପସନ୍ଦ ପ୍ରବେଶ କରନ୍ତୁ |",
+"Āpaṇaṅkara pasanda prabeśa karantu |"
+],
+"Speak your name": [
+"ତୁମର ନାମ କୁହ |",
+"Tumara nāma kuha |"
+],
+"Speak your names": [
+"ତୁମର ନାମ କୁହ |",
+"Tumara nāma kuha |"
+],
+"Do not speak": [
+"କୁହ ନାହିଁ",
+"Kuha nāhi~"
+],
+"Do not smoke": [
+"ଧୂମପାନ କର ନାହିଁ",
+"Dhūmapāna kara nāhi~"
+],
+"Do not cross road here": [
+"ଏଠାରେ ରାସ୍ତା ଅତିକ୍ରମ କରନ୍ତୁ ନାହିଁ |",
+"Eṭhāre rāstā atikrama karantu nāhi~ |"
+],
+"Do not pluck flowers": [
+"ଫୁଲ କାଟନ୍ତୁ ନାହିଁ |",
+"Phula kāṭantu nāhi~ |"
+],
+"I like to eat mango": [
+"ମୁଁ ଆମ୍ବ ଖାଇବାକୁ ପସନ୍ଦ କରେ |",
+"Mu~ āmba khāibāku pasanda kare |"
+],
+"I like to eat mangoes": [
+"ମୁଁ ଆମ୍ବ ଖାଇବାକୁ ପସନ୍ଦ କରେ |",
+"Mu~ āmba khāibāku pasanda kare |"
+],
+"He liked to open bag": [
+"ସେ ବ୍ୟାଗ ଖୋଲିବାକୁ ପସନ୍ଦ କରୁଥିଲେ",
+"Se bẏāga kholibāku pasanda karuthile"
+],
+"He liked to open bags": [
+"ସେ ବ୍ୟାଗ ଖୋଲିବାକୁ ପସନ୍ଦ କରୁଥିଲେ",
+"Se bẏāga kholibāku pasanda karuthile"
+],
+"She will like to sing song": [
+"ସେ ଗୀତ ଗାଇବାକୁ ପସନ୍ଦ କରିବେ |",
+"Se gīta gāibāku pasanda karibe |"
+],
+"She will like to sing songs": [
+"ସେ ଗୀତ ଗାଇବାକୁ ପସନ୍ଦ କରିବେ |",
+"Se gīta gāibāku pasanda karibe |"
+],
+"I do not like to eat mango": [
+"ମୁଁ ଆମ୍ବ ଖାଇବାକୁ ପସନ୍ଦ କରେ ନାହିଁ |",
+"Mu~ āmba khāibāku pasanda kare nāhi~ |"
+],
+"I do not like to eat mangoes": [
+"ମୁଁ ଆମ୍ବ ଖାଇବାକୁ ପସନ୍ଦ କରେ ନାହିଁ |",
+"Mu~ āmba khāibāku pasanda kare nāhi~ |"
+],
+"He did not like to open bag": [
+"ସେ ବ୍ୟାଗ ଖୋଲିବାକୁ ପସନ୍ଦ କରୁନଥିଲେ",
+"Se bẏāga kholibāku pasanda karunathile"
+],
+"She will not like to sing song": [
+"ସେ ଗୀତ ଗାଇବାକୁ ପସନ୍ଦ କରିବେ ନାହିଁ |",
+"Se gīta gāibāku pasanda karibe nāhi~ |"
+],
+"I like to see Kaushik": [
+"ମୁଁ କ ush ଶିକଙ୍କୁ ଦେଖିବାକୁ ପସନ୍ଦ କରେ |",
+"Mu~ ka ush śikaṅku dekhibāku pasanda kare |"
+],
+"He likes to push me": [
+"ସେ ମୋତେ ଠେଲିବାକୁ ପସନ୍ଦ କରନ୍ତି |",
+"Se mote ṭhelibāku pasanda karanti |"
+],
+"He likes to push her": [
+"ସେ ତାଙ୍କୁ ଠେଲିବାକୁ ପସନ୍ଦ କରନ୍ତି |",
+"Se tāṅku ṭhelibāku pasanda karanti |"
+],
+"They will like to hold us": [
+"ସେମାନେ ଆମକୁ ଧରି ରଖିବାକୁ ପସନ୍ଦ କରିବେ |",
+"Semāne āmaku dhari rakhibāku pasanda karibe |"
+],
+"Kaushik said that he would eat": [
+"ସେ ଖାଇବେ ବୋଲି କ ush ଶିକ କହିଛନ୍ତି",
+"Se khāibe boli ka ush śika kahichanti"
+],
+"I thought I would be late so I would have to run": [
+"ମୁଁ ଭାବିଲି ମୁଁ ବିଳମ୍ବ କରିବି ତେଣୁ ମୋତେ ଦ run ଡ଼ିବାକୁ ପଡ଼ିବ |",
+"Mu~ bhābili mu~ biḻamba karibi teṇu mote da run ḍa଼ibāku paḍa଼iba |"
+],
+"I would love to visit New York": [
+"ମୁଁ ନ୍ୟୁୟର୍କ ପରିଦର୍ଶନ କରିବାକୁ ପସନ୍ଦ କରିବି |",
+"Mu~ nẏuẏarka paridarśana karibāku pasanda karibi |"
+],
+"We would go, but we are too busy": [
+"ଆମେ ଯିବା, କିନ୍ତୁ ଆମେ ବହୁତ ବ୍ୟସ୍ତ |",
+"Āme yibā, kintu āme bahuta bẏasta |"
+],
+"I would not disclose it in any condition": [
+"ମୁଁ ଏହାକୁ କ any ଣସି ସର୍ତ୍ତରେ ପ୍ରକାଶ କରିବି ନାହିଁ |",
+"Mu~ ehāku ka any ṇasi sarttare prakāśa karibi nāhi~ |"
+],
+"Would you like to drink tea?": [
+"ଆପଣ ଚା ପିଇବାକୁ ଚାହୁଁଛନ୍ତି କି?",
+"Āpaṇa cā piibāku cāhu~chanti ki?"
+],
+"Would you please help me?": [
+"ଆପଣ ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରିବେ କି?",
+"Āpaṇa daẏākari mote sāhāyẏa karibe ki?"
+],
+"I would suggest you to take this medicine": [
+"ମୁଁ ତୁମକୁ ଏହି medicine ଷଧ ଖାଇବାକୁ ପରାମର୍ଶ ଦେବି |",
+"Mu~ tumaku ehi medicine ṣadha khāibāku parāmarśa debi |"
+],
+"I understand its importance": [
+"ମୁଁ ଏହାର ଗୁରୁତ୍ୱ ବୁ understand ିପାରୁଛି |",
+"Mu~ ehāra gurutୱ bu understand ipāruchi |"
+],
+"He understood the logic": [
+"ସେ ତର୍କକୁ ବୁ understood ିଥିଲେ",
+"Se tarkaku bu understood ithile"
+],
+"She came to know the news": [
+"ସେ ଏହି ଖବର ଜାଣିବାକୁ ପାଇଲେ",
+"Se ehi khabara jāṇibāku pāile"
+],
+"They will understand your mistakes": [
+"ସେମାନେ ତୁମର ଭୁଲ ବୁ understand ିବେ |",
+"Semāne tumara bhula bu understand ibe |"
+],
+"Did you understand?": [
+"ତୁମେ ବୁ understand ିଲ କି?",
+"Tume bu understand ila ki?"
+],
+"She does not understand": [
+"ସେ ବୁ understand ନ୍ତି ନାହିଁ |",
+"Se bu understand nti nāhi~ |"
+],
+"He will not come to know this": [
+"ସେ ଏହା ଜାଣିବେ ନାହିଁ |",
+"Se ehā jāṇibe nāhi~ |"
+],
+"You are coming": [
+"ତୁମେ ଆସୁଛ",
+"Tume āsucha"
+],
+"You are coming, aren't you?": [
+"ତୁମେ ଆସୁଛ, ନୁହେଁ କି?",
+"Tume āsucha, nuhe~ ki?"
+],
+"She did not speak": [
+"ସେ କିଛି କହି ନ ଥିଲେ",
+"Se kichi kahi na thile"
+],
+"She did not speak, did she?": [
+"ସେ କିଛି କହିଲା ନାହିଁ କି?",
+"Se kichi kahilā nāhi~ ki?"
+],
+"He will do": [
+"ସେ କରିବେ",
+"Se karibe"
+],
+"He will do, won't he?": [
+"ସେ କରିବେ, ନୁହେଁ କି?",
+"Se karibe, nuhe~ ki?"
+],
+"I remember you": [
+"ମୁଁ ତୁମକୁ ମନେ ପକାଉଛି",
+"Mu~ tumaku mane pakāuchi"
+],
+"You remember me": [
+"ତୁମେ ମୋତେ ମନେ ରଖିଛ |",
+"Tume mote mane rakhicha |"
+],
+"We remember Mary": [
+"ଆମେ ମରିୟମଙ୍କୁ ମନେ ରଖିଛୁ |",
+"Āme mariẏamaṅku mane rakhichu |"
+],
+"Mary remembers us": [
+"ମରିୟମ ଆମକୁ ମନେ ରଖିଛନ୍ତି |",
+"Mariẏama āmaku mane rakhichanti |"
+],
+"I remember you (miss)": [
+"ମୁଁ ତୁମକୁ ମନେ ପକାଉଛି (ମିସ୍)",
+"Mu~ tumaku mane pakāuchi (mis)"
+],
+"Mary remembered us": [
+"ମରିୟମ ଆମକୁ ମନେ ପକାଇଲେ |",
+"Mariẏama āmaku mane pakāile |"
+],
+"Peter misses his friend": [
+"ପିତର ତାଙ୍କ ସାଙ୍ଗକୁ ମନେ ପକାନ୍ତି |",
+"Pitara tāṅka sāṅgaku mane pakānti |"
+],
+"She missed her mother a lot": [
+"ସେ ତାଙ୍କ ମାତାଙ୍କୁ ବହୁତ ମନେ କରୁଥିଲେ |",
+"Se tāṅka mātāṅku bahuta mane karuthile |"
+],
+"I will remember your favor": [
+"ମୁଁ ତୁମର ଅନୁଗ୍ରହ ମନେ ରଖିବି |",
+"Mu~ tumara anugraha mane rakhibi |"
+],
+"He always remembered my advice": [
+"ସେ ମୋର ପରାମର୍ଶକୁ ସବୁବେଳେ ମନେ ରଖିଥିଲେ",
+"Se mora parāmarśaku sabubeḻe mane rakhithile"
+],
+"I want to eat mango": [
+"ମୁଁ ଆମ୍ବ ଖାଇବାକୁ ଚାହୁଁଛି |",
+"Mu~ āmba khāibāku cāhu~chi |"
+],
+"I want to eat mangoes": [
+"ମୁଁ ଆମ୍ବ ଖାଇବାକୁ ଚାହୁଁଛି |",
+"Mu~ āmba khāibāku cāhu~chi |"
+],
+"He wanted to open bag": [
+"ସେ ବ୍ୟାଗ ଖୋଲିବାକୁ ଚାହୁଁଥିଲେ",
+"Se bẏāga kholibāku cāhu~thile"
+],
+"He wanted to open bags": [
+"ସେ ବ୍ୟାଗ ଖୋଲିବାକୁ ଚାହୁଁଥିଲେ",
+"Se bẏāga kholibāku cāhu~thile"
+],
+"She will want to sing song": [
+"ସେ ଗୀତ ଗାଇବାକୁ ଇଚ୍ଛା କରିବେ |",
+"Se gīta gāibāku icchā karibe |"
+],
+"She will want to sing songs": [
+"ସେ ଗୀତ ଗାଇବାକୁ ଇଚ୍ଛା କରିବେ |",
+"Se gīta gāibāku icchā karibe |"
+],
+"I wanted to go": [
+"ମୁଁ ଯିବାକୁ ଚାହୁଁଥିଲି",
+"Mu~ yibāku cāhu~thili"
+],
+"I will want to run": [
+"ମୁଁ ଦ to ଡ଼ିବାକୁ ଚାହେଁ",
+"Mu~ da to ḍa଼ibāku cāhe~"
+],
+"I do not want to eat mango": [
+"ମୁଁ ଆମ୍ବ ଖାଇବାକୁ ଚାହେଁ ନାହିଁ |",
+"Mu~ āmba khāibāku cāhe~ nāhi~ |"
+],
+"He did not want to open bag": [
+"ସେ ବ୍ୟାଗ ଖୋଲିବାକୁ ଚାହୁଁନଥିଲେ",
+"Se bẏāga kholibāku cāhu~nathile"
+],
+"She will not want to sing song": [
+"ସେ ଗୀତ ଗାଇବାକୁ ଇଚ୍ଛା କରିବେ ନାହିଁ |",
+"Se gīta gāibāku icchā karibe nāhi~ |"
+],
+"Kaushik wants to see Peter": [
+"କ ush ଶିକ ପିଟରଙ୍କୁ ଦେଖିବାକୁ ଚାହୁଁଛନ୍ତି |",
+"Ka ush śika piṭaraṅku dekhibāku cāhu~chanti |"
+],
+"Kaushik wants to see him": [
+"କ ush ଶିକ ତାଙ୍କୁ ଦେଖିବାକୁ ଚାହୁଁଛନ୍ତି |",
+"Ka ush śika tāṅku dekhibāku cāhu~chanti |"
+],
+"Kaushik wants to see you": [
+"କ ush ଶିକ ଆପଣଙ୍କୁ ଦେଖିବାକୁ ଚାହୁଁଛନ୍ତି |",
+"Ka ush śika āpaṇaṅku dekhibāku cāhu~chanti |"
+],
+"I want you to finish work": [
+"ମୁଁ ଚାହେଁ ତୁମେ କାମ ଶେଷ କର |",
+"Mu~ cāhe~ tume kāma śeṣa kara |"
+],
+"She wants me to avoid junk food": [
+"ସେ ଚାହାଁନ୍ତି ଯେ ମୁଁ ଜଙ୍କ ଫୁଡରୁ ଦୂରେଇ ରୁହନ୍ତୁ |",
+"Se cāhā~nti ye mu~ jaṅka phuḍaru dūrei ruhantu |"
+],
+"Kaushik wants students to practice more": [
+"କ ush ଶିକ ଚାହୁଁଛନ୍ତି ଯେ ଛାତ୍ରମାନେ ଅଧିକ ଅଭ୍ୟାସ କରନ୍ତୁ",
+"Ka ush śika cāhu~chanti ye chātramāne adhika abhẏāsa karantu"
+],
+"Kaushik wanted students to practice more": [
+"କ ush ଶିକ ଚାହୁଁଥିଲେ ଯେ ଛାତ୍ରମାନେ ଅଧିକ ଅଭ୍ୟାସ କରନ୍ତୁ",
+"Ka ush śika cāhu~thile ye chātramāne adhika abhẏāsa karantu"
+],
+"Students want Kaushik to talk slowly": [
+"ଛାତ୍ରମାନେ ଚାହାଁନ୍ତି ଯେ କ ush ଶିକ ଧୀରେ ଧୀରେ କଥା ହୁଅନ୍ତୁ |",
+"Chātramāne cāhā~nti ye ka ush śika dhīre dhīre kathā huantu |"
+],
+"I am supposed to meet him tomorrow": [
+"ମୁଁ ଆସନ୍ତାକାଲି ତାଙ୍କୁ ଭେଟିବା କଥା |",
+"Mu~ āsantākāli tāṅku bheṭibā kathā |"
+],
+"I am supposed to finish that bottle": [
+"ମୁଁ ସେହି ବୋତଲ ଶେଷ କରିବା କଥା |",
+"Mu~ sehi botala śeṣa karibā kathā |"
+],
+"He is supposed to finish that bottle": [
+"ସେ ସେହି ବୋତଲ ଶେଷ କରିବା କଥା |",
+"Se sehi botala śeṣa karibā kathā |"
+],
+"She is supposed to finish that bottle": [
+"ସେ ସେହି ବୋତଲ ଶେଷ କରିବା କଥା |",
+"Se sehi botala śeṣa karibā kathā |"
+],
+"I/He/She was supposed to finish that bottle": [
+"ମୁଁ / ସେ / ସେ ସେହି ବୋତଲ ଶେଷ କରିବା ଉଚିତ୍ |",
+"Mu~ / se / se sehi botala śeṣa karibā ucit |"
+],
+"I/He/She was supposed to finish those bottles": [
+"ମୁଁ / ସେ / ସେ ସେହି ବୋତଲଗୁଡିକ ଶେଷ କରିବା ଉଚିତ୍ |",
+"Mu~ / se / se sehi botalaguḍika śeṣa karibā ucit |"
+],
+"I am supposed to go there tomorrow": [
+"ମୁଁ କାଲି ସେଠାକୁ ଯିବାର ଅଛି |",
+"Mu~ kāli seṭhāku yibāra achi |"
+],
+"He is supposed to come tomorrow": [
+"ସେ ଆସନ୍ତାକାଲି ଆସିବେ ବୋଲି ଅନୁମାନ କରାଯାଉଛି",
+"Se āsantākāli āsibe boli anumāna karāyāuchi"
+],
+"We could not meet but next time we must meet": [
+"ଆମେ ସାକ୍ଷାତ କରିପାରିଲୁ ନାହିଁ କିନ୍ତୁ ପରବର୍ତ୍ତୀ ସମୟରେ ଆମକୁ ସାକ୍ଷାତ କରିବାକୁ ପଡିବ |",
+"Āme sākṣāta karipārilu nāhi~ kintu parabarttī samaẏare āmaku sākṣāta karibāku paḍiba |"
+],
+"You must pay me ransom tomorrow itself": [
+"ଆସନ୍ତାକାଲି ତୁମେ ମୋତେ ମୁକ୍ତି ଦେବାକୁ ପଡିବ |",
+"Āsantākāli tume mote mukti debāku paḍiba |"
+],
+"I get a prize": [
+"ମୁଁ ଏକ ପୁରସ୍କାର ପାଏ |",
+"Mu~ eka puraskāra pāe |"
+],
+"I get 10 prizes": [
+"ମୁଁ 10 ଟି ପୁରସ୍କାର ପାଇଛି |",
+"Mu~ 10 ṭi puraskāra pāichi |"
+],
+"He gets a prize": [
+"ସେ ଏକ ପୁରସ୍କାର ପାଆନ୍ତି |",
+"Se eka puraskāra pāānti |"
+],
+"He gets 10 prizes": [
+"ସେ 10 ଟି ପୁରସ୍କାର ପାଆନ୍ତି |",
+"Se 10 ṭi puraskāra pāānti |"
+],
+"He got a prize": [
+"ସେ ଏକ ପୁରସ୍କାର ପାଇଲେ |",
+"Se eka puraskāra pāile |"
+],
+"He got 10 prizes": [
+"ତାଙ୍କୁ 10 ଟି ପୁରସ୍କାର ମିଳିଥିଲା ​​|",
+"Tāṅku 10 ṭi puraskāra miḻithilā ​​|"
+],
+"I found my wallet under the bed": [
+"ମୁଁ ବିଛଣା ତଳେ ମୋ ୱାଲେଟ୍ ପାଇଲି |",
+"Mu~ bichaṇā taḻe mo ୱāleṭ pāili |"
+],
+"She became angry": [
+"ସେ ରାଗିଗଲେ",
+"Se rāgigale"
+],
+"He became angry": [
+"ସେ ରାଗିଗଲେ",
+"Se rāgigale"
+],
+"He agrees to this condition": [
+"ସେ ଏହି ସର୍ତ୍ତରେ ରାଜି ହୋଇଛନ୍ତି",
+"Se ehi sarttare rāji hoichanti"
+],
+"He agrees to these conditions": [
+"ସେ ଏହି ସର୍ତ୍ତଗୁଡିକରେ ରାଜି ହୋଇଛନ୍ତି",
+"Se ehi sarttaguḍikare rāji hoichanti"
+],
+"Finish it off in 10 minutes": [
+"ଏହାକୁ ୧୦ ମିନିଟରେ ଶେଷ କରନ୍ତୁ |",
+"Ehāku 10 miniṭare śeṣa karantu |"
+],
+"Do not hesitate. Speak it out": [
+"କୁଣ୍ଠାବୋଧ କରନ୍ତୁ ନାହିଁ | ଏହାକୁ କୁହ |",
+"Kuṇṭhābodha karantu nāhi~ | ehāku kuha |"
+],
+"Nobody is looking. Just do it": [
+"କେହି ଦେଖୁ ନାହାଁନ୍ତି | କେବଳ ତାହା କର |",
+"Kehi dekhu nāhā~nti | kebaḻa tāhā kara |"
+],
+"I somehow managed to gulp it": [
+"ମୁଁ କ h ଣସି ପ୍ରକାରେ ଏହାକୁ ଖଣ୍ଡନ କରିବାରେ ସଫଳ ହେଲି |",
+"Mu~ ka h ṇasi prakāre ehāku khaṇḍana karibāre saphaḻa heli |"
+],
+"He quickly came and read the letter": [
+"ସେ ଶୀଘ୍ର ଆସି ଚିଠି ପ read ିଲେ |",
+"Se śīghra āsi ciṭhi pa read ile |"
+],
+"Ask whatever you want; right now": [
+"ଆପଣ ଯାହା ଚାହାଁନ୍ତି ପଚାରନ୍ତୁ; ବର୍ତ୍ତମାନ",
+"Āpaṇa yāhā cāhā~nti pacārantu; barttamāna"
+],
+"You may call me whatever you want": [
+"ଆପଣ ଯାହା ଚାହାଁନ୍ତି ମୋତେ ଡାକନ୍ତି |",
+"Āpaṇa yāhā cāhā~nti mote ḍākanti |"
+],
+"Get that work done by him": [
+"ସେହି କାମ ତାଙ୍କ ଦ୍ୱାରା କର |",
+"Sehi kāma tāṅka dୱārā kara |"
+],
+"I made her take exercise every day": [
+"ମୁଁ ତାଙ୍କୁ ପ୍ରତିଦିନ ବ୍ୟାୟାମ କରିବାକୁ ପ୍ରସ୍ତୁତ କଲି |",
+"Mu~ tāṅku pratidina bẏāẏāma karibāku prastuta kali |"
+],
+"I washed clothes very hard": [
+"ମୁଁ ବହୁତ ପୋଷାକ ଧୋଇଲି |",
+"Mu~ bahuta poṣāka dhoili |"
+],
+"Batsman hit every ball very hard": [
+"ବ୍ୟାଟ୍ସମ୍ୟାନ୍ ପ୍ରତ୍ୟେକ ବଲ୍କୁ ବହୁତ କଷ୍ଟ ଦେଇଥିଲେ",
+"Bẏāṭsamẏān pratẏeka balku bahuta kaṣṭa deithile"
+],
+"I just told him we drank liquor": [
+"ମୁଁ ତାଙ୍କୁ କହିଲି ଆମେ ମଦ ପିଇଛୁ |",
+"Mu~ tāṅku kahili āme mada piichu |"
+],
+"Oh my God! What have I done!": [
+"ହେ ମୋର ପରମେଶ୍ୱର! ମୁଁ କ’ଣ କରିଛି!",
+"He mora parameśୱra! mu~ ka’ṇa karichi!"
+],
+"Now keep crying": [
+"ଏବେ କାନ୍ଦ |",
+"Ebe kānda |"
+],
+"She will search it forever": [
+"ସେ ସବୁଦିନ ପାଇଁ ଖୋଜିବେ |",
+"Se sabudina pāi~ khojibe |"
+],
+"I forgot to tell you": [
+"ମୁଁ ତୁମକୁ କହିବାକୁ ଭୁଲିଗଲି |",
+"Mu~ tumaku kahibāku bhuligali |"
+],
+"She could not see the sign": [
+"ସେ ଚିହ୍ନ ଦେଖି ପାରିଲା ନାହିଁ |",
+"Se cihna dekhi pārilā nāhi~ |"
+],
+"Start following my advice": [
+"ମୋର ପରାମର୍ଶ ଅନୁସରଣ କରିବା ଆରମ୍ଭ କର |",
+"Mora parāmarśa anusaraṇa karibā ārambha kara |"
+],
+"If you had taken exercise every day then": [
+"ଯଦି ତୁମେ ପ୍ରତିଦିନ ବ୍ୟାୟାମ କରିଥାନ୍ତ |",
+"Yadi tume pratidina bẏāẏāma karithānta |"
+],
+"I was about to open the door when I saw": [
+"ମୁଁ ଦେଖିଲି କବାଟ ଖୋଲିବାକୁ ଯାଉଥିଲି |",
+"Mu~ dekhili kabāṭa kholibāku yāuthili |"
+],
+"If we think of eating mango then": [
+"ଯଦି ଆମେ ଆମ୍ବ ଖାଇବାକୁ ଚିନ୍ତା କରୁ |",
+"Yadi āme āmba khāibāku cintā karu |"
+],
+"If he decides to take revenge": [
+"ଯଦି ସେ ପ୍ରତିଶୋଧ ନେବାକୁ ସ୍ଥିର କରନ୍ତି |",
+"Yadi se pratiśodha nebāku sthira karanti |"
+],
+"Give him your information": [
+"ତାଙ୍କୁ ତୁମର ସୂଚନା ଦିଅ |",
+"Tāṅku tumara sūcanā dia |"
+],
+"Keep tea ready": [
+"ଚା ପ୍ରସ୍ତୁତ ରଖନ୍ତୁ |",
+"Cā prastuta rakhantu |"
+],
+"We have booked tickets": [
+"ଆମେ ଟିକେଟ୍ ବୁକ୍ କରିଛୁ |",
+"Āme ṭikeṭ buk karichu |"
+],
+"I had already given my password": [
+"ମୁଁ ମୋର ପାସୱାର୍ଡ ଦେଇସାରିଛି |",
+"Mu~ mora pāsaୱārḍa deisārichi |"
+],
+"I have decided plan for tonight": [
+"ମୁଁ ଆଜି ରାତି ପାଇଁ ଯୋଜନା ସ୍ଥିର କରିଛି |",
+"Mu~ āji rāti pāi~ yojanā sthira karichi |"
+],
+"He happened to say he was from India": [
+"ସେ କହିଥିଲେ ଯେ ସେ ଭାରତରୁ ଆସିଛନ୍ତି",
+"Se kahithile ye se bhārataru āsichanti"
+],
+"I happened to hear about strike": [
+"ମୁଁ ଧର୍ମଘଟ ବିଷୟରେ ଶୁଣିବାକୁ ପାଇଲି |",
+"Mu~ dharmaghaṭa biṣaẏare śuṇibāku pāili |"
+],
+"Hey! When did you come?": [
+"ହେ! ତୁମେ କେବେ ଆସିଲ?",
+"He! tume kebe āsila?"
+],
+"Nice smell / Very tasty": [
+"ଭଲ ଗନ୍ଧ / ବହୁତ ସ୍ୱାଦିଷ୍ଟ |",
+"Bhala gandha / bahuta sୱādiṣṭa |"
+],
+"Oh my God! Who did this?": [
+"ହେ ମୋର ପରମେଶ୍ୱର! ଏହା କିଏ କଲା?",
+"He mora parameśୱra! ehā kie kalā?"
+],
+"Oh! He failed!": [
+"ଓ Oh! ସେ ବିଫଳ ହୋଇଥିଲେ!",
+"O Oh! se biphaḻa hoithile!"
+],
+"No! He will never do it": [
+"ନା! ସେ କଦାପି ତାହା କରିବେ ନାହିଁ |",
+"Nā! se kadāpi tāhā karibe nāhi~ |"
+],
+"No! I do not believe": [
+"ନା! ମୁଁ ବିଶ୍ୱାସ କରେ ନାହିଁ",
+"Nā! mu~ biśୱāsa kare nāhi~"
+],
+"Yes! I will surely come": [
+"ହଁ! ମୁଁ ନିଶ୍ଚିତ ଭାବେ ଆସିବି",
+"Ha~! mu~ niścita bhābe āsibi"
+],
+"Hmm! I got it": [
+"ହମ୍! ମୁଁ ପାଇଲି",
+"Ham! mu~ pāili"
+],
+"Well done! You won": [
+"ଭଲ କାମ! ତୁମେ ଜିତିଲ |",
+"Bhala kāma! tume jitila |"
+],
+"Mummy! It is paining": [
+"ମମି! ଏହା ଯନ୍ତ୍ରଣା ଦେଉଛି |",
+"Mami! ehā yantraṇā deuchi |"
+],
+"Yuck! It looks ugly": [
+"ହଁ! ଏହା ଅଶୁଭ ଦେଖାଯାଏ |",
+"Ha~! ehā aśubha dekhāyāe |"
+],
+"I spit on your cowardice": [
+"ମୁଁ ତୁମର ଭୟଭୀତତା ଉପରେ ଛେପ ପକେଇଲି |",
+"Mu~ tumara bhaẏabhītatā upare chepa pakeili |"
+],
+"Shhh! Keep quiet": [
+"ଶାହ! ଚୁପ୍ ରୁହ |",
+"Śāha! cup ruha |"
+],
+"How well you danced!": [
+"ତୁମେ କେତେ ଭଲ ନାଚିଲ!",
+"Tume kete bhala nācila!"
+],
+"What a fool he is!": [
+"ସେ କେତେ ମୂର୍ଖ!",
+"Se kete mūrkha!"
+],
+"Oh! What happened then?": [
+"ଓ Oh! ତା’ପରେ କ’ଣ ହେଲା?",
+"O Oh! tā’pare ka’ṇa helā?"
+],
+"Oh! When did you come?": [
+"ଓ Oh! ତୁମେ କେବେ ଆସିଲ?",
+"O Oh! tume kebe āsila?"
+],
+"Someone may see it! (blush)": [
+"କେହି କେହି ଏହାକୁ ଦେଖିପାରନ୍ତି! (ବ୍ଲସ୍)",
+"Kehi kehi ehāku dekhipāranti! (blas)"
+],
+"May I come": [
+"ମୁଁ ଆସିପାରେ",
+"Mu~ āsipāre"
+],
+"May I go": [
+"ମୁଁ ଯାଇପାରେ",
+"Mu~ yāipāre"
+],
+"May we come": [
+"ଆମେ ଆସିବା |",
+"Āme āsibā |"
+],
+"May we go": [
+"ଆମେ ଯିବା |",
+"Āme yibā |"
+],
+"May we speak": [
+"ଆମେ କହିବା |",
+"Āme kahibā |"
+],
+"May you come": [
+"ଆପଣ ଆସନ୍ତୁ",
+"Āpaṇa āsantu"
+],
+"May you speak": [
+"ଆପଣ କହିପାରନ୍ତି |",
+"Āpaṇa kahipāranti |"
+],
+"May he tell": [
+"ସେ କୁହନ୍ତୁ |",
+"Se kuhantu |"
+],
+"Can I tell": [
+"ମୁଁ କହିପାରେ କି?",
+"Mu~ kahipāre ki?"
+],
+"Can I write": [
+"ମୁଁ ଲେଖି ପାରିବି କି?",
+"Mu~ lekhi pāribi ki?"
+],
+"May you give pen": [
+"ଆପଣ କଲମ ଦିଅନ୍ତୁ |",
+"Āpaṇa kalama diantu |"
+],
+"Please give pen": [
+"ଦୟାକରି କଲମ ଦିଅନ୍ତୁ |",
+"Daẏākari kalama diantu |"
+],
+"Please tell address": [
+"ଦୟାକରି ଠିକଣା କୁହନ୍ତୁ |",
+"Daẏākari ṭhikaṇā kuhantu |"
+],
+"He may go": [
+"ସେ ଯାଇପାରନ୍ତି |",
+"Se yāipāranti |"
+],
+"I may sing": [
+"ମୁଁ ଗୀତ ଗାଇପାରେ |",
+"Mu~ gīta gāipāre |"
+],
+"He might come": [
+"ସେ ଆସିପାରନ୍ତି |",
+"Se āsipāranti |"
+],
+"He might have gone yesterday": [
+"ସେ ହୁଏତ ଗତକାଲି ଯାଇଥାନ୍ତେ |",
+"Se hueta gatakāli yāithānte |"
+],
+"She might have completed it": [
+"ସେ ହୁଏତ ଏହାକୁ ସମାପ୍ତ କରିଥିବେ |",
+"Se hueta ehāku samāpta karithibe |"
+],
+"They might have returned yesterday": [
+"ସେମାନେ ହୁଏତ ଗତକାଲି ଫେରି ଆସିଥିବେ |",
+"Semāne hueta gatakāli pheri āsithibe |"
+],
+"He had gone": [
+"ସେ ଯାଇଥିଲେ",
+"Se yāithile"
+],
+"He might have gone": [
+"ସେ ଯାଇଥାନ୍ତେ |",
+"Se yāithānte |"
+],
+"She had said": [
+"ସେ କହିଥିଲେ",
+"Se kahithile"
+],
+"She might have said": [
+"ସେ ହୁଏତ କହିଥାନ୍ତେ |",
+"Se hueta kahithānte |"
+],
+"You have eaten mango": [
+"ତୁମେ ଆମ୍ବ ଖାଇଛ |",
+"Tume āmba khāicha |"
+],
+"You might have eaten mango": [
+"ଆପଣ ଆମ୍ବ ଖାଇଥିବେ |",
+"Āpaṇa āmba khāithibe |"
+],
+"The day I like": [
+"ଯେଉଁ ଦିନ ମୁଁ ପସନ୍ଦ କରେ",
+"Yeu~ dina mu~ pasanda kare"
+],
+"Boy who is giving": [
+"ଦେଉଥିବା ବାଳକ",
+"Deuthibā bāḻaka"
+],
+"Person who is dancing": [
+"ନାଚୁଥିବା ବ୍ୟକ୍ତି |",
+"Nācuthibā bẏakti |"
+],
+"Pot on table": [
+"ଟେବୁଲ ଉପରେ ହାଣ୍ଡି |",
+"Ṭebula upare hāṇḍi |"
+],
+"Jar on table": [
+"ଟେବୁଲ୍ ଉପରେ ପାତ୍ର |",
+"Ṭebul upare pātra |"
+],
+"Leaf on table": [
+"ଟେବୁଲ ଉପରେ ପତ୍ର |",
+"Ṭebula upare patra |"
+],
+"Gift inside box": [
+"ବାକ୍ସ ଭିତରେ ଉପହାର |",
+"Bāksa bhitare upahāra |"
+],
+"Area outside my home": [
+"ମୋ ଘର ବାହାରେ କ୍ଷେତ୍ର |",
+"Mo ghara bāhāre kṣetra |"
+],
+"I make him say": [
+"ମୁଁ ତାଙ୍କୁ କହୁଛି |",
+"Mu~ tāṅku kahuchi |"
+],
+"I will make him say": [
+"ମୁଁ ତାଙ୍କୁ କହିବି",
+"Mu~ tāṅku kahibi"
+],
+"I made him say": [
+"ମୁଁ ତାଙ୍କୁ କହିଲି",
+"Mu~ tāṅku kahili"
+],
+"He made me work": [
+"ସେ ମୋତେ କାମ କରାଇଲେ",
+"Se mote kāma karāile"
+],
+"He makes me work": [
+"ସେ ମୋତେ କାମ କରନ୍ତି |",
+"Se mote kāma karanti |"
+],
+"He will make me work": [
+"ସେ ମୋତେ କାମ କରିବେ",
+"Se mote kāma karibe"
+],
+"That joke made me laugh": [
+"ସେହି ପରିହାସ ମୋତେ ହସାଇଲା |",
+"Sehi parihāsa mote hasāilā |"
+],
+"Peter made Mary eat mango": [
+"ପିତର ମରିୟମଙ୍କୁ ଆମ୍ବ ଖାଇବାକୁ ଦେଲେ",
+"Pitara mariẏamaṅku āmba khāibāku dele"
+],
+"Peter made Mary eat mangoes": [
+"ପିତର ମରିୟମଙ୍କୁ ଆମ୍ବ ଖାଇବାକୁ ଦେଲେ",
+"Pitara mariẏamaṅku āmba khāibāku dele"
+],
+"I myself did it": [
+"ମୁଁ ନିଜେ ଏହା କରିଥିଲି |",
+"Mu~ nije ehā karithili |"
+],
+"I did this itself": [
+"ମୁଁ ନିଜେ ଏହା କଲି |",
+"Mu~ nije ehā kali |"
+],
+"I will come tomorrow itself": [
+"ମୁଁ ଆସନ୍ତାକାଲି ନିଜେ ଆସିବି |",
+"Mu~ āsantākāli nije āsibi |"
+],
+"I will surely come": [
+"ମୁଁ ନିଶ୍ଚିତ ଭାବେ ଆସିବି",
+"Mu~ niścita bhābe āsibi"
+],
+"I have seen India only": [
+"ମୁଁ କେବଳ ଭାରତକୁ ଦେଖିଛି |",
+"Mu~ kebaḻa bhārataku dekhichi |"
+],
+"He kept on talking": [
+"ସେ କଥାବାର୍ତ୍ତା ଜାରି ରଖିଥିଲେ",
+"Se kathābārttā jāri rakhithile"
+],
+"He kept on staring that car": [
+"ସେ ସେହି କାରକୁ ଅନାଇ ରହିଲେ |",
+"Se sehi kāraku anāi rahile |"
+],
+"I want only sedan car": [
+"ମୁଁ କେବଳ ସେଡାନ୍ କାର୍ ଚାହୁଁଛି |",
+"Mu~ kebaḻa seḍān kār cāhu~chi |"
+],
+"I must go there": [
+"ମୁଁ ନିଶ୍ଚୟ ସେଠାକୁ ଯିବି |",
+"Mu~ niścaẏa seṭhāku yibi |"
+],
+"Why just me?": [
+"ମୁଁ କେବଳ କାହିଁକି?",
+"Mu~ kebaḻa kāhi~ki?"
+],
+"I have a car": [
+"ମୋର ଏକ କାର ଅଛି",
+"Mora eka kāra achi"
+],
+"I have 10 cars": [
+"ମୋର 10 ଟି କାର ଅଛି |",
+"Mora 10 ṭi kāra achi |"
+],
+"I had a car": [
+"ମୋର ଏକ କାର ଥିଲା",
+"Mora eka kāra thilā"
+],
+"Anup will have watch": [
+"ଅନୁପ ଘଣ୍ଟା ରହିବ |",
+"Anupa ghaṇṭā rahiba |"
+],
+"I do not have car": [
+"ମୋର କାର୍ ନାହିଁ",
+"Mora kār nāhi~"
+],
+"I did not have car": [
+"ମୋର କାର୍ ନଥିଲା |",
+"Mora kār nathilā |"
+],
+"I have 2 brothers": [
+"ମୋର 2 ଭାଇ ଅଛନ୍ତି |",
+"Mora 2 bhāi achanti |"
+],
+"He has three paternal uncles": [
+"ତାଙ୍କର ତିନୋଟି ପିତାମାତା ଅଛନ୍ତି",
+"Tāṅkara tinoṭi pitāmātā achanti"
+],
+"Ravi had 2 kids": [
+"ରବିଙ୍କର 2 ପିଲା ଥିଲେ |",
+"Rabiṅkara 2 pilā thile |"
+],
+"He does not have a brother": [
+"ତାଙ୍କର ଭାଇ ନାହିଁ",
+"Tāṅkara bhāi nāhi~"
+],
+"She did not have any relatives": [
+"ତାଙ୍କର କ relatives ଣସି ସମ୍ପର୍କୀୟ ନଥିଲେ",
+"Tāṅkara ka relatives ṇasi samparkīẏa nathile"
+],
+"What does it mean?": [
+"ଏହାର ଅର୍ଥ କ’ଣ?",
+"Ehāra artha ka’ṇa?"
+],
+"What does that signboard mean?": [
+"ସେହି ସାଇନ୍ ବୋର୍ଡର ଅର୍ଥ କ’ଣ?",
+"Sehi sāin borḍara artha ka’ṇa?"
+],
+"What did his speech mean?": [
+"ତାଙ୍କର ଭାଷଣର ଅର୍ଥ କ’ଣ?",
+"Tāṅkara bhāṣaṇara artha ka’ṇa?"
+],
+"What does encyclopedia mean?": [
+"ଏନସାଇକ୍ଲୋପିଡ଼ିଆର ଅର୍ଥ କ’ଣ?",
+"Enasāiklopiḍa଼iāra artha ka’ṇa?"
+],
+"What does Sundar mean in Marathi?": [
+"ମରାଠୀରେ ସୁନ୍ଦରଙ୍କର ଅର୍ଥ କ’ଣ?",
+"Marāṭhīre sundaraṅkara artha ka’ṇa?"
+],
+"I did mean it": [
+"ମୁଁ ଏହାର ଅର୍ଥ କଲି",
+"Mu~ ehāra artha kali"
+],
+"I did not mean it": [
+"ମୁଁ ଏହାର ଅର୍ଥ ନୁହେଁ",
+"Mu~ ehāra artha nuhe~"
+],
+"He did not mean hurting you": [
+"ସେ ତୁମକୁ ଆଘାତ କରିବା ଅର୍ଥ ନୁହେଁ |",
+"Se tumaku āghāta karibā artha nuhe~ |"
+],
+"I meant to insult him": [
+"ମୁଁ ତାଙ୍କୁ ଅପମାନିତ କରିବାକୁ ଚାହୁଁଥିଲି |",
+"Mu~ tāṅku apamānita karibāku cāhu~thili |"
+],
+"He and me": [
+"ସେ ଏବଂ ମୁଁ |",
+"Se ebaṃ mu~ |"
+],
+"Milk and sugar": [
+"କ୍ଷୀର ଏବଂ ଚିନି |",
+"Kṣīra ebaṃ cini |"
+],
+"I want to buy but shop is closed": [
+"ମୁଁ କିଣିବାକୁ ଚାହୁଁଛି କିନ୍ତୁ ଦୋକାନ ବନ୍ଦ ଅଛି |",
+"Mu~ kiṇibāku cāhu~chi kintu dokāna banda achi |"
+],
+"He was clever but did not work hard": [
+"ସେ ଚତୁର ଥିଲେ କିନ୍ତୁ କଠିନ ପରିଶ୍ରମ କରିନଥିଲେ",
+"Se catura thile kintu kaṭhina pariśrama karinathile"
+],
+"I had warned him, still he opened the box": [
+"ମୁଁ ତାଙ୍କୁ ଚେତାବନୀ ଦେଇଥିଲି, ତଥାପି ସେ ବାକ୍ସ ଖୋଲିଥିଲେ |",
+"Mu~ tāṅku cetābanī deithili, tathāpi se bāksa kholithile |"
+],
+"He helped her still she insulted him": [
+"ସେ ତାଙ୍କୁ ସାହାଯ୍ୟ କଲେ ତଥାପି ସେ ତାଙ୍କୁ ଅପମାନିତ କଲେ |",
+"Se tāṅku sāhāyẏa kale tathāpi se tāṅku apamānita kale |"
+],
+"I did not come yesterday, because I was sick": [
+"ମୁଁ ଗତକାଲି ଆସି ନଥିଲି, କାରଣ ମୁଁ ଅସୁସ୍ଥ ଥିଲି |",
+"Mu~ gatakāli āsi nathili, kāraṇa mu~ asustha thili |"
+],
+"Car will not start because no petrol": [
+"ପେଟ୍ରୋଲ ନ ଥିବାରୁ କାର ଆରମ୍ଭ ହେବ ନାହିଁ |",
+"Peṭrola na thibāru kāra ārambha heba nāhi~ |"
+],
+"I was sick so I did not come": [
+"ମୁଁ ଅସୁସ୍ଥ ଥିଲି ତେଣୁ ମୁଁ ଆସି ନଥିଲି |",
+"Mu~ asustha thili teṇu mu~ āsi nathili |"
+],
+"No petrol so car will not start": [
+"କ pet ଣସି ପେଟ୍ରୋଲ ନାହିଁ ତେଣୁ କାର ଆରମ୍ଭ ହେବ ନାହିଁ |",
+"Ka pet ṇasi peṭrola nāhi~ teṇu kāra ārambha heba nāhi~ |"
+],
+"He told her that he is happy": [
+"ସେ ତାଙ୍କୁ ଖୁସି ବୋଲି କହିଥିଲେ",
+"Se tāṅku khusi boli kahithile"
+],
+"I am sure that we will succeed": [
+"ମୁଁ ନିଶ୍ଚିତ ଯେ ଆମେ ସଫଳ ହେବା |",
+"Mu~ niścita ye āme saphaḻa hebā |"
+],
+"As you wish, my lord": [
+"ଆପଣ ଯେପରି ଇଚ୍ଛା କରନ୍ତି, ମୋର ପ୍ରଭୁ",
+"Āpaṇa yepari icchā karanti, mora prabhu"
+],
+"Do it the same way as he is doing": [
+"ସେ ଯେପରି କରୁଛନ୍ତି ସେହିପରି କରନ୍ତୁ |",
+"Se yepari karuchanti sehipari karantu |"
+],
+"He as well as me": [
+"ସେ ଏବଂ ମୁଁ ମଧ୍ୟ",
+"Se ebaṃ mu~ madhẏa"
+],
+"She sang as well as danced": [
+"ସେ ନାଚିବା ସହିତ ଗୀତ ମଧ୍ୟ କରିଥିଲେ",
+"Se nācibā sahita gīta madhẏa karithile"
+],
+"He or me": [
+"ସେ କିମ୍ବା ମୁଁ |",
+"Se kimbā mu~ |"
+],
+"Do or die": [
+"କର କିମ୍ବା ମର |",
+"Kara kimbā mara |"
+],
+"Neither he nor I were interested": [
+"ସେ କିମ୍ବା ମୁଁ ଆଗ୍ରହୀ ନଥିଲେ",
+"Se kimbā mu~ āgrahī nathile"
+],
+"I finished study then I went to play": [
+"ମୁଁ ଅଧ୍ୟୟନ ସମାପ୍ତ କଲି ତାପରେ ମୁଁ ଖେଳିବାକୁ ଗଲି |",
+"Mu~ adhẏaẏana samāpta kali tāpare mu~ kheḻibāku gali |"
+],
+"I will call you then you enter on stage": [
+"ମୁଁ ତୁମକୁ ଡାକିବି ତାପରେ ତୁମେ ମଞ୍ଚରେ ପ୍ରବେଶ କର |",
+"Mu~ tumaku ḍākibi tāpare tume mañcare prabeśa kara |"
+],
+"As long as you want me, I will stay": [
+"ଯେପର୍ଯ୍ୟନ୍ତ ତୁମେ ମୋତେ ଚାହୁଁଛ, ମୁଁ ରହିବି |",
+"Yeparyẏanta tume mote cāhu~cha, mu~ rahibi |"
+],
+"As long as you follow rules": [
+"ଯେପର୍ଯ୍ୟନ୍ତ ଆପଣ ନିୟମ ମାନନ୍ତି |",
+"Yeparyẏanta āpaṇa niẏama mānanti |"
+],
+"As far as I know, he is studious": [
+"ମୁଁ ଯେତେ ଜାଣେ, ସେ ଷ୍ଟୁଡିଓ |",
+"Mu~ yete jāṇe, se ṣṭuḍio |"
+],
+"As far as India is concerned": [
+"ଭାରତ ଯେତେ ଦୂର କଥା |",
+"Bhārata yete dūra kathā |"
+],
+"As far as literacy is concerned": [
+"ସାକ୍ଷରତା ବିଷୟରେ",
+"Sākṣaratā biṣaẏare"
+],
+"He is blaming me as if I have not tried": [
+"ସେ ମୋତେ ଦାୟୀ କରୁଛନ୍ତି ଯେପରି ମୁଁ ଚେଷ୍ଟା କରି ନାହିଁ",
+"Se mote dāẏī karuchanti yepari mu~ ceṣṭā kari nāhi~"
+],
+"He passed by as if she was not there": [
+"ସେ ସେଠାରେ ନଥିଲେ ଯେପରି ସେ ସେଠାରେ ନଥିଲେ |",
+"Se seṭhāre nathile yepari se seṭhāre nathile |"
+],
+"As soon as he came": [
+"ସେ ଆସିବା ମାତ୍ରେ |",
+"Se āsibā mātre |"
+],
+"As soon as she saw": [
+"ସେ ଦେଖିବା ମାତ୍ରେ |",
+"Se dekhibā mātre |"
+],
+"As soon as they become": [
+"ସେମାନେ ହେବା ମାତ୍ରେ |",
+"Semāne hebā mātre |"
+],
+"Let me know once he comes": [
+"ସେ ଥରେ ଆସିବା ପରେ ମୋତେ ଜଣାନ୍ତୁ |",
+"Se thare āsibā pare mote jaṇāntu |"
+],
+"Once I see your story I will give review": [
+"ଥରେ ମୁଁ ତୁମର କାହାଣୀ ଦେଖିବା ପରେ ମୁଁ ସମୀକ୍ଷା ଦେବି |",
+"Thare mu~ tumara kāhāṇī dekhibā pare mu~ samīkṣā debi |"
+],
+"Rather than surrendering soldier will accept death": [
+"ସ soldier ନିକ ଆତ୍ମସମର୍ପଣ କରିବା ପରିବର୍ତ୍ତେ ମୃତ୍ୟୁକୁ ଗ୍ରହଣ କରିବେ |",
+"Sa soldier nika ātmasamarpaṇa karibā paribartte mṛtẏuku grahaṇa karibe |"
+],
+"I will take tea rather than coffee": [
+"ମୁଁ କଫି ଅପେକ୍ଷା ଚା ପିଇବି |",
+"Mu~ kaphi apekṣā cā piibi |"
+],
+"I will work hard so that I will win": [
+"ମୁଁ କଠିନ ପରିଶ୍ରମ କରିବି ଯାହା ଦ୍ I ାରା ମୁଁ ଜିତିବି |",
+"Mu~ kaṭhina pariśrama karibi yāhā d I ārā mu~ jitibi |"
+],
+"We should avoid plastic so that less pollution": [
+"ଆମେ ପ୍ଲାଷ୍ଟିକରୁ ଦୂରେଇ ରହିବା ଉଚିତ ଯାହା ଦ୍ less ାରା କମ୍ ପ୍ରଦୂଷଣ ହେବ |",
+"Āme plāṣṭikaru dūrei rahibā ucita yāhā d less ārā kam pradūṣaṇa heba |"
+],
+"He cheated me whereas I was helping him": [
+"ସେ ମୋତେ ପ୍ରତାରଣା କରିଥିଲେ ଯେତେବେଳେ ମୁଁ ତାଙ୍କୁ ସାହାଯ୍ୟ କରୁଥିଲି |",
+"Se mote pratāraṇā karithile yetebeḻe mu~ tāṅku sāhāyẏa karuthili |"
+],
+"Govt said prices declined whereas inflation rose": [
+"ମୁଦ୍ରାସ୍ଫୀତି ବୃଦ୍ଧି ପାଇଥିବାବେଳେ ମୂଲ୍ୟ ହ୍ରାସ ପାଇଛି ବୋଲି ସରକାର କହିଛନ୍ତି",
+"Mudrāsphīti bṛddhi pāithibābeḻe mūlẏa hrāsa pāichi boli sarakāra kahichanti"
+],
+"I did not know whether he is going": [
+"ସେ ଯାଉଛନ୍ତି କି ନାହିଁ ମୁଁ ଜାଣି ନଥିଲି",
+"Se yāuchanti ki nāhi~ mu~ jāṇi nathili"
+],
+"She could not realize whether to speak or not": [
+"ସେ ଜାଣିପାରିବେ ନାହିଁ କି କହିବେ କି ନାହିଁ |",
+"Se jāṇipāribe nāhi~ ki kahibe ki nāhi~ |"
+],
+"Do this otherwise you will not win": [
+"ଏହା କର ଯଦି ତୁମେ ଜିତିବ ନାହିଁ |",
+"Ehā kara yadi tume jitiba nāhi~ |"
+],
+"He should inform me otherwise I will not know": [
+"ସେ ମୋତେ ଜଣାଇବା ଉଚିତ୍ ଅନ୍ୟଥା ମୁଁ ଜାଣିବି ନାହିଁ |",
+"Se mote jaṇāibā ucit anẏathā mu~ jāṇibi nāhi~ |"
+],
+"I also ran": [
+"ମୁଁ ମଧ୍ୟ ଦ ran ଡିଲି |",
+"Mu~ madhẏa da ran ḍili |"
+],
+"He will come tomorrow as well": [
+"ସେ ଆସନ୍ତାକାଲି ମଧ୍ୟ ଆସିବେ |",
+"Se āsantākāli madhẏa āsibe |"
+],
+"This is old video. I saw it. I am sharing today": [
+"ଏହା ପୁରୁଣା ଭିଡିଓ | ମୁଁ ଏହା ଦେଖିଲି ମୁଁ ଆଜି ସେୟାର କରୁଛି",
+"Ehā puruṇā bhiḍio | mu~ ehā dekhili mu~ āji seẏāra karuchi"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"ଏହା ପୁରୁଣା ଭିଡିଓ, ତଥାପି ମୁଁ ଏହାକୁ ଦେଖିଲି ତେଣୁ ମୁଁ ଆଜି ସେୟାର କରୁଛି |",
+"Ehā puruṇā bhiḍio, tathāpi mu~ ehāku dekhili teṇu mu~ āji seẏāra karuchi |"
+],
+"This is old song. I heard it today": [
+"ଏହା ପୁରୁଣା ଗୀତ | ମୁଁ ଆଜି ଏହା ଶୁଣିଛି",
+"Ehā puruṇā gīta | mu~ āji ehā śuṇichi"
+],
+"Though it is old song, I heard it today": [
+"ଯଦିଓ ଏହା ପୁରୁଣା ଗୀତ, ମୁଁ ଆଜି ଏହା ଶୁଣିଛି |",
+"Yadio ehā puruṇā gīta, mu~ āji ehā śuṇichi |"
+],
+"My wife was standing there. He asked about girlfriend": [
+"ମୋ ପତ୍ନୀ ସେଠାରେ ଠିଆ ହୋଇଥିଲେ। ସେ ଗର୍ଲଫ୍ରେଣ୍ଡ ବିଷୟରେ ପଚାରିଥିଲେ |",
+"Mo patnī seṭhāre ṭhiā hoithile| se garlaphreṇḍa biṣaẏare pacārithile |"
+],
+"My wife was standing there yet he asked": [
+"ମୋ ପତ୍ନୀ ସେଠାରେ ଠିଆ ହୋଇଥିଲେ ମଧ୍ୟ ସେ ପଚାରିଥିଲେ",
+"Mo patnī seṭhāre ṭhiā hoithile madhẏa se pacārithile"
+],
+"Policeman was watching. He did not dare to run": [
+"ପୋଲିସ କର୍ମଚାରୀ ଦେଖୁଥିଲେ। ସେ ଦ run ଡ଼ିବାକୁ ସାହସ କଲେ ନାହିଁ |",
+"Polisa karmacārī dekhuthile| se da run ḍa଼ibāku sāhasa kale nāhi~ |"
+],
+"As policeman was watching he did not dare": [
+"ପୋଲିସ୍ ଦେଖୁଥିବା ବେଳେ ସେ ସାହସ କରିନଥିଲେ",
+"Polis dekhuthibā beḻe se sāhasa karinathile"
+],
+"I had illusion of monsters coming": [
+"ରାକ୍ଷସ ଆସିବା ବିଷୟରେ ମୋର ଭ୍ରମ ଥିଲା |",
+"Rākṣasa āsibā biṣaẏare mora bhrama thilā |"
+],
+"Now she will search it forever": [
+"ବର୍ତ୍ତମାନ ସେ ଏହାକୁ ସବୁଦିନ ପାଇଁ ଖୋଜିବେ |",
+"Barttamāna se ehāku sabudina pāi~ khojibe |"
+],
+"If we think of eating mango then..": [
+"ଯଦି ଆମେ ଆମ୍ବ ଖାଇବାକୁ ଚିନ୍ତା କରୁ ତେବେ ..",
+"Yadi āme āmba khāibāku cintā karu tebe .."
+],
+"If he decides to take revenge..": [
+"ଯଦି ସେ ପ୍ରତିଶୋଧ ନେବାକୁ ସ୍ଥିର କରନ୍ତି ..",
+"Yadi se pratiśodha nebāku sthira karanti .."
+],
+"I have decided a plan for tonight": [
+"ଆଜି ରାତି ପାଇଁ ମୁଁ ଏକ ଯୋଜନା ସ୍ଥିର କରିଛି |",
+"Āji rāti pāi~ mu~ eka yojanā sthira karichi |"
+],
+"I feel this way": [
+"ମୁଁ ଏହିପରି ଅନୁଭବ କରୁଛି",
+"Mu~ ehipari anubhaba karuchi"
+],
+"I feel this": [
+"ମୁଁ ଏହା ଅନୁଭବ କରୁଛି",
+"Mu~ ehā anubhaba karuchi"
+],
+"He felt that I will not come": [
+"ସେ ଅନୁଭବ କଲେ ଯେ ମୁଁ ଆସିବି ନାହିଁ |",
+"Se anubhaba kale ye mu~ āsibi nāhi~ |"
+],
+"What do you feel?": [
+"ଆପଣ କ’ଣ ଅନୁଭବ କରୁଛନ୍ତି?",
+"Āpaṇa ka’ṇa anubhaba karuchanti?"
+],
+"He felt happiness": [
+"ସେ ଖୁସି ଅନୁଭବ କଲେ |",
+"Se khusi anubhaba kale |"
+],
+"Don't you feel ashamed?": [
+"ଆପଣ ଲଜ୍ଜିତ ନୁହଁନ୍ତି କି?",
+"Āpaṇa lajjita nuha~nti ki?"
+],
+"Kaushik thinks he should go": [
+"କ ush ଶିକ ଭାବନ୍ତି ସେ ଯିବା ଉଚିତ୍ |",
+"Ka ush śika bhābanti se yibā ucit |"
+],
+"He will feel bad": [
+"ସେ ଖରାପ ଅନୁଭବ କରିବେ |",
+"Se kharāpa anubhaba karibe |"
+],
+"To show different aspects": [
+"ବିଭିନ୍ନ ଦିଗ ଦେଖାଇବାକୁ |",
+"Bibhinna diga dekhāibāku |"
+],
+"To follow up & pressurize": [
+"ଅନୁସରଣ ଏବଂ ଚାପ କରିବାକୁ |",
+"Anusaraṇa ebaṃ cāpa karibāku |"
+],
+"Every home same story": [
+"ପ୍ରତ୍ୟେକ ଘର ସମାନ କାହାଣୀ |",
+"Pratẏeka ghara samāna kāhāṇī |"
+],
+"To approve formally": [
+"ଆନୁଷ୍ଠାନିକ ଭାବରେ ଅନୁମୋଦନ କରିବାକୁ |",
+"Ānuṣṭhānika bhābare anumodana karibāku |"
+],
+"To cause destruction": [
+"ବିନାଶର କାରଣ |",
+"Bināśara kāraṇa |"
+],
+"Repeat like tape": [
+"ଟେପ୍ ପରି ପୁନରାବୃତ୍ତି କରନ୍ତୁ |",
+"Ṭep pari punarābṛtti karantu |"
+],
+"To force to do": [
+"କରିବାକୁ ବାଧ୍ୟ କରିବାକୁ |",
+"Karibāku bādhẏa karibāku |"
+],
+"No control on tongue": [
+"ଜିଭ ଉପରେ କ control ଣସି ନିୟନ୍ତ୍ରଣ ନାହିଁ |",
+"Jibha upare ka control ṇasi niẏantraṇa nāhi~ |"
+],
+"Not utter a word": [
+"ଗୋଟିଏ ଶବ୍ଦ ଉଚ୍ଚାରଣ କରନ୍ତୁ ନାହିଁ |",
+"Goṭie śabda uccāraṇa karantu nāhi~ |"
+],
+"To take control": [
+"ନିୟନ୍ତ୍ରଣ ନେବାକୁ |",
+"Niẏantraṇa nebāku |"
+],
+"To feel embarrassed": [
+"ଲଜ୍ଜିତ ଅନୁଭବ କରିବା |",
+"Lajjita anubhaba karibā |"
+],
+"To spew venom": [
+"ବିଷ ନିର୍ଗତ କରିବା ପାଇଁ |",
+"Biṣa nirgata karibā pāi~ |"
+],
+"To uncover mystery": [
+"ରହସ୍ୟ ଉନ୍ମୋଚନ କରିବାକୁ |",
+"Rahasẏa unmocana karibāku |"
+],
+"To be puzzled": [
+"ଆଶ୍ଚର୍ଯ୍ୟ ହେବାକୁ |",
+"Āścaryẏa hebāku |"
+],
+"To defeat completely": [
+"ସଂପୂର୍ଣ୍ଣ ପରାସ୍ତ କରିବାକୁ |",
+"Saṃpūrṇṇa parāsta karibāku |"
+],
+"If employee works 1 year, gratuity right": [
+"ଯଦି କର୍ମଚାରୀ 1 ବର୍ଷ କାମ କରନ୍ତି, ଗ୍ରାଚ୍ୟୁଇଟି ଠିକ୍ |",
+"Yadi karmacārī 1 barṣa kāma karanti, grācẏuiṭi ṭhik |"
+],
+"If wrong info given, disciplinary action": [
+"ଯଦି ଭୁଲ ସୂଚନା ଦିଆଯାଏ, ଶୃଙ୍ଖଳାଗତ କାର୍ଯ୍ୟ |",
+"Yadi bhula sūcanā diāyāe, śṛṅkhaḻāgata kāryẏa |"
+],
+"If possible, come to meet me": [
+"ଯଦି ସମ୍ଭବ, ମୋତେ ଭେଟିବାକୁ ଆସ |",
+"Yadi sambhaba, mote bheṭibāku āsa |"
+],
+"What does this mean?": [
+"ଏହାର ଅର୍ଥ କ’ଣ?",
+"Ehāra artha ka’ṇa?"
+],
+"I came because you called": [
+"ମୁଁ ଡାକିଲି କାରଣ ତୁମେ ଡାକିଲ |",
+"Mu~ ḍākili kāraṇa tume ḍākila |"
+],
+"Someone called Kaushik has come": [
+"କ ush ଶିକ ନାମକ କେହି ଜଣେ ଆସିଛନ୍ତି |",
+"Ka ush śika nāmaka kehi jaṇe āsichanti |"
+],
+"Someone named Kaushik has come": [
+"କ ush ଶିକ ନାମକ କେହି ଜଣେ ଆସିଛନ୍ତି |",
+"Ka ush śika nāmaka kehi jaṇe āsichanti |"
+],
+"Why do you want it for?": [
+"ଆପଣ ଏହା ପାଇଁ କାହିଁକି ଚାହୁଁଛନ୍ତି?",
+"Āpaṇa ehā pāi~ kāhi~ki cāhu~chanti?"
+],
+"What is its reason?": [
+"ଏହାର କାରଣ କ’ଣ?",
+"Ehāra kāraṇa ka’ṇa?"
+],
+"You only complete this": [
+"ଆପଣ କେବଳ ଏହାକୁ ସଂପୂର୍ଣ୍ଣ କରନ୍ତୁ |",
+"Āpaṇa kebaḻa ehāku saṃpūrṇṇa karantu |"
+],
+"It is you who told": [
+"ତୁମେ ହିଁ କହିଛ |",
+"Tume hi~ kahicha |"
+],
+"I want it tomorrow itself": [
+"ଆସନ୍ତାକାଲି ମୁଁ ଏହା ଚାହେଁ |",
+"Āsantākāli mu~ ehā cāhe~ |"
+],
+"I am bored": [
+"ମୁଁ ବିରକ୍ତ",
+"Mu~ birakta"
+],
+"He was bored": [
+"ସେ ବିରକ୍ତ ହୋଇଥିଲେ |",
+"Se birakta hoithile |"
+],
+"Relative / Relatives": [
+"ସମ୍ପର୍କୀୟ / ସମ୍ପର୍କୀୟ",
+"Samparkīẏa / samparkīẏa"
+],
+"Father's brother's wife": [
+"ପିତାଙ୍କ ଭାଇଙ୍କ ସ୍ତ୍ରୀ",
+"Pitāṅka bhāiṅka strī"
+],
+"Father's brother's son": [
+"ପିତାଙ୍କ ଭାଇର ପୁଅ |",
+"Pitāṅka bhāira pua |"
+],
+"Father's brother's daughter": [
+"ପିତାଙ୍କ ଭାଇଙ୍କ daughter ିଅ |",
+"Pitāṅka bhāiṅka daughter ia |"
+],
+"Mother's brother's wife": [
+"ମାଆର ଭାଇର ସ୍ତ୍ରୀ",
+"Māāra bhāira strī"
+],
+"Mother's brother's son": [
+"ମା’ର ଭାଇର ପୁଅ |",
+"Mā’ra bhāira pua |"
+],
+"Mother's brother's daughter": [
+"ମା’ର ଭାଇର daughter ିଅ |",
+"Mā’ra bhāira daughter ia |"
+],
+"Father's sister's son": [
+"ପିତାଙ୍କ ଭଉଣୀର ପୁଅ |",
+"Pitāṅka bhauṇīra pua |"
+],
+"Father's sister's daughter": [
+"ପିତାଙ୍କ ଭଉଣୀର daughter ିଅ |",
+"Pitāṅka bhauṇīra daughter ia |"
+],
+"Father's sister's husband": [
+"ପିତାଙ୍କ ଭଉଣୀର ସ୍ୱାମୀ |",
+"Pitāṅka bhauṇīra sୱāmī |"
+],
+"Mother's sister's son": [
+"ମା’ର ଭଉଣୀର ପୁଅ |",
+"Mā’ra bhauṇīra pua |"
+],
+"Mother's sister's daughter": [
+"ମା’ର ଭଉଣୀର daughter ିଅ |",
+"Mā’ra bhauṇīra daughter ia |"
+],
+"Mother's sister's husband": [
+"ମା’ର ଭଉଣୀର ସ୍ୱାମୀ |",
+"Mā’ra bhauṇīra sୱāmī |"
+],
+"Great grand father": [
+"ମହାନ ବଡ ପିତା |",
+"Mahāna baḍa pitā |"
+],
+"Great grand mother": [
+"ମହାନ ଜେଜେ ମା",
+"Mahāna jeje mā"
+],
+"Son's wife / Daughter in law": [
+"ପୁଅର ପତ୍ନୀ / ବୋହୂ",
+"Puara patnī / bohū"
+],
+"Daughter's husband / Son in law": [
+"Ughter ିଅର ସ୍ୱାମୀ / ଜ୍ବାଇଁ |",
+"Ughter iara sୱāmī / jbāi~ |"
+],
+"Father in law": [
+"ଶାଶୁ",
+"Śāśu"
+],
+"Mother in law": [
+"ଶାଶୁ",
+"Śāśu"
+],
+"Father in law's father": [
+"ଶ୍ୱଶୁର",
+"Śୱśura"
+],
+"We": [
+"ଆମେ",
+"Āme"
+],
+"You (singular)": [
+"ତୁମେ (ଏକକ)",
+"Tume (ekaka)"
+],
+"You (plural)": [
+"ତୁମେ (ବହୁବଚନ)",
+"Tume (bahubacana)"
+],
+"This (m.)": [
+"ଏହା (ମି।)",
+"Ehā (mi|)"
+],
+"This (f.)": [
+"ଏହା (f।)",
+"Ehā (f|)"
+],
+"This (n.)": [
+"ଏହା (n।)",
+"Ehā (n|)"
+],
+"These (m.)": [
+"ଏଗୁଡିକ (ମି।)",
+"Eguḍika (mi|)"
+],
+"These (f.)": [
+"ଏଗୁଡିକ (f।)",
+"Eguḍika (f|)"
+],
+"These (n.)": [
+"ଏଗୁଡିକ (n।)",
+"Eguḍika (n|)"
+],
+"Self": [
+"ଆତ୍ମ",
+"Ātma"
+],
+"Sing": [
+"ଗାଅ",
+"Gāa"
+],
+"Beat": [
+"ବିଟ୍",
+"Biṭ"
+],
+"Write": [
+"ଲେଖ |",
+"Lekha |"
+],
+"Do": [
+"କର |",
+"Kara |"
+],
+"Get up": [
+"ଉଠ",
+"Uṭha"
+],
+"Stop": [
+"ବନ୍ଦ କର |",
+"Banda kara |"
+],
+"Close": [
+"ବନ୍ଦ",
+"Banda"
+],
+"I (male)": [
+"ମୁଁ (ପୁରୁଷ)",
+"Mu~ (puruṣa)"
+],
+"I (female)": [
+"ମୁଁ (ମହିଳା)",
+"Mu~ (mahiḻā)"
+],
+"We dance": [
+"ଆମେ ନାଚୁ |",
+"Āme nācu |"
+],
+"He walks": [
+"ସେ ଚାଲନ୍ତି |",
+"Se cālanti |"
+],
+"She speaks": [
+"ସେ କଥାବାର୍ତ୍ତା କରନ୍ତି |",
+"Se kathābārttā karanti |"
+],
+"It moves": [
+"ଏହା ଗତି କରେ |",
+"Ehā gati kare |"
+],
+"They dance": [
+"ସେମାନେ ନାଚନ୍ତି |",
+"Semāne nācanti |"
+],
+"You (singular/plural)": [
+"ତୁମେ (ଏକକ / ବହୁବଚନ)",
+"Tume (ekaka / bahubacana)"
+],
+"They (all)": [
+"ସେମାନେ (ସମସ୍ତ)",
+"Semāne (samasta)"
+],
+"I (male/female)": [
+"ମୁଁ (ପୁରୁଷ / ମହିଳା)",
+"Mu~ (puruṣa / mahiḻā)"
+],
+"He": [
+"ସେ",
+"Se"
+],
+"She": [
+"ସେ",
+"Se"
+],
+"It": [
+"ଏହା",
+"Ehā"
+],
+"They (m.)": [
+"ସେମାନେ (ମି।)",
+"Semāne (mi|)"
+],
+"They (f.)": [
+"ସେମାନେ (ଚ।)",
+"Semāne (ca|)"
+],
+"They (n.)": [
+"ସେମାନେ (n।)",
+"Semāne (n|)"
+],
+"This (Male)": [
+"ଏହା (ପୁରୁଷ)",
+"Ehā (puruṣa)"
+],
+"This (Female)": [
+"ଏହା (ମହିଳା)",
+"Ehā (mahiḻā)"
+],
+"This (neuter)": [
+"ଏହା (ନିଉଟର୍)",
+"Ehā (niuṭar)"
+],
+"These (male/female/neuter)": [
+"ଏଗୁଡିକ (ପୁରୁଷ / ମହିଳା / ନିଉଟର୍)",
+"Eguḍika (puruṣa / mahiḻā / niuṭar)"
+],
+"about": [
+"ବିଷୟରେ",
+"Biṣaẏare"
+],
+"across": [
+"ପାର୍ଶ୍ୱରେ |",
+"Pārśୱre |"
+],
+"against": [
+"ବିପକ୍ଷରେ",
+"Bipakṣare"
+],
+"Among": [
+"ମଧ୍ୟରେ |",
+"Madhẏare |"
+],
+"Around": [
+"ଚାରିପାଖରେ",
+"Cāripākhare"
+],
+"As/like": [
+"ଯେପରି / ପସନ୍ଦ",
+"Yepari / pasanda"
+],
+"aside": [
+"ଗୋଟିଏ ପଟେ",
+"Goṭie paṭe"
+],
+"for": [
+"ପାଇଁ",
+"Pāi~"
+],
+"From/since": [
+"ଠାରୁ / ପରଠାରୁ",
+"Ṭhāru / paraṭhāru"
+],
+"in": [
+"ଭିତରେ",
+"Bhitare"
+],
+"till/until": [
+"ପର୍ଯ୍ୟନ୍ତ / ପର୍ଯ୍ୟନ୍ତ",
+"Paryẏanta / paryẏanta"
+],
+"without": [
+"ବିନା",
+"Binā"
+],
+"during": [
+"ସମୟରେ",
+"Samaẏare"
+],
+"Near/close to": [
+"ନିକଟ / ନିକଟ",
+"Nikaṭa / nikaṭa"
+],
+"towards": [
+"ଆଡକୁ",
+"Āḍaku"
+],
+"with": [
+"ସହିତ",
+"Sahita"
+],
+"Instead of": [
+"ଏହା ବଦଳରେ",
+"Ehā badaḻare"
+],
+"Prior to": [
+"ପୂର୍ବରୁ",
+"Pūrbaru"
+],
+"Because of": [
+"କାରଣ ହେତୁ",
+"Kāraṇa hetu"
+],
+"According to": [
+"ଅନୁଯାୟୀ |",
+"Anuyāẏī |"
+],
+"Through": [
+"ମାଧ୍ୟମରେ",
+"Mādhẏamare"
+],
+"You speak": [
+"ତୁମେ କୁହ",
+"Tume kuha"
+],
+"Read it": [
+"ଏହାକୁ ପ Read ଼ନ୍ତୁ |",
+"Ehāku pa Read ଼ntu |"
+],
+"Do it": [
+"ଏହା କର |",
+"Ehā kara |"
+],
+"You go": [
+"ତୁମେ ଯାଅ",
+"Tume yāa"
+],
+"You give": [
+"ତୁମେ ଦିଅ",
+"Tume dia"
+],
+"You drink": [
+"ତୁମେ ପିଅ |",
+"Tume pia |"
+],
+"Toy moved": [
+"ଖେଳନା ଘୁଞ୍ଚିଗଲା |",
+"Kheḻanā ghuñcigalā |"
+],
+"To cook": [
+"ରାନ୍ଧିବା ପାଇଁ |",
+"Rāndhibā pāi~ |"
+],
+"Rice cooked": [
+"ଚାଉଳ ରନ୍ଧା |",
+"Cāuḻa randhā |"
+],
+"To die": [
+"ମରିବାକୁ",
+"Maribāku"
+],
+"To fall": [
+"ପଡ଼ିବା",
+"Paḍa଼ibā"
+],
+"Glass broke": [
+"ଗ୍ଲାସ ଭାଙ୍ଗିଗଲା |",
+"Glāsa bhāṅgigalā |"
+],
+"To leave": [
+"ଛାଡିବାକୁ",
+"Chāḍibāku"
+],
+"To drink": [
+"ପିଇବା ପାଇଁ |",
+"Piibā pāi~ |"
+],
+"To eat": [
+"ଖାଇବାକୁ",
+"Khāibāku"
+],
+"To feed": [
+"ଖାଇବାକୁ ଦେବା",
+"Khāibāku debā"
+],
+"To speak": [
+"କହିବାକୁ",
+"Kahibāku"
+],
+"To run": [
+"ଚଲାଇବାକୁ",
+"Calāibāku"
+],
+"my": [
+"ମୋର",
+"Mora"
+],
+"speaking": [
+"କହିବା",
+"Kahibā"
+],
+"your": [
+"ତୁମର",
+"Tumara"
+],
+"his": [
+"ତାଙ୍କର",
+"Tāṅkara"
+],
+"Ram's": [
+"ରାମଙ୍କ",
+"Rāmaṅka"
+],
+"dance": [
+"ନୃତ୍ୟ",
+"Nṛtẏa"
+],
+"About speaking": [
+"କହିବା ବିଷୟରେ |",
+"Kahibā biṣaẏare |"
+],
+"For eating": [
+"ଖାଇବା ପାଇଁ |",
+"Khāibā pāi~ |"
+],
+"while speaking": [
+"କହିବା ସମୟରେ",
+"Kahibā samaẏare"
+],
+"while doing": [
+"କରିବା ସମୟରେ",
+"Karibā samaẏare"
+],
+"while dancing": [
+"ନାଚିବାବେଳେ",
+"Nācibābeḻe"
+],
+"to see": [
+"ଦେଖିବାକୁ",
+"Dekhibāku"
+],
+"to do": [
+"କରିବାକୁ",
+"Karibāku"
+],
+"to dance": [
+"ନାଚିବାକୁ",
+"Nācibāku"
+],
+"Black horse": [
+"କଳା ଘୋଡା |",
+"Kaḻā ghoḍā |"
+],
+"Black chair": [
+"କଳା ଚେୟାର |",
+"Kaḻā ceẏāra |"
+],
+"Black page": [
+"କଳା ପୃଷ୍ଠା |",
+"Kaḻā pṛṣṭhā |"
+],
+"Black horses": [
+"କଳା ଘୋଡା |",
+"Kaḻā ghoḍā |"
+],
+"Black chairs": [
+"କଳା ଚେୟାର |",
+"Kaḻā ceẏāra |"
+],
+"Black pages": [
+"କଳା ପୃଷ୍ଠାଗୁଡ଼ିକ |",
+"Kaḻā pṛṣṭhāguḍa଼ika |"
+],
+"Good horse": [
+"ଭଲ ଘୋଡା |",
+"Bhala ghoḍā |"
+],
+"Good chair": [
+"ଭଲ ଚେୟାର |",
+"Bhala ceẏāra |"
+],
+"Easy exam": [
+"ସହଜ ପରୀକ୍ଷା",
+"Sahaja parīkṣā"
+],
+"Red horse": [
+"ନାଲି ଘୋଡା |",
+"Nāli ghoḍā |"
+],
+"Beautiful drawing": [
+"ସୁନ୍ଦର ଚିତ୍ର",
+"Sundara citra"
+],
+"Talking boy": [
+"କଥାବାର୍ତ୍ତା ବାଳକ",
+"Kathābārttā bāḻaka"
+],
+"Rotating fan": [
+"ଘୂର୍ଣ୍ଣନ ପ୍ରଶଂସକ |",
+"Ghūrṇṇana praśaṃsaka |"
+],
+"Talking girl": [
+"କଥାବାର୍ତ୍ତା girl ିଅ",
+"Kathābārttā girl ia"
+],
+"Moving chair": [
+"ଚଳନ୍ତା ଚେୟାର |",
+"Caḻantā ceẏāra |"
+],
+"Flying saucer": [
+"ଫ୍ଲାଇଙ୍ଗ୍ ସସ୍ |",
+"Phlāiṅg sas |"
+],
+"Talking book": [
+"କଥାବାର୍ତ୍ତା ପୁସ୍ତକ |",
+"Kathābārttā pustaka |"
+],
+"Moving tree": [
+"ଗଛ ଚଳାଇବା |",
+"Gacha caḻāibā |"
+],
+"Talked boy": [
+"କଥାବାର୍ତ୍ତା ବାଳକ",
+"Kathābārttā bāḻaka"
+],
+"Rotated fan": [
+"ଘୂର୍ଣ୍ଣିତ ପ୍ରଶଂସକ |",
+"Ghūrṇṇita praśaṃsaka |"
+],
+"Talked girl": [
+"କଥାବାର୍ତ୍ତା girl ିଅ",
+"Kathābārttā girl ia"
+],
+"Moved chair": [
+"ଘୁଞ୍ଚିଯାଇଥିବା ଚେୟାର |",
+"Ghuñciyāithibā ceẏāra |"
+],
+"Flown saucer": [
+"ଉଡାଯାଇଥିବା ସସ୍ |",
+"Uḍāyāithibā sas |"
+],
+"Talked book": [
+"କଥାବାର୍ତ୍ତା ପୁସ୍ତକ |",
+"Kathābārttā pustaka |"
+],
+"Moved tree": [
+"ଘୁଞ୍ଚିଯାଇଥିବା ଗଛ |",
+"Ghuñciyāithibā gacha |"
+],
+"What happened?": [
+"କ’ଣ ହେଲା?",
+"Ka’ṇa helā?"
+],
+"More bitter": [
+"ଅଧିକ ତିକ୍ତ |",
+"Adhika tikta |"
+],
+"Most bitter": [
+"ଅଧିକାଂଶ ତିକ୍ତ |",
+"Adhikāṃśa tikta |"
+],
+"Tall": [
+"ଲମ୍ବା",
+"Lambā"
+],
+"Taller": [
+"ଲମ୍ବା |",
+"Lambā |"
+],
+"Tallest": [
+"ଉଚ୍ଚତମ |",
+"Uccatama |"
+],
+"Better": [
+"ଭଲ",
+"Bhala"
+],
+"Best": [
+"ସର୍ବୋତ୍ତମ",
+"Sarbottama"
+],
+"Let's play": [
+"ଚାଲ ଖେଳିବା |",
+"Cāla kheḻibā |"
+],
+"Let's go": [
+"ଚାଲ ଯିବା |",
+"Cāla yibā |"
+],
+"Let's speak": [
+"ଚାଲ କଥା କହିବା |",
+"Cāla kathā kahibā |"
+],
+"Really!": [
+"ପ୍ରକୃତରେ!",
+"Prakṛtare!"
+],
+"How big!": [
+"କେତେ ବଡ!",
+"Kete baḍa!"
+],
+"Very bad": [
+"ବହୁତ ଖରାପ |",
+"Bahuta kharāpa |"
+],
+"Good handwriting": [
+"ଭଲ ହସ୍ତଲିଖନ |",
+"Bhala hastalikhana |"
+],
+"Very Good": [
+"ବହୁତ ଭଲ",
+"Bahuta bhala"
+],
+"Excellent!": [
+"ଉତ୍କୃଷ୍ଟ!",
+"Utkṛṣṭa!"
+],
+"Speaking phone": [
+"କଥାବାର୍ତ୍ତା ଫୋନ୍ |",
+"Kathābārttā phon |"
+],
+"Something fishy": [
+"କିଛି ମାଛ |",
+"Kichi mācha |"
+],
+"Dampen spirit": [
+"ଆତ୍ମାକୁ ଦୁର୍ବଳ କର |",
+"Ātmāku durbaḻa kara |"
+],
+"To threaten": [
+"ଧମକ ଦେବା |",
+"Dhamaka debā |"
+],
+"After-effects": [
+"ପରବର୍ତ୍ତୀ ପ୍ରଭାବ",
+"Parabarttī prabhāba"
+],
+"To override/violate": [
+"ନବଲିଖନ / ଉଲ୍ଲଂଘନ କରିବାକୁ |",
+"Nabalikhana / ullaṃghana karibāku |"
+],
+"To renounce": [
+"ତ୍ୟାଗ କରିବାକୁ",
+"Tẏāga karibāku"
+],
+"To pretend": [
+"ଛଳନା କରିବାକୁ |",
+"Chaḻanā karibāku |"
+],
+"To trap": [
+"ଫାନ୍ଦରେ ପକାଇବାକୁ |",
+"Phāndare pakāibāku |"
+],
+"To support": [
+"ସମର୍ଥନ କରିବାକୁ",
+"Samarthana karibāku"
+],
+"To strike": [
+"ମାରିବା",
+"Māribā"
+],
+"To pardon": [
+"କ୍ଷମା କରିବାକୁ",
+"Kṣamā karibāku"
+],
+"Cryptography means?": [
+"କ୍ରିପ୍ଟୋଗ୍ରାଫି ଅର୍ଥ?",
+"Kripṭogrāphi artha?"
+],
+"Relation": [
+"ସମ୍ପର୍କ",
+"Samparka"
+],
+"Direct brother": [
+"ସିଧାସଳଖ ଭାଇ |",
+"Sidhāsaḻakha bhāi |"
+],
+"Direct sister": [
+"ସିଧାସଳଖ ଭଉଣୀ |",
+"Sidhāsaḻakha bhauṇī |"
+],
+"Grand father": [
+"ବଡ ପିତା |",
+"Baḍa pitā |"
+],
+"Grand mother": [
+"ବଡ ମା",
+"Baḍa mā"
+],
+"Father's brother": [
+"ପିତାଙ୍କ ଭାଇ",
+"Pitāṅka bhāi"
+],
+"Mother's brother": [
+"ମାଆର ଭାଇ |",
+"Māāra bhāi |"
+],
+"Father's sister": [
+"ପିତାଙ୍କ ଭଉଣୀ |",
+"Pitāṅka bhauṇī |"
+],
+"Mother's sister": [
+"ମାଆର ଭଉଣୀ |",
+"Māāra bhauṇī |"
+],
+"Grandson's wife": [
+"ନାତିଙ୍କ ସ୍ତ୍ରୀ",
+"Nātiṅka strī"
+],
+"Great grandson": [
+"ମହାନ ନାତି |",
+"Mahāna nāti |"
+],
+"Great granddaughter": [
+"ମହାନ ନାତୁଣୀ |",
+"Mahāna nātuṇī |"
+],
+"Husband's brother": [
+"ସ୍ୱାମୀଙ୍କ ଭାଇ",
+"Sୱāmīṅka bhāi"
+],
+"Husband's sister": [
+"ସ୍ୱାମୀଙ୍କ ଭଉଣୀ",
+"Sୱāmīṅka bhauṇī"
+],
+"Wife's brother": [
+"ପତ୍ନୀଙ୍କ ଭାଇ",
+"Patnīṅka bhāi"
+],
+"Wife's sister": [
+"ପତ୍ନୀଙ୍କ ଭଉଣୀ |",
+"Patnīṅka bhauṇī |"
+],
+"Sister's husband": [
+"ଭଉଣୀର ସ୍ୱାମୀ",
+"Bhauṇīra sୱāmī"
+],
+"Sister's son": [
+"ଭଉଣୀର ପୁଅ |",
+"Bhauṇīra pua |"
+],
+"Sister's daughter": [
+"ଭଉଣୀର daughter ିଅ |",
+"Bhauṇīra daughter ia |"
+],
+"Friend (boy)": [
+"ବନ୍ଧୁ (ବାଳକ)",
+"Bandhu (bāḻaka)"
+],
+"Friend (girl)": [
+"ବନ୍ଧୁ (girl ିଅ)",
+"Bandhu (girl ia)"
+],
+"Bridegroom": [
+"ବର",
+"Bara"
+],
+"Adopted son": [
+"ପୋଷ୍ୟପୁତ୍ର",
+"Poṣẏaputra"
+],
+"Adopted daughter": [
+"ପୋଷ୍ୟ କନ୍ୟା |",
+"Poṣẏa kanẏā |"
+],
+"Assumed son": [
+"ଅନୁମାନିତ ପୁଅ |",
+"Anumānita pua |"
+],
+"Assumed daughter": [
+"ଅନୁମାନିତ daughter ିଅ |",
+"Anumānita daughter ia |"
+],
+"To wash": [
+"ଧୋଇବା ପାଇଁ |",
+"Dhoibā pāi~ |"
+],
+"To brush": [
+"ବ୍ରଶ୍ କରିବା |",
+"Braś karibā |"
+],
+"To gargle": [
+"ଗାର୍ଗଲ୍ କରିବା |",
+"Gārgal karibā |"
+],
+"To fold": [
+"ଫୋଲ୍ଡ କରିବାକୁ |",
+"Pholḍa karibāku |"
+],
+"To urinate": [
+"ପରିସ୍ରା କରିବା",
+"Parisrā karibā"
+],
+"To exercise": [
+"ବ୍ୟାୟାମ କରିବା",
+"Bẏāẏāma karibā"
+],
+"To bath": [
+"ସ୍ନାନ କରିବା |",
+"Snāna karibā |"
+],
+"To change": [
+"ପରିବର୍ତ୍ତନ କରିବାକୁ",
+"Paribarttana karibāku"
+],
+"To wear": [
+"ପିନ୍ଧିବା",
+"Pindhibā"
+],
+"To comb": [
+"କମ୍ କରିବା ପାଇଁ |",
+"Kam karibā pāi~ |"
+],
+"To apply": [
+"ଆବେଦନ କରିବାକୁ |",
+"Ābedana karibāku |"
+],
+"To close": [
+"ବନ୍ଦ କରିବାକୁ",
+"Banda karibāku"
+],
+"To sit": [
+"ବସିବା ପାଇଁ |",
+"Basibā pāi~ |"
+],
+"To start": [
+"ଆରମ୍ଭ କରିବାକୁ",
+"Ārambha karibāku"
+],
+"To reach": [
+"ପହଞ୍ଚିବା ପାଇଁ |",
+"Pahañcibā pāi~ |"
+],
+"To work": [
+"କାମ କରିବାକୁ",
+"Kāma karibāku"
+],
+"To speak/say/talk": [
+"କହିବା / କହିବା / କଥା ହେବା |",
+"Kahibā / kahibā / kathā hebā |"
+],
+"To answer": [
+"ଉତ୍ତର ଦେବାକୁ",
+"Uttara debāku"
+],
+"To send": [
+"ପଠାଇବାକୁ",
+"Paṭhāibāku"
+],
+"To chitchat": [
+"ଚିଚାଟ୍ କରିବାକୁ |",
+"Cicāṭ karibāku |"
+],
+"To buy": [
+"କିଣିବା ପାଇଁ |",
+"Kiṇibā pāi~ |"
+],
+"To sell": [
+"ବିକ୍ରୟ କରିବାକୁ",
+"Bikraẏa karibāku"
+],
+"To put/keep": [
+"ରଖିବା / ରଖିବା ପାଇଁ |",
+"Rakhibā / rakhibā pāi~ |"
+],
+"To put": [
+"ରଖିବାକୁ",
+"Rakhibāku"
+],
+"To count": [
+"ଗଣିବାକୁ",
+"Gaṇibāku"
+],
+"To stand": [
+"ଠିଆ ହେବାକୁ",
+"Ṭhiā hebāku"
+],
+"To listen": [
+"ଶୁଣିବାକୁ",
+"Śuṇibāku"
+],
+"To return": [
+"ଫେରିବା ପାଇଁ",
+"Pheribā pāi~"
+],
+"To open": [
+"ଖୋଲିବାକୁ |",
+"Kholibāku |"
+],
+"To lift": [
+"ଉଠାଇବାକୁ",
+"Uṭhāibāku"
+],
+"To play": [
+"ଖେଳିବାକୁ",
+"Kheḻibāku"
+],
+"To jump": [
+"ଡେଇଁବା ପାଇଁ |",
+"Ḍei~bā pāi~ |"
+],
+"To hide": [
+"ଲୁଚାଇବାକୁ |",
+"Lucāibāku |"
+],
+"To search": [
+"ଖୋଜିବାକୁ |",
+"Khojibāku |"
+],
+"To recite": [
+"ପ ite ିବା ପାଇଁ |",
+"Pa ite ibā pāi~ |"
+],
+"To sing": [
+"ଗୀତ ଗାଇବା",
+"Gīta gāibā"
+],
+"To shout": [
+"ଚିତ୍କାର କରିବା",
+"Citkāra karibā"
+],
+"To throw": [
+"ଫୋପାଡିବା |",
+"Phopāḍibā |"
+],
+"To hit": [
+"ମାରିବାକୁ",
+"Māribāku"
+],
+"To ask": [
+"ପଚାରିବାକୁ",
+"Pacāribāku"
+],
+"To clean": [
+"ସଫା କରିବାକୁ",
+"Saphā karibāku"
+],
+"To cut": [
+"କାଟିବା ପାଇଁ |",
+"Kāṭibā pāi~ |"
+],
+"To break": [
+"ଭାଙ୍ଗିବା ପାଇଁ |",
+"Bhāṅgibā pāi~ |"
+],
+"To burst": [
+"ଫାଟିବା ପାଇଁ |",
+"Phāṭibā pāi~ |"
+],
+"To write": [
+"ଲେଖିବାକୁ",
+"Lekhibāku"
+],
+"Accept": [
+"ଗ୍ରହଣ କରନ୍ତୁ",
+"Grahaṇa karantu"
+],
+"Bring": [
+"ଆଣ |",
+"Āṇa |"
+],
+"Complain": [
+"ଅଭିଯୋଗ କରନ୍ତୁ",
+"Abhiyoga karantu"
+],
+"Draw": [
+"ଅଙ୍କନ କର |",
+"Aṅkana kara |"
+],
+"Fall": [
+"ପତନ |",
+"Patana |"
+],
+"Fill": [
+"ପୁରଣ କରନ୍ତୁ",
+"Puraṇa karantu"
+],
+"Start/begin": [
+"ଆରମ୍ଭ / ଆରମ୍ଭ",
+"Ārambha / ārambha"
+],
+"Finish": [
+"ସମାପ୍ତ",
+"Samāpta"
+],
+"Live": [
+"ଲାଇଭ୍ |",
+"Lāibh |"
+],
+"See/watch/look": [
+"ଦେଖନ୍ତୁ / ଦେଖନ୍ତୁ / ଦେଖନ୍ତୁ |",
+"Dekhantu / dekhantu / dekhantu |"
+],
+"Use": [
+"ବ୍ୟବହାର କରନ୍ତୁ |",
+"Bẏabahāra karantu |"
+],
+"Teach": [
+"ଶିକ୍ଷା ଦିଅ |",
+"Śikṣā dia |"
+],
+"Study": [
+"ଅଧ୍ୟୟନ |",
+"Adhẏaẏana |"
+],
+"Read": [
+"ପ .଼ନ୍ତୁ |",
+"Pa .଼ntu |"
+],
+"Make/prepare": [
+"ପ୍ରସ୍ତୁତ / ପ୍ରସ୍ତୁତ କର |",
+"Prastuta / prastuta kara |"
+],
+"Fly": [
+"ଉଡ଼ନ୍ତୁ |",
+"Uḍa଼ntu |"
+],
+"Get bored": [
+"ବିରକ୍ତ ହୁଅ |",
+"Birakta hua |"
+],
+"Leave": [
+"ଛାଡ",
+"Chāḍa"
+],
+"Want/need": [
+"ଇଚ୍ଛା / ଆବଶ୍ୟକତା",
+"Icchā / ābaśẏakatā"
+],
+"Sign": [
+"ସାଇନ୍ କରନ୍ତୁ |",
+"Sāin karantu |"
+],
+"Swim": [
+"ପହଁରନ୍ତୁ |",
+"Paha~rantu |"
+],
+"Try": [
+"ଚେଷ୍ଟା କରନ୍ତୁ |",
+"Ceṣṭā karantu |"
+],
+"Worry": [
+"ଚିନ୍ତା କର |",
+"Cintā kara |"
+],
+"Achieve": [
+"ହାସଲ କର |",
+"Hāsala kara |"
+],
+"Admit (mistake)": [
+"ସ୍ୱୀକାର କରନ୍ତୁ (ଭୁଲ)",
+"Sୱīkāra karantu (bhula)"
+],
+"Admit (school)": [
+"ଆଡମିଟ୍ (ବିଦ୍ୟାଳୟ)",
+"Āḍamiṭ (bidẏāḻaẏa)"
+],
+"Afford": [
+"ଆଫୋର୍ଡ୍ |",
+"Āphorḍ |"
+],
+"Win": [
+"ଜିତନ୍ତୁ |",
+"Jitantu |"
+],
+"Lose": [
+"ହାରିଯାଅ |",
+"Hāriyāa |"
+],
+"Shake": [
+"ହଲ",
+"Hala"
+],
+"Decide": [
+"ନିଷ୍ପତ୍ତି ନିଅ |",
+"Niṣpatti nia |"
+],
+"Hold": [
+"ଧରନ୍ତୁ |",
+"Dharantu |"
+],
+"Choose": [
+"ବାଛନ୍ତୁ |",
+"Bāchantu |"
+],
+"Turn": [
+"ଟର୍ନ୍ କରନ୍ତୁ |",
+"Ṭarn karantu |"
+],
+"Rise": [
+"ଉଠ",
+"Uṭha"
+],
+"Set (sun,moon)": [
+"ସୂର୍ଯ୍ୟାସ୍ତ (ସୂର୍ଯ୍ୟ, ଚନ୍ଦ୍ର)",
+"Sūryẏāsta (sūryẏa, candra)"
+],
+"Deny": [
+"ଅସ୍ୱୀକାର କର |",
+"Asୱīkāra kara |"
+],
+"To reproach/blame": [
+"ଅପମାନ / ଦୋଷ ଦେବା |",
+"Apamāna / doṣa debā |"
+],
+"To color": [
+"ରଙ୍ଗ କରିବା ପାଇଁ |",
+"Raṅga karibā pāi~ |"
+],
+"To destroy": [
+"ବିନାଶ କରିବାକୁ |",
+"Bināśa karibāku |"
+],
+"Big": [
+"ବଡ",
+"Baḍa"
+],
+"Small": [
+"ଛୋଟ",
+"Choṭa"
+],
+"Deep": [
+"ଗଭୀର",
+"Gabhīra"
+],
+"Shallow": [
+"ଶାଲୋ |",
+"Śālo |"
+],
+"Simple": [
+"ସରଳ",
+"Saraḻa"
+],
+"Special": [
+"ବିଶେଷ",
+"Biśeṣa"
+],
+"Faint": [
+"ଦୁର୍ବଳ |",
+"Durbaḻa |"
+],
+"Short": [
+"ସଂକ୍ଷିପ୍ତ",
+"Saṃkṣipta"
+],
+"Thin": [
+"ପତଳା |",
+"Pataḻā |"
+],
+"Wide": [
+"ବ୍ୟାପକ",
+"Bẏāpaka"
+],
+"Narrow": [
+"ସଂକୀର୍ଣ୍ଣ |",
+"Saṃkīrṇṇa |"
+],
+"Curved": [
+"ବକ୍ର",
+"Bakra"
+],
+"Salty": [
+"ଲୁଣିଆ",
+"Luṇiā"
+],
+"Easy": [
+"ସହଜ",
+"Sahaja"
+],
+"Dry": [
+"ଶୁଖିଲା |",
+"Śukhilā |"
+],
+"Wet": [
+"ଓଦା",
+"Odā"
+],
+"Filled": [
+"ଭର୍ତି |",
+"Bharti |"
+],
+"Incomplete": [
+"ଅସମ୍ପୂର୍ଣ୍ଣ",
+"Asampūrṇṇa"
+],
+"Hard (surface)": [
+"କଠିନ (ପୃଷ୍ଠ)",
+"Kaṭhina (pṛṣṭha)"
+],
+"Soft": [
+"ନରମ |",
+"Narama |"
+],
+"Heavy": [
+"ଭାରୀ",
+"Bhārī"
+],
+"Light (weight)": [
+"ହାଲୁକା (ଓଜନ)",
+"Hālukā (ojana)"
+],
+"New": [
+"ନୂତନ",
+"Nūtana"
+],
+"Old": [
+"ପୁରୁଣା",
+"Puruṇā"
+],
+"Slow": [
+"ଧୀର",
+"Dhīra"
+],
+"Fast": [
+"ଦ୍ରୁତ",
+"Druta"
+],
+"Young": [
+"ଯୁବକ",
+"Yubaka"
+],
+"Unhappy": [
+"ଅସନ୍ତୁଷ୍ଟ",
+"Asantuṣṭa"
+],
+"Gloomy": [
+"ଅନ୍ଧକାର",
+"Andhakāra"
+],
+"Carefully": [
+"ଯତ୍ନର ସହିତ |",
+"Yatnara sahita |"
+],
+"Slowly": [
+"ଧୀରେ ଧୀରେ |",
+"Dhīre dhīre |"
+],
+"Quickly": [
+"ଶୀଘ୍ର",
+"Śīghra"
+],
+"A bit": [
+"ଟିକିଏ |",
+"Ṭikie |"
+],
+"A lot": [
+"ବହୁତ",
+"Bahuta"
+],
+"Aback": [
+"ପ୍ରତ୍ୟାବର୍ତ୍ତନ |",
+"Pratẏābarttana |"
+],
+"Accordingly": [
+"ସେହି ଅନୁଯାୟୀ |",
+"Sehi anuyāẏī |"
+],
+"Accurately": [
+"ସଠିକ୍ ଭାବରେ |",
+"Saṭhik bhābare |"
+],
+"Actively": [
+"ସକ୍ରିୟ ଭାବରେ |",
+"Sakriẏa bhābare |"
+],
+"Afresh": [
+"ଆଫ୍ରେଶ୍",
+"Āphreś"
+],
+"Ago": [
+"ଆଗ",
+"Āga"
+],
+"Agreeably": [
+"ସହମତ",
+"Sahamata"
+],
+"Altogether": [
+"ମୋଟାମୋଟି |",
+"Moṭāmoṭi |"
+],
+"Any": [
+"ଯେକ .ଣସି",
+"Yeka .ṇasi"
+],
+"Away": [
+"ଦୂର",
+"Dūra"
 ]
 }

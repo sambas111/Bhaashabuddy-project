@@ -5614,5 +5614,4005 @@
 "Really": [
 "সত্যিই",
 "Satyii"
+],
+"We (listener including)": [
+"আমরা (শ্রোতা সহ)",
+"Āmarā (śrotā saha)"
+],
+"He / That (m.)": [
+"তিনি / সেই (মি.)",
+"Tini / sei (mi.)"
+],
+"She / That (f.)": [
+"সে / সেই (f.)",
+"Se / sei (f.)"
+],
+"It / That (n.)": [
+"এটা / সেটা (n.)",
+"Eṭā / seṭā (n.)"
+],
+"They (Plural of He) / Those (m.)": [
+"তারা (তার বহুবচন) / সেইগুলি (মি.)",
+"Tārā (tāra vahuvacana) / seiguli (mi.)"
+],
+"They (Plural of She) / Those (f.)": [
+"তারা (সে এর বহুবচন) / সেইগুলি (চ.)",
+"Tārā (se era vahuvacana) / seiguli (ca.)"
+],
+"They (Plural of it) / Those (n.)": [
+"তারা (এর বহুবচন) / সেইগুলি (n.)",
+"Tārā (era vahuvacana) / seiguli (n.)"
+],
+"We went to the party (listener not included)": [
+"আমরা পার্টিতে গিয়েছিলাম (শ্রোতা অন্তর্ভুক্ত নয়)",
+"Āmarā pārṭite giya়echilāma (śrotā antarbhukta naya়)"
+],
+"We went to the party (listener included)": [
+"আমরা পার্টিতে গিয়েছিলাম (শ্রোতা অন্তর্ভুক্ত)",
+"Āmarā pārṭite giya়echilāma (śrotā antarbhukta)"
+],
+"This is a horse": [
+"এটা একটা ঘোড়া",
+"Eṭā ekaṭā ghoḍa়ā"
+],
+"This is an ant": [
+"এটি একটি পিঁপড়া",
+"Eṭi ekaṭi pi~paḍa়ā"
+],
+"You (singular male)": [
+"আপনি (একবচন পুরুষ)",
+"Āpani (ekavacana puruṣa)"
+],
+"You (singular female)": [
+"আপনি (একবচন মহিলা)",
+"Āpani (ekavacana mahilā)"
+],
+"He / That (male) / This (male)": [
+"সে / সেই (পুরুষ) / এই (পুরুষ)",
+"Se / sei (puruṣa) / ei (puruṣa)"
+],
+"She / That (female) / This (female)": [
+"সে / সেই (মহিলা) / এই (মহিলা)",
+"Se / sei (mahilā) / ei (mahilā)"
+],
+"It / That (neuter) / This (neuter)": [
+"এটি / সেই (নিরপেক্ষ) / এটি (নিরপেক্ষ)",
+"Eṭi / sei (nirapekṣa) / eṭi (nirapekṣa)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"তারা (মি।) / যারা (মি।) / এই (মি।)",
+"Tārā (mi|) / yārā (mi|) / ei (mi|)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"তারা (f.) / যারা (f.) / এই (f.)",
+"Tārā (f.) / yārā (f.) / ei (f.)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"তারা (n.) / যারা (n.) / এইগুলি (n.)",
+"Tārā (n.) / yārā (n.) / eiguli (n.)"
+],
+"I (male) do": [
+"আমি (পুরুষ) করি",
+"Āmi (puruṣa) kari"
+],
+"I (female) do": [
+"আমি (মহিলা) করি",
+"Āmi (mahilā) kari"
+],
+"You (male) cry": [
+"তুমি (পুরুষ) কাঁদো",
+"Tumi (puruṣa) kā~do"
+],
+"You (female) cry": [
+"তুমি (মহিলা) কাঁদো",
+"Tumi (mahilā) kā~do"
+],
+"You (plural) walk": [
+"তুমি (বহুবচন) চল",
+"Tumi (vahuvacana) cala"
+],
+"I shall be doing.": [
+"আমি করতে হবে.",
+"Āmi karate have."
+],
+"We will be dancing.": [
+"আমরা নাচ হবে.",
+"Āmarā nāca have."
+],
+"You will be crying.": [
+"তুমি কাঁদবে।",
+"Tumi kā~dave|"
+],
+"You (pl.) will be walking.": [
+"আপনি (pl.) হাঁটা হবে.",
+"Āpani (pl.) hā~ṭā have."
+],
+"He will be walking.": [
+"সে হাঁটবে।",
+"Se hā~ṭave|"
+],
+"She will be speaking.": [
+"তিনি কথা বলা হবে.",
+"Tini kathā valā have."
+],
+"It will be moving.": [
+"এটা চলন্ত হবে.",
+"Eṭā calanta have."
+],
+"They will be dancing.": [
+"তারা নাচ হবে.",
+"Tārā nāca have."
+],
+"He / That (m.) / This (m.)": [
+"তিনি / সেই (মি।) / এই (মি।)",
+"Tini / sei (mi|) / ei (mi|)"
+],
+"She / That (f.) / This (f.)": [
+"সে / সেই (f.) / এই (f.)",
+"Se / sei (f.) / ei (f.)"
+],
+"It / That (n.) / This (n.)": [
+"এটা / সেই (n.) / এই (n.)",
+"Eṭā / sei (n.) / ei (n.)"
+],
+"I (male) / I (female)": [
+"আমি (পুরুষ) / আমি (মহিলা)",
+"Āmi (puruṣa) / āmi (mahilā)"
+],
+"I (male) was doing.": [
+"আমি (পুরুষ) করছিলাম।",
+"Āmi (puruṣa) karachilāma|"
+],
+"I (female) was doing.": [
+"আমি (মহিলা) করছিলাম।",
+"Āmi (mahilā) karachilāma|"
+],
+"We were dancing.": [
+"আমরা নাচছিলাম।",
+"Āmarā nācachilāma|"
+],
+"You (male) were crying.": [
+"আপনি (পুরুষ) কাঁদছিলেন।",
+"Āpani (puruṣa) kā~dachilena|"
+],
+"You (female) were crying.": [
+"তুমি (মহিলা) কাঁদছিলে।",
+"Tumi (mahilā) kā~dachile|"
+],
+"You (Plural) were walking": [
+"আপনি (বহুবচন) হাঁটছিলেন",
+"Āpani (vahuvacana) hā~ṭachilena"
+],
+"He was walking.": [
+"সে হাঁটছিল।",
+"Se hā~ṭachila|"
+],
+"She was speaking.": [
+"সে কথা বলছিল।",
+"Se kathā valachila|"
+],
+"It was moving.": [
+"এটা চলন্ত ছিল.",
+"Eṭā calanta chila."
+],
+"They(m.) were dancing.": [
+"তারা (মি.) নাচছিল।",
+"Tārā (mi.) nācachila|"
+],
+"They(f.) were dancing.": [
+"তারা (f.) নাচছিল।",
+"Tārā (f.) nācachila|"
+],
+"They(n.) were dancing.": [
+"তারা (n.) নাচছিল।",
+"Tārā (n.) nācachila|"
+],
+"She has opened door": [
+"সে দরজা খুলে দিয়েছে",
+"Se darajā khule diya়eche"
+],
+"She had opened door": [
+"সে দরজা খুলেছিল",
+"Se darajā khulechila"
+],
+"She will have opened door": [
+"সে দরজা খুলে দেবে",
+"Se darajā khule deve"
+],
+"You (female) have danced": [
+"আপনি (মহিলা) নাচ করেছেন",
+"Āpani (mahilā) nāca karechena"
+],
+"You (female) had danced": [
+"তুমি (মহিলা) নাচছিলে",
+"Tumi (mahilā) nācachile"
+],
+"You (female) will have danced": [
+"আপনি (মহিলা) নাচ হবে",
+"Āpani (mahilā) nāca have"
+],
+"You (plural) have danced": [
+"আপনি (বহুবচন) নাচ করেছেন",
+"Āpani (vahuvacana) nāca karechena"
+],
+"You (plural) had danced": [
+"আপনি (বহুবচন) নাচছিলেন",
+"Āpani (vahuvacana) nācachilena"
+],
+"You (plural) will have danced": [
+"তুমি (বহুবচন) নাচবে",
+"Tumi (vahuvacana) nācave"
+],
+"On behalf of": [
+"পক্ষ থেকে",
+"Pakṣa theke"
+],
+"In front of": [
+"সামনে",
+"Sāmane"
+],
+"He / That (male)": [
+"সে/সে (পুরুষ)",
+"Se/se (puruṣa)"
+],
+"She / That (female)": [
+"সে/সে (মহিলা)",
+"Se/se (mahilā)"
+],
+"It / That (neuter)": [
+"এটা/ওটা (নিরপেক্ষ)",
+"Eṭā/oṭā (nirapekṣa)"
+],
+"They (m.) / Those (m.)": [
+"তারা (মি।) / যারা (মি।)",
+"Tārā (mi|) / yārā (mi|)"
+],
+"They (f.) / Those (f.)": [
+"তারা (f.) / যারা (f.)",
+"Tārā (f.) / yārā (f.)"
+],
+"They (n.) / Those (n.)": [
+"তারা (n.) / যারা (n.)",
+"Tārā (n.) / yārā (n.)"
+],
+"I do not speak": [
+"আমি কথা বলি না",
+"Āmi kathā vali nā"
+],
+"He does not walk": [
+"সে হাঁটে না",
+"Se hā~ṭe nā"
+],
+"You do not eat": [
+"তুমি খাও না",
+"Tumi khāo nā"
+],
+"They do not dance": [
+"তারা নাচে না",
+"Tārā nāce nā"
+],
+"I am not speaking": [
+"আমি কথা বলছি না",
+"Āmi kathā valachi nā"
+],
+"He is not walking": [
+"সে হাঁটছে না",
+"Se hā~ṭache nā"
+],
+"She is not speaking": [
+"মেয়েটা কথা বলছে না",
+"Meya়eṭā kathā valache nā"
+],
+"It is not moving": [
+"এটা নড়ছে না",
+"Eṭā naḍa়che nā"
+],
+"They are not dancing": [
+"তারা নাচছে না",
+"Tārā nācache nā"
+],
+"You are not dancing": [
+"তুমি নাচছ না",
+"Tumi nācacha nā"
+],
+"I have not opened the box": [
+"আমি বাক্স খুলিনি",
+"Āmi vāksa khulini"
+],
+"I have not spoken": [
+"আমি কথা বলিনি",
+"Āmi kathā valini"
+],
+"He has not eaten the mango": [
+"সে আম খায়নি",
+"Se āma khāya়ni"
+],
+"You do not speak": [
+"তুমি কথা বলো না",
+"Tumi kathā valo nā"
+],
+"Do not read it": [
+"এটা পড়বেন না",
+"Eṭā paḍa়vena nā"
+],
+"Do not do it": [
+"এটা করবেন না",
+"Eṭā karavena nā"
+],
+"You do not go": [
+"তুমি যাও না",
+"Tumi yāo nā"
+],
+"I moved toy": [
+"আমি খেলনা সরানো",
+"Āmi khelanā sarāno"
+],
+"To cause to cook": [
+"রান্না করার কারণ",
+"Rānnā karāra kāraṇa"
+],
+"I cooked rice": [
+"আমি ভাত রান্না করেছি",
+"Āmi bhāta rānnā karechi"
+],
+"To cause to die / To kill": [
+"মৃত্যু ঘটানো / হত্যা করা",
+"Mṛtyu ghaṭāno / hatyā karā"
+],
+"To cause to fall": [
+"পতন ঘটাতে",
+"Patana ghaṭāte"
+],
+"To break (intransitive)": [
+"ভাঙ্গতে (অসক্রিয়)",
+"Bhāṅgate (asakriya়)"
+],
+"To cause to break": [
+"ভাঙ্গার কারণ",
+"Bhāṅgāra kāraṇa"
+],
+"I broke glass": [
+"আমি গ্লাস ভেঙ্গেছি",
+"Āmi glāsa bheṅgechi"
+],
+"To cause to leave": [
+"ছেড়ে যাওয়ার কারণ",
+"Cheḍa়e yāoya়āra kāraṇa"
+],
+"To cause to drink / To feed liquid": [
+"তরল পান করা / তরল খাওয়ানো",
+"Tarala pāna karā / tarala khāoya়āno"
+],
+"To call (not cause to speak)": [
+"কল করা (কথা বলার কারণ নয়)",
+"Kala karā (kathā valāra kāraṇa naya়)"
+],
+"To keep animal (not cause to run)": [
+"পশু রাখা (দৌড়ানোর কারণ নয়)",
+"Paśu rākhā (dauḍa়ānora kāraṇa naya়)"
+],
+"I had spoken": [
+"আমি কথা বলেছিলাম",
+"Āmi kathā valechilāma"
+],
+"You (male) had danced": [
+"তুমি (পুরুষ) নাচছিলে",
+"Tumi (puruṣa) nācachile"
+],
+"He had laughed": [
+"তিনি হেসেছিলেন",
+"Tini hesechilena"
+],
+"Those boys had laughed": [
+"ওই ছেলেগুলো হেসেছিল",
+"Oi chelegulo hesechila"
+],
+"I had opened door": [
+"আমি দরজা খুলে দিয়েছিলাম",
+"Āmi darajā khule diya়echilāma"
+],
+"I had opened window": [
+"আমি জানালা খুলে দিয়েছিলাম",
+"Āmi jānālā khule diya়echilāma"
+],
+"She had eaten mango": [
+"সে আম খেয়েছিল",
+"Se āma kheya়echila"
+],
+"Those girls had picked keys": [
+"সেই মেয়েরা চাবি তুলেছিল",
+"Sei meya়erā cāvi tulechila"
+],
+"I have spoken": [
+"আমি কথা বলেছি",
+"Āmi kathā valechi"
+],
+"I will have spoken": [
+"আমি কথা বলতাম",
+"Āmi kathā valatāma"
+],
+"He had been saying": [
+"তিনি বলছিলেন",
+"Tini valachilena"
+],
+"He has been saying": [
+"তিনি বলে আসছেন",
+"Tini vale āsachena"
+],
+"He will have been saying": [
+"তিনি বলতে থাকবেন",
+"Tini valate thākavena"
+],
+"I have been saying": [
+"আমি বলে আসছি",
+"Āmi vale āsachi"
+],
+"She has been saying": [
+"সে বলে আসছে",
+"Se vale āsache"
+],
+"They have been dancing": [
+"তারা নাচ হয়েছে",
+"Tārā nāca haya়eche"
+],
+"You have been eating mango": [
+"আপনি আম খেয়েছেন",
+"Āpani āma kheya়echena"
+],
+"I have been working there for 3 years": [
+"আমি 3 বছর ধরে সেখানে কাজ করছি",
+"Āmi 3 vachara dhare sekhāne kāja karachi"
+],
+"I had been saying": [
+"আমি বলছিলাম",
+"Āmi valachilāma"
+],
+"She had been saying": [
+"সে বলছিল",
+"Se valachila"
+],
+"They had been dancing": [
+"তারা নাচ ছিল",
+"Tārā nāca chila"
+],
+"You had been eating mango": [
+"তুমি আম খাচ্ছিলে",
+"Tumi āma khācchile"
+],
+"She will have been saying": [
+"সে বলে থাকবে",
+"Se vale thākave"
+],
+"They will have been dancing": [
+"তারা নাচ হবে",
+"Tārā nāca have"
+],
+"You will have been eating mango": [
+"আপনি আম খেয়ে থাকবেন",
+"Āpani āma kheya়e thākavena"
+],
+"I will have been working there for 3 years": [
+"আমি সেখানে 3 বছর ধরে কাজ করব",
+"Āmi sekhāne 3 vachara dhare kāja karava"
+],
+"They are going to come": [
+"তারা আসতে যাচ্ছে",
+"Tārā āsate yācche"
+],
+"I am going to speak": [
+"আমি কথা বলতে যাচ্ছি",
+"Āmi kathā valate yācchi"
+],
+"She is going to open door": [
+"সে দরজা খুলতে যাচ্ছে",
+"Se darajā khulate yācche"
+],
+"You are going to dance": [
+"আপনি নাচতে যাচ্ছেন",
+"Āpani nācate yācchena"
+],
+"Are they going to come?": [
+"তারা কি আসতে যাচ্ছে?",
+"Tārā ki āsate yācche?"
+],
+"Am I going to speak?": [
+"আমি কি কথা বলতে যাচ্ছি?",
+"Āmi ki kathā valate yācchi?"
+],
+"Is she going to open door?": [
+"সে কি দরজা খুলতে যাচ্ছে?",
+"Se ki darajā khulate yācche?"
+],
+"Are you going to dance?": [
+"আপনি কি নাচতে যাচ্ছেন?",
+"Āpani ki nācate yācchena?"
+],
+"She / That (f.)/ This (f.)": [
+"সে / সেই (f.)/ এই (f.)",
+"Se / sei (f.)/ ei (f.)"
+],
+"It / That(n.) / This (n.)": [
+"এটা / সেই (n.) / এই (n.)",
+"Eṭā / sei (n.) / ei (n.)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"তারা (তার বহুবচন) / সেইগুলি (মি।) / এইগুলি (মি।)",
+"Tārā (tāra vahuvacana) / seiguli (mi|) / eiguli (mi|)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"তারা (সে এর বহুবচন) / সেইগুলি (চ.) / এইগুলি (চ.)",
+"Tārā (se era vahuvacana) / seiguli (ca.) / eiguli (ca.)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"তারা (এর বহুবচন) / সেইগুলি (n.) / এইগুলি (n.)",
+"Tārā (era vahuvacana) / seiguli (n.) / eiguli (n.)"
+],
+"I used to do": [
+"করতাম",
+"Karatāma"
+],
+"She used to speak": [
+"কথা বলতেন",
+"Kathā valatena"
+],
+"He used to dance": [
+"নাচতেন",
+"Nācatena"
+],
+"They (plural of he) used to eat mangos": [
+"তারা (তার বহুবচন) আম খেতেন",
+"Tārā (tāra vahuvacana) āma khetena"
+],
+"They (plural of she) used to play cricket": [
+"তারা (সে বহুবচন) ক্রিকেট খেলত",
+"Tārā (se vahuvacana) krikeṭa khelata"
+],
+"He used to be there": [
+"তিনি সেখানে থাকতেন",
+"Tini sekhāne thākatena"
+],
+"She used to be quiet": [
+"সে চুপচাপ থাকতো",
+"Se cupacāpa thākato"
+],
+"I did not use to do": [
+"করতে ব্যবহার করিনি",
+"Karate vyavahāra karini"
+],
+"She did not use to speak": [
+"সে কথা বলতে ব্যবহার করত না",
+"Se kathā valate vyavahāra karata nā"
+],
+"You did not use to dance": [
+"আপনি নাচতে অভ্যস্ত ছিলেন না",
+"Āpani nācate abhyasta chilena nā"
+],
+"They (plural of he) did not use to eat mangos": [
+"তারা (তার বহুবচন) আম খেতে ব্যবহার করতেন না",
+"Tārā (tāra vahuvacana) āma khete vyavahāra karatena nā"
+],
+"She did not use to be quiet": [
+"সে চুপ থাকতে ব্যবহার করেনি",
+"Se cupa thākate vyavahāra kareni"
+],
+"He did not use to be there": [
+"তিনি সেখানে থাকতে ব্যবহার করেননি",
+"Tini sekhāne thākate vyavahāra karenani"
+],
+"He is used to dance": [
+"তিনি নাচতে অভ্যস্ত",
+"Tini nācate abhyasta"
+],
+"She is used to speak": [
+"সে কথা বলতে অভ্যস্ত",
+"Se kathā valate abhyasta"
+],
+"Those girls are used to laugh": [
+"সেই মেয়েরা হাসতে অভ্যস্ত",
+"Sei meya়erā hāsate abhyasta"
+],
+"I am used to be there": [
+"আমি সেখানে থাকতে অভ্যস্ত",
+"Āmi sekhāne thākate abhyasta"
+],
+"She is used to be quiet": [
+"সে চুপচাপ থাকতে অভ্যস্ত",
+"Se cupacāpa thākate abhyasta"
+],
+"He is not used to dance": [
+"তিনি নাচতে অভ্যস্ত নন",
+"Tini nācate abhyasta nana"
+],
+"She is not used to speak": [
+"সে কথা বলতে অভ্যস্ত নয়",
+"Se kathā valate abhyasta naya়"
+],
+"I used to eat mango": [
+"আম খেতাম",
+"Āma khetāma"
+],
+"Kaushik used to eat mango": [
+"কৌশিক আম খেতেন",
+"Kauśika āma khetena"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"কৌশিক, গুরু, সুন্দর প্রতিদিন দেখা করতেন",
+"Kauśika, guru, sundara pratidina dekhā karatena"
+],
+"My friends and I used to play cricket": [
+"আমি আর আমার বন্ধুরা ক্রিকেট খেলতাম",
+"Āmi āra āmāra vandhurā krikeṭa khelatāma"
+],
+"I used to see": [
+"দেখতাম",
+"Dekhatāma"
+],
+"Kaushik used to see": [
+"কৌশিক দেখতেন",
+"Kauśika dekhatena"
+],
+"Kaushik used to do": [
+"করতেন কৌশিক",
+"Karatena kauśika"
+],
+"He opened the door": [
+"সে দরজা খুলে দিল",
+"Se darajā khule dila"
+],
+"If he had opened the door then": [
+"তখন যদি সে দরজা খুলে দিত",
+"Takhana yadi se darajā khule dita"
+],
+"He had spoken": [
+"তিনি কথা বলেছিলেন",
+"Tini kathā valechilena"
+],
+"If he had spoken": [
+"তিনি যদি কথা বলতেন",
+"Tini yadi kathā valatena"
+],
+"If you had spoken then she would have spoken": [
+"আপনি যদি কথা বলতেন তাহলে সে কথা বলত",
+"Āpani yadi kathā valatena tāhale se kathā valata"
+],
+"If he had cried then they would have ran": [
+"সে কাঁদলে তারা দৌড়ে যেত",
+"Se kā~dale tārā dauḍa়e yeta"
+],
+"If you go I will cry": [
+"তুমি গেলে আমি কাঁদব",
+"Tumi gele āmi kā~dava"
+],
+"If he sings she will dance": [
+"যদি সে গান করে তবে সে নাচবে",
+"Yadi se gāna kare tave se nācave"
+],
+"reason of coming": [
+"আসার কারণ",
+"Āsāra kāraṇa"
+],
+"She spoke after my dancing": [
+"আমার নাচের পর সে কথা বলল",
+"Āmāra nācera para se kathā valala"
+],
+"after I danced": [
+"আমি নাচ করার পরে",
+"Āmi nāca karāra pare"
+],
+"She spoke after I danced": [
+"আমি নাচের পর সে কথা বলল",
+"Āmi nācera para se kathā valala"
+],
+"He cried after she went": [
+"সে যাওয়ার পর সে কেঁদেছিল",
+"Se yāoya়āra para se ke~dechila"
+],
+"He told about his coming to school": [
+"জানালেন তার স্কুলে আসার কথা",
+"Jānālena tāra skule āsāra kathā"
+],
+"He told me that he is coming": [
+"তিনি আমাকে বললেন যে তিনি আসছেন",
+"Tini āmāke valalena ye tini āsachena"
+],
+"He told me that he is going to come": [
+"তিনি আমাকে বললেন যে তিনি আসতে চলেছেন",
+"Tini āmāke valalena ye tini āsate calechena"
+],
+"I don't remember she having said something": [
+"সে কিছু বলেছে বলে মনে নেই",
+"Se kichu valeche vale mane nei"
+],
+"I don't remember she having eaten mango": [
+"সে আম খেয়েছে বলে মনে নেই",
+"Se āma kheya়eche vale mane nei"
+],
+"while I speak": [
+"যখন আমি কথা বলি",
+"Yakhana āmi kathā vali"
+],
+"while I do": [
+"যখন আমি করি",
+"Yakhana āmi kari"
+],
+"while I dance": [
+"যখন আমি নাচ",
+"Yakhana āmi nāca"
+],
+"Come to see this photo": [
+"এই ছবি দেখতে আসা",
+"Ei chavi dekhate āsā"
+],
+"Come to eat with me": [
+"আমার সাথে খেতে এসো",
+"Āmāra sāthe khete eso"
+],
+"Smoking is prohibited": [
+"ধূমপান নিষিদ্ধ",
+"Dhūmapāna niṣiddha"
+],
+"Court asked to be present tomorrow": [
+"আগামীকাল আদালতে হাজির হতে বলা হয়েছে",
+"Āgāmīkāla ādālate hājira hate valā haya়eche"
+],
+"Sit and watch": [
+"বসে বসে দেখ",
+"Vase vase dekha"
+],
+"come and go": [
+"আসা এবং যান",
+"Āsā evaṃ yāna"
+],
+"He came and saw it": [
+"তিনি এসে দেখেছেন",
+"Tini ese dekhechena"
+],
+"They will go and check it": [
+"তারা গিয়ে যাচাই করবে",
+"Tārā giya়e yācāi karave"
+],
+"smile and say": [
+"হাসুন এবং বলুন",
+"Hāsuna evaṃ valuna"
+],
+"till I speak": [
+"যতক্ষণ না আমি কথা বলি",
+"Yatakṣaṇa nā āmi kathā vali"
+],
+"until she smiles": [
+"যতক্ষণ না সে হাসে",
+"Yatakṣaṇa nā se hāse"
+],
+"till he goes": [
+"যতক্ষণ না সে যায়",
+"Yatakṣaṇa nā se yāya়"
+],
+"until we come": [
+"আমরা না আসা পর্যন্ত",
+"Āmarā nā āsā paryanta"
+],
+"For good horse": [
+"ভালো ঘোড়ার জন্য",
+"Bhālo ghoḍa়āra janya"
+],
+"For good chair": [
+"ভালো চেয়ারের জন্য",
+"Bhālo ceya়ārera janya"
+],
+"After easy exam": [
+"সহজ পরীক্ষার পর",
+"Sahaja parīkṣāra para"
+],
+"For red horse": [
+"লাল ঘোড়ার জন্য",
+"Lāla ghoḍa়āra janya"
+],
+"About beautiful drawing": [
+"সুন্দর অঙ্কন সম্পর্কে",
+"Sundara aṅkana samparke"
+],
+"I can eat": [
+"আমি খেতে পারি",
+"Āmi khete pāri"
+],
+"He can sing": [
+"সে গান গাইতে পারে",
+"Se gāna gāite pāre"
+],
+"You(plural) could eat mango": [
+"আপনি (বহুবচন) আম খেতে পারেন",
+"Āpani (vahuvacana) āma khete pārena"
+],
+"You(plural) could eat chutney": [
+"আপনি (বহুবচন) চাটনি খেতে পারেন",
+"Āpani (vahuvacana) cāṭani khete pārena"
+],
+"She could dance": [
+"সে নাচতে পারত",
+"Se nācate pārata"
+],
+"They (plural of she) will be able to move": [
+"তারা (সে এর বহুবচন) নড়াচড়া করতে সক্ষম হবে",
+"Tārā (se era vahuvacana) naḍa়ācaḍa়ā karate sakṣama have"
+],
+"I can not eat": [
+"খেতে পারি না",
+"Khete pāri nā"
+],
+"He can not sing": [
+"সে গান গাইতে পারে না",
+"Se gāna gāite pāre nā"
+],
+"She could not dance": [
+"সে নাচতে পারত না",
+"Se nācate pārata nā"
+],
+"You(plural) could not eat mango": [
+"আপনি (বহুবচন) আম খেতে পারেননি",
+"Āpani (vahuvacana) āma khete pārenani"
+],
+"You(plural) could not eat chutney": [
+"আপনি (বহুবচন) চাটনি খেতে পারেননি",
+"Āpani (vahuvacana) cāṭani khete pārenani"
+],
+"They will not be able to move": [
+"তারা নড়াচড়া করতে পারবে না",
+"Tārā naḍa়ācaḍa়ā karate pārave nā"
+],
+"I can play cricket": [
+"আমি ক্রিকেট খেলতে পারি",
+"Āmi krikeṭa khelate pāri"
+],
+"I could play cricket": [
+"ক্রিকেট খেলতে পারতাম",
+"Krikeṭa khelate pāratāma"
+],
+"I will be able to play cricket": [
+"আমি ক্রিকেট খেলতে পারব",
+"Āmi krikeṭa khelate pārava"
+],
+"He can eat mangoes": [
+"সে আম খেতে পারে",
+"Se āma khete pāre"
+],
+"He could eat mangoes": [
+"তিনি আম খেতে পারতেন",
+"Tini āma khete pāratena"
+],
+"He will be able to eat mangoes": [
+"সে আম খেতে পারবে",
+"Se āma khete pārave"
+],
+"They could open box": [
+"তারা বাক্স খুলতে পারে",
+"Tārā vāksa khulate pāre"
+],
+"They could open bag": [
+"তারা ব্যাগ খুলতে পারে",
+"Tārā vyāga khulate pāre"
+],
+"They could speak": [
+"তারা কথা বলতে পারত",
+"Tārā kathā valate pārata"
+],
+"They gathered to speak": [
+"তারা কথা বলতে জড়ো হয়েছিল",
+"Tārā kathā valate jaḍa়o haya়echila"
+],
+"I want mango": [
+"আম চাই",
+"Āma cāi"
+],
+"He wants mango": [
+"সে আম চায়",
+"Se āma cāya়"
+],
+"She wants mango": [
+"সে আম চায়",
+"Se āma cāya়"
+],
+"I/He/She want mangoes": [
+"আমি/সে/সে আম চাই",
+"Āmi/se/se āma cāi"
+],
+"He/She/They want chalk": [
+"সে/সে/তারা চক চায়",
+"Se/se/tārā caka cāya়"
+],
+"He/She/They want chalks": [
+"সে/সে/তারা চক চায়",
+"Se/se/tārā caka cāya়"
+],
+"He/She/They want bag": [
+"সে/সে/তারা ব্যাগ চায়",
+"Se/se/tārā vyāga cāya়"
+],
+"He/She/They want bags": [
+"সে/সে/তারা ব্যাগ চায়",
+"Se/se/tārā vyāga cāya়"
+],
+"He/She/They want page": [
+"সে/সে/তারা পেজ চায়",
+"Se/se/tārā peja cāya়"
+],
+"He/She/They want pages": [
+"সে/সে/তারা পেজ চায়",
+"Se/se/tārā peja cāya়"
+],
+"He/She/They wanted chalk": [
+"সে/সে/তারা চক চেয়েছিল",
+"Se/se/tārā caka ceya়echila"
+],
+"He/She/They wanted chalks": [
+"সে/সে/তারা চক চেয়েছিল",
+"Se/se/tārā caka ceya়echila"
+],
+"He/She/They wanted bag": [
+"সে/সে/তারা ব্যাগ চেয়েছিল",
+"Se/se/tārā vyāga ceya়echila"
+],
+"He/She/They wanted bags": [
+"সে/সে/তারা ব্যাগ চেয়েছিল",
+"Se/se/tārā vyāga ceya়echila"
+],
+"He/She/They wanted page": [
+"তিনি/সে/তারা পেজ চেয়েছিলেন",
+"Tini/se/tārā peja ceya়echilena"
+],
+"He/She/They wanted pages": [
+"সে/সে/তারা পেজ চেয়েছিল",
+"Se/se/tārā peja ceya়echila"
+],
+"He/She/They will need chalk": [
+"তার/সে/তাদের চক লাগবে",
+"Tāra/se/tādera caka lāgave"
+],
+"He/She/They will need chalks": [
+"তার/সে/তাদের চক লাগবে",
+"Tāra/se/tādera caka lāgave"
+],
+"He/She/They will need bag": [
+"তার/সে/তাদের ব্যাগ লাগবে",
+"Tāra/se/tādera vyāga lāgave"
+],
+"He/She/They will need bags": [
+"তার/সে/তাদের ব্যাগ লাগবে",
+"Tāra/se/tādera vyāga lāgave"
+],
+"He/She/They will need page": [
+"তার/সে/তাদের পেজ লাগবে",
+"Tāra/se/tādera peja lāgave"
+],
+"He/She/They will need pages": [
+"তার/সে/তাদের পেজ লাগবে",
+"Tāra/se/tādera peja lāgave"
+],
+"I do not want mango": [
+"আম চাই না",
+"Āma cāi nā"
+],
+"She will not want bag": [
+"সে ব্যাগ চাইবে না",
+"Se vyāga cāive nā"
+],
+"He did not want chalk": [
+"তিনি চাক চাননি",
+"Tini cāka cānani"
+],
+"He did not want bag": [
+"সে ব্যাগ চায়নি",
+"Se vyāga cāya়ni"
+],
+"She does not want ice cream": [
+"সে আইসক্রিম চায় না",
+"Se āisakrima cāya় nā"
+],
+"What will happen?": [
+"কি হবে?",
+"Ki have?"
+],
+"What is happening?": [
+"কি হচ্ছে?",
+"Ki hacche?"
+],
+"It did not happen": [
+"তা ঘটেনি",
+"Tā ghaṭeni"
+],
+"I will become winner": [
+"আমি বিজয়ী হব",
+"Āmi vijaya়ī hava"
+],
+"It was happening": [
+"এটা ঘটছিল",
+"Eṭā ghaṭachila"
+],
+"He will become mad": [
+"সে পাগল হয়ে যাবে",
+"Se pāgala haya়e yāve"
+],
+"He should have eaten mango": [
+"তার আম খাওয়া উচিত ছিল",
+"Tāra āma khāoya়ā ucita chila"
+],
+"He should have eaten tamarind": [
+"তার তেঁতুল খাওয়া উচিত ছিল",
+"Tāra te~tula khāoya়ā ucita chila"
+],
+"He should eat mango": [
+"তার উচিত আম খাওয়া",
+"Tāra ucita āma khāoya়ā"
+],
+"He should go": [
+"তার যাওয়া উচিত",
+"Tāra yāoya়ā ucita"
+],
+"He should have gone": [
+"তার যাওয়া উচিত ছিল",
+"Tāra yāoya়ā ucita chila"
+],
+"I should speak": [
+"আমার কথা বলা উচিত",
+"Āmāra kathā valā ucita"
+],
+"I should have spoken": [
+"আমার কথা বলা উচিত ছিল",
+"Āmāra kathā valā ucita chila"
+],
+"They should dance": [
+"তাদের নাচতে হবে",
+"Tādera nācate have"
+],
+"They should not dance": [
+"তাদের নাচ করা উচিত নয়",
+"Tādera nāca karā ucita naya়"
+],
+"They should have danced": [
+"তাদের নাচ করা উচিত ছিল",
+"Tādera nāca karā ucita chila"
+],
+"They should not have danced": [
+"তাদের নাচ করা উচিত হয়নি",
+"Tādera nāca karā ucita haya়ni"
+],
+"You should play": [
+"তোমার খেলা উচিত",
+"Tomāra khelā ucita"
+],
+"You should not play": [
+"আপনার খেলা উচিত নয়",
+"Āpanāra khelā ucita naya়"
+],
+"You should have played": [
+"তোমার খেলা উচিত ছিল",
+"Tomāra khelā ucita chila"
+],
+"You should not have smiled": [
+"তোমার হাসি উচিত হয়নি",
+"Tomāra hāsi ucita haya়ni"
+],
+"She should open box": [
+"তার বাক্স খুলতে হবে",
+"Tāra vāksa khulate have"
+],
+"He should eat": [
+"তার খাওয়া উচিত",
+"Tāra khāoya়ā ucita"
+],
+"You(male) should go": [
+"আপনার (পুরুষ) যাওয়া উচিত",
+"Āpanāra (puruṣa) yāoya়ā ucita"
+],
+"You(male) should eat mango": [
+"আপনার (পুরুষ) আম খাওয়া উচিত",
+"Āpanāra (puruṣa) āma khāoya়ā ucita"
+],
+"He should not go": [
+"তার যাওয়া উচিত নয়",
+"Tāra yāoya়ā ucita naya়"
+],
+"She should not open box": [
+"তার বাক্স খোলা উচিত নয়",
+"Tāra vāksa kholā ucita naya়"
+],
+"He should not eat": [
+"তার খাওয়া উচিত নয়",
+"Tāra khāoya়ā ucita naya়"
+],
+"He should eat tamarind": [
+"তার তেঁতুল খাওয়া উচিত",
+"Tāra te~tula khāoya়ā ucita"
+],
+"She should write letter": [
+"তাকে চিঠি লিখতে হবে",
+"Tāke ciṭhi likhate have"
+],
+"You should eat mango": [
+"আম খেতে হবে",
+"Āma khete have"
+],
+"He has to do it every day": [
+"তাকে প্রতিদিন এটা করতে হয়",
+"Tāke pratidina eṭā karate haya়"
+],
+"He will have to do it every day": [
+"তাকে প্রতিদিন এটি করতে হবে",
+"Tāke pratidina eṭi karate have"
+],
+"He had to do it every day": [
+"তাকে প্রতিদিন এটা করতে হতো",
+"Tāke pratidina eṭā karate hato"
+],
+"She has to eat mango": [
+"তাকে আম খেতে হবে",
+"Tāke āma khete have"
+],
+"She will have to eat mango": [
+"তাকে আম খেতে হবে",
+"Tāke āma khete have"
+],
+"She had to eat mango": [
+"তাকে আম খেতে হতো",
+"Tāke āma khete hato"
+],
+"She has to eat mangoes": [
+"তাকে আম খেতে হবে",
+"Tāke āma khete have"
+],
+"She has to eat tamarind": [
+"তাকে তেঁতুল খেতে হবে",
+"Tāke te~tula khete have"
+],
+"She has to eat tamarinds": [
+"তাকে তেঁতুল খেতে হবে",
+"Tāke te~tula khete have"
+],
+"She has to eat medicine": [
+"তাকে ওষুধ খেতে হবে",
+"Tāke oṣudha khete have"
+],
+"She has to eat medicines": [
+"তাকে ওষুধ খেতে হবে",
+"Tāke oṣudha khete have"
+],
+"I have to go": [
+"আমাকে যেতে হবে",
+"Āmāke yete have"
+],
+"We have to speak": [
+"আমাদের কথা বলতে হবে",
+"Āmādera kathā valate have"
+],
+"I keep speaking": [
+"আমি কথা বলতে থাকি",
+"Āmi kathā valate thāki"
+],
+"I kept speaking": [
+"আমি কথা বলতে থাকলাম",
+"Āmi kathā valate thākalāma"
+],
+"I will keep speaking": [
+"আমি কথা বলতে থাকব",
+"Āmi kathā valate thākava"
+],
+"You keep speaking": [
+"তুমি কথা বলতে থাকো",
+"Tumi kathā valate thāko"
+],
+"You kept speaking": [
+"আপনি কথা বলতে থাকলেন",
+"Āpani kathā valate thākalena"
+],
+"You will keep speaking": [
+"তুমি কথা বলতে থাকবে",
+"Tumi kathā valate thākave"
+],
+"Keep speaking! (Imperative)": [
+"কথা বলতে থাকুন! (অবশ্যকীয়)",
+"Kathā valate thākuna! (avaśyakīya়)"
+],
+"He is taller than me": [
+"সে আমার চেয়ে লম্বা",
+"Se āmāra ceya়e lamvā"
+],
+"I am shorter than you": [
+"আমি তোমার থেকে খাটো",
+"Āmi tomāra theke khāṭo"
+],
+"They were happier than now": [
+"তারা এখনকার চেয়ে সুখী ছিল",
+"Tārā ekhanakāra ceya়e sukhī chila"
+],
+"He is best": [
+"তিনি সেরা",
+"Tini serā"
+],
+"Everest is the tallest peak": [
+"এভারেস্ট সবচেয়ে উঁচু শৃঙ্গ",
+"Ebhāresṭa savaceya়e u~cu śṛṅga"
+],
+"She was the youngest player": [
+"তিনি ছিলেন সর্বকনিষ্ঠ খেলোয়াড়",
+"Tini chilena sarvakaniṣṭha kheloya়āḍa়"
+],
+"Your voice is loudest of all": [
+"আপনার কন্ঠস্বর সব থেকে জোরে",
+"Āpanāra kanṭhasvara sava theke jore"
+],
+"Your name is known to me": [
+"তোমার নাম আমার জানা",
+"Tomāra nāma āmāra jānā"
+],
+"She knows his address": [
+"সে তার ঠিকানা জানে",
+"Se tāra ṭhikānā jāne"
+],
+"She knew his address": [
+"সে তার ঠিকানা জানত",
+"Se tāra ṭhikānā jānata"
+],
+"Do you know it?": [
+"আপনি এটা জানেন?",
+"Āpani eṭā jānena?"
+],
+"Did she know that?": [
+"সে কি জানত?",
+"Se ki jānata?"
+],
+"Your name is not known to me": [
+"তোমার নাম আমার জানা নেই",
+"Tomāra nāma āmāra jānā nei"
+],
+"She does not know his address": [
+"সে তার ঠিকানা জানে না",
+"Se tāra ṭhikānā jāne nā"
+],
+"She did not know his address": [
+"সে তার ঠিকানা জানত না",
+"Se tāra ṭhikānā jānata nā"
+],
+"Don't you know it?": [
+"আপনি এটা জানেন না?",
+"Āpani eṭā jānena nā?"
+],
+"Didn't she know that?": [
+"সে কি জানত না?",
+"Se ki jānata nā?"
+],
+"I know eating cake": [
+"আমি কেক খেতে জানি",
+"Āmi keka khete jāni"
+],
+"I know swimming": [
+"আমি সাঁতার জানি",
+"Āmi sā~tāra jāni"
+],
+"I know Japanese": [
+"আমি জাপানি জানি",
+"Āmi jāpāni jāni"
+],
+"I know cooking": [
+"আমি রান্না জানি",
+"Āmi rānnā jāni"
+],
+"Do you know playing cricket?": [
+"ক্রিকেট খেলতে জানেন?",
+"Krikeṭa khelate jānena?"
+],
+"I know killing mosquitoes": [
+"আমি মশা মারতে জানি",
+"Āmi maśā mārate jāni"
+],
+"She used to know dancing before": [
+"তিনি আগে নাচ জানতেন",
+"Tini āge nāca jānatena"
+],
+"They knew to talk": [
+"তারা কথা বলতে জানত",
+"Tārā kathā valate jānata"
+],
+"He learned. So he could speak Japanese": [
+"সে শিখেছে। তাই তিনি জাপানি ভাষায় কথা বলতে পারতেন",
+"Se śikheche| tāi tini jāpāni bhāṣāya় kathā valate pāratena"
+],
+"I do not know eating cake": [
+"আমি কেক খেতে জানি না",
+"Āmi keka khete jāni nā"
+],
+"I do not know swimming": [
+"আমি সাঁতার জানি না",
+"Āmi sā~tāra jāni nā"
+],
+"I do not know Japanese": [
+"আমি জাপানি জানি না",
+"Āmi jāpāni jāni nā"
+],
+"She did not know dancing before": [
+"তিনি আগে নাচ জানতেন না",
+"Tini āge nāca jānatena nā"
+],
+"They did not know to talk": [
+"তারা কথা বলতে জানত না",
+"Tārā kathā valate jānata nā"
+],
+"He did not learn. So he could not speak Japanese": [
+"সে শেখেনি। তাই তিনি জাপানি ভাষায় কথা বলতে পারতেন না",
+"Se śekheni| tāi tini jāpāni bhāṣāya় kathā valate pāratena nā"
+],
+"I(boy) know you": [
+"আমি (ছেলে) তোমাকে চিনি",
+"Āmi (chele) tomāke cini"
+],
+"I(girl) know you": [
+"আমি (মেয়ে) তোমাকে চিনি",
+"Āmi (meya়e) tomāke cini"
+],
+"You know me": [
+"আপনি আমাকে চেনেন",
+"Āpani āmāke cenena"
+],
+"He knows Mr. Ram": [
+"তিনি মিস্টার রামকে চেনেন",
+"Tini misṭāra rāmake cenena"
+],
+"Let's not play": [
+"চল না খেলি",
+"Cala nā kheli"
+],
+"Let's not go": [
+"চল না যাই",
+"Cala nā yāi"
+],
+"Let's not speak": [
+"আসুন কথা বলি না",
+"Āsuna kathā vali nā"
+],
+"Shall we play cricket? (style 1)": [
+"আমরা কি ক্রিকেট খেলব? (স্টাইল 1)",
+"Āmarā ki krikeṭa khelava? (sṭāila 1)"
+],
+"Shall we play cricket? (style 2)": [
+"আমরা কি ক্রিকেট খেলব? (স্টাইল 2)",
+"Āmarā ki krikeṭa khelava? (sṭāila 2)"
+],
+"Shall we watch movie? (style 1)": [
+"আমরা কি সিনেমা দেখব? (স্টাইল 1)",
+"Āmarā ki sinemā dekhava? (sṭāila 1)"
+],
+"Shall we watch movie? (style 2)": [
+"আমরা কি সিনেমা দেখব? (স্টাইল 2)",
+"Āmarā ki sinemā dekhava? (sṭāila 2)"
+],
+"Shall we go home? (style 1)": [
+"আমরা কি বাড়িতে যাব? (স্টাইল 1)",
+"Āmarā ki vāḍa়ite yāva? (sṭāila 1)"
+],
+"Shall we go home? (style 2)": [
+"আমরা কি বাড়িতে যাব? (স্টাইল 2)",
+"Āmarā ki vāḍa়ite yāva? (sṭāila 2)"
+],
+"Shall we eat mango? (style 1)": [
+"আমরা কি আম খাবো? (স্টাইল 1)",
+"Āmarā ki āma khāvo? (sṭāila 1)"
+],
+"Shall we eat mango? (style 2)": [
+"আমরা কি আম খাবো? (স্টাইল 2)",
+"Āmarā ki āma khāvo? (sṭāila 2)"
+],
+"Shall we eat tamarind? (style 1)": [
+"আমরা কি তেঁতুল খাবো? (স্টাইল 1)",
+"Āmarā ki te~tula khāvo? (sṭāila 1)"
+],
+"Shall we eat tamarind? (style 2)": [
+"আমরা কি তেঁতুল খাবো? (স্টাইল 2)",
+"Āmarā ki te~tula khāvo? (sṭāila 2)"
+],
+"Let him play": [
+"তাকে খেলতে দাও",
+"Tāke khelate dāo"
+],
+"Let me eat": [
+"আমাকে খেতে দাও",
+"Āmāke khete dāo"
+],
+"Let her speak": [
+"তাকে কথা বলতে দিন",
+"Tāke kathā valate dina"
+],
+"You all, Let him play": [
+"তোমরা সবাই, ওকে খেলতে দাও",
+"Tomarā savāi, oke khelate dāo"
+],
+"You all, Let me eat": [
+"তোমরা সবাই, আমাকে খেতে দাও",
+"Tomarā savāi, āmāke khete dāo"
+],
+"You all, Let her speak": [
+"তোমরা সবাই, ওকে কথা বলতে দাও",
+"Tomarā savāi, oke kathā valate dāo"
+],
+"Don't let him play": [
+"তাকে খেলতে দেবেন না",
+"Tāke khelate devena nā"
+],
+"Don't let me eat": [
+"আমাকে খেতে দাও না",
+"Āmāke khete dāo nā"
+],
+"You all, don't let her speak": [
+"তোমরা সবাই, ওকে কথা বলতে দিও না",
+"Tomarā savāi, oke kathā valate dio nā"
+],
+"You all, don't let me eat": [
+"তোমরা সবাই, আমাকে খেতে দাও না",
+"Tomarā savāi, āmāke khete dāo nā"
+],
+"I could not understand what you just said": [
+"আপনি ঠিক কি বললেন বুঝতে পারলাম না",
+"Āpani ṭhika ki valalena vujhate pāralāma nā"
+],
+"Which fruit you want, show me that": [
+"তুমি কোন ফল চাও, সেটা দেখাও",
+"Tumi kona phala cāo, seṭā dekhāo"
+],
+"When you come I feel happy": [
+"তুমি এলে আমি খুশি হই",
+"Tumi ele āmi khuśi hai"
+],
+"What is in your mind, tell me that": [
+"তোমার মনে কি আছে, বল",
+"Tomāra mane ki āche, vala"
+],
+"When you(girl) come I feel happy": [
+"তুমি (মেয়ে) এলে আমি খুশি বোধ করি",
+"Tumi (meya়e) ele āmi khuśi vodha kari"
+],
+"Go back, the way you have come": [
+"ফিরে যাও, যে পথে এসেছিলে",
+"Phire yāo, ye pathe esechile"
+],
+"Give it to him, who wants it": [
+"যে চায় তাকে দাও",
+"Ye cāya় tāke dāo"
+],
+"Tell me about them whom you read about": [
+"আপনি যাদের সম্পর্কে পড়েছেন তাদের সম্পর্কে বলুন",
+"Āpani yādera samparke paḍa়echena tādera samparke valuna"
+],
+"Wherever you will go I will come": [
+"তুমি যেখানেই যাও আমি আসব",
+"Tumi yekhānei yāo āmi āsava"
+],
+"Whichever vegetables you want, you buy it": [
+"আপনি যে সবজি চান, আপনি এটি কিনুন",
+"Āpani ye savaji cāna, āpani eṭi kinuna"
+],
+"Whenever you call he will answer": [
+"আপনি যখনই ডাকবেন তিনি উত্তর দেবেন",
+"Āpani yakhanai ḍākavena tini uttara devena"
+],
+"Do not smoke here": [
+"এখানে ধূমপান করবেন না",
+"Ekhāne dhūmapāna karavena nā"
+],
+"Do not use mobile phones": [
+"মোবাইল ফোন ব্যবহার করবেন না",
+"Movāila phona vyavahāra karavena nā"
+],
+"Enter your preferences": [
+"আপনার পছন্দ লিখুন",
+"Āpanāra pachanda likhuna"
+],
+"Write your address": [
+"আপনার ঠিকানা লিখুন",
+"Āpanāra ṭhikānā likhuna"
+],
+"Write your addresses": [
+"আপনার ঠিকানা লিখুন",
+"Āpanāra ṭhikānā likhuna"
+],
+"Enter your preference": [
+"আপনার পছন্দ লিখুন",
+"Āpanāra pachanda likhuna"
+],
+"Speak your name": [
+"তোমার নাম বল",
+"Tomāra nāma vala"
+],
+"Speak your names": [
+"আপনার নামগুলো বলুন",
+"Āpanāra nāmagulo valuna"
+],
+"Do not speak": [
+"কথা বলবেন না",
+"Kathā valavena nā"
+],
+"Do not smoke": [
+"ধূমপান করবেন না",
+"Dhūmapāna karavena nā"
+],
+"Do not cross road here": [
+"এখানে রাস্তা পার হবেন না",
+"Ekhāne rāstā pāra havena nā"
+],
+"Do not pluck flowers": [
+"ফুল তুলবেন না",
+"Phula tulavena nā"
+],
+"I like to eat mango": [
+"আম খেতে ভালো লাগে",
+"Āma khete bhālo lāge"
+],
+"I like to eat mangoes": [
+"আম খেতে ভালো লাগে",
+"Āma khete bhālo lāge"
+],
+"He liked to open bag": [
+"তিনি ব্যাগ খুলতে পছন্দ করেন",
+"Tini vyāga khulate pachanda karena"
+],
+"He liked to open bags": [
+"তিনি ব্যাগ খুলতে পছন্দ করেন",
+"Tini vyāga khulate pachanda karena"
+],
+"She will like to sing song": [
+"সে গান গাইতে পছন্দ করবে",
+"Se gāna gāite pachanda karave"
+],
+"She will like to sing songs": [
+"সে গান গাইতে পছন্দ করবে",
+"Se gāna gāite pachanda karave"
+],
+"I do not like to eat mango": [
+"আম খেতে ভালো লাগে না",
+"Āma khete bhālo lāge nā"
+],
+"I do not like to eat mangoes": [
+"আম খেতে ভালো লাগে না",
+"Āma khete bhālo lāge nā"
+],
+"He did not like to open bag": [
+"ব্যাগ খুলতে তার ভালো লাগেনি",
+"Vyāga khulate tāra bhālo lāgeni"
+],
+"She will not like to sing song": [
+"সে গান গাইতে পছন্দ করবে না",
+"Se gāna gāite pachanda karave nā"
+],
+"I like to see Kaushik": [
+"কৌশিককে দেখতে ভালো লাগে",
+"Kauśikake dekhate bhālo lāge"
+],
+"He likes to push me": [
+"সে আমাকে ধাক্কা দিতে পছন্দ করে",
+"Se āmāke dhākkā dite pachanda kare"
+],
+"He likes to push her": [
+"সে তাকে ধাক্কা দিতে পছন্দ করে",
+"Se tāke dhākkā dite pachanda kare"
+],
+"They will like to hold us": [
+"তারা আমাদের ধরে রাখতে পছন্দ করবে",
+"Tārā āmādera dhare rākhate pachanda karave"
+],
+"Kaushik said that he would eat": [
+"কৌশিক বলল সে খাবে",
+"Kauśika valala se khāve"
+],
+"I thought I would be late so I would have to run": [
+"ভাবলাম দেরি হয়ে যাবে তাই দৌড়াতে হবে",
+"Bhāvalāma deri haya়e yāve tāi dauḍa়āte have"
+],
+"I would love to visit New York": [
+"আমি নিউ ইয়র্ক পরিদর্শন করতে চাই",
+"Āmi niu iya়rka paridarśana karate cāi"
+],
+"We would go, but we are too busy": [
+"আমরা যেতাম, কিন্তু আমরা খুব ব্যস্ত",
+"Āmarā yetāma, kintu āmarā khuva vyasta"
+],
+"I would not disclose it in any condition": [
+"আমি কোন অবস্থাতেই তা প্রকাশ করব না",
+"Āmi kona avasthātei tā prakāśa karava nā"
+],
+"Would you like to drink tea?": [
+"আপনি কি চা পান করতে চান?",
+"Āpani ki cā pāna karate cāna?"
+],
+"Would you please help me?": [
+"আপনি কি আমাকে সাহায্য করবেন?",
+"Āpani ki āmāke sāhāyya karavena?"
+],
+"I would suggest you to take this medicine": [
+"আমি আপনাকে এই ওষুধ খাওয়ার পরামর্শ দেব",
+"Āmi āpanāke ei oṣudha khāoya়āra parāmarśa deva"
+],
+"I understand its importance": [
+"আমি এর গুরুত্ব বুঝি",
+"Āmi era gurutva vujhi"
+],
+"He understood the logic": [
+"তিনি যুক্তি বুঝতে পেরেছিলেন",
+"Tini yukti vujhate perechilena"
+],
+"She came to know the news": [
+"সে খবর জানতে পেরেছে",
+"Se khavara jānate pereche"
+],
+"They will understand your mistakes": [
+"তারা আপনার ভুল বুঝতে পারবে",
+"Tārā āpanāra bhula vujhate pārave"
+],
+"Did you understand?": [
+"বুঝলেন?",
+"Vujhalena?"
+],
+"She does not understand": [
+"সে বুঝতে পারে না",
+"Se vujhate pāre nā"
+],
+"He will not come to know this": [
+"এ কথা সে জানতে পারবে না",
+"E kathā se jānate pārave nā"
+],
+"You are coming": [
+"আপনি আসছেন",
+"Āpani āsachena"
+],
+"You are coming, aren't you?": [
+"আপনি আসছেন, তাই না?",
+"Āpani āsachena, tāi nā?"
+],
+"She did not speak": [
+"মেয়েটা কথা বলল না",
+"Meya়eṭā kathā valala nā"
+],
+"She did not speak, did she?": [
+"সে কথা বলল না, তাই না?",
+"Se kathā valala nā, tāi nā?"
+],
+"He will do": [
+"সে করবে",
+"Se karave"
+],
+"He will do, won't he?": [
+"সে করবে, তাই না?",
+"Se karave, tāi nā?"
+],
+"I remember you": [
+"তোমার কথা মনে পড়ে",
+"Tomāra kathā mane paḍa়e"
+],
+"You remember me": [
+"তুমি আমাকে মনে রাখো",
+"Tumi āmāke mane rākho"
+],
+"We remember Mary": [
+"আমরা মরিয়মকে স্মরণ করি",
+"Āmarā mariya়make smaraṇa kari"
+],
+"Mary remembers us": [
+"মরিয়ম আমাদের মনে রেখেছে",
+"Mariya়ma āmādera mane rekheche"
+],
+"I remember you (miss)": [
+"আমি তোমাকে মনে করি (মিস)",
+"Āmi tomāke mane kari (misa)"
+],
+"Mary remembered us": [
+"মরিয়ম আমাদের মনে রেখেছে",
+"Mariya়ma āmādera mane rekheche"
+],
+"Peter misses his friend": [
+"পিটার তার বন্ধুকে মিস করে",
+"Piṭāra tāra vandhuke misa kare"
+],
+"She missed her mother a lot": [
+"মাকে খুব মিস করত",
+"Māke khuva misa karata"
+],
+"I will remember your favor": [
+"তোমার অনুগ্রহ মনে রাখব",
+"Tomāra anugraha mane rākhava"
+],
+"He always remembered my advice": [
+"তিনি সবসময় আমার উপদেশ মনে রাখতেন",
+"Tini savasamaya় āmāra upadeśa mane rākhatena"
+],
+"I want to eat mango": [
+"আমি আম খেতে চাই",
+"Āmi āma khete cāi"
+],
+"I want to eat mangoes": [
+"আমি আম খেতে চাই",
+"Āmi āma khete cāi"
+],
+"He wanted to open bag": [
+"ব্যাগ খুলতে চাইল",
+"Vyāga khulate cāila"
+],
+"He wanted to open bags": [
+"তিনি ব্যাগ খুলতে চেয়েছিলেন",
+"Tini vyāga khulate ceya়echilena"
+],
+"She will want to sing song": [
+"সে গান গাইতে চাইবে",
+"Se gāna gāite cāive"
+],
+"She will want to sing songs": [
+"সে গান গাইতে চাইবে",
+"Se gāna gāite cāive"
+],
+"I wanted to go": [
+"আমি যেতে চেয়েছিলাম",
+"Āmi yete ceya়echilāma"
+],
+"I will want to run": [
+"আমি দৌড়াতে চাইব",
+"Āmi dauḍa়āte cāiva"
+],
+"I do not want to eat mango": [
+"আম খেতে ইচ্ছে করে না",
+"Āma khete icche kare nā"
+],
+"He did not want to open bag": [
+"ব্যাগ খুলতে চায়নি",
+"Vyāga khulate cāya়ni"
+],
+"She will not want to sing song": [
+"সে গান গাইতে চাইবে না",
+"Se gāna gāite cāive nā"
+],
+"Kaushik wants to see Peter": [
+"কৌশিক পিটারকে দেখতে চায়",
+"Kauśika piṭārake dekhate cāya়"
+],
+"Kaushik wants to see him": [
+"কৌশিক তাকে দেখতে চায়",
+"Kauśika tāke dekhate cāya়"
+],
+"Kaushik wants to see you": [
+"কৌশিক তোমাকে দেখতে চায়",
+"Kauśika tomāke dekhate cāya়"
+],
+"I want you to finish work": [
+"আমি চাই তুমি কাজ শেষ কর",
+"Āmi cāi tumi kāja śeṣa kara"
+],
+"She wants me to avoid junk food": [
+"সে চায় আমি জাঙ্ক ফুড এড়িয়ে চলি",
+"Se cāya় āmi jāṅka phuḍa eḍa়iya়e cali"
+],
+"Kaushik wants students to practice more": [
+"কৌশিক চান ছাত্ররা আরও বেশি অনুশীলন করুক",
+"Kauśika cāna chātrarā ārao veśi anuśīlana karuka"
+],
+"Kaushik wanted students to practice more": [
+"কৌশিক চেয়েছিলেন ছাত্ররা আরও অনুশীলন করুক",
+"Kauśika ceya়echilena chātrarā ārao anuśīlana karuka"
+],
+"Students want Kaushik to talk slowly": [
+"শিক্ষার্থীরা চায় কৌশিক ধীরে ধীরে কথা বলুক",
+"Śikṣārthīrā cāya় kauśika dhīre dhīre kathā valuka"
+],
+"I am supposed to meet him tomorrow": [
+"আমার আগামীকাল তার সাথে দেখা করার কথা",
+"Āmāra āgāmīkāla tāra sāthe dekhā karāra kathā"
+],
+"I am supposed to finish that bottle": [
+"আমার সেই বোতলটি শেষ করার কথা",
+"Āmāra sei votalaṭi śeṣa karāra kathā"
+],
+"He is supposed to finish that bottle": [
+"তার সেই বোতল শেষ করার কথা",
+"Tāra sei votala śeṣa karāra kathā"
+],
+"She is supposed to finish that bottle": [
+"তার সেই বোতলটি শেষ করার কথা",
+"Tāra sei votalaṭi śeṣa karāra kathā"
+],
+"I/He/She was supposed to finish that bottle": [
+"আমি/সে/সে বোতলটি শেষ করার কথা ছিল",
+"Āmi/se/se votalaṭi śeṣa karāra kathā chila"
+],
+"I/He/She was supposed to finish those bottles": [
+"আমি/সে/সে বোতলগুলো শেষ করার কথা ছিল",
+"Āmi/se/se votalagulo śeṣa karāra kathā chila"
+],
+"I am supposed to go there tomorrow": [
+"আমার আগামীকাল সেখানে যাওয়ার কথা",
+"Āmāra āgāmīkāla sekhāne yāoya়āra kathā"
+],
+"He is supposed to come tomorrow": [
+"আগামীকাল তার আসার কথা",
+"Āgāmīkāla tāra āsāra kathā"
+],
+"We could not meet but next time we must meet": [
+"দেখা করতে পারিনি কিন্তু পরের বার দেখা করতেই হবে",
+"Dekhā karate pārini kintu parera vāra dekhā karatei have"
+],
+"You must pay me ransom tomorrow itself": [
+"তোমাকে আগামীকালই আমাকে মুক্তিপণ দিতে হবে",
+"Tomāke āgāmīkālai āmāke muktipaṇa dite have"
+],
+"I get a prize": [
+"আমি একটি পুরস্কার পেতে",
+"Āmi ekaṭi puraskāra pete"
+],
+"I get 10 prizes": [
+"আমি 10টি পুরস্কার পাই",
+"Āmi 10ṭi puraskāra pāi"
+],
+"He gets a prize": [
+"সে পুরস্কার পায়",
+"Se puraskāra pāya়"
+],
+"He gets 10 prizes": [
+"তিনি 10টি পুরস্কার পান",
+"Tini 10ṭi puraskāra pāna"
+],
+"He got a prize": [
+"তিনি একটি পুরস্কার পেয়েছেন",
+"Tini ekaṭi puraskāra peya়echena"
+],
+"He got 10 prizes": [
+"তিনি 10টি পুরস্কার পেয়েছেন",
+"Tini 10ṭi puraskāra peya়echena"
+],
+"I found my wallet under the bed": [
+"আমি বিছানার নীচে আমার মানিব্যাগ খুঁজে পেয়েছি",
+"Āmi vichānāra nīce āmāra mānivyāga khu~je peya়echi"
+],
+"She became angry": [
+"সে রেগে গেল",
+"Se rege gela"
+],
+"He became angry": [
+"সে রেগে গেল",
+"Se rege gela"
+],
+"He agrees to this condition": [
+"তিনি এই শর্তে রাজি হন",
+"Tini ei śarte rāji hana"
+],
+"He agrees to these conditions": [
+"তিনি এসব শর্তে রাজি হন",
+"Tini esava śarte rāji hana"
+],
+"Finish it off in 10 minutes": [
+"10 মিনিটের মধ্যে এটি শেষ করুন",
+"10 miniṭera madhye eṭi śeṣa karuna"
+],
+"Do not hesitate. Speak it out": [
+"দ্বিধা করবেন না। কথা বলুন",
+"Dvidhā karavena nā| kathā valuna"
+],
+"Nobody is looking. Just do it": [
+"কেউ তাকাচ্ছে না। শুধু এটা করুন",
+"Keu tākācche nā| śudhu eṭā karuna"
+],
+"I somehow managed to gulp it": [
+"আমি একরকম এটা গলপ পরিচালিত",
+"Āmi ekarakama eṭā galapa paricālita"
+],
+"He quickly came and read the letter": [
+"তাড়াতাড়ি এসে চিঠিটা পড়ে ফেলল",
+"Tāḍa়ātāḍa়i ese ciṭhiṭā paḍa়e phelala"
+],
+"Ask whatever you want; right now": [
+"আপনি যা চান জিজ্ঞাসা করুন; এই মুহূর্তে",
+"Āpani yā cāna jijñāsā karuna; ei muhūrte"
+],
+"You may call me whatever you want": [
+"আপনি যা খুশি আমাকে ডাকতে পারেন",
+"Āpani yā khuśi āmāke ḍākate pārena"
+],
+"Get that work done by him": [
+"তার দ্বারা সেই কাজ করিয়ে নিন",
+"Tāra dvārā sei kāja kariya়e nina"
+],
+"I made her take exercise every day": [
+"আমি তাকে প্রতিদিন ব্যায়াম করতে বাধ্য করি",
+"Āmi tāke pratidina vyāya়āma karate vādhya kari"
+],
+"I washed clothes very hard": [
+"আমি খুব কষ্ট করে কাপড় ধুয়েছি",
+"Āmi khuva kaṣṭa kare kāpaḍa় dhuya়echi"
+],
+"Batsman hit every ball very hard": [
+"ব্যাটসম্যান প্রতিটি বল খুব জোরে মারেন",
+"Vyāṭasamyāna pratiṭi vala khuva jore mārena"
+],
+"I just told him we drank liquor": [
+"আমি শুধু তাকে বলেছিলাম আমরা মদ খেয়েছি",
+"Āmi śudhu tāke valechilāma āmarā mada kheya়echi"
+],
+"Oh my God! What have I done!": [
+"ও মাই গড! আমি কি করলাম!",
+"O māi gaḍa! āmi ki karalāma!"
+],
+"Now keep crying": [
+"এখন কাঁদতে থাক",
+"Ekhana kā~date thāka"
+],
+"She will search it forever": [
+"সে এটি চিরতরে অনুসন্ধান করবে",
+"Se eṭi ciratare anusandhāna karave"
+],
+"I forgot to tell you": [
+"আমি তোমাকে বলতে ভুলে গেছি",
+"Āmi tomāke valate bhule gechi"
+],
+"She could not see the sign": [
+"সে চিহ্ন দেখতে পায়নি",
+"Se cihna dekhate pāya়ni"
+],
+"Start following my advice": [
+"আমার পরামর্শ অনুসরণ শুরু করুন",
+"Āmāra parāmarśa anusaraṇa śuru karuna"
+],
+"If you had taken exercise every day then": [
+"তাহলে প্রতিদিন ব্যায়াম করতেন",
+"Tāhale pratidina vyāya়āma karatena"
+],
+"I was about to open the door when I saw": [
+"দরজা খুলতে গিয়ে দেখলাম",
+"Darajā khulate giya়e dekhalāma"
+],
+"If we think of eating mango then": [
+"আমরা যদি আম খাওয়ার কথা ভাবি",
+"Āmarā yadi āma khāoya়āra kathā bhāvi"
+],
+"If he decides to take revenge": [
+"যদি সে প্রতিশোধ নেওয়ার সিদ্ধান্ত নেয়",
+"Yadi se pratiśodha neoya়āra siddhānta neya়"
+],
+"Give him your information": [
+"তাকে আপনার তথ্য দিন",
+"Tāke āpanāra tathya dina"
+],
+"Keep tea ready": [
+"চা রেডি রাখুন",
+"Cā reḍi rākhuna"
+],
+"We have booked tickets": [
+"আমরা টিকিট বুক করেছি",
+"Āmarā ṭikiṭa vuka karechi"
+],
+"I had already given my password": [
+"আমি আগেই পাসওয়ার্ড দিয়েছিলাম",
+"Āmi āgei pāsaoya়ārḍa diya়echilāma"
+],
+"I have decided plan for tonight": [
+"আমি আজকের রাতের পরিকল্পনা ঠিক করেছি",
+"Āmi ājakera rātera parikalpanā ṭhika karechi"
+],
+"He happened to say he was from India": [
+"সে বলেছিল সে ভারত থেকে এসেছে",
+"Se valechila se bhārata theke eseche"
+],
+"I happened to hear about strike": [
+"ধর্মঘটের কথা শুনেছি",
+"Dharmaghaṭera kathā śunechi"
+],
+"Hey! When did you come?": [
+"আরে! কখন এলে?",
+"Āre! kakhana ele?"
+],
+"Nice smell / Very tasty": [
+"চমৎকার গন্ধ / খুব সুস্বাদু",
+"Camatkāra gandha / khuva susvādu"
+],
+"Oh my God! Who did this?": [
+"ও মাই গড! কে এটা করেছে?",
+"O māi gaḍa! ke eṭā kareche?"
+],
+"Oh! He failed!": [
+"ওহ! সে ব্যর্থ!",
+"Oha! se vyartha!"
+],
+"No! He will never do it": [
+"না! তিনি এটা কখনই করবেন না",
+"Nā! tini eṭā kakhanai karavena nā"
+],
+"No! I do not believe": [
+"না! আমি বিশ্বাস করি না",
+"Nā! āmi viśvāsa kari nā"
+],
+"Yes! I will surely come": [
+"হ্যাঁ! আমি অবশ্যই আসব",
+"Hyā~! āmi avaśyai āsava"
+],
+"Hmm! I got it": [
+"হুম! আমি এটা পেয়েছি",
+"Huma! āmi eṭā peya়echi"
+],
+"Well done! You won": [
+"ভাল হয়েছে! তুমি জিতেছ",
+"Bhāla haya়eche! tumi jitecha"
+],
+"Mummy! It is paining": [
+"মমি! এটা ব্যথা হয়",
+"Mami! eṭā vyathā haya়"
+],
+"Yuck! It looks ugly": [
+"ইয়াক! দেখতে কুৎসিত",
+"Iya়āka! dekhate kutsita"
+],
+"I spit on your cowardice": [
+"তোমার কাপুরুষতায় আমি থুথু ফেলি",
+"Tomāra kāpuruṣatāya় āmi thuthu pheli"
+],
+"Shhh! Keep quiet": [
+"শহ! চুপ করে থাকো",
+"Śaha! cupa kare thāko"
+],
+"How well you danced!": [
+"কত ভালো নাচে!",
+"Kata bhālo nāce!"
+],
+"What a fool he is!": [
+"সে কী বোকা!",
+"Se kī vokā!"
+],
+"Oh! What happened then?": [
+"ওহ! তারপর কি হল?",
+"Oha! tārapara ki hala?"
+],
+"Oh! When did you come?": [
+"ওহ! কখন এলে?",
+"Oha! kakhana ele?"
+],
+"Someone may see it! (blush)": [
+"কেউ দেখে ফেলতে পারে! (লালিত)",
+"Keu dekhe phelate pāre! (lālita)"
+],
+"May I come": [
+"আমি আসতে পারি",
+"Āmi āsate pāri"
+],
+"May I go": [
+"আমি যেতে পারি",
+"Āmi yete pāri"
+],
+"May we come": [
+"আমরা আসতে পারি",
+"Āmarā āsate pāri"
+],
+"May we go": [
+"আমরা যেতে পারি",
+"Āmarā yete pāri"
+],
+"May we speak": [
+"আমরা কথা বলতে পারি",
+"Āmarā kathā valate pāri"
+],
+"May you come": [
+"আপনি আসতে পারেন",
+"Āpani āsate pārena"
+],
+"May you speak": [
+"আপনি কথা বলতে পারেন",
+"Āpani kathā valate pārena"
+],
+"May he tell": [
+"সে যেন বলতে পারে",
+"Se yena valate pāre"
+],
+"Can I tell": [
+"বলতে পারি",
+"Valate pāri"
+],
+"Can I write": [
+"লিখতে পারি",
+"Likhate pāri"
+],
+"May you give pen": [
+"তুমি কলম দাও",
+"Tumi kalama dāo"
+],
+"Please give pen": [
+"দয়া করে কলম দিন",
+"Daya়ā kare kalama dina"
+],
+"Please tell address": [
+"ঠিকানা বলবেন প্লিজ",
+"Ṭhikānā valavena plija"
+],
+"He may go": [
+"সে যেতে পারে",
+"Se yete pāre"
+],
+"I may sing": [
+"আমি গাইতে পারি",
+"Āmi gāite pāri"
+],
+"He might come": [
+"সে হয়তো আসবে",
+"Se haya়to āsave"
+],
+"He might have gone yesterday": [
+"সে হয়তো গতকাল চলে গেছে",
+"Se haya়to gatakāla cale geche"
+],
+"She might have completed it": [
+"তিনি এটি সম্পন্ন করতে পারে",
+"Tini eṭi sampanna karate pāre"
+],
+"They might have returned yesterday": [
+"তারা হয়তো গতকালই ফিরে এসেছে",
+"Tārā haya়to gatakālai phire eseche"
+],
+"He had gone": [
+"সে চলে গিয়েছিল",
+"Se cale giya়echila"
+],
+"He might have gone": [
+"তিনি হয়তো চলে গেছেন",
+"Tini haya়to cale gechena"
+],
+"She had said": [
+"তিনি বলেছিলেন",
+"Tini valechilena"
+],
+"She might have said": [
+"সে হয়তো বলেছে",
+"Se haya়to valeche"
+],
+"You have eaten mango": [
+"আপনি আম খেয়েছেন",
+"Āpani āma kheya়echena"
+],
+"You might have eaten mango": [
+"আপনি হয়তো আম খেয়েছেন",
+"Āpani haya়to āma kheya়echena"
+],
+"The day I like": [
+"আমার পছন্দের দিন",
+"Āmāra pachandera dina"
+],
+"Boy who is giving": [
+"ছেলে যে দিচ্ছে",
+"Chele ye dicche"
+],
+"Person who is dancing": [
+"যে ব্যক্তি নাচছে",
+"Ye vyakti nācache"
+],
+"Pot on table": [
+"টেবিলের উপর পাত্র",
+"Ṭevilera upara pātra"
+],
+"Jar on table": [
+"টেবিলে জার",
+"Ṭevile jāra"
+],
+"Leaf on table": [
+"টেবিলে পাতা",
+"Ṭevile pātā"
+],
+"Gift inside box": [
+"বাক্সের ভিতরে উপহার",
+"Vāksera bhitare upahāra"
+],
+"Area outside my home": [
+"আমার বাড়ির বাইরের এলাকা",
+"Āmāra vāḍa়ira vāirera elākā"
+],
+"I make him say": [
+"আমি তাকে বলতে বাধ্য করি",
+"Āmi tāke valate vādhya kari"
+],
+"I will make him say": [
+"আমি তাকে বলতে বাধ্য করব",
+"Āmi tāke valate vādhya karava"
+],
+"I made him say": [
+"তাকে বলতে বাধ্য করলাম",
+"Tāke valate vādhya karalāma"
+],
+"He made me work": [
+"তিনি আমাকে কাজ করান",
+"Tini āmāke kāja karāna"
+],
+"He makes me work": [
+"সে আমাকে কাজ করে দেয়",
+"Se āmāke kāja kare deya়"
+],
+"He will make me work": [
+"তিনি আমাকে কাজ করাবেন",
+"Tini āmāke kāja karāvena"
+],
+"That joke made me laugh": [
+"সেই কৌতুক আমাকে হাসিয়েছিল",
+"Sei kautuka āmāke hāsiya়echila"
+],
+"Peter made Mary eat mango": [
+"পিটার মেরিকে আম খেতে বাধ্য করলেন",
+"Piṭāra merike āma khete vādhya karalena"
+],
+"Peter made Mary eat mangoes": [
+"পিটার মেরিকে আম খেতে বাধ্য করলেন",
+"Piṭāra merike āma khete vādhya karalena"
+],
+"I myself did it": [
+"আমি নিজেই এটা করেছি",
+"Āmi nijei eṭā karechi"
+],
+"I did this itself": [
+"আমি নিজেই এটা করেছি",
+"Āmi nijei eṭā karechi"
+],
+"I will come tomorrow itself": [
+"কাল নিজেই আসব",
+"Kāla nijei āsava"
+],
+"I will surely come": [
+"আমি অবশ্যই আসব",
+"Āmi avaśyai āsava"
+],
+"I have seen India only": [
+"আমি শুধু ভারত দেখেছি",
+"Āmi śudhu bhārata dekhechi"
+],
+"He kept on talking": [
+"সে কথা বলতে থাকে",
+"Se kathā valate thāke"
+],
+"He kept on staring that car": [
+"সে গাড়ির দিকে তাকিয়ে থাকল",
+"Se gāḍa়ira dike tākiya়e thākala"
+],
+"I want only sedan car": [
+"আমি শুধু সেডান গাড়ি চাই",
+"Āmi śudhu seḍāna gāḍa়i cāi"
+],
+"I must go there": [
+"আমাকে সেখানে যেতেই হবে",
+"Āmāke sekhāne yetei have"
+],
+"Why just me?": [
+"শুধু আমি কেন?",
+"Śudhu āmi kena?"
+],
+"I have a car": [
+"আমার একটা গাড়ি আছে",
+"Āmāra ekaṭā gāḍa়i āche"
+],
+"I have 10 cars": [
+"আমার 10টি গাড়ি আছে",
+"Āmāra 10ṭi gāḍa়i āche"
+],
+"I had a car": [
+"আমার একটা গাড়ি ছিল",
+"Āmāra ekaṭā gāḍa়i chila"
+],
+"Anup will have watch": [
+"অনুপের ঘড়ি থাকবে",
+"Anupera ghaḍa়i thākave"
+],
+"I do not have car": [
+"আমার গাড়ি নেই",
+"Āmāra gāḍa়i nei"
+],
+"I did not have car": [
+"আমার গাড়ি ছিল না",
+"Āmāra gāḍa়i chila nā"
+],
+"I have 2 brothers": [
+"আমার ২ ভাই আছে",
+"Āmāra 2 bhāi āche"
+],
+"He has three paternal uncles": [
+"তার তিন মামা আছে",
+"Tāra tina māmā āche"
+],
+"Ravi had 2 kids": [
+"রবির ২ সন্তান ছিল",
+"Ravira 2 santāna chila"
+],
+"He does not have a brother": [
+"তার কোনো ভাই নেই",
+"Tāra kono bhāi nei"
+],
+"She did not have any relatives": [
+"তার কোনো আত্মীয় ছিল না",
+"Tāra kono ātmīya় chila nā"
+],
+"What does it mean?": [
+"এর মানে কি?",
+"Era māne ki?"
+],
+"What does that signboard mean?": [
+"যে সাইনবোর্ড মানে কি?",
+"Ye sāinavorḍa māne ki?"
+],
+"What did his speech mean?": [
+"তার বক্তব্যের অর্থ কী ছিল?",
+"Tāra vaktavyera artha kī chila?"
+],
+"What does encyclopedia mean?": [
+"বিশ্বকোষ বলতে কী বোঝায়?",
+"Viśvakoṣa valate kī vojhāya়?"
+],
+"What does Sundar mean in Marathi?": [
+"মারাঠিএ Sundar এর মানে কি?",
+"Mārāṭhie Sundar era māne ki?"
+],
+"I did mean it": [
+"আমি এটা মানে",
+"Āmi eṭā māne"
+],
+"I did not mean it": [
+"আমি এটা মানে না",
+"Āmi eṭā māne nā"
+],
+"He did not mean hurting you": [
+"সে তোমাকে কষ্ট দিতে চায়নি",
+"Se tomāke kaṣṭa dite cāya়ni"
+],
+"I meant to insult him": [
+"আমি তাকে অপমান করতে চেয়েছিলাম",
+"Āmi tāke apamāna karate ceya়echilāma"
+],
+"He and me": [
+"সে আর আমি",
+"Se āra āmi"
+],
+"Milk and sugar": [
+"দুধ ও চিনি",
+"Dudha o cini"
+],
+"I want to buy but shop is closed": [
+"আমি কিনতে চাই কিন্তু দোকান বন্ধ",
+"Āmi kinate cāi kintu dokāna vandha"
+],
+"He was clever but did not work hard": [
+"তিনি চালাক ছিলেন কিন্তু পরিশ্রম করেননি",
+"Tini cālāka chilena kintu pariśrama karenani"
+],
+"I had warned him, still he opened the box": [
+"আমি তাকে সতর্ক করেছিলাম, তবুও সে বাক্সটি খুলল",
+"Āmi tāke satarka karechilāma, tavuo se vāksaṭi khulala"
+],
+"He helped her still she insulted him": [
+"সে তাকে সাহায্য করেছিল তবুও সে তাকে অপমান করেছিল",
+"Se tāke sāhāyya karechila tavuo se tāke apamāna karechila"
+],
+"I did not come yesterday, because I was sick": [
+"আমি অসুস্থ ছিলাম বলে গতকাল আসিনি",
+"Āmi asustha chilāma vale gatakāla āsini"
+],
+"Car will not start because no petrol": [
+"পেট্রোল না থাকায় গাড়ি স্টার্ট হবে না",
+"Peṭrola nā thākāya় gāḍa়i sṭārṭa have nā"
+],
+"I was sick so I did not come": [
+"অসুস্থ ছিলাম তাই আসিনি",
+"Asustha chilāma tāi āsini"
+],
+"No petrol so car will not start": [
+"পেট্রোল নেই তাই গাড়ি স্টার্ট হবে না",
+"Peṭrola nei tāi gāḍa়i sṭārṭa have nā"
+],
+"He told her that he is happy": [
+"তিনি তাকে বলেছিলেন যে তিনি খুশি",
+"Tini tāke valechilena ye tini khuśi"
+],
+"I am sure that we will succeed": [
+"আমি নিশ্চিত যে আমরা সফল হব",
+"Āmi niścita ye āmarā saphala hava"
+],
+"As you wish, my lord": [
+"যেমন আপনার ইচ্ছা, মহারাজ",
+"Yemana āpanāra icchā, mahārāja"
+],
+"Do it the same way as he is doing": [
+"সে যেভাবে করছে সেভাবেই কর",
+"Se yebhāve karache sebhāvei kara"
+],
+"He as well as me": [
+"সেও আমার সাথে",
+"Seo āmāra sāthe"
+],
+"She sang as well as danced": [
+"নাচের পাশাপাশি গানও করেছেন",
+"Nācera pāśāpāśi gānao karechena"
+],
+"He or me": [
+"সে বা আমি",
+"Se vā āmi"
+],
+"Do or die": [
+"করো বা মরো",
+"Karo vā maro"
+],
+"Neither he nor I were interested": [
+"সে বা আমি কেউই আগ্রহী ছিলাম না",
+"Se vā āmi keui āgrahī chilāma nā"
+],
+"I finished study then I went to play": [
+"পড়ালেখা শেষ করে খেলতে গেলাম",
+"Paḍa়ālekhā śeṣa kare khelate gelāma"
+],
+"I will call you then you enter on stage": [
+"আমি আপনাকে ডাকব তারপর আপনি মঞ্চে প্রবেশ করুন",
+"Āmi āpanāke ḍākava tārapara āpani mañce praveśa karuna"
+],
+"As long as you want me, I will stay": [
+"যতদিন তুমি আমাকে চাও আমি থাকব",
+"Yatadina tumi āmāke cāo āmi thākava"
+],
+"As long as you follow rules": [
+"যতক্ষণ আপনি নিয়ম মেনে চলেন",
+"Yatakṣaṇa āpani niya়ma mene calena"
+],
+"As far as I know, he is studious": [
+"আমি যতদূর জানি, তিনি অধ্যয়নরত",
+"Āmi yatadūra jāni, tini adhyaya়narata"
+],
+"As far as India is concerned": [
+"যতদূর ভারত উদ্বিগ্ন",
+"Yatadūra bhārata udvigna"
+],
+"As far as literacy is concerned": [
+"যতদূর সাক্ষরতা সম্পর্কিত",
+"Yatadūra sākṣaratā samparkita"
+],
+"He is blaming me as if I have not tried": [
+"তিনি আমাকে দোষারোপ করছেন যেন আমি চেষ্টা করিনি",
+"Tini āmāke doṣāropa karachena yena āmi ceṣṭā karini"
+],
+"He passed by as if she was not there": [
+"সে এমনভাবে পাশ দিয়ে গেল যেন সে সেখানে নেই",
+"Se emanabhāve pāśa diya়e gela yena se sekhāne nei"
+],
+"As soon as he came": [
+"সাথে সাথে সে এলো",
+"Sāthe sāthe se elo"
+],
+"As soon as she saw": [
+"দেখা মাত্রই",
+"Dekhā mātrai"
+],
+"As soon as they become": [
+"হয়ে গেলেই",
+"Haya়e gelei"
+],
+"Let me know once he comes": [
+"তিনি একবার এসে আমাকে জানান",
+"Tini ekavāra ese āmāke jānāna"
+],
+"Once I see your story I will give review": [
+"আপনার গল্পটা একবার দেখলে রিভিউ দেব",
+"Āpanāra galpaṭā ekavāra dekhale ribhiu deva"
+],
+"Rather than surrendering soldier will accept death": [
+"আত্মসমর্পণ না করে মৃত্যু মেনে নেবে সৈনিক",
+"Ātmasamarpaṇa nā kare mṛtyu mene neve sainika"
+],
+"I will take tea rather than coffee": [
+"আমি কফির চেয়ে চা খাব",
+"Āmi kaphira ceya়e cā khāva"
+],
+"I will work hard so that I will win": [
+"আমি কঠোর পরিশ্রম করব যাতে আমি জিততে পারি",
+"Āmi kaṭhora pariśrama karava yāte āmi jitate pāri"
+],
+"We should avoid plastic so that less pollution": [
+"আমাদের প্লাস্টিক পরিহার করা উচিত যাতে দূষণ কম হয়",
+"Āmādera plāsṭika parihāra karā ucita yāte dūṣaṇa kama haya়"
+],
+"He cheated me whereas I was helping him": [
+"সে আমাকে প্রতারণা করেছে অথচ আমি তাকে সাহায্য করছিলাম",
+"Se āmāke pratāraṇā kareche athaca āmi tāke sāhāyya karachilāma"
+],
+"Govt said prices declined whereas inflation rose": [
+"সরকার বলেছে দাম কমেছে যেখানে মূল্যস্ফীতি বেড়েছে",
+"Sarakāra valeche dāma kameche yekhāne mūlyasphīti veḍa়eche"
+],
+"I did not know whether he is going": [
+"সে যাচ্ছে কিনা জানতাম না",
+"Se yācche kinā jānatāma nā"
+],
+"She could not realize whether to speak or not": [
+"কথা বলবে কি বলবে না বুঝতে পারছে না",
+"Kathā valave ki valave nā vujhate pārache nā"
+],
+"Do this otherwise you will not win": [
+"এটি করুন অন্যথায় আপনি জিততে পারবেন না",
+"Eṭi karuna anyathāya় āpani jitate pāravena nā"
+],
+"He should inform me otherwise I will not know": [
+"তাকে জানাতে হবে, অন্যথায় আমি জানতে পারব না",
+"Tāke jānāte have, anyathāya় āmi jānate pārava nā"
+],
+"I also ran": [
+"আমিও দৌড়ে গেলাম",
+"Āmio dauḍa়e gelāma"
+],
+"He will come tomorrow as well": [
+"আগামীকালও সে আসবে",
+"Āgāmīkālao se āsave"
+],
+"This is old video. I saw it. I am sharing today": [
+"এটা পুরোনো ভিডিও। আমি এটা দেখেছি। আজ শেয়ার করছি",
+"Eṭā purono bhiḍio| āmi eṭā dekhechi| āja śeya়āra karachi"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"এটা পুরানো ভিডিও, তবুও দেখলাম তাই আজ শেয়ার করছি",
+"Eṭā purāno bhiḍio, tavuo dekhalāma tāi āja śeya়āra karachi"
+],
+"This is old song. I heard it today": [
+"এটা পুরনো গান। আজ শুনলাম",
+"Eṭā purano gāna| āja śunalāma"
+],
+"Though it is old song, I heard it today": [
+"পুরনো গান হলেও আজ শুনলাম",
+"Purano gāna haleo āja śunalāma"
+],
+"My wife was standing there. He asked about girlfriend": [
+"আমার স্ত্রী সেখানে দাঁড়িয়ে ছিল। গার্লফ্রেন্ডের কথা জিজ্ঞেস করলেন",
+"Āmāra strī sekhāne dā~ḍa়iya়e chila| gārlaphrenḍera kathā jijñesa karalena"
+],
+"My wife was standing there yet he asked": [
+"আমার স্ত্রী সেখানে দাঁড়িয়ে ছিল তবুও তিনি জিজ্ঞাসা করলেন",
+"Āmāra strī sekhāne dā~ḍa়iya়e chila tavuo tini jijñāsā karalena"
+],
+"Policeman was watching. He did not dare to run": [
+"পুলিশ দেখছিল। সে দৌড়াতে সাহস পেল না",
+"Puliśa dekhachila| se dauḍa়āte sāhasa pela nā"
+],
+"As policeman was watching he did not dare": [
+"পুলিশ দেখছিল বলে তার সাহস হল না",
+"Puliśa dekhachila vale tāra sāhasa hala nā"
+],
+"I had illusion of monsters coming": [
+"আমি দানব আসার মায়া ছিল",
+"Āmi dānava āsāra māya়ā chila"
+],
+"Now she will search it forever": [
+"এখন সে এটি চিরতরে অনুসন্ধান করবে",
+"Ekhana se eṭi ciratare anusandhāna karave"
+],
+"If we think of eating mango then..": [
+"আমরা যদি আম খাওয়ার কথা ভাবি..",
+"Āmarā yadi āma khāoya়āra kathā bhāvi.."
+],
+"If he decides to take revenge..": [
+"যদি সে প্রতিশোধ নেওয়ার সিদ্ধান্ত নেয়..",
+"Yadi se pratiśodha neoya়āra siddhānta neya়.."
+],
+"I have decided a plan for tonight": [
+"আমি আজকের রাতের জন্য একটি পরিকল্পনা ঠিক করেছি",
+"Āmi ājakera rātera janya ekaṭi parikalpanā ṭhika karechi"
+],
+"I feel this way": [
+"আমি এই ভাবে অনুভব করি",
+"Āmi ei bhāve anubhava kari"
+],
+"I feel this": [
+"আমি এটা অনুভব করি",
+"Āmi eṭā anubhava kari"
+],
+"He felt that I will not come": [
+"তার মনে হলো আমি আসবো না",
+"Tāra mane halo āmi āsavo nā"
+],
+"What do you feel?": [
+"আপনি কি অনুভব করেন?",
+"Āpani ki anubhava karena?"
+],
+"He felt happiness": [
+"সে সুখ অনুভব করল",
+"Se sukha anubhava karala"
+],
+"Don't you feel ashamed?": [
+"তোমার কি লজ্জা লাগে না?",
+"Tomāra ki lajjā lāge nā?"
+],
+"Kaushik thinks he should go": [
+"কৌশিক মনে করে তার যাওয়া উচিত",
+"Kauśika mane kare tāra yāoya়ā ucita"
+],
+"He will feel bad": [
+"তার খারাপ লাগবে",
+"Tāra khārāpa lāgave"
+],
+"To show different aspects": [
+"বিভিন্ন দিক দেখানোর জন্য",
+"Vibhinna dika dekhānora janya"
+],
+"To follow up & pressurize": [
+"ফলো আপ এবং চাপ দিতে",
+"Phalo āpa evaṃ cāpa dite"
+],
+"Every home same story": [
+"প্রতিটি বাড়িতে একই গল্প",
+"Pratiṭi vāḍa়ite ekai galpa"
+],
+"To approve formally": [
+"আনুষ্ঠানিকভাবে অনুমোদন করা",
+"Ānuṣṭhānikabhāve anumodana karā"
+],
+"To cause destruction": [
+"ধ্বংস ঘটাতে",
+"Dhvaṃsa ghaṭāte"
+],
+"Repeat like tape": [
+"টেপের মত পুনরাবৃত্তি করুন",
+"Ṭepera mata punarāvṛtti karuna"
+],
+"To force to do": [
+"করতে বাধ্য করা",
+"Karate vādhya karā"
+],
+"No control on tongue": [
+"জিহ্বার উপর কোন নিয়ন্ত্রণ নেই",
+"Jihvāra upara kona niya়ntraṇa nei"
+],
+"Not utter a word": [
+"একটি শব্দও উচ্চারণ করে না",
+"Ekaṭi śavdao uccāraṇa kare nā"
+],
+"To take control": [
+"নিয়ন্ত্রণ নিতে",
+"Niya়ntraṇa nite"
+],
+"To feel embarrassed": [
+"বিব্রত বোধ করতে",
+"Vivrata vodha karate"
+],
+"To spew venom": [
+"বিষ ছড়ানোর জন্য",
+"Viṣa chaḍa়ānora janya"
+],
+"To uncover mystery": [
+"রহস্য উদঘাটন করতে",
+"Rahasya udaghāṭana karate"
+],
+"To be puzzled": [
+"বিভ্রান্ত হতে",
+"Vibhrānta hate"
+],
+"To defeat completely": [
+"সম্পূর্ণভাবে পরাজিত করা",
+"Sampūrṇabhāve parājita karā"
+],
+"If employee works 1 year, gratuity right": [
+"কর্মচারী 1 বছর কাজ করলে, গ্রাচুইটি অধিকার",
+"Karmacārī 1 vachara kāja karale, grācuiṭi adhikāra"
+],
+"If wrong info given, disciplinary action": [
+"ভুল তথ্য দিলে শাস্তিমূলক ব্যবস্থা",
+"Bhula tathya dile śāstimūlaka vyavasthā"
+],
+"If possible, come to meet me": [
+"সম্ভব হলে আমার সাথে দেখা করতে এসো",
+"Sambhava hale āmāra sāthe dekhā karate eso"
+],
+"What does this mean?": [
+"এর মানে কি?",
+"Era māne ki?"
+],
+"I came because you called": [
+"তুমি ডেকেছ বলেই এসেছি",
+"Tumi ḍekecha valei esechi"
+],
+"Someone called Kaushik has come": [
+"কৌশিক বলে কেউ এসেছে",
+"Kauśika vale keu eseche"
+],
+"Someone named Kaushik has come": [
+"কৌশিক নামে কেউ এসেছে",
+"Kauśika nāme keu eseche"
+],
+"Why do you want it for?": [
+"কেন আপনি এটা চান?",
+"Kena āpani eṭā cāna?"
+],
+"What is its reason?": [
+"এর কারণ কী?",
+"Era kāraṇa kī?"
+],
+"You only complete this": [
+"আপনি কেবল এটি সম্পূর্ণ করুন",
+"Āpani kevala eṭi sampūrṇa karuna"
+],
+"It is you who told": [
+"আপনিই বলেছেন",
+"Āpanii valechena"
+],
+"I want it tomorrow itself": [
+"আমি কাল নিজেই চাই",
+"Āmi kāla nijei cāi"
+],
+"I am bored": [
+"আমি বিরক্ত",
+"Āmi virakta"
+],
+"He was bored": [
+"তিনি বিরক্ত ছিলেন",
+"Tini virakta chilena"
+],
+"Relative / Relatives": [
+"আত্মীয়/আত্মীয়",
+"Ātmīya়/ātmīya়"
+],
+"Father's brother's wife": [
+"বাবার ভাইয়ের স্ত্রী",
+"Vāvāra bhāiya়era strī"
+],
+"Father's brother's son": [
+"বাবার ভাইয়ের ছেলে",
+"Vāvāra bhāiya়era chele"
+],
+"Father's brother's daughter": [
+"বাবার ভাইয়ের মেয়ে",
+"Vāvāra bhāiya়era meya়e"
+],
+"Mother's brother's wife": [
+"মায়ের ভাইয়ের বউ",
+"Māya়era bhāiya়era vau"
+],
+"Mother's brother's son": [
+"মায়ের ভাইয়ের ছেলে",
+"Māya়era bhāiya়era chele"
+],
+"Mother's brother's daughter": [
+"মায়ের ভাইয়ের মেয়ে",
+"Māya়era bhāiya়era meya়e"
+],
+"Father's sister's son": [
+"বাবার বোনের ছেলে",
+"Vāvāra vonera chele"
+],
+"Father's sister's daughter": [
+"বাবার বোনের মেয়ে",
+"Vāvāra vonera meya়e"
+],
+"Father's sister's husband": [
+"বাবার বোনের স্বামী",
+"Vāvāra vonera svāmī"
+],
+"Mother's sister's son": [
+"মায়ের বোনের ছেলে",
+"Māya়era vonera chele"
+],
+"Mother's sister's daughter": [
+"মায়ের বোনের মেয়ে",
+"Māya়era vonera meya়e"
+],
+"Mother's sister's husband": [
+"মায়ের বোনের স্বামী",
+"Māya়era vonera svāmī"
+],
+"Great grand father": [
+"মহান পিতামহ",
+"Mahāna pitāmaha"
+],
+"Great grand mother": [
+"মহান ঠাকুরমা",
+"Mahāna ṭhākuramā"
+],
+"Son's wife / Daughter in law": [
+"পুত্রের স্ত্রী/ পুত্রবধূ",
+"Putrera strī/ putravadhū"
+],
+"Daughter's husband / Son in law": [
+"কন্যার স্বামী/জামাই",
+"Kanyāra svāmī/jāmāi"
+],
+"Father in law": [
+"শ্বশুর",
+"Śvaśura"
+],
+"Mother in law": [
+"শাশুড়ি",
+"Śāśuḍa়i"
+],
+"Father in law's father": [
+"শ্বশুরের বাবা",
+"Śvaśurera vāvā"
+],
+"We": [
+"আমরা",
+"Āmarā"
+],
+"You (singular)": [
+"তুমি (একবচন)",
+"Tumi (ekavacana)"
+],
+"You (plural)": [
+"তুমি (বহুবচন)",
+"Tumi (vahuvacana)"
+],
+"This (m.)": [
+"এই (মি.)",
+"Ei (mi.)"
+],
+"This (f.)": [
+"এই (f.)",
+"Ei (f.)"
+],
+"This (n.)": [
+"এই (n.)",
+"Ei (n.)"
+],
+"These (m.)": [
+"এগুলো (মি.)",
+"Egulo (mi.)"
+],
+"These (f.)": [
+"এগুলো (f.)",
+"Egulo (f.)"
+],
+"These (n.)": [
+"এগুলো (n.)",
+"Egulo (n.)"
+],
+"Self": [
+"স্ব",
+"Sva"
+],
+"Sing": [
+"গাও",
+"Gāo"
+],
+"Beat": [
+"বীট",
+"Vīṭa"
+],
+"Write": [
+"লিখুন",
+"Likhuna"
+],
+"Do": [
+"করবেন",
+"Karavena"
+],
+"Get up": [
+"উঠো",
+"Uṭho"
+],
+"Stop": [
+"থামো",
+"Thāmo"
+],
+"Close": [
+"বন্ধ",
+"Vandha"
+],
+"I (male)": [
+"আমি (পুরুষ)",
+"Āmi (puruṣa)"
+],
+"I (female)": [
+"আমি (মহিলা)",
+"Āmi (mahilā)"
+],
+"We dance": [
+"আমরা নাচ",
+"Āmarā nāca"
+],
+"He walks": [
+"সে হাঁটে",
+"Se hā~ṭe"
+],
+"She speaks": [
+"সে কথা বলে",
+"Se kathā vale"
+],
+"It moves": [
+"এটি নড়ে",
+"Eṭi naḍa়e"
+],
+"They dance": [
+"তারা নাচে",
+"Tārā nāce"
+],
+"You (singular/plural)": [
+"আপনি (একবচন/বহুবচন)",
+"Āpani (ekavacana/vahuvacana)"
+],
+"They (all)": [
+"তারা (সকল)",
+"Tārā (sakala)"
+],
+"I (male/female)": [
+"আমি (পুরুষ/মহিলা)",
+"Āmi (puruṣa/mahilā)"
+],
+"He": [
+"সে",
+"Se"
+],
+"She": [
+"সে",
+"Se"
+],
+"It": [
+"এটা",
+"Eṭā"
+],
+"They (m.)": [
+"তারা (মি.)",
+"Tārā (mi.)"
+],
+"They (f.)": [
+"তারা (চ.)",
+"Tārā (ca.)"
+],
+"They (n.)": [
+"তারা (n.)",
+"Tārā (n.)"
+],
+"This (Male)": [
+"এই (পুরুষ)",
+"Ei (puruṣa)"
+],
+"This (Female)": [
+"এই (মহিলা)",
+"Ei (mahilā)"
+],
+"This (neuter)": [
+"এই (নিরপেক্ষ)",
+"Ei (nirapekṣa)"
+],
+"These (male/female/neuter)": [
+"এগুলি (পুরুষ/মহিলা/নতুন)",
+"Eguli (puruṣa/mahilā/natuna)"
+],
+"about": [
+"সম্পর্কে",
+"Samparke"
+],
+"across": [
+"জুড়ে",
+"Juḍa়e"
+],
+"against": [
+"বিরুদ্ধে",
+"Viruddhe"
+],
+"Among": [
+"মধ্যে",
+"Madhye"
+],
+"Around": [
+"চারপাশে",
+"Cārapāśe"
+],
+"As/like": [
+"যেমন/লাইক",
+"Yemana/lāika"
+],
+"aside": [
+"একপাশে",
+"Ekapāśe"
+],
+"for": [
+"জন্য",
+"Janya"
+],
+"From/since": [
+"থেকে/ থেকে",
+"Theke/ theke"
+],
+"in": [
+"মধ্যে",
+"Madhye"
+],
+"till/until": [
+"পর্যন্ত/পর্যন্ত",
+"Paryanta/paryanta"
+],
+"without": [
+"ছাড়া",
+"Chāḍa়ā"
+],
+"during": [
+"সময়",
+"Samaya়"
+],
+"Near/close to": [
+"কাছাকাছি/কাছে",
+"Kāchākāchi/kāche"
+],
+"towards": [
+"দিকে",
+"Dike"
+],
+"with": [
+"সঙ্গে",
+"Saṅge"
+],
+"Instead of": [
+"এর পরিবর্তে",
+"Era parivarte"
+],
+"Prior to": [
+"এর আগে",
+"Era āge"
+],
+"Because of": [
+"কারণ",
+"Kāraṇa"
+],
+"According to": [
+"অনুযায়ী",
+"Anuyāya়ī"
+],
+"Through": [
+"মাধ্যমে",
+"Mādhyame"
+],
+"You speak": [
+"তুমি কথা বল",
+"Tumi kathā vala"
+],
+"Read it": [
+"এটা পড়ুন",
+"Eṭā paḍa়una"
+],
+"Do it": [
+"কর",
+"Kara"
+],
+"You go": [
+"তুমি যাও",
+"Tumi yāo"
+],
+"You give": [
+"তুমি দাও",
+"Tumi dāo"
+],
+"You drink": [
+"আপনি পান করুন",
+"Āpani pāna karuna"
+],
+"Toy moved": [
+"খেলনা সরানো হয়েছে",
+"Khelanā sarāno haya়eche"
+],
+"To cook": [
+"রান্না করতে",
+"Rānnā karate"
+],
+"Rice cooked": [
+"ভাত রান্না",
+"Bhāta rānnā"
+],
+"To die": [
+"মরতে",
+"Marate"
+],
+"To fall": [
+"পড়ে যাওয়া",
+"Paḍa়e yāoya়ā"
+],
+"Glass broke": [
+"কাচ ভেঙে গেল",
+"Kāca bheṅe gela"
+],
+"To leave": [
+"চলে যেতে",
+"Cale yete"
+],
+"To drink": [
+"পান করতে",
+"Pāna karate"
+],
+"To eat": [
+"খেতে",
+"Khete"
+],
+"To feed": [
+"খাওয়ানোর জন্য",
+"Khāoya়ānora janya"
+],
+"To speak": [
+"কথা বলতে",
+"Kathā valate"
+],
+"To run": [
+"চালানোর জন্য",
+"Cālānora janya"
+],
+"my": [
+"আমার",
+"Āmāra"
+],
+"speaking": [
+"কথা বলা",
+"Kathā valā"
+],
+"your": [
+"আপনার",
+"Āpanāra"
+],
+"his": [
+"তার",
+"Tāra"
+],
+"Ram's": [
+"রামের",
+"Rāmera"
+],
+"dance": [
+"নাচ",
+"Nāca"
+],
+"About speaking": [
+"কথা বলার বিষয়ে",
+"Kathā valāra viṣaya়e"
+],
+"For eating": [
+"খাওয়ার জন্য",
+"Khāoya়āra janya"
+],
+"while speaking": [
+"কথা বলার সময়",
+"Kathā valāra samaya়"
+],
+"while doing": [
+"করার সময়",
+"Karāra samaya়"
+],
+"while dancing": [
+"নাচের সময়",
+"Nācera samaya়"
+],
+"to see": [
+"দেখতে",
+"Dekhate"
+],
+"to do": [
+"করতে",
+"Karate"
+],
+"to dance": [
+"নাচতে",
+"Nācate"
+],
+"Black horse": [
+"কালো ঘোড়া",
+"Kālo ghoḍa়ā"
+],
+"Black chair": [
+"কালো চেয়ার",
+"Kālo ceya়āra"
+],
+"Black page": [
+"কালো পাতা",
+"Kālo pātā"
+],
+"Black horses": [
+"কালো ঘোড়া",
+"Kālo ghoḍa়ā"
+],
+"Black chairs": [
+"কালো চেয়ার",
+"Kālo ceya়āra"
+],
+"Black pages": [
+"কালো পাতা",
+"Kālo pātā"
+],
+"Good horse": [
+"ভালো ঘোড়া",
+"Bhālo ghoḍa়ā"
+],
+"Good chair": [
+"ভালো চেয়ার",
+"Bhālo ceya়āra"
+],
+"Easy exam": [
+"সহজ পরীক্ষা",
+"Sahaja parīkṣā"
+],
+"Red horse": [
+"লাল ঘোড়া",
+"Lāla ghoḍa়ā"
+],
+"Beautiful drawing": [
+"সুন্দর অঙ্কন",
+"Sundara aṅkana"
+],
+"Talking boy": [
+"কথা বলা ছেলে",
+"Kathā valā chele"
+],
+"Rotating fan": [
+"ঘোরানো পাখা",
+"Ghorāno pākhā"
+],
+"Talking girl": [
+"কথা বলার মেয়ে",
+"Kathā valāra meya়e"
+],
+"Moving chair": [
+"চলন্ত চেয়ার",
+"Calanta ceya়āra"
+],
+"Flying saucer": [
+"ফ্লাইং সসার",
+"Phlāiṃ sasāra"
+],
+"Talking book": [
+"কথা বলার বই",
+"Kathā valāra vai"
+],
+"Moving tree": [
+"চলন্ত গাছ",
+"Calanta gācha"
+],
+"Talked boy": [
+"কথা বলা ছেলে",
+"Kathā valā chele"
+],
+"Rotated fan": [
+"ঘোরানো পাখা",
+"Ghorāno pākhā"
+],
+"Talked girl": [
+"কথা বলা মেয়ে",
+"Kathā valā meya়e"
+],
+"Moved chair": [
+"সরানো চেয়ার",
+"Sarāno ceya়āra"
+],
+"Flown saucer": [
+"ফ্লোন সসার",
+"Phlona sasāra"
+],
+"Talked book": [
+"কথা বলা বই",
+"Kathā valā vai"
+],
+"Moved tree": [
+"সরানো গাছ",
+"Sarāno gācha"
+],
+"What happened?": [
+"কি হয়েছে?",
+"Ki haya়eche?"
+],
+"More bitter": [
+"আরও তিক্ত",
+"Ārao tikta"
+],
+"Most bitter": [
+"সবচেয়ে তিক্ত",
+"Savaceya়e tikta"
+],
+"Tall": [
+"লম্বা",
+"Lamvā"
+],
+"Taller": [
+"লম্বা",
+"Lamvā"
+],
+"Tallest": [
+"সবচেয়ে লম্বা",
+"Savaceya়e lamvā"
+],
+"Better": [
+"ভালো",
+"Bhālo"
+],
+"Best": [
+"সেরা",
+"Serā"
+],
+"Let's play": [
+"চলো খেলি",
+"Calo kheli"
+],
+"Let's go": [
+"চল যাই",
+"Cala yāi"
+],
+"Let's speak": [
+"কথা বলি",
+"Kathā vali"
+],
+"Really!": [
+"সত্যিই!",
+"Satyii!"
+],
+"How big!": [
+"কত বড়!",
+"Kata vaḍa়!"
+],
+"Very bad": [
+"খুব খারাপ",
+"Khuva khārāpa"
+],
+"Good handwriting": [
+"ভালো হাতের লেখা",
+"Bhālo hātera lekhā"
+],
+"Very Good": [
+"খুব ভালো",
+"Khuva bhālo"
+],
+"Excellent!": [
+"চমৎকার!",
+"Camatkāra!"
+],
+"Speaking phone": [
+"কথা বলছি ফোন",
+"Kathā valachi phona"
+],
+"Something fishy": [
+"মাছের মতো কিছু",
+"Māchera mato kichu"
+],
+"Dampen spirit": [
+"স্যাঁতসেঁতে আত্মা",
+"Syā~tase~te ātmā"
+],
+"To threaten": [
+"হুমকি দিতে",
+"Humaki dite"
+],
+"After-effects": [
+"আফটার ইফেক্ট",
+"Āphaṭāra iphekṭa"
+],
+"To override/violate": [
+"ওভাররাইড/লঙ্ঘন করতে",
+"Obhārarāiḍa/laṅghana karate"
+],
+"To renounce": [
+"ত্যাগ করতে",
+"Tyāga karate"
+],
+"To pretend": [
+"ভান করতে",
+"Bhāna karate"
+],
+"To trap": [
+"ফাঁদে ফেলার জন্য",
+"Phā~de phelāra janya"
+],
+"To support": [
+"সমর্থন করতে",
+"Samarthana karate"
+],
+"To strike": [
+"ধর্মঘট করতে",
+"Dharmaghaṭa karate"
+],
+"To pardon": [
+"ক্ষমা করার জন্য",
+"Kṣamā karāra janya"
+],
+"Cryptography means?": [
+"ক্রিপ্টোগ্রাফি মানে?",
+"Kripṭogrāphi māne?"
+],
+"Relation": [
+"সম্পর্ক",
+"Samparka"
+],
+"Direct brother": [
+"সরাসরি ভাই",
+"Sarāsari bhāi"
+],
+"Direct sister": [
+"সরাসরি বোন",
+"Sarāsari vona"
+],
+"Grand father": [
+"দাদা",
+"Dādā"
+],
+"Grand mother": [
+"দাদী মা",
+"Dādī mā"
+],
+"Father's brother": [
+"বাবার ভাই",
+"Vāvāra bhāi"
+],
+"Mother's brother": [
+"মায়ের ভাই",
+"Māya়era bhāi"
+],
+"Father's sister": [
+"বাবার বোন",
+"Vāvāra vona"
+],
+"Mother's sister": [
+"মায়ের বোন",
+"Māya়era vona"
+],
+"Grandson's wife": [
+"নাতির স্ত্রী",
+"Nātira strī"
+],
+"Great grandson": [
+"বড় নাতি",
+"Vaḍa় nāti"
+],
+"Great granddaughter": [
+"বড় নাতনী",
+"Vaḍa় nātanī"
+],
+"Husband's brother": [
+"স্বামীর ভাই",
+"Svāmīra bhāi"
+],
+"Husband's sister": [
+"স্বামীর বোন",
+"Svāmīra vona"
+],
+"Wife's brother": [
+"স্ত্রীর ভাই",
+"Strīra bhāi"
+],
+"Wife's sister": [
+"স্ত্রীর বোন",
+"Strīra vona"
+],
+"Sister's husband": [
+"বোনের স্বামী",
+"Vonera svāmī"
+],
+"Sister's son": [
+"বোনের ছেলে",
+"Vonera chele"
+],
+"Sister's daughter": [
+"বোনের মেয়ে",
+"Vonera meya়e"
+],
+"Friend (boy)": [
+"বন্ধু (ছেলে)",
+"Vandhu (chele)"
+],
+"Friend (girl)": [
+"বন্ধু (মেয়ে)",
+"Vandhu (meya়e)"
+],
+"Bridegroom": [
+"বর",
+"Vara"
+],
+"Adopted son": [
+"দত্তক পুত্র",
+"Dattaka putra"
+],
+"Adopted daughter": [
+"দত্তক কন্যা",
+"Dattaka kanyā"
+],
+"Assumed son": [
+"ধরে নেওয়া ছেলে",
+"Dhare neoya়ā chele"
+],
+"Assumed daughter": [
+"ধরে নেওয়া মেয়ে",
+"Dhare neoya়ā meya়e"
+],
+"To wash": [
+"ধোয়ার জন্য",
+"Dhoya়āra janya"
+],
+"To brush": [
+"ব্রাশ করতে",
+"Vrāśa karate"
+],
+"To gargle": [
+"গার্গল করা",
+"Gārgala karā"
+],
+"To fold": [
+"ভাঁজ করতে",
+"Bhā~ja karate"
+],
+"To urinate": [
+"প্রস্রাব করা",
+"Prasrāva karā"
+],
+"To exercise": [
+"ব্যায়াম করতে",
+"Vyāya়āma karate"
+],
+"To bath": [
+"গোসল করতে",
+"Gosala karate"
+],
+"To change": [
+"পরিবর্তন করতে",
+"Parivartana karate"
+],
+"To wear": [
+"পরতে",
+"Parate"
+],
+"To comb": [
+"চিরুনি করতে",
+"Ciruni karate"
+],
+"To apply": [
+"আবেদন করতে",
+"Āvedana karate"
+],
+"To close": [
+"বন্ধ করতে",
+"Vandha karate"
+],
+"To sit": [
+"বসতে",
+"Vasate"
+],
+"To start": [
+"শুরু করতে",
+"Śuru karate"
+],
+"To reach": [
+"পৌঁছাতে",
+"Pau~chāte"
+],
+"To work": [
+"কাজ করতে",
+"Kāja karate"
+],
+"To speak/say/talk": [
+"কথা বলা/বলতে/কথা বলা",
+"Kathā valā/valate/kathā valā"
+],
+"To answer": [
+"উত্তর দিতে",
+"Uttara dite"
+],
+"To send": [
+"পাঠাতে",
+"Pāṭhāte"
+],
+"To chitchat": [
+"চিটচ্যাট করতে",
+"Ciṭacyāṭa karate"
+],
+"To buy": [
+"কিনতে",
+"Kinate"
+],
+"To sell": [
+"বিক্রি করতে",
+"Vikri karate"
+],
+"To put/keep": [
+"রাখা/ রাখা",
+"Rākhā/ rākhā"
+],
+"To put": [
+"লাগাতে",
+"Lāgāte"
+],
+"To count": [
+"গণনা করতে",
+"Gaṇanā karate"
+],
+"To stand": [
+"দাঁড়াতে",
+"Dā~ḍa়āte"
+],
+"To listen": [
+"শোনার জন্য",
+"Śonāra janya"
+],
+"To return": [
+"ফিরতে",
+"Phirate"
+],
+"To open": [
+"খুলতে",
+"Khulate"
+],
+"To lift": [
+"তুলতে",
+"Tulate"
+],
+"To play": [
+"খেলতে",
+"Khelate"
+],
+"To jump": [
+"লাফ দিতে",
+"Lāpha dite"
+],
+"To hide": [
+"লুকানোর জন্য",
+"Lukānora janya"
+],
+"To search": [
+"অনুসন্ধান করতে",
+"Anusandhāna karate"
+],
+"To recite": [
+"আবৃত্তি করতে",
+"Āvṛtti karate"
+],
+"To sing": [
+"গাইতে",
+"Gāite"
+],
+"To shout": [
+"চিৎকার করতে",
+"Citkāra karate"
+],
+"To throw": [
+"নিক্ষেপ করতে",
+"Nikṣepa karate"
+],
+"To hit": [
+"আঘাত করতে",
+"Āghāta karate"
+],
+"To ask": [
+"জিজ্ঞাসা করতে",
+"Jijñāsā karate"
+],
+"To clean": [
+"পরিষ্কার করতে",
+"Pariṣkāra karate"
+],
+"To cut": [
+"কাটতে",
+"Kāṭate"
+],
+"To break": [
+"ভাঙতে",
+"Bhāṅate"
+],
+"To burst": [
+"ফেটে যাওয়া",
+"Pheṭe yāoya়ā"
+],
+"To write": [
+"লিখতে",
+"Likhate"
+],
+"Accept": [
+"গ্রহণ করুন",
+"Grahaṇa karuna"
+],
+"Bring": [
+"আনুন",
+"Ānuna"
+],
+"Complain": [
+"অভিযোগ",
+"Abhiyoga"
+],
+"Draw": [
+"আঁকা",
+"Ā~kā"
+],
+"Fall": [
+"পতন",
+"Patana"
+],
+"Fill": [
+"ভরাট",
+"Bharāṭa"
+],
+"Start/begin": [
+"শুরু/শুরু করুন",
+"Śuru/śuru karuna"
+],
+"Finish": [
+"শেষ করুন",
+"Śeṣa karuna"
+],
+"Live": [
+"লাইভ",
+"Lāibha"
+],
+"See/watch/look": [
+"দেখুন/দেখুন/দেখুন",
+"Dekhuna/dekhuna/dekhuna"
+],
+"Use": [
+"ব্যবহার করুন",
+"Vyavahāra karuna"
+],
+"Teach": [
+"শেখান",
+"Śekhāna"
+],
+"Study": [
+"অধ্যয়ন",
+"Adhyaya়na"
+],
+"Read": [
+"পড়ুন",
+"Paḍa়una"
+],
+"Make/prepare": [
+"তৈরি/প্রস্তুত করুন",
+"Tairi/prastuta karuna"
+],
+"Fly": [
+"ফ্লাই",
+"Phlāi"
+],
+"Get bored": [
+"বিরক্ত হয়ে যান",
+"Virakta haya়e yāna"
+],
+"Leave": [
+"ছেড়ে দিন",
+"Cheḍa়e dina"
+],
+"Want/need": [
+"চাই/প্রয়োজন",
+"Cāi/praya়ojana"
+],
+"Sign": [
+"সাইন",
+"Sāina"
+],
+"Swim": [
+"সাঁতার কাটা",
+"Sā~tāra kāṭā"
+],
+"Try": [
+"চেষ্টা করুন",
+"Ceṣṭā karuna"
+],
+"Worry": [
+"দুশ্চিন্তা",
+"Duścintā"
+],
+"Achieve": [
+"অর্জন",
+"Arjana"
+],
+"Admit (mistake)": [
+"স্বীকার (ভুল)",
+"Svīkāra (bhula)"
+],
+"Admit (school)": [
+"ভর্তি (স্কুল)",
+"Bharti (skula)"
+],
+"Afford": [
+"সামর্থ",
+"Sāmartha"
+],
+"Win": [
+"জয়",
+"Jaya়"
+],
+"Lose": [
+"হারান",
+"Hārāna"
+],
+"Shake": [
+"ঝাঁকান",
+"Jhā~kāna"
+],
+"Decide": [
+"সিদ্ধান্ত নিন",
+"Siddhānta nina"
+],
+"Hold": [
+"ধরে রাখুন",
+"Dhare rākhuna"
+],
+"Choose": [
+"বেছে নিন",
+"Veche nina"
+],
+"Turn": [
+"পালা",
+"Pālā"
+],
+"Rise": [
+"উত্থান",
+"Utthāna"
+],
+"Set (sun,moon)": [
+"সেট (সূর্য, চাঁদ)",
+"Seṭa (sūrya, cā~da)"
+],
+"Deny": [
+"অস্বীকার করুন",
+"Asvīkāra karuna"
+],
+"To reproach/blame": [
+"তিরস্কার/ দোষারোপ করা",
+"Tiraskāra/ doṣāropa karā"
+],
+"To color": [
+"রং করতে",
+"Raṃ karate"
+],
+"To destroy": [
+"ধ্বংস করতে",
+"Dhvaṃsa karate"
+],
+"Big": [
+"বড়",
+"Vaḍa়"
+],
+"Small": [
+"ছোট",
+"Choṭa"
+],
+"Deep": [
+"গভীর",
+"Gabhīra"
+],
+"Shallow": [
+"অগভীর",
+"Agabhīra"
+],
+"Simple": [
+"সরল",
+"Sarala"
+],
+"Special": [
+"বিশেষ",
+"Viśeṣa"
+],
+"Faint": [
+"অজ্ঞান",
+"Ajñāna"
+],
+"Short": [
+"সংক্ষিপ্ত",
+"Saṃkṣipta"
+],
+"Thin": [
+"পাতলা",
+"Pātalā"
+],
+"Wide": [
+"প্রশস্ত",
+"Praśasta"
+],
+"Narrow": [
+"সংকীর্ণ",
+"Saṃkīrṇa"
+],
+"Curved": [
+"বাঁকা",
+"Vā~kā"
+],
+"Salty": [
+"নোনতা",
+"Nonatā"
+],
+"Easy": [
+"সহজ",
+"Sahaja"
+],
+"Dry": [
+"শুষ্ক",
+"Śuṣka"
+],
+"Wet": [
+"ভেজা",
+"Bhejā"
+],
+"Filled": [
+"ভরা",
+"Bharā"
+],
+"Incomplete": [
+"অসম্পূর্ণ",
+"Asampūrṇa"
+],
+"Hard (surface)": [
+"শক্ত (পৃষ্ঠ)",
+"Śakta (pṛṣṭha)"
+],
+"Soft": [
+"নরম",
+"Narama"
+],
+"Heavy": [
+"ভারী",
+"Bhārī"
+],
+"Light (weight)": [
+"হালকা (ওজন)",
+"Hālakā (ojana)"
+],
+"New": [
+"নতুন",
+"Natuna"
+],
+"Old": [
+"পুরাতন",
+"Purātana"
+],
+"Slow": [
+"ধীর",
+"Dhīra"
+],
+"Fast": [
+"দ্রুত",
+"Druta"
+],
+"Young": [
+"তরুণ",
+"Taruṇa"
+],
+"Unhappy": [
+"অসুখী",
+"Asukhī"
+],
+"Gloomy": [
+"বিষণ্ণ",
+"Viṣaṇṇa"
+],
+"Carefully": [
+"সাবধানে",
+"Sāvadhāne"
+],
+"Slowly": [
+"ধীরে ধীরে",
+"Dhīre dhīre"
+],
+"Quickly": [
+"দ্রুত",
+"Druta"
+],
+"A bit": [
+"একটু",
+"Ekaṭu"
+],
+"A lot": [
+"অনেক",
+"Aneka"
+],
+"Aback": [
+"অবাক",
+"Avāka"
+],
+"Accordingly": [
+"সেই অনুযায়ী",
+"Sei anuyāya়ī"
+],
+"Accurately": [
+"সঠিকভাবে",
+"Saṭhikabhāve"
+],
+"Actively": [
+"সক্রিয়ভাবে",
+"Sakriya়bhāve"
+],
+"Afresh": [
+"নতুন করে",
+"Natuna kare"
+],
+"Ago": [
+"আগে",
+"Āge"
+],
+"Agreeably": [
+"সম্মতিক্রমে",
+"Sammatikrame"
+],
+"Altogether": [
+"সব মিলিয়ে",
+"Sava miliya়e"
+],
+"Any": [
+"যে কোন",
+"Ye kona"
+],
+"Away": [
+"দূরে",
+"Dūre"
 ]
 }

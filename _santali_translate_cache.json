@@ -4527,10 +4527,6 @@
 "ᱱᱵᱫᱩ",
 "Frija"
 ],
-"TV": [
-"TV",
-""
-],
 "Computer": [
 "ᱠᱚᱢᱯᱩᱴᱚᱨ",
 "Kaṃpyūṭara"
@@ -5614,5 +5610,4009 @@
 "Really": [
 "ᱥᱟᱹᱨᱤᱜᱮ",
 "Vāstava meṃ"
+],
+"We (listener including)": [
+"ᱟᱞᱮ (ᱟᱸᱡᱚᱢᱤᱭᱟᱹ ᱥᱟᱶᱛᱮ)",
+"Hama (śrotā sahita)"
+],
+"He / That (m.)": [
+"ᱩᱱᱤ/ᱚᱱᱟ (ᱢ.)",
+"Vaha/vaha (ema.)"
+],
+"She / That (f.)": [
+"ᱩᱱᱤ/ᱚᱱᱟ (ᱪ.)",
+"Vaha/vaha (epha)|"
+],
+"It / That (n.)": [
+"ᱱᱚᱶᱟ/ᱚᱱᱟ (ᱮᱱ.)",
+"Yaha/vaha (na.)."
+],
+"They (Plural of He) / Those (m.)": [
+"ᱩᱱᱠᱩ (ᱩᱱᱤ ᱨᱮᱱᱟᱜ ᱥᱟᱝᱜᱷᱟᱨ) / ᱩᱱᱠᱩ (ᱮᱢ.)",
+"Ve (usakā bahuvacana) / ve (ema.)|"
+],
+"They (Plural of She) / Those (f.)": [
+"ᱩᱱᱠᱩ (ᱩᱱᱤ ᱨᱮᱱᱟᱜ ᱥᱟᱝᱜᱷᱟᱨ) / ᱩᱱᱠᱩ (ᱮᱯ.)",
+"Ve (usakā bahuvacana) / ve (f.)"
+],
+"They (Plural of it) / Those (n.)": [
+"ᱩᱱᱠᱩ (ᱱᱚᱣᱟ ᱨᱮᱱᱟᱜ ᱥᱟᱝᱜᱷᱟᱨ) / ᱚᱱᱟ (ᱮᱱ.)",
+"Ve (isakā bahuvacana) / vaha (na.)."
+],
+"We went to the party (listener not included)": [
+"ᱟᱞᱮ ᱯᱟᱨᱴᱤ ᱞᱮ ᱥᱮᱱ ᱞᱮᱱᱟ (ᱟᱸᱡᱚᱢᱤᱭᱟᱹ ᱵᱟᱝ ᱥᱮᱞᱮᱫ ᱞᱮᱱᱟ)",
+"Hama pārṭī meṃ gae (darśaka śāmila nahīṃ)|"
+],
+"We went to the party (listener included)": [
+"ᱟᱞᱮ ᱯᱟᱨᱴᱤ ᱞᱮ ᱥᱮᱱ ᱞᱮᱱᱟ (ᱟᱸᱡᱚᱢᱤᱭᱟᱹ ᱦᱚᱸ ᱥᱮᱞᱮᱫ ᱢᱮᱱᱟᱭᱟ)",
+"Hama pārṭī meṃ gae (śrotā bhī śāmila)"
+],
+"This is a horse": [
+"ᱱᱩᱭ ᱫᱚ ᱢᱤᱫ ᱥᱟᱫᱚᱢ",
+"Yaha eka ghor̤ā hai"
+],
+"This is an ant": [
+"ᱱᱩᱭ ᱫᱚ ᱢᱤᱫ ᱢᱩᱲᱩᱫ ᱠᱟᱱᱟᱭ",
+"Yaha eka buniyādī bāta hai"
+],
+"You (singular male)": [
+"ᱟᱢ (ᱮᱠᱞᱟ ᱦᱮᱨᱮᱞ)",
+"Āpa (akele puruṣa)"
+],
+"You (singular female)": [
+"ᱟᱢ (ᱮᱠᱞᱟ ᱠᱩᱲᱤ)",
+"Āpa (akelī mahilā)"
+],
+"He / That (male) / This (male)": [
+"ᱩᱱᱤ/ᱚᱱᱟ (ᱦᱚᱲ)/ᱱᱩᱭ (ᱦᱚᱲ)",
+"Vaha/vaha (ādamī)/yaha (ādamī)"
+],
+"She / That (female) / This (female)": [
+"ᱩᱱᱤ/ᱚᱱᱟ (ᱛᱤᱨᱞᱟᱹ)/ᱱᱩᱭ (ᱛᱤᱨᱞᱟᱹ)",
+"Vaha/vaha (mahilā)/yaha (mahilā)"
+],
+"It / That (neuter) / This (neuter)": [
+"ᱱᱚᱣᱟ/ᱚᱱᱟ (ᱱᱭᱩᱴᱟᱨ)/ᱱᱚᱣᱟ (ᱱᱭᱩᱴᱟᱨ)",
+"Yaha/vaha (napuṃsaka)/yaha (napuṃsaka)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"ᱩᱱᱠᱩ (ᱢ.)/ ᱚᱱᱟ (ᱢ.)/ ᱱᱚᱶᱟ ᱠᱚ (ᱢ.)",
+"Ve (ema.) / vaha (ema.) / ye (ema.)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"ᱩᱱᱠᱩ (ᱮᱯ.)/ᱚᱱᱠᱩ (ᱮᱯ.)/ᱱᱩᱠᱩ (ᱮᱯ.)",
+"Ve (epha.)/ve (epha.)/ye (epha.)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"ᱩᱱᱠᱩ (ᱮᱱ.)/ᱚᱱᱠᱩ (ᱮᱱ.)/ᱱᱩᱠᱩ (ᱮᱱ.)",
+"Ve (ena.)/ve (ena.)/ye (ena.)"
+],
+"I (male) do": [
+"ᱤᱧ (ᱦᱚᱲ) ᱠᱚᱨᱟᱣᱟᱹᱧ",
+"Maiṃ (ādamī) karatā hū~"
+],
+"I (female) do": [
+"ᱤᱧ (ᱛᱤᱨᱞᱟᱹ) ᱠᱚᱨᱟᱣᱟᱹᱧ",
+"Maiṃ (mahilā) karatī hūṃ"
+],
+"You (male) cry": [
+"ᱟᱢ (ᱦᱚᱲ) ᱨᱟᱜ ᱢᱮ",
+"Tuma (ādamī) rote ho"
+],
+"You (female) cry": [
+"ᱟᱢ (ᱛᱤᱨᱞᱟᱹ) ᱨᱟᱜ ᱢᱮ",
+"Tuma (mahilā) rotī ho"
+],
+"You (plural) walk": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱛᱟᱲᱟᱢ ᱢᱮ",
+"Āpa (adhika) calate haiṃ"
+],
+"I shall be doing.": [
+"ᱤᱧ ᱠᱚᱨᱟᱣ ᱦᱩᱭᱩᱜ ᱛᱤᱧᱟ᱾",
+"Mujhe karanā hogā."
+],
+"We will be dancing.": [
+"ᱟᱞᱮ ᱮᱱᱮᱡ ᱞᱮ ᱛᱟᱦᱮᱱᱟ᱾",
+"Hama nācate raheṃge."
+],
+"You will be crying.": [
+"ᱟᱢᱮᱢ ᱨᱟᱜ ᱠᱟᱱᱟ᱾",
+"Tuma ro rahe ho"
+],
+"You (pl.) will be walking.": [
+"ᱟᱢ (ᱯᱤ ᱮᱞ) ᱛᱟᱲᱟᱢ ᱛᱟᱦᱮᱱᱟᱢ᱾",
+"Āpa (pīela) calate raheṃ|"
+],
+"He will be walking.": [
+"ᱩᱱᱤ ᱛᱟᱲᱟᱢ ᱛᱟᱦᱮᱱᱟᱭ᱾",
+"Vaha calatā rahatā hai."
+],
+"She will be speaking.": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱠᱟᱱᱟᱭ᱾",
+"Vaha bola rahā hai"
+],
+"It will be moving.": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱞᱟᱲᱦᱟᱭᱚᱜ ᱠᱟᱱᱟ ᱾",
+"Yaha gatiśīla hai."
+],
+"They will be dancing.": [
+"ᱩᱱᱠᱩ ᱮᱱᱮᱡ ᱠᱚ ᱛᱟᱦᱮᱱᱟ᱾",
+"Ve nācate rahate haiṃ."
+],
+"He / That (m.) / This (m.)": [
+"ᱩᱱᱤ/ᱚᱱᱟ (ᱢ.)/ᱱᱚᱣᱟ (ᱢ.)",
+"Vaha/vaha (ema.) / yaha (ema.)"
+],
+"She / That (f.) / This (f.)": [
+"ᱩᱱᱤ/ᱚᱱᱟ (ᱮᱯ.)/ᱱᱚᱣᱟ (ᱮᱯ.)",
+"Vaha/vaha (epha.)/yaha (epha.)"
+],
+"It / That (n.) / This (n.)": [
+"ᱱᱚᱣᱟ/ᱚᱱᱟ (ᱮᱱ.)/ᱱᱚᱣᱟ (ᱮᱱ.)",
+"Yaha/vaha (ena.)/yaha (ena.)."
+],
+"I (male) / I (female)": [
+"ᱤᱧ (ᱦᱚᱲ) / ᱤᱧ (ᱛᱤᱨᱞᱟᱹ)",
+"Maiṃ (puruṣa) / maiṃ (mahilā)"
+],
+"I (male) was doing.": [
+"ᱤᱧ (ᱦᱚᱲ) ᱠᱚᱨᱟᱣ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱤᱧ ᱾",
+"Maiṃ (ādamī) kara rahā thā."
+],
+"I (female) was doing.": [
+"ᱤᱧ (ᱛᱤᱨᱞᱟᱹ) ᱠᱚᱨᱟᱣ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱤᱧ ᱾",
+"Maiṃ (mahilā) kara rahī thī."
+],
+"We were dancing.": [
+"ᱟᱞᱮ ᱮᱱᱮᱡ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱞᱮ ᱾",
+"Hama nāca rahe the|"
+],
+"You (male) were crying.": [
+"ᱟᱢ (ᱦᱚᱲ) ᱮᱢ ᱨᱟᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱾",
+"Tuma (ādamī) ro rahe the."
+],
+"You (female) were crying.": [
+"ᱟᱢ (ᱛᱤᱨᱞᱟᱹ) ᱮᱢ ᱨᱟᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱾",
+"Tuma (mahilā) ro rahī thī."
+],
+"You (Plural) were walking": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱛᱟᱲᱟᱢ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱢᱮ",
+"Āpa (adhika) cala rahe the"
+],
+"He was walking.": [
+"ᱩᱱᱤ ᱛᱟᱲᱟᱢ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱾",
+"Vahaṭahala rahā thā|"
+],
+"She was speaking.": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱾",
+"Vaha bola rahā thā."
+],
+"It was moving.": [
+"ᱱᱚᱣᱟ ᱞᱟᱦᱟ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱾",
+"Yaha ghūma rahā thā."
+],
+"They(m.) were dancing.": [
+"ᱩᱱᱠᱩ (ᱮᱢ.) ᱠᱚ ᱮᱱᱮᱡ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱾",
+"Ve (ema.) nāca rahe the."
+],
+"They(f.) were dancing.": [
+"ᱩᱱᱠᱩ (ᱮᱯ.) ᱠᱚ ᱮᱱᱮᱡ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱾",
+"Ve (epha.) nāca rahe the|"
+],
+"They(n.) were dancing.": [
+"ᱩᱱᱠᱩ (ᱮᱱ) ᱠᱚ ᱮᱱᱮᱡ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱾",
+"Ve (ena) nāca rahe the."
+],
+"She has opened door": [
+"ᱩᱱᱤ ᱫᱩᱣᱟᱹᱨ ᱡᱷᱤᱡ ᱠᱮᱫᱟᱭ",
+"Usane daravājā kholā|"
+],
+"She had opened door": [
+"ᱩᱱᱤ ᱫᱩᱣᱟᱹᱨ ᱡᱷᱤᱡ ᱠᱮᱫᱟᱭ",
+"Usane daravājā kholā|"
+],
+"She will have opened door": [
+"ᱩᱱᱤ ᱫᱩᱣᱟᱹᱨ ᱡᱷᱤᱡ ᱠᱮᱜᱼᱟᱭ",
+"Usane daravājā kholā|"
+],
+"You (female) have danced": [
+"ᱟᱢ (ᱛᱤᱨᱞᱟᱹ) ᱮᱱᱮᱡ ᱟᱠᱟᱱᱟᱢ",
+"Āpane (mahilā) nṛtya kiyā"
+],
+"You (female) had danced": [
+"ᱟᱢ (ᱛᱤᱨᱞᱟᱹ) ᱮᱱᱮᱡ ᱞᱮᱫᱟᱢ",
+"Āpane (mahilā) nṛtya kiyā"
+],
+"You (female) will have danced": [
+"ᱟᱢ (ᱛᱤᱨᱞᱟᱹ) ᱮᱱᱮᱡ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ",
+"Āpa (mahilā) nāca rahī hoṃgī"
+],
+"You (plural) have danced": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱮᱱᱮᱡ ᱟᱠᱟᱱᱟᱢ",
+"Āpane (jyādātara) khelā"
+],
+"You (plural) had danced": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱮᱱᱮᱡ ᱞᱮᱫᱟᱢ",
+"Āpane khelā (jyādātara)"
+],
+"You (plural) will have danced": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱮᱱᱮᱡ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ",
+"Āpa (jyādātara) khela sakate haiṃ"
+],
+"On behalf of": [
+"ᱚᱱᱟ ᱛᱟᱞᱟᱛᱮ",
+"Usake mādhyama se"
+],
+"In front of": [
+"ᱚᱱᱟ ᱥᱟᱢᱟᱝ ᱨᱮ",
+"Ke sāmane"
+],
+"He / That (male)": [
+"ᱩᱱᱤ/ᱚᱱᱟ (ᱦᱮᱨᱮᱞ)",
+"Vaha/vaha (puruṣa)"
+],
+"She / That (female)": [
+"ᱩᱱᱤ/ᱚᱱᱟ (ᱛᱤᱨᱞᱟᱹ)",
+"Vaha/vaha (mahilā)"
+],
+"It / That (neuter)": [
+"ᱱᱚᱶᱟ/ᱚᱱᱟ (ᱱᱭᱩᱴᱟᱨ)",
+"Yaha/vaha (napuṃsaka)"
+],
+"They (m.) / Those (m.)": [
+"ᱩᱱᱠᱩ (ᱢ.) / ᱚᱱᱟ (ᱢ.)",
+"Ve (ema.) / vaha (ema.)"
+],
+"They (f.) / Those (f.)": [
+"ᱩᱱᱠᱩ (ᱮᱯ.) / ᱩᱱᱠᱩ (ᱮᱯ.)",
+"Ve (epha.) / ve (epha.)"
+],
+"They (n.) / Those (n.)": [
+"ᱩᱱᱠᱩ (ᱮᱱ.) / ᱩᱱᱠᱩ (ᱮᱱ.)",
+"Ve (ena.) / ve (ena.)"
+],
+"I do not speak": [
+"ᱤᱧ ᱵᱟᱹᱧ ᱨᱚᱲ ᱠᱟᱱᱟ",
+"Maiṃ bāta nahīṃ kara rahā hū~"
+],
+"He does not walk": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱛᱟᱲᱟᱢᱟ",
+"Vaha calatā nahīṃ hai."
+],
+"You do not eat": [
+"ᱟᱢ ᱵᱟᱝ ᱡᱚᱢ ᱢᱮ",
+"Tuma mata khāo"
+],
+"They do not dance": [
+"ᱩᱱᱠᱩ ᱵᱟᱠᱚ ᱮᱱᱮᱡ ᱮᱫᱟ",
+"Ve nahīṃ khelate"
+],
+"I am not speaking": [
+"ᱤᱧ ᱵᱟᱹᱧ ᱨᱚᱲ ᱠᱟᱱᱟ",
+"Maiṃ bāta nahīṃ kara rahā hū~"
+],
+"He is not walking": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱛᱟᱲᱟᱢ ᱠᱟᱱᱟ",
+"Vaha cala nahīṃ rahā hai."
+],
+"She is not speaking": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱨᱚᱲ ᱠᱟᱱᱟ",
+"Vaha bāta nahīṃ kara rahā hai"
+],
+"It is not moving": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ",
+"Yaha nahīṃ hone vālā hai"
+],
+"They are not dancing": [
+"ᱩᱱᱠᱩ ᱵᱟᱠᱚ ᱮᱱᱮᱡ ᱠᱟᱱᱟ",
+"Ve nahīṃ khela rahe haiṃ"
+],
+"You are not dancing": [
+"ᱟᱢ ᱵᱟᱢ ᱮᱱᱮᱡ ᱠᱟᱱᱟ",
+"Āpa nahīṃ khela rahe haiṃ"
+],
+"I have not opened the box": [
+"ᱤᱧ ᱵᱟᱠᱥᱚ ᱵᱟᱹᱧ ᱡᱷᱤᱡ ᱟᱠᱟᱫᱟ",
+"Maiṃne baksā nahīṃ kholā hai."
+],
+"I have not spoken": [
+"ᱤᱧ ᱵᱟᱹᱧ ᱨᱚᱲ ᱟᱠᱟᱫᱟ",
+"Maiṃne bāta nahīṃ kī hai"
+],
+"He has not eaten the mango": [
+"ᱩᱱᱤ ᱫᱚ ᱢᱮᱸᱜᱟ ᱵᱟᱭ ᱡᱚᱢ ᱟᱠᱟᱫᱟ",
+"Usane āma nahīṃ khāyā hai."
+],
+"You do not speak": [
+"ᱟᱢ ᱵᱟᱢ ᱨᱚᱲᱟ",
+"Āpa bolate nahīṃ"
+],
+"Do not read it": [
+"ᱱᱚᱣᱟ ᱟᱞᱚᱢ ᱯᱟᱲᱦᱟᱣᱟ",
+"Ise mata par̤ho"
+],
+"Do not do it": [
+"ᱱᱚᱶᱟ ᱟᱞᱚᱢ ᱠᱚᱨᱟᱣᱟ",
+"Aisā mata karo"
+],
+"You do not go": [
+"ᱟᱢ ᱟᱞᱚᱢ ᱥᱮᱱᱚᱜᱼᱟ",
+"Tuma mata jāo"
+],
+"I moved toy": [
+"ᱤᱧ ᱠᱷᱮᱞᱱᱟ ᱚᱪᱚᱜ ᱠᱮᱫᱟᱹᱧ",
+"Maiṃne khilaunā haṭā diyā"
+],
+"To cause to cook": [
+"ᱤᱥᱤᱱ ᱵᱟᱥᱟᱝ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ",
+"Khānā pakāne ke kāraṇoṃ se"
+],
+"I cooked rice": [
+"ᱤᱧ ᱫᱟᱠᱟ ᱤᱥᱤᱱ ᱠᱮᱫᱟᱹᱧ",
+"Maiṃne cāvala pakāyā."
+],
+"To cause to die / To kill": [
+"ᱜᱚᱡ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ/ ᱜᱚᱡ ᱞᱟᱹᱜᱤᱫ",
+"Mṛtyu ke kāraṇa/marane ke lie"
+],
+"To cause to fall": [
+"ᱧᱩᱨᱦᱟᱹᱜ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ",
+"Patana ke kāraṇa ke lie"
+],
+"To break (intransitive)": [
+"ᱨᱟᱹᱯᱩᱫ ᱞᱟᱹᱜᱤᱫ (ᱤᱱᱴᱨᱟᱱᱥᱤᱴᱤᱵᱷ)",
+"Tor̤anā (akarmaka)"
+],
+"To cause to break": [
+"ᱨᱟᱹᱯᱩᱫ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ",
+"Ṭūṭane kā kāraṇa bananā|"
+],
+"I broke glass": [
+"ᱤᱧ ᱜᱤᱞᱟᱥ ᱨᱟᱹᱯᱩᱫ ᱠᱮᱫᱟᱹᱧ",
+"Maiṃne śīśā tor̤a diyā"
+],
+"To cause to leave": [
+"ᱵᱟᱹᱜᱤ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ",
+"Chor̤ane ke kāraṇoṃ ke lie"
+],
+"To cause to drink / To feed liquid": [
+"ᱧᱩ ᱞᱟᱹᱜᱤᱫ/ᱛᱚᱨᱚᱞ ᱡᱤᱱᱤᱥ ᱡᱚᱢ ᱚᱪᱚ ᱞᱟᱹᱜᱤᱫ",
+"Tarala padārtha pīne/khilāne ke lie."
+],
+"To call (not cause to speak)": [
+"ᱦᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ (ᱨᱚᱲ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱵᱟᱝ)",
+"Kaॉla karane ke lie (bolane kā koī kāraṇa nahīṃ)"
+],
+"To keep animal (not cause to run)": [
+"ᱡᱤᱣ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ (ᱫᱟᱹᱲ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱵᱟᱝ)",
+"Eka jānavara rakhanā (bhāgane kā koī kāraṇa nahīṃ)"
+],
+"I had spoken": [
+"ᱤᱧ ᱨᱚᱲ ᱞᱮᱫᱟ",
+"Maiṃne bāta kī thī"
+],
+"You (male) had danced": [
+"ᱟᱢ (ᱦᱮᱨᱮᱞ) ᱮᱱᱮᱡ ᱞᱮᱫᱟᱢ",
+"Āpane (puruṣa) khelā"
+],
+"He had laughed": [
+"ᱩᱱᱤ ᱞᱟᱱᱫᱟ ᱞᱮᱱᱟᱭ",
+"Vaha muskurāī."
+],
+"Those boys had laughed": [
+"ᱩᱱᱠᱩ ᱠᱚᱲᱟ ᱠᱚ ᱞᱟᱱᱫᱟ ᱞᱮᱱᱟ",
+"Ve loga ha~se|"
+],
+"I had opened door": [
+"ᱤᱧ ᱫᱩᱣᱟᱹᱨ ᱤᱧ ᱡᱷᱤᱡ ᱞᱮᱫᱟ",
+"Maiṃne daravājā kholā|"
+],
+"I had opened window": [
+"ᱤᱧ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡ ᱞᱮᱫᱟᱹᱧ",
+"Maiṃne khir̤akī kholī"
+],
+"She had eaten mango": [
+"ᱩᱱᱤ ᱢᱮᱢᱚ ᱡᱚᱢ ᱠᱮᱫᱟᱭ",
+"Usane āma khāyā"
+],
+"Those girls had picked keys": [
+"ᱩᱱᱠᱩ ᱠᱩᱲᱤ ᱠᱚ ᱪᱟᱵᱷᱤ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱞᱮᱫᱟ",
+"Una mahilāoṃ ne cābī cuna lī thī"
+],
+"I have spoken": [
+"ᱤᱧ ᱨᱚᱲ ᱟᱠᱟᱫᱟ",
+"Maiṃ bāta kara lī hai"
+],
+"I will have spoken": [
+"ᱤᱧ ᱨᱚᱲ ᱠᱮᱜᱼᱟᱹᱧ",
+"Maiṃ bolā"
+],
+"He had been saying": [
+"ᱩᱱᱤ ᱢᱮᱱ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ",
+"Vaha kaha rahā thā"
+],
+"He has been saying": [
+"ᱩᱱᱤ ᱢᱮᱱ ᱮᱫᱟᱭ",
+"Vaha kahatā hai"
+],
+"He will have been saying": [
+"ᱩᱱᱤ ᱢᱮᱱ ᱠᱟᱱ ᱛᱟᱦᱮᱱᱟᱭ",
+"Vaha kaha rahā thā"
+],
+"I have been saying": [
+"ᱤᱧ ᱢᱮᱱ ᱮᱫᱟᱹᱧ",
+"Maiṃ kahatā hū~"
+],
+"She has been saying": [
+"ᱩᱱᱤ ᱢᱮᱱ ᱮᱫᱟᱭ",
+"Vaha kahatā hai"
+],
+"They have been dancing": [
+"ᱩᱱᱠᱩ ᱮᱱᱮᱡ ᱠᱚ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Vaha nāca rahe hai|"
+],
+"You have been eating mango": [
+"ᱟᱢ ᱫᱚ ᱢᱮᱸᱜᱟ ᱡᱚᱢ ᱮᱫ ᱢᱮᱭᱟ",
+"Āpa āma khā rahe haiṃ."
+],
+"I have been working there for 3 years": [
+"ᱤᱧ ᱚᱱᱰᱮ ᱓ ᱥᱮᱨᱢᱟ ᱠᱷᱚᱱ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ vahāṃ 3 sāla se kāma kara rahā hūṃ"
+],
+"I had been saying": [
+"ᱤᱧ ᱢᱮᱱ ᱞᱮᱫᱟ",
+"Maiṃne kahā thā"
+],
+"She had been saying": [
+"ᱩᱱᱤ ᱢᱮᱱ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ",
+"Vaha kaha rahā thā"
+],
+"They had been dancing": [
+"ᱩᱱᱠᱩ ᱮᱱᱮᱡ ᱠᱚ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Vaha nāca rahe hai|"
+],
+"You had been eating mango": [
+"ᱟᱢ ᱫᱚ ᱢᱮᱸᱜᱮᱢ ᱡᱚᱢ ᱮᱫ ᱛᱟᱦᱮᱸᱡ",
+"Tuma āma khā rahe the."
+],
+"She will have been saying": [
+"ᱩᱱᱤ ᱢᱮᱱ ᱠᱟᱱ ᱛᱟᱦᱮᱱᱟᱭ",
+"Vaha kaha rahā thā"
+],
+"They will have been dancing": [
+"ᱩᱱᱠᱩ ᱮᱱᱮᱡ ᱠᱚ ᱛᱟᱦᱮᱸᱱᱟ",
+"Ve nāceṃge."
+],
+"You will have been eating mango": [
+"ᱟᱢ ᱫᱚ ᱢᱮᱸᱜᱟ ᱡᱚᱢ ᱮᱫ ᱢᱮᱭᱟ",
+"Āpa āma khā rahe haiṃ."
+],
+"I will have been working there for 3 years": [
+"ᱤᱧ ᱚᱱᱰᱮ ᱓ ᱥᱮᱨᱢᱟ ᱠᱷᱚᱱ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ vahāṃ 3 sāla se kāma kara rahā hūṃ"
+],
+"They are going to come": [
+"ᱩᱱᱠᱩ ᱦᱤᱡᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ",
+"Ve āne vāle haiṃ"
+],
+"I am going to speak": [
+"ᱤᱧ ᱨᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱤᱧ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ",
+"Maiṃ bolane jā rahā hū~"
+],
+"She is going to open door": [
+"ᱩᱱᱤ ᱫᱩᱣᱟᱹᱨ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱭ",
+"Vaha daravāzā kholane jā rahā hai"
+],
+"You are going to dance": [
+"ᱟᱢ ᱮᱱᱮᱡ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ",
+"Āpa khelane jā rahe haiṃ"
+],
+"Are they going to come?": [
+"ᱩᱱᱠᱩ ᱦᱤᱡᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ ᱥᱮ ?",
+"Kyā ve āne vāle haiṃ?"
+],
+"Am I going to speak?": [
+"ᱪᱮᱫ ᱤᱧ ᱨᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱤᱧ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ?",
+"Kyā maiṃ bāta karane jā rahā hū~?"
+],
+"Is she going to open door?": [
+"ᱪᱮᱫ ᱩᱱᱤ ᱫᱩᱣᱟᱹᱨ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱭ?",
+"Kyā vaha daravāzā kholane vālā hai?"
+],
+"Are you going to dance?": [
+"ᱪᱮᱫ ᱟᱢ ᱮᱱᱮᱡ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ?",
+"Kyā āpa khelane jā rahe haiṃ?"
+],
+"She / That (f.)/ This (f.)": [
+"ᱩᱱᱤ/ ᱚᱱᱟ (ᱮᱯ.)/ ᱱᱚᱣᱟ (ᱮᱯ.)",
+"Vaha / vaha (epha.) / yaha (epha.)"
+],
+"It / That(n.) / This (n.)": [
+"ᱱᱚᱣᱟ/ᱚᱱᱟ(ᱮᱱ.)/ᱱᱚᱣᱟ (ᱮᱱ.)",
+"Yaha/vaha(n.)/it (n.)."
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"ᱩᱱᱠᱩ (ᱩᱱᱤ ᱨᱮᱱᱟᱜ ᱥᱟᱝᱜᱷᱟᱨ)/ᱚᱱᱠᱩ (ᱢ.)/ᱱᱩᱠᱩ (ᱢ.)",
+"Ve (usakā bahuvacana)/ve (ema.)/ye (ema.)|"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"ᱩᱱᱠᱩ (ᱩᱱᱤ ᱨᱮᱱᱟᱜ ᱥᱟᱝᱜᱷᱟᱨ)/ᱚᱱᱠᱩ (ᱮᱯ.)/ᱱᱩᱠᱩ (ᱮᱯ.)",
+"Ve (usakā bahuvacana) / ve (epha.) / ye (epha.)."
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"ᱩᱱᱠᱩ (ᱱᱚᱣᱟ ᱨᱮᱱᱟᱜ ᱥᱟᱝᱜᱷᱟᱨ)/ᱚᱱᱠᱩ (ᱮᱱ.)/ᱱᱩᱠᱩ (ᱮᱱ.)",
+"Ve (isakā bahuvacana)/ve (ena.)/ye (ena.)|"
+],
+"I used to do": [
+"ᱤᱧ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟᱹᱧ",
+"Maiṃ karatā thā"
+],
+"She used to speak": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟᱭ",
+"Vaha bolatā thā"
+],
+"He used to dance": [
+"ᱩᱱᱤ ᱮᱱᱮᱡ ᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟ",
+"Vaha nācatā thā."
+],
+"They (plural of he) used to eat mangos": [
+"ᱩᱱᱠᱩ (ᱩᱱᱤ ᱨᱮᱱᱟᱜ ᱵᱟᱹᱲᱛᱤ) ᱢᱮᱸᱜᱮ ᱠᱚ ᱡᱚᱢ ᱞᱮᱫᱟ",
+"Unhoṃne (jyādātara ne) āma khāyā."
+],
+"They (plural of she) used to play cricket": [
+"ᱩᱱᱠᱩ (ᱩᱱᱤ ᱨᱮᱱ ᱵᱟᱹᱲᱛᱤ) ᱠᱨᱤᱠᱮᱴ ᱠᱚ ᱠᱷᱮᱞᱚᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ",
+"Ve (unake vistārita) krikeṭa khela rahe the"
+],
+"He used to be there": [
+"ᱩᱱᱤ ᱚᱸᱰᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ",
+"Vaha vahāṃ thā|"
+],
+"She used to be quiet": [
+"ᱩᱱᱤ ᱛᱷᱤᱨ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ",
+"Vaha śāṃta thā"
+],
+"I did not use to do": [
+"ᱤᱧ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱹᱧ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱫᱟ",
+"Maiṃ nahīṃ karatā thā"
+],
+"She did not use to speak": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟ",
+"Vaha bāta nahīṃ karatā thā"
+],
+"You did not use to dance": [
+"ᱟᱢ ᱮᱱᱮᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟ",
+"Āpa khelate nahīṃ the"
+],
+"They (plural of he) did not use to eat mangos": [
+"ᱩᱱᱠᱩ (ᱩᱱᱤ ᱨᱮᱱᱟᱜ ᱵᱟᱹᱲᱛᱤ) ᱢᱮᱸᱜᱮ ᱵᱟᱠᱚ ᱡᱚᱢ ᱞᱮᱫᱟ",
+"Unhoṃne (unameṃ se adhikāṃśa ne) āma nahīṃ khāyā|"
+],
+"She did not use to be quiet": [
+"ᱩᱱᱤ ᱛᱷᱤᱨ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟ",
+"Use cupa rahane kī ādata nahīṃ thī"
+],
+"He did not use to be there": [
+"ᱩᱱᱤ ᱚᱱᱰᱮ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟ",
+"Vaha vahāṃ nahīṃ huā karatā thā"
+],
+"He is used to dance": [
+"ᱩᱱᱤ ᱮᱱᱮᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟᱭ",
+"Use khelane kī ādata hai"
+],
+"She is used to speak": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟᱭ",
+"Use bolane kī ādata hai"
+],
+"Those girls are used to laugh": [
+"ᱱᱩᱠᱩ ᱠᱩᱲᱤ ᱠᱚ ᱞᱟᱱᱫᱟ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟ",
+"Ina mahilāoṃ kā upayoga upahāsa karane ke lie kiyā jātā hai"
+],
+"I am used to be there": [
+"ᱤᱧ ᱚᱸᱰᱮ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟᱹᱧ",
+"Mujhe vahāṃ rahane kī ādata hai"
+],
+"She is used to be quiet": [
+"ᱩᱱᱤ ᱛᱷᱤᱨ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱮ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟ",
+"Use śāṃta rahane kī ādata hai."
+],
+"He is not used to dance": [
+"ᱩᱱᱤ ᱮᱱᱮᱡ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟ",
+"Use nācane kī ādata nahīṃ hai."
+],
+"She is not used to speak": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟ",
+"Use bāta karane kī ādata nahīṃ hai"
+],
+"I used to eat mango": [
+"ᱤᱧ ᱢᱮᱢᱚ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟᱹᱧ",
+"Maiṃ āma khātā thā"
+],
+"Kaushik used to eat mango": [
+"ᱠᱚᱥᱤᱠ ᱫᱚ ᱢᱮᱸᱜᱮ ᱡᱚᱢ ᱞᱮᱫᱟᱭ",
+"Sela ne eka āma khāyā"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"ᱠᱚᱥᱤᱠ, ᱜᱩᱨᱩ, ᱥᱩᱱᱰᱟᱨ ᱫᱤᱱᱟᱹᱢ ᱜᱮ ᱧᱟᱯᱟᱢ ᱠᱚ ᱛᱟᱦᱮᱱᱟ",
+"Kauśika, guru, sundara nita milate haiṃ"
+],
+"My friends and I used to play cricket": [
+"ᱤᱧ ᱟᱨ ᱤᱧ ᱨᱮᱱ ᱜᱟᱛᱮ ᱠᱚ ᱠᱨᱤᱠᱮᱴ ᱞᱮ ᱠᱷᱮᱞᱚᱜ ᱠᱟᱱᱟ",
+"Maiṃ aura mere dosta krikeṭa khelate haiṃ"
+],
+"I used to see": [
+"ᱤᱧ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟᱹᱧ",
+"Maiṃ dekhā karatā thā"
+],
+"Kaushik used to see": [
+"ᱠᱚᱥᱤᱠ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟᱭ",
+"Kośikā kā nirīkṣaṇa karane ke lie upayoga kiyā jātā hai"
+],
+"Kaushik used to do": [
+"ᱠᱚᱥᱤᱠ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱞᱮᱫᱟᱭ",
+"Sela karate the"
+],
+"He opened the door": [
+"ᱩᱱᱤ ᱫᱩᱣᱟᱹᱨ ᱡᱷᱤᱡ ᱠᱮᱜᱼᱟᱭ",
+"Usane daravājā kholā|"
+],
+"If he had opened the door then": [
+"ᱡᱩᱫᱤ ᱩᱱᱤ ᱫᱩᱣᱟᱹᱨ ᱡᱷᱤᱡ ᱠᱮᱭᱟᱭ ᱛᱚᱵᱮ",
+"Agara vaha daravāzā kholatā hai"
+],
+"He had spoken": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱞᱮᱫᱟᱭ",
+"Vaha bolā"
+],
+"If he had spoken": [
+"ᱡᱩᱫᱤ ᱩᱱᱤ ᱨᱚᱲ ᱠᱚᱜ ᱠᱷᱟᱱ",
+"Agara vaha bolā"
+],
+"If you had spoken then she would have spoken": [
+"ᱟᱢ ᱡᱩᱫᱤᱢ ᱨᱚᱲ ᱠᱚᱜ ᱠᱷᱟᱱ ᱩᱱᱤ ᱦᱚᱸ ᱨᱚᱲ ᱠᱮᱭᱟᱭ",
+"Tuma bāta karogī to vaha bhī bāta karegā"
+],
+"If he had cried then they would have ran": [
+"ᱡᱩᱫᱤ ᱩᱱᱤ ᱨᱟᱜ ᱠᱚᱜ ᱠᱷᱟᱱ ᱩᱱᱠᱩ ᱠᱚ ᱫᱟᱹᱲ ᱠᱚᱜᱼᱟ",
+"Agara vaha rotī to ve bhāga jāte"
+],
+"If you go I will cry": [
+"ᱡᱩᱫᱤ ᱟᱢᱮᱢ ᱥᱮᱱᱚᱜᱼᱟ ᱤᱧᱤᱧ ᱨᱟᱜᱼᱟ",
+"Tuma jāoge to maiṃ roū~gā"
+],
+"If he sings she will dance": [
+"ᱡᱩᱫᱤ ᱩᱱᱤ ᱥᱮᱨᱮᱧᱟᱭ ᱩᱱᱤ ᱮᱱᱮᱡᱟᱭ",
+"Agara vaha gātī hai to nācatī hai"
+],
+"reason of coming": [
+"ᱦᱤᱡᱩᱜ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ",
+"Āne kā kāraṇa"
+],
+"She spoke after my dancing": [
+"ᱤᱧᱟᱜ ᱮᱱᱮᱡ ᱛᱟᱭᱚᱢ ᱩᱱᱤ ᱨᱚᱲ ᱠᱮᱫᱟᱭ",
+"Mere ḍāṃsa ke bāda unhoṃne bāta kī"
+],
+"after I danced": [
+"ᱤᱧ ᱮᱱᱮᱡ ᱛᱟᱭᱚᱢ",
+"Mere khelane ke bāda"
+],
+"She spoke after I danced": [
+"ᱤᱧ ᱮᱱᱮᱡ ᱛᱟᱭᱚᱢ ᱩᱱᱤ ᱨᱚᱲ ᱠᱮᱫᱟᱭ",
+"Mere nācane ke bāda vaha bolā"
+],
+"He cried after she went": [
+"ᱩᱱᱤ ᱥᱮᱱ ᱛᱟᱭᱚᱢ ᱩᱱᱤ ᱨᱟᱜ ᱠᱮᱫᱟᱭ",
+"Usake jāne ke bāda vaha roī"
+],
+"He told about his coming to school": [
+"ᱩᱱᱤ ᱟᱡᱟᱜ ᱟᱥᱲᱟ ᱦᱤᱡᱩᱜ ᱵᱟᱨᱮᱛᱮ ᱞᱟᱹᱭ ᱠᱮᱫᱟᱭ",
+"Usane skūla āne kī bāta batāyī"
+],
+"He told me that he is coming": [
+"ᱩᱱᱤ ᱢᱮᱛᱟ ᱟᱫᱤᱧᱟᱭ ᱡᱮ ᱩᱱᱤ ᱦᱤᱡᱩᱜ ᱠᱟᱱᱟᱭ",
+"Usane mujhase kahā ki vaha ā rahā hai"
+],
+"He told me that he is going to come": [
+"ᱩᱱᱤ ᱢᱮᱛᱟ ᱟᱫᱤᱧᱟᱭ ᱡᱮ ᱩᱱᱤ ᱦᱤᱡᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ",
+"Usane mujhase kahā ki vaha āne vālā hai"
+],
+"I don't remember she having said something": [
+"ᱤᱧ ᱵᱟᱹᱧ ᱩᱭᱦᱟᱹᱨ ᱮᱫᱟ ᱩᱱᱤ ᱪᱮᱫ ᱪᱮᱫ ᱢᱮᱱ ᱞᱮᱫᱟᱭ",
+"Mujhe nahīṃ lagatā ki unhoṃne kucha kahā hai"
+],
+"I don't remember she having eaten mango": [
+"ᱤᱧ ᱵᱟᱹᱧ ᱩᱭᱦᱟᱹᱨ ᱮᱫᱟ ᱩᱱᱤ ᱢᱮᱢᱚ ᱡᱚᱢ ᱞᱮᱫᱟᱭ",
+"Mujhe nahīṃ lagatā ki usane āma khāyā"
+],
+"while I speak": [
+"ᱤᱧ ᱨᱚᱲ ᱚᱠᱛᱚ",
+"Jaba maiṃ bolatā hū~"
+],
+"while I do": [
+"ᱡᱚᱠᱷᱚᱱ ᱤᱧ ᱠᱚᱨᱟᱣᱟᱹᱧ",
+"Jaba maiṃ karatā hū~"
+],
+"while I dance": [
+"ᱤᱧ ᱮᱱᱮᱡ ᱚᱠᱛᱚ",
+"Jaba maiṃ khelatā hū~"
+],
+"Come to see this photo": [
+"ᱱᱚᱣᱟ ᱪᱤᱛᱟᱹᱨ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱤᱡᱩᱜ ᱢᱮ",
+"Āie dekheṃ ye tasvīra"
+],
+"Come to eat with me": [
+"ᱤᱧ ᱥᱟᱶ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱦᱤᱡᱩᱜ ᱢᱮ",
+"Āe mere sātha khāeṃ"
+],
+"Smoking is prohibited": [
+"ᱫᱷᱩᱶᱟᱹ ᱧᱩ ᱫᱚ ᱵᱟᱨᱚᱱ ᱜᱮᱭᱟ",
+"Dhūmrapāna varjita hai."
+],
+"Court asked to be present tomorrow": [
+"ᱟᱫᱟᱞᱟᱢ ᱜᱟᱯᱟ ᱦᱮᱡ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱢᱮᱛᱟᱫ ᱠᱚᱣᱟ",
+"Korṭa ne kala peśa hone ko kahā"
+],
+"Sit and watch": [
+"ᱫᱩᱲᱩᱵ ᱢᱮ ᱟᱨ ᱧᱮᱞ ᱢᱮ",
+"Ārāma se baiṭho aura dekho"
+],
+"come and go": [
+"ᱦᱤᱡᱩᱜ ᱢᱮ ᱟᱨ ᱪᱟᱞᱟᱜ ᱢᱮ",
+"Ānā aura jānā|"
+],
+"He came and saw it": [
+"ᱩᱱᱤ ᱦᱮᱡ ᱮᱱᱟᱭ ᱟᱨ ᱱᱚᱣᱟ ᱧᱮᱞ ᱠᱮᱫᱟᱭ",
+"Usane ākara dekhā"
+],
+"They will go and check it": [
+"ᱩᱱᱠᱩ ᱥᱮᱱ ᱠᱟᱛᱮ ᱱᱚᱣᱟ ᱠᱚ ᱧᱮᱞᱟ",
+"Ve jākara ise dekheṃge"
+],
+"smile and say": [
+"ᱞᱟᱱᱫᱟᱭ ᱢᱮ ᱟᱨ ᱢᱮᱱ ᱢᱮ",
+"Basa muskarāeṃ aura kaheṃ"
+],
+"till I speak": [
+"ᱤᱧ ᱨᱚᱲ ᱦᱟᱹᱵᱤᱡ",
+"Jaba taka maiṃ bolūṃ"
+],
+"until she smiles": [
+"ᱛᱤᱱ ᱦᱟᱹᱵᱤᱡ ᱩᱱᱤ ᱵᱟᱭ ᱞᱟᱱᱫᱟᱭᱟ",
+"Jaba taka vaha muskurāe nahīṃ"
+],
+"till he goes": [
+"ᱩᱱᱤ ᱪᱟᱞᱟᱣ ᱞᱮᱱ ᱦᱟᱹᱵᱤᱡ",
+"Jaba taka vaha calā nahīṃ gayā"
+],
+"until we come": [
+"ᱛᱤᱱ ᱦᱟᱹᱵᱤᱡ ᱟᱞᱮ ᱵᱟᱝ ᱞᱮ ᱦᱤᱡᱩᱜᱼᱟ",
+"Jaba taka hama nahīṃ āte"
+],
+"For good horse": [
+"ᱱᱟᱯᱟᱭ ᱥᱟᱫᱚᱢ ᱞᱟᱹᱜᱤᱫ",
+"Acche ghor̤e ke lie."
+],
+"For good chair": [
+"ᱱᱟᱯᱟᱭ ᱢᱟᱹᱪᱤ ᱞᱟᱹᱜᱤᱫ",
+"Acchī kursiyoṃ ke lie."
+],
+"After easy exam": [
+"ᱟᱞᱜᱟ ᱵᱤᱱᱤᱰ ᱛᱟᱭᱚᱢ",
+"Eka sādhāraṇa parīkṣaṇa ke bāda"
+],
+"For red horse": [
+"ᱟᱨᱟᱜ ᱥᱟᱫᱚᱢ ᱞᱟᱹᱜᱤᱫ",
+"Lāla ghor̤e ke lie."
+],
+"About beautiful drawing": [
+"ᱪᱮᱦᱨᱟ ᱪᱤᱛᱟᱹᱨ ᱵᱟᱨᱮᱛᱮ",
+"Khūbasūrata tasvīroṃ ke bāre meṃ"
+],
+"I can eat": [
+"ᱤᱧ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Maiṃ khā sakatā hūṃ"
+],
+"He can sing": [
+"ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha gā sakatā hai"
+],
+"You(plural) could eat mango": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱢᱮᱸᱜᱟ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ",
+"Āpa (adhikāṃśa) āma khā sakate haiṃ"
+],
+"You(plural) could eat chutney": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱪᱟᱴᱱᱤ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ",
+"Āpa (adhikāṃśa) saॉsa khā sakate haiṃ"
+],
+"She could dance": [
+"ᱩᱱᱤ ᱮᱱᱮᱡ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha khela sakatā hai"
+],
+"They (plural of she) will be able to move": [
+"ᱩᱱᱠᱩ (ᱩᱱᱤ ᱨᱮᱱᱟᱜ ᱥᱟᱝᱜᱷᱟᱨ) ᱠᱚ ᱞᱟᱦᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Ve (unakī yātrā) jārī rakha sakate haiṃ"
+],
+"I can not eat": [
+"ᱤᱧ ᱵᱟᱹᱧ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Maiṃ nahīṃ khā sakatā"
+],
+"He can not sing": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱥᱮᱨᱮᱧ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Vaha gā nahīṃ sakatā"
+],
+"She could not dance": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱮᱱᱮᱡ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ",
+"Vaha nahīṃ khela sakā"
+],
+"You(plural) could not eat mango": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱢᱮᱸᱜᱟ ᱵᱟᱢ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Āpa (adhikāṃśa) āma nahīṃ khā sakate"
+],
+"You(plural) could not eat chutney": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ) ᱪᱟᱴᱱᱤ ᱵᱟᱢ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Āpa (adhikāṃśa) saॉsa nahīṃ khā sakate"
+],
+"They will not be able to move": [
+"ᱩᱱᱠᱩ ᱵᱟᱠᱚ ᱥᱟᱦᱟᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Ve dūra nahīṃ jā sakate"
+],
+"I can play cricket": [
+"ᱤᱧ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Maiṃ krikeṭa khela sakatā hūṃ"
+],
+"I could play cricket": [
+"ᱤᱧ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Maiṃ krikeṭa khela sakatā hūṃ"
+],
+"I will be able to play cricket": [
+"ᱤᱧ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱹᱧ",
+"Maiṃ krikeṭa khela sakatā hūṃ"
+],
+"He can eat mangoes": [
+"ᱩᱱᱤ ᱟᱹᱢᱩ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha āma khā sakatā hai"
+],
+"He could eat mangoes": [
+"ᱩᱱᱤ ᱫᱚ ᱢᱮᱸᱜᱮ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha āma khā sakatā hai."
+],
+"He will be able to eat mangoes": [
+"ᱩᱱᱤ ᱫᱚ ᱢᱮᱸᱜᱮ ᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha āma khā sakatā hai."
+],
+"They could open box": [
+"ᱩᱱᱠᱩ ᱵᱟᱠᱚᱥ ᱠᱚ ᱡᱷᱤᱡ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Ve baksā khola sakate haiṃ."
+],
+"They could open bag": [
+"ᱩᱱᱠᱩ ᱵᱮᱜᱽ ᱠᱚ ᱡᱷᱤᱡ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Ve baiga khola sakate haiṃ."
+],
+"They could speak": [
+"ᱩᱱᱠᱩ ᱠᱚ ᱨᱚᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Ve bāta kara sakate haiṃ"
+],
+"They gathered to speak": [
+"ᱩᱱᱠᱩ ᱨᱚᱯᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱡᱟᱣᱨᱟ ᱞᱮᱱᱟ",
+"Ve bāta karane ke lie ekatra hue"
+],
+"I want mango": [
+"ᱤᱧ ᱢᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Mujhe maima cāhie"
+],
+"He wants mango": [
+"ᱩᱱᱤ ᱢᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟᱭ",
+"Vaha mema ko cāhatā hai"
+],
+"She wants mango": [
+"ᱩᱱᱤ ᱢᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟᱭ",
+"Vaha mema ko cāhatā hai"
+],
+"I/He/She want mangoes": [
+"ᱤᱧ/ᱩᱱᱤ/ᱩᱱᱤ ᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟᱭ",
+"Maiṃ/vaha/vaha ema cāhatā/cāhatī hai"
+],
+"He/She/They want chalk": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱪᱚᱠ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use cāka cāhie"
+],
+"He/She/They want chalks": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱪᱚᱠ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use cāka cāhie"
+],
+"He/She/They want bag": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱵᱮᱜᱽ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use baiga cāhie/cāhie"
+],
+"He/She/They want bags": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱵᱮᱜᱽ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use baiga cāhie/cāhie"
+],
+"He/She/They want page": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱥᱟᱦᱴᱟ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Vaha/ve peja cāhate haiṃ/cāhatī haiṃ"
+],
+"He/She/They want pages": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱥᱟᱦᱴᱟ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Vaha/ve peja cāhate haiṃ/cāhatī haiṃ"
+],
+"He/She/They wanted chalk": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱪᱚᱠ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use cāka cāhie"
+],
+"He/She/They wanted chalks": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱪᱚᱠ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use cāka cāhie"
+],
+"He/She/They wanted bag": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱵᱮᱜᱽ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use baiga cāhie/cāhie"
+],
+"He/She/They wanted bags": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱵᱮᱜᱽ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use baiga cāhie/cāhie"
+],
+"He/She/They wanted page": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱥᱟᱦᱴᱟ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Vaha/ve peja cāhate haiṃ/cāhatī haiṃ"
+],
+"He/She/They wanted pages": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱥᱟᱦᱴᱟ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Vaha/ve peja cāhate haiṃ/cāhatī haiṃ"
+],
+"He/She/They will need chalk": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱪᱚᱠ ᱠᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use cāka kī jarūrata hai"
+],
+"He/She/They will need chalks": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱪᱚᱠ ᱠᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use cāka kī jarūrata hai"
+],
+"He/She/They will need bag": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱵᱮᱜᱽ ᱠᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use baiga kī jarūrata hai"
+],
+"He/She/They will need bags": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱵᱮᱜᱽ ᱠᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use baiga kī jarūrata hai"
+],
+"He/She/They will need page": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱥᱟᱦᱴᱟ ᱠᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use/use pṛṣṭhoṃ kī āvaśyakatā hai"
+],
+"He/She/They will need pages": [
+"ᱩᱱᱤ/ᱩᱱᱤ/ᱩᱱᱠᱩ ᱥᱟᱦᱴᱟ ᱠᱚ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use/use pṛṣṭhoṃ kī āvaśyakatā hai"
+],
+"I do not want mango": [
+"ᱤᱧ ᱢᱮᱢᱚ ᱵᱟᱹᱧ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Mujhe memo nahīṃ cāhie"
+],
+"She will not want bag": [
+"ᱩᱱᱤ ᱵᱮᱜᱽ ᱵᱟᱭ ᱠᱷᱚᱡᱚᱜᱼᱟ",
+"Use baiga nahīṃ cāhie."
+],
+"He did not want chalk": [
+"ᱩᱱᱤ ᱪᱚᱠ ᱵᱟᱭ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use cāka nahīṃ cāhie"
+],
+"He did not want bag": [
+"ᱩᱱᱤ ᱵᱮᱜᱽ ᱵᱟᱭ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use baiga nahīṃ cāhie."
+],
+"She does not want ice cream": [
+"ᱩᱱᱤ ᱟᱭᱤᱥᱠᱨᱤᱢ ᱵᱟᱭ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Use āisakrīma nahīṃ cāhie."
+],
+"What will happen?": [
+"ᱪᱮᱫ ᱦᱩᱭᱩᱜᱼᱟ?",
+"Kyā ho jāegā?"
+],
+"What is happening?": [
+"ᱪᱮᱫ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ?",
+"Kyā cala rahā hai?"
+],
+"It did not happen": [
+"ᱱᱚᱣᱟ ᱵᱟᱝ ᱦᱩᱭ ᱟᱠᱟᱱᱟ",
+"Aisā nahīṃ huā."
+],
+"I will become winner": [
+"ᱤᱧ ᱡᱤᱛᱠᱟᱹᱨᱤᱡᱤᱧ ᱦᱩᱭᱩᱜᱼᱟ",
+"Maiṃ vijetā banūṃgā"
+],
+"It was happening": [
+"ᱱᱚᱣᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ",
+"Aisā ho rahā thā"
+],
+"He will become mad": [
+"ᱩᱱᱤ ᱯᱟᱜᱽᱞᱟ ᱦᱩᱭᱩᱜᱼᱟᱭ",
+"Vaha pāgala ho jāegā"
+],
+"He should have eaten mango": [
+"ᱩᱱᱤ ᱫᱚ ᱢᱮᱸᱜᱮ ᱡᱚᱢ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱛᱟᱭᱟ",
+"Use eka āma khānā cāhie thā."
+],
+"He should have eaten tamarind": [
+"ᱩᱱᱤ ᱫᱚ ᱛᱟᱢᱞᱟ ᱡᱚᱢ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱛᱟᱭᱟ",
+"Use tamālā khānā cāhie thā"
+],
+"He should eat mango": [
+"ᱩᱱᱤ ᱫᱚ ᱢᱮᱸᱜᱮ ᱡᱚᱢ ᱞᱟᱹᱠᱛᱤᱭᱟᱭ",
+"Unheṃ āma khānā cāhie"
+],
+"He should go": [
+"ᱩᱱᱤ ᱥᱮᱱᱚᱜ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ",
+"Use jānā cāhie"
+],
+"He should have gone": [
+"ᱩᱱᱤ ᱪᱟᱞᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱛᱟᱦᱮᱸ ᱠᱟᱱ ᱛᱟᱭᱟ",
+"Use jānā cāhie thā"
+],
+"I should speak": [
+"ᱤᱧ ᱨᱚᱲ ᱦᱩᱭᱩᱜ ᱛᱤᱧᱟ",
+"Mujhe bolanā hai"
+],
+"I should have spoken": [
+"ᱤᱧ ᱨᱚᱲ ᱞᱟᱹᱠᱛᱤ ᱛᱟᱦᱮᱸ ᱠᱟᱱ ᱛᱤᱧᱟ",
+"Mujhe bolanā cāhie thā"
+],
+"They should dance": [
+"ᱩᱱᱠᱩ ᱮᱱᱮᱡ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ",
+"Unheṃ khelanā cāhie"
+],
+"They should not dance": [
+"ᱩᱱᱠᱩ ᱵᱟᱠᱚ ᱮᱱᱮᱡ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Unheṃ nahīṃ khelanā cāhie"
+],
+"They should have danced": [
+"ᱩᱱᱠᱩ ᱮᱱᱮᱡ ᱞᱟᱹᱠᱛᱤ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Unheṃ khelanā thā"
+],
+"They should not have danced": [
+"ᱩᱱᱠᱩ ᱵᱟᱝ ᱮᱱᱮᱡ ᱞᱟᱹᱠᱛᱤ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Unheṃ nahīṃ khelanā cāhie thā"
+],
+"You should play": [
+"ᱟᱢ ᱠᱷᱮᱞᱚᱜ ᱞᱟᱹᱠᱛᱤᱭᱟᱢᱟ",
+"Tumheṃ khelanā cāhie"
+],
+"You should not play": [
+"ᱟᱢ ᱵᱟᱝ ᱠᱷᱮᱞᱚᱜ ᱞᱟᱹᱠᱛᱤᱭᱟᱢᱟ",
+"Tumheṃ nahīṃ khelanā cāhie"
+],
+"You should have played": [
+"ᱟᱢ ᱠᱷᱮᱞᱚᱜ ᱞᱟᱹᱠᱛᱤ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Tumheṃ khelanā cāhie thā"
+],
+"You should not have smiled": [
+"ᱟᱢ ᱵᱟᱝ ᱞᱟᱱᱫᱟ ᱞᱟᱹᱠᱛᱤ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Āpako haṃsanā nahīṃ cāhie thā"
+],
+"She should open box": [
+"ᱩᱱᱤ ᱵᱟᱠᱥᱚ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱠᱛᱤᱭᱟᱭ",
+"Use baksā kholanā cāhie"
+],
+"He should eat": [
+"ᱩᱱᱤ ᱡᱚᱢ ᱞᱟᱹᱠᱛᱤᱭᱟᱭ",
+"Use khānā cāhie"
+],
+"You(male) should go": [
+"ᱟᱢ (ᱦᱚᱲ) ᱥᱮᱱᱚᱜ ᱞᱟᱹᱠᱛᱤᱭᱟᱢᱟ",
+"Tumheṃ (ādamī ko) jānā cāhie"
+],
+"You(male) should eat mango": [
+"ᱟᱢ (ᱦᱮᱨᱮᱞ) ᱢᱮᱸᱜᱮ ᱡᱚᱢ ᱞᱟᱹᱠᱛᱤᱭᱟᱢᱟ",
+"Āpako (puruṣa) āma khānā cāhie"
+],
+"He should not go": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱪᱟᱞᱟᱣ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use nahīṃ jānā cāhie"
+],
+"She should not open box": [
+"ᱩᱱᱤ ᱵᱟᱠᱚᱥ ᱵᱟᱭ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use baksā nahīṃ kholanā cāhie"
+],
+"He should not eat": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱡᱚᱢ ᱞᱟᱹᱠᱛᱤᱭᱟ",
+"Use nahīṃ khānā cāhie"
+],
+"He should eat tamarind": [
+"ᱩᱱᱤ ᱫᱚ ᱛᱟᱢᱞᱟ ᱡᱚᱢ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ",
+"Use tamālā khānā cāhie"
+],
+"She should write letter": [
+"ᱩᱱᱤ ᱪᱤᱴᱷᱤ ᱚᱞ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ",
+"Unheṃ eka patra likhanā cāhie."
+],
+"You should eat mango": [
+"ᱟᱢ ᱫᱚ ᱢᱮᱸᱜᱮ ᱡᱚᱢ ᱞᱟᱹᱠᱛᱤᱭᱟᱢᱟ",
+"Āpako āma khānā cāhie"
+],
+"He has to do it every day": [
+"ᱩᱱᱤ ᱱᱚᱣᱟ ᱫᱤᱱᱟᱹᱢ ᱜᱮ ᱠᱚᱨᱟᱣ ᱦᱩᱭᱩᱜ ᱛᱟᱭᱟ",
+"Use yaha hara dina karanā hogā."
+],
+"He will have to do it every day": [
+"ᱩᱱᱤ ᱱᱚᱣᱟ ᱫᱤᱱᱟᱹᱢ ᱜᱮ ᱠᱚᱨᱟᱣ ᱦᱩᱭᱩᱜ ᱛᱟᱭᱟ",
+"Use yaha hara dina karanā hogā."
+],
+"He had to do it every day": [
+"ᱩᱱᱤ ᱫᱚ ᱱᱚᱣᱟ ᱫᱤᱱᱟᱹᱢ ᱜᱮ ᱠᱚᱨᱟᱣ ᱦᱩᱭᱩᱜ ᱛᱟᱭᱟ",
+"Use yaha hara dina karanā hogā"
+],
+"She has to eat mango": [
+"ᱩᱱᱤ ᱢᱮᱢᱚ ᱡᱚᱢ ᱦᱩᱭ ᱟᱭᱟ",
+"Use āma khānā hai"
+],
+"She will have to eat mango": [
+"ᱩᱱᱤ ᱫᱚ ᱢᱮᱸᱜᱟ ᱡᱚᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱭᱟ",
+"Use āma khāne haiṃ"
+],
+"She had to eat mango": [
+"ᱩᱱᱤ ᱢᱮᱢᱚ ᱡᱚᱢ ᱦᱩᱭ ᱟᱠᱟᱱ ᱛᱟᱭᱟ",
+"Use āma khānā thā"
+],
+"She has to eat mangoes": [
+"ᱩᱱᱤ ᱫᱚ ᱢᱮᱸᱜᱟ ᱡᱚᱢ ᱦᱩᱭ ᱟᱭᱟ",
+"Use āma khāne haiṃ."
+],
+"She has to eat tamarind": [
+"ᱩᱱᱤ ᱫᱚ ᱛᱟᱢᱞᱟ ᱡᱚᱢ ᱦᱩᱭ ᱟᱭᱟ",
+"Use tamālā khānā hai"
+],
+"She has to eat tamarinds": [
+"ᱩᱱᱤ ᱫᱚ ᱛᱟᱢᱞᱟ ᱡᱚᱢ ᱦᱩᱭ ᱟᱭᱟ",
+"Use tamālā khānā hai"
+],
+"She has to eat medicine": [
+"ᱩᱱᱤ ᱨᱟᱱ ᱡᱚᱢ ᱦᱩᱭ ᱟᱭᱟ",
+"Use davā lenī hogī."
+],
+"She has to eat medicines": [
+"ᱩᱱᱤ ᱨᱟᱱ ᱠᱚ ᱡᱚᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱭᱟ",
+"Use davā lenī hogī"
+],
+"I have to go": [
+"ᱤᱧ ᱥᱮᱱ ᱦᱩᱭᱩᱜ ᱛᱤᱧᱟ",
+"Muje jānā hai"
+],
+"We have to speak": [
+"ᱟᱵᱚ ᱨᱚᱲ ᱦᱩᱭᱩᱜ ᱛᱟᱵᱚᱱᱟ",
+"Hameṃ bolanā hogā"
+],
+"I keep speaking": [
+"ᱤᱧ ᱨᱚᱲ ᱛᱟᱦᱮᱱ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ bolatā rahatā hūṃ"
+],
+"I kept speaking": [
+"ᱤᱧ ᱨᱚᱲ ᱞᱮᱫᱟ",
+"Maiṃne bāta kī thī"
+],
+"I will keep speaking": [
+"ᱤᱧ ᱨᱚᱲ ᱤᱧ ᱛᱟᱦᱮᱱᱟ",
+"Maiṃ bāta karatā rahūṃgā"
+],
+"You keep speaking": [
+"ᱟᱢ ᱨᱚᱲ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Āpa bolate rahiye"
+],
+"You kept speaking": [
+"ᱟᱢ ᱨᱚᱲ ᱞᱮᱛᱟᱲ ᱮᱢ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Āpa bolate rahe."
+],
+"You will keep speaking": [
+"ᱟᱢ ᱨᱚᱲ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Āpa bolate rahiye"
+],
+"Keep speaking! (Imperative)": [
+"ᱨᱚᱲ ᱛᱟᱦᱮᱱ ᱢᱮ! (ᱞᱟᱹᱠᱛᱤᱭᱟᱱ)",
+"Āge bolo! (upayukta)"
+],
+"He is taller than me": [
+"ᱩᱱᱤ ᱤᱧ ᱠᱷᱚᱱ ᱩᱥᱩᱞ ᱜᱮᱭᱟᱭ",
+"Vaha mujhase laṃbā hai."
+],
+"I am shorter than you": [
+"ᱤᱧ ᱟᱢ ᱠᱷᱚᱱ ᱠᱷᱟᱴᱚ ᱜᱮᱭᱟᱹᱧ",
+"Maiṃ tumase choṭā hū~"
+],
+"They were happier than now": [
+"ᱩᱱᱠᱩ ᱱᱤᱛ ᱠᱷᱚᱱ ᱦᱚᱸ ᱠᱚ ᱨᱟᱹᱥᱠᱟᱹ ᱞᱮᱱᱟ",
+"Ve pahale se kahīṃ adhika khuśa the"
+],
+"He is best": [
+"ᱩᱱᱤ ᱥᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱵᱮᱥ ᱜᱮᱭᱟᱭ",
+"Vaha sabase acchā hai"
+],
+"Everest is the tallest peak": [
+"ᱮᱵᱷᱟᱨᱮᱥᱴ ᱫᱚ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱩᱥᱩᱞ ᱪᱚᱴ ᱠᱟᱱᱟ",
+"Evaresṭa sabase ūṃcī coṭī hai."
+],
+"She was the youngest player": [
+"ᱩᱱᱤ ᱫᱚ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱦᱩᱰᱤᱧ ᱠᱷᱮᱞᱚᱱᱰᱤᱭᱟᱹ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ",
+"Vaha sabase kama umra ke khilār̤ī the"
+],
+"Your voice is loudest of all": [
+"ᱟᱢᱟᱜ ᱟᱲᱟᱝ ᱥᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱜᱮᱭᱟ",
+"Āpakī āvāja sabase ūṃcī hai."
+],
+"Your name is known to me": [
+"ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱤᱧ ᱵᱟᱲᱟᱭᱟᱹᱧ",
+"Maiṃ āpakā nāma jānatā hūṃ"
+],
+"She knows his address": [
+"ᱩᱱᱤ ᱟᱡᱟᱜ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱵᱟᱲᱟᱭᱟᱭ",
+"Vaha usakā patā jānatā hai."
+],
+"She knew his address": [
+"ᱩᱱᱤ ᱟᱡᱟᱜ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱵᱟᱲᱟᱭ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ",
+"Vaha usakā patā jānatā thā|"
+],
+"Do you know it?": [
+"ᱪᱮᱫ ᱟᱢ ᱱᱚᱣᱟᱢ ᱵᱟᱰᱟᱭᱟ?",
+"Kyā āpa yaha jānate haiṃ?"
+],
+"Did she know that?": [
+"ᱪᱮᱫ ᱩᱱᱤ ᱚᱱᱟᱭ ᱵᱟᱰᱟᱭᱟ?",
+"Kyā vaha yaha jānatā hai?"
+],
+"Your name is not known to me": [
+"ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱤᱧ ᱵᱟᱹᱧ ᱵᱟᱰᱟᱭᱟ",
+"Maiṃ āpakā nāma nahīṃ jānatā."
+],
+"She does not know his address": [
+"ᱩᱱᱤ ᱟᱡᱟᱜ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱵᱟᱭ ᱵᱟᱰᱟᱭᱟ",
+"Vaha apanā patā nahīṃ jānatā."
+],
+"She did not know his address": [
+"ᱩᱱᱤ ᱟᱡᱟᱜ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱵᱟᱭ ᱵᱟᱰᱟᱭᱟ",
+"Vaha apanā patā nahīṃ jānatā."
+],
+"Don't you know it?": [
+"ᱟᱢ ᱱᱚᱣᱟ ᱵᱟᱢ ᱵᱟᱰᱟᱭᱟ ?",
+"Āpa yaha nahīṃ jānate?"
+],
+"Didn't she know that?": [
+"ᱩᱱᱤ ᱪᱮᱫ ᱚᱱᱟ ᱵᱟᱭ ᱵᱟᱰᱟᱭᱟ ?",
+"Kyā vaha yaha nahīṃ jānatā?"
+],
+"I know eating cake": [
+"ᱤᱧ ᱠᱮᱠ ᱡᱚᱢ ᱵᱟᱲᱟᱭᱟᱹᱧ",
+"Mujhe patā hai keka kaise khānā hai"
+],
+"I know swimming": [
+"ᱤᱧ ᱯᱟᱭᱨᱟ ᱵᱟᱲᱟᱭᱟᱹᱧ",
+"Mujhe tairanā ātā hai."
+],
+"I know Japanese": [
+"ᱤᱧ ᱡᱟᱯᱟᱱᱤᱡᱽ ᱵᱟᱲᱟᱭᱟᱹᱧ",
+"Maiṃ jāpānī jānatā hūṃ."
+],
+"I know cooking": [
+"ᱤᱧ ᱡᱚᱢᱟᱜ ᱤᱥᱤᱱ ᱵᱟᱲᱟᱭᱟᱹᱧ",
+"Mujhe khānā banānā ātā hai."
+],
+"Do you know playing cricket?": [
+"ᱪᱮᱫ ᱟᱢ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞ ᱮᱢ ᱵᱟᱰᱟᱭᱟ?",
+"Kyā āpa krikeṭa kā khela jānate haiṃ?"
+],
+"I know killing mosquitoes": [
+"ᱤᱧ ᱥᱤᱠᱩ ᱠᱚ ᱜᱚᱡ ᱵᱟᱲᱟᱭᱟᱹᱧ",
+"Mujhe patā hai ki maccharoṃ ko kaise māranā hai"
+],
+"She used to know dancing before": [
+"ᱩᱱᱤ ᱞᱟᱦᱟᱨᱮ ᱮᱱᱮᱡ ᱵᱟᱲᱟᱭ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ",
+"Vaha pahale se hī nṛtya karanā jānate the"
+],
+"They knew to talk": [
+"ᱩᱱᱠᱩ ᱨᱚᱯᱚᱲ ᱠᱚ ᱵᱟᱰᱟᱭᱟ",
+"Ve bāta karanā jānate haiṃ"
+],
+"He learned. So he could speak Japanese": [
+"ᱩᱱᱤ ᱪᱮᱫ ᱮᱱᱟᱭ᱾ ᱚᱱᱟᱛᱮ ᱩᱱᱤ ᱡᱟᱯᱟᱱᱤᱡᱽ ᱨᱚᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Usane sīkha liyā| isalie vaha jāpānī bhāṣā bola sakatā hai"
+],
+"I do not know eating cake": [
+"ᱤᱧ ᱠᱮᱠ ᱡᱚᱢ ᱵᱟᱹᱧ ᱵᱟᱰᱟᱭᱟ",
+"Mujhe nahīṃ patā ki keka kaise khāyā jātā hai."
+],
+"I do not know swimming": [
+"ᱤᱧ ᱯᱟᱭᱨᱟ ᱵᱟᱹᱧ ᱵᱟᱰᱟᱭᱟ",
+"Mujhe tairanā nahīṃ ātā."
+],
+"I do not know Japanese": [
+"ᱤᱧ ᱡᱟᱯᱟᱱᱤᱡᱽ ᱵᱟᱹᱧ ᱵᱟᱰᱟᱭᱟ",
+"Maiṃ jāpānī nahīṃ jānatā|"
+],
+"She did not know dancing before": [
+"ᱩᱱᱤ ᱞᱟᱦᱟ ᱮᱱᱮᱡ ᱵᱟᱭ ᱵᱟᱰᱟᱭ ᱞᱮᱫᱟ",
+"Vaha pahale nṛtya karanā nahīṃ jānatā thā"
+],
+"They did not know to talk": [
+"ᱩᱱᱠᱩ ᱨᱚᱯᱚᱲ ᱵᱟᱠᱚ ᱵᱟᱰᱟᱭᱟ",
+"Ve nahīṃ jānate ki saṃvāda kaise kiyā jāe|"
+],
+"He did not learn. So he could not speak Japanese": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱪᱮᱫ ᱞᱮᱫᱟ ᱾ ᱚᱱᱟᱛᱮ ᱩᱱᱤ ᱡᱟᱯᱟᱱᱤᱡᱽ ᱵᱟᱭ ᱨᱚᱲ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ",
+"Usane nahīṃ sīkhā. isalie vaha jāpānī nahīṃ bolatā"
+],
+"I(boy) know you": [
+"ᱤᱧ (ᱠᱚᱲᱟ) ᱟᱢᱤᱧ ᱵᱟᱰᱟᱭ ᱢᱮᱭᱟ",
+"Maiṃ (lar̤akā) tumheṃ jānatā hūṃ"
+],
+"I(girl) know you": [
+"ᱤᱧ (ᱠᱩᱲᱤ) ᱟᱢᱤᱧ ᱵᱟᱰᱟᱭ ᱢᱮᱭᱟ",
+"Maiṃ (lar̤akī) tumheṃ jānatī hūṃ"
+],
+"You know me": [
+"ᱟᱢᱮᱢ ᱵᱟᱰᱟᱭᱤᱧᱟ",
+"Āpa mujhe jānate haiṃ|"
+],
+"He knows Mr. Ram": [
+"ᱩᱱᱤ ᱢᱟ.ᱱ ᱨᱟᱢ ᱮ ᱵᱟᱰᱟᱭ ᱮᱫᱮᱭᱟ",
+"Vaha śrī rāma ko jānate haiṃ|"
+],
+"Let's not play": [
+"ᱫᱮᱞᱟ ᱟᱞᱚᱵᱚᱱ ᱠᱷᱮᱞᱚᱜᱼᱟ",
+"Calo nā kheleṃ"
+],
+"Let's not go": [
+"ᱫᱮᱞᱟ ᱟᱞᱚᱵᱚᱱ ᱪᱟᱞᱟᱜᱼᱟ",
+"Calo mata jāo"
+],
+"Let's not speak": [
+"ᱫᱮᱞᱟ ᱟᱞᱚᱵᱚᱱ ᱨᱚᱲᱟ",
+"Calie bāta nahīṃ karate"
+],
+"Shall we play cricket? (style 1)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱠᱨᱤᱠᱮᱴ ᱵᱚᱱ ᱠᱷᱮᱞᱟ? (ᱥᱴᱟᱭᱤᱞ ᱑)",
+"Kyā hama krikeṭa kheleṃge? (śailī 1)"
+],
+"Shall we play cricket? (style 2)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱠᱨᱤᱠᱮᱴ ᱵᱚᱱ ᱠᱷᱮᱞᱟ? (ᱥᱴᱟᱭᱤᱞ ᱒)",
+"Kyā hama krikeṭa kheleṃge? (śailī 2)"
+],
+"Shall we watch movie? (style 1)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱯᱷᱤᱞᱤᱢ ᱵᱚᱱ ᱧᱮᱞᱟ? (ᱥᱴᱟᱭᱤᱞ ᱑)",
+"Kyā hama philma dekheṃge? (śailī 1)"
+],
+"Shall we watch movie? (style 2)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱯᱷᱤᱞᱤᱢ ᱵᱚᱱ ᱧᱮᱞᱟ? (ᱥᱴᱟᱭᱤᱞ ᱒)",
+"Kyā hama philma dekheṃge? (śailī 2)"
+],
+"Shall we go home? (style 1)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱚᱲᱟᱜ ᱵᱚᱱ ᱪᱟᱞᱟᱜᱼᱟ? (ᱥᱴᱟᱭᱤᱞ ᱑)",
+"Kyā hama ghara caleṃ? (śailī 1)"
+],
+"Shall we go home? (style 2)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱚᱲᱟᱜ ᱵᱚᱱ ᱪᱟᱞᱟᱜᱼᱟ? (ᱥᱴᱟᱭᱤᱞ ᱒)",
+"Kyā hama ghara caleṃ? (śailī 2)"
+],
+"Shall we eat mango? (style 1)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱢᱮᱸᱜᱮ ᱵᱚᱱ ᱡᱚᱢᱟ? (ᱥᱴᱟᱭᱤᱞ ᱑)",
+"Kyā hameṃ āma khānā cāhie? (śailī 1)"
+],
+"Shall we eat mango? (style 2)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱢᱮᱸᱜᱮ ᱵᱚᱱ ᱡᱚᱢᱟ? (ᱥᱴᱟᱭᱤᱞ ᱒)",
+"Kyā hameṃ āma khānā cāhie? (śailī 2)"
+],
+"Shall we eat tamarind? (style 1)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱛᱟᱢᱟᱨᱤᱱᱰ ᱵᱚᱱ ᱡᱚᱢᱟ? (ᱥᱴᱟᱭᱤᱞ ᱑)",
+"Kyā hama imalī khāyeṃge? (śailī 1)"
+],
+"Shall we eat tamarind? (style 2)": [
+"ᱪᱮᱫ ᱟᱵᱚ ᱛᱟᱢᱟᱨᱤᱱᱰ ᱵᱚᱱ ᱡᱚᱢᱟ? (ᱥᱴᱟᱭᱤᱞ ᱒)",
+"Kyā hama imalī khāyeṃge? (śailī 2)"
+],
+"Let him play": [
+"ᱩᱱᱤ ᱠᱷᱮᱞᱚᱜ ᱢᱮ",
+"Use bajāo"
+],
+"Let me eat": [
+"ᱤᱧ ᱡᱚᱢ ᱚᱪᱚᱭᱤᱧ ᱢᱮ",
+"Mujhe khilāo"
+],
+"Let her speak": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱚᱪᱚᱭᱮᱢ",
+"Use bāta karane do"
+],
+"You all, Let him play": [
+"ᱟᱯᱮ ᱡᱚᱛᱚ ᱦᱚᱲ, ᱩᱱᱤ ᱠᱷᱮᱞᱚᱜ ᱢᱮ",
+"Āpa sabhī, use nibhāyeṃ"
+],
+"You all, Let me eat": [
+"ᱟᱯᱮ ᱡᱚᱛᱚ ᱦᱚᱲ, ᱤᱧ ᱡᱚᱢ ᱚᱪᱚᱭᱤᱧ ᱢᱮ",
+"Tuma saba mujhe khāne do"
+],
+"You all, Let her speak": [
+"ᱟᱯᱮ ᱡᱚᱛᱚ ᱦᱚᱲ, ᱩᱱᱤ ᱨᱚᱲ ᱚᱪᱚ ᱢᱮ",
+"Āpa sabhī, use bolane dījie"
+],
+"Don't let him play": [
+"ᱩᱱᱤ ᱟᱞᱚᱢ ᱠᱷᱮᱞ ᱚᱪᱚᱭᱮᱭᱟ",
+"Use khelane mata do"
+],
+"Don't let me eat": [
+"ᱤᱧ ᱟᱞᱚᱢ ᱡᱚᱢ ᱚᱪᱚᱭᱤᱧᱟ",
+"Mujhe mata khilāo"
+],
+"You all, don't let her speak": [
+"ᱟᱯᱮ ᱡᱚᱛᱚ ᱦᱚᱲ, ᱩᱱᱤ ᱟᱞᱚᱯᱮ ᱨᱚᱲ ᱚᱪᱚᱭᱮᱭᱟ",
+"Tuma saba use bāta mata karane do"
+],
+"You all, don't let me eat": [
+"ᱟᱯᱮ ᱡᱚᱛᱚ ᱦᱚᱲ, ᱤᱧ ᱟᱞᱚᱯᱮ ᱡᱚᱢ ᱚᱪᱚᱭᱤᱧᱟ",
+"Tuma saba, mujhe mata khilāo"
+],
+"I could not understand what you just said": [
+"ᱤᱧ ᱵᱟᱹᱧ ᱵᱩᱡᱷᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱟᱢ ᱱᱤᱛᱚᱜ ᱪᱮᱫ ᱮᱢ ᱞᱟᱹᱭ ᱠᱮᱫᱟ",
+"Mujhe samajha nahīṃ āyā ki āpane abhī kyā kahā"
+],
+"Which fruit you want, show me that": [
+"ᱟᱢ ᱚᱠᱟ ᱡᱚ ᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ, ᱚᱱᱟ ᱩᱫᱩᱜ ᱟᱹᱧ ᱢᱮ",
+"Tumheṃ kauna sā phala cāhie, mujhe dikhāo"
+],
+"When you come I feel happy": [
+"ᱟᱢ ᱡᱚᱠᱷᱚᱱᱮᱢ ᱦᱤᱡᱩᱜᱼᱟ ᱤᱧ ᱠᱩᱥᱤᱧ ᱟᱹᱭᱠᱟᱹᱣᱟ",
+"Jaba tuma āoge to mujhe khuśī hogī."
+],
+"What is in your mind, tell me that": [
+"ᱟᱢᱟᱜ ᱢᱚᱱᱮ ᱨᱮ ᱪᱮᱫ ᱢᱮᱱᱟᱜᱼᱟ, ᱚᱱᱟ ᱞᱟᱹᱭᱟᱹᱧ ᱢᱮ",
+"Mujhe batāo tumhāre mana meṃ kyā hai"
+],
+"When you(girl) come I feel happy": [
+"ᱟᱢ ᱡᱚᱠᱷᱚᱱ (ᱠᱩᱲᱤ)ᱮᱢ ᱦᱤᱡᱩᱜᱼᱟ ᱤᱧ ᱠᱩᱥᱤᱧ ᱟᱹᱭᱠᱟᱹᱣᱟ",
+"Jaba tuma (lar̤akī) āoge to mujhe k͟huśī hogī|”"
+],
+"Go back, the way you have come": [
+"ᱨᱩᱣᱟᱹᱲᱚᱜ ᱢᱮ, ᱟᱢ ᱡᱟᱦᱟᱸ ᱛᱮᱢ ᱦᱮᱡ ᱟᱠᱟᱱᱟ",
+"Jahā~ se āye ho, vahīṃ lauṭa jāo"
+],
+"Give it to him, who wants it": [
+"ᱱᱚᱣᱟ ᱩᱱᱤ ᱮᱢᱟᱭ ᱢᱮ, ᱚᱠᱚᱭ ᱱᱚᱣᱟ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟᱭ",
+"Ise use de do, jo ise cāhatā hai"
+],
+"Tell me about them whom you read about": [
+"ᱤᱧ ᱩᱱᱠᱩ ᱵᱟᱨᱮᱛᱮ ᱞᱟᱹᱭᱟᱹᱧ ᱢᱮ ᱟᱢ ᱚᱠᱚᱭ ᱵᱟᱨᱮᱛᱮᱢ ᱯᱟᱲᱦᱟᱣ ᱟᱠᱟᱫᱟ",
+"Mujhe unake bāre meṃ batāeṃ jinake bāre meṃ āpane par̤hā hai"
+],
+"Wherever you will go I will come": [
+"ᱟᱢ ᱚᱠᱟᱛᱮᱢ ᱪᱟᱞᱟᱜᱼᱟ ᱤᱧ ᱦᱚᱸᱧ ᱦᱤᱡᱩᱜᱼᱟ",
+"Tuma jahā~ bhī jāoge maiṃ ā jāū~gā"
+],
+"Whichever vegetables you want, you buy it": [
+"ᱟᱢ ᱡᱟᱦᱟᱸᱱᱟᱜ ᱩᱛᱩ ᱡᱤᱱᱤᱥ ᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ, ᱟᱢ ᱚᱱᱟ ᱠᱤᱨᱤᱧ ᱢᱮ",
+"Āpako jo bhī sabjī cāhie āpa kharīda lījie"
+],
+"Whenever you call he will answer": [
+"ᱟᱢ ᱡᱟᱦᱟᱸ ᱛᱤᱱᱨᱮᱢ ᱦᱚᱦᱚᱭᱟ ᱩᱱᱤ ᱛᱮᱞᱟᱭ ᱮᱢᱟᱭᱟ",
+"Jaba bhī āpa kaॉla karate haiṃ to vaha uttara detā hai"
+],
+"Do not smoke here": [
+"ᱱᱚᱸᱰᱮ ᱫᱷᱩᱶᱟᱹ ᱟᱞᱚᱢ ᱧᱩᱭᱟ",
+"Yahā~ dhūmrapāna mata karo"
+],
+"Do not use mobile phones": [
+"ᱢᱚᱵᱟᱭᱤᱞ ᱯᱷᱚᱱ ᱟᱞᱚᱢ ᱵᱮᱵᱷᱟᱨᱮᱫ ᱟ",
+"Mobāila phona kā prayoga na kareṃ."
+],
+"Enter your preferences": [
+"ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱚ ᱮᱢ ᱢᱮ",
+"Apanī prāthamikatāe~ darja kareṃ."
+],
+"Write your address": [
+"ᱟᱢᱟᱜ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱞ ᱢᱮ",
+"Apanā patā likho."
+],
+"Write your addresses": [
+"ᱟᱢᱟᱜ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱚᱞ ᱢᱮ",
+"Apanā patā likho."
+],
+"Enter your preference": [
+"ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱮᱢ ᱢᱮ",
+"Apanī pasaṃda darja kareṃ."
+],
+"Speak your name": [
+"ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱨᱚᱲ ᱢᱮ",
+"Apanā nāma bolo|"
+],
+"Speak your names": [
+"ᱟᱯᱮᱭᱟᱜ ᱧᱩᱛᱩᱢ ᱨᱚᱲ ᱢᱮ",
+"Apanā nāma bolo."
+],
+"Do not speak": [
+"ᱟᱞᱚᱢ ᱨᱚᱲᱟ",
+"Bāta mata karo"
+],
+"Do not smoke": [
+"ᱫᱷᱩᱶᱟᱹ ᱟᱞᱚᱢ ᱧᱩᱭᱟ",
+"Dhūmrapāna na kareṃ"
+],
+"Do not cross road here": [
+"ᱱᱚᱸᱰᱮ ᱦᱚᱨ ᱟᱞᱚᱢ ᱯᱟᱨᱚᱢᱚᱜᱼᱟ",
+"Yahāṃ sar̤aka pāra na kareṃ"
+],
+"Do not pluck flowers": [
+"ᱵᱟᱦᱟ ᱟᱞᱚᱢ ᱚᱴᱟᱝᱟ",
+"Phūla mata ur̤āo."
+],
+"I like to eat mango": [
+"ᱤᱧ ᱢᱮᱢᱚ ᱡᱚᱢ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟᱹᱧ",
+"Mujhe āma khānā pasaṃda hai"
+],
+"I like to eat mangoes": [
+"ᱤᱧ ᱮᱢᱚ ᱡᱚᱢ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟᱹᱧ",
+"Mujhe āma khānā pasaṃda hai."
+],
+"He liked to open bag": [
+"ᱩᱱᱤ ᱵᱮᱜᱽ ᱡᱷᱤᱡᱽ ᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ",
+"Use baiga kholanā acchā lagatā thā."
+],
+"He liked to open bags": [
+"ᱩᱱᱤ ᱵᱮᱜᱽ ᱠᱚ ᱡᱷᱤᱡᱽ ᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ",
+"Use baiga kholanā pasaṃda hai."
+],
+"She will like to sing song": [
+"ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧ ᱠᱩᱥᱤᱭᱟᱜᱼᱟᱭ",
+"Use gānā pasaṃda hai"
+],
+"She will like to sing songs": [
+"ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧ ᱠᱩᱥᱤᱭᱟᱜᱼᱟᱭ",
+"Use gānā pasaṃda hai"
+],
+"I do not like to eat mango": [
+"ᱤᱧ ᱢᱮᱢᱚ ᱡᱚᱢ ᱵᱟᱹᱧ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ",
+"Mujhe āma khānā pasaṃda nahīṃ hai."
+],
+"I do not like to eat mangoes": [
+"ᱤᱧ ᱫᱚ ᱟᱹᱢᱩ ᱡᱚᱢ ᱵᱟᱹᱧ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ",
+"Mujhe āma khānā pasaṃda nahīṃ hai."
+],
+"He did not like to open bag": [
+"ᱩᱱᱤ ᱵᱮᱜᱽ ᱡᱷᱤᱡᱽ ᱵᱟᱭ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ",
+"Use baiga kholane se napharata thī."
+],
+"She will not like to sing song": [
+"ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧ ᱵᱟᱭ ᱠᱩᱥᱤᱭᱟᱜᱼᱟ",
+"Use gānā pasaṃda nahīṃ hai"
+],
+"I like to see Kaushik": [
+"ᱤᱧ ᱠᱚᱥᱤᱠ ᱧᱮᱞ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟᱹᱧ",
+"Mujhe kośikāe~ dekhanā pasaṃda hai"
+],
+"He likes to push me": [
+"ᱩᱱᱤ ᱤᱧ ᱛᱷᱚᱠᱟᱣ ᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ",
+"Use mujhe māranā pasaṃda thā."
+],
+"He likes to push her": [
+"ᱩᱱᱤ ᱩᱱᱤ ᱛᱷᱚᱠᱟᱣ ᱮ ᱠᱩᱥᱤᱭᱟᱜᱼᱟ",
+"Vaha use dhakkā denā pasaṃda karatā hai"
+],
+"They will like to hold us": [
+"ᱩᱱᱠᱩ ᱟᱵᱚ ᱥᱟᱵ ᱠᱚ ᱠᱩᱥᱤᱭᱟᱜᱼᱟ",
+"Ve hameṃ pakar̤anā pasaṃda karate haiṃ"
+],
+"Kaushik said that he would eat": [
+"ᱠᱚᱥᱤᱠ ᱢᱮᱱ ᱠᱮᱫᱟᱭ ᱡᱮ ᱩᱱᱤ ᱡᱚᱢᱟᱭ",
+"Kośika ne kahā ki vaha khāegā"
+],
+"I thought I would be late so I would have to run": [
+"ᱤᱧ ᱵᱷᱟᱹᱵᱤ ᱠᱮᱫᱟ ᱤᱧ ᱵᱤᱞᱚᱢᱚᱜᱼᱟ ᱚᱱᱟᱛᱮ ᱤᱧ ᱧᱤᱨ ᱦᱩᱭᱩᱜ ᱛᱤᱧᱟ",
+"Maiṃne socā ki mujhe dera ho jāegī isalie mujhe bhāganā par̤ā"
+],
+"I would love to visit New York": [
+"ᱤᱧ ᱱᱭᱩ ᱭᱚᱨᱠ ᱧᱮᱞ ᱥᱮᱱᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe nyūyaॉrka dekhanā acchā lagegā"
+],
+"We would go, but we are too busy": [
+"ᱟᱞᱮ ᱞᱮ ᱥᱮᱱᱚᱜᱼᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱟᱞᱮ ᱟᱹᱰᱤ ᱵᱤᱡᱤ ᱜᱮᱭᱟ ᱞᱮ",
+"Hama jāyeṃge, lekina hama bahuta vyasta haiṃ"
+],
+"I would not disclose it in any condition": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱡᱟᱦᱟᱱ ᱥᱛᱤᱛᱤ ᱨᱮᱦᱚᱸ ᱵᱟᱹᱧ ᱥᱚᱫᱚᱨᱟ",
+"Maiṃ kisī bhī hālata meṃ isakā jikra nahīṃ karūṃgā"
+],
+"Would you like to drink tea?": [
+"ᱪᱮᱫ ᱟᱢ ᱪᱟ ᱧᱩ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ?",
+"Kyā āpa cāya leṃge?"
+],
+"Would you please help me?": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱪᱮᱫ ᱟᱢ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱹᱧᱟᱢ?",
+"Kyā āpa kṛpayā merī sahāyatā kara sakate haiṃ?"
+],
+"I would suggest you to take this medicine": [
+"ᱤᱧ ᱟᱢ ᱱᱚᱣᱟ ᱨᱟᱱ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱞᱦᱟᱧ ᱮᱢᱟᱢ ᱠᱟᱱᱟ",
+"Merā sujhāva hai ki āpa yaha auṣadhi leṃ"
+],
+"I understand its importance": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱢᱚᱦᱚᱛ ᱵᱩᱡᱷᱟᱹᱣ ᱮᱫᱟᱹᱧ",
+"Maiṃ isakā mahatva samajhatā hūṃ"
+],
+"He understood the logic": [
+"ᱩᱱᱤ ᱞᱚᱡᱤᱠ ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱜᱼᱟᱭ",
+"Vaha tarka samajha gayā"
+],
+"She came to know the news": [
+"ᱩᱱᱤ ᱠᱷᱚᱵᱚᱨ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱡ ᱮᱱᱟᱭ",
+"Use khabara mālūma huī"
+],
+"They will understand your mistakes": [
+"ᱩᱱᱠᱩ ᱟᱢᱟᱜ ᱵᱷᱩᱞ ᱠᱚ ᱵᱩᱡᱷᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Ve āpakī galatiyā~ samajheṃge"
+],
+"Did you understand?": [
+"ᱪᱮᱫ ᱟᱢᱮᱢ ᱵᱩᱡᱷᱟᱹᱣ ᱮᱫᱟ?",
+"Kyā tuma samajha rahe ho?"
+],
+"She does not understand": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱵᱩᱡᱷᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ",
+"Vaha nahīṃ samajhatā"
+],
+"He will not come to know this": [
+"ᱩᱱᱤ ᱱᱚᱣᱟ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱦᱤᱡᱩᱜᱼᱟ",
+"Use isakā patā nahīṃ calegā"
+],
+"You are coming": [
+"ᱟᱢ ᱦᱤᱡᱩᱜ ᱠᱟᱱᱟᱢ",
+"Āpa ā rahe ho"
+],
+"You are coming, aren't you?": [
+"ᱟᱢ ᱦᱤᱡᱩᱜ ᱠᱟᱱᱟᱢ, ᱪᱮᱫ ᱟᱢ ᱵᱟᱝ?",
+"Āpa ā rahe haiṃ, hai nā?"
+],
+"She did not speak": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱨᱚᱲ ᱞᱮᱫᱟ",
+"Vaha bolā nahīṃ"
+],
+"She did not speak, did she?": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱨᱚᱲ ᱞᱮᱫᱟ, ᱪᱮᱫ ᱩᱱᱤ?",
+"Bolā to nahīṃ?"
+],
+"He will do": [
+"ᱩᱱᱤ ᱠᱚᱨᱟᱣᱟᱭ",
+"Vaha karatā hai"
+],
+"He will do, won't he?": [
+"ᱩᱱᱤ ᱠᱚᱨᱟᱣᱟᱭ, ᱪᱮᱫ ᱩᱱᱤ ᱵᱟᱭ ᱠᱚᱨᱟᱣᱟ?",
+"Vaha karatā hai, hai nā?"
+],
+"I remember you": [
+"ᱤᱧ ᱟᱢᱤᱧ ᱩᱭᱦᱟᱹᱨ ᱢᱮᱭᱟ",
+"Mujhe tuma yāda āoge"
+],
+"You remember me": [
+"ᱟᱢ ᱤᱧᱮᱢ ᱩᱭᱦᱟᱹᱨ ᱟᱹᱧᱟ",
+"Tuma mujhe yāda karate ho"
+],
+"We remember Mary": [
+"ᱟᱞᱮ ᱢᱮᱨᱤ ᱞᱮ ᱩᱭᱦᱟᱹᱨ ᱮᱫᱮᱭᱟ",
+"Hameṃ mairī kī yāda ātī hai"
+],
+"Mary remembers us": [
+"ᱢᱮᱨᱤ ᱟᱞᱮᱭ ᱩᱭᱦᱟᱹᱨ ᱟᱞᱮᱭᱟ",
+"Mairī hameṃ yāda rakheṃgī."
+],
+"I remember you (miss)": [
+"ᱤᱧ ᱟᱢᱤᱧ ᱩᱭᱦᱟᱹᱨ ᱢᱮᱭᱟ (ᱫᱤᱥᱟᱹ)",
+"Mujhe tumhārī yāda ātī hai (yādeṃ)"
+],
+"Mary remembered us": [
+"ᱢᱮᱨᱤ ᱟᱞᱮᱭ ᱩᱭᱦᱟᱹᱨ ᱠᱮᱫ ᱞᱮᱭᱟ",
+"Mairī ne hameṃ yāda kiyā."
+],
+"Peter misses his friend": [
+"ᱯᱤᱴᱟᱹᱨ ᱟᱡ ᱨᱮᱱ ᱜᱟᱛᱮ ᱩᱭᱦᱟᱹᱨ ᱮᱫᱮᱭᱟᱭ",
+"Pīṭara ko apane dosta kī yāda ātī hai"
+],
+"She missed her mother a lot": [
+"ᱩᱱᱤ ᱟᱡ ᱟᱭᱳ ᱟᱹᱰᱤ ᱩᱭᱦᱟᱹᱨ ᱟᱫᱮᱭᱟᱭ",
+"Unheṃ apanī māṃ kī bahuta yāda ātī hai."
+],
+"I will remember your favor": [
+"ᱤᱧ ᱟᱢᱟᱜ ᱫᱟᱭᱟ ᱤᱧ ᱩᱭᱦᱟᱹᱨᱟ",
+"Mujhe āpakī dayālutā yāda āegī"
+],
+"He always remembered my advice": [
+"ᱩᱱᱤ ᱤᱧᱟᱜ ᱥᱚᱞᱦᱟ ᱞᱮᱛᱟᱲ ᱜᱮ ᱩᱭᱦᱟᱹᱨ ᱛᱟᱦᱮᱱᱟᱭ",
+"Vaha merī salāha hameśā yāda rakhatā hai"
+],
+"I want to eat mango": [
+"ᱤᱧ ᱢᱮᱢᱚ ᱡᱚᱢ ᱥᱟᱱᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe āma khānā hai"
+],
+"I want to eat mangoes": [
+"ᱤᱧ ᱮᱢᱚ ᱡᱚᱢ ᱥᱟᱱᱟᱹᱧ ᱠᱟᱱᱟ",
+"Mujhe āma khānā hai"
+],
+"He wanted to open bag": [
+"ᱩᱱᱤ ᱵᱮᱜᱽ ᱡᱷᱤᱡᱽ ᱥᱟᱱᱟᱭ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ",
+"Vaha baiga kholanā cāhatī thī."
+],
+"He wanted to open bags": [
+"ᱩᱱᱤ ᱵᱮᱜᱽ ᱠᱚ ᱡᱷᱤᱡᱽ ᱥᱟᱱᱟᱭ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ",
+"Vaha baiga kholanā cāhatī thī"
+],
+"She will want to sing song": [
+"ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧ ᱥᱟᱱᱟᱭᱮ ᱠᱟᱱᱟ",
+"Vaha gānā cāhatā hai"
+],
+"She will want to sing songs": [
+"ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧ ᱥᱟᱱᱟᱭᱮ ᱠᱟᱱᱟ",
+"Vaha gānā cāhatā hai"
+],
+"I wanted to go": [
+"ᱤᱧ ᱥᱮᱱᱚᱜ ᱥᱟᱱᱟᱹᱧ ᱠᱟᱱᱟ",
+"Maiṃ jānā cāhatā hū~"
+],
+"I will want to run": [
+"ᱤᱧ ᱧᱤᱨ ᱥᱟᱱᱟᱹᱧ ᱠᱟᱱᱟ",
+"Maiṃ daur̤anā cāhūṃ"
+],
+"I do not want to eat mango": [
+"ᱤᱧ ᱫᱚ ᱢᱮᱸᱜᱟ ᱡᱚᱢ ᱵᱟᱹᱧ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ",
+"Maiṃ āma nahīṃ khānā cāhatā"
+],
+"He did not want to open bag": [
+"ᱩᱱᱤ ᱵᱮᱜᱽ ᱵᱟᱭ ᱡᱷᱤᱡᱽ ᱥᱟᱱᱟᱭᱮᱫ ᱛᱟᱦᱮᱸᱡ",
+"Vaha baiga kholanā nahīṃ cāhatī thī"
+],
+"She will not want to sing song": [
+"ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱵᱟᱭ ᱥᱮᱨᱮᱧ ᱥᱟᱱᱟᱭᱮᱫᱟ",
+"Vaha gānā nahīṃ cāhatā"
+],
+"Kaushik wants to see Peter": [
+"ᱠᱚᱥᱤᱠ ᱯᱤᱴᱟᱹᱨ ᱧᱮᱞ ᱥᱟᱱᱟᱭᱮ ᱠᱟᱱᱟ",
+"Sela pīṭara ko dekhanā cāhatā hai"
+],
+"Kaushik wants to see him": [
+"ᱠᱚᱥᱤᱠ ᱩᱱᱤ ᱧᱮᱞ ᱥᱟᱱᱟᱭᱮ ᱠᱟᱱᱟ",
+"Sela usase milanā cāhatā hai"
+],
+"Kaushik wants to see you": [
+"ᱠᱚᱥᱤᱠ ᱟᱢ ᱧᱮᱞ ᱥᱟᱱᱟᱭᱮ ᱠᱟᱱᱟ",
+"Sela āpase milanā cāhatā hai"
+],
+"I want you to finish work": [
+"ᱤᱧ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱟᱢ ᱠᱟᱹᱢᱤ ᱪᱟᱵᱟᱭ ᱢᱮ",
+"Maiṃ cāhatā hūṃ ki āpa kāma pūrā kareṃ"
+],
+"She wants me to avoid junk food": [
+"ᱩᱱᱤ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟᱭ ᱤᱧ ᱡᱚᱸᱠ ᱯᱷᱩᱰ ᱠᱷᱚᱱ ᱥᱟᱦᱟᱨᱚᱜ ᱢᱮ",
+"Vaha cāhatī hai ki maiṃ jaṃka phūḍa se paraheja karūṃ"
+],
+"Kaushik wants students to practice more": [
+"ᱠᱚᱥᱤᱠ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟᱭ ᱯᱟᱹᱴᱷᱩᱣᱟᱹ ᱠᱚ ᱟᱨᱦᱚᱸ ᱯᱨᱮᱠᱴᱤᱥ ᱦᱩᱭᱩᱜ ᱢᱟ",
+"Kośika cāhate haiṃ ki chātra adhika abhyāsa kareṃ"
+],
+"Kaushik wanted students to practice more": [
+"ᱠᱚᱥᱤᱠ ᱢᱚᱱᱮ ᱞᱮᱫᱟᱭ ᱯᱟᱹᱴᱷᱩᱣᱟᱹ ᱠᱚ ᱟᱨᱦᱚᱸ ᱯᱨᱮᱠᱴᱤᱥ ᱠᱚ ᱦᱩᱭᱩᱜ ᱢᱟ",
+"Kosika cāhatā hai ki chātra adhika abhyāsa kareṃ"
+],
+"Students want Kaushik to talk slowly": [
+"ᱯᱟᱹᱴᱷᱩᱣᱟᱹ ᱠᱚ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱠᱚᱥᱤᱠ ᱵᱟᱹᱭ ᱵᱟᱹᱭ ᱛᱮ ᱨᱚᱲ ᱢᱟ",
+"Chātra cāhate haiṃ ki kośikā dhīre-dhīre bole"
+],
+"I am supposed to meet him tomorrow": [
+"ᱤᱧ ᱩᱱᱤ ᱥᱟᱶ ᱜᱟᱯᱟ ᱧᱟᱯᱟᱢ ᱦᱩᱭᱩᱜ ᱛᱤᱧᱟ",
+"Mujhe kala usase milanā hai"
+],
+"I am supposed to finish that bottle": [
+"ᱤᱧ ᱚᱱᱟ ᱵᱚᱛᱚᱞ ᱪᱟᱵᱟ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱛᱤᱧᱟ",
+"Mujhe vaha botala k͟hatma kara denī cāhie thī"
+],
+"He is supposed to finish that bottle": [
+"ᱩᱱᱤ ᱚᱱᱟ ᱵᱚᱛᱚᱞ ᱪᱟᱵᱟ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱛᱟᱭᱟ",
+"Use vaha botala k͟hatma karanī thī"
+],
+"She is supposed to finish that bottle": [
+"ᱩᱱᱤ ᱚᱱᱟ ᱵᱚᱛᱚᱞ ᱪᱟᱵᱟ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱛᱟᱭᱟ",
+"Use vaha botala k͟hatma karanī thī"
+],
+"I/He/She was supposed to finish that bottle": [
+"ᱤᱧ/ᱩᱱᱤ/ᱩᱱᱤ ᱚᱱᱟ ᱵᱚᱛᱚᱞ ᱪᱟᱵᱟ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ",
+"Mujhe/use vaha botala k͟hatma kara denī cāhie thī"
+],
+"I/He/She was supposed to finish those bottles": [
+"ᱤᱧ/ᱩᱱᱤ/ᱩᱱᱤ ᱚᱱᱟ ᱵᱚᱛᱚᱞ ᱠᱚ ᱪᱟᱵᱟ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ",
+"Mujhe/use ve botaleṃ k͟hatma kara denī cāhie thīṃ"
+],
+"I am supposed to go there tomorrow": [
+"ᱤᱧ ᱜᱟᱯᱟ ᱚᱱᱰᱮ ᱥᱮᱱᱚᱜ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ",
+"Mujhe kala vahāṃ jānā hai"
+],
+"He is supposed to come tomorrow": [
+"ᱩᱱᱤ ᱜᱟᱯᱟ ᱦᱤᱡᱩᱜ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱ ᱛᱟᱭᱟ",
+"Use kala ānā thā."
+],
+"We could not meet but next time we must meet": [
+"ᱟᱞᱮ ᱵᱟᱞᱮ ᱧᱟᱯᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱫᱚᱥᱟᱨ ᱫᱷᱟᱣ ᱫᱚ ᱧᱟᱯᱟᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱞᱮᱭᱟ",
+"Hama nahīṃ mila sakate lekina agalī bāra milanā cāhie"
+],
+"You must pay me ransom tomorrow itself": [
+"ᱟᱢ ᱜᱟᱯᱟ ᱜᱮ ᱤᱧ ᱯᱷᱩᱨᱜᱟᱹᱞ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ",
+"Tumheṃ kala mujhe chur̤ānā hogā"
+],
+"I get a prize": [
+"ᱤᱧ ᱢᱤᱫ ᱥᱤᱨᱯᱟᱹ ᱧᱟᱢ ᱠᱮᱫᱟᱹᱧ",
+"Mujhe eka upahāra milā"
+],
+"I get 10 prizes": [
+"ᱤᱧ ᱑᱐ ᱥᱤᱨᱯᱟᱹ ᱧᱟᱢ ᱠᱮᱫᱟᱹᱧ",
+"Mujhe 10 puraskāra mile"
+],
+"He gets a prize": [
+"ᱩᱱᱤ ᱢᱤᱫ ᱥᱤᱨᱯᱟᱹ ᱧᱟᱢ ᱠᱮᱫᱟᱭ",
+"Use eka upahāra milā"
+],
+"He gets 10 prizes": [
+"ᱩᱱᱤ ᱑᱐ ᱥᱤᱨᱯᱟᱹ ᱧᱟᱢ ᱠᱮᱫᱟᱭ",
+"Unheṃ 10 puraskāra mile"
+],
+"He got a prize": [
+"ᱩᱱᱤ ᱢᱤᱫ ᱥᱤᱨᱯᱟᱹ ᱧᱟᱢ ᱠᱮᱫᱟᱭ",
+"Use eka upahāra milā"
+],
+"He got 10 prizes": [
+"ᱩᱱᱤ ᱑᱐ ᱥᱤᱨᱯᱟᱹ ᱧᱟᱢ ᱠᱮᱫᱟᱭ",
+"Unheṃ 10 puraskāra mile"
+],
+"I found my wallet under the bed": [
+"ᱤᱧ ᱵᱮᱰ ᱞᱟᱛᱟᱨ ᱨᱮ ᱤᱧᱟᱜ ᱵᱟᱹᱴᱣᱟᱹ ᱧᱟᱢ ᱠᱮᱫᱟᱹᱧ",
+"Mujhe apanā baṭuā bistara ke nīce milā"
+],
+"She became angry": [
+"ᱩᱱᱤ ᱨᱟᱹᱜᱤ ᱮᱱᱟᱭ",
+"Usakī tyorī car̤ha gayī|"
+],
+"He became angry": [
+"ᱩᱱᱤ ᱨᱟᱹᱜᱤ ᱮᱱᱟᱭ",
+"Usakī tyorī car̤ha gayī|"
+],
+"He agrees to this condition": [
+"ᱩᱱᱤ ᱱᱚᱣᱟ ᱥᱚᱨᱛᱚ ᱨᱮ ᱦᱮᱸ ᱢᱮᱱᱟᱭᱟ",
+"Vaha ina śartoṃ se sahamata hai."
+],
+"He agrees to these conditions": [
+"ᱩᱱᱤ ᱱᱚᱶᱟ ᱠᱚ ᱥᱚᱨᱛᱚ ᱨᱮ ᱦᱮᱸ ᱢᱮᱱᱟᱭᱟ",
+"Vaha nimnalikhita śartoṃ se sahamata hai"
+],
+"Finish it off in 10 minutes": [
+"ᱱᱚᱣᱟ ᱑᱐ ᱴᱤᱯᱤᱡ ᱨᱮ ᱪᱟᱵᱟᱭ ᱢᱮ",
+"Ise 10 minaṭa meṃ k͟hatma kareṃ"
+],
+"Do not hesitate. Speak it out": [
+"ᱟᱞᱚᱢ ᱫᱤᱜᱽᱫᱷᱟᱹᱜᱼᱟ᱾ ᱱᱚᱣᱟ ᱵᱟᱦᱨᱮ ᱨᱚᱲ ᱢᱮ",
+"Saṃkoca na kareṃ. ise bolo"
+],
+"Nobody is looking. Just do it": [
+"ᱚᱠᱚᱭ ᱦᱚᱸ ᱵᱟᱠᱚ ᱠᱚᱭᱚᱜ ᱠᱟᱱᱟ ᱾ ᱠᱚᱨᱟᱣ ᱜᱫ ᱢᱮ",
+"Koī nahīṃ dekha rahā hai. ise kara hī ḍālo"
+],
+"I somehow managed to gulp it": [
+"ᱤᱧ ᱪᱮᱫ ᱞᱮᱠᱟ ᱛᱮᱦᱚᱸ ᱱᱚᱣᱟ ᱜᱩᱲᱩᱵ ᱞᱟᱹᱜᱤᱫ ᱤᱧ ᱥᱟᱢᱵᱽᱲᱟᱣ ᱠᱮᱫᱟ",
+"Maiṃ kisī taraha ise rola karane meṃ kāmayāba rahā"
+],
+"He quickly came and read the letter": [
+"ᱩᱱᱤ ᱩᱥᱟᱹᱨᱟ ᱜᱮ ᱦᱮᱡ ᱮᱱᱟᱭ ᱟᱨ ᱪᱤᱴᱷᱤ ᱯᱟᱲᱦᱟᱣ ᱠᱮᱫᱟᱭ",
+"Vaha jaldī se āyā aura patra par̤hā"
+],
+"Ask whatever you want; right now": [
+"ᱟᱢ ᱡᱟᱦᱟᱸᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ ᱚᱱᱟ ᱠᱩᱞᱤᱭᱮᱢ; ᱱᱤᱛ ᱜᱮ",
+"Āpako jo cāhie, use māṃgeṃ; hāla hī meṃ"
+],
+"You may call me whatever you want": [
+"ᱟᱢ ᱡᱟᱦᱟᱸᱱᱟᱜ ᱜᱮᱢ ᱦᱚᱦᱚ ᱫᱟᱲᱮᱭᱟᱹᱧᱟ",
+"Āpa mujhe kucha bhī kaॉla kara sakate haiṃ"
+],
+"Get that work done by him": [
+"ᱚᱱᱟ ᱠᱟᱹᱢᱤ ᱩᱱᱤ ᱦᱚᱛᱮᱛᱮ ᱯᱩᱨᱟᱹᱣ ᱚᱪᱚ ᱢᱮ",
+"Vaha kāma usase karavāyā jāye"
+],
+"I made her take exercise every day": [
+"ᱤᱧ ᱩᱱᱤ ᱫᱤᱱᱟᱹᱢ ᱜᱮ ᱵᱮᱭᱟᱢ ᱚᱪᱚ ᱞᱮᱫᱮᱭᱟᱹᱧ",
+"Maiṃne use hara dina vyāyāma karāyā"
+],
+"I washed clothes very hard": [
+"ᱤᱧ ᱞᱩᱜᱽᱲᱤ ᱟᱹᱰᱤ ᱠᱮᱴᱮᱡ ᱛᱮ ᱟᱹᱨᱩᱵ ᱠᱮᱫᱟᱹᱧ",
+"Maiṃne bahuta mehanata se kapar̤e dhoye"
+],
+"Batsman hit every ball very hard": [
+"ᱵᱮᱴᱥᱢᱮᱱ ᱥᱟᱱᱟᱢ ᱵᱚᱞ ᱟᱹᱰᱤ ᱠᱮᱴᱮᱡ ᱮ ᱫᱟᱞ ᱠᱮᱫᱟ",
+"Ballebāja ne hara geṃda para joradāra prahāra kiyā"
+],
+"I just told him we drank liquor": [
+"ᱤᱧ ᱩᱱᱤ ᱢᱮᱛᱟ ᱟᱫᱮᱭᱟᱹᱧ ᱟᱞᱮ ᱧᱩ ᱞᱮ ᱧᱩ ᱠᱮᱫᱟ",
+"Maiṃne usase kahā ki hamane śarāba pī hai"
+],
+"Oh my God! What have I done!": [
+"ᱮ ᱪᱟᱸᱫᱳ ᱵᱚᱸᱜᱟ! ᱤᱧ ᱪᱮᱫ ᱤᱧ ᱪᱤᱠᱟᱹ ᱠᱮᱫᱟ!",
+"Rabbā be! maine kyā ki!"
+],
+"Now keep crying": [
+"ᱱᱤᱛᱚᱜ ᱨᱟᱜ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Aba rote raho"
+],
+"She will search it forever": [
+"ᱩᱱᱤ ᱱᱚᱣᱟ ᱞᱮᱛᱟᱲ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱱᱛᱮᱭᱟᱭ",
+"Vaha ise hameśā ke lie khojegā"
+],
+"I forgot to tell you": [
+"ᱤᱧ ᱟᱢ ᱞᱟᱹᱭ ᱦᱤᱲᱤᱧ ᱠᱮᱫᱟᱹᱧ",
+"Maiṃ tumheṃ batānā bhūla gayā"
+],
+"She could not see the sign": [
+"ᱩᱱᱤ ᱪᱤᱱᱦᱟᱹ ᱵᱟᱭ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ",
+"Vaha niśāna nahīṃ dekha sakā."
+],
+"Start following my advice": [
+"ᱤᱧᱟᱜ ᱥᱚᱞᱦᱟ ᱯᱟᱧᱡᱟ ᱮᱦᱚᱵ ᱢᱮ",
+"Merī salāha kā pālana karanā śurū kareṃ"
+],
+"If you had taken exercise every day then": [
+"ᱡᱩᱫᱤ ᱟᱢ ᱫᱤᱱᱟᱹᱢ ᱜᱮ ᱵᱮᱭᱟᱢ ᱦᱟᱛᱟᱣ ᱠᱚᱜ ᱠᱷᱟᱱ",
+"Yadi āpa pratidina vyāyāma karate haiṃ"
+],
+"I was about to open the door when I saw": [
+"ᱤᱧ ᱫᱩᱣᱟᱹᱨ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱹᱧ ᱡᱚᱠᱷᱚᱱ ᱤᱧ ᱧᱮᱞ ᱠᱮᱫᱟ",
+"Maiṃ daravāzā kholane hī vālā thā ki maiṃne dekhā"
+],
+"If we think of eating mango then": [
+"ᱡᱩᱫᱤ ᱟᱵᱚ ᱢᱮᱸᱜᱟ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱱ ᱩᱭᱦᱟᱹᱨᱟ ᱮᱱᱠᱷᱟᱱ",
+"Agara hama āma khāne ke bāre meṃ socate haiṃ"
+],
+"If he decides to take revenge": [
+"ᱡᱩᱫᱤ ᱩᱱᱤ ᱦᱟᱞᱟ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱤᱪᱟᱹᱨ ᱮᱫᱟᱭ",
+"Agara vaha badalā lene kā phaisalā karatā hai"
+],
+"Give him your information": [
+"ᱩᱱᱤ ᱟᱢᱟᱜ ᱵᱤᱵᱨᱚᱬ ᱮᱢᱟᱭ ᱢᱮ",
+"Use apanā vivaraṇa deṃ."
+],
+"Keep tea ready": [
+"ᱪᱟ ᱥᱟᱯᱲᱟᱣ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ",
+"Cāya taiyāra hai"
+],
+"We have booked tickets": [
+"ᱟᱞᱮ ᱴᱤᱠᱤᱴ ᱞᱮ ᱵᱩᱠ ᱟᱠᱟᱫᱟ",
+"Hamane ṭikaṭa buka kiye"
+],
+"I had already given my password": [
+"ᱤᱧ ᱤᱧᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱞᱟᱦᱟᱨᱮ ᱮᱢ ᱠᱮᱫᱟᱹᱧ",
+"Maiṃne apanā pāsavarḍa pahale hī de diyā thā"
+],
+"I have decided plan for tonight": [
+"ᱤᱧ ᱛᱮᱦᱮᱧ ᱧᱤᱫᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱯᱞᱟᱱ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱟᱠᱟᱫᱟᱹᱧ",
+"Maiṃne āja rāta ke lie eka yojanā taya kara lī hai"
+],
+"He happened to say he was from India": [
+"ᱩᱱᱤ ᱢᱮᱱ ᱠᱮᱫᱟᱭ ᱩᱱᱤ ᱫᱚ ᱵᱷᱟᱨᱚᱛ ᱨᱮᱱ ᱠᱟᱱᱟᱭ",
+"Unhoṃne kahā ki vaha bhārata se haiṃ"
+],
+"I happened to hear about strike": [
+"ᱤᱧ ᱥᱴᱨᱟᱭᱤᱠ ᱵᱟᱨᱮᱛᱮ ᱟᱸᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱷᱚᱴᱱᱟ ᱞᱮᱱᱟᱹᱧ",
+"Mujhe har̤atāla ke bāre meṃ sunane ko milā"
+],
+"Hey! When did you come?": [
+"ᱡᱚᱦᱟᱨ! ᱟᱢ ᱛᱤᱱ ᱨᱮᱢ ᱦᱮᱡ ᱞᱮᱱᱟ?",
+"Namaste! jaba tuma āe?"
+],
+"Nice smell / Very tasty": [
+"ᱪᱮᱦᱨᱟ ᱥᱚ / ᱟᱹᱰᱤ ᱥᱤᱵᱤᱞ",
+"Suṃdara gaṃdha / bahuta svādiṣṭa"
+],
+"Oh my God! Who did this?": [
+"ᱮ ᱪᱟᱸᱫᱳ ᱵᱚᱸᱜᱟ! ᱱᱚᱣᱟ ᱚᱠᱚᱭ ᱠᱚᱨᱟᱣ ᱠᱮᱫᱟᱭ?",
+"Rabbā be! kisane kiyā yaha?"
+],
+"Oh! He failed!": [
+"ᱚᱷ! ᱩᱱᱤ ᱦᱟᱨᱟᱣ ᱮᱱᱟᱭ!",
+"Oha! usane kho diyā hai!"
+],
+"No! He will never do it": [
+"ᱵᱟᱝ! ᱩᱱᱤ ᱱᱚᱣᱟ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱭ ᱠᱚᱨᱟᱣᱟ",
+"Nahīṃ! vaha aisā kabhī nahīṃ karegā."
+],
+"No! I do not believe": [
+"ᱵᱟᱝ! ᱤᱧ ᱵᱟᱹᱧ ᱯᱟᱹᱛᱭᱟᱹᱣᱟ",
+"Nahīṃ! maiṃ viśvāsa nahīṃ karatā"
+],
+"Yes! I will surely come": [
+"ᱦᱤ ᱦᱮᱸ! ᱤᱧ ᱫᱚ ᱯᱟᱹᱛᱤᱭᱟᱹᱣ ᱜᱮᱧ ᱦᱤᱡᱩᱜᱼᱟ",
+"Hā~! maiṃ jarūra āūṃgā"
+],
+"Hmm! I got it": [
+"ᱦᱢᱢ! ᱤᱧ ᱧᱟᱢ ᱠᱮᱫᱟᱹᱧ",
+"Hamma! mujhe mila gayā"
+],
+"Well done! You won": [
+"ᱟᱫᱤ ᱵᱦᱟᱜᱮ! ᱟᱢᱮᱢ ᱡᱤᱛᱠᱟᱹᱨ ᱮᱱᱟ",
+"Bahuta acchā! āpa jīte"
+],
+"Mummy! It is paining": [
+"ᱜᱚᱜᱚ! ᱱᱚᱣᱟ ᱫᱚ ᱦᱟᱹᱥᱩ ᱠᱟᱱᱟ",
+"Mā~! yaha darda hai"
+],
+"Yuck! It looks ugly": [
+"ᱭᱩᱠ! ᱱᱚᱣᱟ ᱫᱚ ᱵᱟᱝ ᱵᱮᱥ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ",
+"Hā~! yaha acchā nahīṃ lagatā"
+],
+"I spit on your cowardice": [
+"ᱤᱧ ᱟᱢᱟᱜ ᱯᱟᱜᱽᱞᱟ ᱪᱮᱛᱟᱱ ᱨᱮ ᱛᱷᱩᱠᱟᱹ ᱠᱮᱫᱟᱹᱧ",
+"Maiṃ tumhāre pāgalapana para thūkatā hū~"
+],
+"Shhh! Keep quiet": [
+"ᱥᱥᱥ! ᱛᱷᱤᱨ ᱛᱟᱦᱮᱱ ᱢᱮ",
+"Śaśa! cupa raho|"
+],
+"How well you danced!": [
+"ᱟᱢ ᱛᱤᱱᱟᱹᱜ ᱵᱮᱥ ᱮᱢ ᱮᱱᱮᱡ ᱞᱮᱱᱟ!",
+"Āpane kitanā acchā khelā!"
+],
+"What a fool he is!": [
+"ᱩᱱᱤ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱢᱩᱨᱩᱠ ᱠᱟᱱᱟᱭ!",
+"Vaha kitanā mūrkha hai!"
+],
+"Oh! What happened then?": [
+"ᱚᱷ! ᱛᱚᱵᱮ ᱪᱮᱫ ᱦᱩᱭᱮᱱᱟ?",
+"Oha! to kyā huā?"
+],
+"Oh! When did you come?": [
+"ᱚᱷ! ᱟᱢ ᱛᱤᱱ ᱨᱮᱢ ᱦᱮᱡ ᱞᱮᱱᱟ?",
+"Oha! jaba tuma āe?"
+],
+"Someone may see it! (blush)": [
+"ᱡᱟᱦᱟᱸᱭ ᱠᱚ ᱱᱚᱣᱟ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ! (ᱞᱟᱡᱟᱣ)",
+"Koī ise dekha sakatā hai! (śarmīlā)"
+],
+"May I come": [
+"ᱤᱧ ᱦᱤᱡᱩᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Maiṃ ā sakatā hūṃ"
+],
+"May I go": [
+"ᱤᱧ ᱥᱮᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Maiṃ jā sakatā hūṃ"
+],
+"May we come": [
+"ᱟᱞᱮ ᱦᱤᱡᱩᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Hama ā sakate haiṃ"
+],
+"May we go": [
+"ᱟᱞᱮ ᱥᱮᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Hama jā sakate haiṃ"
+],
+"May we speak": [
+"ᱟᱞᱮ ᱨᱚᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱞᱮ",
+"Hama bāta kara sakate haiṃ"
+],
+"May you come": [
+"ᱟᱢ ᱦᱤᱡᱩᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ",
+"Āpa ā sakate haiṃ"
+],
+"May you speak": [
+"ᱟᱢ ᱨᱚᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ",
+"Āpa bola sakate haiṃ"
+],
+"May he tell": [
+"ᱩᱱᱤ ᱞᱟᱹᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha batā sakatā hai"
+],
+"Can I tell": [
+"ᱪᱮᱫ ᱤᱧ ᱞᱟᱹᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Mujhe kyā kahanā cāhie"
+],
+"Can I write": [
+"ᱪᱮᱫ ᱤᱧ ᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Kyā maiṃ likha sakatā hū~"
+],
+"May you give pen": [
+"ᱟᱢ ᱠᱚᱞᱚᱢ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Āpa pena de sakate haiṃ"
+],
+"Please give pen": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱠᱚᱞᱚᱢ ᱮᱢᱚᱜ ᱢᱮ",
+"Kṛpayā kalama upalabdha karāyeṃ"
+],
+"Please tell address": [
+"ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱞᱟᱹᱭ ᱢᱮ",
+"Kṛpayā patā batāeṃ"
+],
+"He may go": [
+"ᱩᱱᱤ ᱥᱮᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha jā sakatā hai"
+],
+"I may sing": [
+"ᱤᱧ ᱥᱮᱨᱮᱧ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Maiṃ gā sakatā hūṃ"
+],
+"He might come": [
+"ᱩᱱᱤ ᱦᱤᱡᱩᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha ā sakatā hai"
+],
+"He might have gone yesterday": [
+"ᱩᱱᱤ ᱦᱚᱞᱟ ᱪᱟᱞᱟᱣ ᱞᱮᱱᱟᱭ",
+"Vaha kala calā gayā."
+],
+"She might have completed it": [
+"ᱩᱱᱤ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱱᱚᱣᱟᱭ ᱯᱩᱨᱟᱹᱣ ᱠᱮᱭᱟ",
+"Ho sakatā hai usane ise pūrā kara liyā ho."
+],
+"They might have returned yesterday": [
+"ᱩᱱᱠᱩ ᱦᱚᱞᱟ ᱠᱚ ᱨᱩᱣᱟᱹᱲ ᱞᱮᱱᱟ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ",
+"Ho sakatā hai ve kala vāpasa āye hoṃ|"
+],
+"He had gone": [
+"ᱩᱱᱤ ᱥᱮᱱ ᱞᱮᱱᱟᱭ",
+"Vaha gayā"
+],
+"He might have gone": [
+"ᱩᱱᱤ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱪᱟᱞᱟᱣ ᱞᱮᱱᱟᱭ",
+"Ho sakatā hai vaha calā gayā ho"
+],
+"She had said": [
+"ᱩᱱᱤ ᱢᱮᱱ ᱞᱮᱫᱟᱭ",
+"Unhoṃne kahā thā"
+],
+"She might have said": [
+"ᱩᱱᱤ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱢᱮᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ",
+"Vaha aisā kaha sakatā hai"
+],
+"You have eaten mango": [
+"ᱟᱢ ᱢᱮᱢ ᱡᱚᱢ ᱠᱮᱫᱟᱢ",
+"Āpane āma khāyā"
+],
+"You might have eaten mango": [
+"ᱟᱢ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱢᱮᱸᱜᱮᱢ ᱡᱚᱢ ᱟᱠᱟᱫᱟ",
+"Āpane āma to khāye hī hoṃge."
+],
+"The day I like": [
+"ᱡᱟᱦᱟᱸ ᱫᱤᱱ ᱤᱧ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱱᱟ",
+"Ve dina jo mujhe pasaṃda haiṃ"
+],
+"Boy who is giving": [
+"ᱠᱚᱲᱟ ᱚᱠᱚᱭ ᱮᱢᱚᱜ ᱠᱟᱱᱟᱭ",
+"Vaha ādamī jo detā hai"
+],
+"Person who is dancing": [
+"ᱦᱚᱲ ᱡᱟᱦᱟᱸᱭ ᱮᱱᱮᱡ ᱠᱟᱱᱟᱭ",
+"Vaha vyakti jo nācatā ho"
+],
+"Pot on table": [
+"ᱴᱮᱵᱩᱞ ᱨᱮ ᱜᱟᱹᱰᱤ",
+"Meja para bartana"
+],
+"Jar on table": [
+"ᱴᱮᱵᱩᱞ ᱨᱮ ᱡᱟᱨ",
+"Meja para jāra"
+],
+"Leaf on table": [
+"ᱴᱮᱵᱩᱞ ᱨᱮ ᱥᱟᱠᱟᱢ",
+"Meja meṃ chor̤a detā hai"
+],
+"Gift inside box": [
+"ᱵᱟᱠᱥᱚ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱥᱤᱨᱯᱟᱹ",
+"Baॉksa ke aṃdara upahāra"
+],
+"Area outside my home": [
+"ᱤᱧᱟᱜ ᱚᱲᱟᱜ ᱵᱟᱦᱨᱮ ᱨᱮᱭᱟᱜ ᱴᱚᱴᱷᱟ",
+"Mere ghara ke bāhara kā kṣetra"
+],
+"I make him say": [
+"ᱤᱧ ᱩᱱᱤ ᱢᱮᱱ ᱚᱪᱚ ᱞᱮᱫᱮᱭᱟᱹᱧ",
+"Maiṃne usase kahalavāyā"
+],
+"I will make him say": [
+"ᱤᱧ ᱩᱱᱤ ᱢᱮᱱ ᱚᱪᱚ ᱟᱭᱟᱹᱧ",
+"Maiṃ use kahane dū~gā"
+],
+"I made him say": [
+"ᱤᱧ ᱩᱱᱤ ᱢᱮᱱ ᱚᱪᱚ ᱠᱮᱫᱮᱭᱟᱹᱧ",
+"Maiṃne usase kahalavāyā"
+],
+"He made me work": [
+"ᱩᱱᱤ ᱤᱧ ᱠᱟᱹᱢᱤ ᱚᱪᱚ ᱠᱤᱫᱤᱧᱟᱭ",
+"Usane mujhase kāma karavāyā"
+],
+"He makes me work": [
+"ᱩᱱᱤ ᱤᱧ ᱠᱟᱹᱢᱤ ᱚᱪᱚ ᱟᱹᱧᱟᱭ",
+"Vaha mujhase kāma karātā hai"
+],
+"He will make me work": [
+"ᱩᱱᱤ ᱤᱧ ᱠᱟᱹᱢᱤ ᱦᱚᱪᱚ ᱤᱧᱟᱭ",
+"Vaha mujhase kāma karātā hai"
+],
+"That joke made me laugh": [
+"ᱚᱱᱟ ᱞᱟᱱᱫᱟ ᱤᱧ ᱞᱟᱱᱫᱟ ᱠᱤᱫᱤᱧᱟᱭ",
+"Usa cuṭakule ne mujhe haṃsāyā"
+],
+"Peter made Mary eat mango": [
+"ᱯᱤᱴᱟᱹᱨ ᱢᱮᱨᱤ ᱢᱮᱢᱚ ᱡᱚᱢ ᱚᱪᱚ ᱠᱮᱫᱮᱭᱟᱭ",
+"Pīṭara ne mairī ko āma khilāyā"
+],
+"Peter made Mary eat mangoes": [
+"ᱯᱤᱴᱟᱹᱨ ᱢᱮᱨᱤ ᱮᱢᱚ ᱡᱚᱢ ᱚᱪᱚ ᱠᱮᱫᱮᱭᱟᱭ",
+"Pīṭara ne mairī ko khānā khilāyā"
+],
+"I myself did it": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱤᱧ ᱛᱮᱜᱮ ᱠᱚᱨᱟᱣ ᱠᱮᱫᱟᱹᱧ",
+"Yaha maiṃne khuda kiyā hai"
+],
+"I did this itself": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱤᱧ ᱛᱮᱜᱮ ᱠᱚᱨᱟᱣ ᱠᱮᱫᱟᱹᱧ",
+"Yaha maiṃne khuda kiyā hai"
+],
+"I will come tomorrow itself": [
+"ᱤᱧ ᱜᱟᱯᱟ ᱜᱮᱧ ᱦᱤᱡᱩᱜᱼᱟ",
+"Maiṃ kala āūṃgā."
+],
+"I will surely come": [
+"ᱤᱧ ᱫᱚ ᱯᱟᱹᱛᱤᱭᱟᱹᱣ ᱜᱮᱧ ᱦᱤᱡᱩᱜᱼᱟ",
+"Maiṃ jarūra āūṃgā"
+],
+"I have seen India only": [
+"ᱤᱧ ᱫᱚ ᱥᱩᱢᱩᱝ ᱵᱷᱟᱨᱚᱛ ᱜᱮᱧ ᱧᱮᱞ ᱟᱠᱟᱫᱟ",
+"Maiṃne sirpha bhārata hī dekhā hai"
+],
+"He kept on talking": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱞᱮᱛᱟᱲ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ",
+"Vaha bolatā rahā"
+],
+"He kept on staring that car": [
+"ᱩᱱᱤ ᱚᱱᱟ ᱠᱟᱨ ᱧᱮᱞ ᱞᱮᱫᱟᱭ",
+"Usane vaha kāra dekhī"
+],
+"I want only sedan car": [
+"ᱤᱧ ᱫᱚ ᱥᱩᱢᱩᱝ ᱥᱮᱰᱟᱱ ᱠᱟᱨ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟᱹᱧ",
+"Mujhe basa eka seḍāna kāra cāhie"
+],
+"I must go there": [
+"ᱤᱧ ᱚᱸᱰᱮ ᱪᱟᱞᱟᱣ ᱦᱩᱭᱩᱜ ᱛᱤᱧᱟ",
+"Mujhe vahā~ jānā hai|"
+],
+"Why just me?": [
+"ᱪᱮᱫᱟᱜ ᱥᱩᱢᱩᱝ ᱤᱧ?",
+"Sirpha maiṃ hī kyoṃ?"
+],
+"I have a car": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱢᱤᱫ ᱠᱟᱨ ᱢᱮᱱᱟᱜᱼᱟ",
+"Mere pāsa eka kāra hai"
+],
+"I have 10 cars": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱑᱐ ᱜᱟᱹᱰᱤ ᱢᱮᱱᱟᱜᱼᱟ",
+"Mere pāsa 10 kāreṃ haiṃ."
+],
+"I had a car": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱢᱤᱫ ᱠᱟᱨ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Mere pāsa eka kāra thī"
+],
+"Anup will have watch": [
+"ᱟᱱᱩᱯ ᱴᱷᱮᱱ ᱧᱮᱞ ᱛᱟᱦᱮᱸᱱᱟ",
+"Anupa dekha leṃge"
+],
+"I do not have car": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱠᱟᱨ ᱵᱟᱹᱱᱩᱜᱼᱟ",
+"Mere pāsa kāra nahīṃ hai."
+],
+"I did not have car": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱠᱟᱨ ᱵᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Mere pāsa kāra nahīṃ thī."
+],
+"I have 2 brothers": [
+"ᱤᱧ ᱨᱮᱱ ᱵᱟᱨ ᱵᱚᱭᱦᱟ ᱢᱮᱱᱟᱜ ᱠᱤᱱᱟ",
+"Mere do bhāī haiṃ."
+],
+"He has three paternal uncles": [
+"ᱩᱱᱤ ᱨᱮᱱ ᱯᱮᱭᱟ ᱵᱟᱵᱟ ᱦᱟᱯᱟ ᱦᱟᱯᱟ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ",
+"Usake tīna cācā haiṃ."
+],
+"Ravi had 2 kids": [
+"ᱨᱟᱵᱤ ᱨᱮᱱ ᱵᱟᱨ ᱜᱤᱫᱽᱨᱟᱹ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱠᱚ",
+"Ravi ke do bacce the"
+],
+"He does not have a brother": [
+"ᱩᱱᱤ ᱨᱮᱱ ᱵᱚᱭᱦᱟ ᱦᱚᱸ ᱵᱟᱱᱩᱜ ᱛᱟᱭᱟ",
+"Usakā koī bhāī bhī nahīṃ hai."
+],
+"She did not have any relatives": [
+"ᱩᱱᱤ ᱨᱮᱱ ᱚᱠᱚᱭ ᱯᱮᱲᱟ ᱦᱚᱸ ᱵᱟᱠᱚ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Usakā koī riśtedāra nahīṃ thā"
+],
+"What does it mean?": [
+"ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱮᱛ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+"Isakā artha kyā hai?"
+],
+"What does that signboard mean?": [
+"ᱚᱱᱟ ᱥᱟᱭᱤᱱᱵᱚᱨᱰ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱮᱛ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+"Usa sāinaborḍa kā kyā matalaba hai?"
+],
+"What did his speech mean?": [
+"ᱩᱱᱤᱭᱟᱜ ᱠᱟᱛᱷᱟ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱮᱛ ᱪᱮᱫ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ?",
+"Usake śabdoṃ kā kyā matalaba thā?"
+],
+"What does encyclopedia mean?": [
+"ᱮᱱᱥᱟᱭᱠᱞᱚᱯᱷᱤᱰᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱮᱛ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+"Viśvakośa kā kyā artha hai?"
+],
+"What does Sundar mean in Marathi?": [
+"ᱢᱟᱨᱟᱛᱷᱤ ᱛᱮ ᱥᱩᱱᱫᱟᱨ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱮᱛ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+"Marāṭhī meṃ suṃdara kā kyā artha hotā hai?"
+],
+"I did mean it": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱢᱮᱱ ᱞᱮᱫᱟ",
+"Maiṃne yaha kahā"
+],
+"I did not mean it": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱵᱟᱹᱧ ᱢᱮᱱ ᱞᱮᱫᱟ",
+"Merā yaha matalaba nahīṃ thā"
+],
+"He did not mean hurting you": [
+"ᱩᱱᱤ ᱟᱢ ᱦᱟᱹᱥᱩ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱢᱮᱱ ᱞᱮᱫᱟ",
+"Usakā irādā āpako coṭa pahuṃcāne kā nahīṃ thā"
+],
+"I meant to insult him": [
+"ᱤᱧ ᱩᱱᱤ ᱚᱯᱢᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱮᱱ ᱞᱮᱫᱟᱹᱧ",
+"Merā matalaba usakā apamāna karanā thā"
+],
+"He and me": [
+"ᱩᱱᱤ ᱟᱨ ᱤᱧ",
+"Vaha aura maiṃ"
+],
+"Milk and sugar": [
+"ᱛᱳᱣᱟ ᱟᱨ ᱪᱤᱱᱤ",
+"Dūdha aura cīnī|"
+],
+"I want to buy but shop is closed": [
+"ᱤᱧ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱹᱧ ᱠᱟᱱᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱫᱩᱠᱟᱹᱱ ᱫᱚ ᱵᱚᱱᱫᱚ ᱜᱮᱭᱟ",
+"Maiṃ kharīdanā cāhatā hūṃ lekina dukāna baṃda hai"
+],
+"He was clever but did not work hard": [
+"ᱩᱱᱤ ᱫᱚ ᱪᱟᱹᱛᱩᱨ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ ᱢᱮᱱᱠᱷᱟᱱ ᱟᱹᱰᱤ ᱟᱸᱴ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱞᱮᱫᱟ",
+"Vaha hośiyāra thā lekina kar̤ī mehanata nahīṃ karatā thā"
+],
+"I had warned him, still he opened the box": [
+"ᱤᱧ ᱩᱱᱤ ᱪᱮᱦᱟᱣ ᱟᱫᱮᱭᱟᱹᱧ, ᱮᱱᱛᱮ ᱦᱚᱸ ᱩᱱᱤ ᱵᱟᱠᱥᱚ ᱡᱷᱤᱡ ᱠᱮᱫᱟᱭ",
+"Maiṃne use cetāvanī dī, phira bhī usane baksā khola diyā"
+],
+"He helped her still she insulted him": [
+"ᱩᱱᱤ ᱩᱱᱤ ᱜᱚᱲᱚ ᱟᱫᱮᱭᱟᱭ ᱮᱱᱛᱮ ᱦᱚᱸ ᱩᱱᱤ ᱩᱱᱤ ᱚᱯᱢᱚᱢ ᱟᱫᱮᱭᱟᱭ",
+"Bhale hī usane usakā apamāna kiyā ho, phira bhī usane usakā samarthana kiyā"
+],
+"I did not come yesterday, because I was sick": [
+"ᱤᱧ ᱦᱚᱞᱟ ᱵᱟᱹᱧ ᱦᱮᱡ ᱞᱮᱱᱟ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱤᱧ ᱨᱩᱣᱟᱹ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱹᱧ",
+"Maiṃ kala nahīṃ āyā, kyoṃki maiṃ bīmāra thā"
+],
+"Car will not start because no petrol": [
+"ᱜᱟᱹᱰᱤ ᱵᱟᱝ ᱪᱟᱹᱞᱩᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱯᱮᱴᱨᱚᱞ ᱵᱟᱹᱱᱩᱜᱼᱟ",
+"Peṭrola nahīṃ hone ke kāraṇa kāra sṭārṭa nahīṃ hogī"
+],
+"I was sick so I did not come": [
+"ᱤᱧ ᱨᱩᱣᱟᱹ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱹᱧ ᱚᱱᱟᱛᱮ ᱵᱟᱹᱧ ᱦᱮᱡ ᱞᱮᱱᱟ",
+"Maiṃ bīmāra thā isalie nahīṃ āyā"
+],
+"No petrol so car will not start": [
+"ᱯᱮᱴᱨᱚᱞ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱚᱱᱟᱛᱮ ᱠᱟᱨ ᱵᱟᱝ ᱥᱴᱟᱨᱴᱚᱜᱼᱟ",
+"Peṭrola nahīṃ hai isalie kāra sṭārṭa nahīṃ hogī"
+],
+"He told her that he is happy": [
+"ᱩᱱᱤ ᱩᱱᱤ ᱢᱮᱛᱟ ᱟᱫᱮᱭᱟᱭ ᱡᱮ ᱩᱱᱤ ᱠᱩᱥᱤ ᱜᱮᱭᱟᱭ",
+"Usane usase kahā ki vaha khuśa hai"
+],
+"I am sure that we will succeed": [
+"ᱤᱧ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱜᱮᱭᱟᱹᱧ ᱡᱮ ᱟᱵᱚ ᱵᱚᱱ ᱥᱚᱯᱷᱚᱞᱚᱜᱼᱟ",
+"Mujhe yakīna hai ki hama saphala hoṃge"
+],
+"As you wish, my lord": [
+"ᱟᱢᱟᱜ ᱢᱚᱱᱮ ᱞᱮᱠᱟ, ᱤᱧ ᱨᱮᱱ ᱢᱟᱱᱚᱛᱟᱱ",
+"Jaisī āpakī icchā, mere mānanīya."
+],
+"Do it the same way as he is doing": [
+"ᱩᱱᱤ ᱡᱮᱞᱠᱟ ᱠᱚᱨᱟᱣ ᱠᱟᱱᱟᱭ ᱚᱱᱠᱟ ᱜᱮ ᱠᱚᱨᱟᱣ ᱢᱮ",
+"Jaisā vaha kara rahā hai vaisā hī karo"
+],
+"He as well as me": [
+"ᱩᱱᱤ ᱤᱧ ᱞᱮᱠᱟ",
+"Vaha mere jaisā hai"
+],
+"She sang as well as danced": [
+"ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱟᱶ ᱥᱟᱶᱛᱮ ᱮᱱᱮᱡ ᱦᱚᱸ ᱞᱮᱫᱟᱭ",
+"Unhoṃne gānā bhī gāyā aura ḍāṃsa bhī kiyā"
+],
+"He or me": [
+"ᱩᱱᱤ ᱵᱟᱝᱠᱷᱟᱱ ᱤᱧ",
+"Vaha yā maiṃ"
+],
+"Do or die": [
+"ᱠᱚᱨᱟᱣ ᱢᱮ ᱵᱟᱝᱠᱷᱟᱱ ᱜᱚᱡᱚᱜ ᱢᱮ",
+"Karo yā maro"
+],
+"Neither he nor I were interested": [
+"ᱩᱱᱤ ᱵᱟᱝ ᱠᱷᱟᱱ ᱤᱧ ᱦᱚᱸ ᱵᱟᱞᱤᱧ ᱨᱟᱹᱥᱠᱟᱹ ᱞᱮᱱᱟ",
+"Na to vaha aura na hī maiṃ khuśa the"
+],
+"I finished study then I went to play": [
+"ᱤᱧ ᱯᱟᱲᱦᱟᱣ ᱪᱟᱵᱟ ᱠᱮᱜᱟᱹᱧ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱤᱧ ᱠᱷᱮᱞᱚᱜ ᱤᱧ ᱥᱮᱱ ᱮᱱᱟ",
+"Maiṃne par̤hanā samāpta kiyā phira maiṃ khelane calā gayā"
+],
+"I will call you then you enter on stage": [
+"ᱤᱧ ᱟᱢᱤᱧ ᱦᱚᱦᱚ ᱟᱢᱟ ᱛᱚᱵᱮ ᱟᱢ ᱥᱴᱮᱡᱽ ᱨᱮ ᱵᱚᱞᱚᱱ ᱢᱮ",
+"Maiṃ tumheṃ bulāūṃgā tāki tuma maṃca para praveśa karo"
+],
+"As long as you want me, I will stay": [
+"ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱜ ᱜᱷᱟᱹᱲᱤᱡ ᱟᱢᱤᱧ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ, ᱤᱧ ᱛᱟᱦᱮᱱᱟᱹᱧ",
+"Jaba taka maiṃ tumheṃ cāhū~gā, maiṃ rukū~gā"
+],
+"As long as you follow rules": [
+"ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱜ ᱜᱷᱟᱹᱲᱤᱡ ᱟᱢ ᱟᱹᱨᱤᱢ ​​ᱯᱟᱧᱡᱟᱭᱟ",
+"Jaba taka āpa niyamoṃ kā pālana kareṃge."
+],
+"As far as I know, he is studious": [
+"ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱜ ᱤᱧᱤᱧ ᱵᱟᱰᱟᱭᱟ, ᱩᱱᱤ ᱫᱚ ᱯᱟᱲᱦᱟᱣᱤᱡ ᱜᱮᱭᱟᱭ",
+"Jahāṃ taka ​​merī jānakārī hai, vaha eka pāṭhaka haiṃ"
+],
+"As far as India is concerned": [
+"ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱜ ᱵᱷᱟᱨᱚᱛ ᱥᱟᱹᱜᱟᱹᱭ ᱢᱮᱱᱟᱜᱼᱟ",
+"Jahāṃ taka ​​bhārata kā savāla hai"
+],
+"As far as literacy is concerned": [
+"ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱜ ᱫᱷᱟᱹᱵᱤᱡ ᱯᱟᱲᱦᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱮᱱᱟᱜᱼᱟ",
+"Jahāṃ taka ​​adhyayana kā savāla hai."
+],
+"He is blaming me as if I have not tried": [
+"ᱩᱱᱤ ᱤᱧ ᱫᱚᱥᱤ ᱤᱧ ᱠᱟᱱᱟᱭ ᱡᱮᱢᱚᱱ ᱤᱧ ᱵᱟᱹᱧ ᱨᱤᱠᱟᱹ ᱟᱠᱟᱫᱟ",
+"Vaha mujha para aise āropa lagātā hai jaise maiṃne kośiśa hī nahīṃ kī"
+],
+"He passed by as if she was not there": [
+"ᱩᱱᱤ ᱯᱟᱨᱚᱢ ᱮᱱᱟᱭ ᱡᱮᱢᱚᱱ ᱩᱱᱤ ᱚᱸᱰᱮ ᱵᱟᱭ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Vaha aise gujarā jaise vaha vahāṃ thā hī nahīṃ"
+],
+"As soon as he came": [
+"ᱡᱟᱦᱟᱸ ᱞᱮᱠᱟ ᱜᱮ ᱩᱱᱤ ᱦᱮᱡ ᱮᱱᱟᱭ",
+"Vaise bhī vaha āyā"
+],
+"As soon as she saw": [
+"ᱡᱟᱦᱟᱸ ᱞᱮᱠᱟ ᱜᱮ ᱩᱱᱤ ᱧᱮᱞ ᱠᱮᱜᱼᱟᱭ",
+"Jaise hī usane dekhā"
+],
+"As soon as they become": [
+"ᱡᱟᱦᱟᱸ ᱞᱮᱠᱟ ᱞᱚᱜᱚᱱ ᱩᱱᱠᱩ ᱠᱚ ᱦᱩᱭᱩᱜᱼᱟ",
+"Jaise hī ve bana jāte haiṃ"
+],
+"Let me know once he comes": [
+"ᱩᱱᱤ ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱦᱤᱡᱩᱜ ᱠᱷᱟᱱ ᱵᱟᱲᱟᱭ ᱚᱪᱚᱭᱤᱧ ᱢᱮ",
+"Jaba vaha āye to mujhe batānā"
+],
+"Once I see your story I will give review": [
+"ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱟᱢᱟᱜ ᱠᱟᱹᱦᱱᱤ ᱧᱮᱞ ᱠᱟᱛᱮ ᱤᱧ ᱫᱚ ᱧᱮᱞ ᱫᱚᱦᱚᱭᱟᱹᱧ",
+"Āpakī kahānī dekhane ke bāda maiṃ samīkṣā karū~gā"
+],
+"Rather than surrendering soldier will accept death": [
+"ᱥᱚᱯᱨᱚᱛᱚᱜ ᱵᱚᱫᱚᱞ ᱛᱮ ᱥᱤᱯᱟᱹᱦᱤ ᱜᱚᱡᱚᱜ ᱮ ᱟᱝᱜᱚᱪᱟ",
+"Sainika ne ātmasamarpaṇa karane kī bajāya mauta svīkāra kara lī"
+],
+"I will take tea rather than coffee": [
+"ᱤᱧ ᱠᱚᱯᱷᱤ ᱵᱚᱫᱚᱞ ᱠᱟᱛᱮ ᱪᱟᱧ ᱧᱩᱭᱟ",
+"Maiṃ kaॉfī kī jagaha cāya pītā hū~"
+],
+"I will work hard so that I will win": [
+"ᱤᱧ ᱟᱹᱰᱤ ᱟᱸᱴ ᱠᱟᱹᱢᱤᱭᱟᱹᱧ ᱡᱮᱢᱚᱱ ᱤᱧ ᱡᱤᱛᱠᱟᱹᱨᱚᱜᱼᱟ",
+"Maiṃ kar̤ī mehanata karūṃgā tāki jīta sakūṃ.'"
+],
+"We should avoid plastic so that less pollution": [
+"ᱟᱵᱚ ᱯᱞᱟᱥᱴᱤᱠ ᱠᱷᱚᱱ ᱥᱟᱦᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱱ ᱦᱩᱭᱩᱜ ᱛᱟᱵᱚᱱᱟ ᱡᱮᱢᱚᱱ ᱵᱷᱚᱱᱰᱚᱜ ᱠᱚᱢᱚᱜᱼᱟ",
+"Pradūṣaṇa kama karane ke lie hameṃ plāsṭika se bacanā cāhie"
+],
+"He cheated me whereas I was helping him": [
+"ᱩᱱᱤ ᱤᱧᱮ ᱮᱲᱮ ᱠᱤᱫᱤᱧᱟ ᱡᱚᱠᱷᱚᱱ ᱤᱧ ᱩᱱᱤᱧ ᱜᱚᱲᱚ ᱟᱫᱮᱭᱟ",
+"Jaba maiṃne usakī madada kī to usane mujhe dhokhā diyā"
+],
+"Govt said prices declined whereas inflation rose": [
+"ᱥᱚᱨᱠᱟᱨ ᱢᱮᱱ ᱠᱮᱫᱟᱭ ᱫᱟᱢ ᱠᱚᱢ ᱮᱱᱟ ᱡᱚᱠᱷᱚᱱ ᱢᱩᱫᱽᱨᱟ ᱵᱟᱲᱦᱟᱣ ᱮᱱᱟ",
+"Sarakāra kā kahanā hai ki mahaṃgāī bar̤hane ke bāvajūda kīmateṃ kama huīṃ"
+],
+"I did not know whether he is going": [
+"ᱤᱧ ᱵᱟᱹᱧ ᱵᱟᱰᱟᱭᱟ ᱩᱱᱤ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱭ ᱥᱮ ᱵᱟᱝ",
+"Mujhe nahīṃ patā ki vaha jā rahā hai yā nahīṃ"
+],
+"She could not realize whether to speak or not": [
+"ᱩᱱᱤ ᱵᱟᱭ ᱵᱩᱡᱷᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱨᱚᱲ ᱦᱩᱭᱩᱜ ᱛᱟᱭᱟ ᱥᱮ ᱵᱟᱝ",
+"Unheṃ samajha nahīṃ ā rahā thā ki unheṃ bolanā cāhie yā nahīṃ."
+],
+"Do this otherwise you will not win": [
+"ᱱᱚᱣᱟ ᱠᱚᱨᱟᱣ ᱢᱮ ᱵᱟᱝᱠᱷᱟᱱ ᱟᱢ ᱵᱟᱢ ᱡᱤᱛᱠᱟᱹᱨᱚᱜᱼᱟ",
+"Aisā karo varanā tuma jīta nahīṃ pāoge"
+],
+"He should inform me otherwise I will not know": [
+"ᱩᱱᱤ ᱤᱧ ᱵᱟᱰᱟᱭ ᱚᱪᱚ ᱟᱹᱧᱟᱭ ᱵᱟᱝᱠᱷᱟᱱ ᱤᱧ ᱵᱟᱹᱧ ᱵᱟᱰᱟᱭᱟ",
+"Vaha mujhe batātā hai yā maiṃ nahīṃ jānatā"
+],
+"I also ran": [
+"ᱤᱧ ᱦᱚᱸᱧ ᱫᱟᱹᱲ ᱞᱮᱫᱟ",
+"Maiṃ bhī bhāgā"
+],
+"He will come tomorrow as well": [
+"ᱩᱱᱤ ᱜᱟᱯᱟ ᱦᱚᱸ ᱦᱤᱡᱩᱜᱼᱟᱭ",
+"Vaha kala bhī āegā"
+],
+"This is old video. I saw it. I am sharing today": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱢᱟᱨᱮ ᱵᱷᱤᱰᱤᱭᱳ ᱠᱟᱱᱟ ᱾ ᱤᱧ ᱱᱚᱣᱟ ᱧᱮᱞ ᱠᱮᱫᱟᱹᱧ ᱾ ᱤᱧ ᱛᱮᱦᱮᱧ ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟᱹᱧ",
+"Yaha eka purānā vīḍiyo hai. maiṃne use dekhā| maiṃ āja sājhā kara rahā hūṃ"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱢᱟᱨᱮ ᱵᱷᱤᱰᱤᱭᱳ ᱠᱟᱱᱟ, ᱮᱱᱛᱮᱨᱮᱦᱚᱸ ᱤᱧ ᱧᱮᱞ ᱟᱠᱟᱫᱟᱹᱧ ᱚᱱᱟᱛᱮ ᱛᱮᱦᱮᱧ ᱤᱧ ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟ",
+"Yaha eka purānā vīḍiyo hai, hālā~ki maiṃne ise dekhā hai isalie maiṃ ise āja sājhā kara rahā hū~"
+],
+"This is old song. I heard it today": [
+"ᱱᱚᱣᱟ ᱫᱚ ᱢᱟᱨᱮ ᱥᱮᱨᱮᱧ ᱠᱟᱱᱟ | ᱤᱧ ᱱᱚᱣᱟ ᱛᱮᱦᱮᱧ ᱟᱸᱡᱚᱢ ᱠᱮᱫᱟᱹᱧ",
+"Yaha eka purānā gānā hai. maiṃne āja ise sunā"
+],
+"Though it is old song, I heard it today": [
+"ᱡᱩᱫᱤ ᱦᱚᱸ ᱱᱚᱣᱟ ᱫᱚ ᱢᱟᱨᱮ ᱥᱮᱨᱮᱧ ᱠᱟᱱᱟ, ᱤᱧ ᱛᱮᱦᱮᱧ ᱟᱸᱡᱚᱢ ᱠᱮᱫᱟᱹᱧ",
+"Hālā~ki yaha eka purānā gānā hai, maiṃne āja sunā"
+],
+"My wife was standing there. He asked about girlfriend": [
+"ᱤᱧ ᱵᱟᱹᱦᱩ ᱚᱸᱰᱮ ᱛᱤᱸᱜᱩ ᱞᱮᱱᱟᱭ ᱾ ᱩᱱᱤ ᱠᱩᱲᱤ ᱜᱟᱛᱮ ᱵᱟᱨᱮᱛᱮ ᱠᱩᱞᱤ ᱠᱮᱫᱟᱭ",
+"Merī patnī vahīṃ khar̤ī thī. vaha garlaphreṃḍa ke bāre meṃ pūchatī hai|"
+],
+"My wife was standing there yet he asked": [
+"ᱤᱧ ᱵᱟᱹᱦᱩ ᱚᱸᱰᱮ ᱛᱤᱸᱜᱩ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ ᱮᱱᱛᱮ ᱦᱚᱸ ᱩᱱᱤ ᱠᱩᱞᱤ ᱠᱮᱫᱟᱭ",
+"Merī patnī pūchane para bhī vahīṃ khar̤ī thī"
+],
+"Policeman was watching. He did not dare to run": [
+"ᱯᱩᱞᱤᱥ ᱦᱚᱲ ᱠᱚ ᱧᱮᱞ ᱮᱫ ᱛᱟᱦᱮᱸᱡ ᱾ ᱩᱱᱤ ᱧᱤᱨ ᱨᱮᱭᱟᱜ ᱥᱟᱦᱚᱥ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱫᱟ",
+"Pulisa vāle dekha rahe the. vaha bhāgane kā sāhasa nahīṃ juṭā sakā"
+],
+"As policeman was watching he did not dare": [
+"ᱡᱮᱞᱠᱟ ᱯᱩᱞᱤᱥ ᱦᱚᱲ ᱧᱮᱞ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱡ ᱩᱱᱤ ᱵᱟᱭ ᱥᱟᱦᱚᱥ ᱞᱮᱱᱟ",
+"Pulisakarmī ne dekhā to usakī himmata nahīṃ huī"
+],
+"I had illusion of monsters coming": [
+"ᱤᱧ ᱴᱷᱮᱱ ᱨᱟᱠᱷᱚᱥ ᱠᱚ ᱦᱤᱡᱩᱜ ᱨᱮᱭᱟᱜ ᱵᱷᱚᱦᱚᱢ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ",
+"Mujhe rākṣasoṃ ke āne kā bhrama thā"
+],
+"Now she will search it forever": [
+"ᱱᱤᱛᱚᱜ ᱩᱱᱤ ᱱᱚᱣᱟ ᱞᱮᱛᱟᱲ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱱᱛᱮᱭᱟᱭ",
+"Aba vaha ise hameśā ke lie khojegā"
+],
+"If we think of eating mango then..": [
+"ᱡᱩᱫᱤ ᱟᱵᱚ ᱢᱮᱸᱜᱮ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱱ ᱩᱭᱦᱟᱹᱨᱟ ᱛᱚᱵᱮ..",
+"Agara hama āma khāne ke bāre meṃ soceṃ to..."
+],
+"If he decides to take revenge..": [
+"ᱡᱩᱫᱤ ᱩᱱᱤ ᱦᱟᱞᱟ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱴᱟᱭᱟᱭ᱾",
+"Agara vaha badalā lene kā phaisalā karatā hai|"
+],
+"I have decided a plan for tonight": [
+"ᱤᱧ ᱛᱮᱦᱮᱧ ᱧᱤᱫᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱯᱞᱟᱱ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱟᱠᱟᱫᱟᱹᱧ",
+"Maiṃne āja rāta ke lie eka yojanā taya kara lī hai"
+],
+"I feel this way": [
+"ᱤᱧ ᱱᱚᱝᱠᱟᱧ ᱟᱹᱭᱠᱟᱹᱣ ᱮᱫᱟ",
+"Mujhe aisā lagatā hai"
+],
+"I feel this": [
+"ᱤᱧ ᱱᱚᱣᱟᱧ ᱟᱹᱭᱠᱟᱹᱣ ᱮᱫᱟ",
+"Maiṃ mahasūsa karatā hū~"
+],
+"He felt that I will not come": [
+"ᱩᱱᱤ ᱟᱴᱠᱟᱨ ᱠᱮᱜᱼᱟᱭ ᱡᱮ ᱤᱧ ᱵᱟᱹᱧ ᱦᱤᱡᱩᱜᱼᱟ",
+"Use lagā ki maiṃ nahīṃ āūṃgā"
+],
+"What do you feel?": [
+"ᱟᱢ ᱪᱮᱫ ᱮᱢ ᱟᱹᱭᱠᱟᱹᱣ ᱮᱫᱟ?",
+"Āpa kyā mahasūsa karate ho?"
+],
+"He felt happiness": [
+"ᱩᱱᱤ ᱨᱟᱹᱥᱠᱟᱹ ᱟᱹᱭᱠᱟᱹᱣ ᱠᱮᱫᱟᱭ",
+"Use k͟huśī mahasūsa huī"
+],
+"Don't you feel ashamed?": [
+"ᱪᱮᱫ ᱟᱢ ᱞᱟᱡᱟᱣ ᱵᱟᱢ ᱟᱹᱭᱠᱟᱹᱣ ᱮᱫᱟ?",
+"Kyā tumheṃ śarma nahīṃ ātī?"
+],
+"Kaushik thinks he should go": [
+"ᱠᱚᱥᱤᱠ ᱩᱭᱦᱟᱹᱨ ᱮᱫᱟᱭ ᱩᱱᱤ ᱥᱮᱱᱚᱜ ᱞᱟᱹᱠᱛᱤᱭᱟᱭ",
+"Kośika socatā hai ki use jānā cāhie"
+],
+"He will feel bad": [
+"ᱩᱱᱤ ᱵᱟᱹᱲᱤᱡ ᱮ ᱟᱹᱭᱠᱟᱹᱣᱟ",
+"Use burā lagatā hai"
+],
+"To show different aspects": [
+"ᱮᱴᱟᱜ ᱮᱴᱟᱜ ᱯᱟᱦᱴᱟ ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ",
+"Ke vibhinna pahaluoṃ ko dikhāne ke lie"
+],
+"To follow up & pressurize": [
+"ᱯᱟᱸᱡᱟ ᱟᱨ ᱪᱷᱟᱯ ᱞᱟᱹᱜᱤᱫ",
+"Ḍhūṃḍhanā aura dabāva ḍālanā"
+],
+"Every home same story": [
+"ᱡᱷᱚᱛᱚ ᱚᱲᱟᱜ ᱨᱮ ᱢᱤᱫ ᱠᱟᱹᱦᱱᱤ",
+"Hara ghara meṃ eka kahānī"
+],
+"To approve formally": [
+"ᱟᱹᱭᱫᱟᱹᱨᱤ ᱞᱮᱠᱟᱛᱮ ᱟᱝᱜᱚᱪ ᱞᱟᱹᱜᱤᱫ",
+"Ādhikārika taura para svīkāra karanā"
+],
+"To cause destruction": [
+"ᱱᱟᱥᱟᱣ ᱠᱟᱨᱚᱱ ᱞᱟᱹᱜᱤᱫ",
+"Vināśakārī kāraṇoṃ se."
+],
+"Repeat like tape": [
+"ᱴᱮᱯ ᱞᱮᱠᱟ ᱫᱚᱦᱲᱟᱭ ᱢᱮ",
+"Ṭepa ke rūpa meṃ doharāe~."
+],
+"To force to do": [
+"ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱡᱚᱵᱽᱨ ᱞᱟᱹᱜᱤᱫ",
+"Karane ke lie bādhya karanā"
+],
+"No control on tongue": [
+"ᱡᱤᱵᱽ ᱨᱮ ᱪᱮᱫ ᱠᱚᱱᱴᱨᱚᱞ ᱵᱟᱹᱱᱩᱜᱼᱟ",
+"Jubāna para koī niyaṃtraṇa nahīṃ"
+],
+"Not utter a word": [
+"ᱢᱤᱫ ᱟᱹᱲᱟᱹ ᱦᱚᱸ ᱟᱞᱚᱢ ᱩᱪᱷᱟᱹᱱᱟ",
+"Eka śabda bhī mata bolo"
+],
+"To take control": [
+"ᱠᱚᱱᱴᱨᱚᱞ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ",
+"Niyaṃtraṇa lene ke lie"
+],
+"To feel embarrassed": [
+"ᱞᱟᱡᱟ ᱟᱹᱭᱠᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ",
+"Lajjita honā"
+],
+"To spew venom": [
+"ᱵᱤᱥ ᱩᱰᱩᱠ ᱞᱟᱹᱜᱤᱫ",
+"Viṣākta padārthoṃ ko dūra karane ke lie."
+],
+"To uncover mystery": [
+"ᱩᱠᱩ ᱠᱟᱛᱷᱟ ᱩᱪᱷᱟᱹᱱ ᱞᱟᱹᱜᱤᱫ",
+"Rahasya se pardā uṭhāne ke lie"
+],
+"To be puzzled": [
+"ᱦᱟᱦᱟᱲᱟ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ",
+"Hairāna honā"
+],
+"To defeat completely": [
+"ᱯᱩᱨᱟᱹ ᱦᱟᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ",
+"Pūrṇataḥ parājita karanā"
+],
+"If employee works 1 year, gratuity right": [
+"ᱡᱩᱫᱤ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱑ ᱥᱮᱨᱢᱟ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟᱭ, ᱜᱽᱨᱮᱪᱩᱴᱤ ᱦᱚᱠ",
+"Yadi karmacārī 1 varṣa taka kāma karatā hai, to grecyuṭī kā adhikāra"
+],
+"If wrong info given, disciplinary action": [
+"ᱡᱩᱫᱤ ᱵᱟᱹᱲᱤᱡ ᱵᱟᱯᱟᱰᱟᱭ ᱮᱢ ᱟᱠᱟᱱᱟ, ᱰᱤᱥᱤᱯᱞᱤᱱᱟᱨᱤ ᱠᱟᱹᱢᱤ",
+"Yadi galata jānakārī dī gaī to anuśāsanātmaka kārravāī hogī"
+],
+"If possible, come to meet me": [
+"ᱡᱩᱫᱤ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ, ᱤᱧ ᱥᱟᱶ ᱧᱟᱯᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱦᱤᱡᱩᱜ ᱢᱮ",
+"Yadi saṃbhava ho to mujhase milane āo"
+],
+"What does this mean?": [
+"ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱮᱛ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+"Isakā artha kyā hai?"
+],
+"I came because you called": [
+"ᱤᱧ ᱦᱮᱡ ᱟᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢ ᱦᱚᱦᱚ ᱟᱠᱟᱫ ᱢᱮᱭᱟ",
+"Maiṃ isaliye āyā kyoṃki tumheṃ bulāyā gayā thā|"
+],
+"Someone called Kaushik has come": [
+"ᱠᱚᱥᱤᱠ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱟᱦᱟᱸᱭ ᱦᱮᱡ ᱟᱠᱟᱱᱟᱭ",
+"Sela nāma kā koī vyakti āyā hai"
+],
+"Someone named Kaushik has come": [
+"ᱠᱚᱥᱤᱠ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱟᱦᱟᱸᱭ ᱦᱮᱡ ᱟᱠᱟᱱᱟᱭ",
+"Sela nāma kā koī vyakti āyā hai"
+],
+"Why do you want it for?": [
+"ᱟᱢ ᱱᱚᱣᱟ ᱪᱮᱫᱟᱜ ᱮᱢ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟ?",
+"Āpa yaha kyoṃ cāhate haiṃ?"
+],
+"What is its reason?": [
+"ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱪᱮᱫ ᱠᱟᱱᱟ?",
+"Isakā kāraṇa kyā hai?"
+],
+"You only complete this": [
+"ᱟᱢ ᱫᱚ ᱠᱷᱟᱹᱞᱤ ᱱᱚᱣᱟ ᱜᱮᱢ ᱯᱩᱨᱟᱹᱣ ᱢᱮ",
+"Āpa basa ise pūrā kareṃ."
+],
+"It is you who told": [
+"ᱱᱩᱭ ᱫᱚ ᱟᱢ ᱠᱟᱱᱟᱢ ᱡᱟᱦᱟᱸᱭ ᱞᱟᱹᱭ ᱟᱠᱟᱫᱟ",
+"Yaha āpa hī haiṃ jinhoṃne kahā thā"
+],
+"I want it tomorrow itself": [
+"ᱤᱧ ᱱᱚᱣᱟ ᱜᱟᱯᱟ ᱜᱮ ᱠᱷᱚᱡᱚᱜ ᱠᱟᱱᱟᱹᱧ",
+"Mujhe yaha kala cāhie"
+],
+"I am bored": [
+"ᱤᱧ ᱫᱚ ᱟᱹᱲᱤᱥ ᱮᱱᱟᱹᱧ",
+"Maiṃ ūba gayā hūṃ"
+],
+"He was bored": [
+"ᱩᱱᱤ ᱟᱹᱲᱤᱥ ᱞᱮᱱᱟᱭ",
+"Usakā sira cakarā gayā thā|"
+],
+"Relative / Relatives": [
+"ᱯᱮᱲᱟ / ᱯᱮᱲᱟ",
+"Atithi/atithi"
+],
+"Father's brother's wife": [
+"ᱵᱟᱵᱟ ᱟᱜ ᱵᱚᱭᱦᱟ ᱮᱨᱟ",
+"Pitā ke bhāī kī patnī."
+],
+"Father's brother's son": [
+"ᱵᱟᱵᱟ ᱨᱮᱱ ᱵᱚᱭᱦᱟ ᱦᱚᱯᱚᱱ",
+"Pitā kā bhāī."
+],
+"Father's brother's daughter": [
+"ᱵᱟᱵᱟ ᱵᱚᱭᱦᱟ ᱨᱤᱱ ᱠᱩᱲᱤ ᱜᱤᱫᱽᱨᱟᱹ",
+"Cacere bhāī kī beṭī."
+],
+"Mother's brother's wife": [
+"ᱟᱭᱳ ᱨᱮᱱ ᱵᱚᱭᱦᱟ ᱮᱨᱟ",
+"Mā~ ke cacere bhāī kī patnī."
+],
+"Mother's brother's son": [
+"ᱟᱭᱳ ᱨᱮᱱ ᱵᱚᱭᱦᱟ ᱦᱚᱯᱚᱱ",
+"Mā~ kā cacerā bhāī."
+],
+"Mother's brother's daughter": [
+"ᱟᱭᱳ ᱨᱮᱱ ᱵᱚᱭᱦᱟ ᱨᱤᱱ ᱠᱩᱲᱤ ᱜᱤᱫᱽᱨᱟᱹ",
+"Mā~ ke bhāī kī beṭī."
+],
+"Father's sister's son": [
+"ᱵᱟᱵᱟ ᱨᱤᱱ ᱢᱤᱥᱨᱟ ᱦᱚᱯᱚᱱ",
+"Pitā kī bahana."
+],
+"Father's sister's daughter": [
+"ᱵᱟᱵᱟ ᱟᱜ ᱢᱤᱥᱨᱟ ᱨᱤᱱ ᱠᱩᱲᱤ ᱜᱤᱫᱽᱨᱟᱹ",
+"Pitā kī bahana kī beṭī."
+],
+"Father's sister's husband": [
+"ᱵᱟᱵᱟ ᱨᱮᱱ ᱢᱤᱥᱨᱟ ᱨᱮᱱ ᱡᱤᱛᱟᱹ",
+"Pitā kī bahana kā pati"
+],
+"Mother's sister's son": [
+"ᱟᱭᱳ ᱨᱮᱱ ᱢᱤᱥᱨᱟ ᱨᱮᱱ ᱦᱚᱯᱚᱱ",
+"Mā~ kī bahana kā beṭā."
+],
+"Mother's sister's daughter": [
+"ᱟᱭᱳ ᱨᱮᱱ ᱢᱤᱥᱨᱟ ᱨᱮᱱ ᱠᱩᱲᱤ ᱜᱤᱫᱽᱨᱟᱹ",
+"Mā~ kī bahana kī beṭī."
+],
+"Mother's sister's husband": [
+"ᱟᱭᱳ ᱨᱮᱱ ᱢᱤᱥᱨᱟ ᱨᱮᱱ ᱡᱤᱛᱟᱹ",
+"Mā~ kī bahana kā pati."
+],
+"Great grand father": [
+"ᱢᱟᱨᱟᱝ ᱜᱚᱲᱚᱢ ᱵᱟᱵᱟ",
+"Mahāna dādā"
+],
+"Great grand mother": [
+"ᱢᱟᱨᱟᱝ ᱜᱚᱲᱚᱢ ᱟᱭᱳ",
+"Greṭa grāṃḍamadara|"
+],
+"Son's wife / Daughter in law": [
+"ᱦᱚᱯᱚᱱ ᱵᱟᱹᱦᱩ/ ᱦᱚᱯᱚᱱ ᱠᱩᱲᱤ",
+"Beṭī patnī/beṭī."
+],
+"Daughter's husband / Son in law": [
+"ᱠᱩᱲᱤ ᱜᱤᱫᱽᱨᱟᱹ ᱨᱮᱱ ᱡᱤᱛᱟᱹ/ᱡᱟᱶᱟᱭ ᱦᱚᱯᱚᱱ",
+"Beṭī kā pati/dāmāda."
+],
+"Father in law": [
+"ᱦᱟᱲᱟᱢ ᱵᱟᱵᱟ",
+"Būr̤he pitā."
+],
+"Mother in law": [
+"ᱦᱟᱲᱟᱢ ᱟᱭᱳ",
+"Būr̤hī mā~."
+],
+"Father in law's father": [
+"ᱥᱟᱶᱛᱟ ᱵᱟᱵᱟ ᱟᱜ ᱵᱟᱵᱟ",
+"Sasura ke pitā."
+],
+"TV": [
+"TV",
+""
+],
+"We": [
+"ᱟᱞᱮ",
+"Hama"
+],
+"You (singular)": [
+"ᱟᱢ (ᱮᱠᱞᱟ)",
+"Āpa siṃgala)"
+],
+"You (plural)": [
+"ᱟᱢ (ᱵᱟᱹᱲᱛᱤ)",
+"Āpa adhika)"
+],
+"This (m.)": [
+"ᱱᱚᱶᱟ (ᱮᱢ.)",
+"Yaha (ema.)."
+],
+"This (f.)": [
+"ᱱᱚᱶᱟ (ᱯ.)",
+"Yaha (pī.)"
+],
+"This (n.)": [
+"ᱱᱚᱶᱟ (ᱮᱱ.)",
+"Yaha (na.)"
+],
+"These (m.)": [
+"ᱱᱚᱶᱟ ᱠᱚ (ᱮᱢ.)",
+"Ye (ema.)."
+],
+"These (f.)": [
+"ᱱᱚᱶᱟ ᱠᱚ (ᱯ.)",
+"Ye (pī.)"
+],
+"These (n.)": [
+"ᱱᱚᱶᱟ ᱠᱚ (ᱮᱱ.)",
+"Ye (saṃ.)."
+],
+"Self": [
+"ᱤᱧᱟᱹ",
+"Khuda"
+],
+"Sing": [
+"ᱥᱮᱨᱮᱧ",
+"Gāo"
+],
+"Beat": [
+"ᱫᱟᱞ",
+"Māro"
+],
+"Write": [
+"ᱚᱞ",
+"Likhanā"
+],
+"Do": [
+"ᱠᱟᱢᱤ",
+"Karanā"
+],
+"Get up": [
+"ᱵᱮᱨᱮᱡᱸ ᱢᱮ",
+"Uṭhanā"
+],
+"Stop": [
+"ᱛᱮᱜᱩᱱ",
+"Rukanā"
+],
+"Close": [
+"ᱵᱚᱱᱫᱚ",
+"Baṃda karanā"
+],
+"I (male)": [
+"ᱤᱧ (ᱦᱚᱲ)",
+"Maiṃ (ādamī)."
+],
+"I (female)": [
+"ᱤᱧ (ᱛᱤᱨᱞᱟᱹ)",
+"Maiṃ (mahilā)"
+],
+"We dance": [
+"ᱟᱞᱮ ᱞᱮ ᱮᱱᱮᱡ ᱮᱫᱟ",
+"Hama khela rahe haiṃ"
+],
+"He walks": [
+"ᱩᱱᱤ ᱛᱟᱲᱟᱢ ᱮᱫᱟᱭ",
+"Vaha calatā hai"
+],
+"She speaks": [
+"ᱩᱱᱤ ᱨᱚᱲ ᱠᱟᱱᱟᱭ",
+"Vaha bola rahā hai"
+],
+"It moves": [
+"ᱱᱚᱣᱟ ᱞᱟᱦᱟ ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ",
+"Yaha cala rahā hai"
+],
+"They dance": [
+"ᱩᱱᱠᱩ ᱠᱚ ᱮᱱᱮᱡ ᱮᱫᱟ",
+"Ve khela rahe haiṃ"
+],
+"You (singular/plural)": [
+"ᱟᱢ (ᱮᱠᱞᱟ/ᱵᱟᱹᱲᱛᱤ)",
+"Āpa (ekala/ekādhika)"
+],
+"They (all)": [
+"ᱩᱱᱠᱩ (ᱡᱚᱛᱚ)",
+"Vo saba)"
+],
+"I (male/female)": [
+"ᱤᱧ (ᱦᱮᱨᱮᱞ/ᱛᱤᱨᱞᱟᱹ)",
+"Maiṃ (puruṣa/mahilā)"
+],
+"He": [
+"ᱩᱱᱤ",
+"Vaha"
+],
+"She": [
+"ᱩᱱᱤ",
+"Vaha"
+],
+"It": [
+"ᱱᱚᱣᱟ",
+"Yaha"
+],
+"They (m.)": [
+"ᱩᱱᱠᱩ (ᱮᱢ.)",
+"Ve (ema.)"
+],
+"They (f.)": [
+"ᱩᱱᱠᱩ (ᱮᱯ.)",
+"Ve (epha.)"
+],
+"They (n.)": [
+"ᱩᱱᱠᱩ (ᱮᱱ.)",
+"Ve (na.)"
+],
+"This (Male)": [
+"ᱱᱩᱭ (ᱦᱮᱨᱮᱞ)",
+"Yaha (puruṣa)|"
+],
+"This (Female)": [
+"ᱱᱩᱭ (ᱛᱤᱨᱞᱟᱹ)",
+"Yaha (mahilā)."
+],
+"This (neuter)": [
+"ᱱᱚᱶᱟ (ᱱᱭᱩᱴᱟᱨ)",
+"Yaha (napuṃsaka)"
+],
+"These (male/female/neuter)": [
+"ᱱᱚᱶᱟ ᱠᱚ (ᱦᱮᱨᱮᱞ/ᱛᱤᱨᱞᱟᱹ/ᱱᱭᱩᱴᱟᱨ)",
+"Ye (puruṣa/mahilā/napuṃsaka)"
+],
+"about": [
+"ᱵᱟᱵᱚᱛ",
+"Ke bāre meṃ"
+],
+"across": [
+"ᱥᱮᱡᱛᱮ",
+"Āra-pāra"
+],
+"against": [
+"ᱵᱤᱨᱩᱰ",
+"K͟hilāfa"
+],
+"Among": [
+"ᱛᱟᱞᱟᱨᱮ",
+"Bīca meṃ"
+],
+"Around": [
+"ᱣᱨᱩᱱᱯᱷ",
+"Āsa-pāsa"
+],
+"As/like": [
+"ᱞᱮᱠᱟ/ᱠᱩᱥᱤ",
+"Ṭāipa/pasaṃda kareṃ"
+],
+"aside": [
+"ᱢᱤᱫ ᱯᱟᱦᱴᱟ",
+"Eka tarapha."
+],
+"for": [
+"ᱞᱟᱹᱜᱤᱫ",
+"Ke lie"
+],
+"From/since": [
+"ᱠᱷᱚᱱ/ᱩᱱ ᱠᱷᱚᱱ",
+"Taba se/jaba se"
+],
+"in": [
+"ᱵᱷᱤᱛᱨ ᱵᱷᱤᱛᱨᱤ",
+"Meṃ"
+],
+"till/until": [
+"ᱫᱷᱟᱹᱵᱤᱡ/ᱫᱷᱟᱹᱵᱤᱡ",
+"Ke rūpa meṃ"
+],
+"without": [
+"ᱵᱮᱜᱚᱨ",
+"Binā"
+],
+"during": [
+"ᱚᱠᱛᱚ ᱨᱮ",
+"Daurāna"
+],
+"Near/close to": [
+"ᱥᱩᱨ/ᱥᱩᱨ ᱨᱮ",
+"Nikaṭa/nikaṭa"
+],
+"towards": [
+"ᱞᱟᱦᱟᱜ ᱥᱮᱜ",
+"Kī ora"
+],
+"with": [
+"ᱥᱚᱛᱮᱜ",
+"Sātha"
+],
+"Instead of": [
+"ᱵᱟᱫ ᱛᱮᱹ",
+"Kharce meṃ likhanā"
+],
+"Prior to": [
+"ᱞᱟᱦᱟᱨᱮ",
+"Pahale"
+],
+"Because of": [
+"ᱪᱮᱫᱟᱜ ᱥᱮ",
+"Kyoṃki"
+],
+"According to": [
+"ᱞᱮᱠᱟᱛᱮ",
+"Anusāra"
+],
+"Through": [
+"ᱫᱟᱨᱟᱭ ᱛᱮ",
+"Ke mādhyama se"
+],
+"You speak": [
+"ᱟᱢ ᱨᱚᱲ ᱢᱮ",
+"Āpa bolie"
+],
+"Read it": [
+"ᱱᱚᱣᱟ ᱯᱟᱲᱦᱟᱣ ᱢᱮ",
+"Ise par̤heṃ"
+],
+"Do it": [
+"ᱱᱚᱶᱟ ᱠᱚᱨᱟᱣ ᱢᱮ",
+"Ise kareṃ"
+],
+"You go": [
+"ᱟᱢ ᱥᱮᱱᱚᱜ ᱢᱮ",
+"Tuma jāo"
+],
+"You give": [
+"ᱟᱢ ᱮᱢᱚᱜ ᱢᱮ",
+"Āpa de"
+],
+"You drink": [
+"ᱟᱢ ᱧᱩᱭ ᱢᱮ",
+"Āpa pīte haiṃ"
+],
+"Toy moved": [
+"ᱠᱷᱮᱞᱚᱸᱰ ᱚᱪᱚᱜ ᱮᱱᱟ",
+"Gema haṭā diyā gayā hai."
+],
+"To cook": [
+"ᱤᱥᱤᱱ ᱵᱟᱥᱟᱝ ᱞᱟᱹᱜᱤᱫ",
+"Khānā banānā|"
+],
+"Rice cooked": [
+"ᱫᱟᱠᱟ ᱤᱥᱤᱱ ᱮᱱᱟ",
+"Cāvala paka gayā hai."
+],
+"To die": [
+"ᱜᱚᱡᱚᱜ ᱞᱟᱹᱜᱤᱫ",
+"Dama ṭūṭanā|"
+],
+"To fall": [
+"ᱧᱩᱨᱦᱟᱹᱜ ᱞᱟᱹᱜᱤᱫ",
+"Girane ke liye"
+],
+"Glass broke": [
+"ᱜᱤᱞᱟᱥ ᱨᱟᱹᱯᱩᱫ ᱮᱱᱟ",
+"Śīśā ṭūṭa gayā hai."
+],
+"To leave": [
+"ᱵᱟᱹᱜᱤ ᱞᱟᱹᱜᱤᱫ",
+"Chor̤a jānā"
+],
+"To drink": [
+"ᱧᱩ ᱞᱟᱹᱜᱤᱫ",
+"Pīne ke lie."
+],
+"To eat": [
+"ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ",
+"Ko khāne ke|"
+],
+"To feed": [
+"ᱡᱚᱢ ᱚᱪᱚ ᱞᱟᱹᱜᱤᱫ",
+"Khilānā"
+],
+"To speak": [
+"ᱨᱚᱲ ᱞᱟᱹᱜᱤᱫ",
+"Bāta karane ke lie"
+],
+"To run": [
+"ᱧᱤᱨ ᱞᱟᱹᱜᱤᱫ",
+"Calāne ke lie"
+],
+"my": [
+"ᱤᱧᱟᱜ",
+"Merā"
+],
+"speaking": [
+"ᱨᱚᱲ",
+"Bolanā"
+],
+"your": [
+"ᱟᱢᱟᱜ",
+"Āpakā"
+],
+"his": [
+"ᱩᱱᱤ",
+"Vaha"
+],
+"Ram's": [
+"ᱨᱟᱢᱟᱜ",
+"Nākhūna."
+],
+"dance": [
+"ᱮᱱᱮᱡ",
+"Khela"
+],
+"About speaking": [
+"ᱨᱚᱲ ᱵᱟᱨᱮᱛᱮ",
+"Bolane ke bāre meṃ"
+],
+"For eating": [
+"ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ",
+"Ko khāne ke|"
+],
+"while speaking": [
+"ᱨᱚᱲ ᱚᱠᱛᱚ",
+"Bolane kā samaya"
+],
+"while doing": [
+"ᱠᱟ.ᱢᱤ ᱡᱷᱚᱜ",
+"Kāma karate samaya."
+],
+"while dancing": [
+"ᱮᱱᱮᱡ ᱚᱠᱛᱚ",
+"Viśrāma kā samaya|"
+],
+"to see": [
+"ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ",
+"Dekhane ke lie"
+],
+"to do": [
+"ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ",
+"Karane ke lie"
+],
+"to dance": [
+"ᱮᱱᱮᱡ ᱞᱟᱹᱜᱤᱫ",
+"Krīr̤ā karanā|"
+],
+"Black horse": [
+"ᱦᱮᱱᱫᱮ ᱥᱟᱫᱚᱢ",
+"Apratyāśita vijetā"
+],
+"Black chair": [
+"ᱦᱮᱱᱫᱮ ᱢᱟᱹᱪᱤ",
+"Kālī kursī"
+],
+"Black page": [
+"ᱦᱮᱱᱫᱮ ᱥᱟᱦᱴᱟ",
+"Kālī mirca|"
+],
+"Black horses": [
+"ᱦᱮᱱᱫᱮ ᱥᱟᱫᱚᱢ",
+"Apratyāśita vijetā"
+],
+"Black chairs": [
+"ᱦᱮᱱᱫᱮ ᱢᱟᱹᱪᱤ ᱠᱚ",
+"Kālī kursiyā~"
+],
+"Black pages": [
+"ᱦᱮᱱᱫᱮ ᱥᱟᱦᱴᱟ",
+"Kālī mirca|"
+],
+"Good horse": [
+"ᱱᱟᱯᱟᱭ ᱥᱟᱫᱚᱢ",
+"Acchā ghor̤ā"
+],
+"Good chair": [
+"ᱱᱟᱯᱟᱭ ᱢᱟᱹᱪᱤ",
+"Acchī kursī"
+],
+"Easy exam": [
+"ᱟᱞᱜᱟ ᱵᱤᱱᱤᱰ",
+"Sarala parīkṣaṇa"
+],
+"Red horse": [
+"ᱟᱨᱟᱜ ᱥᱟᱫᱚᱢ",
+"Lāla ghor̤ā"
+],
+"Beautiful drawing": [
+"ᱪᱮᱦᱨᱟ ᱪᱤᱛᱟᱹᱨ",
+"Khūbasūrata tasvīreṃ"
+],
+"Talking boy": [
+"ᱨᱚᱲ ᱠᱟᱱ ᱠᱚᱲᱟ",
+"Bāta karane vālā lar̤akā"
+],
+"Rotating fan": [
+"ᱟᱹᱪᱩᱨᱚᱜ ᱠᱟᱱ ᱯᱷᱮᱱ",
+"Ghūmatā huā paṃkhā"
+],
+"Talking girl": [
+"ᱨᱚᱲ ᱠᱟᱱ ᱠᱩᱲᱤ",
+"Bāta karane vālī lar̤akī."
+],
+"Moving chair": [
+"ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱢᱟᱹᱪᱤ",
+"Calatī kursī."
+],
+"Flying saucer": [
+"ᱩᱰᱟᱹᱣ ᱛᱷᱟᱹᱨᱤ",
+"Ur̤ana taśtarī"
+],
+"Talking book": [
+"ᱨᱚᱯᱚᱲ ᱯᱚᱛᱚᱵ",
+"Bāta karane vālī kitāba"
+],
+"Moving tree": [
+"ᱞᱟᱲᱟᱣᱜ ᱠᱟᱱ ᱫᱟᱨᱮ",
+"Hilatā huā per̤a."
+],
+"Talked boy": [
+"ᱨᱚᱯᱚᱲ ᱠᱟᱱ ᱠᱚᱲᱟ",
+"Bāta karane vālā lar̤akā"
+],
+"Rotated fan": [
+"ᱟᱹᱪᱩᱨ ᱟᱠᱟᱱ ᱯᱷᱮᱱ",
+"Ghumāyā huā paṃkhā"
+],
+"Talked girl": [
+"ᱨᱚᱯᱚᱲ ᱠᱩᱲᱤ",
+"Bāta kara rahī lar̤akī"
+],
+"Moved chair": [
+"ᱚᱪᱚᱜ ᱠᱟᱱ ᱢᱟᱹᱪᱤ",
+"Haṭāne yogya kursī."
+],
+"Flown saucer": [
+"ᱩᱰᱟᱹᱣ ᱟᱠᱟᱱ ᱛᱷᱟᱹᱨᱤ",
+"Ur̤ana taśtarī"
+],
+"Talked book": [
+"ᱨᱚᱯᱚᱲ ᱟᱠᱟᱱ ᱯᱚᱛᱚᱵ",
+"Da ṭaॉkiṃga buka"
+],
+"Moved tree": [
+"ᱚᱪᱚᱜ ᱟᱠᱟᱱ ᱫᱟᱨᱮ",
+"Haṭāyā gayā per̤a."
+],
+"What happened?": [
+"ᱪᱮᱫ ᱦᱩᱭ ᱮᱱᱟ?",
+"Kyā huā?"
+],
+"More bitter": [
+"ᱟᱨᱦᱚᱸ ᱦᱟᱲᱦᱟᱫ",
+"Adhika kar̤avā."
+],
+"Most bitter": [
+"ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱦᱟᱲᱦᱟᱫ",
+"Sabase kar̤avā"
+],
+"Tall": [
+"ᱩᱥᱩᱞ",
+"Ucca"
+],
+"Taller": [
+"ᱩᱥᱩᱞ",
+"Ucca"
+],
+"Tallest": [
+"ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱩᱥᱩᱞ",
+"Uccatama|"
+],
+"Better": [
+"ᱵᱩᱜᱤ",
+"Behatara"
+],
+"Best": [
+"ᱥᱚᱨᱮᱥ",
+"Mahāna"
+],
+"Let's play": [
+"ᱫᱮᱞᱟ ᱵᱚᱱ ᱠᱷᱮᱞᱚᱜ-ᱟ",
+"Āie khelate haiṃ|"
+],
+"Let's go": [
+"ᱫᱮᱞᱟ ᱵᱚᱱ ᱪᱟᱞᱟᱜ",
+"Cala dara|"
+],
+"Let's speak": [
+"ᱫᱮᱞᱟ ᱵᱚᱱ ᱨᱚᱯᱚᱲᱟ",
+"Calo bāta karate haiṃ"
+],
+"Really!": [
+"ᱥᱟᱹᱨᱤᱜᱮ!",
+"Vāstava meṃ!"
+],
+"How big!": [
+"ᱛᱤᱱᱟᱹᱜ ᱢᱟᱨᱟᱝ!",
+"Kitane bar̤e hai!"
+],
+"Very bad": [
+"ᱟᱹᱰᱤ ᱵᱟᱹᱲᱤᱡ",
+"Bahuta burā"
+],
+"Good handwriting": [
+"ᱱᱟᱯᱟᱭ ᱛᱤ ᱚᱞ",
+"Acchī likhāvaṭa."
+],
+"Very Good": [
+"ᱟᱫᱤ ᱵᱦᱟᱜᱮ",
+"Bahuta acchā"
+],
+"Excellent!": [
+"ᱟᱰᱤ ᱥᱚᱨᱚᱥ!",
+"Utkṛṣṭa!"
+],
+"Speaking phone": [
+"ᱨᱚᱲ ᱠᱟᱱ ᱯᱷᱚᱱ",
+"Bāta kara rahe fona"
+],
+"Something fishy": [
+"ᱡᱟᱦᱟᱱᱟᱜ ᱦᱟᱹᱠᱩ ᱞᱮᱠᱟ",
+"Machalī jaisā kucha."
+],
+"Dampen spirit": [
+"ᱰᱮᱢᱯᱮᱱ ᱥᱯᱤᱨᱤᱴ",
+"Ātmā ko nama karanā"
+],
+"To threaten": [
+"ᱫᱷᱚᱢᱠᱤ ᱮᱢ ᱞᱟᱹᱜᱤᱫ",
+"Dhamakī denā"
+],
+"After-effects": [
+"ᱛᱟᱭᱚᱢ-ᱮᱥᱮᱨ",
+"Prabhāva ke bāda"
+],
+"To override/violate": [
+"ᱚᱵᱷᱟᱨᱟᱭᱤᱰ/ᱵᱷᱟᱭᱚᱞᱮᱴ ᱞᱟᱹᱜᱤᱫ",
+"Ovararāiḍa/baiṃganī karanā"
+],
+"To renounce": [
+"ᱵᱟᱹᱜᱤ ᱞᱟᱹᱜᱤᱫ",
+"Chor̤a jānā"
+],
+"To pretend": [
+"ᱵᱷᱟᱦᱱᱟ ᱞᱟᱹᱜᱤᱫ",
+"Nāṭaka karanā|"
+],
+"To trap": [
+"ᱥᱤᱴᱟᱹᱵ ᱞᱟᱹᱜᱤᱫ",
+"Jāla ke lie."
+],
+"To support": [
+"ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ",
+"Kī madada"
+],
+"To strike": [
+"ᱥᱴᱨᱟᱭᱤᱠ ᱞᱟᱹᱜᱤᱫ",
+"Coṭa māranā|"
+],
+"To pardon": [
+"ᱤᱠᱟᱹ ᱞᱟᱹᱜᱤᱫ",
+"Kṣamā karanā"
+],
+"Cryptography means?": [
+"ᱠᱨᱤᱯᱴᱚᱜᱽᱨᱟᱯᱷᱤ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱮᱛ?",
+"Kripṭogrāphī kī paribhāṣā?"
+],
+"Relation": [
+"ᱥᱟ.ᱜᱟ.ᱭ",
+"Saṃbaṃdha|"
+],
+"Direct brother": [
+"ᱥᱚᱡᱷᱮ ᱵᱚᱭᱦᱟ",
+"Sīdhā bhāī."
+],
+"Direct sister": [
+"ᱥᱚᱡᱷᱮ ᱢᱤᱥᱨᱟ",
+"Sautelī bahana|"
+],
+"Grand father": [
+"ᱜᱚᱲᱚᱢ ᱵᱟᱵᱟ",
+"Dādā."
+],
+"Grand mother": [
+"ᱜᱚᱲᱚᱢ ᱟᱭᱳ",
+"Dādī;"
+],
+"Father's brother": [
+"ᱵᱟᱵᱟ ᱨᱤᱱ ᱵᱚᱭᱦᱟ",
+"Pitā kā bhāī."
+],
+"Mother's brother": [
+"ᱟᱭᱳ ᱨᱮᱱ ᱵᱚᱭᱦᱟ",
+"Mā~ kā bhāī;"
+],
+"Father's sister": [
+"ᱵᱟᱵᱟ ᱨᱤᱱ ᱢᱤᱥᱨᱟ",
+"Pitā kī bahana."
+],
+"Mother's sister": [
+"ᱟᱭᱳ ᱨᱮᱱ ᱢᱤᱥᱨᱟ",
+"Mā~ kī bahana."
+],
+"Grandson's wife": [
+"ᱜᱚᱲᱚᱢ ᱦᱚᱯᱚᱱ ᱟᱜ ᱮᱨᱟ",
+"Pote kī patnī."
+],
+"Great grandson": [
+"ᱢᱟᱨᱟᱝ ᱜᱚᱲᱚᱢ ᱦᱚᱯᱚᱱ",
+"Mahāna potā|"
+],
+"Great granddaughter": [
+"ᱢᱟᱨᱟᱝ ᱜᱚᱲᱚᱢ ᱠᱩᱲᱤ",
+"Mahāna potī|"
+],
+"Husband's brother": [
+"ᱡᱤᱛᱟᱹ ᱨᱮᱱ ᱵᱚᱭᱦᱟ",
+"Pati kā bhāī."
+],
+"Husband's sister": [
+"ᱡᱤᱛᱟᱹᱣ ᱨᱮᱱ ᱢᱤᱥᱨᱟ",
+"Pati kī bahana."
+],
+"Wife's brother": [
+"ᱵᱟᱹᱦᱩ ᱨᱮᱱ ᱵᱚᱭᱦᱟ",
+"Patnī kā bhāī;"
+],
+"Wife's sister": [
+"ᱵᱟᱹᱦᱩ ᱨᱮᱱ ᱢᱤᱥᱨᱟ",
+"Sālī|"
+],
+"Sister's husband": [
+"ᱢᱤᱥᱨᱟ ᱟᱜ ᱡᱤᱛᱟᱹ",
+"Bahana kā pati."
+],
+"Sister's son": [
+"ᱢᱤᱥᱨᱟ ᱨᱮᱱ ᱦᱚᱯᱚᱱ",
+"Bahana kā beṭā."
+],
+"Sister's daughter": [
+"ᱢᱤᱥᱨᱟ ᱟᱜ ᱠᱩᱲᱤ ᱜᱤᱫᱽᱨᱟᱹ",
+"Bahana kī beṭī."
+],
+"Friend (boy)": [
+"ᱜᱟᱛᱮ (ᱠᱚᱲᱟ)",
+"Mitra lar̤akā)|"
+],
+"Friend (girl)": [
+"ᱜᱟᱛᱮ (ᱠᱩᱲᱤ)",
+"Dosta (lar̤akī)."
+],
+"Bridegroom": [
+"ᱡᱟᱶᱟᱭ ᱦᱚᱯᱚᱱ",
+"Dāmāda."
+],
+"Adopted son": [
+"ᱫᱚᱦᱚ ᱦᱚᱯᱚᱱ",
+"Dattaka putra."
+],
+"Adopted daughter": [
+"ᱫᱚᱦᱚ ᱠᱟᱱ ᱠᱩᱲᱤ ᱜᱤᱫᱽᱨᱟᱹ",
+"Goda lī huī beṭī."
+],
+"Assumed son": [
+"ᱩᱭᱦᱟᱹᱨ ᱦᱚᱯᱚᱱ",
+"Smṛti putra"
+],
+"Assumed daughter": [
+"ᱩᱭᱦᱟᱹᱨ ᱟᱠᱟᱱ ᱠᱩᱲᱤ ᱜᱤᱫᱽᱨᱟᱹ",
+"Yāda kī gayī lar̤akī"
+],
+"To wash": [
+"ᱟᱹᱵᱩᱠ ᱞᱟᱹᱜᱤᱫ",
+"Dhonā"
+],
+"To brush": [
+"ᱵᱽᱨᱟᱥ ᱞᱟᱹᱜᱤᱫ",
+"Braśa ke lie."
+],
+"To gargle": [
+"ᱜᱟᱨᱜᱽᱞ ᱞᱟᱹᱜᱤᱫ",
+"Garāre karanā."
+],
+"To fold": [
+"ᱞᱟᱹᱴᱩᱢ ᱞᱟᱹᱜᱤᱫ",
+"Pholḍa karanā"
+],
+"To urinate": [
+"ᱠᱩᱠᱷᱤ ᱞᱟᱹᱜᱤᱫ",
+"Peśāba karanā."
+],
+"To exercise": [
+"ᱵᱮᱭᱟᱢ ᱞᱟᱹᱜᱤᱫ",
+"Vyāyāma ke lie."
+],
+"To bath": [
+"ᱛᱩᱯᱩᱱ ᱞᱟᱹᱜᱤᱫ",
+"Nahānā."
+],
+"To change": [
+"ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ",
+"Ko badalane"
+],
+"To wear": [
+"ᱦᱚᱨᱚᱜ ᱞᱟᱹᱜᱤᱫ",
+"Pahanane ke lie|"
+],
+"To comb": [
+"ᱨᱟᱠᱷᱤ ᱞᱟᱹᱜᱤᱫ",
+"Rākhī ke lie."
+],
+"To apply": [
+"ᱟᱯᱞᱟᱭ ᱞᱟᱹᱜᱤᱫ",
+"Lagā denā"
+],
+"To close": [
+"ᱵᱚᱱᱫᱚ ᱞᱟᱹᱜᱤᱫ",
+"Baṃda kara denā"
+],
+"To sit": [
+"ᱫᱩᱲᱩᱵ ᱞᱟᱹᱜᱤᱫ",
+"Beṭhanā|"
+],
+"To start": [
+"ᱮᱦᱚᱵ ᱞᱟᱹᱜᱤᱫ",
+"Śuruāta ke lie|"
+],
+"To reach": [
+"ᱥᱮᱴᱮᱨᱚᱜ ᱞᱟᱹᱜᱤᱫ",
+"Taka pahu~cane"
+],
+"To work": [
+"ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ",
+"Kāma karane ke lie"
+],
+"To speak/say/talk": [
+"ᱨᱚᱲ/ᱨᱚᱲ/ᱨᱚᱲ ᱞᱟᱹᱜᱤᱫ",
+"Bolanā/bolanā/bolanā."
+],
+"To answer": [
+"ᱛᱮᱞᱟ ᱮᱢ ᱞᱟᱹᱜᱤᱫ",
+"Javāba dene ke lie"
+],
+"To send": [
+"ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ",
+"Bhejane ke lie"
+],
+"To chitchat": [
+"ᱪᱤᱪᱮᱴ ᱞᱟᱹᱜᱤᱫ",
+"Ciceta ke lie."
+],
+"To buy": [
+"ᱠᱤᱨᱤᱧ ᱞᱟᱹᱜᱤᱫ",
+"Kharīdane ke lie"
+],
+"To sell": [
+"ᱟᱠᱨᱤᱧ ᱞᱟᱹᱜᱤᱫ",
+"Bikrī ke lie|"
+],
+"To put/keep": [
+"ᱫᱚᱦᱚ/ᱫᱟᱦᱚᱭ ᱞᱟᱹᱜᱤᱫ",
+"Saṃgrahita karanā/rakhanā"
+],
+"To put": [
+"ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ",
+"Saṃcaya karanā"
+],
+"To count": [
+"ᱞᱮᱠᱷᱟ ᱞᱟᱹᱜᱤᱫ",
+"Kī gaṇanā karanā"
+],
+"To stand": [
+"ᱛᱤᱸᱜᱩᱱ ᱞᱟᱹᱜᱤᱫ",
+"Sahana karanā|"
+],
+"To listen": [
+"ᱟᱸᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ",
+"Sunane ke lie"
+],
+"To return": [
+"ᱨᱩᱣᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ",
+"Lauṭane ke liye"
+],
+"To open": [
+"ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ",
+"Ko kholane ke lie"
+],
+"To lift": [
+"ᱩᱴᱷᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ",
+"Uṭhā denā"
+],
+"To play": [
+"ᱠᱷᱮᱞᱚᱜ ᱞᱟᱹᱜᱤᱫ",
+"Krīr̤ā karanā|"
+],
+"To jump": [
+"ᱫᱚᱱ ᱞᱟᱹᱜᱤᱫ",
+"Kūdane ke lie|"
+],
+"To hide": [
+"ᱩᱠᱩ ᱞᱟᱹᱜᱤᱫ",
+"Chipāne ke lie"
+],
+"To search": [
+"ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ",
+"Khojane ke lie"
+],
+"To recite": [
+"ᱯᱟᱲᱦᱟᱣ ᱞᱟᱹᱜᱤᱫ",
+"Par̤hane ke lie"
+],
+"To sing": [
+"ᱥᱮᱨᱮᱧ ᱞᱟᱹᱜᱤᱫ",
+"Gāne ke lie|"
+],
+"To shout": [
+"ᱜᱩᱞ ᱞᱟᱹᱜᱤᱫ",
+"Cillānā"
+],
+"To throw": [
+"ᱪᱟᱯᱟᱫ ᱞᱟᱹᱜᱤᱫ",
+"Pheṃkanā"
+],
+"To hit": [
+"ᱫᱟᱞ ᱞᱟᱹᱜᱤᱫ",
+"Hamalā karanā"
+],
+"To ask": [
+"ᱠᱩᱞᱤ ᱞᱟᱹᱜᱤᱫ",
+"Pūchane ke lie"
+],
+"To clean": [
+"ᱥᱟᱯᱷᱟ ᱞᱟᱹᱜᱤᱫ",
+"Ko sāpha"
+],
+"To cut": [
+"ᱜᱮᱫᱽ ᱞᱟᱹᱜᱤᱫ",
+"Kaṭautī karane ke lie"
+],
+"To break": [
+"ᱨᱟᱹᱯᱩᱫ ᱞᱟᱹᱜᱤᱫ",
+"Tor̤anā"
+],
+"To burst": [
+"ᱯᱷᱟᱹᱴᱟᱣ ᱞᱟᱹᱜᱤᱫ",
+"Toḍane ke lie"
+],
+"To write": [
+"ᱚᱞ ᱞᱟᱹᱜᱤᱫ",
+"Likhanā"
+],
+"Accept": [
+"ᱦᱟᱛᱟᱣ",
+"Lenā"
+],
+"Bring": [
+"ᱟᱜᱩ",
+"Lānā"
+],
+"Complain": [
+"ᱱᱟᱞᱤᱥ",
+"Śikāyata karanā"
+],
+"Draw": [
+"ᱪᱤᱛᱨᱟᱹᱣ",
+"Khīṃcanā"
+],
+"Fall": [
+"ᱧᱩᱹᱨᱩ",
+"Giranā"
+],
+"Fill": [
+"ᱯᱮᱨᱮᱱᱡ",
+"Bharanā"
+],
+"Start/begin": [
+"ᱮᱦᱚᱵ/ᱮᱦᱚᱵ",
+"Prāraṃbha/śurū kareṃ"
+],
+"Finish": [
+"ᱢᱩᱪᱩᱫ",
+"Khatma karanā"
+],
+"Live": [
+"ᱡᱤᱣᱤᱫᱳᱜ",
+"Rahanā"
+],
+"See/watch/look": [
+"ᱧᱮᱞ/ᱧᱮᱞ/ᱧᱮᱞ",
+"Dekhanā/dekhanā/dekhanā."
+],
+"Use": [
+"ᱵᱮᱵᱷᱟᱨ",
+"Upayoga"
+],
+"Teach": [
+"ᱪᱮᱢᱮᱫ",
+"Par̤hānā"
+],
+"Study": [
+"ᱥᱴᱚᱰᱤ",
+"Adhyayana"
+],
+"Read": [
+"ᱯᱟᱲᱦᱟᱣ",
+"Par̤hanā"
+],
+"Make/prepare": [
+"ᱵᱮᱱᱟᱣ/ᱥᱟᱯᱲᱟᱣ ᱢᱮ",
+"Banāeṃ/taiyāra kareṃ"
+],
+"Fly": [
+"ᱩᱰᱟᱱ",
+"Ur̤anā"
+],
+"Get bored": [
+"ᱟᱹᱲᱤᱥᱚᱜ ᱢᱮ",
+"Rasahīna honā"
+],
+"Leave": [
+"ᱪᱷᱩᱴᱤ",
+"Chuṭṭī"
+],
+"Want/need": [
+"ᱠᱷᱚᱡᱚᱜ/ᱞᱟᱹᱠᱛᱤ",
+"Cāhie/āvaśyakatā"
+],
+"Sign": [
+"ᱥᱩᱦᱤ",
+"Saṃketa"
+],
+"Swim": [
+"ᱯᱟᱭᱨᱟ",
+"Tairanā"
+],
+"Try": [
+"ᱪᱮᱥᱴᱟ",
+"Dṛṣṭikoṇa"
+],
+"Worry": [
+"ᱪᱤᱱᱛᱟ",
+"Socā"
+],
+"Achieve": [
+"ᱟᱨᱡᱟᱣ",
+"Prāpta karanā"
+],
+"Admit (mistake)": [
+"ᱥᱤᱠᱟᱨ (ᱵᱷᱩᱞ)",
+"Svīkāra kareṃ (jhūṭhā)"
+],
+"Admit (school)": [
+"ᱮᱰᱢᱤᱴ (ᱟᱥᱲᱟ)",
+"Praveśa (skūla)"
+],
+"Afford": [
+"ᱫᱟᱲᱮᱭᱟᱜ",
+"Vahana"
+],
+"Win": [
+"ᱡᱤᱛᱟᱳ",
+"Jītanā"
+],
+"Lose": [
+"ᱟᱫ",
+"Khonā"
+],
+"Shake": [
+"ᱦᱤᱞᱟᱳ",
+"Hilānā"
+],
+"Decide": [
+"ᱜᱚᱴᱟᱭ",
+"Taya karanā"
+],
+"Hold": [
+"ᱥᱟᱵ",
+"Pakar̤anā"
+],
+"Choose": [
+"ᱵᱟᱪᱷᱟᱣ",
+"Cunanā"
+],
+"Turn": [
+"ᱟᱹᱪᱩᱨ",
+"Mor̤a"
+],
+"Rise": [
+"ᱨᱟᱠᱟᱵ",
+"Uṭhānā"
+],
+"Set (sun,moon)": [
+"ᱥᱮᱴ (ᱥᱤᱛᱩᱝ, ᱪᱟᱸᱫᱚ)",
+"Asta (sūrya, caṃdramā)"
+],
+"Deny": [
+"ᱵᱟᱝ",
+"Nahīṃ"
+],
+"To reproach/blame": [
+"ᱫᱟᱹᱵᱤ/ᱫᱳᱥᱤ ᱞᱟᱹᱜᱤᱫ",
+"Dāvā/doṣa denā"
+],
+"To color": [
+"ᱨᱚᱝ ᱞᱟᱹᱜᱤᱫ",
+"Raṃga ke lie."
+],
+"To destroy": [
+"ᱵᱟᱹᱲᱤᱡ ᱞᱟᱹᱜᱤᱫ",
+"Dhvaṃsa karanā"
+],
+"Big": [
+"ᱢᱟᱨᱟᱝ",
+"Viśāla"
+],
+"Small": [
+"ᱦᱩᱰᱤᱧ",
+"Thor̤ā"
+],
+"Deep": [
+"ᱜᱟᱦᱤᱨ",
+"Gaṃbhīra"
+],
+"Shallow": [
+"ᱛᱮᱢᱮᱠ ᱫᱟᱜ",
+"Uthalā"
+],
+"Simple": [
+"ᱥᱚᱦᱡ",
+"Sarala"
+],
+"Special": [
+"ᱵᱤᱥᱮᱥ",
+"Viśeṣa"
+],
+"Faint": [
+"ᱵᱮᱦᱩᱥ",
+"Behośa honā"
+],
+"Short": [
+"ᱠᱷᱟᱴᱚ",
+"Choṭā"
+],
+"Thin": [
+"ᱯᱟᱛᱞᱟ",
+"Patalā"
+],
+"Wide": [
+"ᱟᱥᱟᱨ",
+"Caur̤ā"
+],
+"Narrow": [
+"ᱱᱟᱱᱦᱟ",
+"Sa~karā"
+],
+"Curved": [
+"ᱵᱚᱠᱟ",
+"Nāsamajha"
+],
+"Salty": [
+"ᱵᱩᱞᱩᱝ",
+"Namaka|"
+],
+"Easy": [
+"ᱟᱞᱜᱟ",
+"Āsāna"
+],
+"Dry": [
+"ᱨᱚᱦᱚᱲ",
+"Sūkhā"
+],
+"Wet": [
+"ᱞᱚᱦᱚᱫ",
+"Gīlā"
+],
+"Filled": [
+"ᱯᱮᱨᱮᱡ",
+"Bharā huā"
+],
+"Incomplete": [
+"ᱵᱟᱝ ᱯᱩᱨᱟᱹᱣ",
+"Adhūrā"
+],
+"Hard (surface)": [
+"ᱠᱮᱴᱮᱡ (ᱥᱚᱨᱯᱷᱮᱥ)",
+"Ṭhosa (sataha)"
+],
+"Soft": [
+"ᱱᱚᱨᱚᱢ",
+"Vinamra"
+],
+"Heavy": [
+"ᱦᱟᱢᱟᱞ",
+"Bhārī"
+],
+"Light (weight)": [
+"ᱦᱟᱹᱞᱠᱟ (ᱚᱡᱚᱱ)",
+"Halkā (vajana)|"
+],
+"New": [
+"ᱱᱟᱣᱟ",
+"Nayā"
+],
+"Old": [
+"ᱢᱟᱨᱮ",
+"Purānā"
+],
+"Slow": [
+"ᱛᱜᱤᱨ",
+"Dhīmā"
+],
+"Fast": [
+"ᱯᱷᱩᱨᱛᱤ",
+"Teza"
+],
+"Young": [
+"ᱡᱩᱣᱟ.ᱱ",
+"Yuvā"
+],
+"Unhappy": [
+"ᱵᱟᱝ ᱨᱟᱹᱥᱠᱟᱹ",
+"Khuśa nahīṃ|"
+],
+"Gloomy": [
+"ᱵᱷᱩᱨᱛᱤ",
+"Udāsa"
+],
+"Carefully": [
+"ᱥᱟᱵᱛᱷᱟᱱ ᱛᱮ",
+"Sāvadhānī"
+],
+"Slowly": [
+"ᱵᱤᱭ ᱵᱤᱭ ᱛᱮ",
+"Dhīre se"
+],
+"Quickly": [
+"ᱞᱜᱱ",
+"Jaldī se"
+],
+"A bit": [
+"ᱱᱟᱥᱮ",
+"Aṃśa"
+],
+"A lot": [
+"ᱟᱫᱤ ᱜᱟᱱ",
+"Atyadhika"
+],
+"Aback": [
+"ᱟᱵᱮᱠ",
+"Abaika."
+],
+"Accordingly": [
+"ᱚᱱᱟ ᱞᱮᱠᱟᱛᱮ",
+"Isalie"
+],
+"Accurately": [
+"ᱴᱷᱤᱠ ᱛᱮ",
+"Sahī ḍhaṃga se"
+],
+"Actively": [
+"ᱮᱠᱴᱤᱵᱷ ᱞᱮᱠᱟᱛᱮ",
+"Sakriya"
+],
+"Afresh": [
+"ᱯᱷᱨᱮᱥ",
+"Tājā"
+],
+"Ago": [
+"ᱞᱟᱦᱟ ᱛᱮ",
+"Pahale"
+],
+"Agreeably": [
+"ᱨᱮᱡᱤ ᱞᱮᱠᱟᱛᱮ",
+"Rejī ke anusāra"
+],
+"Altogether": [
+"ᱢᱤᱫ ᱥᱟᱶᱛᱮ",
+"Eka sātha"
+],
+"Any": [
+"ᱡᱟᱸᱦᱟᱴᱟᱜ",
+"Koī"
+],
+"Away": [
+"ᱥᱟᱺᱜᱤᱧ",
+"Dūra"
 ]
 }

@@ -1,0 +1,4002 @@
+{
+"We (listener including)": [
+"हम (श्रोता सहित)",
+"Hama (śrotā sahita)"
+],
+"He / That (m.)": [
+"ओ / कि (म.) .",
+"O / ki (ma.) ."
+],
+"She / That (f.)": [
+"ओ / कि (च.) .",
+"O / ki (ca.) ."
+],
+"It / That (n.)": [
+"यह / कि (सं.) २.",
+"Yaha / ki (saṃ.) 2."
+],
+"They (Plural of He) / Those (m.)": [
+"वे (ओ के बहुवचन) / वे (म.) २.",
+"Ve (o ke bahuvacana) / ve (ma.) 2."
+],
+"They (Plural of She) / Those (f.)": [
+"वे (वह के बहुवचन) / वे (च.) २.",
+"Ve (vaha ke bahuvacana) / ve (ca.) 2."
+],
+"They (Plural of it) / Those (n.)": [
+"वे (इसके बहुवचन) / वे (सं.) २.",
+"Ve (isake bahuvacana) / ve (saṃ.) 2."
+],
+"We went to the party (listener not included)": [
+"हम सब पार्टी मे गेलहुं (श्रोता शामिल नहि)",
+"Hama saba pārṭī me gelahuṃ (śrotā śāmila nahi)"
+],
+"We went to the party (listener included)": [
+"हम सब पार्टी मे गेल रही (श्रोता सहित)",
+"Hama saba pārṭī me gela rahī (śrotā sahita)"
+],
+"This is a horse": [
+"ई घोड़ा अछि",
+"Ī ghor̤ā achi"
+],
+"This is an ant": [
+"ई चींटी अछि",
+"Ī cīṃṭī achi"
+],
+"You (singular male)": [
+"अहाँ (एकवचन पुरुष) २.",
+"Ahā~ (ekavacana puruṣa) 2."
+],
+"You (singular female)": [
+"अहाँ (एकवचन स्त्री) २.",
+"Ahā~ (ekavacana strī) 2."
+],
+"He / That (male) / This (male)": [
+"ओ / ओ (पुरुष) / ई (पुरुष) २.",
+"O / o (puruṣa) / ī (puruṣa) 2."
+],
+"She / That (female) / This (female)": [
+"ओ / ओ (स्त्री) / ई (स्त्री) २.",
+"O / o (strī) / ī (strī) 2."
+],
+"It / That (neuter) / This (neuter)": [
+"यह / कि (नपुंसक) / यह (नपुंसक)",
+"Yaha / ki (napuṃsaka) / yaha (napuṃsaka)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"वे (म.) / वे (म.) / ये (म.)",
+"Ve (ma.) / ve (ma.) / ye (ma.)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"वे (च.) / वे (च.) / ये (च.)",
+"Ve (ca.) / ve (ca.) / ye (ca.)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"वे (सं.) / वे (सं.) / ये (सं.) २.",
+"Ve (saṃ.) / ve (saṃ.) / ye (saṃ.) 2."
+],
+"I (male) do": [
+"हम (पुरुष) करैत छी",
+"Hama (puruṣa) karaita chī"
+],
+"I (female) do": [
+"हम (स्त्री) करैत छी",
+"Hama (strī) karaita chī"
+],
+"You (male) cry": [
+"अहाँ (पुरुष) कानब",
+"Ahā~ (puruṣa) kānaba"
+],
+"You (female) cry": [
+"अहाँ (स्त्री) कानब",
+"Ahā~ (strī) kānaba"
+],
+"You (plural) walk": [
+"अहाँ (बहुवचन) चलैत छी",
+"Ahā~ (bahuvacana) calaita chī"
+],
+"I shall be doing.": [
+"हम करैत रहब।",
+"Hama karaita rahaba|"
+],
+"We will be dancing.": [
+"हम सभ नाचैत रहब।",
+"Hama sabha nācaita rahaba|"
+],
+"You will be crying.": [
+"अहाँ कानि रहल रहब।",
+"Ahā~ kāni rahala rahaba|"
+],
+"You (pl.) will be walking.": [
+"अहाँ (pl.) चलैत रहब।",
+"Ahā~ (pl.) calaita rahaba|"
+],
+"He will be walking.": [
+"ओ चलैत रहत।",
+"O calaita rahata|"
+],
+"She will be speaking.": [
+"ओ बजतीह।",
+"O bajatīha|"
+],
+"It will be moving.": [
+"चलैत रहत।",
+"Calaita rahata|"
+],
+"They will be dancing.": [
+"नाचैत रहताह।",
+"Nācaita rahatāha|"
+],
+"He / That (m.) / This (m.)": [
+"ओ / जे (म.) / ई (म.)",
+"O / je (ma.) / ī (ma.)"
+],
+"She / That (f.) / This (f.)": [
+"ओ / जे (च.) / ई (च.)",
+"O / je (ca.) / ī (ca.)"
+],
+"It / That (n.) / This (n.)": [
+"यह / कि (सं.) / यह (सं.) |",
+"Yaha / ki (saṃ.) / yaha (saṃ.) |"
+],
+"I (male) / I (female)": [
+"हम (पुरुष) / हम (स्त्री) २.",
+"Hama (puruṣa) / hama (strī) 2."
+],
+"I (male) was doing.": [
+"हम (पुरुष) क’ रहल छलहुँ।",
+"Hama (puruṣa) ka’ rahala chalahu~|"
+],
+"I (female) was doing.": [
+"हम (महिला) क’ रहल छलहुँ।",
+"Hama (mahilā) ka’ rahala chalahu~|"
+],
+"We were dancing.": [
+"हम सभ नाचि रहल छलहुँ।",
+"Hama sabha nāci rahala chalahu~|"
+],
+"You (male) were crying.": [
+"अहाँ (पुरुष) कानि रहल छलहुँ।",
+"Ahā~ (puruṣa) kāni rahala chalahu~|"
+],
+"You (female) were crying.": [
+"अहाँ (महिला) कानि रहल छलहुँ।",
+"Ahā~ (mahilā) kāni rahala chalahu~|"
+],
+"You (Plural) were walking": [
+"अहाँ (बहुवचन) चलैत छलहुँ",
+"Ahā~ (bahuvacana) calaita chalahu~"
+],
+"He was walking.": [
+"ओ चलैत छल।",
+"O calaita chala|"
+],
+"She was speaking.": [
+"ओ बाजि रहल छलीह।",
+"O bāji rahala chalīha|"
+],
+"It was moving.": [
+"हिलैत-डुलैत छल।",
+"Hilaita-ḍulaita chala|"
+],
+"They(m.) were dancing.": [
+"ओ सभ(म.) नाचि रहल छल।",
+"O sabha(ma.) nāci rahala chala|"
+],
+"They(f.) were dancing.": [
+"ओ सभ(च.) नाचि रहल छल।",
+"O sabha(ca.) nāci rahala chala|"
+],
+"They(n.) were dancing.": [
+"ओ सभ(न.) नाचि रहल छल।",
+"O sabha(na.) nāci rahala chala|"
+],
+"She has opened door": [
+"दरबज्जा खोलने छथि",
+"Darabajjā kholane chathi"
+],
+"She had opened door": [
+"ओ दरबज्जा खोलने छलीह",
+"O darabajjā kholane chalīha"
+],
+"She will have opened door": [
+"दरबज्जा खोलने हेतीह",
+"Darabajjā kholane hetīha"
+],
+"You (female) have danced": [
+"अहाँ (स्त्री) नाचने छी",
+"Ahā~ (strī) nācane chī"
+],
+"You (female) had danced": [
+"अहाँ (महिला) नाचने रही",
+"Ahā~ (mahilā) nācane rahī"
+],
+"You (female) will have danced": [
+"अहाँ (महिला) नाचने होयब",
+"Ahā~ (mahilā) nācane hoyaba"
+],
+"You (plural) have danced": [
+"अहाँ (बहुवचन) नाचने छी",
+"Ahā~ (bahuvacana) nācane chī"
+],
+"You (plural) had danced": [
+"अहाँ (बहुवचन) नाचने रही",
+"Ahā~ (bahuvacana) nācane rahī"
+],
+"You (plural) will have danced": [
+"अहाँ (बहुवचन) नाचने होयब",
+"Ahā~ (bahuvacana) nācane hoyaba"
+],
+"On behalf of": [
+"के तरफ से",
+"Ke tarapha se"
+],
+"In front of": [
+"के सामने",
+"Ke sāmane"
+],
+"He / That (male)": [
+"ओ / ओ (पुरुष) २.",
+"O / o (puruṣa) 2."
+],
+"She / That (female)": [
+"ओ / ओ (स्त्री) २.",
+"O / o (strī) 2."
+],
+"It / That (neuter)": [
+"यह / कि (नपुंसक) २.",
+"Yaha / ki (napuṃsaka) 2."
+],
+"They (m.) / Those (m.)": [
+"वे (म.) / वे (म.) २.",
+"Ve (ma.) / ve (ma.) 2."
+],
+"They (f.) / Those (f.)": [
+"वे (च.) / वे (च.) २.",
+"Ve (ca.) / ve (ca.) 2."
+],
+"They (n.) / Those (n.)": [
+"वे (सं.) / वे (सं.) २.",
+"Ve (saṃ.) / ve (saṃ.) 2."
+],
+"I do not speak": [
+"हम नहि बजैत छी",
+"Hama nahi bajaita chī"
+],
+"He does not walk": [
+"ओ नहि चलैत अछि",
+"O nahi calaita achi"
+],
+"You do not eat": [
+"अहाँ नहि खाइत छी",
+"Ahā~ nahi khāita chī"
+],
+"They do not dance": [
+"नाचैत नहि छथि",
+"Nācaita nahi chathi"
+],
+"I am not speaking": [
+"हम नहि बाजि रहल छी",
+"Hama nahi bāji rahala chī"
+],
+"He is not walking": [
+"ओ चलैत नहि छथि",
+"O calaita nahi chathi"
+],
+"She is not speaking": [
+"ओ नहि बाजि रहल छथि",
+"O nahi bāji rahala chathi"
+],
+"It is not moving": [
+"हिलैत-डुलैत नहि अछि",
+"Hilaita-ḍulaita nahi achi"
+],
+"They are not dancing": [
+"नाचैत नहि छथि",
+"Nācaita nahi chathi"
+],
+"You are not dancing": [
+"अहाँ नाचैत नहि छी",
+"Ahā~ nācaita nahi chī"
+],
+"I have not opened the box": [
+"हम डिब्बा नहि खोलने छी",
+"Hama ḍibbā nahi kholane chī"
+],
+"I have not spoken": [
+"हम नहि बजलहुँ अछि",
+"Hama nahi bajalahu~ achi"
+],
+"He has not eaten the mango": [
+"आम नहि खा चुकल अछि",
+"Āma nahi khā cukala achi"
+],
+"You do not speak": [
+"अहाँ नहि बजैत छी",
+"Ahā~ nahi bajaita chī"
+],
+"Do not read it": [
+"एकरा नहि पढ़ू",
+"Ekarā nahi par̤hū"
+],
+"Do not do it": [
+"नहि करू",
+"Nahi karū"
+],
+"You do not go": [
+"अहाँ नहि जाउ",
+"Ahā~ nahi jāu"
+],
+"I moved toy": [
+"हम खिलौना ससरलौं",
+"Hama khilaunā sasaralauṃ"
+],
+"To cause to cook": [
+"पकाबय के कारण बनब",
+"Pakābaya ke kāraṇa banaba"
+],
+"I cooked rice": [
+"हम भात पका देलियैक",
+"Hama bhāta pakā deliyaika"
+],
+"To cause to die / To kill": [
+"मरय देब / मारब",
+"Maraya deba / māraba"
+],
+"To cause to fall": [
+"खसबाक कारण बनब",
+"Khasabāka kāraṇa banaba"
+],
+"To break (intransitive)": [
+"तोड़ब (अनक्रामक) २.",
+"Tor̤aba (anakrāmaka) 2."
+],
+"To cause to break": [
+"टूटबाक कारण बनब",
+"Ṭūṭabāka kāraṇa banaba"
+],
+"I broke glass": [
+"हम काँच तोड़ि देलियैक",
+"Hama kā~ca tor̤i deliyaika"
+],
+"To cause to leave": [
+"छोड़बाक कारण बनब",
+"Chor̤abāka kāraṇa banaba"
+],
+"To cause to drink / To feed liquid": [
+"पीबय के कारण / तरल खिलाबय के लेल",
+"Pībaya ke kāraṇa / tarala khilābaya ke lela"
+],
+"To call (not cause to speak)": [
+"फोन करब (बाजबाक कारण नहि)",
+"Phona karaba (bājabāka kāraṇa nahi)"
+],
+"To keep animal (not cause to run)": [
+"पशु रखबाक लेल (दौड़बाक कारण नहि)",
+"Paśu rakhabāka lela (daur̤abāka kāraṇa nahi)"
+],
+"I had spoken": [
+"हम बजने रही",
+"Hama bajane rahī"
+],
+"You (male) had danced": [
+"अहाँ (पुरुष) नाचने रही",
+"Ahā~ (puruṣa) nācane rahī"
+],
+"He had laughed": [
+"ओ हँसि गेल छलाह",
+"O ha~si gela chalāha"
+],
+"Those boys had laughed": [
+"ओ छौड़ा सभ हँसि गेल छल",
+"O chaur̤ā sabha ha~si gela chala"
+],
+"I had opened door": [
+"हम दरबज्जा खोलने रही",
+"Hama darabajjā kholane rahī"
+],
+"I had opened window": [
+"हम खिड़की खोलने रही",
+"Hama khir̤akī kholane rahī"
+],
+"She had eaten mango": [
+"आम खा गेल छलीह",
+"Āma khā gela chalīha"
+],
+"Those girls had picked keys": [
+"ओ छौड़ी सभ चाभी चुनने छल",
+"O chaur̤ī sabha cābhī cunane chala"
+],
+"I have spoken": [
+"हम बजलहुँ अछि",
+"Hama bajalahu~ achi"
+],
+"I will have spoken": [
+"हम बजने होयब",
+"Hama bajane hoyaba"
+],
+"He had been saying": [
+"कहैत आबि रहल छलाह",
+"Kahaita ābi rahala chalāha"
+],
+"He has been saying": [
+"कहैत आबि रहल छथि",
+"Kahaita ābi rahala chathi"
+],
+"He will have been saying": [
+"कहैत आबि रहल हेताह",
+"Kahaita ābi rahala hetāha"
+],
+"I have been saying": [
+"हम कहैत आबि रहल छी",
+"Hama kahaita ābi rahala chī"
+],
+"She has been saying": [
+"कहैत आबि रहल छथि",
+"Kahaita ābi rahala chathi"
+],
+"They have been dancing": [
+"नाचैत रहल अछि",
+"Nācaita rahala achi"
+],
+"You have been eating mango": [
+"अहाँ आम खाइत आबि रहल छी",
+"Ahā~ āma khāita ābi rahala chī"
+],
+"I have been working there for 3 years": [
+"हम ओतय 3 साल स काज क रहल छी",
+"Hama otaya 3 sāla sa kāja ka rahala chī"
+],
+"I had been saying": [
+"हम कहैत आबि रहल छलहुँ",
+"Hama kahaita ābi rahala chalahu~"
+],
+"She had been saying": [
+"कहैत आबि रहल छलीह",
+"Kahaita ābi rahala chalīha"
+],
+"They had been dancing": [
+"ओ सभ नाचैत आबि रहल छल",
+"O sabha nācaita ābi rahala chala"
+],
+"You had been eating mango": [
+"अहाँ आम खाइत आबि रहल छलहुँ",
+"Ahā~ āma khāita ābi rahala chalahu~"
+],
+"She will have been saying": [
+"कहैत आबि रहल हेतीह",
+"Kahaita ābi rahala hetīha"
+],
+"They will have been dancing": [
+"नाचैत रहल हेताह",
+"Nācaita rahala hetāha"
+],
+"You will have been eating mango": [
+"आम खाइत रहब",
+"Āma khāita rahaba"
+],
+"I will have been working there for 3 years": [
+"हम ओतय 3 साल स काज क रहल होयब",
+"Hama otaya 3 sāla sa kāja ka rahala hoyaba"
+],
+"They are going to come": [
+"आबय जा रहल छथि",
+"Ābaya jā rahala chathi"
+],
+"I am going to speak": [
+"हम बजय जा रहल छी",
+"Hama bajaya jā rahala chī"
+],
+"She is going to open door": [
+"ओ दरबज्जा खोलय जा रहल छथि",
+"O darabajjā kholaya jā rahala chathi"
+],
+"You are going to dance": [
+"अहाँ नाचय जा रहल छी",
+"Ahā~ nācaya jā rahala chī"
+],
+"Are they going to come?": [
+"आबय बला छथि की?",
+"Ābaya balā chathi kī?"
+],
+"Am I going to speak?": [
+"हम बाजब की?",
+"Hama bājaba kī?"
+],
+"Is she going to open door?": [
+"ओ दरबज्जा खोलय जा रहल छथि की?",
+"O darabajjā kholaya jā rahala chathi kī?"
+],
+"Are you going to dance?": [
+"अहाँ नाचय जा रहल छी?",
+"Ahā~ nācaya jā rahala chī?"
+],
+"She / That (f.)/ This (f.)": [
+"ओ / जे (च.)/ ई (च.)",
+"O / je (ca.)/ ī (ca.)"
+],
+"It / That(n.) / This (n.)": [
+"इट / कि(न.) / ई (न.)",
+"Iṭa / ki(na.) / ī (na.)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"वे (ओ के बहुवचन) / वे (पु.) / ये (म.)",
+"Ve (o ke bahuvacana) / ve (pu.) / ye (ma.)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"वे (वह के बहुवचन) / वे (च.) / ये (च.)",
+"Ve (vaha ke bahuvacana) / ve (ca.) / ye (ca.)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"वे (एकर बहुवचन) / वे (सं.) / ये (सं.)",
+"Ve (ekara bahuvacana) / ve (saṃ.) / ye (saṃ.)"
+],
+"I used to do": [
+"हम पहिने करैत छलहुँ",
+"Hama pahine karaita chalahu~"
+],
+"She used to speak": [
+"ओ बजैत छलीह",
+"O bajaita chalīha"
+],
+"He used to dance": [
+"ओ नाचैत छलाह",
+"O nācaita chalāha"
+],
+"They (plural of he) used to eat mangos": [
+"ओ सभ (ओक बहुवचन) आम खाइत छलाह",
+"O sabha (oka bahuvacana) āma khāita chalāha"
+],
+"They (plural of she) used to play cricket": [
+"ओ सभ (ओक बहुवचन) क्रिकेट खेलाइत छलाह",
+"O sabha (oka bahuvacana) krikeṭa khelāita chalāha"
+],
+"He used to be there": [
+"पहिने ओतहि रहैत छलाह",
+"Pahine otahi rahaita chalāha"
+],
+"She used to be quiet": [
+"पहिने ओ चुपचाप रहैत छलीह",
+"Pahine o cupacāpa rahaita chalīha"
+],
+"I did not use to do": [
+"हम करब पहिने नहि करैत छलहुँ",
+"Hama karaba pahine nahi karaita chalahu~"
+],
+"She did not use to speak": [
+"ओ बजबाक उपयोग नहि करैत छलीह",
+"O bajabāka upayoga nahi karaita chalīha"
+],
+"You did not use to dance": [
+"अहाँ नाचय के प्रयोग नहि करैत छलहुँ",
+"Ahā~ nācaya ke prayoga nahi karaita chalahu~"
+],
+"They (plural of he) did not use to eat mangos": [
+"ओ सभ (ओक बहुवचन) आम खाय लेल प्रयोग नहि करैत छलाह |",
+"O sabha (oka bahuvacana) āma khāya lela prayoga nahi karaita chalāha |"
+],
+"She did not use to be quiet": [
+"पहिने चुप नहि रहथि",
+"Pahine cupa nahi rahathi"
+],
+"He did not use to be there": [
+"पहिने ओतय नहि रहैत छलाह",
+"Pahine otaya nahi rahaita chalāha"
+],
+"He is used to dance": [
+"नाचबाक आदति छनि",
+"Nācabāka ādati chani"
+],
+"She is used to speak": [
+"बजबाक आदति छनि",
+"Bajabāka ādati chani"
+],
+"Those girls are used to laugh": [
+"ओहि लड़कियो सभकेँ हँसबाक आदति होइत छैक",
+"Ohi lar̤akiyo sabhake~ ha~sabāka ādati hoita chaika"
+],
+"I am used to be there": [
+"हमरा ओतय रहबाक आदति अछि",
+"Hamarā otaya rahabāka ādati achi"
+],
+"She is used to be quiet": [
+"चुप रहबाक आदति छनि",
+"Cupa rahabāka ādati chani"
+],
+"He is not used to dance": [
+"नाचबाक आदति नहि छनि",
+"Nācabāka ādati nahi chani"
+],
+"She is not used to speak": [
+"बजबाक आदति नहि छनि",
+"Bajabāka ādati nahi chani"
+],
+"I used to eat mango": [
+"हम आम खाइत छलहुँ",
+"Hama āma khāita chalahu~"
+],
+"Kaushik used to eat mango": [
+"कौशिक आम खाइत छल",
+"Kauśika āma khāita chala"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"कौशिक, गुरु, सुन्दर सब दिन भेटैत छल",
+"Kauśika, guru, sundara saba dina bheṭaita chala"
+],
+"My friends and I used to play cricket": [
+"हम आ हमर संगी सभ क्रिकेट खेलाइत रही",
+"Hama ā hamara saṃgī sabha krikeṭa khelāita rahī"
+],
+"I used to see": [
+"हम पहिने देखैत छलहुँ",
+"Hama pahine dekhaita chalahu~"
+],
+"Kaushik used to see": [
+"कौशिक देखैत छल",
+"Kauśika dekhaita chala"
+],
+"Kaushik used to do": [
+"कौशिक पहिने करैत छलाह",
+"Kauśika pahine karaita chalāha"
+],
+"He opened the door": [
+"ओ केबाड़ खोललक",
+"O kebār̤a kholalaka"
+],
+"If he had opened the door then": [
+"जँ तखने दरबज्जा खोलने रहितथि",
+"Ja~ takhane darabajjā kholane rahitathi"
+],
+"He had spoken": [
+"ओ बजने छलाह",
+"O bajane chalāha"
+],
+"If he had spoken": [
+"जँ ओ बजने रहितथि",
+"Ja~ o bajane rahitathi"
+],
+"If you had spoken then she would have spoken": [
+"जँ अहाँ बाजितहुँ तखन ओ बजितथि",
+"Ja~ ahā~ bājitahu~ takhana o bajitathi"
+],
+"If he had cried then they would have ran": [
+"जँ ओ कानने रहितथि तखन ओ सभ दौड़ि गेल रहितथि",
+"Ja~ o kānane rahitathi takhana o sabha daur̤i gela rahitathi"
+],
+"If you go I will cry": [
+"अहाँ जायब तँ हम कानब",
+"Ahā~ jāyaba ta~ hama kānaba"
+],
+"If he sings she will dance": [
+"जँ ओ गाओत तँ ओ नाचि लेतीह",
+"Ja~ o gāota ta~ o nāci letīha"
+],
+"reason of coming": [
+"आबै के कारण",
+"Ābai ke kāraṇa"
+],
+"She spoke after my dancing": [
+"हमर नाच के बाद ओ बजलीह",
+"Hamara nāca ke bāda o bajalīha"
+],
+"after I danced": [
+"हम नाचलाक बाद",
+"Hama nācalāka bāda"
+],
+"She spoke after I danced": [
+"हम नाचलाक बाद ओ बजलीह",
+"Hama nācalāka bāda o bajalīha"
+],
+"He cried after she went": [
+"ओकर गेलाक बाद ओ कानय लागल",
+"Okara gelāka bāda o kānaya lāgala"
+],
+"He told about his coming to school": [
+"ओ अपन स्कूल एबाक बात कहलनि",
+"O apana skūla ebāka bāta kahalani"
+],
+"He told me that he is coming": [
+"ओ हमरा कहलनि जे ओ आबि रहल छथि",
+"O hamarā kahalani je o ābi rahala chathi"
+],
+"He told me that he is going to come": [
+"ओ हमरा कहलक जे ओ आबय जा रहल अछि",
+"O hamarā kahalaka je o ābaya jā rahala achi"
+],
+"I don't remember she having said something": [
+"हमरा मोन नहि अछि जे ओ किछु कहने छलीह",
+"Hamarā mona nahi achi je o kichu kahane chalīha"
+],
+"I don't remember she having eaten mango": [
+"हमरा मोन नहि अछि जे ओ आम खा चुकल छलीह",
+"Hamarā mona nahi achi je o āma khā cukala chalīha"
+],
+"while I speak": [
+"जखन कि हम बजैत छी",
+"Jakhana ki hama bajaita chī"
+],
+"while I do": [
+"जखन कि हम करैत छी",
+"Jakhana ki hama karaita chī"
+],
+"while I dance": [
+"जखन कि हम नाचैत छी",
+"Jakhana ki hama nācaita chī"
+],
+"Come to see this photo": [
+"आऊ ई फोटो देखय लेल",
+"Āū ī phoṭo dekhaya lela"
+],
+"Come to eat with me": [
+"हमरा संग भोजन करय आउ",
+"Hamarā saṃga bhojana karaya āu"
+],
+"Smoking is prohibited": [
+"धूम्रपान पर रोक अछि",
+"Dhūmrapāna para roka achi"
+],
+"Court asked to be present tomorrow": [
+"कोर्ट काल्हि उपस्थित रहबाक लेल कहलक",
+"Korṭa kālhi upasthita rahabāka lela kahalaka"
+],
+"Sit and watch": [
+"बैसि कऽ देखू",
+"Baisi ka' dekhū"
+],
+"come and go": [
+"आबि जाउ",
+"Ābi jāu"
+],
+"He came and saw it": [
+"आबि कऽ देखलक",
+"Ābi ka' dekhalaka"
+],
+"They will go and check it": [
+"जा कऽ जाँच करत",
+"Jā ka' jā~ca karata"
+],
+"smile and say": [
+"मुस्कुराइत कहब",
+"Muskurāita kahaba"
+],
+"till I speak": [
+"जाबे हम बाजब",
+"Jābe hama bājaba"
+],
+"until she smiles": [
+"जाबे ओ मुस्कुराइत नहि रहतीह",
+"Jābe o muskurāita nahi rahatīha"
+],
+"till he goes": [
+"जाबे ओ नै जाएत",
+"Jābe o nai jāeta"
+],
+"until we come": [
+"जाबे हम सभ नै आएब",
+"Jābe hama sabha nai āeba"
+],
+"For good horse": [
+"नीक घोड़ाक लेल",
+"Nīka ghor̤āka lela"
+],
+"For good chair": [
+"नीक कुर्सी लेल",
+"Nīka kursī lela"
+],
+"After easy exam": [
+"आसान परीक्षा के बाद",
+"Āsāna parīkṣā ke bāda"
+],
+"For red horse": [
+"लाल घोड़ाक लेल",
+"Lāla ghor̤āka lela"
+],
+"About beautiful drawing": [
+"सुन्दर ड्राइंग के बारे में",
+"Sundara ḍrāiṃga ke bāre meṃ"
+],
+"I can eat": [
+"हम खा सकैत छी",
+"Hama khā sakaita chī"
+],
+"He can sing": [
+"ओ गाबि सकैत छथि",
+"O gābi sakaita chathi"
+],
+"You(plural) could eat mango": [
+"अहाँ(बहुवचन) आम खा सकैत छलहुँ",
+"Ahā~(bahuvacana) āma khā sakaita chalahu~"
+],
+"You(plural) could eat chutney": [
+"अहाँ(बहुवचन) चटनी खा सकैत छलहुँ",
+"Ahā~(bahuvacana) caṭanī khā sakaita chalahu~"
+],
+"She could dance": [
+"ओ नाचि सकैत छलीह",
+"O nāci sakaita chalīha"
+],
+"They (plural of she) will be able to move": [
+"ओ सभ (ओक बहुवचन) हिलबा मे सक्षम हेताह",
+"O sabha (oka bahuvacana) hilabā me sakṣama hetāha"
+],
+"I can not eat": [
+"हम नहि खा सकैत छी",
+"Hama nahi khā sakaita chī"
+],
+"He can not sing": [
+"ओ गाबि नहि सकैत छथि",
+"O gābi nahi sakaita chathi"
+],
+"She could not dance": [
+"ओ नाचि नहि सकलीह",
+"O nāci nahi sakalīha"
+],
+"You(plural) could not eat mango": [
+"अहाँ(बहुवचन) आम नहि खा सकलहुँ",
+"Ahā~(bahuvacana) āma nahi khā sakalahu~"
+],
+"You(plural) could not eat chutney": [
+"अहाँ(बहुवचन) चटनी नहि खा सकलहुँ",
+"Ahā~(bahuvacana) caṭanī nahi khā sakalahu~"
+],
+"They will not be able to move": [
+"ओ सभ हिलब-डुल नहि क’ सकैत छथि",
+"O sabha hilaba-ḍula nahi ka’ sakaita chathi"
+],
+"I can play cricket": [
+"हम क्रिकेट खेलाइत छी",
+"Hama krikeṭa khelāita chī"
+],
+"I could play cricket": [
+"हम क्रिकेट खेलाइत छलहुँ",
+"Hama krikeṭa khelāita chalahu~"
+],
+"I will be able to play cricket": [
+"हम क्रिकेट खेलाइत रहब",
+"Hama krikeṭa khelāita rahaba"
+],
+"He can eat mangoes": [
+"आम खा सकैए",
+"Āma khā sakaie"
+],
+"He could eat mangoes": [
+"आम खा सकैत छल",
+"Āma khā sakaita chala"
+],
+"He will be able to eat mangoes": [
+"आम खाए मे सक्षम हेताह",
+"Āma khāe me sakṣama hetāha"
+],
+"They could open box": [
+"ओ सभ बक्सा खोलि सकैत छल",
+"O sabha baksā kholi sakaita chala"
+],
+"They could open bag": [
+"बैग खोलि सकैत छलाह",
+"Baiga kholi sakaita chalāha"
+],
+"They could speak": [
+"ओ सभ बाजि सकैत छलाह",
+"O sabha bāji sakaita chalāha"
+],
+"They gathered to speak": [
+"ओ सभ बजबाक लेल जमा भ' गेलाह",
+"O sabha bajabāka lela jamā bha' gelāha"
+],
+"I want mango": [
+"हमरा आम चाही",
+"Hamarā āma cāhī"
+],
+"He wants mango": [
+"ओकरा आम चाही",
+"Okarā āma cāhī"
+],
+"She wants mango": [
+"ओकरा आम चाही",
+"Okarā āma cāhī"
+],
+"I/He/She want mangoes": [
+"हमरा/ओकरा आम चाही",
+"Hamarā/okarā āma cāhī"
+],
+"He/She/They want chalk": [
+"ओकरा/ओकरा/ओकरा सभकेँ चाक चाही",
+"Okarā/okarā/okarā sabhake~ cāka cāhī"
+],
+"He/She/They want chalks": [
+"ओकरा/ओकरा/ओकरा सभकेँ चाक चाही",
+"Okarā/okarā/okarā sabhake~ cāka cāhī"
+],
+"He/She/They want bag": [
+"ओकरा/ओकरा/ओकरा सभकेँ बैग चाही",
+"Okarā/okarā/okarā sabhake~ baiga cāhī"
+],
+"He/She/They want bags": [
+"ओकरा/ओकरा/ओकरा सभकेँ बैग चाही",
+"Okarā/okarā/okarā sabhake~ baiga cāhī"
+],
+"He/She/They want page": [
+"ओ/ओ/ओ सभ पन्ना चाहैत अछि",
+"O/o/o sabha pannā cāhaita achi"
+],
+"He/She/They want pages": [
+"ओकरा/ओकरा सभकेँ पन्ना चाही",
+"Okarā/okarā sabhake~ pannā cāhī"
+],
+"He/She/They wanted chalk": [
+"ओकरा/ओकरा/ओकरा सभकेँ चाक चाही छलैक",
+"Okarā/okarā/okarā sabhake~ cāka cāhī chalaika"
+],
+"He/She/They wanted chalks": [
+"ओकरा/ओकरा/ओकरा सभकेँ चाक चाही छलैक",
+"Okarā/okarā/okarā sabhake~ cāka cāhī chalaika"
+],
+"He/She/They wanted bag": [
+"ओ/ओ/ओ सभ बैग चाहैत छल",
+"O/o/o sabha baiga cāhaita chala"
+],
+"He/She/They wanted bags": [
+"ओकरा/ओकरा सभकेँ बैग चाही छल",
+"Okarā/okarā sabhake~ baiga cāhī chala"
+],
+"He/She/They wanted page": [
+"ओ/ओ/ओ सभ पन्ना चाहैत छल",
+"O/o/o sabha pannā cāhaita chala"
+],
+"He/She/They wanted pages": [
+"ओ/ओ/ओ सभ पन्ना चाहैत छल",
+"O/o/o sabha pannā cāhaita chala"
+],
+"He/She/They will need chalk": [
+"ओकरा/ओकरा/ओकरा सभकेँ चाक चाही",
+"Okarā/okarā/okarā sabhake~ cāka cāhī"
+],
+"He/She/They will need chalks": [
+"ओकरा/ओकरा/ओकरा चाक चाही",
+"Okarā/okarā/okarā cāka cāhī"
+],
+"He/She/They will need bag": [
+"ओकरा/ओकरा/ओकरा बैग चाही",
+"Okarā/okarā/okarā baiga cāhī"
+],
+"He/She/They will need bags": [
+"ओकरा/ओकरा/ओकरा बैगक आवश्यकता पड़तैक",
+"Okarā/okarā/okarā baigaka āvaśyakatā par̤ataika"
+],
+"He/She/They will need page": [
+"ओकरा/ओकरा/ओकरा सभकेँ पेज चाही",
+"Okarā/okarā/okarā sabhake~ peja cāhī"
+],
+"He/She/They will need pages": [
+"ओकरा/ओकरा/ओकरा सभकेँ पन्नाक आवश्यकता पड़तैक",
+"Okarā/okarā/okarā sabhake~ pannāka āvaśyakatā par̤ataika"
+],
+"I do not want mango": [
+"हमरा आम नहि चाही",
+"Hamarā āma nahi cāhī"
+],
+"She will not want bag": [
+"ओकरा बैग नहि चाही",
+"Okarā baiga nahi cāhī"
+],
+"He did not want chalk": [
+"ओकरा चाक नहि चाही छलैक",
+"Okarā cāka nahi cāhī chalaika"
+],
+"He did not want bag": [
+"ओकरा बैग नहि चाही छलैक",
+"Okarā baiga nahi cāhī chalaika"
+],
+"She does not want ice cream": [
+"ओकरा आइसक्रीम नहि चाही",
+"Okarā āisakrīma nahi cāhī"
+],
+"What will happen?": [
+"की हेतै।",
+"Kī hetai|"
+],
+"What is happening?": [
+"की भ' रहल अछि?",
+"Kī bha' rahala achi?"
+],
+"It did not happen": [
+"एहन नहि भेल",
+"Ehana nahi bhela"
+],
+"I will become winner": [
+"हम विजेता बनब",
+"Hama vijetā banaba"
+],
+"It was happening": [
+"भ' रहल छल",
+"Bha' rahala chala"
+],
+"He will become mad": [
+"ओ बताह भ’ जेताह",
+"O batāha bha’ jetāha"
+],
+"He should have eaten mango": [
+"आम खेबाक चाही छलनि",
+"Āma khebāka cāhī chalani"
+],
+"He should have eaten tamarind": [
+"ओकरा इमली खाबाक चाही छल",
+"Okarā imalī khābāka cāhī chala"
+],
+"He should eat mango": [
+"आम खा लेथि",
+"Āma khā lethi"
+],
+"He should go": [
+"ओकरा जेबाक चाही",
+"Okarā jebāka cāhī"
+],
+"He should have gone": [
+"हुनका जेबाक चाही छलनि",
+"Hunakā jebāka cāhī chalani"
+],
+"I should speak": [
+"हमरा बजबाक चाही",
+"Hamarā bajabāka cāhī"
+],
+"I should have spoken": [
+"हमरा बजबाक चाही छल",
+"Hamarā bajabāka cāhī chala"
+],
+"They should dance": [
+"नाचबाक चाही",
+"Nācabāka cāhī"
+],
+"They should not dance": [
+"हुनका सभकेँ नाचबाक चाही",
+"Hunakā sabhake~ nācabāka cāhī"
+],
+"They should have danced": [
+"हुनका सभकेँ नाचबाक चाही छलनि",
+"Hunakā sabhake~ nācabāka cāhī chalani"
+],
+"They should not have danced": [
+"हुनका सभकेँ नाचबाक चाही छलनि",
+"Hunakā sabhake~ nācabāka cāhī chalani"
+],
+"You should play": [
+"अहाँकेँ खेलाइत चाही",
+"Ahā~ke~ khelāita cāhī"
+],
+"You should not play": [
+"अहाँकेँ खेलाइत नहि चाही",
+"Ahā~ke~ khelāita nahi cāhī"
+],
+"You should have played": [
+"अहाँकेँ खेलाइत रहबाक चाही छल",
+"Ahā~ke~ khelāita rahabāka cāhī chala"
+],
+"You should not have smiled": [
+"अहाँकेँ मुस्कुराएब नहि चाही छल",
+"Ahā~ke~ muskurāeba nahi cāhī chala"
+],
+"She should open box": [
+"ओकरा बक्सा खोलबाक चाही",
+"Okarā baksā kholabāka cāhī"
+],
+"He should eat": [
+"ओकरा खाय के चाही",
+"Okarā khāya ke cāhī"
+],
+"You(male) should go": [
+"अहाँ(पुरुष) जेबाक चाही",
+"Ahā~(puruṣa) jebāka cāhī"
+],
+"You(male) should eat mango": [
+"अहाँ(पुरुष) आम खाउ",
+"Ahā~(puruṣa) āma khāu"
+],
+"He should not go": [
+"ओकरा नहि जेबाक चाही",
+"Okarā nahi jebāka cāhī"
+],
+"She should not open box": [
+"ओकरा डिब्बा नहि खोलबाक चाही",
+"Okarā ḍibbā nahi kholabāka cāhī"
+],
+"He should not eat": [
+"ओकरा नहि खाय के चाही",
+"Okarā nahi khāya ke cāhī"
+],
+"He should eat tamarind": [
+"ओ इमली खाए",
+"O imalī khāe"
+],
+"She should write letter": [
+"चिट्ठी लिखबाक चाही",
+"Ciṭṭhī likhabāka cāhī"
+],
+"You should eat mango": [
+"अहाँकेँ आम खाएब चाही",
+"Ahā~ke~ āma khāeba cāhī"
+],
+"He has to do it every day": [
+"ओकरा सभ दिन करय पड़ैत छैक",
+"Okarā sabha dina karaya par̤aita chaika"
+],
+"He will have to do it every day": [
+"ओकरा सभ दिन करए पड़तैक",
+"Okarā sabha dina karae par̤ataika"
+],
+"He had to do it every day": [
+"ओकरा सभ दिन करय पड़ैत छलैक",
+"Okarā sabha dina karaya par̤aita chalaika"
+],
+"She has to eat mango": [
+"आम खाए पड़तनि",
+"Āma khāe par̤atani"
+],
+"She will have to eat mango": [
+"आम खाए पड़तनि",
+"Āma khāe par̤atani"
+],
+"She had to eat mango": [
+"आम खाए पड़लनि",
+"Āma khāe par̤alani"
+],
+"She has to eat mangoes": [
+"आम खाए पड़ैत छैक",
+"Āma khāe par̤aita chaika"
+],
+"She has to eat tamarind": [
+"ओकरा इमली खाए पड़तैक",
+"Okarā imalī khāe par̤ataika"
+],
+"She has to eat tamarinds": [
+"ओकरा इमली खाय पड़ैत छैक",
+"Okarā imalī khāya par̤aita chaika"
+],
+"She has to eat medicine": [
+"दवाई खाए पड़ैत छैक",
+"Davāī khāe par̤aita chaika"
+],
+"She has to eat medicines": [
+"दवाई खाए पड़ैत छैक",
+"Davāī khāe par̤aita chaika"
+],
+"I have to go": [
+"हमरा जेबाक अछि",
+"Hamarā jebāka achi"
+],
+"We have to speak": [
+"हमरा सभकेँ बजए पड़त",
+"Hamarā sabhake~ bajae par̤ata"
+],
+"I keep speaking": [
+"हम बजैत रहैत छी",
+"Hama bajaita rahaita chī"
+],
+"I kept speaking": [
+"हम बजैत रहलहुँ",
+"Hama bajaita rahalahu~"
+],
+"I will keep speaking": [
+"हम बजैत रहब",
+"Hama bajaita rahaba"
+],
+"You keep speaking": [
+"अहाँ बजैत रहू",
+"Ahā~ bajaita rahū"
+],
+"You kept speaking": [
+"अहाँ बजैत रहलहुँ",
+"Ahā~ bajaita rahalahu~"
+],
+"You will keep speaking": [
+"अहाँ बजैत रहब",
+"Ahā~ bajaita rahaba"
+],
+"Keep speaking! (Imperative)": [
+"बजैत रहू! (अनिवार्य) २.",
+"Bajaita rahū! (anivārya) 2."
+],
+"He is taller than me": [
+"हमरासँ बेसी नमहर छथि",
+"Hamarāsa~ besī namahara chathi"
+],
+"I am shorter than you": [
+"हम अहाँसँ छोट छी",
+"Hama ahā~sa~ choṭa chī"
+],
+"They were happier than now": [
+"आबसँ बेसी खुश छलाह",
+"Ābasa~ besī khuśa chalāha"
+],
+"He is best": [
+"ओ सर्वश्रेष्ठ छथि",
+"O sarvaśreṣṭha chathi"
+],
+"Everest is the tallest peak": [
+"एवरेस्ट सबसँ ऊँच चोटी अछि",
+"Evaresṭa sabasa~ ū~ca coṭī achi"
+],
+"She was the youngest player": [
+"ओ सबसँ छोट खिलाड़ी छलीह",
+"O sabasa~ choṭa khilār̤ī chalīha"
+],
+"Your voice is loudest of all": [
+"अहाँक आवाज सबसँ बेसी तेज अछि",
+"Ahā~ka āvāja sabasa~ besī teja achi"
+],
+"Your name is known to me": [
+"अहाँक नाम हमरा बूझल अछि",
+"Ahā~ka nāma hamarā būjhala achi"
+],
+"She knows his address": [
+"ओकर पता ओकरा बुझल छैक",
+"Okara patā okarā bujhala chaika"
+],
+"She knew his address": [
+"ओकर पता ओकरा बुझल छलैक",
+"Okara patā okarā bujhala chalaika"
+],
+"Do you know it?": [
+"अहाँकेँ बुझल अछि ?",
+"Ahā~ke~ bujhala achi ?"
+],
+"Did she know that?": [
+"की ओकरा ई बात बुझल छलैक?",
+"Kī okarā ī bāta bujhala chalaika?"
+],
+"Your name is not known to me": [
+"अहाँक नाम हमरा नहि बुझल अछि",
+"Ahā~ka nāma hamarā nahi bujhala achi"
+],
+"She does not know his address": [
+"ओकर पता ओकरा नहि बुझल छैक",
+"Okara patā okarā nahi bujhala chaika"
+],
+"She did not know his address": [
+"हुनकर पता नहि बुझल छलनि",
+"Hunakara patā nahi bujhala chalani"
+],
+"Don't you know it?": [
+"अहाँकेँ नहि बुझल अछि ?",
+"Ahā~ke~ nahi bujhala achi ?"
+],
+"Didn't she know that?": [
+"की ओकरा ई बात नहि बुझल छलैक?",
+"Kī okarā ī bāta nahi bujhala chalaika?"
+],
+"I know eating cake": [
+"केक खायब हमरा बुझल अछि",
+"Keka khāyaba hamarā bujhala achi"
+],
+"I know swimming": [
+"हमरा हेलब अबैत अछि",
+"Hamarā helaba abaita achi"
+],
+"I know Japanese": [
+"हमरा जापानी अबैत अछि",
+"Hamarā jāpānī abaita achi"
+],
+"I know cooking": [
+"हमरा खाना बनाबय के ज्ञान अछि",
+"Hamarā khānā banābaya ke jñāna achi"
+],
+"Do you know playing cricket?": [
+"क्रिकेट खेलय के जानकारी अछि?",
+"Krikeṭa khelaya ke jānakārī achi?"
+],
+"I know killing mosquitoes": [
+"मच्छर मारब हमरा बुझल अछि",
+"Macchara māraba hamarā bujhala achi"
+],
+"She used to know dancing before": [
+"पहिने नाचब जनैत छलीह",
+"Pahine nācaba janaita chalīha"
+],
+"They knew to talk": [
+"गप्प करब जनैत छलाह",
+"Gappa karaba janaita chalāha"
+],
+"He learned. So he could speak Japanese": [
+"ओ सीखलनि। तेँ ओ जापानी बाजि सकैत छलाह",
+"O sīkhalani| te~ o jāpānī bāji sakaita chalāha"
+],
+"I do not know eating cake": [
+"केक खायब हमरा नहि बुझल अछि",
+"Keka khāyaba hamarā nahi bujhala achi"
+],
+"I do not know swimming": [
+"हमरा हेलब नहि अबैत अछि",
+"Hamarā helaba nahi abaita achi"
+],
+"I do not know Japanese": [
+"हमरा जापानी नहि अबैत अछि",
+"Hamarā jāpānī nahi abaita achi"
+],
+"She did not know dancing before": [
+"पहिने नाच-गान नहि अबैत छलीह",
+"Pahine nāca-gāna nahi abaita chalīha"
+],
+"They did not know to talk": [
+"गप्प करब नहि अबैत छलनि",
+"Gappa karaba nahi abaita chalani"
+],
+"He did not learn. So he could not speak Japanese": [
+"ओ नहि सीखलनि। तेँ ओ जापानी नहि बाजि सकैत छलाह",
+"O nahi sīkhalani| te~ o jāpānī nahi bāji sakaita chalāha"
+],
+"I(boy) know you": [
+"हम(लड़का) अहाँकेँ चिन्हैत छी",
+"Hama(lar̤akā) ahā~ke~ cinhaita chī"
+],
+"I(girl) know you": [
+"हम(लड़की) अहाँकेँ चिन्हैत छी",
+"Hama(lar̤akī) ahā~ke~ cinhaita chī"
+],
+"You know me": [
+"अहाँ हमरा चिन्हैत छी",
+"Ahā~ hamarā cinhaita chī"
+],
+"He knows Mr. Ram": [
+"ओ श्रीमान राम केँ चिन्हैत छथि",
+"O śrīmāna rāma ke~ cinhaita chathi"
+],
+"Let's not play": [
+"खेलाइत नहि",
+"Khelāita nahi"
+],
+"Let's not go": [
+"चलू नै जाइ",
+"Calū nai jāi"
+],
+"Let's not speak": [
+"बाजब नहि",
+"Bājaba nahi"
+],
+"Shall we play cricket? (style 1)": [
+"हम क्रिकेट खेलब की? (शैली १) २.",
+"Hama krikeṭa khelaba kī? (śailī 1) 2."
+],
+"Shall we play cricket? (style 2)": [
+"हम क्रिकेट खेलब की? (शैली २) २.",
+"Hama krikeṭa khelaba kī? (śailī 2) 2."
+],
+"Shall we watch movie? (style 1)": [
+"सिनेमा देखब की? (शैली १) २.",
+"Sinemā dekhaba kī? (śailī 1) 2."
+],
+"Shall we watch movie? (style 2)": [
+"सिनेमा देखब की? (शैली २) २.",
+"Sinemā dekhaba kī? (śailī 2) 2."
+],
+"Shall we go home? (style 1)": [
+"घर चलि जायब की? (शैली १) २.",
+"Ghara cali jāyaba kī? (śailī 1) 2."
+],
+"Shall we go home? (style 2)": [
+"घर चलि जायब की? (शैली २) २.",
+"Ghara cali jāyaba kī? (śailī 2) 2."
+],
+"Shall we eat mango? (style 1)": [
+"आम खाइ छी की? (शैली १) २.",
+"Āma khāi chī kī? (śailī 1) 2."
+],
+"Shall we eat mango? (style 2)": [
+"आम खाइ छी की? (शैली २) २.",
+"Āma khāi chī kī? (śailī 2) 2."
+],
+"Shall we eat tamarind? (style 1)": [
+"हम सब इमली खायब? (शैली १) २.",
+"Hama saba imalī khāyaba? (śailī 1) 2."
+],
+"Shall we eat tamarind? (style 2)": [
+"हम सब इमली खायब? (शैली २) २.",
+"Hama saba imalī khāyaba? (śailī 2) 2."
+],
+"Let him play": [
+"ओकरा खेलय दियौक",
+"Okarā khelaya diyauka"
+],
+"Let me eat": [
+"हमरा खाय दिअ",
+"Hamarā khāya dia"
+],
+"Let her speak": [
+"ओकरा बजय दियौक",
+"Okarā bajaya diyauka"
+],
+"You all, Let him play": [
+"अहाँ सब, ओकरा खेलय दियौक",
+"Ahā~ saba, okarā khelaya diyauka"
+],
+"You all, Let me eat": [
+"अहाँ सब, हमरा खाय दिअ",
+"Ahā~ saba, hamarā khāya dia"
+],
+"You all, Let her speak": [
+"अहाँ सब, ओकरा बजय दियौक",
+"Ahā~ saba, okarā bajaya diyauka"
+],
+"Don't let him play": [
+"ओकरा खेलय नहि दियौक",
+"Okarā khelaya nahi diyauka"
+],
+"Don't let me eat": [
+"हमरा खाय नहि दिअ",
+"Hamarā khāya nahi dia"
+],
+"You all, don't let her speak": [
+"अहाँ सब, ओकरा बजय नहि दियौक",
+"Ahā~ saba, okarā bajaya nahi diyauka"
+],
+"You all, don't let me eat": [
+"अहाँ सब, हमरा खाय नहि दियौक",
+"Ahā~ saba, hamarā khāya nahi diyauka"
+],
+"I could not understand what you just said": [
+"अहाँ एखन जे कहलहुँ से हम नहि बुझि सकलहुँ",
+"Ahā~ ekhana je kahalahu~ se hama nahi bujhi sakalahu~"
+],
+"Which fruit you want, show me that": [
+"कोन फल चाही, से देखाउ",
+"Kona phala cāhī, se dekhāu"
+],
+"When you come I feel happy": [
+"जखन अहाँ अबैत छी त हमरा खुशी होइत अछि",
+"Jakhana ahā~ abaita chī ta hamarā khuśī hoita achi"
+],
+"What is in your mind, tell me that": [
+"जे मोन मे अछि, से कहू",
+"Je mona me achi, se kahū"
+],
+"When you(girl) come I feel happy": [
+"जखन अहाँ(लड़की) अबैत छी त हमरा खुशी होइत अछि",
+"Jakhana ahā~(lar̤akī) abaita chī ta hamarā khuśī hoita achi"
+],
+"Go back, the way you have come": [
+"घुरि जाउ, जाहि रस्तासँ आबि गेल छी",
+"Ghuri jāu, jāhi rastāsa~ ābi gela chī"
+],
+"Give it to him, who wants it": [
+"ओकरा दऽ दियौक, जे चाहैत अछि",
+"Okarā da' diyauka, je cāhaita achi"
+],
+"Tell me about them whom you read about": [
+"जिनका बारे मे पढ़लौं हुनका सभक बारे मे बताउ",
+"Jinakā bāre me par̤halauṃ hunakā sabhaka bāre me batāu"
+],
+"Wherever you will go I will come": [
+"अहाँ जतय जायब हम आबि जायब",
+"Ahā~ jataya jāyaba hama ābi jāyaba"
+],
+"Whichever vegetables you want, you buy it": [
+"जे तरकारी चाही से कीनि लिअ",
+"Je tarakārī cāhī se kīni lia"
+],
+"Whenever you call he will answer": [
+"जखन कखनो फोन करब ओ जवाब देत",
+"Jakhana kakhano phona karaba o javāba deta"
+],
+"Do not smoke here": [
+"एतय सिगरेट नहि पीउ",
+"Etaya sigareṭa nahi pīu"
+],
+"Do not use mobile phones": [
+"मोबाइल फोन के प्रयोग नहि करू",
+"Mobāila phona ke prayoga nahi karū"
+],
+"Enter your preferences": [
+"अपन पसंद दर्ज करू",
+"Apana pasaṃda darja karū"
+],
+"Write your address": [
+"अपन पता लिखू",
+"Apana patā likhū"
+],
+"Write your addresses": [
+"अपन पता लिखू",
+"Apana patā likhū"
+],
+"Enter your preference": [
+"अपन पसंद दर्ज करू",
+"Apana pasaṃda darja karū"
+],
+"Speak your name": [
+"अपन नाम बाजू",
+"Apana nāma bājū"
+],
+"Speak your names": [
+"अपन नाम बाजू",
+"Apana nāma bājū"
+],
+"Do not speak": [
+"नहि बाजू",
+"Nahi bājū"
+],
+"Do not smoke": [
+"सिगरेट नहि पीउ",
+"Sigareṭa nahi pīu"
+],
+"Do not cross road here": [
+"एतय सड़क नहि पार करू",
+"Etaya sar̤aka nahi pāra karū"
+],
+"Do not pluck flowers": [
+"फूल नहि तोड़ब",
+"Phūla nahi tor̤aba"
+],
+"I like to eat mango": [
+"हमरा आम खाएब नीक लगैत अछि",
+"Hamarā āma khāeba nīka lagaita achi"
+],
+"I like to eat mangoes": [
+"हमरा आम खाएब नीक लगैत अछि",
+"Hamarā āma khāeba nīka lagaita achi"
+],
+"He liked to open bag": [
+"बैग खोलब ओकरा नीक लगैत छलैक",
+"Baiga kholaba okarā nīka lagaita chalaika"
+],
+"He liked to open bags": [
+"बैग खोलब हुनका नीक लगैत छलनि",
+"Baiga kholaba hunakā nīka lagaita chalani"
+],
+"She will like to sing song": [
+"गीत गाबय के नीक लागतनि",
+"Gīta gābaya ke nīka lāgatani"
+],
+"She will like to sing songs": [
+"गीत गाबय के नीक लागतनि",
+"Gīta gābaya ke nīka lāgatani"
+],
+"I do not like to eat mango": [
+"हमरा आम खायब नीक नहि लगैत अछि",
+"Hamarā āma khāyaba nīka nahi lagaita achi"
+],
+"I do not like to eat mangoes": [
+"हमरा आम खायब नीक नहि लगैत अछि",
+"Hamarā āma khāyaba nīka nahi lagaita achi"
+],
+"He did not like to open bag": [
+"बैग खोलब हुनका नीक नहि लगैत छलनि",
+"Baiga kholaba hunakā nīka nahi lagaita chalani"
+],
+"She will not like to sing song": [
+"गीत गाबय मे नीक नहि लागतनि",
+"Gīta gābaya me nīka nahi lāgatani"
+],
+"I like to see Kaushik": [
+"हमरा कौशिक देखब नीक लगैत अछि",
+"Hamarā kauśika dekhaba nīka lagaita achi"
+],
+"He likes to push me": [
+"हमरा धक्का देब ओकरा नीक लगैत छैक",
+"Hamarā dhakkā deba okarā nīka lagaita chaika"
+],
+"He likes to push her": [
+"ओकरा धक्का देब नीक लगैत छैक",
+"Okarā dhakkā deba nīka lagaita chaika"
+],
+"They will like to hold us": [
+"हमरा सभकेँ पकड़ब नीक लागत",
+"Hamarā sabhake~ pakar̤aba nīka lāgata"
+],
+"Kaushik said that he would eat": [
+"कौशिक कहलक जे खाएब",
+"Kauśika kahalaka je khāeba"
+],
+"I thought I would be late so I would have to run": [
+"सोचलहुँ जे देर भ’ जायत तेँ दौड़य पड़त",
+"Socalahu~ je dera bha’ jāyata te~ daur̤aya par̤ata"
+],
+"I would love to visit New York": [
+"हमरा न्यूयॉर्क घुमब नीक लागत",
+"Hamarā nyūyaॉrka ghumaba nīka lāgata"
+],
+"We would go, but we are too busy": [
+"हम सभ जाइत रही, मुदा हम सभ बेसी व्यस्त छी",
+"Hama sabha jāita rahī, mudā hama sabha besī vyasta chī"
+],
+"I would not disclose it in any condition": [
+"हम कोनो शर्त मे एकर खुलासा नहि करब",
+"Hama kono śarta me ekara khulāsā nahi karaba"
+],
+"Would you like to drink tea?": [
+"चाह पीबय चाहब?",
+"Cāha pībaya cāhaba?"
+],
+"Would you please help me?": [
+"कृपया हमर मदद करब?",
+"Kṛpayā hamara madada karaba?"
+],
+"I would suggest you to take this medicine": [
+"हम अहाँ के सुझाव देब जे ई दवाई खाउ",
+"Hama ahā~ ke sujhāva deba je ī davāī khāu"
+],
+"I understand its importance": [
+"एकर महत्व हम बुझैत छी",
+"Ekara mahatva hama bujhaita chī"
+],
+"He understood the logic": [
+"तर्क बुझि गेलाह",
+"Tarka bujhi gelāha"
+],
+"She came to know the news": [
+"ओ समाचार जानय लगलीह",
+"O samācāra jānaya lagalīha"
+],
+"They will understand your mistakes": [
+"अहाँक गलती बुझि जेताह",
+"Ahā~ka galatī bujhi jetāha"
+],
+"Did you understand?": [
+"बुझलौं की?",
+"Bujhalauṃ kī?"
+],
+"She does not understand": [
+"ओ नहि बुझैत छथि",
+"O nahi bujhaita chathi"
+],
+"He will not come to know this": [
+"ई बात हुनका नहि बुझल हेतनि",
+"Ī bāta hunakā nahi bujhala hetani"
+],
+"You are coming": [
+"अहाँ आबि रहल छी",
+"Ahā~ ābi rahala chī"
+],
+"You are coming, aren't you?": [
+"अहाँ आबि रहल छी ने?",
+"Ahā~ ābi rahala chī ne?"
+],
+"She did not speak": [
+"ओ नहि बजलीह",
+"O nahi bajalīha"
+],
+"She did not speak, did she?": [
+"ओ नहि बजलीह ने?",
+"O nahi bajalīha ne?"
+],
+"He will do": [
+"ओ करत",
+"O karata"
+],
+"He will do, won't he?": [
+"ओ करत ने?",
+"O karata ne?"
+],
+"I remember you": [
+"अहाँकेँ मोन पड़ैत अछि",
+"Ahā~ke~ mona par̤aita achi"
+],
+"You remember me": [
+"अहाँ हमरा मोन पाड़ैत छी",
+"Ahā~ hamarā mona pār̤aita chī"
+],
+"We remember Mary": [
+"हम मरियम मोन पाड़ैत छी",
+"Hama mariyama mona pār̤aita chī"
+],
+"Mary remembers us": [
+"मरियम हमरा सभकेँ मोन पाड़ैत अछि",
+"Mariyama hamarā sabhake~ mona pār̤aita achi"
+],
+"I remember you (miss)": [
+"हमरा मोन पड़ैत अछि अहाँ (मिस)",
+"Hamarā mona par̤aita achi ahā~ (misa)"
+],
+"Mary remembered us": [
+"मरियम हमरा सभकेँ मोन पाड़ि लेलक",
+"Mariyama hamarā sabhake~ mona pār̤i lelaka"
+],
+"Peter misses his friend": [
+"पीटर अपन दोस्त के याद करैत अछि",
+"Pīṭara apana dosta ke yāda karaita achi"
+],
+"She missed her mother a lot": [
+"माँ के बहुत याद आबै छेली",
+"Mā~ ke bahuta yāda ābai chelī"
+],
+"I will remember your favor": [
+"हम अहाँक एहसान मोन राखब",
+"Hama ahā~ka ehasāna mona rākhaba"
+],
+"He always remembered my advice": [
+"हमर सलाह सदिखन मोन पड़ैत छलनि",
+"Hamara salāha sadikhana mona par̤aita chalani"
+],
+"I want to eat mango": [
+"आम खाय चाहैत छी",
+"Āma khāya cāhaita chī"
+],
+"I want to eat mangoes": [
+"आम खाय चाहैत छी",
+"Āma khāya cāhaita chī"
+],
+"He wanted to open bag": [
+"बैग खोलय चाहैत छल",
+"Baiga kholaya cāhaita chala"
+],
+"He wanted to open bags": [
+"झोरा खोलय चाहैत छल",
+"Jhorā kholaya cāhaita chala"
+],
+"She will want to sing song": [
+"गीत गाबय के इच्छा हेतनि",
+"Gīta gābaya ke icchā hetani"
+],
+"She will want to sing songs": [
+"गीत गाबय के इच्छा हेतनि",
+"Gīta gābaya ke icchā hetani"
+],
+"I wanted to go": [
+"हमरा जेबाक इच्छा भेल",
+"Hamarā jebāka icchā bhela"
+],
+"I will want to run": [
+"हम दौड़य चाहब",
+"Hama daur̤aya cāhaba"
+],
+"I do not want to eat mango": [
+"आम खाय के इच्छा नहि अछि",
+"Āma khāya ke icchā nahi achi"
+],
+"He did not want to open bag": [
+"बैग खोलय के इच्छा नहि छल",
+"Baiga kholaya ke icchā nahi chala"
+],
+"She will not want to sing song": [
+"गीत गाबय के इच्छा नहि हेतनि",
+"Gīta gābaya ke icchā nahi hetani"
+],
+"Kaushik wants to see Peter": [
+"कौशिक पीटरकेँ देखय चाहैत अछि",
+"Kauśika pīṭarake~ dekhaya cāhaita achi"
+],
+"Kaushik wants to see him": [
+"कौशिक ओकरा देखय चाहैत अछि",
+"Kauśika okarā dekhaya cāhaita achi"
+],
+"Kaushik wants to see you": [
+"कौशिक अहाँकेँ देखय चाहैत अछि",
+"Kauśika ahā~ke~ dekhaya cāhaita achi"
+],
+"I want you to finish work": [
+"हम चाहैत छी जे अहाँ काज समाप्त करू",
+"Hama cāhaita chī je ahā~ kāja samāpta karū"
+],
+"She wants me to avoid junk food": [
+"ओ चाहैत छथि जे हम जंक फूड स बचब",
+"O cāhaita chathi je hama jaṃka phūḍa sa bacaba"
+],
+"Kaushik wants students to practice more": [
+"कौशिक चाहैत छथि जे विद्यार्थी बेसी अभ्यास करथि",
+"Kauśika cāhaita chathi je vidyārthī besī abhyāsa karathi"
+],
+"Kaushik wanted students to practice more": [
+"कौशिक चाहैत छलाह जे विद्यार्थी बेसी अभ्यास करथि",
+"Kauśika cāhaita chalāha je vidyārthī besī abhyāsa karathi"
+],
+"Students want Kaushik to talk slowly": [
+"विद्यार्थी चाहैत छथि जे कौशिक धीरे-धीरे गप्प करथि",
+"Vidyārthī cāhaita chathi je kauśika dhīre-dhīre gappa karathi"
+],
+"I am supposed to meet him tomorrow": [
+"काल्हि हुनकासँ भेंट करबाक अछि",
+"Kālhi hunakāsa~ bheṃṭa karabāka achi"
+],
+"I am supposed to finish that bottle": [
+"हमरा ओ बोतल समाप्त करबाक अछि",
+"Hamarā o botala samāpta karabāka achi"
+],
+"He is supposed to finish that bottle": [
+"ओहि बोतल केँ ओकरा समाप्त करबाक छैक",
+"Ohi botala ke~ okarā samāpta karabāka chaika"
+],
+"She is supposed to finish that bottle": [
+"ओहि बोतल केँ ओकरा समाप्त करबाक छैक",
+"Ohi botala ke~ okarā samāpta karabāka chaika"
+],
+"I/He/She was supposed to finish that bottle": [
+"हमरा/ओकरा/ओकरा ओहि बोतल केँ समाप्त करबाक छल",
+"Hamarā/okarā/okarā ohi botala ke~ samāpta karabāka chala"
+],
+"I/He/She was supposed to finish those bottles": [
+"हमरा/ओकरा/ओकरा ओहि बोतल सभकेँ समाप्त करबाक छल",
+"Hamarā/okarā/okarā ohi botala sabhake~ samāpta karabāka chala"
+],
+"I am supposed to go there tomorrow": [
+"काल्हि हमरा ओतय जेबाक अछि",
+"Kālhi hamarā otaya jebāka achi"
+],
+"He is supposed to come tomorrow": [
+"काल्हि आबय के अछि",
+"Kālhi ābaya ke achi"
+],
+"We could not meet but next time we must meet": [
+"भेंट नहि भ सकल मुदा अगिला बेर भेंट करय पड़त",
+"Bheṃṭa nahi bha sakala mudā agilā bera bheṃṭa karaya par̤ata"
+],
+"You must pay me ransom tomorrow itself": [
+"अहाँ हमरा काल्हि स्वयं फिरौती अवश्य देब",
+"Ahā~ hamarā kālhi svayaṃ phirautī avaśya deba"
+],
+"I get a prize": [
+"हमरा पुरस्कार भेटैत अछि",
+"Hamarā puraskāra bheṭaita achi"
+],
+"I get 10 prizes": [
+"हमरा १० टा पुरस्कार भेटैत अछि",
+"Hamarā 10 ṭā puraskāra bheṭaita achi"
+],
+"He gets a prize": [
+"हुनका पुरस्कार भेटैत छनि",
+"Hunakā puraskāra bheṭaita chani"
+],
+"He gets 10 prizes": [
+"हुनका 10टा पुरस्कार भेटैत छनि",
+"Hunakā 10ṭā puraskāra bheṭaita chani"
+],
+"He got a prize": [
+"पुरस्कार भेटलनि",
+"Puraskāra bheṭalani"
+],
+"He got 10 prizes": [
+"हुनका १०टा पुरस्कार भेटलनि",
+"Hunakā 10ṭā puraskāra bheṭalani"
+],
+"I found my wallet under the bed": [
+"पलंगक नीचाँ बटुआ भेटल",
+"Palaṃgaka nīcā~ baṭuā bheṭala"
+],
+"She became angry": [
+"ओ तमसा गेलीह",
+"O tamasā gelīha"
+],
+"He became angry": [
+"ओ तमसा गेलाह",
+"O tamasā gelāha"
+],
+"He agrees to this condition": [
+"ओ एहि शर्त पर सहमत छथि",
+"O ehi śarta para sahamata chathi"
+],
+"He agrees to these conditions": [
+"ओ एहि शर्त सभसँ सहमत छथि",
+"O ehi śarta sabhasa~ sahamata chathi"
+],
+"Finish it off in 10 minutes": [
+"10 मिनट मे एकरा समाप्त क दियौ",
+"10 minaṭa me ekarā samāpta ka diyau"
+],
+"Do not hesitate. Speak it out": [
+"संकोच नहि करू। एकरा बाजू",
+"Saṃkoca nahi karū| ekarā bājū"
+],
+"Nobody is looking. Just do it": [
+"कियो नहि ताकि रहल अछि। बस एकरा करू",
+"Kiyo nahi tāki rahala achi| basa ekarā karū"
+],
+"I somehow managed to gulp it": [
+"हम कोनो तरहेँ ओकरा गटकय मे सफल भ’ गेलहुँ",
+"Hama kono tarahe~ okarā gaṭakaya me saphala bha’ gelahu~"
+],
+"He quickly came and read the letter": [
+"ओ जल्दी-जल्दी आबि चिट्ठी पढ़ि लेलक",
+"O jaldī-jaldī ābi ciṭṭhī par̤hi lelaka"
+],
+"Ask whatever you want; right now": [
+"जे चाही से पूछू; एखन",
+"Je cāhī se pūchū; ekhana"
+],
+"You may call me whatever you want": [
+"अहाँ हमरा जे चाहब से बजा सकैत छी",
+"Ahā~ hamarā je cāhaba se bajā sakaita chī"
+],
+"Get that work done by him": [
+"ओ काज हुनकासँ करा दियौक",
+"O kāja hunakāsa~ karā diyauka"
+],
+"I made her take exercise every day": [
+"हम हुनका सभ दिन व्यायाम करबैत छलहुँ",
+"Hama hunakā sabha dina vyāyāma karabaita chalahu~"
+],
+"I washed clothes very hard": [
+"हम कपड़ा बहुत जोरसँ धोबैत छलहुँ",
+"Hama kapar̤ā bahuta jorasa~ dhobaita chalahu~"
+],
+"Batsman hit every ball very hard": [
+"बल्लेबाज हर गेंद पर बहुत जोर स मारलक",
+"Ballebāja hara geṃda para bahuta jora sa māralaka"
+],
+"I just told him we drank liquor": [
+"हम तऽ बस हुनका कहलियनि जे हम सब दारू पीबैत छी",
+"Hama ta' basa hunakā kahaliyani je hama saba dārū pībaita chī"
+],
+"Oh my God! What have I done!": [
+"हे भगवान! हम की केलहुँ!",
+"He bhagavāna! hama kī kelahu~!"
+],
+"Now keep crying": [
+"आब कानैत रहू",
+"Āba kānaita rahū"
+],
+"She will search it forever": [
+"ओ सदाक लेल खोजि लेतीह",
+"O sadāka lela khoji letīha"
+],
+"I forgot to tell you": [
+"कहब बिसरि गेलहुँ",
+"Kahaba bisari gelahu~"
+],
+"She could not see the sign": [
+"ओ चिन्ह नहि देखि सकलीह",
+"O cinha nahi dekhi sakalīha"
+],
+"Start following my advice": [
+"हमर सलाह के पालन करब शुरू करू",
+"Hamara salāha ke pālana karaba śurū karū"
+],
+"If you had taken exercise every day then": [
+"जँ तखन सभ दिन व्यायाम केने रहितहुँ",
+"Ja~ takhana sabha dina vyāyāma kene rahitahu~"
+],
+"I was about to open the door when I saw": [
+"हम केबाड़ खोलय जा रहल छलहुँ कि देखलियैक",
+"Hama kebār̤a kholaya jā rahala chalahu~ ki dekhaliyaika"
+],
+"If we think of eating mango then": [
+"जँ आम खाइ के सोचब तखन",
+"Ja~ āma khāi ke socaba takhana"
+],
+"If he decides to take revenge": [
+"जँ ओ बदला लेबाक निर्णय क' लेत",
+"Ja~ o badalā lebāka nirṇaya ka' leta"
+],
+"Give him your information": [
+"हुनका अपन जानकारी दियौक",
+"Hunakā apana jānakārī diyauka"
+],
+"Keep tea ready": [
+"चाह तैयार राखू",
+"Cāha taiyāra rākhū"
+],
+"We have booked tickets": [
+"हम टिकट बुक क लेने छी",
+"Hama ṭikaṭa buka ka lene chī"
+],
+"I had already given my password": [
+"हम अपन पासवर्ड पहिने द’ देने छलहुँ",
+"Hama apana pāsavarḍa pahine da’ dene chalahu~"
+],
+"I have decided plan for tonight": [
+"आइ राति लेल योजना तय कएने छी",
+"Āi rāti lela yojanā taya kaene chī"
+],
+"He happened to say he was from India": [
+"संयोगवश ओ कहलक जे ओ भारतक छी",
+"Saṃyogavaśa o kahalaka je o bhārataka chī"
+],
+"I happened to hear about strike": [
+"संयोगवश हड़ताल के बात सुनलहुं",
+"Saṃyogavaśa har̤atāla ke bāta sunalahuṃ"
+],
+"Hey! When did you come?": [
+"नमस्कार! कहिया आबि गेलहुँ?",
+"Namaskāra! kahiyā ābi gelahu~?"
+],
+"Nice smell / Very tasty": [
+"नीक गंध / बहुत स्वादिष्ट",
+"Nīka gaṃdha / bahuta svādiṣṭa"
+],
+"Oh my God! Who did this?": [
+"हे भगवान! ई के केलक?",
+"He bhagavāna! ī ke kelaka?"
+],
+"Oh! He failed!": [
+"ओह! ओ असफल भ' गेल!",
+"Oha! o asaphala bha' gela!"
+],
+"No! He will never do it": [
+"नहि! ओ कहियो नहि करत",
+"Nahi! o kahiyo nahi karata"
+],
+"No! I do not believe": [
+"नहि! हमरा विश्वास नहि अछि",
+"Nahi! hamarā viśvāsa nahi achi"
+],
+"Yes! I will surely come": [
+"हँ! हम अवश्य आबि जायब",
+"Ha~! hama avaśya ābi jāyaba"
+],
+"Hmm! I got it": [
+"ह्म्म्म! हमरा भेटि गेल",
+"Hmmma! hamarā bheṭi gela"
+],
+"Well done! You won": [
+"नीक केलहुं! अहाँ जीत गेलहुँ",
+"Nīka kelahuṃ! ahā~ jīta gelahu~"
+],
+"Mummy! It is paining": [
+"मम्मी! कष्टदायक अछि",
+"Mammī! kaṣṭadāyaka achi"
+],
+"Yuck! It looks ugly": [
+"यक! कुरूप लगैत अछि",
+"Yaka! kurūpa lagaita achi"
+],
+"I spit on your cowardice": [
+"हम अहाँक कायरता पर थूकि देलियैक",
+"Hama ahā~ka kāyaratā para thūki deliyaika"
+],
+"Shhh! Keep quiet": [
+"श्श्ह! चुप रहू",
+"Śśha! cupa rahū"
+],
+"How well you danced!": [
+"कतेक नीक नाचलहुँ!",
+"Kateka nīka nācalahu~!"
+],
+"What a fool he is!": [
+"केहन मूर्ख अछि ओ!",
+"Kehana mūrkha achi o!"
+],
+"Oh! What happened then?": [
+"ओह! तखन की भेल?",
+"Oha! takhana kī bhela?"
+],
+"Oh! When did you come?": [
+"ओह! कहिया आबि गेलहुँ?",
+"Oha! kahiyā ābi gelahu~?"
+],
+"Someone may see it! (blush)": [
+"कियो देखि सकैत अछि! (ब्लश) २.",
+"Kiyo dekhi sakaita achi! (blaśa) 2."
+],
+"May I come": [
+"हम आबि जाइ",
+"Hama ābi jāi"
+],
+"May I go": [
+"हम जाइ छी",
+"Hama jāi chī"
+],
+"May we come": [
+"हम आबी",
+"Hama ābī"
+],
+"May we go": [
+"हम जाइ",
+"Hama jāi"
+],
+"May we speak": [
+"हम बाजब",
+"Hama bājaba"
+],
+"May you come": [
+"अहाँ आबी",
+"Ahā~ ābī"
+],
+"May you speak": [
+"अहाँ बाजब",
+"Ahā~ bājaba"
+],
+"May he tell": [
+"ओ कहथिन",
+"O kahathina"
+],
+"Can I tell": [
+"हम कहि सकैत छी",
+"Hama kahi sakaita chī"
+],
+"Can I write": [
+"की हम लिखि सकैत छी",
+"Kī hama likhi sakaita chī"
+],
+"May you give pen": [
+"कलम दिअ",
+"Kalama dia"
+],
+"Please give pen": [
+"कृपया कलम दे",
+"Kṛpayā kalama de"
+],
+"Please tell address": [
+"पता बताइए",
+"Patā batāie"
+],
+"He may go": [
+"ओ जा सकैत अछि",
+"O jā sakaita achi"
+],
+"I may sing": [
+"हम गाबि सकैत छी",
+"Hama gābi sakaita chī"
+],
+"He might come": [
+"भ' सकैछ जे ओ आबि जाथि",
+"Bha' sakaicha je o ābi jāthi"
+],
+"He might have gone yesterday": [
+"काल्हि चलि गेल रहितथि",
+"Kālhi cali gela rahitathi"
+],
+"She might have completed it": [
+"भ' सकैछ जे ओ एकरा पूरा क' लेने हेतीह",
+"Bha' sakaicha je o ekarā pūrā ka' lene hetīha"
+],
+"They might have returned yesterday": [
+"काल्हि घुरि गेल हेताह",
+"Kālhi ghuri gela hetāha"
+],
+"He had gone": [
+"ओ चलि गेल छलाह",
+"O cali gela chalāha"
+],
+"He might have gone": [
+"भ' सकैछ जे ओ चलि गेल होथि",
+"Bha' sakaicha je o cali gela hothi"
+],
+"She had said": [
+"ओ कहने छलीह",
+"O kahane chalīha"
+],
+"She might have said": [
+"ओ कहने हेतीह",
+"O kahane hetīha"
+],
+"You have eaten mango": [
+"आम खा लेलौं",
+"Āma khā lelauṃ"
+],
+"You might have eaten mango": [
+"आम खा गेल होयब",
+"Āma khā gela hoyaba"
+],
+"The day I like": [
+"जे दिन हमरा नीक लगैत अछि",
+"Je dina hamarā nīka lagaita achi"
+],
+"Boy who is giving": [
+"लड़का जे द रहल अछि",
+"Lar̤akā je da rahala achi"
+],
+"Person who is dancing": [
+"व्यक्ति जे नाच रहल अछि",
+"Vyakti je nāca rahala achi"
+],
+"Pot on table": [
+"टेबुल पर बर्तन",
+"Ṭebula para bartana"
+],
+"Jar on table": [
+"टेबुल पर जार",
+"Ṭebula para jāra"
+],
+"Leaf on table": [
+"टेबुल पर पात",
+"Ṭebula para pāta"
+],
+"Gift inside box": [
+"बक्सा के अंदर उपहार",
+"Baksā ke aṃdara upahāra"
+],
+"Area outside my home": [
+"हमर घरक बाहरक इलाका",
+"Hamara gharaka bāharaka ilākā"
+],
+"I make him say": [
+"हम ओकरा कहै छी",
+"Hama okarā kahai chī"
+],
+"I will make him say": [
+"हम हुनका कहबा देबनि",
+"Hama hunakā kahabā debani"
+],
+"I made him say": [
+"हम ओकरा कहय लेल बाध्य क’ देलियैक",
+"Hama okarā kahaya lela bādhya ka’ deliyaika"
+],
+"He made me work": [
+"हमरा काज करौलनि",
+"Hamarā kāja karaulani"
+],
+"He makes me work": [
+"हमरा काज करबैत छथि",
+"Hamarā kāja karabaita chathi"
+],
+"He will make me work": [
+"ओ हमरा काज करौताह",
+"O hamarā kāja karautāha"
+],
+"That joke made me laugh": [
+"ओ मजाक हमरा हँसा देलक",
+"O majāka hamarā ha~sā delaka"
+],
+"Peter made Mary eat mango": [
+"पत्रुस मरियम के आम खाय लेल बाध्य क देलखिन",
+"Patrusa mariyama ke āma khāya lela bādhya ka delakhina"
+],
+"Peter made Mary eat mangoes": [
+"पत्रुस मरियम के आम खाय लेल बाध्य क देलखिन",
+"Patrusa mariyama ke āma khāya lela bādhya ka delakhina"
+],
+"I myself did it": [
+"हम स्वयं केलौं",
+"Hama svayaṃ kelauṃ"
+],
+"I did this itself": [
+"ई काज हम स्वयं केलहुँ",
+"Ī kāja hama svayaṃ kelahu~"
+],
+"I will come tomorrow itself": [
+"हम काल्हि स्वयं आबि जायब",
+"Hama kālhi svayaṃ ābi jāyaba"
+],
+"I will surely come": [
+"हम अवश्य आबि जायब",
+"Hama avaśya ābi jāyaba"
+],
+"I have seen India only": [
+"हम भारत मात्र देखलहुँ अछि",
+"Hama bhārata mātra dekhalahu~ achi"
+],
+"He kept on talking": [
+"ओ गप्प करैत रहलाह",
+"O gappa karaita rahalāha"
+],
+"He kept on staring that car": [
+"ओ ओहि गाड़ी केँ एकटक तकैत रहलाह",
+"O ohi gār̤ī ke~ ekaṭaka takaita rahalāha"
+],
+"I want only sedan car": [
+"हमरा मात्र सेडान गाड़ी चाही",
+"Hamarā mātra seḍāna gār̤ī cāhī"
+],
+"I must go there": [
+"हमरा ओतय अवश्य जायब",
+"Hamarā otaya avaśya jāyaba"
+],
+"Why just me?": [
+"खाली हमरे किएक?",
+"Khālī hamare kieka?"
+],
+"I have a car": [
+"हमरा लग गाड़ी अछि",
+"Hamarā laga gār̤ī achi"
+],
+"I have 10 cars": [
+"हमरा लग 10 टा गाड़ी अछि",
+"Hamarā laga 10 ṭā gār̤ī achi"
+],
+"I had a car": [
+"हमरा लग एकटा गाड़ी छल",
+"Hamarā laga ekaṭā gār̤ī chala"
+],
+"Anup will have watch": [
+"अनुप के घड़ी रहत",
+"Anupa ke ghar̤ī rahata"
+],
+"I do not have car": [
+"हमरा लग गाड़ी नहि अछि",
+"Hamarā laga gār̤ī nahi achi"
+],
+"I did not have car": [
+"हमरा लग गाड़ी नहि छल",
+"Hamarā laga gār̤ī nahi chala"
+],
+"I have 2 brothers": [
+"हमर २ भाइ अछि",
+"Hamara 2 bhāi achi"
+],
+"He has three paternal uncles": [
+"तीन टा पैतृक काका छथि",
+"Tīna ṭā paitṛka kākā chathi"
+],
+"Ravi had 2 kids": [
+"रवि के 2 टा बच्चा छल",
+"Ravi ke 2 ṭā baccā chala"
+],
+"He does not have a brother": [
+"हुनका भाइ नहि छनि",
+"Hunakā bhāi nahi chani"
+],
+"She did not have any relatives": [
+"हुनकर कोनो रिश्तेदार नहि छलनि",
+"Hunakara kono riśtedāra nahi chalani"
+],
+"What does it mean?": [
+"एकर की अर्थ होइत छैक ?",
+"Ekara kī artha hoita chaika ?"
+],
+"What does that signboard mean?": [
+"ओहि साइनबोर्डक की मतलब होइत छैक?",
+"Ohi sāinaborḍaka kī matalaba hoita chaika?"
+],
+"What did his speech mean?": [
+"हुनकर भाषणक की अर्थ छलनि?",
+"Hunakara bhāṣaṇaka kī artha chalani?"
+],
+"What does encyclopedia mean?": [
+"विश्वकोशक की अर्थ होइत छैक ?",
+"Viśvakośaka kī artha hoita chaika ?"
+],
+"What does Sundar mean in Marathi?": [
+"मराठीमे सुन्दरक की अर्थ होइत छैक ?",
+"Marāṭhīme sundaraka kī artha hoita chaika ?"
+],
+"I did mean it": [
+"हमर मतलब तऽ छल",
+"Hamara matalaba ta' chala"
+],
+"I did not mean it": [
+"हमर मतलब ई नहि छल",
+"Hamara matalaba ī nahi chala"
+],
+"He did not mean hurting you": [
+"हुनकर मतलब अहाँक चोट पहुँचेबाक नहि छलनि",
+"Hunakara matalaba ahā~ka coṭa pahu~cebāka nahi chalani"
+],
+"I meant to insult him": [
+"हमर मतलब छल जे हुनकर अपमान करब",
+"Hamara matalaba chala je hunakara apamāna karaba"
+],
+"He and me": [
+"ओ आ हम",
+"O ā hama"
+],
+"Milk and sugar": [
+"दूध आ चीनी",
+"Dūdha ā cīnī"
+],
+"I want to buy but shop is closed": [
+"हम कीनय चाहैत छी मुदा दोकान बंद अछि",
+"Hama kīnaya cāhaita chī mudā dokāna baṃda achi"
+],
+"He was clever but did not work hard": [
+"चतुर छलाह मुदा मेहनति नहि केलनि",
+"Catura chalāha mudā mehanati nahi kelani"
+],
+"I had warned him, still he opened the box": [
+"हम ओकरा चेता देने छलहुँ, तइयो ओ डिब्बा खोललक",
+"Hama okarā cetā dene chalahu~, taiyo o ḍibbā kholalaka"
+],
+"He helped her still she insulted him": [
+"ओ ओकर मदद केलक तइयो ओ ओकर अपमान केलक",
+"O okara madada kelaka taiyo o okara apamāna kelaka"
+],
+"I did not come yesterday, because I was sick": [
+"काल्हि नहि आयल छलहुँ, कारण हम बीमार छलहुँ",
+"Kālhi nahi āyala chalahu~, kāraṇa hama bīmāra chalahu~"
+],
+"Car will not start because no petrol": [
+"गाड़ी स्टार्ट नहि होयत कारण पेट्रोल नहि",
+"Gār̤ī sṭārṭa nahi hoyata kāraṇa peṭrola nahi"
+],
+"I was sick so I did not come": [
+"हम बीमार छलहुँ तेँ नहि आयल छलहुँ",
+"Hama bīmāra chalahu~ te~ nahi āyala chalahu~"
+],
+"No petrol so car will not start": [
+"पेट्रोल नहि तेँ गाड़ी स्टार्ट नहि होयत",
+"Peṭrola nahi te~ gār̤ī sṭārṭa nahi hoyata"
+],
+"He told her that he is happy": [
+"ओ ओकरा कहलक जे हम खुश छथि",
+"O okarā kahalaka je hama khuśa chathi"
+],
+"I am sure that we will succeed": [
+"हमरा विश्वास अछि जे हम सब सफल होयब",
+"Hamarā viśvāsa achi je hama saba saphala hoyaba"
+],
+"As you wish, my lord": [
+"जेना अहाँक इच्छा अछि, हमर प्रभु",
+"Jenā ahā~ka icchā achi, hamara prabhu"
+],
+"Do it the same way as he is doing": [
+"जेना ओ क' रहल छथि तहिना करू",
+"Jenā o ka' rahala chathi tahinā karū"
+],
+"He as well as me": [
+"ओहो हमरा संग-संग",
+"Oho hamarā saṃga-saṃga"
+],
+"She sang as well as danced": [
+"नाच के संग संग गाबैत छलीह",
+"Nāca ke saṃga saṃga gābaita chalīha"
+],
+"He or me": [
+"ओ वा हम",
+"O vā hama"
+],
+"Do or die": [
+"करू वा मरि जाउ",
+"Karū vā mari jāu"
+],
+"Neither he nor I were interested": [
+"ने हुनका रुचि छल आ ने हमरा",
+"Ne hunakā ruci chala ā ne hamarā"
+],
+"I finished study then I went to play": [
+"पढ़ाई समाप्त केलौं तखन खेलय चलि गेलौं",
+"Par̤hāī samāpta kelauṃ takhana khelaya cali gelauṃ"
+],
+"I will call you then you enter on stage": [
+"हम अहाँ के फोन करब तखन अहाँ मंच पर प्रवेश करू",
+"Hama ahā~ ke phona karaba takhana ahā~ maṃca para praveśa karū"
+],
+"As long as you want me, I will stay": [
+"जाबे अहाँ हमरा चाही ताबे हम रहब",
+"Jābe ahā~ hamarā cāhī tābe hama rahaba"
+],
+"As long as you follow rules": [
+"जाबे तक नियमक पालन करब",
+"Jābe taka niyamaka pālana karaba"
+],
+"As far as I know, he is studious": [
+"हमरा जनैत ओ अध्ययनशील छथि",
+"Hamarā janaita o adhyayanaśīla chathi"
+],
+"As far as India is concerned": [
+"जहाँ तक भारत के बात अछि",
+"Jahā~ taka bhārata ke bāta achi"
+],
+"As far as literacy is concerned": [
+"जहाँ तक साक्षरता के बात अछि",
+"Jahā~ taka sākṣaratā ke bāta achi"
+],
+"He is blaming me as if I have not tried": [
+"ओ हमरा एना दोषी ठहरा रहल छथि जेना हम प्रयास नहि केने छी",
+"O hamarā enā doṣī ṭhaharā rahala chathi jenā hama prayāsa nahi kene chī"
+],
+"He passed by as if she was not there": [
+"ओ ओहि ठाम सँ एना गुजरि गेल जेना ओ नहि छलीह",
+"O ohi ṭhāma sa~ enā gujari gela jenā o nahi chalīha"
+],
+"As soon as he came": [
+"जहिना ओ आबि गेलाह",
+"Jahinā o ābi gelāha"
+],
+"As soon as she saw": [
+"जहिना देखलनि",
+"Jahinā dekhalani"
+],
+"As soon as they become": [
+"जहिना बनैत छथि",
+"Jahinā banaita chathi"
+],
+"Let me know once he comes": [
+"एक बेर आबि गेला पर हमरा बताउ",
+"Eka bera ābi gelā para hamarā batāu"
+],
+"Once I see your story I will give review": [
+"एक बेर अहाँक कथा देखि हम समीक्षा देब",
+"Eka bera ahā~ka kathā dekhi hama samīkṣā deba"
+],
+"Rather than surrendering soldier will accept death": [
+"समर्पण करबा स बेसी सिपाही मौत स्वीकार करत",
+"Samarpaṇa karabā sa besī sipāhī mauta svīkāra karata"
+],
+"I will take tea rather than coffee": [
+"हम कॉफी स बेसी चाह लेब",
+"Hama kaॉphī sa besī cāha leba"
+],
+"I will work hard so that I will win": [
+"हम मेहनत करब जाहि स हम जीतब",
+"Hama mehanata karaba jāhi sa hama jītaba"
+],
+"We should avoid plastic so that less pollution": [
+"हमरा सब के प्लास्टिक स बचबाक चाही ताकि प्रदूषण कम हो",
+"Hamarā saba ke plāsṭika sa bacabāka cāhī tāki pradūṣaṇa kama ho"
+],
+"He cheated me whereas I was helping him": [
+"ओ हमरा ठकलक जखन कि हम ओकर मददि क' रहल छलहुँ",
+"O hamarā ṭhakalaka jakhana ki hama okara madadi ka' rahala chalahu~"
+],
+"Govt said prices declined whereas inflation rose": [
+"सरकार कहलक जे दाम मे गिरावट आयल जखन कि महंगाई मे बढ़ोतरी भेल",
+"Sarakāra kahalaka je dāma me girāvaṭa āyala jakhana ki mahaṃgāī me bar̤hotarī bhela"
+],
+"I did not know whether he is going": [
+"हमरा नहि बुझल छल जे ओ जा रहल छथि कि नहि",
+"Hamarā nahi bujhala chala je o jā rahala chathi ki nahi"
+],
+"She could not realize whether to speak or not": [
+"बाजब वा नहि बाजब से बुझि नहि सकलीह",
+"Bājaba vā nahi bājaba se bujhi nahi sakalīha"
+],
+"Do this otherwise you will not win": [
+"ई काज करू अन्यथा अहाँ जीतब नहि",
+"Ī kāja karū anyathā ahā~ jītaba nahi"
+],
+"He should inform me otherwise I will not know": [
+"ओ हमरा सूचित करथि अन्यथा हमरा नहि पता चलत",
+"O hamarā sūcita karathi anyathā hamarā nahi patā calata"
+],
+"I also ran": [
+"हमहूँ दौड़लहुँ",
+"Hamahū~ daur̤alahu~"
+],
+"He will come tomorrow as well": [
+"काल्हि सेहो आओत",
+"Kālhi seho āota"
+],
+"This is old video. I saw it. I am sharing today": [
+"ई पुरान वीडियो अछि। हम देखलहुँ। आइ शेयर क रहल छी",
+"Ī purāna vīḍiyo achi| hama dekhalahu~| āi śeyara ka rahala chī"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"ई पुरान वीडियो अछि, तइयो देखलौं ताहि लेल आई शेयर क रहल छी",
+"Ī purāna vīḍiyo achi, taiyo dekhalauṃ tāhi lela āī śeyara ka rahala chī"
+],
+"This is old song. I heard it today": [
+"ई पुरान गीत अछि। आइ सुनलहुँ",
+"Ī purāna gīta achi| āi sunalahu~"
+],
+"Though it is old song, I heard it today": [
+"पुरान गीत रहितो आइ सुनलहुँ",
+"Purāna gīta rahito āi sunalahu~"
+],
+"My wife was standing there. He asked about girlfriend": [
+"हमर पत्नी ओतहि ठाढ़ छलीह। ओ प्रेमिकाक विषय मे पुछलनि",
+"Hamara patnī otahi ṭhār̤ha chalīha| o premikāka viṣaya me puchalani"
+],
+"My wife was standing there yet he asked": [
+"हमर पत्नी ठाढ़ छलीह तैयो ओ पुछलखिन",
+"Hamara patnī ṭhār̤ha chalīha taiyo o puchalakhina"
+],
+"Policeman was watching. He did not dare to run": [
+"पुलिसकर्मी देखि रहल छल। दौड़बाक हिम्मत नहि भेलनि",
+"Pulisakarmī dekhi rahala chala| daur̤abāka himmata nahi bhelani"
+],
+"As policeman was watching he did not dare": [
+"जेना-जेना पुलिस वाला देखैत छल ओकरा हिम्मत नहि भेलैक",
+"Jenā-jenā pulisa vālā dekhaita chala okarā himmata nahi bhelaika"
+],
+"I had illusion of monsters coming": [
+"हमरा राक्षस आबय के भ्रम छल",
+"Hamarā rākṣasa ābaya ke bhrama chala"
+],
+"Now she will search it forever": [
+"आब ओ सदाक लेल खोजि लेतीह",
+"Āba o sadāka lela khoji letīha"
+],
+"If we think of eating mango then..": [
+"अगर आम खाय के बारे में सोचैत छी तखन..",
+"Agara āma khāya ke bāre meṃ socaita chī takhana.."
+],
+"If he decides to take revenge..": [
+"अगर ओ बदला लेबय के फैसला करय..",
+"Agara o badalā lebaya ke phaisalā karaya.."
+],
+"I have decided a plan for tonight": [
+"आइ राति लेल योजना तय कएने छी",
+"Āi rāti lela yojanā taya kaene chī"
+],
+"I feel this way": [
+"हमरा एहन लगैत अछि",
+"Hamarā ehana lagaita achi"
+],
+"I feel this": [
+"हमरा ई बात बुझाइत अछि",
+"Hamarā ī bāta bujhāita achi"
+],
+"He felt that I will not come": [
+"हुनका लागलनि जे हम नहि आएब",
+"Hunakā lāgalani je hama nahi āeba"
+],
+"What do you feel?": [
+"अहाँकेँ की लगैत अछि ?",
+"Ahā~ke~ kī lagaita achi ?"
+],
+"He felt happiness": [
+"ओकरा सुखक अनुभूति भेलैक",
+"Okarā sukhaka anubhūti bhelaika"
+],
+"Don't you feel ashamed?": [
+"अहाँकेँ लाज नहि लगैत अछि?",
+"Ahā~ke~ lāja nahi lagaita achi?"
+],
+"Kaushik thinks he should go": [
+"कौशिक सोचै छै जे ओकरा जेबाक चाही",
+"Kauśika socai chai je okarā jebāka cāhī"
+],
+"He will feel bad": [
+"ओकरा खराप लागत",
+"Okarā kharāpa lāgata"
+],
+"To show different aspects": [
+"अलग-अलग पहलू देखाबय लेल",
+"Alaga-alaga pahalū dekhābaya lela"
+],
+"To follow up & pressurize": [
+"फॉलो अप एवं दबाव बनाने के लिये",
+"Phaॉlo apa evaṃ dabāva banāne ke liye"
+],
+"Every home same story": [
+"हर घर एके कहानी",
+"Hara ghara eke kahānī"
+],
+"To approve formally": [
+"औपचारिक रूप स अनुमोदन करब",
+"Aupacārika rūpa sa anumodana karaba"
+],
+"To cause destruction": [
+"विनाश करबाक लेल",
+"Vināśa karabāka lela"
+],
+"Repeat like tape": [
+"टेप जकाँ दोहराउ",
+"Ṭepa jakā~ doharāu"
+],
+"To force to do": [
+"जबरदस्ती करब",
+"Jabaradastī karaba"
+],
+"No control on tongue": [
+"जीह पर कोनो नियंत्रण नहि",
+"Jīha para kono niyaṃtraṇa nahi"
+],
+"Not utter a word": [
+"एक शब्दक उच्चारण नहि",
+"Eka śabdaka uccāraṇa nahi"
+],
+"To take control": [
+"नियंत्रण लेबाक लेल",
+"Niyaṃtraṇa lebāka lela"
+],
+"To feel embarrassed": [
+"शर्मिंदगी महसूस करब",
+"Śarmiṃdagī mahasūsa karaba"
+],
+"To spew venom": [
+"जहर उगलब",
+"Jahara ugalaba"
+],
+"To uncover mystery": [
+"रहस्य के उजागर करय लेल",
+"Rahasya ke ujāgara karaya lela"
+],
+"To be puzzled": [
+"अचरज मे पड़ब",
+"Acaraja me par̤aba"
+],
+"To defeat completely": [
+"पूर्णतः पराजित करबाक लेल",
+"Pūrṇataḥ parājita karabāka lela"
+],
+"If employee works 1 year, gratuity right": [
+"अगर कर्मचारी 1 साल काज करैत अछि त ग्रेच्युटी अधिकार",
+"Agara karmacārī 1 sāla kāja karaita achi ta grecyuṭī adhikāra"
+],
+"If wrong info given, disciplinary action": [
+"गलत जानकारी देल गेल त अनुशासनात्मक कार्रवाई",
+"Galata jānakārī dela gela ta anuśāsanātmaka kārravāī"
+],
+"If possible, come to meet me": [
+"संभव हो तऽ हमरा सँ भेंट करय लेल आऊ",
+"Saṃbhava ho ta' hamarā sa~ bheṃṭa karaya lela āū"
+],
+"What does this mean?": [
+"एकर की मतलब?",
+"Ekara kī matalaba?"
+],
+"I came because you called": [
+"हम एहि लेल आयल छी जे अहाँ फोन केने रही",
+"Hama ehi lela āyala chī je ahā~ phona kene rahī"
+],
+"Someone called Kaushik has come": [
+"कौशिक नामक कियो आबि गेल अछि",
+"Kauśika nāmaka kiyo ābi gela achi"
+],
+"Someone named Kaushik has come": [
+"कौशिक नामक कियो आबि गेल अछि",
+"Kauśika nāmaka kiyo ābi gela achi"
+],
+"Why do you want it for?": [
+"अहाँ एकरा लेल किएक चाहैत छी?",
+"Ahā~ ekarā lela kieka cāhaita chī?"
+],
+"What is its reason?": [
+"एकर की कारण अछि ?",
+"Ekara kī kāraṇa achi ?"
+],
+"You only complete this": [
+"अहाँ मात्र ई पूरा करू",
+"Ahā~ mātra ī pūrā karū"
+],
+"It is you who told": [
+"ई अहाँ छी जे कहने छी",
+"Ī ahā~ chī je kahane chī"
+],
+"I want it tomorrow itself": [
+"हमरा काल्हि स्वयं चाही",
+"Hamarā kālhi svayaṃ cāhī"
+],
+"I am bored": [
+"हम ऊब गेल छी",
+"Hama ūba gela chī"
+],
+"He was bored": [
+"ओ ऊब गेल छलाह",
+"O ūba gela chalāha"
+],
+"Relative / Relatives": [
+"रिश्तेदार / रिश्तेदार",
+"Riśtedāra / riśtedāra"
+],
+"Father's brother's wife": [
+"पिता के भाई के पत्नी",
+"Pitā ke bhāī ke patnī"
+],
+"Father's brother's son": [
+"पिता के भाई के बेटा",
+"Pitā ke bhāī ke beṭā"
+],
+"Father's brother's daughter": [
+"पिता के भाई के बेटी",
+"Pitā ke bhāī ke beṭī"
+],
+"Mother's brother's wife": [
+"माँ के भाई के पत्नी",
+"Mā~ ke bhāī ke patnī"
+],
+"Mother's brother's son": [
+"माँ के भाई के बेटा",
+"Mā~ ke bhāī ke beṭā"
+],
+"Mother's brother's daughter": [
+"माँ के भाई के बेटी",
+"Mā~ ke bhāī ke beṭī"
+],
+"Father's sister's son": [
+"पिताक बहिनक बेटा",
+"Pitāka bahinaka beṭā"
+],
+"Father's sister's daughter": [
+"पिताक बहिनक बेटी",
+"Pitāka bahinaka beṭī"
+],
+"Father's sister's husband": [
+"पिता के बहिन के पति",
+"Pitā ke bahina ke pati"
+],
+"Mother's sister's son": [
+"माँ के बहिन के बेटा",
+"Mā~ ke bahina ke beṭā"
+],
+"Mother's sister's daughter": [
+"माँ के बहिन के बेटी",
+"Mā~ ke bahina ke beṭī"
+],
+"Mother's sister's husband": [
+"माँ के बहिन के पति",
+"Mā~ ke bahina ke pati"
+],
+"Great grand father": [
+"महान दादा पिताजी",
+"Mahāna dādā pitājī"
+],
+"Great grand mother": [
+"महान दादी",
+"Mahāna dādī"
+],
+"Son's wife / Daughter in law": [
+"बेटाक पत्नी / पुतोहु",
+"Beṭāka patnī / putohu"
+],
+"Daughter's husband / Son in law": [
+"बेटी के पति / जमाय",
+"Beṭī ke pati / jamāya"
+],
+"Father in law": [
+"ससुर ससुर",
+"Sasura sasura"
+],
+"Mother in law": [
+"सास",
+"Sāsa"
+],
+"Father in law's father": [
+"ससुर के पिता",
+"Sasura ke pitā"
+],
+"We": [
+"हम सभ",
+"Hama sabha"
+],
+"You (singular)": [
+"अहाँ (एकवचन) २.",
+"Ahā~ (ekavacana) 2."
+],
+"You (plural)": [
+"अहाँ (बहुवचन) २.",
+"Ahā~ (bahuvacana) 2."
+],
+"This (m.)": [
+"ई (म.) २.",
+"Ī (ma.) 2."
+],
+"This (f.)": [
+"ई (च.) २.",
+"Ī (ca.) 2."
+],
+"This (n.)": [
+"ई (न.) २.",
+"Ī (na.) 2."
+],
+"These (m.)": [
+"ये (म.) २.",
+"Ye (ma.) 2."
+],
+"These (f.)": [
+"ई (च.) २.",
+"Ī (ca.) 2."
+],
+"These (n.)": [
+"ये (न.) २.",
+"Ye (na.) 2."
+],
+"Self": [
+"अपन व्यक्तित्व",
+"Apana vyaktitva"
+],
+"Sing": [
+"गाना गानाइ",
+"Gānā gānāi"
+],
+"Beat": [
+"ताल",
+"Tāla"
+],
+"Write": [
+"लिखू",
+"Likhū"
+],
+"Do": [
+"करू",
+"Karū"
+],
+"Get up": [
+"उठू",
+"Uṭhū"
+],
+"Stop": [
+"रुकू",
+"Rukū"
+],
+"Close": [
+"बंद",
+"Baṃda"
+],
+"I (male)": [
+"हम (पुरुष) २.",
+"Hama (puruṣa) 2."
+],
+"I (female)": [
+"हम (स्त्री) २.",
+"Hama (strī) 2."
+],
+"We dance": [
+"हम नाचैत छी",
+"Hama nācaita chī"
+],
+"He walks": [
+"ओ चलैत अछि",
+"O calaita achi"
+],
+"She speaks": [
+"ओ बजैत छथि",
+"O bajaita chathi"
+],
+"It moves": [
+"चलैत अछि",
+"Calaita achi"
+],
+"They dance": [
+"नाचैत छथि",
+"Nācaita chathi"
+],
+"You (singular/plural)": [
+"अहाँ (एकवचन/बहुवचन) २.",
+"Ahā~ (ekavacana/bahuvacana) 2."
+],
+"They (all)": [
+"वे (सब) २.",
+"Ve (saba) 2."
+],
+"I (male/female)": [
+"हम (पुरुष/स्त्री) २.",
+"Hama (puruṣa/strī) 2."
+],
+"He": [
+"ओकरा",
+"Okarā"
+],
+"She": [
+"ओ",
+"O"
+],
+"It": [
+"ई",
+"Ī"
+],
+"They (m.)": [
+"वे (म.) २.",
+"Ve (ma.) 2."
+],
+"They (f.)": [
+"वे (च.) २.",
+"Ve (ca.) 2."
+],
+"They (n.)": [
+"वे (न.) २.",
+"Ve (na.) 2."
+],
+"This (Male)": [
+"ई (पुरुष) २.",
+"Ī (puruṣa) 2."
+],
+"This (Female)": [
+"ई (महिला) २.",
+"Ī (mahilā) 2."
+],
+"This (neuter)": [
+"ई (नपुंसक) २.",
+"Ī (napuṃsaka) 2."
+],
+"These (male/female/neuter)": [
+"ई (पुरुष/स्त्री/नपुंसक) २.",
+"Ī (puruṣa/strī/napuṃsaka) 2."
+],
+"about": [
+"विषय में",
+"Viṣaya meṃ"
+],
+"across": [
+"आर-पार",
+"Āra-pāra"
+],
+"against": [
+"क' विरुद्ध",
+"Ka' viruddha"
+],
+"Among": [
+"क' बीच मे",
+"Ka' bīca me"
+],
+"Around": [
+"चारू दिस",
+"Cārū disa"
+],
+"As/like": [
+"जेना/पसंद",
+"Jenā/pasaṃda"
+],
+"aside": [
+"एक कात",
+"Eka kāta"
+],
+"for": [
+"क लेल",
+"Ka lela"
+],
+"From/since": [
+"स/तहिया स",
+"Sa/tahiyā sa"
+],
+"in": [
+"में",
+"Meṃ"
+],
+"till/until": [
+"तक/जब तक",
+"Taka/jaba taka"
+],
+"without": [
+"क' बिना",
+"Ka' binā"
+],
+"during": [
+"दौरान",
+"Daurāna"
+],
+"Near/close to": [
+"के पास/नजदीक",
+"Ke pāsa/najadīka"
+],
+"towards": [
+"क' तरफ",
+"Ka' tarapha"
+],
+"with": [
+"संग",
+"Saṃga"
+],
+"Instead of": [
+"क बजाय",
+"Ka bajāya"
+],
+"Prior to": [
+"से पूर्व",
+"Se pūrva"
+],
+"Because of": [
+"के कारण",
+"Ke kāraṇa"
+],
+"According to": [
+"के अनुसार",
+"Ke anusāra"
+],
+"Through": [
+"माध्यम सँ",
+"Mādhyama sa~"
+],
+"You speak": [
+"अहाँ बाजू",
+"Ahā~ bājū"
+],
+"Read it": [
+"पढू",
+"Paḍhū"
+],
+"Do it": [
+"करू",
+"Karū"
+],
+"You go": [
+"अहाँ जाउ",
+"Ahā~ jāu"
+],
+"You give": [
+"अहाँ दिअ",
+"Ahā~ dia"
+],
+"You drink": [
+"अहाँ पीबैत छी",
+"Ahā~ pībaita chī"
+],
+"Toy moved": [
+"खिलौना हिलल",
+"Khilaunā hilala"
+],
+"To cook": [
+"खाना बनाबय लेल",
+"Khānā banābaya lela"
+],
+"Rice cooked": [
+"चाउर पकौने",
+"Cāura pakaune"
+],
+"To die": [
+"मरय लेल",
+"Maraya lela"
+],
+"To fall": [
+"खसब",
+"Khasaba"
+],
+"Glass broke": [
+"काँच टूटि गेल",
+"Kā~ca ṭūṭi gela"
+],
+"To leave": [
+"छोड़ि देबाक लेल",
+"Chor̤i debāka lela"
+],
+"To drink": [
+"पीबय लेल",
+"Pībaya lela"
+],
+"To eat": [
+"खाइ लेल",
+"Khāi lela"
+],
+"To feed": [
+"खुआबय लेल",
+"Khuābaya lela"
+],
+"To speak": [
+"बजबाक लेल",
+"Bajabāka lela"
+],
+"To run": [
+"दौड़बाक लेल",
+"Daur̤abāka lela"
+],
+"my": [
+"हमर",
+"Hamara"
+],
+"speaking": [
+"बजैत",
+"Bajaita"
+],
+"your": [
+"अहांक",
+"Ahāṃka"
+],
+"his": [
+"ओकर",
+"Okara"
+],
+"Ram's": [
+"राम के",
+"Rāma ke"
+],
+"dance": [
+"नाच",
+"Nāca"
+],
+"About speaking": [
+"बजबाक विषय मे",
+"Bajabāka viṣaya me"
+],
+"For eating": [
+"भोजन के लिये",
+"Bhojana ke liye"
+],
+"while speaking": [
+"बजैत काल",
+"Bajaita kāla"
+],
+"while doing": [
+"करैत काल",
+"Karaita kāla"
+],
+"while dancing": [
+"नाचैत काल",
+"Nācaita kāla"
+],
+"to see": [
+"देखबाक लेल",
+"Dekhabāka lela"
+],
+"to do": [
+"करब",
+"Karaba"
+],
+"to dance": [
+"नाचय लेल",
+"Nācaya lela"
+],
+"Black horse": [
+"कारी घोड़ा",
+"Kārī ghor̤ā"
+],
+"Black chair": [
+"कारी कुर्सी",
+"Kārī kursī"
+],
+"Black page": [
+"काला पृष्ठ",
+"Kālā pṛṣṭha"
+],
+"Black horses": [
+"कारी घोड़ा",
+"Kārī ghor̤ā"
+],
+"Black chairs": [
+"कारी कुर्सी",
+"Kārī kursī"
+],
+"Black pages": [
+"कारी पृष्ठ",
+"Kārī pṛṣṭha"
+],
+"Good horse": [
+"नीक घोड़ा",
+"Nīka ghor̤ā"
+],
+"Good chair": [
+"नीक कुर्सी",
+"Nīka kursī"
+],
+"Easy exam": [
+"आसान परीक्षा",
+"Āsāna parīkṣā"
+],
+"Red horse": [
+"लाल घोड़ा",
+"Lāla ghor̤ā"
+],
+"Beautiful drawing": [
+"सुन्दर ड्राइंग",
+"Sundara ḍrāiṃga"
+],
+"Talking boy": [
+"गप्प करय बला छौड़ा",
+"Gappa karaya balā chaur̤ā"
+],
+"Rotating fan": [
+"घुमावदार पंखा",
+"Ghumāvadāra paṃkhā"
+],
+"Talking girl": [
+"बात करय वाली लड़की",
+"Bāta karaya vālī lar̤akī"
+],
+"Moving chair": [
+"चलैत कुर्सी",
+"Calaita kursī"
+],
+"Flying saucer": [
+"उड़ैत तश्तरी",
+"Ur̤aita taśtarī"
+],
+"Talking book": [
+"बात कर रही किताब",
+"Bāta kara rahī kitāba"
+],
+"Moving tree": [
+"चलैत गाछ",
+"Calaita gācha"
+],
+"Talked boy": [
+"गप्प केलक छौड़ा",
+"Gappa kelaka chaur̤ā"
+],
+"Rotated fan": [
+"घुमावदार पंखा",
+"Ghumāvadāra paṃkhā"
+],
+"Talked girl": [
+"बात केलक लड़की",
+"Bāta kelaka lar̤akī"
+],
+"Moved chair": [
+"कुर्सी हिलल",
+"Kursī hilala"
+],
+"Flown saucer": [
+"उड़ल तश्तरी",
+"Ur̤ala taśtarī"
+],
+"Talked book": [
+"बात की किताब",
+"Bāta kī kitāba"
+],
+"Moved tree": [
+"हिलल गाछ",
+"Hilala gācha"
+],
+"What happened?": [
+"की भेलै?",
+"Kī bhelai?"
+],
+"More bitter": [
+"बेसी कटु",
+"Besī kaṭu"
+],
+"Most bitter": [
+"सबसँ बेसी कड़वा",
+"Sabasa~ besī kar̤avā"
+],
+"Tall": [
+"लंबा",
+"Laṃbā"
+],
+"Taller": [
+"लंबा",
+"Laṃbā"
+],
+"Tallest": [
+"सबसँ लंबा",
+"Sabasa~ laṃbā"
+],
+"Better": [
+"बेहतर",
+"Behatara"
+],
+"Best": [
+"सब सं बढ़ियां",
+"Saba saṃ bar̤hiyāṃ"
+],
+"Let's play": [
+"चलू खेलाइत छी",
+"Calū khelāita chī"
+],
+"Let's go": [
+"चलू",
+"Calū"
+],
+"Let's speak": [
+"बजैत छी",
+"Bajaita chī"
+],
+"Really!": [
+"सत्ते!",
+"Satte!"
+],
+"How big!": [
+"कतेक पैघ!",
+"Kateka paigha!"
+],
+"Very bad": [
+"बहुत खराब",
+"Bahuta kharāba"
+],
+"Good handwriting": [
+"नीक हस्तलेख",
+"Nīka hastalekha"
+],
+"Very Good": [
+"बड्ड नीक",
+"Baḍḍa nīka"
+],
+"Excellent!": [
+"एकदम बढ़ियां!",
+"Ekadama bar̤hiyāṃ!"
+],
+"Speaking phone": [
+"बोलैत फोन",
+"Bolaita phona"
+],
+"Something fishy": [
+"किछु माछी",
+"Kichu māchī"
+],
+"Dampen spirit": [
+"भावना गी नम करू",
+"Bhāvanā gī nama karū"
+],
+"To threaten": [
+"धमकी देबय लेल",
+"Dhamakī debaya lela"
+],
+"After-effects": [
+"बाद के प्रभाव",
+"Bāda ke prabhāva"
+],
+"To override/violate": [
+"ओवरराइड/उल्लंघन करबाक लेल",
+"Ovararāiḍa/ullaṃghana karabāka lela"
+],
+"To renounce": [
+"त्याग करब",
+"Tyāga karaba"
+],
+"To pretend": [
+"नाटक करब",
+"Nāṭaka karaba"
+],
+"To trap": [
+"फँसा देब",
+"Pha~sā deba"
+],
+"To support": [
+"समर्थन करबाक लेल",
+"Samarthana karabāka lela"
+],
+"To strike": [
+"प्रहार करब",
+"Prahāra karaba"
+],
+"To pardon": [
+"माफी देबय लेल",
+"Māphī debaya lela"
+],
+"Cryptography means?": [
+"क्रिप्टोग्राफी के मतलब छै?",
+"Kripṭogrāphī ke matalaba chai?"
+],
+"Relation": [
+"सम्बन्ध",
+"Sambandha"
+],
+"Direct brother": [
+"प्रत्यक्ष भाई",
+"Pratyakṣa bhāī"
+],
+"Direct sister": [
+"प्रत्यक्ष बहिन",
+"Pratyakṣa bahina"
+],
+"Grand father": [
+"दादा पिताजी",
+"Dādā pitājī"
+],
+"Grand mother": [
+"दादी माँ",
+"Dādī mā~"
+],
+"Father's brother": [
+"पिता के भाई",
+"Pitā ke bhāī"
+],
+"Mother's brother": [
+"माँ के भाई",
+"Mā~ ke bhāī"
+],
+"Father's sister": [
+"पिताक बहिन",
+"Pitāka bahina"
+],
+"Mother's sister": [
+"माँ के बहिन",
+"Mā~ ke bahina"
+],
+"Grandson's wife": [
+"पोताक पत्नी",
+"Potāka patnī"
+],
+"Great grandson": [
+"परपोता",
+"Parapotā"
+],
+"Great granddaughter": [
+"परपोती",
+"Parapotī"
+],
+"Husband's brother": [
+"पति के भाई",
+"Pati ke bhāī"
+],
+"Husband's sister": [
+"पति के बहिन",
+"Pati ke bahina"
+],
+"Wife's brother": [
+"पत्नी के भाई",
+"Patnī ke bhāī"
+],
+"Wife's sister": [
+"पत्नीक बहिन",
+"Patnīka bahina"
+],
+"Sister's husband": [
+"बहिनक पति",
+"Bahinaka pati"
+],
+"Sister's son": [
+"बहिनक बेटा",
+"Bahinaka beṭā"
+],
+"Sister's daughter": [
+"बहिनक बेटी",
+"Bahinaka beṭī"
+],
+"Friend (boy)": [
+"मित्र (लड़का) २.",
+"Mitra (lar̤akā) 2."
+],
+"Friend (girl)": [
+"मित्र (लड़की) २.",
+"Mitra (lar̤akī) 2."
+],
+"Bridegroom": [
+"वर",
+"Vara"
+],
+"Adopted son": [
+"गोद लेला बेटा",
+"Goda lelā beṭā"
+],
+"Adopted daughter": [
+"गोद लेल बेटी",
+"Goda lela beṭī"
+],
+"Assumed son": [
+"मानल बेटा",
+"Mānala beṭā"
+],
+"Assumed daughter": [
+"मानल बेटी",
+"Mānala beṭī"
+],
+"To wash": [
+"धोबय लेल",
+"Dhobaya lela"
+],
+"To brush": [
+"ब्रश करब",
+"Braśa karaba"
+],
+"To gargle": [
+"गार्गल करब",
+"Gārgala karaba"
+],
+"To fold": [
+"तह करबाक लेल",
+"Taha karabāka lela"
+],
+"To urinate": [
+"पेशाब करब",
+"Peśāba karaba"
+],
+"To exercise": [
+"व्यायाम करबाक लेल",
+"Vyāyāma karabāka lela"
+],
+"To bath": [
+"स्नान करबाक लेल",
+"Snāna karabāka lela"
+],
+"To change": [
+"बदलबाक लेल",
+"Badalabāka lela"
+],
+"To wear": [
+"पहिरबाक लेल",
+"Pahirabāka lela"
+],
+"To comb": [
+"कंघी करब",
+"Kaṃghī karaba"
+],
+"To apply": [
+"आवेदन करबाक लेल",
+"Āvedana karabāka lela"
+],
+"To close": [
+"बंद करबाक लेल",
+"Baṃda karabāka lela"
+],
+"To sit": [
+"बैसबाक लेल",
+"Baisabāka lela"
+],
+"To start": [
+"शुरू करबाक लेल",
+"Śurū karabāka lela"
+],
+"To reach": [
+"पहुँचबाक लेल",
+"Pahu~cabāka lela"
+],
+"To work": [
+"काज करबाक लेल",
+"Kāja karabāka lela"
+],
+"To speak/say/talk": [
+"बाजब/कहब/बजब",
+"Bājaba/kahaba/bajaba"
+],
+"To answer": [
+"जवाब देबय लेल",
+"Javāba debaya lela"
+],
+"To send": [
+"पठेबाक लेल",
+"Paṭhebāka lela"
+],
+"To chitchat": [
+"चिटचट करब",
+"Ciṭacaṭa karaba"
+],
+"To buy": [
+"कीनबाक लेल",
+"Kīnabāka lela"
+],
+"To sell": [
+"बेचबाक लेल",
+"Becabāka lela"
+],
+"To put/keep": [
+"राखब/रहब",
+"Rākhaba/rahaba"
+],
+"To put": [
+"राखय लेल",
+"Rākhaya lela"
+],
+"To count": [
+"गिनती करबाक लेल",
+"Ginatī karabāka lela"
+],
+"To stand": [
+"ठाढ़ रहबाक लेल",
+"Ṭhār̤ha rahabāka lela"
+],
+"To listen": [
+"सुनबाक लेल",
+"Sunabāka lela"
+],
+"To return": [
+"घुरबाक लेल",
+"Ghurabāka lela"
+],
+"To open": [
+"खोलबाक लेल",
+"Kholabāka lela"
+],
+"To lift": [
+"उठाबय लेल",
+"Uṭhābaya lela"
+],
+"To play": [
+"खेलय लेल",
+"Khelaya lela"
+],
+"To jump": [
+"कूदबाक लेल",
+"Kūdabāka lela"
+],
+"To hide": [
+"नुकाबय लेल",
+"Nukābaya lela"
+],
+"To search": [
+"खोज करबाक लेल",
+"Khoja karabāka lela"
+],
+"To recite": [
+"पाठ करब",
+"Pāṭha karaba"
+],
+"To sing": [
+"गाबय लेल",
+"Gābaya lela"
+],
+"To shout": [
+"चिचियाबय लेल",
+"Ciciyābaya lela"
+],
+"To throw": [
+"फेकबाक लेल",
+"Phekabāka lela"
+],
+"To hit": [
+"मारबाक लेल",
+"Mārabāka lela"
+],
+"To ask": [
+"पूछबाक लेल",
+"Pūchabāka lela"
+],
+"To clean": [
+"साफ करब",
+"Sāpha karaba"
+],
+"To cut": [
+"काटब",
+"Kāṭaba"
+],
+"To break": [
+"तोड़ब",
+"Tor̤aba"
+],
+"To burst": [
+"फटब",
+"Phaṭaba"
+],
+"To write": [
+"लिखबाक लेल",
+"Likhabāka lela"
+],
+"Accept": [
+"स्वीकार",
+"Svīkāra"
+],
+"Bring": [
+"लाउ",
+"Lāu"
+],
+"Complain": [
+"शिकायत",
+"Śikāyata"
+],
+"Draw": [
+"खींचू",
+"Khīṃcū"
+],
+"Fall": [
+"खसब",
+"Khasaba"
+],
+"Fill": [
+"भरु",
+"Bharu"
+],
+"Start/begin": [
+"शुरू/शुरुआत करू",
+"Śurū/śuruāta karū"
+],
+"Finish": [
+"खतम करु",
+"Khatama karu"
+],
+"Live": [
+"सीधा प्रसारण",
+"Sīdhā prasāraṇa"
+],
+"See/watch/look": [
+"देखू/देखू/देखू",
+"Dekhū/dekhū/dekhū"
+],
+"Use": [
+"इस्तेमाल",
+"Istemāla"
+],
+"Teach": [
+"पढ़ेनाइ",
+"Par̤henāi"
+],
+"Study": [
+"पढ़ाई",
+"Par̤hāī"
+],
+"Read": [
+"पढ़ू",
+"Par̤hū"
+],
+"Make/prepare": [
+"बनाउ/तैयार करू",
+"Banāu/taiyāra karū"
+],
+"Fly": [
+"माछी",
+"Māchī"
+],
+"Get bored": [
+"ऊब जाउ",
+"Ūba jāu"
+],
+"Leave": [
+"छुट्टी",
+"Chuṭṭī"
+],
+"Want/need": [
+"चाही/जरूरत अछि",
+"Cāhī/jarūrata achi"
+],
+"Sign": [
+"हस्ताक्षर",
+"Hastākṣara"
+],
+"Swim": [
+"पोरनाइ",
+"Poranāi"
+],
+"Try": [
+"कोशिश करु",
+"Kośiśa karu"
+],
+"Worry": [
+"चिन्ता",
+"Cintā"
+],
+"Achieve": [
+"प्राप्त करु",
+"Prāpta karu"
+],
+"Admit (mistake)": [
+"स्वीकार (गलती) २.",
+"Svīkāra (galatī) 2."
+],
+"Admit (school)": [
+"प्रवेश (स्कूल) २.",
+"Praveśa (skūla) 2."
+],
+"Afford": [
+"खर्च",
+"Kharca"
+],
+"Win": [
+"जीतनाइ",
+"Jītanāi"
+],
+"Lose": [
+"नुकसान",
+"Nukasāna"
+],
+"Shake": [
+"हिलनाइ",
+"Hilanāi"
+],
+"Decide": [
+"निर्णय",
+"Nirṇaya"
+],
+"Hold": [
+"धरू",
+"Dharū"
+],
+"Choose": [
+"चुनू",
+"Cunū"
+],
+"Turn": [
+"घुमनाइ",
+"Ghumanāi"
+],
+"Rise": [
+"उत्थान",
+"Utthāna"
+],
+"Set (sun,moon)": [
+"अस्त (सूर्य,चन्द्रमा) २.",
+"Asta (sūrya,candramā) 2."
+],
+"Deny": [
+"मना करनाइ",
+"Manā karanāi"
+],
+"To reproach/blame": [
+"निंदा करब/दोष देब",
+"Niṃdā karaba/doṣa deba"
+],
+"To color": [
+"रंग भरने के लिये",
+"Raṃga bharane ke liye"
+],
+"To destroy": [
+"नष्ट करबाक लेल",
+"Naṣṭa karabāka lela"
+],
+"Big": [
+"पैघ",
+"Paigha"
+],
+"Small": [
+"छोट",
+"Choṭa"
+],
+"Deep": [
+"गंहीर",
+"Gaṃhīra"
+],
+"Shallow": [
+"सतही",
+"Satahī"
+],
+"Simple": [
+"साधारण",
+"Sādhāraṇa"
+],
+"Special": [
+"विशेष",
+"Viśeṣa"
+],
+"Faint": [
+"मूर्छा",
+"Mūrchā"
+],
+"Short": [
+"छोट",
+"Choṭa"
+],
+"Thin": [
+"पातर",
+"Pātara"
+],
+"Wide": [
+"चौड़ा",
+"Caur̤ā"
+],
+"Narrow": [
+"पातर",
+"Pātara"
+],
+"Curved": [
+"घुमावदार",
+"Ghumāvadāra"
+],
+"Salty": [
+"नमकीन",
+"Namakīna"
+],
+"Easy": [
+"आसान",
+"Āsāna"
+],
+"Dry": [
+"सूखायल",
+"Sūkhāyala"
+],
+"Wet": [
+"भीजल",
+"Bhījala"
+],
+"Filled": [
+"भरल",
+"Bharala"
+],
+"Incomplete": [
+"अपूर्ण",
+"Apūrṇa"
+],
+"Hard (surface)": [
+"कठोर (सतह) २.",
+"Kaṭhora (sataha) 2."
+],
+"Soft": [
+"मुलायम",
+"Mulāyama"
+],
+"Heavy": [
+"भारी",
+"Bhārī"
+],
+"Light (weight)": [
+"हल्का (वजन) २.",
+"Halkā (vajana) 2."
+],
+"New": [
+"नया",
+"Nayā"
+],
+"Old": [
+"पुरान",
+"Purāna"
+],
+"Slow": [
+"कम गति",
+"Kama gati"
+],
+"Fast": [
+"तेज",
+"Teja"
+],
+"Young": [
+"जवान",
+"Javāna"
+],
+"Unhappy": [
+"दुखी",
+"Dukhī"
+],
+"Gloomy": [
+"उदास",
+"Udāsa"
+],
+"Carefully": [
+"सावधानीसँ",
+"Sāvadhānīsa~"
+],
+"Slowly": [
+"धीरे सं",
+"Dhīre saṃ"
+],
+"Quickly": [
+"तेजी सँ",
+"Tejī sa~"
+],
+"A bit": [
+"कनेक",
+"Kaneka"
+],
+"A lot": [
+"ढेर बेसी",
+"Ḍhera besī"
+],
+"Aback": [
+"चकित",
+"Cakita"
+],
+"Accordingly": [
+"तदनुसार",
+"Tadanusāra"
+],
+"Accurately": [
+"सटीक कहब",
+"Saṭīka kahaba"
+],
+"Actively": [
+"सक्रिय रूप से",
+"Sakriya rūpa se"
+],
+"Afresh": [
+"नबका",
+"Nabakā"
+],
+"Ago": [
+"पहिने",
+"Pahine"
+],
+"Agreeably": [
+"सहमत भ गेल",
+"Sahamata bha gela"
+],
+"Altogether": [
+"कुल मिला कए",
+"Kula milā kae"
+],
+"Any": [
+"कोनो",
+"Kono"
+],
+"Away": [
+"दूर",
+"Dūra"
+]
+}

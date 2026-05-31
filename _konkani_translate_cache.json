@@ -5614,5 +5614,4005 @@
 "Really": [
 "ख-यानीच",
 "Kha-yānīca"
+],
+"We (listener including)": [
+"आमी (आयकपी सयत)",
+"Āmī (āyakapī sayata)"
+],
+"He / That (m.)": [
+"तो / तें (म.) .",
+"To / teṃ (ma.) ."
+],
+"She / That (f.)": [
+"ती / तें (f.) .",
+"Tī / teṃ (f.) ."
+],
+"It / That (n.)": [
+"तें / तें (न.) .",
+"Teṃ / teṃ (na.) ."
+],
+"They (Plural of He) / Those (m.)": [
+"ते (तेचें बहुवचन) / ते (म.)",
+"Te (teceṃ bahuvacana) / te (ma.)"
+],
+"They (Plural of She) / Those (f.)": [
+"ते (तीचें बहुवचन) / ते (f.) .",
+"Te (tīceṃ bahuvacana) / te (f.) ."
+],
+"They (Plural of it) / Those (n.)": [
+"ते (ताचे बहुवचन) / ते (न.)",
+"Te (tāce bahuvacana) / te (na.)"
+],
+"We went to the party (listener not included)": [
+"आमी पार्टीक गेले (आयकपी ना)",
+"Āmī pārṭīka gele (āyakapī nā)"
+],
+"We went to the party (listener included)": [
+"आमी पार्टीक गेले (आयकपी सयत)",
+"Āmī pārṭīka gele (āyakapī sayata)"
+],
+"This is a horse": [
+"हो एक घोडो",
+"Ho eka ghoḍo"
+],
+"This is an ant": [
+"ही एक मुंगूस",
+"Hī eka muṃgūsa"
+],
+"You (singular male)": [
+"तूं (एकवचन नर) २.",
+"Tūṃ (ekavacana nara) 2."
+],
+"You (singular female)": [
+"तूं (एकवचन स्त्री) २.",
+"Tūṃ (ekavacana strī) 2."
+],
+"He / That (male) / This (male)": [
+"तो / तो (नर) / हे (नर) .",
+"To / to (nara) / he (nara) ."
+],
+"She / That (female) / This (female)": [
+"ती / ती (मादी) / हे (स्त्री) .",
+"Tī / tī (mādī) / he (strī) ."
+],
+"It / That (neuter) / This (neuter)": [
+"तो / तो (नपुंसक) / हे (नपुंसक)",
+"To / to (napuṃsaka) / he (napuṃsaka)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"ते (म.) / ते (म.) / हे (म.)",
+"Te (ma.) / te (ma.) / he (ma.)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"ते (f.) / ते (f.) / हे (f.)",
+"Te (f.) / te (f.) / he (f.)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"ते (न.) / ते (न.) / हे (न.)",
+"Te (na.) / te (na.) / he (na.)"
+],
+"I (male) do": [
+"हांव (दादलो) करतां",
+"Hāṃva (dādalo) karatāṃ"
+],
+"I (female) do": [
+"मी (मादी) करतां",
+"Mī (mādī) karatāṃ"
+],
+"You (male) cry": [
+"तूं (दादलो) रडटा",
+"Tūṃ (dādalo) raḍaṭā"
+],
+"You (female) cry": [
+"तूं (मादी) रडटा",
+"Tūṃ (mādī) raḍaṭā"
+],
+"You (plural) walk": [
+"तूं (बहुवचन) चलता",
+"Tūṃ (bahuvacana) calatā"
+],
+"I shall be doing.": [
+"हांव करतलों.",
+"Hāṃva karataloṃ."
+],
+"We will be dancing.": [
+"आमी नाचत आसतले.",
+"Āmī nācata āsatale."
+],
+"You will be crying.": [
+"तूं रडत आसतलो.",
+"Tūṃ raḍata āsatalo."
+],
+"You (pl.) will be walking.": [
+"तुमी (pl.) चलत आसतले.",
+"Tumī (pl.) calata āsatale."
+],
+"He will be walking.": [
+"तो चलत आसतलो.",
+"To calata āsatalo."
+],
+"She will be speaking.": [
+"ती उलयतली.",
+"Tī ulayatalī."
+],
+"It will be moving.": [
+"तो हालचाल करतलो.",
+"To hālacāla karatalo."
+],
+"They will be dancing.": [
+"ते नाचत आसतले.",
+"Te nācata āsatale."
+],
+"He / That (m.) / This (m.)": [
+"तो / तें (म.) / हें (म.)",
+"To / teṃ (ma.) / heṃ (ma.)"
+],
+"She / That (f.) / This (f.)": [
+"ती / तें (f.) / हें (f.)",
+"Tī / teṃ (f.) / heṃ (f.)"
+],
+"It / That (n.) / This (n.)": [
+"तें / तें (न.) / हें (न.)",
+"Teṃ / teṃ (na.) / heṃ (na.)"
+],
+"I (male) / I (female)": [
+"मी (दादलो) / मी (मादी) .",
+"Mī (dādalo) / mī (mādī) ."
+],
+"I (male) was doing.": [
+"हांव (दादलो) करतालो.",
+"Hāṃva (dādalo) karatālo."
+],
+"I (female) was doing.": [
+"मी (मादी) करताली.",
+"Mī (mādī) karatālī."
+],
+"We were dancing.": [
+"आमी नाचताले.",
+"Āmī nācatāle."
+],
+"You (male) were crying.": [
+"तूं (दादलो) रडटालो.",
+"Tūṃ (dādalo) raḍaṭālo."
+],
+"You (female) were crying.": [
+"तूं (मादी) रडटाली.",
+"Tūṃ (mādī) raḍaṭālī."
+],
+"You (Plural) were walking": [
+"तूं (बहुवचन) चलतालो",
+"Tūṃ (bahuvacana) calatālo"
+],
+"He was walking.": [
+"तो चलतालो.",
+"To calatālo."
+],
+"She was speaking.": [
+"ती उलयताली.",
+"Tī ulayatālī."
+],
+"It was moving.": [
+"तो हालतालो.",
+"To hālatālo."
+],
+"They(m.) were dancing.": [
+"ते(म.) नाचताले.",
+"Te(ma.) nācatāle."
+],
+"They(f.) were dancing.": [
+"ते(च.) नाचताले.",
+"Te(ca.) nācatāle."
+],
+"They(n.) were dancing.": [
+"ते(न.) नाचताले.",
+"Te(na.) nācatāle."
+],
+"She has opened door": [
+"तिणें दार उगडलां",
+"Tiṇeṃ dāra ugaḍalāṃ"
+],
+"She had opened door": [
+"तिणें दार उगडल्लें",
+"Tiṇeṃ dāra ugaḍalleṃ"
+],
+"She will have opened door": [
+"तिणें दार उगडलां आसतलें",
+"Tiṇeṃ dāra ugaḍalāṃ āsataleṃ"
+],
+"You (female) have danced": [
+"तुमी (मादी) नाचल्यात",
+"Tumī (mādī) nācalyāta"
+],
+"You (female) had danced": [
+"तूं (मादी) नाचिल्लो",
+"Tūṃ (mādī) nācillo"
+],
+"You (female) will have danced": [
+"तुमी (मादी) नाचले आसतले",
+"Tumī (mādī) nācale āsatale"
+],
+"You (plural) have danced": [
+"तुमी (बहुवचन) नाचला",
+"Tumī (bahuvacana) nācalā"
+],
+"You (plural) had danced": [
+"तूं (बहुवचन) नाचिल्लो",
+"Tūṃ (bahuvacana) nācillo"
+],
+"You (plural) will have danced": [
+"तुमी (बहुवचन) नाचले आसतले",
+"Tumī (bahuvacana) nācale āsatale"
+],
+"On behalf of": [
+"वतीन",
+"Vatīna"
+],
+"In front of": [
+"हाचें फुडें",
+"Hāceṃ phuḍeṃ"
+],
+"He / That (male)": [
+"तो / तो (दादलो) .",
+"To / to (dādalo) ."
+],
+"She / That (female)": [
+"ती / ती (मादी) .",
+"Tī / tī (mādī) ."
+],
+"It / That (neuter)": [
+"तो / तो (नपुंसक) २.",
+"To / to (napuṃsaka) 2."
+],
+"They (m.) / Those (m.)": [
+"ते (म.) / ते (म.) .",
+"Te (ma.) / te (ma.) ."
+],
+"They (f.) / Those (f.)": [
+"ते (च.) / ते (च.) .",
+"Te (ca.) / te (ca.) ."
+],
+"They (n.) / Those (n.)": [
+"ते (न.) / ते (न.) .",
+"Te (na.) / te (na.) ."
+],
+"I do not speak": [
+"हांव उलयना",
+"Hāṃva ulayanā"
+],
+"He does not walk": [
+"तो चलना",
+"To calanā"
+],
+"You do not eat": [
+"तुमी जेवनात",
+"Tumī jevanāta"
+],
+"They do not dance": [
+"ते नाचनात",
+"Te nācanāta"
+],
+"I am not speaking": [
+"हांव उलयना",
+"Hāṃva ulayanā"
+],
+"He is not walking": [
+"तो चलना",
+"To calanā"
+],
+"She is not speaking": [
+"ती उलयना",
+"Tī ulayanā"
+],
+"It is not moving": [
+"तो हालचाल करीना",
+"To hālacāla karīnā"
+],
+"They are not dancing": [
+"ते नाचनात",
+"Te nācanāta"
+],
+"You are not dancing": [
+"तूं नाचना",
+"Tūṃ nācanā"
+],
+"I have not opened the box": [
+"हांवें पेटी उगडली ना",
+"Hāṃveṃ peṭī ugaḍalī nā"
+],
+"I have not spoken": [
+"हांवें उलयिल्लें ना",
+"Hāṃveṃ ulayilleṃ nā"
+],
+"He has not eaten the mango": [
+"ताणें आंबो खावंक ना",
+"Tāṇeṃ āṃbo khāvaṃka nā"
+],
+"You do not speak": [
+"तुमी उलयनात",
+"Tumī ulayanāta"
+],
+"Do not read it": [
+"वाचूंक नाकात",
+"Vācūṃka nākāta"
+],
+"Do not do it": [
+"करचें न्हय",
+"Karaceṃ nhaya"
+],
+"You do not go": [
+"तूं वचना",
+"Tūṃ vacanā"
+],
+"I moved toy": [
+"हांवें खेळणीं हालयली",
+"Hāṃveṃ kheḻaṇīṃ hālayalī"
+],
+"To cause to cook": [
+"रांदपाक कारणीभूत करप",
+"Rāṃdapāka kāraṇībhūta karapa"
+],
+"I cooked rice": [
+"तांदूळ शिजयलें",
+"Tāṃdūḻa śijayaleṃ"
+],
+"To cause to die / To kill": [
+"मरण हाडप / मारणें",
+"Maraṇa hāḍapa / māraṇeṃ"
+],
+"To cause to fall": [
+"पडपाक कारणीभूत करप",
+"Paḍapāka kāraṇībhūta karapa"
+],
+"To break (intransitive)": [
+"मोडणें (अक्रांती) २.",
+"Moḍaṇeṃ (akrāṃtī) 2."
+],
+"To cause to break": [
+"मोडपाक कारणीभूत करप",
+"Moḍapāka kāraṇībhūta karapa"
+],
+"I broke glass": [
+"हांवें कंवची मोडली",
+"Hāṃveṃ kaṃvacī moḍalī"
+],
+"To cause to leave": [
+"सोडून वचपाक कारणीभूत करप",
+"Soḍūna vacapāka kāraṇībhūta karapa"
+],
+"To cause to drink / To feed liquid": [
+"पियेवपाक कारणीभूत करप / द्रव पदार्थ खावप",
+"Piyevapāka kāraṇībhūta karapa / drava padārtha khāvapa"
+],
+"To call (not cause to speak)": [
+"आपणें (उलोवंक कारण न्हय) .",
+"Āpaṇeṃ (ulovaṃka kāraṇa nhaya) ."
+],
+"To keep animal (not cause to run)": [
+"जनावर दवरपाक (धांवपाक कारण न्हय) .",
+"Janāvara davarapāka (dhāṃvapāka kāraṇa nhaya) ."
+],
+"I had spoken": [
+"हांवें उलयिल्लें",
+"Hāṃveṃ ulayilleṃ"
+],
+"You (male) had danced": [
+"तुमी (दादलो) नाचिल्लो",
+"Tumī (dādalo) nācillo"
+],
+"He had laughed": [
+"तो हांसून गेल्लो",
+"To hāṃsūna gello"
+],
+"Those boys had laughed": [
+"ते चले हांसलेले",
+"Te cale hāṃsalele"
+],
+"I had opened door": [
+"हांवें दार उगडल्लें",
+"Hāṃveṃ dāra ugaḍalleṃ"
+],
+"I had opened window": [
+"हांवें जनेलां उक्तीं केल्लीं",
+"Hāṃveṃ janelāṃ uktīṃ kellīṃ"
+],
+"She had eaten mango": [
+"तिणें आंबो खाल्लो",
+"Tiṇeṃ āṃbo khāllo"
+],
+"Those girls had picked keys": [
+"त्या चलयांनी चावी उखलून घेतिल्लीं",
+"Tyā calayāṃnī cāvī ukhalūna ghetillīṃ"
+],
+"I have spoken": [
+"हांवें उलयलां",
+"Hāṃveṃ ulayalāṃ"
+],
+"I will have spoken": [
+"हांवें उलयिल्लें आसतलें",
+"Hāṃveṃ ulayilleṃ āsataleṃ"
+],
+"He had been saying": [
+"तो म्हणत आयिल्लो",
+"To mhaṇata āyillo"
+],
+"He has been saying": [
+"तो म्हणत आयला",
+"To mhaṇata āyalā"
+],
+"He will have been saying": [
+"तो म्हणत आयिल्लो आसतलो",
+"To mhaṇata āyillo āsatalo"
+],
+"I have been saying": [
+"म्हणत आयलां",
+"Mhaṇata āyalāṃ"
+],
+"She has been saying": [
+"ती म्हणत आयल्या",
+"Tī mhaṇata āyalyā"
+],
+"They have been dancing": [
+"ते नाचत आयल्यात",
+"Te nācata āyalyāta"
+],
+"You have been eating mango": [
+"तुमी आंबो खावन आयल्यात",
+"Tumī āṃbo khāvana āyalyāta"
+],
+"I have been working there for 3 years": [
+"हांव थंय 3 वर्सां काम करतां",
+"Hāṃva thaṃya 3 varsāṃ kāma karatāṃ"
+],
+"I had been saying": [
+"म्हणत आयिल्लो",
+"Mhaṇata āyillo"
+],
+"She had been saying": [
+"ती म्हणटाली",
+"Tī mhaṇaṭālī"
+],
+"They had been dancing": [
+"ते नाचत आयिल्ले",
+"Te nācata āyille"
+],
+"You had been eating mango": [
+"तूं आंबो खातालो",
+"Tūṃ āṃbo khātālo"
+],
+"She will have been saying": [
+"ती म्हणटाली आसतली",
+"Tī mhaṇaṭālī āsatalī"
+],
+"They will have been dancing": [
+"ते नाचत आशिल्ले आसतले",
+"Te nācata āśille āsatale"
+],
+"You will have been eating mango": [
+"तुमी आंबो खाताले आसतले",
+"Tumī āṃbo khātāle āsatale"
+],
+"I will have been working there for 3 years": [
+"हांव थंय 3 वर्सां काम करतां आसतलो",
+"Hāṃva thaṃya 3 varsāṃ kāma karatāṃ āsatalo"
+],
+"They are going to come": [
+"ते येवपाचे आसात",
+"Te yevapāce āsāta"
+],
+"I am going to speak": [
+"हांव उलोवपाक वता",
+"Hāṃva ulovapāka vatā"
+],
+"She is going to open door": [
+"ती दार उगडपाची आसा",
+"Tī dāra ugaḍapācī āsā"
+],
+"You are going to dance": [
+"तूं नाचपाक वता",
+"Tūṃ nācapāka vatā"
+],
+"Are they going to come?": [
+"ते येवपाचे आसात काय?",
+"Te yevapāce āsāta kāya?"
+],
+"Am I going to speak?": [
+"हांव उलोवपाचो आसा?",
+"Hāṃva ulovapāco āsā?"
+],
+"Is she going to open door?": [
+"ती दार उगडपाची आसा?",
+"Tī dāra ugaḍapācī āsā?"
+],
+"Are you going to dance?": [
+"नाचपाचे आसात?",
+"Nācapāce āsāta?"
+],
+"She / That (f.)/ This (f.)": [
+"ती / तें (च.)/ हें (च.)",
+"Tī / teṃ (ca.)/ heṃ (ca.)"
+],
+"It / That(n.) / This (n.)": [
+"तें / तें(न.) / हें (न.)",
+"Teṃ / teṃ(na.) / heṃ (na.)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"ते (तेचें बहुवचन) / ते (म.) / हे (म.)",
+"Te (teceṃ bahuvacana) / te (ma.) / he (ma.)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"ते (तीचें बहुवचन) / ते (फ.) / हे (फ.)",
+"Te (tīceṃ bahuvacana) / te (pha.) / he (pha.)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"ते (ताचे बहुवचन) / ते (न.) / हे (न.)",
+"Te (tāce bahuvacana) / te (na.) / he (na.)"
+],
+"I used to do": [
+"हांव पयलीं करतालो",
+"Hāṃva payalīṃ karatālo"
+],
+"She used to speak": [
+"ती उलयताली",
+"Tī ulayatālī"
+],
+"He used to dance": [
+"तो नाचतालो",
+"To nācatālo"
+],
+"They (plural of he) used to eat mangos": [
+"ते (ताचे बहुवचन) आंबो खाताले",
+"Te (tāce bahuvacana) āṃbo khātāle"
+],
+"They (plural of she) used to play cricket": [
+"ते (तिचे बहुवचन) क्रिकेट खेळटाले",
+"Te (tice bahuvacana) krikeṭa kheḻaṭāle"
+],
+"He used to be there": [
+"तो पयलीं थंय आसतालो",
+"To payalīṃ thaṃya āsatālo"
+],
+"She used to be quiet": [
+"ती पयलीं शांत आसताली",
+"Tī payalīṃ śāṃta āsatālī"
+],
+"I did not use to do": [
+"करपाक हांवें वापरूंक नाशिल्लें",
+"Karapāka hāṃveṃ vāparūṃka nāśilleṃ"
+],
+"She did not use to speak": [
+"तिका उलोवपाची पद्दत नाशिल्ली",
+"Tikā ulovapācī paddata nāśillī"
+],
+"You did not use to dance": [
+"तुमी नाचपाक वापरले नात",
+"Tumī nācapāka vāparale nāta"
+],
+"They (plural of he) did not use to eat mangos": [
+"ते (ताचो बहुवचन) आंबो खावपाक वापरनाशिल्लो",
+"Te (tāco bahuvacana) āṃbo khāvapāka vāparanāśillo"
+],
+"She did not use to be quiet": [
+"तिका शांत रावपाची पद्दत नाशिल्ली",
+"Tikā śāṃta rāvapācī paddata nāśillī"
+],
+"He did not use to be there": [
+"तो थंय आसपाक वापरनाशिल्लो",
+"To thaṃya āsapāka vāparanāśillo"
+],
+"He is used to dance": [
+"ताची नाचाची सवय जाता",
+"Tācī nācācī savaya jātā"
+],
+"She is used to speak": [
+"तिका उलोवपाची सवय आसता",
+"Tikā ulovapācī savaya āsatā"
+],
+"Those girls are used to laugh": [
+"त्या चलयांक हांसपाची सवय जाता",
+"Tyā calayāṃka hāṃsapācī savaya jātā"
+],
+"I am used to be there": [
+"म्हाका थंय आसपाची सवय आसा",
+"Mhākā thaṃya āsapācī savaya āsā"
+],
+"She is used to be quiet": [
+"तिका शांत रावपाची सवय आसता",
+"Tikā śāṃta rāvapācī savaya āsatā"
+],
+"He is not used to dance": [
+"ताका नाचपाची सवय ना",
+"Tākā nācapācī savaya nā"
+],
+"She is not used to speak": [
+"तिका उलोवपाची सवय ना",
+"Tikā ulovapācī savaya nā"
+],
+"I used to eat mango": [
+"हांव आंबो खातालो",
+"Hāṃva āṃbo khātālo"
+],
+"Kaushik used to eat mango": [
+"कौशिक आंबयो खातालो",
+"Kauśika āṃbayo khātālo"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"कौशिक, गुरू, सुंदर दर दिसा मेळटाले",
+"Kauśika, gurū, suṃdara dara disā meḻaṭāle"
+],
+"My friends and I used to play cricket": [
+"हांव आनी म्हजे इश्ट क्रिकेट खेळटाले",
+"Hāṃva ānī mhaje iśṭa krikeṭa kheḻaṭāle"
+],
+"I used to see": [
+"पयलीं पळयतालो",
+"Payalīṃ paḻayatālo"
+],
+"Kaushik used to see": [
+"कौशिक पयलीं पळयताले",
+"Kauśika payalīṃ paḻayatāle"
+],
+"Kaushik used to do": [
+"कौशिक पयलीं करतालो",
+"Kauśika payalīṃ karatālo"
+],
+"He opened the door": [
+"ताणें दार उगडलें",
+"Tāṇeṃ dāra ugaḍaleṃ"
+],
+"If he had opened the door then": [
+"तेन्ना ताणें दार उगडलें जाल्यार",
+"Tennā tāṇeṃ dāra ugaḍaleṃ jālyāra"
+],
+"He had spoken": [
+"ताणें उलयिल्लें",
+"Tāṇeṃ ulayilleṃ"
+],
+"If he had spoken": [
+"ताणें उलयिल्लें जाल्यार",
+"Tāṇeṃ ulayilleṃ jālyāra"
+],
+"If you had spoken then she would have spoken": [
+"तुमी उलयिल्लें जाल्यार मागीर ती उलयताली",
+"Tumī ulayilleṃ jālyāra māgīra tī ulayatālī"
+],
+"If he had cried then they would have ran": [
+"तो रडलो जाल्यार मागीर ते धांवपाचे",
+"To raḍalo jālyāra māgīra te dhāṃvapāce"
+],
+"If you go I will cry": [
+"तूं गेल्यार हांव रडटलो",
+"Tūṃ gelyāra hāṃva raḍaṭalo"
+],
+"If he sings she will dance": [
+"तो गायलो जाल्यार ती नाचतली",
+"To gāyalo jālyāra tī nācatalī"
+],
+"reason of coming": [
+"येवपाचें कारण",
+"Yevapāceṃ kāraṇa"
+],
+"She spoke after my dancing": [
+"म्हज्या नाच उपरांत ती उलयली",
+"Mhajyā nāca uparāṃta tī ulayalī"
+],
+"after I danced": [
+"नाचल्या उपरांत",
+"Nācalyā uparāṃta"
+],
+"She spoke after I danced": [
+"हांवें नाचल्या उपरांत ती उलयली",
+"Hāṃveṃ nācalyā uparāṃta tī ulayalī"
+],
+"He cried after she went": [
+"ती गेले उपरांत तो रडलो",
+"Tī gele uparāṃta to raḍalo"
+],
+"He told about his coming to school": [
+"ताणें शाळेंत येवपाची गजाल सांगली",
+"Tāṇeṃ śāḻeṃta yevapācī gajāla sāṃgalī"
+],
+"He told me that he is coming": [
+"तो येता म्हण सांगलें",
+"To yetā mhaṇa sāṃgaleṃ"
+],
+"He told me that he is going to come": [
+"तो येवपाचो आसा अशें ताणें सांगलें",
+"To yevapāco āsā aśeṃ tāṇeṃ sāṃgaleṃ"
+],
+"I don't remember she having said something": [
+"तिणें कितें तरी सांगिल्लें याद ना",
+"Tiṇeṃ kiteṃ tarī sāṃgilleṃ yāda nā"
+],
+"I don't remember she having eaten mango": [
+"तिणें आंबो खाल्लो याद ना",
+"Tiṇeṃ āṃbo khāllo yāda nā"
+],
+"while I speak": [
+"उलयताना",
+"Ulayatānā"
+],
+"while I do": [
+"जाल्यार हांव करतां",
+"Jālyāra hāṃva karatāṃ"
+],
+"while I dance": [
+"नाचताना",
+"Nācatānā"
+],
+"Come to see this photo": [
+"येयात हो फोटो पळोवपाक",
+"Yeyāta ho phoṭo paḻovapāka"
+],
+"Come to eat with me": [
+"माझ्या बरोबर जेवपाक ये",
+"Mājhyā barobara jevapāka ye"
+],
+"Smoking is prohibited": [
+"धूम्रपान करपाक बंदी आसा",
+"Dhūmrapāna karapāka baṃdī āsā"
+],
+"Court asked to be present tomorrow": [
+"फाल्यां न्यायालयान हाजीर रावपाक सांगलें",
+"Phālyāṃ nyāyālayāna hājīra rāvapāka sāṃgaleṃ"
+],
+"Sit and watch": [
+"बसून पळोवचें",
+"Basūna paḻovaceṃ"
+],
+"come and go": [
+"येवन वचप",
+"Yevana vacapa"
+],
+"He came and saw it": [
+"ताणें येवन पळयलें",
+"Tāṇeṃ yevana paḻayaleṃ"
+],
+"They will go and check it": [
+"ते वचून तपासतले",
+"Te vacūna tapāsatale"
+],
+"smile and say": [
+"हांसून म्हणचें",
+"Hāṃsūna mhaṇaceṃ"
+],
+"till I speak": [
+"जो मेरेन हांव उलयतां",
+"Jo merena hāṃva ulayatāṃ"
+],
+"until she smiles": [
+"ती हांसता मेरेन",
+"Tī hāṃsatā merena"
+],
+"till he goes": [
+"तो वचमेरेन",
+"To vacamerena"
+],
+"until we come": [
+"आमी येय मेरेन",
+"Āmī yeya merena"
+],
+"For good horse": [
+"बऱ्या घोड्या खातीर",
+"Baṟyā ghoḍyā khātīra"
+],
+"For good chair": [
+"बऱ्या कुर्सी खातीर",
+"Baṟyā kursī khātīra"
+],
+"After easy exam": [
+"सोपी परिक्षे उपरांत",
+"Sopī parikṣe uparāṃta"
+],
+"For red horse": [
+"तांबड्या घोड्याखातीर",
+"Tāṃbaḍyā ghoḍyākhātīra"
+],
+"About beautiful drawing": [
+"सोबीत रेखाटन विशीं",
+"Sobīta rekhāṭana viśīṃ"
+],
+"I can eat": [
+"खावंक मेळटा",
+"Khāvaṃka meḻaṭā"
+],
+"He can sing": [
+"ताका गावंक मेळटा",
+"Tākā gāvaṃka meḻaṭā"
+],
+"You(plural) could eat mango": [
+"तुमकां(बहुवचन) आंबो खावंक मेळटालो",
+"Tumakāṃ(bahuvacana) āṃbo khāvaṃka meḻaṭālo"
+],
+"You(plural) could eat chutney": [
+"तुमकां(बहुवचन) चटणी खावंक मेळटालें",
+"Tumakāṃ(bahuvacana) caṭaṇī khāvaṃka meḻaṭāleṃ"
+],
+"She could dance": [
+"तिका नाचपाक मेळटालें",
+"Tikā nācapāka meḻaṭāleṃ"
+],
+"They (plural of she) will be able to move": [
+"ते (तिचे बहुवचन) हालचाल करपाक शकतले",
+"Te (tice bahuvacana) hālacāla karapāka śakatale"
+],
+"I can not eat": [
+"खावंक मेळना",
+"Khāvaṃka meḻanā"
+],
+"He can not sing": [
+"ताका गावंक मेळना",
+"Tākā gāvaṃka meḻanā"
+],
+"She could not dance": [
+"तिका नाचपाक मेळनाशिल्लो",
+"Tikā nācapāka meḻanāśillo"
+],
+"You(plural) could not eat mango": [
+"तुमकां(बहुवचन) आंबो खावंक शकलो ना",
+"Tumakāṃ(bahuvacana) āṃbo khāvaṃka śakalo nā"
+],
+"You(plural) could not eat chutney": [
+"तुमकां(बहुवचन) चटणी खावंक मेळनाशिल्ली",
+"Tumakāṃ(bahuvacana) caṭaṇī khāvaṃka meḻanāśillī"
+],
+"They will not be able to move": [
+"तांकां हालचाल करपाक मेळची ना",
+"Tāṃkāṃ hālacāla karapāka meḻacī nā"
+],
+"I can play cricket": [
+"हांव क्रिकेट खेळूंक शकता",
+"Hāṃva krikeṭa kheḻūṃka śakatā"
+],
+"I could play cricket": [
+"म्हाका क्रिकेट खेळपाक मेळटालें",
+"Mhākā krikeṭa kheḻapāka meḻaṭāleṃ"
+],
+"I will be able to play cricket": [
+"क्रिकेट खेळपाक मेळटलें",
+"Krikeṭa kheḻapāka meḻaṭaleṃ"
+],
+"He can eat mangoes": [
+"ताका आंबे खावंक मेळटा",
+"Tākā āṃbe khāvaṃka meḻaṭā"
+],
+"He could eat mangoes": [
+"ताका आंबो खावंक मेळटालो",
+"Tākā āṃbo khāvaṃka meḻaṭālo"
+],
+"He will be able to eat mangoes": [
+"ताका आंबे खावपाक मेळटले",
+"Tākā āṃbe khāvapāka meḻaṭale"
+],
+"They could open box": [
+"तांकां पेटी उगडूंक मेळटाली",
+"Tāṃkāṃ peṭī ugaḍūṃka meḻaṭālī"
+],
+"They could open bag": [
+"तांकां पोती उगडूंक मेळटाली",
+"Tāṃkāṃ potī ugaḍūṃka meḻaṭālī"
+],
+"They could speak": [
+"तांकां उलोवंक मेळटालें",
+"Tāṃkāṃ ulovaṃka meḻaṭāleṃ"
+],
+"They gathered to speak": [
+"उलोवपाक ते जमले",
+"Ulovapāka te jamale"
+],
+"I want mango": [
+"म्हाका आंबो जाय",
+"Mhākā āṃbo jāya"
+],
+"He wants mango": [
+"ताका आंबो जाय",
+"Tākā āṃbo jāya"
+],
+"She wants mango": [
+"तिका आंबो जाय",
+"Tikā āṃbo jāya"
+],
+"I/He/She want mangoes": [
+"म्हाका/ताका/तिका आंबे जाय",
+"Mhākā/tākā/tikā āṃbe jāya"
+],
+"He/She/They want chalk": [
+"ताका/तिका/तांकां खडू जाय",
+"Tākā/tikā/tāṃkāṃ khaḍū jāya"
+],
+"He/She/They want chalks": [
+"ताका/तिका/तांकां खडू जाय",
+"Tākā/tikā/tāṃkāṃ khaḍū jāya"
+],
+"He/She/They want bag": [
+"ताका/तिका/तांकां बॅग जाय",
+"Tākā/tikā/tāṃkāṃ baॅga jāya"
+],
+"He/She/They want bags": [
+"ताका/तिका/तांकां बॅगां जाय",
+"Tākā/tikā/tāṃkāṃ baॅgāṃ jāya"
+],
+"He/She/They want page": [
+"ताका/तिका/तांकां पान जाय",
+"Tākā/tikā/tāṃkāṃ pāna jāya"
+],
+"He/She/They want pages": [
+"ताका/तिका/तांकां पानां जाय",
+"Tākā/tikā/tāṃkāṃ pānāṃ jāya"
+],
+"He/She/They wanted chalk": [
+"ताका/तिका/तांकां खडू जाय आशिल्लो",
+"Tākā/tikā/tāṃkāṃ khaḍū jāya āśillo"
+],
+"He/She/They wanted chalks": [
+"ताका/तिका/तांकां खडू जाय आशिल्ले",
+"Tākā/tikā/tāṃkāṃ khaḍū jāya āśille"
+],
+"He/She/They wanted bag": [
+"ताका/तिका/तांकां बॅग जाय आशिल्ली",
+"Tākā/tikā/tāṃkāṃ baॅga jāya āśillī"
+],
+"He/She/They wanted bags": [
+"ताका/तिका/तांकां बॅगां जाय आशिल्लीं",
+"Tākā/tikā/tāṃkāṃ baॅgāṃ jāya āśillīṃ"
+],
+"He/She/They wanted page": [
+"ताका/तिका/तांकां पेज जाय आशिल्लें",
+"Tākā/tikā/tāṃkāṃ peja jāya āśilleṃ"
+],
+"He/She/They wanted pages": [
+"ताका/तिका/तांकां पानां जाय आशिल्लीं",
+"Tākā/tikā/tāṃkāṃ pānāṃ jāya āśillīṃ"
+],
+"He/She/They will need chalk": [
+"ताका/तिका/तांकां खडू जाय पडटलो",
+"Tākā/tikā/tāṃkāṃ khaḍū jāya paḍaṭalo"
+],
+"He/She/They will need chalks": [
+"ताका/तिका/तांकां खडू जाय पडटले",
+"Tākā/tikā/tāṃkāṃ khaḍū jāya paḍaṭale"
+],
+"He/She/They will need bag": [
+"ताका/तिका/तांकां बॅग जाय पडटली",
+"Tākā/tikā/tāṃkāṃ baॅga jāya paḍaṭalī"
+],
+"He/She/They will need bags": [
+"ताका/तिका/तांकां पोतयो जाय पडटल्यो",
+"Tākā/tikā/tāṃkāṃ potayo jāya paḍaṭalyo"
+],
+"He/She/They will need page": [
+"ताका/तिका/तांकां पान जाय पडटलें",
+"Tākā/tikā/tāṃkāṃ pāna jāya paḍaṭaleṃ"
+],
+"He/She/They will need pages": [
+"ताका/तिका/तांकां पानांची गरज आसतली",
+"Tākā/tikā/tāṃkāṃ pānāṃcī garaja āsatalī"
+],
+"I do not want mango": [
+"म्हाका आंबो नाका",
+"Mhākā āṃbo nākā"
+],
+"She will not want bag": [
+"तिका बॅग जायना",
+"Tikā baॅga jāyanā"
+],
+"He did not want chalk": [
+"ताका खडू जायनाशिल्लो",
+"Tākā khaḍū jāyanāśillo"
+],
+"He did not want bag": [
+"ताका बॅग जायनाशिल्लो",
+"Tākā baॅga jāyanāśillo"
+],
+"She does not want ice cream": [
+"तिका आइसक्रीम जायना",
+"Tikā āisakrīma jāyanā"
+],
+"What will happen?": [
+"कितें जातलें?",
+"Kiteṃ jātaleṃ?"
+],
+"What is happening?": [
+"कितें घडटा?",
+"Kiteṃ ghaḍaṭā?"
+],
+"It did not happen": [
+"अशें जालें ना",
+"Aśeṃ jāleṃ nā"
+],
+"I will become winner": [
+"हांव विजेतो जातलों",
+"Hāṃva vijeto jātaloṃ"
+],
+"It was happening": [
+"घडटालें",
+"Ghaḍaṭāleṃ"
+],
+"He will become mad": [
+"तो पिशें जातलो",
+"To piśeṃ jātalo"
+],
+"He should have eaten mango": [
+"ताणें आंबो खावपाक जाय आशिल्लो",
+"Tāṇeṃ āṃbo khāvapāka jāya āśillo"
+],
+"He should have eaten tamarind": [
+"ताणें तामरी खावपाक जाय आशिल्लें",
+"Tāṇeṃ tāmarī khāvapāka jāya āśilleṃ"
+],
+"He should eat mango": [
+"ताणें आंबो खावचो",
+"Tāṇeṃ āṃbo khāvaco"
+],
+"He should go": [
+"ताणें वचूंक जाय",
+"Tāṇeṃ vacūṃka jāya"
+],
+"He should have gone": [
+"ताका वचपाक जाय आशिल्लें",
+"Tākā vacapāka jāya āśilleṃ"
+],
+"I should speak": [
+"हांवें उलोवंक जाय",
+"Hāṃveṃ ulovaṃka jāya"
+],
+"I should have spoken": [
+"हांवें उलोवंक जाय आशिल्लें",
+"Hāṃveṃ ulovaṃka jāya āśilleṃ"
+],
+"They should dance": [
+"तांणी नाचपाक जाय",
+"Tāṃṇī nācapāka jāya"
+],
+"They should not dance": [
+"तांणी नाचूंक फावना",
+"Tāṃṇī nācūṃka phāvanā"
+],
+"They should have danced": [
+"तांणी नाचपाक जाय आशिल्लें",
+"Tāṃṇī nācapāka jāya āśilleṃ"
+],
+"They should not have danced": [
+"तांणी नाचूंक फावनाशिल्लो",
+"Tāṃṇī nācūṃka phāvanāśillo"
+],
+"You should play": [
+"तुमी खेळपाक जाय",
+"Tumī kheḻapāka jāya"
+],
+"You should not play": [
+"तुमी खेळूंक फावना",
+"Tumī kheḻūṃka phāvanā"
+],
+"You should have played": [
+"तुमी खेळपाक जाय आशिल्लें",
+"Tumī kheḻapāka jāya āśilleṃ"
+],
+"You should not have smiled": [
+"तुमी हांसपाक जायनाशिल्लें",
+"Tumī hāṃsapāka jāyanāśilleṃ"
+],
+"She should open box": [
+"तिणें पेटी उगडची",
+"Tiṇeṃ peṭī ugaḍacī"
+],
+"He should eat": [
+"ताणें खावंक जाय",
+"Tāṇeṃ khāvaṃka jāya"
+],
+"You(male) should go": [
+"तुमी(दादलो) वचूंक जाय",
+"Tumī(dādalo) vacūṃka jāya"
+],
+"You(male) should eat mango": [
+"तुमी(दादलो) आंबो खावचो",
+"Tumī(dādalo) āṃbo khāvaco"
+],
+"He should not go": [
+"ताणें वचूंक फावना",
+"Tāṇeṃ vacūṃka phāvanā"
+],
+"She should not open box": [
+"तिणें पेटी उगडची न्हय",
+"Tiṇeṃ peṭī ugaḍacī nhaya"
+],
+"He should not eat": [
+"ताणें खावंक फावना",
+"Tāṇeṃ khāvaṃka phāvanā"
+],
+"He should eat tamarind": [
+"ताणें इमली खावंक जाय",
+"Tāṇeṃ imalī khāvaṃka jāya"
+],
+"She should write letter": [
+"तिणें पत्र बरोवचें",
+"Tiṇeṃ patra barovaceṃ"
+],
+"You should eat mango": [
+"आंबो खावपाक जाय",
+"Āṃbo khāvapāka jāya"
+],
+"He has to do it every day": [
+"ताका दर दिसा करचें पडटा",
+"Tākā dara disā karaceṃ paḍaṭā"
+],
+"He will have to do it every day": [
+"ताका दर दिसा करचें पडटलें",
+"Tākā dara disā karaceṃ paḍaṭaleṃ"
+],
+"He had to do it every day": [
+"ताका दर दिसा करचें पडटालें",
+"Tākā dara disā karaceṃ paḍaṭāleṃ"
+],
+"She has to eat mango": [
+"तिका आंबो खावचो पडटा",
+"Tikā āṃbo khāvaco paḍaṭā"
+],
+"She will have to eat mango": [
+"तिका आंबो खावचो पडटलो",
+"Tikā āṃbo khāvaco paḍaṭalo"
+],
+"She had to eat mango": [
+"तिका आंबो खावचो पडलो",
+"Tikā āṃbo khāvaco paḍalo"
+],
+"She has to eat mangoes": [
+"तिका आंबे खावचे पडटात",
+"Tikā āṃbe khāvace paḍaṭāta"
+],
+"She has to eat tamarind": [
+"तिका इमली खावची पडटा",
+"Tikā imalī khāvacī paḍaṭā"
+],
+"She has to eat tamarinds": [
+"तिका इमली खावची पडटा",
+"Tikā imalī khāvacī paḍaṭā"
+],
+"She has to eat medicine": [
+"तिका वखदां खावचीं पडटात",
+"Tikā vakhadāṃ khāvacīṃ paḍaṭāta"
+],
+"She has to eat medicines": [
+"तिका वखदां खावचीं पडटात",
+"Tikā vakhadāṃ khāvacīṃ paḍaṭāta"
+],
+"I have to go": [
+"म्हाका वचचें पडटलें",
+"Mhākā vacaceṃ paḍaṭaleṃ"
+],
+"We have to speak": [
+"आमकां उलोवंक जाय",
+"Āmakāṃ ulovaṃka jāya"
+],
+"I keep speaking": [
+"हांव उलयतां",
+"Hāṃva ulayatāṃ"
+],
+"I kept speaking": [
+"हांव उलयत रावलो",
+"Hāṃva ulayata rāvalo"
+],
+"I will keep speaking": [
+"हांव उलयतां रावतां",
+"Hāṃva ulayatāṃ rāvatāṃ"
+],
+"You keep speaking": [
+"तुमी उलयत रावतात",
+"Tumī ulayata rāvatāta"
+],
+"You kept speaking": [
+"तुमी उलयत रावले",
+"Tumī ulayata rāvale"
+],
+"You will keep speaking": [
+"तुमी उलयत रावतले",
+"Tumī ulayata rāvatale"
+],
+"Keep speaking! (Imperative)": [
+"उलयत राव! (अत्यावश्यक) ६.",
+"Ulayata rāva! (atyāvaśyaka) 6."
+],
+"He is taller than me": [
+"तो म्हजे परस उंच आसा",
+"To mhaje parasa uṃca āsā"
+],
+"I am shorter than you": [
+"तुजे परस हांव ल्हान",
+"Tuje parasa hāṃva lhāna"
+],
+"They were happier than now": [
+"आतां परस ते चड खोशी आशिल्ले",
+"Ātāṃ parasa te caḍa khośī āśille"
+],
+"He is best": [
+"तो सगळ्यांत बरो",
+"To sagaḻyāṃta baro"
+],
+"Everest is the tallest peak": [
+"एव्हरेस्ट हें सगळ्यांत उंच तेमक",
+"Evharesṭa heṃ sagaḻyāṃta uṃca temaka"
+],
+"She was the youngest player": [
+"ती सगळ्यांत तरणाटी खेळगडी आशिल्ली",
+"Tī sagaḻyāṃta taraṇāṭī kheḻagaḍī āśillī"
+],
+"Your voice is loudest of all": [
+"तुमचो आवाज सगळ्यांत व्हडलो",
+"Tumaco āvāja sagaḻyāṃta vhaḍalo"
+],
+"Your name is known to me": [
+"तुजें नांव म्हाका खबर आसा",
+"Tujeṃ nāṃva mhākā khabara āsā"
+],
+"She knows his address": [
+"ताचो पत्तो तिका खबर आसा",
+"Tāco patto tikā khabara āsā"
+],
+"She knew his address": [
+"ताचो पत्तो तिका खबर आशिल्लो",
+"Tāco patto tikā khabara āśillo"
+],
+"Do you know it?": [
+"तुमकां तें खबर आसा?",
+"Tumakāṃ teṃ khabara āsā?"
+],
+"Did she know that?": [
+"तिका तें खबर आशिल्लें काय?",
+"Tikā teṃ khabara āśilleṃ kāya?"
+],
+"Your name is not known to me": [
+"तुजें नांव म्हाका खबर ना",
+"Tujeṃ nāṃva mhākā khabara nā"
+],
+"She does not know his address": [
+"ताचो पत्तो तिका खबर ना",
+"Tāco patto tikā khabara nā"
+],
+"She did not know his address": [
+"ताचो पत्तो तिका खबर नाशिल्लो",
+"Tāco patto tikā khabara nāśillo"
+],
+"Don't you know it?": [
+"तुका खबर ना?",
+"Tukā khabara nā?"
+],
+"Didn't she know that?": [
+"तिका तें खबर नाशिल्लें?",
+"Tikā teṃ khabara nāśilleṃ?"
+],
+"I know eating cake": [
+"केक खावपाक म्हाका खबर आसा",
+"Keka khāvapāka mhākā khabara āsā"
+],
+"I know swimming": [
+"म्हाका पोंवपाची खबर आसा",
+"Mhākā poṃvapācī khabara āsā"
+],
+"I know Japanese": [
+"म्हाका जपानी भास खबर आसा",
+"Mhākā japānī bhāsa khabara āsā"
+],
+"I know cooking": [
+"म्हाका रांदपाची खबर आसा",
+"Mhākā rāṃdapācī khabara āsā"
+],
+"Do you know playing cricket?": [
+"तुमकां क्रिकेट खेळपाची खबर आसा?",
+"Tumakāṃ krikeṭa kheḻapācī khabara āsā?"
+],
+"I know killing mosquitoes": [
+"मच्छर मारप म्हाका खबर आसा",
+"Macchara mārapa mhākā khabara āsā"
+],
+"She used to know dancing before": [
+"तिका पयलीं नाचाची खबर आशिल्ली",
+"Tikā payalīṃ nācācī khabara āśillī"
+],
+"They knew to talk": [
+"तांकां उलोवपाक कळटालें",
+"Tāṃkāṃ ulovapāka kaḻaṭāleṃ"
+],
+"He learned. So he could speak Japanese": [
+"तो शिकलो. देखून ताका जपानी भास उलोवंक मेळटालें",
+"To śikalo. dekhūna tākā japānī bhāsa ulovaṃka meḻaṭāleṃ"
+],
+"I do not know eating cake": [
+"केक खावपाक म्हाका खबर ना",
+"Keka khāvapāka mhākā khabara nā"
+],
+"I do not know swimming": [
+"म्हाका पोंवपाची खबर ना",
+"Mhākā poṃvapācī khabara nā"
+],
+"I do not know Japanese": [
+"म्हाका जपानी भास कळना",
+"Mhākā japānī bhāsa kaḻanā"
+],
+"She did not know dancing before": [
+"तिका पयलीं नाचाची खबर नाशिल्ली",
+"Tikā payalīṃ nācācī khabara nāśillī"
+],
+"They did not know to talk": [
+"तांकां उलोवपाक कळनाशिल्लें",
+"Tāṃkāṃ ulovapāka kaḻanāśilleṃ"
+],
+"He did not learn. So he could not speak Japanese": [
+"तो शिकलो ना. देखून ताका जपानी भास उलोवंक मेळनाशिल्लें",
+"To śikalo nā. dekhūna tākā japānī bhāsa ulovaṃka meḻanāśilleṃ"
+],
+"I(boy) know you": [
+"हांव(चलो) तुका वळखता",
+"Hāṃva(calo) tukā vaḻakhatā"
+],
+"I(girl) know you": [
+"हांव(चली) तुका वळखता",
+"Hāṃva(calī) tukā vaḻakhatā"
+],
+"You know me": [
+"तूं म्हाका वळखता",
+"Tūṃ mhākā vaḻakhatā"
+],
+"He knows Mr. Ram": [
+"श्री राम हांकां तो वळखता",
+"Śrī rāma hāṃkāṃ to vaḻakhatā"
+],
+"Let's not play": [
+"खेळूं नाकात",
+"Kheḻūṃ nākāta"
+],
+"Let's not go": [
+"वचूंक नाका",
+"Vacūṃka nākā"
+],
+"Let's not speak": [
+"उलोवंक नाका",
+"Ulovaṃka nākā"
+],
+"Shall we play cricket? (style 1)": [
+"आमी क्रिकेट खेळटले? (शैली १) २.",
+"Āmī krikeṭa kheḻaṭale? (śailī 1) 2."
+],
+"Shall we play cricket? (style 2)": [
+"आमी क्रिकेट खेळटले? (शैली २) २.",
+"Āmī krikeṭa kheḻaṭale? (śailī 2) 2."
+],
+"Shall we watch movie? (style 1)": [
+"आमी सिनेमा पळोवचे? (शैली १) २.",
+"Āmī sinemā paḻovace? (śailī 1) 2."
+],
+"Shall we watch movie? (style 2)": [
+"आमी सिनेमा पळोवचे? (शैली २) २.",
+"Āmī sinemā paḻovace? (śailī 2) 2."
+],
+"Shall we go home? (style 1)": [
+"आमी घरा वचतले? (शैली १) २.",
+"Āmī gharā vacatale? (śailī 1) 2."
+],
+"Shall we go home? (style 2)": [
+"आमी घरा वचतले? (शैली २) २.",
+"Āmī gharā vacatale? (śailī 2) 2."
+],
+"Shall we eat mango? (style 1)": [
+"आमी आंबो खावचे? (शैली १) २.",
+"Āmī āṃbo khāvace? (śailī 1) 2."
+],
+"Shall we eat mango? (style 2)": [
+"आमी आंबो खावचे? (शैली २) २.",
+"Āmī āṃbo khāvace? (śailī 2) 2."
+],
+"Shall we eat tamarind? (style 1)": [
+"आमी इमली खावचे? (शैली १) २.",
+"Āmī imalī khāvace? (śailī 1) 2."
+],
+"Shall we eat tamarind? (style 2)": [
+"आमी इमली खावचे? (शैली २) २.",
+"Āmī imalī khāvace? (śailī 2) 2."
+],
+"Let him play": [
+"ताका खेळपाक दिवचो",
+"Tākā kheḻapāka divaco"
+],
+"Let me eat": [
+"खावंक दितां",
+"Khāvaṃka ditāṃ"
+],
+"Let her speak": [
+"तिका उलोवंक दिवचें",
+"Tikā ulovaṃka divaceṃ"
+],
+"You all, Let him play": [
+"तुमी सगळे, ताका खेळपाक दिवचें",
+"Tumī sagaḻe, tākā kheḻapāka divaceṃ"
+],
+"You all, Let me eat": [
+"तुमी सगळे, म्हाका खावंक दिवचें",
+"Tumī sagaḻe, mhākā khāvaṃka divaceṃ"
+],
+"You all, Let her speak": [
+"तुमी सगळे, तिका उलोवंक दिवचें",
+"Tumī sagaḻe, tikā ulovaṃka divaceṃ"
+],
+"Don't let him play": [
+"ताका खेळपाक दिवचो न्हय",
+"Tākā kheḻapāka divaco nhaya"
+],
+"Don't let me eat": [
+"म्हाका खावंक दिवंक नाका",
+"Mhākā khāvaṃka divaṃka nākā"
+],
+"You all, don't let her speak": [
+"तुमी सगळे, तिका उलोवंक दिवचे न्हय",
+"Tumī sagaḻe, tikā ulovaṃka divace nhaya"
+],
+"You all, don't let me eat": [
+"तुमी सगळे, म्हाका जेवंक दिवचे न्हय",
+"Tumī sagaḻe, mhākā jevaṃka divace nhaya"
+],
+"I could not understand what you just said": [
+"तुमी आतांच सांगिल्लें म्हाका समजूंक शकलें ना",
+"Tumī ātāṃca sāṃgilleṃ mhākā samajūṃka śakaleṃ nā"
+],
+"Which fruit you want, show me that": [
+"खंयचें फळ जाय, तें दाखोवचें",
+"Khaṃyaceṃ phaḻa jāya, teṃ dākhovaceṃ"
+],
+"When you come I feel happy": [
+"तूं येताना म्हाका खोशी दिसता",
+"Tūṃ yetānā mhākā khośī disatā"
+],
+"What is in your mind, tell me that": [
+"तुज्या मनांत जें आसा तें सांग",
+"Tujyā manāṃta jeṃ āsā teṃ sāṃga"
+],
+"When you(girl) come I feel happy": [
+"तूं(चली) येता तेन्ना म्हाका खोशी दिसता",
+"Tūṃ(calī) yetā tennā mhākā khośī disatā"
+],
+"Go back, the way you have come": [
+"परत वच, तुमी आयिल्ले वाटेन",
+"Parata vaca, tumī āyille vāṭena"
+],
+"Give it to him, who wants it": [
+"ताका जाय, कोणाक तें दिवचें",
+"Tākā jāya, koṇāka teṃ divaceṃ"
+],
+"Tell me about them whom you read about": [
+"तुमी ज्या विशीं वाचतात तांकां सांगात",
+"Tumī jyā viśīṃ vācatāta tāṃkāṃ sāṃgāta"
+],
+"Wherever you will go I will come": [
+"तुमी खंय वचतले हांव येतलों",
+"Tumī khaṃya vacatale hāṃva yetaloṃ"
+],
+"Whichever vegetables you want, you buy it": [
+"खंयची भाजी जाय ती विकत घेतात",
+"Khaṃyacī bhājī jāya tī vikata ghetāta"
+],
+"Whenever you call he will answer": [
+"जेन्ना तुमी फोन करतात तेन्ना तेन्ना तो जाप दितलो",
+"Jennā tumī phona karatāta tennā tennā to jāpa ditalo"
+],
+"Do not smoke here": [
+"हांगा धुमशेण काडूंक नाकात",
+"Hāṃgā dhumaśeṇa kāḍūṃka nākāta"
+],
+"Do not use mobile phones": [
+"मोबायल फोन वापरूं नाकात",
+"Mobāyala phona vāparūṃ nākāta"
+],
+"Enter your preferences": [
+"तुमचीं पसंती दाखयात",
+"Tumacīṃ pasaṃtī dākhayāta"
+],
+"Write your address": [
+"तुमचो पत्तो बरोवचो",
+"Tumaco patto barovaco"
+],
+"Write your addresses": [
+"तुमचे पत्ते बरोवचे",
+"Tumace patte barovace"
+],
+"Enter your preference": [
+"तुमची पसंती दाखयात",
+"Tumacī pasaṃtī dākhayāta"
+],
+"Speak your name": [
+"आपलें नांव उलोवचें",
+"Āpaleṃ nāṃva ulovaceṃ"
+],
+"Speak your names": [
+"तुमचीं नांवां उलोवचीं",
+"Tumacīṃ nāṃvāṃ ulovacīṃ"
+],
+"Do not speak": [
+"उलोवंक नाका",
+"Ulovaṃka nākā"
+],
+"Do not smoke": [
+"धूम्रपान करचें न्हय",
+"Dhūmrapāna karaceṃ nhaya"
+],
+"Do not cross road here": [
+"हांगा रस्तो पार करचो न्हय",
+"Hāṃgā rasto pāra karaco nhaya"
+],
+"Do not pluck flowers": [
+"फुलां काडचीं न्हय",
+"Phulāṃ kāḍacīṃ nhaya"
+],
+"I like to eat mango": [
+"आंबो खावपाक आवडटा",
+"Āṃbo khāvapāka āvaḍaṭā"
+],
+"I like to eat mangoes": [
+"आंबयो खावपाक आवडटात",
+"Āṃbayo khāvapāka āvaḍaṭāta"
+],
+"He liked to open bag": [
+"ताका पोती उगडपाक आवडटाली",
+"Tākā potī ugaḍapāka āvaḍaṭālī"
+],
+"He liked to open bags": [
+"ताका पोतयो उगडपाक आवडटाले",
+"Tākā potayo ugaḍapāka āvaḍaṭāle"
+],
+"She will like to sing song": [
+"तिका गीत गावपाक आवडटलें",
+"Tikā gīta gāvapāka āvaḍaṭaleṃ"
+],
+"She will like to sing songs": [
+"तिका गितां गावपाक आवडटलें",
+"Tikā gitāṃ gāvapāka āvaḍaṭaleṃ"
+],
+"I do not like to eat mango": [
+"आंबो खावपाक म्हाका आवडना",
+"Āṃbo khāvapāka mhākā āvaḍanā"
+],
+"I do not like to eat mangoes": [
+"आंबयो खावपाक आवडना",
+"Āṃbayo khāvapāka āvaḍanā"
+],
+"He did not like to open bag": [
+"ताका पोती उगडपाक आवडनाशिल्लें",
+"Tākā potī ugaḍapāka āvaḍanāśilleṃ"
+],
+"She will not like to sing song": [
+"तिका गीत गावपाक आवडचें ना",
+"Tikā gīta gāvapāka āvaḍaceṃ nā"
+],
+"I like to see Kaushik": [
+"कौशिक पळोवपाक आवडटा",
+"Kauśika paḻovapāka āvaḍaṭā"
+],
+"He likes to push me": [
+"ताका म्हाका धक्को दिवपाक आवडटा",
+"Tākā mhākā dhakko divapāka āvaḍaṭā"
+],
+"He likes to push her": [
+"ताका तिका धक्को दिवपाक आवडटा",
+"Tākā tikā dhakko divapāka āvaḍaṭā"
+],
+"They will like to hold us": [
+"तांकां आमकां धरपाक आवडटलें",
+"Tāṃkāṃ āmakāṃ dharapāka āvaḍaṭaleṃ"
+],
+"Kaushik said that he would eat": [
+"कौशिक म्हणालो की आपूण खातलों",
+"Kauśika mhaṇālo kī āpūṇa khātaloṃ"
+],
+"I thought I would be late so I would have to run": [
+"म्हाका दिसलें, हांव उशीर जातलों म्हणून म्हाका धांवचें पडटलें",
+"Mhākā disaleṃ, hāṃva uśīra jātaloṃ mhaṇūna mhākā dhāṃvaceṃ paḍaṭaleṃ"
+],
+"I would love to visit New York": [
+"न्यूयॉर्काक भेट दिवपाक म्हाका खूब आवडटलें",
+"Nyūyaॉrkāka bheṭa divapāka mhākā khūba āvaḍaṭaleṃ"
+],
+"We would go, but we are too busy": [
+"आमी वचपाचे, पूण आमी चड व्यस्त आसात",
+"Āmī vacapāce, pūṇa āmī caḍa vyasta āsāta"
+],
+"I would not disclose it in any condition": [
+"खंयचेच अटींत तें उक्तें करचो ना",
+"Khaṃyaceca aṭīṃta teṃ ukteṃ karaco nā"
+],
+"Would you like to drink tea?": [
+"च्या पियेवंक आवडटलें?",
+"Cyā piyevaṃka āvaḍaṭaleṃ?"
+],
+"Would you please help me?": [
+"कृपा करून म्हाका मजत करतले?",
+"Kṛpā karūna mhākā majata karatale?"
+],
+"I would suggest you to take this medicine": [
+"हें वखद घेवपाची सुचोवणी हांव करतलों",
+"Heṃ vakhada ghevapācī sucovaṇī hāṃva karataloṃ"
+],
+"I understand its importance": [
+"ताचें म्हत्व म्हाका समजता",
+"Tāceṃ mhatva mhākā samajatā"
+],
+"He understood the logic": [
+"ताका तर्क समजलो",
+"Tākā tarka samajalo"
+],
+"She came to know the news": [
+"तिका ही खबर कळ्ळी",
+"Tikā hī khabara kaḻḻī"
+],
+"They will understand your mistakes": [
+"तुमचीं चुकां तांकां समजतलीं",
+"Tumacīṃ cukāṃ tāṃkāṃ samajatalīṃ"
+],
+"Did you understand?": [
+"तुमकां समजलें काय?",
+"Tumakāṃ samajaleṃ kāya?"
+],
+"She does not understand": [
+"तिका समजना",
+"Tikā samajanā"
+],
+"He will not come to know this": [
+"हें ताका कळपाक येवचें ना",
+"Heṃ tākā kaḻapāka yevaceṃ nā"
+],
+"You are coming": [
+"तूं येता",
+"Tūṃ yetā"
+],
+"You are coming, aren't you?": [
+"तूं येता ना?",
+"Tūṃ yetā nā?"
+],
+"She did not speak": [
+"ती उलयली ना",
+"Tī ulayalī nā"
+],
+"She did not speak, did she?": [
+"ती उलयली ना, ना?",
+"Tī ulayalī nā, nā?"
+],
+"He will do": [
+"तो करतलो",
+"To karatalo"
+],
+"He will do, won't he?": [
+"तो करतलो ना?",
+"To karatalo nā?"
+],
+"I remember you": [
+"तुजी याद जाता",
+"Tujī yāda jātā"
+],
+"You remember me": [
+"तुका म्हाका याद जाता",
+"Tukā mhākā yāda jātā"
+],
+"We remember Mary": [
+"आमी मरियम्माची याद करतात",
+"Āmī mariyammācī yāda karatāta"
+],
+"Mary remembers us": [
+"मरियम्मा आमची याद करता",
+"Mariyammā āmacī yāda karatā"
+],
+"I remember you (miss)": [
+"तुजी याद जाता (मिस) .",
+"Tujī yāda jātā (misa) ."
+],
+"Mary remembered us": [
+"मरीयेक आमची याद जाली",
+"Marīyeka āmacī yāda jālī"
+],
+"Peter misses his friend": [
+"पीटर आपल्या इश्टाची याद करता",
+"Pīṭara āpalyā iśṭācī yāda karatā"
+],
+"She missed her mother a lot": [
+"तिका आवयची खूब याद येताली",
+"Tikā āvayacī khūba yāda yetālī"
+],
+"I will remember your favor": [
+"तुजी कृपा याद करतलों",
+"Tujī kṛpā yāda karataloṃ"
+],
+"He always remembered my advice": [
+"ताका म्हजो सल्लो सदांच याद जातालो",
+"Tākā mhajo sallo sadāṃca yāda jātālo"
+],
+"I want to eat mango": [
+"आंबो खावपाचो आसा",
+"Āṃbo khāvapāco āsā"
+],
+"I want to eat mangoes": [
+"आंबयो खावपाची इत्सा आसा",
+"Āṃbayo khāvapācī itsā āsā"
+],
+"He wanted to open bag": [
+"ताका पोती उगडपाची आशिल्ली",
+"Tākā potī ugaḍapācī āśillī"
+],
+"He wanted to open bags": [
+"ताका पोतयो उगडपाची इत्सा आशिल्ली",
+"Tākā potayo ugaḍapācī itsā āśillī"
+],
+"She will want to sing song": [
+"तिका गीत गावपाची इत्सा जातली",
+"Tikā gīta gāvapācī itsā jātalī"
+],
+"She will want to sing songs": [
+"तिका गितां गावपाची इत्सा जातली",
+"Tikā gitāṃ gāvapācī itsā jātalī"
+],
+"I wanted to go": [
+"म्हाका वचपाचें आशिल्लें",
+"Mhākā vacapāceṃ āśilleṃ"
+],
+"I will want to run": [
+"धांवपाची इत्सा जातली",
+"Dhāṃvapācī itsā jātalī"
+],
+"I do not want to eat mango": [
+"आंबो खावपाची इत्सा ना",
+"Āṃbo khāvapācī itsā nā"
+],
+"He did not want to open bag": [
+"ताका पोती उगडपाची इत्सा नाशिल्ली",
+"Tākā potī ugaḍapācī itsā nāśillī"
+],
+"She will not want to sing song": [
+"तिका गीत गावपाची इत्सा जावची ना",
+"Tikā gīta gāvapācī itsā jāvacī nā"
+],
+"Kaushik wants to see Peter": [
+"कौशिकाक पीटराक पळोवपाची इत्सा आसा",
+"Kauśikāka pīṭarāka paḻovapācī itsā āsā"
+],
+"Kaushik wants to see him": [
+"कौशिक ताका पळोवपाची इत्सा आसा",
+"Kauśika tākā paḻovapācī itsā āsā"
+],
+"Kaushik wants to see you": [
+"कौशिक तुका पळेवंक सोदता",
+"Kauśika tukā paḻevaṃka sodatā"
+],
+"I want you to finish work": [
+"तुमी काम सोंपयतले अशें म्हाका दिसता",
+"Tumī kāma soṃpayatale aśeṃ mhākā disatā"
+],
+"She wants me to avoid junk food": [
+"तिका दिसता हांव जंक फूड टाळचो",
+"Tikā disatā hāṃva jaṃka phūḍa ṭāḻaco"
+],
+"Kaushik wants students to practice more": [
+"विद्यार्थ्यांनी चड सराव करचो अशें कौशिकाक दिसता",
+"Vidyārthyāṃnī caḍa sarāva karaco aśeṃ kauśikāka disatā"
+],
+"Kaushik wanted students to practice more": [
+"कौशिकाक विद्यार्थ्यांनी चड सराव करचो अशें दिसतालें",
+"Kauśikāka vidyārthyāṃnī caḍa sarāva karaco aśeṃ disatāleṃ"
+],
+"Students want Kaushik to talk slowly": [
+"कौशिक ल्हवूच उलोवचो अशें विद्यार्थ्यांक दिसता",
+"Kauśika lhavūca ulovaco aśeṃ vidyārthyāṃka disatā"
+],
+"I am supposed to meet him tomorrow": [
+"फाल्यां ताका मेळपाचो आसा",
+"Phālyāṃ tākā meḻapāco āsā"
+],
+"I am supposed to finish that bottle": [
+"ती बाटली हांवें सोंपवपाची",
+"Tī bāṭalī hāṃveṃ soṃpavapācī"
+],
+"He is supposed to finish that bottle": [
+"ती बाटली ताणें सोंपयतली",
+"Tī bāṭalī tāṇeṃ soṃpayatalī"
+],
+"She is supposed to finish that bottle": [
+"ती बाटली तिणें सोंपयतली",
+"Tī bāṭalī tiṇeṃ soṃpayatalī"
+],
+"I/He/She was supposed to finish that bottle": [
+"ती बाटली हांव/ताका/तिणें सोंपवपाची आशिल्ली",
+"Tī bāṭalī hāṃva/tākā/tiṇeṃ soṃpavapācī āśillī"
+],
+"I/He/She was supposed to finish those bottles": [
+"हांवें/ताणें/तिणें तीं बाटलीं सोंपवचीं आशिल्लीं",
+"Hāṃveṃ/tāṇeṃ/tiṇeṃ tīṃ bāṭalīṃ soṃpavacīṃ āśillīṃ"
+],
+"I am supposed to go there tomorrow": [
+"फाल्यां हांव थंय वचपाचो आसा",
+"Phālyāṃ hāṃva thaṃya vacapāco āsā"
+],
+"He is supposed to come tomorrow": [
+"फाल्यां तो येवपाचो आसा",
+"Phālyāṃ to yevapāco āsā"
+],
+"We could not meet but next time we must meet": [
+"आमी मेळूंक शकले नात पूण फुडले खेपे मेळपाक जाय",
+"Āmī meḻūṃka śakale nāta pūṇa phuḍale khepe meḻapāka jāya"
+],
+"You must pay me ransom tomorrow itself": [
+"फाल्यांच म्हाका खंडणी दिवंक जाय",
+"Phālyāṃca mhākā khaṃḍaṇī divaṃka jāya"
+],
+"I get a prize": [
+"म्हाका इनाम मेळटा",
+"Mhākā ināma meḻaṭā"
+],
+"I get 10 prizes": [
+"म्हाका 10 इनामां मेळटात",
+"Mhākā 10 ināmāṃ meḻaṭāta"
+],
+"He gets a prize": [
+"ताका इनाम मेळटा",
+"Tākā ināma meḻaṭā"
+],
+"He gets 10 prizes": [
+"ताका १० इनामां मेळटात",
+"Tākā 10 ināmāṃ meḻaṭāta"
+],
+"He got a prize": [
+"ताका इनाम मेळ्ळें",
+"Tākā ināma meḻḻeṃ"
+],
+"He got 10 prizes": [
+"ताका १० इनामां मेळ्ळीं",
+"Tākā 10 ināmāṃ meḻḻīṃ"
+],
+"I found my wallet under the bed": [
+"म्हाका म्हजें पाकीट खाटी सकयल मेळ्ळें",
+"Mhākā mhajeṃ pākīṭa khāṭī sakayala meḻḻeṃ"
+],
+"She became angry": [
+"तिका राग आयलो",
+"Tikā rāga āyalo"
+],
+"He became angry": [
+"ताका राग आयलो",
+"Tākā rāga āyalo"
+],
+"He agrees to this condition": [
+"ही अट तो मान्य करता",
+"Hī aṭa to mānya karatā"
+],
+"He agrees to these conditions": [
+"तो ह्यो अटी मान्य करता",
+"To hyo aṭī mānya karatā"
+],
+"Finish it off in 10 minutes": [
+"10 मिनटांनी तें सोंपयतले",
+"10 minaṭāṃnī teṃ soṃpayatale"
+],
+"Do not hesitate. Speak it out": [
+"फाटीं सरूं नाकात. उलोवचें",
+"Phāṭīṃ sarūṃ nākāta. ulovaceṃ"
+],
+"Nobody is looking. Just do it": [
+"कोण पळयना. करून पळयात",
+"Koṇa paḻayanā. karūna paḻayāta"
+],
+"I somehow managed to gulp it": [
+"हांवें कशें तरी तें गिळपाक येस मेळयलें",
+"Hāṃveṃ kaśeṃ tarī teṃ giḻapāka yesa meḻayaleṃ"
+],
+"He quickly came and read the letter": [
+"बेगीन येवन तो पत्र वाचलो",
+"Begīna yevana to patra vācalo"
+],
+"Ask whatever you want; right now": [
+"तुमकां जाय तें विचारात; आतांच",
+"Tumakāṃ jāya teṃ vicārāta; ātāṃca"
+],
+"You may call me whatever you want": [
+"तुमकां जाय तें म्हाका म्हणूं येता",
+"Tumakāṃ jāya teṃ mhākā mhaṇūṃ yetā"
+],
+"Get that work done by him": [
+"तें काम ताचे कडल्यान करपाक लावचें",
+"Teṃ kāma tāce kaḍalyāna karapāka lāvaceṃ"
+],
+"I made her take exercise every day": [
+"हांवें तिका दर दिसा व्यायाम करपाक लायलो",
+"Hāṃveṃ tikā dara disā vyāyāma karapāka lāyalo"
+],
+"I washed clothes very hard": [
+"कपडे खूब खर धुवन काडले",
+"Kapaḍe khūba khara dhuvana kāḍale"
+],
+"Batsman hit every ball very hard": [
+"फलंदाज दर एका बॉलाक खूब खर मारतालो",
+"Phalaṃdāja dara ekā baॉlāka khūba khara māratālo"
+],
+"I just told him we drank liquor": [
+"हांवें ताका फकत सांगलें आमी सोरो पियेताले",
+"Hāṃveṃ tākā phakata sāṃgaleṃ āmī soro piyetāle"
+],
+"Oh my God! What have I done!": [
+"ओ माई गॉड! हांवें कितें केलां!",
+"O māī gaॉḍa! hāṃveṃ kiteṃ kelāṃ!"
+],
+"Now keep crying": [
+"आतां रडत राव",
+"Ātāṃ raḍata rāva"
+],
+"She will search it forever": [
+"ती सदांखातीर ताचो सोद घेतली",
+"Tī sadāṃkhātīra tāco soda ghetalī"
+],
+"I forgot to tell you": [
+"सांगपाक विसरलो",
+"Sāṃgapāka visaralo"
+],
+"She could not see the sign": [
+"तिका तें चिन्न दिसूंक नाशिल्लें",
+"Tikā teṃ cinna disūṃka nāśilleṃ"
+],
+"Start following my advice": [
+"म्हजो सल्लो पाळपाक सुरवात करात",
+"Mhajo sallo pāḻapāka suravāta karāta"
+],
+"If you had taken exercise every day then": [
+"तेन्ना दर दिसा व्यायाम केल्लो जाल्यार",
+"Tennā dara disā vyāyāma kello jālyāra"
+],
+"I was about to open the door when I saw": [
+"दार उगडपाक लागलो तेन्ना पळयलें",
+"Dāra ugaḍapāka lāgalo tennā paḻayaleṃ"
+],
+"If we think of eating mango then": [
+"आंबयो खावपाचो विचार केल्यार मागीर",
+"Āṃbayo khāvapāco vicāra kelyāra māgīra"
+],
+"If he decides to take revenge": [
+"ताणें सूड घेवपाचें थारायल्यार",
+"Tāṇeṃ sūḍa ghevapāceṃ thārāyalyāra"
+],
+"Give him your information": [
+"ताका तुमची म्हायती दिवची",
+"Tākā tumacī mhāyatī divacī"
+],
+"Keep tea ready": [
+"च्या तयार दवरात",
+"Cyā tayāra davarāta"
+],
+"We have booked tickets": [
+"आमी तिकेट बुक केल्यात",
+"Āmī tikeṭa buka kelyāta"
+],
+"I had already given my password": [
+"हांवें म्हजो पासवर्ड पयलींच दिल्लो",
+"Hāṃveṃ mhajo pāsavarḍa payalīṃca dillo"
+],
+"I have decided plan for tonight": [
+"आज रातीं खातीर हांवें येवजण थारायल्या",
+"Āja rātīṃ khātīra hāṃveṃ yevajaṇa thārāyalyā"
+],
+"He happened to say he was from India": [
+"संयोगान ताणें आपूण भारतांतलो अशें सांगलें",
+"Saṃyogāna tāṇeṃ āpūṇa bhāratāṃtalo aśeṃ sāṃgaleṃ"
+],
+"I happened to hear about strike": [
+"संयोगान संपाची खबर आयकली",
+"Saṃyogāna saṃpācī khabara āyakalī"
+],
+"Hey! When did you come?": [
+"आरे! केन्ना आयले?",
+"Āre! kennā āyale?"
+],
+"Nice smell / Very tasty": [
+"छान वास / खूप रुचीक",
+"Chāna vāsa / khūpa rucīka"
+],
+"Oh my God! Who did this?": [
+"ओ माई गॉड! हें कोणे केलें?",
+"O māī gaॉḍa! heṃ koṇe keleṃ?"
+],
+"Oh! He failed!": [
+"अरेरे! तो अपेशी थारलो!",
+"Arere! to apeśī thāralo!"
+],
+"No! He will never do it": [
+"ना! तो केन्नाच करचो ना",
+"Nā! to kennāca karaco nā"
+],
+"No! I do not believe": [
+"ना! म्हाका विस्वास ना",
+"Nā! mhākā visvāsa nā"
+],
+"Yes! I will surely come": [
+"हय! हांव नक्कीच येतलों",
+"Haya! hāṃva nakkīca yetaloṃ"
+],
+"Hmm! I got it": [
+"अं! म्हाका मेळ्ळें",
+"Aṃ! mhākā meḻḻeṃ"
+],
+"Well done! You won": [
+"बरें केलें! तुमी जिखले",
+"Bareṃ keleṃ! tumī jikhale"
+],
+"Mummy! It is paining": [
+"मम्मी! वेदना जाता",
+"Mammī! vedanā jātā"
+],
+"Yuck! It looks ugly": [
+"यक! तो कुरूप दिसता",
+"Yaka! to kurūpa disatā"
+],
+"I spit on your cowardice": [
+"तुज्या कायरपणाचेर थुकलो",
+"Tujyā kāyarapaṇācera thukalo"
+],
+"Shhh! Keep quiet": [
+"श्श्ह! ओगी रावचें",
+"Śśha! ogī rāvaceṃ"
+],
+"How well you danced!": [
+"कितले बरे नाचले!",
+"Kitale bare nācale!"
+],
+"What a fool he is!": [
+"तो कसलो मूर्ख!",
+"To kasalo mūrkha!"
+],
+"Oh! What happened then?": [
+"अरेरे! तेन्ना कितें जालें?",
+"Arere! tennā kiteṃ jāleṃ?"
+],
+"Oh! When did you come?": [
+"अरेरे! केन्ना आयले?",
+"Arere! kennā āyale?"
+],
+"Someone may see it! (blush)": [
+"कोणाक दिसूं येता! (ब्लश) 1.1.",
+"Koṇāka disūṃ yetā! (blaśa) 1.1."
+],
+"May I come": [
+"हांव येवंक शकता",
+"Hāṃva yevaṃka śakatā"
+],
+"May I go": [
+"हांव वचूंक शकता",
+"Hāṃva vacūṃka śakatā"
+],
+"May we come": [
+"आमी येवंक जाय",
+"Āmī yevaṃka jāya"
+],
+"May we go": [
+"आमी वचूं",
+"Āmī vacūṃ"
+],
+"May we speak": [
+"आमी उलोवंक जाय",
+"Āmī ulovaṃka jāya"
+],
+"May you come": [
+"तुमी येवंक शकतात",
+"Tumī yevaṃka śakatāta"
+],
+"May you speak": [
+"तुमी उलोवंक जाय",
+"Tumī ulovaṃka jāya"
+],
+"May he tell": [
+"तो सांगूं",
+"To sāṃgūṃ"
+],
+"Can I tell": [
+"सांगूंक शकता",
+"Sāṃgūṃka śakatā"
+],
+"Can I write": [
+"बरोवंक शकता",
+"Barovaṃka śakatā"
+],
+"May you give pen": [
+"तुमी पेन दिवं",
+"Tumī pena divaṃ"
+],
+"Please give pen": [
+"कृपा करून पेन दिवची",
+"Kṛpā karūna pena divacī"
+],
+"Please tell address": [
+"कृपया पत्तो सांगात",
+"Kṛpayā patto sāṃgāta"
+],
+"He may go": [
+"तो वचूं येता",
+"To vacūṃ yetā"
+],
+"I may sing": [
+"हांव गावंक शकता",
+"Hāṃva gāvaṃka śakatā"
+],
+"He might come": [
+"तो येवंक शकता",
+"To yevaṃka śakatā"
+],
+"He might have gone yesterday": [
+"काल तो गेल्लो आसूं येता",
+"Kāla to gello āsūṃ yetā"
+],
+"She might have completed it": [
+"तिणें तें पुराय केल्लें आसूं येता",
+"Tiṇeṃ teṃ purāya kelleṃ āsūṃ yetā"
+],
+"They might have returned yesterday": [
+"काल ते परतून आयिल्ले आसूं येतात",
+"Kāla te paratūna āyille āsūṃ yetāta"
+],
+"He had gone": [
+"तो गेल्लो",
+"To gello"
+],
+"He might have gone": [
+"तो गेल्लो आसूं येता",
+"To gello āsūṃ yetā"
+],
+"She had said": [
+"तिणें सांगिल्लें",
+"Tiṇeṃ sāṃgilleṃ"
+],
+"She might have said": [
+"तिणें सांगिल्लें आसतलें",
+"Tiṇeṃ sāṃgilleṃ āsataleṃ"
+],
+"You have eaten mango": [
+"तुमी आंबो खाला",
+"Tumī āṃbo khālā"
+],
+"You might have eaten mango": [
+"तुमी आंबो खाल्लो आसूं येता",
+"Tumī āṃbo khāllo āsūṃ yetā"
+],
+"The day I like": [
+"म्हाका आवडटा तो दीस",
+"Mhākā āvaḍaṭā to dīsa"
+],
+"Boy who is giving": [
+"दिवपी चलो",
+"Divapī calo"
+],
+"Person who is dancing": [
+"नाचपी व्यक्ती",
+"Nācapī vyaktī"
+],
+"Pot on table": [
+"मेजाचेर पात्र",
+"Mejācera pātra"
+],
+"Jar on table": [
+"मेजाचेर जार",
+"Mejācera jāra"
+],
+"Leaf on table": [
+"मेजाचेर पान",
+"Mejācera pāna"
+],
+"Gift inside box": [
+"पेटी भितर भेट दिवप",
+"Peṭī bhitara bheṭa divapa"
+],
+"Area outside my home": [
+"म्हज्या घरा भायर वाठार",
+"Mhajyā gharā bhāyara vāṭhāra"
+],
+"I make him say": [
+"ताका म्हणपाक लायतां",
+"Tākā mhaṇapāka lāyatāṃ"
+],
+"I will make him say": [
+"ताका सांगपाक लायतलों",
+"Tākā sāṃgapāka lāyataloṃ"
+],
+"I made him say": [
+"ताका म्हणपाक लायलो",
+"Tākā mhaṇapāka lāyalo"
+],
+"He made me work": [
+"ताणें म्हाका काम करपाक लायलो",
+"Tāṇeṃ mhākā kāma karapāka lāyalo"
+],
+"He makes me work": [
+"तो म्हाका काम करपाक लायता",
+"To mhākā kāma karapāka lāyatā"
+],
+"He will make me work": [
+"तो म्हाका काम करपाक लायतलो",
+"To mhākā kāma karapāka lāyatalo"
+],
+"That joke made me laugh": [
+"त्या विनोदान म्हाका हांसपाक लायलो",
+"Tyā vinodāna mhākā hāṃsapāka lāyalo"
+],
+"Peter made Mary eat mango": [
+"पीटरान मॅरीक आंबो खावपाक लायलो",
+"Pīṭarāna maॅrīka āṃbo khāvapāka lāyalo"
+],
+"Peter made Mary eat mangoes": [
+"पीटरान मरियम्माक आंबो खावपाक लायलो",
+"Pīṭarāna mariyammāka āṃbo khāvapāka lāyalo"
+],
+"I myself did it": [
+"हांवें स्वता केलें",
+"Hāṃveṃ svatā keleṃ"
+],
+"I did this itself": [
+"हें हांवें स्वता केलें",
+"Heṃ hāṃveṃ svatā keleṃ"
+],
+"I will come tomorrow itself": [
+"फाल्यांच येतलों",
+"Phālyāṃca yetaloṃ"
+],
+"I will surely come": [
+"हांव नक्कीच येतलों",
+"Hāṃva nakkīca yetaloṃ"
+],
+"I have seen India only": [
+"हांवें फकत भारत पळयलां",
+"Hāṃveṃ phakata bhārata paḻayalāṃ"
+],
+"He kept on talking": [
+"तो उलयत रावलो",
+"To ulayata rāvalo"
+],
+"He kept on staring that car": [
+"तो त्या गाडयेक एकटक पळयत रावलो",
+"To tyā gāḍayeka ekaṭaka paḻayata rāvalo"
+],
+"I want only sedan car": [
+"म्हाका फकत सेडान गाडी जाय",
+"Mhākā phakata seḍāna gāḍī jāya"
+],
+"I must go there": [
+"थंय वचूंक जाय",
+"Thaṃya vacūṃka jāya"
+],
+"Why just me?": [
+"फकत हांव कित्याक?",
+"Phakata hāṃva kityāka?"
+],
+"I have a car": [
+"म्हागेल गाडी आसा",
+"Mhāgela gāḍī āsā"
+],
+"I have 10 cars": [
+"म्हागेल १० गाडयो आसात",
+"Mhāgela 10 gāḍayo āsāta"
+],
+"I had a car": [
+"म्हागेल गाडी आशिल्ली",
+"Mhāgela gāḍī āśillī"
+],
+"Anup will have watch": [
+"अनुपाक पळोवणी आसतली",
+"Anupāka paḻovaṇī āsatalī"
+],
+"I do not have car": [
+"म्हागेल गाडी ना",
+"Mhāgela gāḍī nā"
+],
+"I did not have car": [
+"म्हाका गाडी नाशिल्ली",
+"Mhākā gāḍī nāśillī"
+],
+"I have 2 brothers": [
+"म्हाका २ भाव आसात",
+"Mhākā 2 bhāva āsāta"
+],
+"He has three paternal uncles": [
+"ताचे तीन पितृसत्ताक मामा आसात",
+"Tāce tīna pitṛsattāka māmā āsāta"
+],
+"Ravi had 2 kids": [
+"रवीक 2 भुरगीं आशिल्लीं",
+"Ravīka 2 bhuragīṃ āśillīṃ"
+],
+"He does not have a brother": [
+"ताका भाव ना",
+"Tākā bhāva nā"
+],
+"She did not have any relatives": [
+"तिचे नातेदार नाशिल्ले",
+"Tice nātedāra nāśille"
+],
+"What does it mean?": [
+"ताचो अर्थ कितें?",
+"Tāco artha kiteṃ?"
+],
+"What does that signboard mean?": [
+"त्या सायनबोर्डाचो अर्थ कितें?",
+"Tyā sāyanaborḍāco artha kiteṃ?"
+],
+"What did his speech mean?": [
+"ताच्या उलोवपाचो अर्थ कितें आशिल्लो?",
+"Tācyā ulovapāco artha kiteṃ āśillo?"
+],
+"What does encyclopedia mean?": [
+"विश्वकोश म्हणल्यार कितें?",
+"Viśvakośa mhaṇalyāra kiteṃ?"
+],
+"What does Sundar mean in Marathi?": [
+"सुंदर म्हणल्यार मराठींत कितें?",
+"Suṃdara mhaṇalyāra marāṭhīṃta kiteṃ?"
+],
+"I did mean it": [
+"हांवें ताचो अर्थ केल्लो खरो",
+"Hāṃveṃ tāco artha kello kharo"
+],
+"I did not mean it": [
+"म्हाका ताचो अर्थ नाशिल्लो",
+"Mhākā tāco artha nāśillo"
+],
+"He did not mean hurting you": [
+"ताचो अर्थ तुका दुखोवपाचो नाशिल्लो",
+"Tāco artha tukā dukhovapāco nāśillo"
+],
+"I meant to insult him": [
+"ताचो अपमान करपाचो म्हजो हेतू आशिल्लो",
+"Tāco apamāna karapāco mhajo hetū āśillo"
+],
+"He and me": [
+"तो आनी हांव",
+"To ānī hāṃva"
+],
+"Milk and sugar": [
+"दूद आनी साकर",
+"Dūda ānī sākara"
+],
+"I want to buy but shop is closed": [
+"म्हाका विकतें घेवपाचें आसा पूण दुकान बंद आसा",
+"Mhākā vikateṃ ghevapāceṃ āsā pūṇa dukāna baṃda āsā"
+],
+"He was clever but did not work hard": [
+"तो हुशार आसलो तरी कश्ट करिनाशिल्लो",
+"To huśāra āsalo tarī kaśṭa karināśillo"
+],
+"I had warned him, still he opened the box": [
+"हांवें ताका शिटकावणी दिली, तरी लेगीत ताणें पेटी उगडली",
+"Hāṃveṃ tākā śiṭakāvaṇī dilī, tarī legīta tāṇeṃ peṭī ugaḍalī"
+],
+"He helped her still she insulted him": [
+"ताणें तिका आदार केलो तरी तिणें ताचो अपमान केलो",
+"Tāṇeṃ tikā ādāra kelo tarī tiṇeṃ tāco apamāna kelo"
+],
+"I did not come yesterday, because I was sick": [
+"काल आयलो ना, दुयेंत आशिल्ल्यान",
+"Kāla āyalo nā, duyeṃta āśillyāna"
+],
+"Car will not start because no petrol": [
+"पेट्रोल ना म्हणून गाडी सुरू जावची ना",
+"Peṭrola nā mhaṇūna gāḍī surū jāvacī nā"
+],
+"I was sick so I did not come": [
+"दुयेंत आशिल्ल्यान हांव आयलो ना",
+"Duyeṃta āśillyāna hāṃva āyalo nā"
+],
+"No petrol so car will not start": [
+"पेट्रोल ना म्हणून गाडी सुरू जावची ना",
+"Peṭrola nā mhaṇūna gāḍī surū jāvacī nā"
+],
+"He told her that he is happy": [
+"ताणें तिका सांगलें, आपूण खुशाल आसा",
+"Tāṇeṃ tikā sāṃgaleṃ, āpūṇa khuśāla āsā"
+],
+"I am sure that we will succeed": [
+"आमी येसस्वी जातले हाची म्हाका खात्री आसा",
+"Āmī yesasvī jātale hācī mhākā khātrī āsā"
+],
+"As you wish, my lord": [
+"तुका जाय तशें माझ्या स्वामी",
+"Tukā jāya taśeṃ mājhyā svāmī"
+],
+"Do it the same way as he is doing": [
+"तो जसो करता तसोच करात",
+"To jaso karatā tasoca karāta"
+],
+"He as well as me": [
+"तो तशेंच हांव",
+"To taśeṃca hāṃva"
+],
+"She sang as well as danced": [
+"नाचपावांगडाच ती गायताली",
+"Nācapāvāṃgaḍāca tī gāyatālī"
+],
+"He or me": [
+"तो वा हांव",
+"To vā hāṃva"
+],
+"Do or die": [
+"कर वा मर",
+"Kara vā mara"
+],
+"Neither he nor I were interested": [
+"ताका वा म्हाकाय रूची नाशिल्ली",
+"Tākā vā mhākāya rūcī nāśillī"
+],
+"I finished study then I went to play": [
+"अभ्यास सोंपलो मागीर खेळपाक गेलो",
+"Abhyāsa soṃpalo māgīra kheḻapāka gelo"
+],
+"I will call you then you enter on stage": [
+"हांव तुका फोन करतलों मागीर तूं माचयेर प्रवेश करता",
+"Hāṃva tukā phona karataloṃ māgīra tūṃ mācayera praveśa karatā"
+],
+"As long as you want me, I will stay": [
+"जो मेरेन तुका म्हाका जाय तो मेरेन हांव रावतां",
+"Jo merena tukā mhākā jāya to merena hāṃva rāvatāṃ"
+],
+"As long as you follow rules": [
+"जो मेरेन नेम पाळटात",
+"Jo merena nema pāḻaṭāta"
+],
+"As far as I know, he is studious": [
+"म्हाका खबर आसा तितले तो अभ्यासक",
+"Mhākā khabara āsā titale to abhyāsaka"
+],
+"As far as India is concerned": [
+"भारताची गजाल म्हणल्यार",
+"Bhāratācī gajāla mhaṇalyāra"
+],
+"As far as literacy is concerned": [
+"साक्षरतेची गजाल म्हणल्यार",
+"Sākṣaratecī gajāla mhaṇalyāra"
+],
+"He is blaming me as if I have not tried": [
+"हांवें यत्न करूंक नाशिल्ल्या भशेन तो म्हाका दोश दिता",
+"Hāṃveṃ yatna karūṃka nāśillyā bhaśena to mhākā dośa ditā"
+],
+"He passed by as if she was not there": [
+"ती नाशिल्ल्यावरी तो थंयच्यान गेलो",
+"Tī nāśillyāvarī to thaṃyacyāna gelo"
+],
+"As soon as he came": [
+"तो आयले बरोबर",
+"To āyale barobara"
+],
+"As soon as she saw": [
+"तिणें पळयले बरोबर",
+"Tiṇeṃ paḻayale barobara"
+],
+"As soon as they become": [
+"जातात बरोबर",
+"Jātāta barobara"
+],
+"Let me know once he comes": [
+"तो येतकच म्हाका कळयात",
+"To yetakaca mhākā kaḻayāta"
+],
+"Once I see your story I will give review": [
+"तुमची काणी पळयल्या उपरांत हांव नियाळ दितलों",
+"Tumacī kāṇī paḻayalyā uparāṃta hāṃva niyāḻa ditaloṃ"
+],
+"Rather than surrendering soldier will accept death": [
+"शरण वचचे परस सैनिक मरण मान्य करतलो",
+"Śaraṇa vacace parasa sainika maraṇa mānya karatalo"
+],
+"I will take tea rather than coffee": [
+"कॉफी घेवचे परस च्या घेतलों",
+"Kaॉphī ghevace parasa cyā ghetaloṃ"
+],
+"I will work hard so that I will win": [
+"हांव जिखतलों म्हणून कश्ट करतलों",
+"Hāṃva jikhataloṃ mhaṇūna kaśṭa karataloṃ"
+],
+"We should avoid plastic so that less pollution": [
+"प्रदुशण उणें जावचें म्हणून आमी प्लास्टीक टाळपाक जाय",
+"Praduśaṇa uṇeṃ jāvaceṃ mhaṇūna āmī plāsṭīka ṭāḻapāka jāya"
+],
+"He cheated me whereas I was helping him": [
+"हांव ताका आदार करतालो जाल्यार ताणें म्हाका फटयलो",
+"Hāṃva tākā ādāra karatālo jālyāra tāṇeṃ mhākā phaṭayalo"
+],
+"Govt said prices declined whereas inflation rose": [
+"दर उणे जाले जाल्यार चलनवाड वाडली अशें सरकारान सांगलें",
+"Dara uṇe jāle jālyāra calanavāḍa vāḍalī aśeṃ sarakārāna sāṃgaleṃ"
+],
+"I did not know whether he is going": [
+"तो वता काय कितें तें म्हाका कळ्ळें ना",
+"To vatā kāya kiteṃ teṃ mhākā kaḻḻeṃ nā"
+],
+"She could not realize whether to speak or not": [
+"उलोवपाचें काय ना हें तिका कळूंक नाशिल्लें",
+"Ulovapāceṃ kāya nā heṃ tikā kaḻūṃka nāśilleṃ"
+],
+"Do this otherwise you will not win": [
+"हें करात नाजाल्यार तुमकां जिखचें ना",
+"Heṃ karāta nājālyāra tumakāṃ jikhaceṃ nā"
+],
+"He should inform me otherwise I will not know": [
+"ताणें म्हाका कळोवचें नाजाल्यार म्हाका कळचें ना",
+"Tāṇeṃ mhākā kaḻovaceṃ nājālyāra mhākā kaḻaceṃ nā"
+],
+"I also ran": [
+"हांवूय धांवलो",
+"Hāṃvūya dhāṃvalo"
+],
+"He will come tomorrow as well": [
+"फाल्यांय तो येतलो",
+"Phālyāṃya to yetalo"
+],
+"This is old video. I saw it. I am sharing today": [
+"हो पोरनो व्हिडियो. हांवें पळयलें. आयज शेअर करतां",
+"Ho porano vhiḍiyo. hāṃveṃ paḻayaleṃ. āyaja śeara karatāṃ"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"हो पोरनो व्हिडियो, तरी लेगीत हांवें पळयलो म्हणून आयज शेअर करतां",
+"Ho porano vhiḍiyo, tarī legīta hāṃveṃ paḻayalo mhaṇūna āyaja śeara karatāṃ"
+],
+"This is old song. I heard it today": [
+"हें पोरणें गीत. आयज आयकलें",
+"Heṃ poraṇeṃ gīta. āyaja āyakaleṃ"
+],
+"Though it is old song, I heard it today": [
+"पोरणें गीत आसलें तरी आयज आयकलां",
+"Poraṇeṃ gīta āsaleṃ tarī āyaja āyakalāṃ"
+],
+"My wife was standing there. He asked about girlfriend": [
+"म्हजी बायल थंय उबी आशिल्ली. ताणें इश्टिणी विशीं विचारलें",
+"Mhajī bāyala thaṃya ubī āśillī. tāṇeṃ iśṭiṇī viśīṃ vicāraleṃ"
+],
+"My wife was standing there yet he asked": [
+"म्हजी बायल थंय उबी आशिल्ली तरी ताणें विचारलें",
+"Mhajī bāyala thaṃya ubī āśillī tarī tāṇeṃ vicāraleṃ"
+],
+"Policeman was watching. He did not dare to run": [
+"पुलीस पळयत आशिल्लो. ताका धांवपाचें धाडस जालें ना",
+"Pulīsa paḻayata āśillo. tākā dhāṃvapāceṃ dhāḍasa jāleṃ nā"
+],
+"As policeman was watching he did not dare": [
+"पुलीस पळयत आसतना ताका धाडस जालें ना",
+"Pulīsa paḻayata āsatanā tākā dhāḍasa jāleṃ nā"
+],
+"I had illusion of monsters coming": [
+"राक्षस येवपाचो भ्रम म्हाका आशिल्लो",
+"Rākṣasa yevapāco bhrama mhākā āśillo"
+],
+"Now she will search it forever": [
+"आतां ती सदांखातीर सोदतली",
+"Ātāṃ tī sadāṃkhātīra sodatalī"
+],
+"If we think of eating mango then..": [
+"आंबो खावपाचो विचार केल्यार मागीर..",
+"Āṃbo khāvapāco vicāra kelyāra māgīra.."
+],
+"If he decides to take revenge..": [
+"ताणें सूड घेवपाचें थारायल्यार..",
+"Tāṇeṃ sūḍa ghevapāceṃ thārāyalyāra.."
+],
+"I have decided a plan for tonight": [
+"आज रातीं खातीर हांवें एक येवजण थारायल्या",
+"Āja rātīṃ khātīra hāṃveṃ eka yevajaṇa thārāyalyā"
+],
+"I feel this way": [
+"म्हाका अशें दिसता",
+"Mhākā aśeṃ disatā"
+],
+"I feel this": [
+"म्हाका हें जाणवता",
+"Mhākā heṃ jāṇavatā"
+],
+"He felt that I will not come": [
+"हांव येवचो ना अशें ताका दिसलें",
+"Hāṃva yevaco nā aśeṃ tākā disaleṃ"
+],
+"What do you feel?": [
+"तुमकां कितें दिसता?",
+"Tumakāṃ kiteṃ disatā?"
+],
+"He felt happiness": [
+"ताका सुखाची जाणविकाय जाली",
+"Tākā sukhācī jāṇavikāya jālī"
+],
+"Don't you feel ashamed?": [
+"तुमकां लज दिसना?",
+"Tumakāṃ laja disanā?"
+],
+"Kaushik thinks he should go": [
+"कौशिकाक दिसता आपूण वचूंक जाय",
+"Kauśikāka disatā āpūṇa vacūṃka jāya"
+],
+"He will feel bad": [
+"ताका वायट दिसतलें",
+"Tākā vāyaṭa disataleṃ"
+],
+"To show different aspects": [
+"वेगवेगळे आंग दाखोवपा खातीर",
+"Vegavegaḻe āṃga dākhovapā khātīra"
+],
+"To follow up & pressurize": [
+"फालोअप करपाक & दाब दिवपाक",
+"Phāloapa karapāka & dāba divapāka"
+],
+"Every home same story": [
+"दरेक घरांत एकूच काणी",
+"Dareka gharāṃta ekūca kāṇī"
+],
+"To approve formally": [
+"औपचारीकपणान मान्यताय दिवप",
+"Aupacārīkapaṇāna mānyatāya divapa"
+],
+"To cause destruction": [
+"नाश करुन घेणें",
+"Nāśa karuna gheṇeṃ"
+],
+"Repeat like tape": [
+"टेपा सारकें परतून करचें",
+"Ṭepā sārakeṃ paratūna karaceṃ"
+],
+"To force to do": [
+"करपाक जबरदस्ती करप",
+"Karapāka jabaradastī karapa"
+],
+"No control on tongue": [
+"जिबेचेर नियंत्रण ना",
+"Jibecera niyaṃtraṇa nā"
+],
+"Not utter a word": [
+"एक उतर उचारणें न्हय",
+"Eka utara ucāraṇeṃ nhaya"
+],
+"To take control": [
+"नियंत्रण दवरपाखातीर",
+"Niyaṃtraṇa davarapākhātīra"
+],
+"To feel embarrassed": [
+"लज दिसप",
+"Laja disapa"
+],
+"To spew venom": [
+"विख उगलणें",
+"Vikha ugalaṇeṃ"
+],
+"To uncover mystery": [
+"गूढ उक्ते करपाक",
+"Gūḍha ukte karapāka"
+],
+"To be puzzled": [
+"गुंतागुंतीचें जावप",
+"Guṃtāguṃtīceṃ jāvapa"
+],
+"To defeat completely": [
+"पुरायपणान हारप",
+"Purāyapaṇāna hārapa"
+],
+"If employee works 1 year, gratuity right": [
+"कर्मचारी 1 वर्स काम करता जाल्यार ग्रेच्युटी हक्क",
+"Karmacārī 1 varsa kāma karatā jālyāra grecyuṭī hakka"
+],
+"If wrong info given, disciplinary action": [
+"चुकीची म्हायती दिल्यार शिस्तभंगाची कारवाय",
+"Cukīcī mhāyatī dilyāra śistabhaṃgācī kāravāya"
+],
+"If possible, come to meet me": [
+"शक्य जाल्यार म्हाका मेळपाक येयात",
+"Śakya jālyāra mhākā meḻapāka yeyāta"
+],
+"What does this mean?": [
+"हाचो अर्थ कितें?",
+"Hāco artha kiteṃ?"
+],
+"I came because you called": [
+"तुवें फोन केलो म्हणून हांव आयलों",
+"Tuveṃ phona kelo mhaṇūna hāṃva āyaloṃ"
+],
+"Someone called Kaushik has come": [
+"कौशिक नांवाचो कोणूय आयला",
+"Kauśika nāṃvāco koṇūya āyalā"
+],
+"Someone named Kaushik has come": [
+"कौशिक नांवाचो कोणूय आयला",
+"Kauśika nāṃvāco koṇūya āyalā"
+],
+"Why do you want it for?": [
+"तुमकां तें कित्याक जाय?",
+"Tumakāṃ teṃ kityāka jāya?"
+],
+"What is its reason?": [
+"ताचें कारण कितें?",
+"Tāceṃ kāraṇa kiteṃ?"
+],
+"You only complete this": [
+"तुमी फकत हें पुराय करतात",
+"Tumī phakata heṃ purāya karatāta"
+],
+"It is you who told": [
+"तुवेंच सांगिल्लें",
+"Tuveṃca sāṃgilleṃ"
+],
+"I want it tomorrow itself": [
+"फाल्यांच म्हाका जाय",
+"Phālyāṃca mhākā jāya"
+],
+"I am bored": [
+"म्हाका कंटाळो आयला",
+"Mhākā kaṃṭāḻo āyalā"
+],
+"He was bored": [
+"ताका कंटाळो आयिल्लो",
+"Tākā kaṃṭāḻo āyillo"
+],
+"Relative / Relatives": [
+"नातेदार / नातेदार",
+"Nātedāra / nātedāra"
+],
+"Father's brother's wife": [
+"बापायच्या भावाची बायल",
+"Bāpāyacyā bhāvācī bāyala"
+],
+"Father's brother's son": [
+"बापायच्या भावाचे पूत",
+"Bāpāyacyā bhāvāce pūta"
+],
+"Father's brother's daughter": [
+"बापायच्या भावाची धूव",
+"Bāpāyacyā bhāvācī dhūva"
+],
+"Mother's brother's wife": [
+"आवयच्या भावाची बायल",
+"Āvayacyā bhāvācī bāyala"
+],
+"Mother's brother's son": [
+"आवयच्या भावाचे पूत",
+"Āvayacyā bhāvāce pūta"
+],
+"Mother's brother's daughter": [
+"आवयच्या भावाची धूव",
+"Āvayacyā bhāvācī dhūva"
+],
+"Father's sister's son": [
+"बापायच्या भयणीचो पूत",
+"Bāpāyacyā bhayaṇīco pūta"
+],
+"Father's sister's daughter": [
+"बापायचे भयणीची धूव",
+"Bāpāyace bhayaṇīcī dhūva"
+],
+"Father's sister's husband": [
+"बापायच्या भयणीचो घोव",
+"Bāpāyacyā bhayaṇīco ghova"
+],
+"Mother's sister's son": [
+"आवयच्या भयणीचो पूत",
+"Āvayacyā bhayaṇīco pūta"
+],
+"Mother's sister's daughter": [
+"आवयच्या भयणीची धूव",
+"Āvayacyā bhayaṇīcī dhūva"
+],
+"Mother's sister's husband": [
+"आवयच्या भयणीचो घोव",
+"Āvayacyā bhayaṇīco ghova"
+],
+"Great grand father": [
+"ग्रेट आजोबा",
+"Greṭa ājobā"
+],
+"Great grand mother": [
+"ग्रेट आजी आवय",
+"Greṭa ājī āvaya"
+],
+"Son's wife / Daughter in law": [
+"पुताची बायल / धुवो",
+"Putācī bāyala / dhuvo"
+],
+"Daughter's husband / Son in law": [
+"धुवेचो घोव / जांवय",
+"Dhuveco ghova / jāṃvaya"
+],
+"Father in law": [
+"सासणाचो बापूय",
+"Sāsaṇāco bāpūya"
+],
+"Mother in law": [
+"सासण आवय",
+"Sāsaṇa āvaya"
+],
+"Father in law's father": [
+"सासऱ्याचो बापूय",
+"Sāsaṟyāco bāpūya"
+],
+"We": [
+"आमी",
+"Āmī"
+],
+"You (singular)": [
+"तूं (एकवचन) २.",
+"Tūṃ (ekavacana) 2."
+],
+"You (plural)": [
+"तूं (बहुवचन) ४.",
+"Tūṃ (bahuvacana) 4."
+],
+"This (m.)": [
+"हें (म.) .",
+"Heṃ (ma.) ."
+],
+"This (f.)": [
+"हें (च.) .",
+"Heṃ (ca.) ."
+],
+"This (n.)": [
+"हें (न.) ४.",
+"Heṃ (na.) 4."
+],
+"These (m.)": [
+"हीं (म.) .",
+"Hīṃ (ma.) ."
+],
+"These (f.)": [
+"हीं (च.) .",
+"Hīṃ (ca.) ."
+],
+"These (n.)": [
+"हे (न.) ४.",
+"He (na.) 4."
+],
+"Self": [
+"स्वता",
+"Svatā"
+],
+"Sing": [
+"गाणे",
+"Gāṇe"
+],
+"Beat": [
+"मारप",
+"Mārapa"
+],
+"Write": [
+"बरोवप",
+"Barovapa"
+],
+"Do": [
+"करप",
+"Karapa"
+],
+"Get up": [
+"उठ",
+"Uṭha"
+],
+"Stop": [
+"राव",
+"Rāva"
+],
+"Close": [
+"धांपप",
+"Dhāṃpapa"
+],
+"I (male)": [
+"मी (दादलो) .",
+"Mī (dādalo) ."
+],
+"I (female)": [
+"मी (मादी) .",
+"Mī (mādī) ."
+],
+"We dance": [
+"आमी नाचतात",
+"Āmī nācatāta"
+],
+"He walks": [
+"तो चलता",
+"To calatā"
+],
+"She speaks": [
+"ती उलयता",
+"Tī ulayatā"
+],
+"It moves": [
+"तो हालता",
+"To hālatā"
+],
+"They dance": [
+"ते नाचतात",
+"Te nācatāta"
+],
+"You (singular/plural)": [
+"तूं (एकवचन/बहुवचन) २.",
+"Tūṃ (ekavacana/bahuvacana) 2."
+],
+"They (all)": [
+"ते (सगले) .",
+"Te (sagale) ."
+],
+"I (male/female)": [
+"हांव (दादलो/बायल) .",
+"Hāṃva (dādalo/bāyala) ."
+],
+"He": [
+"तो",
+"To"
+],
+"She": [
+"तें",
+"Teṃ"
+],
+"It": [
+"तें",
+"Teṃ"
+],
+"They (m.)": [
+"ते (म.) .",
+"Te (ma.) ."
+],
+"They (f.)": [
+"ते (च.) .",
+"Te (ca.) ."
+],
+"They (n.)": [
+"ते (न.) ४.",
+"Te (na.) 4."
+],
+"This (Male)": [
+"हे (दादले) .",
+"He (dādale) ."
+],
+"This (Female)": [
+"हे (बायल) .",
+"He (bāyala) ."
+],
+"This (neuter)": [
+"हें (नपुंसक) .",
+"Heṃ (napuṃsaka) ."
+],
+"These (male/female/neuter)": [
+"हीं (दादलो/बायल/नपुंसक)",
+"Hīṃ (dādalo/bāyala/napuṃsaka)"
+],
+"about": [
+"संबंदीं",
+"Saṃbaṃdīṃ"
+],
+"across": [
+"पेल्यान",
+"Pelyāna"
+],
+"against": [
+"आड",
+"Āḍa"
+],
+"Among": [
+"मदीं",
+"Madīṃ"
+],
+"Around": [
+"भोंवतणी",
+"Bhoṃvataṇī"
+],
+"As/like": [
+"जशें/जशें",
+"Jaśeṃ/jaśeṃ"
+],
+"aside": [
+"कुशीक दवरून",
+"Kuśīka davarūna"
+],
+"for": [
+"खातीर",
+"Khātīra"
+],
+"From/since": [
+"पासून/तेन्नासावन",
+"Pāsūna/tennāsāvana"
+],
+"in": [
+"हातूंत",
+"Hātūṃta"
+],
+"till/until": [
+"जो मेरेन/जो मेरेन",
+"Jo merena/jo merena"
+],
+"without": [
+"शिवाय",
+"Śivāya"
+],
+"during": [
+"मजगती",
+"Majagatī"
+],
+"Near/close to": [
+"लागीं/लागीं",
+"Lāgīṃ/lāgīṃ"
+],
+"towards": [
+"लागीं",
+"Lāgīṃ"
+],
+"with": [
+"वरवीं",
+"Varavīṃ"
+],
+"Instead of": [
+"ते परत",
+"Te parata"
+],
+"Prior to": [
+"ताचे आदीं",
+"Tāce ādīṃ"
+],
+"Because of": [
+"कारण",
+"Kāraṇa"
+],
+"According to": [
+"च्या मतान",
+"Cyā matāna"
+],
+"Through": [
+"वरवीं",
+"Varavīṃ"
+],
+"You speak": [
+"तूं उलयता",
+"Tūṃ ulayatā"
+],
+"Read it": [
+"वाचात तें",
+"Vācāta teṃ"
+],
+"Do it": [
+"करुन घेणें",
+"Karuna gheṇeṃ"
+],
+"You go": [
+"तूं वच",
+"Tūṃ vaca"
+],
+"You give": [
+"तूं दिता",
+"Tūṃ ditā"
+],
+"You drink": [
+"तूं पियेता",
+"Tūṃ piyetā"
+],
+"Toy moved": [
+"खेळणीं हालली",
+"Kheḻaṇīṃ hālalī"
+],
+"To cook": [
+"रांदपाक",
+"Rāṃdapāka"
+],
+"Rice cooked": [
+"तांदूळ शिजयले",
+"Tāṃdūḻa śijayale"
+],
+"To die": [
+"मरपाक",
+"Marapāka"
+],
+"To fall": [
+"पडणें",
+"Paḍaṇeṃ"
+],
+"Glass broke": [
+"कंवची मोडली",
+"Kaṃvacī moḍalī"
+],
+"To leave": [
+"सोडून वचप",
+"Soḍūna vacapa"
+],
+"To drink": [
+"पिवपाक",
+"Pivapāka"
+],
+"To eat": [
+"खावपाक",
+"Khāvapāka"
+],
+"To feed": [
+"पोसपाक",
+"Posapāka"
+],
+"To speak": [
+"उलोवपाक",
+"Ulovapāka"
+],
+"To run": [
+"धांवपाक",
+"Dhāṃvapāka"
+],
+"my": [
+"म्हजें",
+"Mhajeṃ"
+],
+"speaking": [
+"उलोवप",
+"Ulovapa"
+],
+"your": [
+"तुमचें",
+"Tumaceṃ"
+],
+"his": [
+"ताचें",
+"Tāceṃ"
+],
+"Ram's": [
+"रामाचें",
+"Rāmāceṃ"
+],
+"dance": [
+"नाच",
+"Nāca"
+],
+"About speaking": [
+"उलोवपा विशीं",
+"Ulovapā viśīṃ"
+],
+"For eating": [
+"खावपाखातीर",
+"Khāvapākhātīra"
+],
+"while speaking": [
+"उलयतना",
+"Ulayatanā"
+],
+"while doing": [
+"करतना करताना",
+"Karatanā karatānā"
+],
+"while dancing": [
+"नाचता आसतना",
+"Nācatā āsatanā"
+],
+"to see": [
+"पळोवपाक",
+"Paḻovapāka"
+],
+"to do": [
+"करपाचें",
+"Karapāceṃ"
+],
+"to dance": [
+"नाचपाक",
+"Nācapāka"
+],
+"Black horse": [
+"काळो घोडो",
+"Kāḻo ghoḍo"
+],
+"Black chair": [
+"काळी कुर्सी",
+"Kāḻī kursī"
+],
+"Black page": [
+"काळें पान",
+"Kāḻeṃ pāna"
+],
+"Black horses": [
+"काळे घोडे",
+"Kāḻe ghoḍe"
+],
+"Black chairs": [
+"काळीं खुर्ची",
+"Kāḻīṃ khurcī"
+],
+"Black pages": [
+"काळीं पानां",
+"Kāḻīṃ pānāṃ"
+],
+"Good horse": [
+"बरो घोडो",
+"Baro ghoḍo"
+],
+"Good chair": [
+"बरी कुर्सी",
+"Barī kursī"
+],
+"Easy exam": [
+"सोपी परिक्षा",
+"Sopī parikṣā"
+],
+"Red horse": [
+"तांबडो घोडो",
+"Tāṃbaḍo ghoḍo"
+],
+"Beautiful drawing": [
+"सोबीत रेखाटन",
+"Sobīta rekhāṭana"
+],
+"Talking boy": [
+"उलोवपी चलो",
+"Ulovapī calo"
+],
+"Rotating fan": [
+"घुंवपी पंखा",
+"Ghuṃvapī paṃkhā"
+],
+"Talking girl": [
+"उलोवपी चली",
+"Ulovapī calī"
+],
+"Moving chair": [
+"हालचालीची कुर्सी",
+"Hālacālīcī kursī"
+],
+"Flying saucer": [
+"उडपी तश्तरी",
+"Uḍapī taśtarī"
+],
+"Talking book": [
+"उलोवपी पुस्तक",
+"Ulovapī pustaka"
+],
+"Moving tree": [
+"हालपी झाड",
+"Hālapī jhāḍa"
+],
+"Talked boy": [
+"उलयलो चलो",
+"Ulayalo calo"
+],
+"Rotated fan": [
+"घुंवडायल्लो पंखा",
+"Ghuṃvaḍāyallo paṃkhā"
+],
+"Talked girl": [
+"उलयली चली",
+"Ulayalī calī"
+],
+"Moved chair": [
+"हालयल्ली कुर्सी",
+"Hālayallī kursī"
+],
+"Flown saucer": [
+"उडून दिल्लें तश्तरी",
+"Uḍūna dilleṃ taśtarī"
+],
+"Talked book": [
+"उलोवपाचें पुस्तक",
+"Ulovapāceṃ pustaka"
+],
+"Moved tree": [
+"हालयल्लें झाड",
+"Hālayalleṃ jhāḍa"
+],
+"What happened?": [
+"किदें जालें?",
+"Kideṃ jāleṃ?"
+],
+"More bitter": [
+"चड कडू",
+"Caḍa kaḍū"
+],
+"Most bitter": [
+"चड करून कडू",
+"Caḍa karūna kaḍū"
+],
+"Tall": [
+"उंच",
+"Uṃca"
+],
+"Taller": [
+"उंचायेचो",
+"Uṃcāyeco"
+],
+"Tallest": [
+"सगळ्यांत उंच",
+"Sagaḻyāṃta uṃca"
+],
+"Better": [
+"उत्तम",
+"Uttama"
+],
+"Best": [
+"उत्तम",
+"Uttama"
+],
+"Let's play": [
+"खेळूंया",
+"Kheḻūṃyā"
+],
+"Let's go": [
+"वचूंया",
+"Vacūṃyā"
+],
+"Let's speak": [
+"उलोवया",
+"Ulovayā"
+],
+"Really!": [
+"ख-यानीच!",
+"Kha-yānīca!"
+],
+"How big!": [
+"कितलें व्हडलें!",
+"Kitaleṃ vhaḍaleṃ!"
+],
+"Very bad": [
+"खूप वायट",
+"Khūpa vāyaṭa"
+],
+"Good handwriting": [
+"बरी हातबरप",
+"Barī hātabarapa"
+],
+"Very Good": [
+"खूब बरें",
+"Khūba bareṃ"
+],
+"Excellent!": [
+"उत्कृश्ट!",
+"Utkṛśṭa!"
+],
+"Speaking phone": [
+"उलोवपी फोन",
+"Ulovapī phona"
+],
+"Something fishy": [
+"कितें तरी फिशरी",
+"Kiteṃ tarī phiśarī"
+],
+"Dampen spirit": [
+"स्पिरिट भिजोवप",
+"Spiriṭa bhijovapa"
+],
+"To threaten": [
+"धमकावप",
+"Dhamakāvapa"
+],
+"After-effects": [
+"उपरांतचे परिणाम",
+"Uparāṃtace pariṇāma"
+],
+"To override/violate": [
+"ओव्हररायड/उल्लंघन करपाक",
+"Ovhararāyaḍa/ullaṃghana karapāka"
+],
+"To renounce": [
+"त्याग करप",
+"Tyāga karapa"
+],
+"To pretend": [
+"नाटक करप",
+"Nāṭaka karapa"
+],
+"To trap": [
+"सापडप",
+"Sāpaḍapa"
+],
+"To support": [
+"आदार दिवपाक",
+"Ādāra divapāka"
+],
+"To strike": [
+"प्रहार करप",
+"Prahāra karapa"
+],
+"To pardon": [
+"माफी दिवप",
+"Māphī divapa"
+],
+"Cryptography means?": [
+"क्रिप्टोग्राफी म्हणल्यार?",
+"Kripṭogrāphī mhaṇalyāra?"
+],
+"Relation": [
+"संबंद",
+"Saṃbaṃda"
+],
+"Direct brother": [
+"प्रत्यक्ष भाव",
+"Pratyakṣa bhāva"
+],
+"Direct sister": [
+"प्रत्यक्ष भयण",
+"Pratyakṣa bhayaṇa"
+],
+"Grand father": [
+"आजोबापूय",
+"Ājobāpūya"
+],
+"Grand mother": [
+"आजी आवय",
+"Ājī āvaya"
+],
+"Father's brother": [
+"बापायचो भाव",
+"Bāpāyaco bhāva"
+],
+"Mother's brother": [
+"आवयचो भाव",
+"Āvayaco bhāva"
+],
+"Father's sister": [
+"बापायची भयण",
+"Bāpāyacī bhayaṇa"
+],
+"Mother's sister": [
+"आवयची भयण",
+"Āvayacī bhayaṇa"
+],
+"Grandson's wife": [
+"नातूची बायल",
+"Nātūcī bāyala"
+],
+"Great grandson": [
+"व्हडलो नातू",
+"Vhaḍalo nātū"
+],
+"Great granddaughter": [
+"व्हडली नातू",
+"Vhaḍalī nātū"
+],
+"Husband's brother": [
+"घोवाचो भाव",
+"Ghovāco bhāva"
+],
+"Husband's sister": [
+"घोवाची भयण",
+"Ghovācī bhayaṇa"
+],
+"Wife's brother": [
+"बायलेचो भाव",
+"Bāyaleco bhāva"
+],
+"Wife's sister": [
+"बायलेची भयण",
+"Bāyalecī bhayaṇa"
+],
+"Sister's husband": [
+"भयणीचो घोव",
+"Bhayaṇīco ghova"
+],
+"Sister's son": [
+"भयणीचो पूत",
+"Bhayaṇīco pūta"
+],
+"Sister's daughter": [
+"भयणीची धूव",
+"Bhayaṇīcī dhūva"
+],
+"Friend (boy)": [
+"इश्ट (चलो) ४.",
+"Iśṭa (calo) 4."
+],
+"Friend (girl)": [
+"इश्ट (चली) २.",
+"Iśṭa (calī) 2."
+],
+"Bridegroom": [
+"न्हवरो",
+"Nhavaro"
+],
+"Adopted son": [
+"दत्तक घेतिल्लो पूत",
+"Dattaka ghetillo pūta"
+],
+"Adopted daughter": [
+"दत्तक घेतिल्ली धूव",
+"Dattaka ghetillī dhūva"
+],
+"Assumed son": [
+"गृहीत धरलो पूत",
+"Gṛhīta dharalo pūta"
+],
+"Assumed daughter": [
+"गृहीत धरली धूव",
+"Gṛhīta dharalī dhūva"
+],
+"To wash": [
+"धुवप",
+"Dhuvapa"
+],
+"To brush": [
+"ब्रश करप",
+"Braśa karapa"
+],
+"To gargle": [
+"गार्गल करप",
+"Gārgala karapa"
+],
+"To fold": [
+"गुठलावप",
+"Guṭhalāvapa"
+],
+"To urinate": [
+"मुतणें",
+"Mutaṇeṃ"
+],
+"To exercise": [
+"व्यायाम करप",
+"Vyāyāma karapa"
+],
+"To bath": [
+"न्हावपाक",
+"Nhāvapāka"
+],
+"To change": [
+"बदलपाक",
+"Badalapāka"
+],
+"To wear": [
+"घालपाक",
+"Ghālapāka"
+],
+"To comb": [
+"कंघी करप",
+"Kaṃghī karapa"
+],
+"To apply": [
+"अर्ज करपाक",
+"Arja karapāka"
+],
+"To close": [
+"बंद करपाक",
+"Baṃda karapāka"
+],
+"To sit": [
+"बसपाक",
+"Basapāka"
+],
+"To start": [
+"सुरवात करपाक",
+"Suravāta karapāka"
+],
+"To reach": [
+"पावपाक",
+"Pāvapāka"
+],
+"To work": [
+"काम करपाक",
+"Kāma karapāka"
+],
+"To speak/say/talk": [
+"उलोवप/म्हण/उलोवप",
+"Ulovapa/mhaṇa/ulovapa"
+],
+"To answer": [
+"जाप दिवपाक",
+"Jāpa divapāka"
+],
+"To send": [
+"धाडपाक",
+"Dhāḍapāka"
+],
+"To chitchat": [
+"चिटचट करप",
+"Ciṭacaṭa karapa"
+],
+"To buy": [
+"खरेदी करपाक",
+"Kharedī karapāka"
+],
+"To sell": [
+"विकपाक",
+"Vikapāka"
+],
+"To put/keep": [
+"घालप/राखप",
+"Ghālapa/rākhapa"
+],
+"To put": [
+"घालपाक",
+"Ghālapāka"
+],
+"To count": [
+"मेजपाक",
+"Mejapāka"
+],
+"To stand": [
+"उबो रावप",
+"Ubo rāvapa"
+],
+"To listen": [
+"आयकुपाक",
+"Āyakupāka"
+],
+"To return": [
+"परत येवपाक",
+"Parata yevapāka"
+],
+"To open": [
+"उगडपाक",
+"Ugaḍapāka"
+],
+"To lift": [
+"उखलपाक",
+"Ukhalapāka"
+],
+"To play": [
+"खेळपाक",
+"Kheḻapāka"
+],
+"To jump": [
+"उडी मारप",
+"Uḍī mārapa"
+],
+"To hide": [
+"लिपोवपाक",
+"Lipovapāka"
+],
+"To search": [
+"सोदपाक",
+"Sodapāka"
+],
+"To recite": [
+"वाचन करणें",
+"Vācana karaṇeṃ"
+],
+"To sing": [
+"गावपाक",
+"Gāvapāka"
+],
+"To shout": [
+"बोवाळ करप",
+"Bovāḻa karapa"
+],
+"To throw": [
+"उडोवपाक",
+"Uḍovapāka"
+],
+"To hit": [
+"मारणें",
+"Māraṇeṃ"
+],
+"To ask": [
+"विचारपाक",
+"Vicārapāka"
+],
+"To clean": [
+"निवळ करप",
+"Nivaḻa karapa"
+],
+"To cut": [
+"कापणें",
+"Kāpaṇeṃ"
+],
+"To break": [
+"मोडणें",
+"Moḍaṇeṃ"
+],
+"To burst": [
+"फुटप",
+"Phuṭapa"
+],
+"To write": [
+"बरोवपाक",
+"Barovapāka"
+],
+"Accept": [
+"स्विकार",
+"Svikāra"
+],
+"Bring": [
+"हाडप",
+"Hāḍapa"
+],
+"Complain": [
+"कागाळ",
+"Kāgāḻa"
+],
+"Draw": [
+"पितारप",
+"Pitārapa"
+],
+"Fall": [
+"पडप",
+"Paḍapa"
+],
+"Fill": [
+"भरण",
+"Bharaṇa"
+],
+"Start/begin": [
+"सुरू करप/सुरवात करप",
+"Surū karapa/suravāta karapa"
+],
+"Finish": [
+"सोंपोवचें",
+"Soṃpovaceṃ"
+],
+"Live": [
+"जिवें",
+"Jiveṃ"
+],
+"See/watch/look": [
+"पळयात/पळयात/पळयात",
+"Paḻayāta/paḻayāta/paḻayāta"
+],
+"Use": [
+"वापर",
+"Vāpara"
+],
+"Teach": [
+"शिकोवप",
+"Śikovapa"
+],
+"Study": [
+"अभ्यास",
+"Abhyāsa"
+],
+"Read": [
+"वाचप",
+"Vācapa"
+],
+"Make/prepare": [
+"तयार करप/तयार करप",
+"Tayāra karapa/tayāra karapa"
+],
+"Fly": [
+"उडप",
+"Uḍapa"
+],
+"Get bored": [
+"बेजार जावप",
+"Bejāra jāvapa"
+],
+"Leave": [
+"सुटी",
+"Suṭī"
+],
+"Want/need": [
+"जाय/गरज आसा",
+"Jāya/garaja āsā"
+],
+"Sign": [
+"चिन्न",
+"Cinna"
+],
+"Swim": [
+"पेंवप",
+"Peṃvapa"
+],
+"Try": [
+"येत्न करचो",
+"Yetna karaco"
+],
+"Worry": [
+"हुस्को",
+"Husko"
+],
+"Achieve": [
+"संपादन",
+"Saṃpādana"
+],
+"Admit (mistake)": [
+"मान्य (चुक) २.",
+"Mānya (cuka) 2."
+],
+"Admit (school)": [
+"प्रवेश (शाळा) २.",
+"Praveśa (śāḻā) 2."
+],
+"Afford": [
+"प्रयेत्न",
+"Prayetna"
+],
+"Win": [
+"जैत",
+"Jaita"
+],
+"Lose": [
+"शेणप",
+"Śeṇapa"
+],
+"Shake": [
+"हालोवचें",
+"Hālovaceṃ"
+],
+"Decide": [
+"निर्णय",
+"Nirṇaya"
+],
+"Hold": [
+"धर",
+"Dhara"
+],
+"Choose": [
+"वेंचचें",
+"Veṃcaceṃ"
+],
+"Turn": [
+"वळण",
+"Vaḻaṇa"
+],
+"Rise": [
+"उदेवप",
+"Udevapa"
+],
+"Set (sun,moon)": [
+"अस्त (सूर्य,चंद्र) २.",
+"Asta (sūrya,caṃdra) 2."
+],
+"Deny": [
+"न्हयकार",
+"Nhayakāra"
+],
+"To reproach/blame": [
+"निंदा करप/दोश दिवप",
+"Niṃdā karapa/dośa divapa"
+],
+"To color": [
+"रंगोवपाक",
+"Raṃgovapāka"
+],
+"To destroy": [
+"नाश करुन घेणें",
+"Nāśa karuna gheṇeṃ"
+],
+"Big": [
+"व्हड",
+"Vhaḍa"
+],
+"Small": [
+"ल्हान",
+"Lhāna"
+],
+"Deep": [
+"खोल",
+"Khola"
+],
+"Shallow": [
+"उथळ",
+"Uthaḻa"
+],
+"Simple": [
+"सोंपें",
+"Soṃpeṃ"
+],
+"Special": [
+"विशेश",
+"Viśeśa"
+],
+"Faint": [
+"घुंवप",
+"Ghuṃvapa"
+],
+"Short": [
+"ल्हान",
+"Lhāna"
+],
+"Thin": [
+"बारीक",
+"Bārīka"
+],
+"Wide": [
+"रुंद",
+"Ruṃda"
+],
+"Narrow": [
+"अरुंद",
+"Aruṃda"
+],
+"Curved": [
+"वक्र",
+"Vakra"
+],
+"Salty": [
+"खारें आशिल्लें",
+"Khāreṃ āśilleṃ"
+],
+"Easy": [
+"सोंपें",
+"Soṃpeṃ"
+],
+"Dry": [
+"सुकें",
+"Sukeṃ"
+],
+"Wet": [
+"ओले",
+"Ole"
+],
+"Filled": [
+"भरप",
+"Bharapa"
+],
+"Incomplete": [
+"अपूर्ण अशें",
+"Apūrṇa aśeṃ"
+],
+"Hard (surface)": [
+"कठीण (पृश्ठभाग) २.",
+"Kaṭhīṇa (pṛśṭhabhāga) 2."
+],
+"Soft": [
+"मोव",
+"Mova"
+],
+"Heavy": [
+"खूब",
+"Khūba"
+],
+"Light (weight)": [
+"हलक्या (वजन) ४.",
+"Halakyā (vajana) 4."
+],
+"New": [
+"नवें",
+"Naveṃ"
+],
+"Old": [
+"पोरणें",
+"Poraṇeṃ"
+],
+"Slow": [
+"सवकास",
+"Savakāsa"
+],
+"Fast": [
+"जलद",
+"Jalada"
+],
+"Young": [
+"तरनाटो",
+"Taranāṭo"
+],
+"Unhappy": [
+"नाखूश",
+"Nākhūśa"
+],
+"Gloomy": [
+"दुख्खी",
+"Dukhkhī"
+],
+"Carefully": [
+"जतनायेन",
+"Jatanāyena"
+],
+"Slowly": [
+"सवकास",
+"Savakāsa"
+],
+"Quickly": [
+"जलद",
+"Jalada"
+],
+"A bit": [
+"थोडें",
+"Thoḍeṃ"
+],
+"A lot": [
+"खूब",
+"Khūba"
+],
+"Aback": [
+"अबॅक",
+"Abaॅka"
+],
+"Accordingly": [
+"ते प्रमाणें",
+"Te pramāṇeṃ"
+],
+"Accurately": [
+"अचूकपणान",
+"Acūkapaṇāna"
+],
+"Actively": [
+"सक्रियपणान",
+"Sakriyapaṇāna"
+],
+"Afresh": [
+"ताजें",
+"Tājeṃ"
+],
+"Ago": [
+"आदीं",
+"Ādīṃ"
+],
+"Agreeably": [
+"मान्य करून",
+"Mānya karūna"
+],
+"Altogether": [
+"एकूणच",
+"Ekūṇaca"
+],
+"Any": [
+"खंयचेंय",
+"Khaṃyaceṃya"
+],
+"Away": [
+"पयस",
+"Payasa"
 ]
 }

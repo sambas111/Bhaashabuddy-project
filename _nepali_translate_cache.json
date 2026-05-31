@@ -5614,5 +5614,4005 @@
 "Really": [
 "साँच्चै",
 "Sā~ccai"
+],
+"We (listener including)": [
+"हामी (श्रोता सहित)",
+"Hāmī (śrotā sahita)"
+],
+"He / That (m.)": [
+"उहाँ / त्यो (m।)",
+"Uhā~ / tyo (m|)"
+],
+"She / That (f.)": [
+"ती / त्यो (f।)",
+"Tī / tyo (f|)"
+],
+"It / That (n.)": [
+"यो / त्यो (एन।)",
+"Yo / tyo (ena|)"
+],
+"They (Plural of He) / Those (m.)": [
+"तिनीहरू (उको बहुवचन) / तिनीहरू (m।)",
+"Tinīharū (uko bahuvacana) / tinīharū (m|)"
+],
+"They (Plural of She) / Those (f.)": [
+"तिनीहरू (ती को बहुवचन) / ती (f।)",
+"Tinīharū (tī ko bahuvacana) / tī (f|)"
+],
+"They (Plural of it) / Those (n.)": [
+"तिनीहरू (यसको बहुवचन) / ती (एन।)",
+"Tinīharū (yasako bahuvacana) / tī (ena|)"
+],
+"We went to the party (listener not included)": [
+"हामी पार्टीमा गयौं (श्रोता समावेश छैन)",
+"Hāmī pārṭīmā gayauṃ (śrotā samāveśa chaina)"
+],
+"We went to the party (listener included)": [
+"हामी पार्टीमा गयौं (श्रोता समावेश)",
+"Hāmī pārṭīmā gayauṃ (śrotā samāveśa)"
+],
+"This is a horse": [
+"यो घोडा हो",
+"Yo ghoḍā ho"
+],
+"This is an ant": [
+"यो कमिला हो",
+"Yo kamilā ho"
+],
+"You (singular male)": [
+"तिमी (एकवचन पुरुष)",
+"Timī (ekavacana puruṣa)"
+],
+"You (singular female)": [
+"तिमी (एकल महिला)",
+"Timī (ekala mahilā)"
+],
+"He / That (male) / This (male)": [
+"ऊ / त्यो (पुरुष) / यो (पुरुष)",
+"Ū / tyo (puruṣa) / yo (puruṣa)"
+],
+"She / That (female) / This (female)": [
+"उनी / त्यो (महिला) / यो (महिला)",
+"Unī / tyo (mahilā) / yo (mahilā)"
+],
+"It / That (neuter) / This (neuter)": [
+"यो / त्यो (न्युटर) / यो (न्युटर)",
+"Yo / tyo (nyuṭara) / yo (nyuṭara)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"तिनीहरू (m।) / ती (m।) / यी (m।)",
+"Tinīharū (m|) / tī (m|) / yī (m|)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"तिनीहरू (f।) / तिनीहरू (f।) / यी (f।)",
+"Tinīharū (f|) / tinīharū (f|) / yī (f|)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"तिनीहरू (एन।) / ती (एन।) / यी (एन।)",
+"Tinīharū (ena|) / tī (ena|) / yī (ena|)"
+],
+"I (male) do": [
+"म (पुरुष) गर्छु",
+"Ma (puruṣa) garchu"
+],
+"I (female) do": [
+"म (महिला) गर्छु",
+"Ma (mahilā) garchu"
+],
+"You (male) cry": [
+"तिमी (पुरुष) रुन्छौ",
+"Timī (puruṣa) runchau"
+],
+"You (female) cry": [
+"तिमी (महिला) रुन्छौ",
+"Timī (mahilā) runchau"
+],
+"You (plural) walk": [
+"तिमी (बहुवचन) हिँड",
+"Timī (bahuvacana) hi~ḍa"
+],
+"I shall be doing.": [
+"म गरिरहनेछु।",
+"Ma garirahanechu|"
+],
+"We will be dancing.": [
+"हामी नाच्नेछौं।",
+"Hāmī nācnechauṃ|"
+],
+"You will be crying.": [
+"तिमी रोइरहनेछौ।",
+"Timī roirahanechau|"
+],
+"You (pl.) will be walking.": [
+"तपाईं (pl.) हिड्दै हुनुहुन्छ।",
+"Tapāīṃ (pl.) hiḍdai hunuhuncha|"
+],
+"He will be walking.": [
+"ऊ हिँडिरहनेछ।",
+"Ū hi~ḍirahanecha|"
+],
+"She will be speaking.": [
+"उनी बोलिरहेकी छिन् ।",
+"Unī bolirahekī chin |"
+],
+"It will be moving.": [
+"यो चलिरहेको हुनेछ।",
+"Yo caliraheko hunecha|"
+],
+"They will be dancing.": [
+"उनीहरु नाचिरहेका हुनेछन्।",
+"Unīharu nācirahekā hunechan|"
+],
+"He / That (m.) / This (m.)": [
+"उहाँ / त्यो (m।) / यो (m।)",
+"Uhā~ / tyo (m|) / yo (m|)"
+],
+"She / That (f.) / This (f.)": [
+"ती / त्यो (एफ।) / यो (एफ।)",
+"Tī / tyo (epha|) / yo (epha|)"
+],
+"It / That (n.) / This (n.)": [
+"यो / त्यो (एन।) / यो (एन।)",
+"Yo / tyo (ena|) / yo (ena|)"
+],
+"I (male) / I (female)": [
+"म (पुरुष) / म (महिला)",
+"Ma (puruṣa) / ma (mahilā)"
+],
+"I (male) was doing.": [
+"म (पुरुष) गर्दै थिएँ ।",
+"Ma (puruṣa) gardai thie~ |"
+],
+"I (female) was doing.": [
+"म (महिला) गर्दै थिएँ ।",
+"Ma (mahilā) gardai thie~ |"
+],
+"We were dancing.": [
+"हामी नाचिरहेका थियौं।",
+"Hāmī nācirahekā thiyauṃ|"
+],
+"You (male) were crying.": [
+"तिमी (पुरुष) रोइरहेका थियौ।",
+"Timī (puruṣa) roirahekā thiyau|"
+],
+"You (female) were crying.": [
+"तिमी (महिला) रोइरहेका थियौ ।",
+"Timī (mahilā) roirahekā thiyau |"
+],
+"You (Plural) were walking": [
+"तिमी (बहुवचन) हिँडिरहेका थियौ",
+"Timī (bahuvacana) hi~ḍirahekā thiyau"
+],
+"He was walking.": [
+"ऊ हिँडिरहेको थियो ।",
+"Ū hi~ḍiraheko thiyo |"
+],
+"She was speaking.": [
+"बोल्दै थिइन् ।",
+"Boldai thiin |"
+],
+"It was moving.": [
+"चलिरहेको थियो।",
+"Caliraheko thiyo|"
+],
+"They(m.) were dancing.": [
+"तिनीहरू (m.) नाचिरहेका थिए।",
+"Tinīharū (m.) nācirahekā thie|"
+],
+"They(f.) were dancing.": [
+"तिनीहरू (f.) नाचिरहेका थिए।",
+"Tinīharū (f.) nācirahekā thie|"
+],
+"They(n.) were dancing.": [
+"तिनीहरू (n.) नाचिरहेका थिए।",
+"Tinīharū (n.) nācirahekā thie|"
+],
+"She has opened door": [
+"उनले ढोका खोलेकी छिन्",
+"Unale ḍhokā kholekī chin"
+],
+"She had opened door": [
+"उनले ढोका खोलेकी थिइन्",
+"Unale ḍhokā kholekī thiin"
+],
+"She will have opened door": [
+"उसले ढोका खोलेको हुनेछ",
+"Usale ḍhokā kholeko hunecha"
+],
+"You (female) have danced": [
+"तिमी (महिला) नाच्यौ",
+"Timī (mahilā) nācyau"
+],
+"You (female) had danced": [
+"तिमी (महिला) नाच्यौ",
+"Timī (mahilā) nācyau"
+],
+"You (female) will have danced": [
+"तिमी (महिला) नाच्ने छौ",
+"Timī (mahilā) nācne chau"
+],
+"You (plural) have danced": [
+"तिमी (बहुवचन) नाच्यौ",
+"Timī (bahuvacana) nācyau"
+],
+"You (plural) had danced": [
+"तिमी (बहुवचन) नाच्यौ",
+"Timī (bahuvacana) nācyau"
+],
+"You (plural) will have danced": [
+"तिमी (बहुवचन) नाच्नेछौ",
+"Timī (bahuvacana) nācnechau"
+],
+"On behalf of": [
+"को तर्फबाट",
+"Ko tarphabāṭa"
+],
+"In front of": [
+"अगाडि",
+"Agāḍi"
+],
+"He / That (male)": [
+"ऊ / त्यो (पुरुष)",
+"Ū / tyo (puruṣa)"
+],
+"She / That (female)": [
+"उनी / त्यो (महिला)",
+"Unī / tyo (mahilā)"
+],
+"It / That (neuter)": [
+"यो / त्यो (न्युटर)",
+"Yo / tyo (nyuṭara)"
+],
+"They (m.) / Those (m.)": [
+"तिनीहरू (m।) / तिनीहरू (m।)",
+"Tinīharū (m|) / tinīharū (m|)"
+],
+"They (f.) / Those (f.)": [
+"तिनीहरू (f।) / तिनीहरू (f।)",
+"Tinīharū (f|) / tinīharū (f|)"
+],
+"They (n.) / Those (n.)": [
+"तिनीहरू (एन।) / ती (एन।)",
+"Tinīharū (ena|) / tī (ena|)"
+],
+"I do not speak": [
+"म बोल्दिनँ",
+"Ma boldina~"
+],
+"He does not walk": [
+"ऊ हिँड्दैन",
+"Ū hi~ḍdaina"
+],
+"You do not eat": [
+"तिमीले नखाने",
+"Timīle nakhāne"
+],
+"They do not dance": [
+"नाच्दैनन्",
+"Nācdainan"
+],
+"I am not speaking": [
+"म बोल्दिन",
+"Ma boldina"
+],
+"He is not walking": [
+"उनी हिँडिरहेका छैनन्",
+"Unī hi~ḍirahekā chainan"
+],
+"She is not speaking": [
+"उनी बोलिरहेकी छैनन्",
+"Unī bolirahekī chainan"
+],
+"It is not moving": [
+"यो चलिरहेको छैन",
+"Yo caliraheko chaina"
+],
+"They are not dancing": [
+"उनीहरु नाचिरहेका छैनन्",
+"Unīharu nācirahekā chainan"
+],
+"You are not dancing": [
+"तिमी नाचिरहेका छैनौ",
+"Timī nācirahekā chainau"
+],
+"I have not opened the box": [
+"मैले बाकस खोलेको छैन",
+"Maile bākasa kholeko chaina"
+],
+"I have not spoken": [
+"मैले बोलेको छैन",
+"Maile boleko chaina"
+],
+"He has not eaten the mango": [
+"उसले आँप खाएको छैन",
+"Usale ā~pa khāeko chaina"
+],
+"You do not speak": [
+"तिमी बोल्दैनौ",
+"Timī boldainau"
+],
+"Do not read it": [
+"यसलाई नपढ्नुहोस्",
+"Yasalāī napaḍhnuhos"
+],
+"Do not do it": [
+"यसो नगर्नुहोस्",
+"Yaso nagarnuhos"
+],
+"You do not go": [
+"तपाईं जानु हुन्न",
+"Tapāīṃ jānu hunna"
+],
+"I moved toy": [
+"मैले खेलौना सारें",
+"Maile khelaunā sāreṃ"
+],
+"To cause to cook": [
+"पकाउने कारण",
+"Pakāune kāraṇa"
+],
+"I cooked rice": [
+"मैले भात पकाएँ",
+"Maile bhāta pakāe~"
+],
+"To cause to die / To kill": [
+"मर्नु / मार्नुको कारण",
+"Marnu / mārnuko kāraṇa"
+],
+"To cause to fall": [
+"ढल्नुको कारण हो",
+"Ḍhalnuko kāraṇa ho"
+],
+"To break (intransitive)": [
+"तोड्नु (अकर्मक)",
+"Toḍnu (akarmaka)"
+],
+"To cause to break": [
+"तोड्नको लागि कारण",
+"Toḍnako lāgi kāraṇa"
+],
+"I broke glass": [
+"मैले गिलास भाँचें",
+"Maile gilāsa bhā~ceṃ"
+],
+"To cause to leave": [
+"छोड्नको लागि कारण",
+"Choḍnako lāgi kāraṇa"
+],
+"To cause to drink / To feed liquid": [
+"पिउने कारण / तरल खुवाउन",
+"Piune kāraṇa / tarala khuvāuna"
+],
+"To call (not cause to speak)": [
+"कल गर्न (बोल्नुको कारण छैन)",
+"Kala garna (bolnuko kāraṇa chaina)"
+],
+"To keep animal (not cause to run)": [
+"जनावर राख्न (दौडने कारण छैन)",
+"Janāvara rākhna (dauḍane kāraṇa chaina)"
+],
+"I had spoken": [
+"मैले बोलेको थिएँ",
+"Maile boleko thie~"
+],
+"You (male) had danced": [
+"तिमी (पुरुष) नाच्यौ",
+"Timī (puruṣa) nācyau"
+],
+"He had laughed": [
+"ऊ हाँसेको थियो",
+"Ū hā~seko thiyo"
+],
+"Those boys had laughed": [
+"ती केटाहरू हाँसे",
+"Tī keṭāharū hā~se"
+],
+"I had opened door": [
+"मैले ढोका खोलेको थिएँ",
+"Maile ḍhokā kholeko thie~"
+],
+"I had opened window": [
+"मैले झ्याल खोलेको थिएँ",
+"Maile jhyāla kholeko thie~"
+],
+"She had eaten mango": [
+"उनले आँप खाइन्",
+"Unale ā~pa khāin"
+],
+"Those girls had picked keys": [
+"ती केटीहरूले चाबी उठाएका थिए",
+"Tī keṭīharūle cābī uṭhāekā thie"
+],
+"I have spoken": [
+"मैले बोलेको छु",
+"Maile boleko chu"
+],
+"I will have spoken": [
+"म बोलेको थिएँ",
+"Ma boleko thie~"
+],
+"He had been saying": [
+"उसले भन्दै आएको थियो",
+"Usale bhandai āeko thiyo"
+],
+"He has been saying": [
+"उनले भन्दै आएका छन्",
+"Unale bhandai āekā chan"
+],
+"He will have been saying": [
+"उनले भनिरहनुभएको होला",
+"Unale bhanirahanubhaeko holā"
+],
+"I have been saying": [
+"भन्दै आएको छु",
+"Bhandai āeko chu"
+],
+"She has been saying": [
+"भनिरहेकी छिन्",
+"Bhanirahekī chin"
+],
+"They have been dancing": [
+"उनीहरु नाच्दै आएका छन्",
+"Unīharu nācdai āekā chan"
+],
+"You have been eating mango": [
+"तिमीले आँप खायौ",
+"Timīle ā~pa khāyau"
+],
+"I have been working there for 3 years": [
+"म त्यहाँ ३ वर्षदेखि काम गरिरहेको छु",
+"Ma tyahā~ 3 varṣadekhi kāma gariraheko chu"
+],
+"I had been saying": [
+"मैले भनेको थिएँ",
+"Maile bhaneko thie~"
+],
+"She had been saying": [
+"भन्दै थिइन्",
+"Bhandai thiin"
+],
+"They had been dancing": [
+"उनीहरु नाचिरहेका थिए",
+"Unīharu nācirahekā thie"
+],
+"You had been eating mango": [
+"तिमीले आँप खाँदै थियौ",
+"Timīle ā~pa khā~dai thiyau"
+],
+"She will have been saying": [
+"भनिरहेकी थिइन्",
+"Bhanirahekī thiin"
+],
+"They will have been dancing": [
+"तिनीहरू नाचिरहेका हुनेछन्",
+"Tinīharū nācirahekā hunechan"
+],
+"You will have been eating mango": [
+"तिमीले आँप खाएको होला",
+"Timīle ā~pa khāeko holā"
+],
+"I will have been working there for 3 years": [
+"मैले त्यहाँ ३ वर्ष काम गरेको छु",
+"Maile tyahā~ 3 varṣa kāma gareko chu"
+],
+"They are going to come": [
+"उनीहरु आउन लागेका हुन्",
+"Unīharu āuna lāgekā hun"
+],
+"I am going to speak": [
+"म बोल्न जाँदैछु",
+"Ma bolna jā~daichu"
+],
+"She is going to open door": [
+"उनी ढोका खोल्न जाँदैछिन्",
+"Unī ḍhokā kholna jā~daichin"
+],
+"You are going to dance": [
+"तपाईं नाच्न जाँदै हुनुहुन्छ",
+"Tapāīṃ nācna jā~dai hunuhuncha"
+],
+"Are they going to come?": [
+"के तिनीहरू आउन लागेका छन्?",
+"Ke tinīharū āuna lāgekā chan?"
+],
+"Am I going to speak?": [
+"के म बोल्न जाँदैछु?",
+"Ke ma bolna jā~daichu?"
+],
+"Is she going to open door?": [
+"के ऊ ढोका खोल्न जाँदैछ?",
+"Ke ū ḍhokā kholna jā~daicha?"
+],
+"Are you going to dance?": [
+"तपाईं नाच्न जाँदै हुनुहुन्छ?",
+"Tapāīṃ nācna jā~dai hunuhuncha?"
+],
+"She / That (f.)/ This (f.)": [
+"ती / त्यो (एफ।) / यो (एफ।)",
+"Tī / tyo (epha|) / yo (epha|)"
+],
+"It / That(n.) / This (n.)": [
+"यो / त्यो (एन।) / यो (एन।)",
+"Yo / tyo (ena|) / yo (ena|)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"तिनीहरू (उको बहुवचन) / ती (m।) / यी (m।)",
+"Tinīharū (uko bahuvacana) / tī (m|) / yī (m|)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"तिनीहरू (शेको बहुवचन) / ती (एफ।) / यी (एफ।)",
+"Tinīharū (śeko bahuvacana) / tī (epha|) / yī (epha|)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"तिनीहरू (यसको बहुवचन) / ती (एन।) / यी (एन।)",
+"Tinīharū (yasako bahuvacana) / tī (ena|) / yī (ena|)"
+],
+"I used to do": [
+"गर्थें",
+"Gartheṃ"
+],
+"She used to speak": [
+"बोल्थिन्",
+"Bolthin"
+],
+"He used to dance": [
+"उनी नाच्ने गर्थे",
+"Unī nācne garthe"
+],
+"They (plural of he) used to eat mangos": [
+"तिनीहरू (उनी बहुवचन) आँप खान्थे",
+"Tinīharū (unī bahuvacana) ā~pa khānthe"
+],
+"They (plural of she) used to play cricket": [
+"उनीहरु (उनीको बहुवचन) क्रिकेट खेल्थे",
+"Unīharu (unīko bahuvacana) krikeṭa khelthe"
+],
+"He used to be there": [
+"उहाँ त्यहाँ हुनुहुन्थ्यो",
+"Uhā~ tyahā~ hunuhunthyo"
+],
+"She used to be quiet": [
+"उनी चुपचाप बसिन्",
+"Unī cupacāpa basin"
+],
+"I did not use to do": [
+"गर्न प्रयोग गरिनँ",
+"Garna prayoga garina~"
+],
+"She did not use to speak": [
+"उनी बोल्न प्रयोग गरिनन्",
+"Unī bolna prayoga garinan"
+],
+"You did not use to dance": [
+"तिमीलाई नाच्ने बानी थिएन",
+"Timīlāī nācne bānī thiena"
+],
+"They (plural of he) did not use to eat mangos": [
+"तिनीहरू (उहाँको बहुवचन) आँप खान प्रयोग गर्दैनन्",
+"Tinīharū (uhā~ko bahuvacana) ā~pa khāna prayoga gardainan"
+],
+"She did not use to be quiet": [
+"उनी चुप लागेर बसेनन्",
+"Unī cupa lāgera basenan"
+],
+"He did not use to be there": [
+"उसले त्यहाँ बस्न प्रयोग गरेन",
+"Usale tyahā~ basna prayoga garena"
+],
+"He is used to dance": [
+"उनलाई नाच्ने बानी छ",
+"Unalāī nācne bānī cha"
+],
+"She is used to speak": [
+"उनी बोल्ने बानी छिन्",
+"Unī bolne bānī chin"
+],
+"Those girls are used to laugh": [
+"ती केटीहरू हाँस्ने बानी पर्छन्",
+"Tī keṭīharū hā~sne bānī parchan"
+],
+"I am used to be there": [
+"मलाई त्यहाँ बस्ने बानी छ",
+"Malāī tyahā~ basne bānī cha"
+],
+"She is used to be quiet": [
+"उनी चुपचाप बस्ने बानी छिन्",
+"Unī cupacāpa basne bānī chin"
+],
+"He is not used to dance": [
+"उनलाई नाच्ने बानी छैन",
+"Unalāī nācne bānī chaina"
+],
+"She is not used to speak": [
+"उनलाई बोल्ने बानी छैन",
+"Unalāī bolne bānī chaina"
+],
+"I used to eat mango": [
+"आँप खान्थेँ",
+"Ā~pa khānthe~"
+],
+"Kaushik used to eat mango": [
+"कौशिक आँप खान्थे",
+"Kauśika ā~pa khānthe"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"कौशिक, गुरु, सुन्दर हरेक दिन भेट हुन्थ्यो",
+"Kauśika, guru, sundara hareka dina bheṭa hunthyo"
+],
+"My friends and I used to play cricket": [
+"म र मेरा साथीहरू क्रिकेट खेल्थ्यौं",
+"Ma ra merā sāthīharū krikeṭa khelthyauṃ"
+],
+"I used to see": [
+"देख्थेँ",
+"Dekhthe~"
+],
+"Kaushik used to see": [
+"कौशिक देख्थे",
+"Kauśika dekhthe"
+],
+"Kaushik used to do": [
+"कौशिक गर्थे",
+"Kauśika garthe"
+],
+"He opened the door": [
+"उसले ढोका खोल्यो",
+"Usale ḍhokā kholyo"
+],
+"If he had opened the door then": [
+"त्यतिबेला उसले ढोका खोलेको भए",
+"Tyatibelā usale ḍhokā kholeko bhae"
+],
+"He had spoken": [
+"उनले बोलेका थिए",
+"Unale bolekā thie"
+],
+"If he had spoken": [
+"उसले बोलेको भए",
+"Usale boleko bhae"
+],
+"If you had spoken then she would have spoken": [
+"तिमिले बोलेको भए बोलिन्थ्यो",
+"Timile boleko bhae bolinthyo"
+],
+"If he had cried then they would have ran": [
+"यदि उहाँ रोएको भए तिनीहरू भाग्ने थिए",
+"Yadi uhā~ roeko bhae tinīharū bhāgne thie"
+],
+"If you go I will cry": [
+"तिमी गयौ भने म रुन्छु",
+"Timī gayau bhane ma runchu"
+],
+"If he sings she will dance": [
+"यदि उसले गाउँछ भने उनी नाच्नेछिन्",
+"Yadi usale gāu~cha bhane unī nācnechin"
+],
+"reason of coming": [
+"आउनुको कारण",
+"Āunuko kāraṇa"
+],
+"She spoke after my dancing": [
+"मेरो नाचपछि बोलिन्",
+"Mero nācapachi bolin"
+],
+"after I danced": [
+"मैले नृत्य गरे पछि",
+"Maile nṛtya gare pachi"
+],
+"She spoke after I danced": [
+"मैले डान्स गरेपछि उनी बोलिन्",
+"Maile ḍānsa garepachi unī bolin"
+],
+"He cried after she went": [
+"उनी गएपछि उनी रोइन्",
+"Unī gaepachi unī roin"
+],
+"He told about his coming to school": [
+"उनले आफ्नो स्कुल आउने कुरा बताए",
+"Unale āphno skula āune kurā batāe"
+],
+"He told me that he is coming": [
+"आउँदैछु भन्नुभयो",
+"Āu~daichu bhannubhayo"
+],
+"He told me that he is going to come": [
+"आउन लागेको बताउनुभयो",
+"Āuna lāgeko batāunubhayo"
+],
+"I don't remember she having said something": [
+"मलाई याद छैन उसले केहि भनेको थियो",
+"Malāī yāda chaina usale kehi bhaneko thiyo"
+],
+"I don't remember she having eaten mango": [
+"उसले आँप खाएको याद छैन",
+"Usale ā~pa khāeko yāda chaina"
+],
+"while I speak": [
+"जब म बोल्छु",
+"Jaba ma bolchu"
+],
+"while I do": [
+"जब म गर्छु",
+"Jaba ma garchu"
+],
+"while I dance": [
+"जब म नृत्य गर्छु",
+"Jaba ma nṛtya garchu"
+],
+"Come to see this photo": [
+"यो फोटो हेर्न आउनुहोस्",
+"Yo phoṭo herna āunuhos"
+],
+"Come to eat with me": [
+"मसँग खान आउनुस्",
+"Masa~ga khāna āunus"
+],
+"Smoking is prohibited": [
+"धुम्रपान निषेधित छ",
+"Dhumrapāna niṣedhita cha"
+],
+"Court asked to be present tomorrow": [
+"अदालतले भोलि हाजिर हुन भनेको छ",
+"Adālatale bholi hājira huna bhaneko cha"
+],
+"Sit and watch": [
+"बसेर हेर",
+"Basera hera"
+],
+"come and go": [
+"आउनुहोस् र जानुहोस्",
+"Āunuhos ra jānuhos"
+],
+"He came and saw it": [
+"ऊ आएर देख्यो",
+"Ū āera dekhyo"
+],
+"They will go and check it": [
+"तिनीहरू गएर जाँच गर्नेछन्",
+"Tinīharū gaera jā~ca garnechan"
+],
+"smile and say": [
+"मुस्कान र भन्नुहोस्",
+"Muskāna ra bhannuhos"
+],
+"till I speak": [
+"जब सम्म म बोल्छु",
+"Jaba samma ma bolchu"
+],
+"until she smiles": [
+"जबसम्म उनी मुस्कुराउँदैनन्",
+"Jabasamma unī muskurāu~dainan"
+],
+"till he goes": [
+"जब सम्म ऊ जान्छ",
+"Jaba samma ū jāncha"
+],
+"until we come": [
+"हामी नआएसम्म",
+"Hāmī naāesamma"
+],
+"For good horse": [
+"राम्रो घोडाको लागि",
+"Rāmro ghoḍāko lāgi"
+],
+"For good chair": [
+"राम्रो कुर्सीको लागि",
+"Rāmro kursīko lāgi"
+],
+"After easy exam": [
+"सजिलो परीक्षा पछि",
+"Sajilo parīkṣā pachi"
+],
+"For red horse": [
+"रातो घोडाको लागि",
+"Rāto ghoḍāko lāgi"
+],
+"About beautiful drawing": [
+"सुन्दर चित्र को बारे मा",
+"Sundara citra ko bāre mā"
+],
+"I can eat": [
+"म खान सक्छु",
+"Ma khāna sakchu"
+],
+"He can sing": [
+"उसले गाउन सक्छ",
+"Usale gāuna sakcha"
+],
+"You(plural) could eat mango": [
+"तपाईं (बहुवचन) आँप खान सक्नुहुन्छ",
+"Tapāīṃ (bahuvacana) ā~pa khāna saknuhuncha"
+],
+"You(plural) could eat chutney": [
+"तपाईं (बहुवचन) चटनी खान सक्नुहुन्छ",
+"Tapāīṃ (bahuvacana) caṭanī khāna saknuhuncha"
+],
+"She could dance": [
+"उनी नाच्न सक्छिन्",
+"Unī nācna sakchin"
+],
+"They (plural of she) will be able to move": [
+"तिनीहरू (उनको बहुवचन) सार्न सक्षम हुनेछन्",
+"Tinīharū (unako bahuvacana) sārna sakṣama hunechan"
+],
+"I can not eat": [
+"म खान सक्दिन",
+"Ma khāna sakdina"
+],
+"He can not sing": [
+"उनी गाउन सक्दैनन्",
+"Unī gāuna sakdainan"
+],
+"She could not dance": [
+"नाच्न सक्दिनन्",
+"Nācna sakdinan"
+],
+"You(plural) could not eat mango": [
+"तपाईं (बहुवचन) आँप खान सक्नुभएन",
+"Tapāīṃ (bahuvacana) ā~pa khāna saknubhaena"
+],
+"You(plural) could not eat chutney": [
+"तपाईले (बहुवचन) चटनी खान सक्नुभएन",
+"Tapāīle (bahuvacana) caṭanī khāna saknubhaena"
+],
+"They will not be able to move": [
+"तिनीहरू चल्न सक्षम हुनेछैनन्",
+"Tinīharū calna sakṣama hunechainan"
+],
+"I can play cricket": [
+"क्रिकेट खेल्न सक्छु",
+"Krikeṭa khelna sakchu"
+],
+"I could play cricket": [
+"क्रिकेट खेल्न सक्थेँ",
+"Krikeṭa khelna sakthe~"
+],
+"I will be able to play cricket": [
+"म क्रिकेट खेल्न सक्षम हुनेछु",
+"Ma krikeṭa khelna sakṣama hunechu"
+],
+"He can eat mangoes": [
+"उसले आँप खान सक्छ",
+"Usale ā~pa khāna sakcha"
+],
+"He could eat mangoes": [
+"उनी आँप खान सक्थे",
+"Unī ā~pa khāna sakthe"
+],
+"He will be able to eat mangoes": [
+"उसले आँप खान पाउँछ",
+"Usale ā~pa khāna pāu~cha"
+],
+"They could open box": [
+"तिनीहरूले बक्स खोल्न सक्थे",
+"Tinīharūle baksa kholna sakthe"
+],
+"They could open bag": [
+"झोला खोल्न सक्थे",
+"Jholā kholna sakthe"
+],
+"They could speak": [
+"बोल्न सक्थे",
+"Bolna sakthe"
+],
+"They gathered to speak": [
+"उनीहरु बोल्न भेला भए",
+"Unīharu bolna bhelā bhae"
+],
+"I want mango": [
+"मलाई आँप चाहियो",
+"Malāī ā~pa cāhiyo"
+],
+"He wants mango": [
+"उसलाई आँप चाहिन्छ",
+"Usalāī ā~pa cāhincha"
+],
+"She wants mango": [
+"उनी आँप चाहन्छिन्",
+"Unī ā~pa cāhanchin"
+],
+"I/He/She want mangoes": [
+"म/उ/उनीलाई आँप चाहिन्छ",
+"Ma/u/unīlāī ā~pa cāhincha"
+],
+"He/She/They want chalk": [
+"उहाँ/उनी/उनीहरू चक चाहन्छन्",
+"Uhā~/unī/unīharū caka cāhanchan"
+],
+"He/She/They want chalks": [
+"उहाँ/उनी/उनीहरू चक चाहन्छन्",
+"Uhā~/unī/unīharū caka cāhanchan"
+],
+"He/She/They want bag": [
+"उहाँ/उनी/उनीहरू झोला चाहन्छन्",
+"Uhā~/unī/unīharū jholā cāhanchan"
+],
+"He/She/They want bags": [
+"उहाँ/उनी/उनीहरू झोला चाहन्छन्",
+"Uhā~/unī/unīharū jholā cāhanchan"
+],
+"He/She/They want page": [
+"उहाँ/उनी/उनीहरू पृष्ठ चाहन्छन्",
+"Uhā~/unī/unīharū pṛṣṭha cāhanchan"
+],
+"He/She/They want pages": [
+"उहाँ/उनी/उनीहरू पृष्ठहरू चाहन्छन्",
+"Uhā~/unī/unīharū pṛṣṭhaharū cāhanchan"
+],
+"He/She/They wanted chalk": [
+"उहाँ/उनी/उनीहरू चक चाहन्थे",
+"Uhā~/unī/unīharū caka cāhanthe"
+],
+"He/She/They wanted chalks": [
+"उहाँ/उनी/उनीहरू चक चाहन्थे",
+"Uhā~/unī/unīharū caka cāhanthe"
+],
+"He/She/They wanted bag": [
+"उहाँ/उनी/उनीहरू झोला चाहन्थे",
+"Uhā~/unī/unīharū jholā cāhanthe"
+],
+"He/She/They wanted bags": [
+"उहाँ/उनी/उनीहरू झोला चाहन्थे",
+"Uhā~/unī/unīharū jholā cāhanthe"
+],
+"He/She/They wanted page": [
+"उहाँ/उनी/उनीहरू पृष्ठ चाहन्थे",
+"Uhā~/unī/unīharū pṛṣṭha cāhanthe"
+],
+"He/She/They wanted pages": [
+"उहाँ/उनी/उनीहरू पृष्ठहरू चाहन्थे",
+"Uhā~/unī/unīharū pṛṣṭhaharū cāhanthe"
+],
+"He/She/They will need chalk": [
+"उहाँ/उनी/उनीहरूलाई चक चाहिन्छ",
+"Uhā~/unī/unīharūlāī caka cāhincha"
+],
+"He/She/They will need chalks": [
+"उहाँ/उनी/उनीहरूलाई चकहरू चाहिन्छ",
+"Uhā~/unī/unīharūlāī cakaharū cāhincha"
+],
+"He/She/They will need bag": [
+"उहाँ/उनी/उनीहरूलाई झोला चाहिन्छ",
+"Uhā~/unī/unīharūlāī jholā cāhincha"
+],
+"He/She/They will need bags": [
+"उहाँ/उनी/उनीहरूलाई झोला चाहिन्छ",
+"Uhā~/unī/unīharūlāī jholā cāhincha"
+],
+"He/She/They will need page": [
+"उहाँ/उनी/उनीहरूलाई पृष्ठ चाहिन्छ",
+"Uhā~/unī/unīharūlāī pṛṣṭha cāhincha"
+],
+"He/She/They will need pages": [
+"उहाँ/उनी/उनीहरूलाई पृष्ठहरू चाहिन्छ",
+"Uhā~/unī/unīharūlāī pṛṣṭhaharū cāhincha"
+],
+"I do not want mango": [
+"मलाई आँप चाहिदैन",
+"Malāī ā~pa cāhidaina"
+],
+"She will not want bag": [
+"उसलाई झोला चाहिदैन",
+"Usalāī jholā cāhidaina"
+],
+"He did not want chalk": [
+"उनलाई चक चाहिएको थिएन",
+"Unalāī caka cāhieko thiena"
+],
+"He did not want bag": [
+"उसलाई झोला चाहिँदैनथ्यो",
+"Usalāī jholā cāhi~dainathyo"
+],
+"She does not want ice cream": [
+"उसलाई आइसक्रिम चाहिदैन",
+"Usalāī āisakrima cāhidaina"
+],
+"What will happen?": [
+"के हुने हो ?",
+"Ke hune ho ?"
+],
+"What is happening?": [
+"के हुँदैछ?",
+"Ke hu~daicha?"
+],
+"It did not happen": [
+"त्यसो भएन",
+"Tyaso bhaena"
+],
+"I will become winner": [
+"म विजेता बन्नेछु",
+"Ma vijetā bannechu"
+],
+"It was happening": [
+"भइरहेको थियो",
+"Bhairaheko thiyo"
+],
+"He will become mad": [
+"ऊ पागल बन्नेछ",
+"Ū pāgala bannecha"
+],
+"He should have eaten mango": [
+"उसले आँप खानुपर्थ्यो",
+"Usale ā~pa khānuparthyo"
+],
+"He should have eaten tamarind": [
+"उसले इमली खानुपर्थ्यो",
+"Usale imalī khānuparthyo"
+],
+"He should eat mango": [
+"उसले आँप खानुपर्छ",
+"Usale ā~pa khānuparcha"
+],
+"He should go": [
+"उहाँ जानु पर्छ",
+"Uhā~ jānu parcha"
+],
+"He should have gone": [
+"उहाँ जानुपर्थ्यो",
+"Uhā~ jānuparthyo"
+],
+"I should speak": [
+"मैले बोल्नु पर्छ",
+"Maile bolnu parcha"
+],
+"I should have spoken": [
+"मैले बोल्नुपर्थ्यो",
+"Maile bolnuparthyo"
+],
+"They should dance": [
+"तिनीहरूले नाच्नु पर्छ",
+"Tinīharūle nācnu parcha"
+],
+"They should not dance": [
+"तिनीहरूले नाच्नु हुँदैन",
+"Tinīharūle nācnu hu~daina"
+],
+"They should have danced": [
+"तिनीहरूले नाच्नुपर्थ्यो",
+"Tinīharūle nācnuparthyo"
+],
+"They should not have danced": [
+"तिनीहरूले नाच्नु हुँदैन थियो",
+"Tinīharūle nācnu hu~daina thiyo"
+],
+"You should play": [
+"तपाईंले खेल्नुपर्छ",
+"Tapāīṃle khelnuparcha"
+],
+"You should not play": [
+"खेल्नु हुँदैन",
+"Khelnu hu~daina"
+],
+"You should have played": [
+"खेल्नुपर्थ्यो",
+"Khelnuparthyo"
+],
+"You should not have smiled": [
+"मुस्कुराउनु पर्दैनथ्यो",
+"Muskurāunu pardainathyo"
+],
+"She should open box": [
+"उसले बक्स खोल्नु पर्छ",
+"Usale baksa kholnu parcha"
+],
+"He should eat": [
+"उसले खानुपर्छ",
+"Usale khānuparcha"
+],
+"You(male) should go": [
+"तिमी (पुरुष) जानुपर्छ",
+"Timī (puruṣa) jānuparcha"
+],
+"You(male) should eat mango": [
+"तिमी (पुरुष)ले आँप खानुपर्छ",
+"Timī (puruṣa)le ā~pa khānuparcha"
+],
+"He should not go": [
+"उहाँ जानु हुँदैन",
+"Uhā~ jānu hu~daina"
+],
+"She should not open box": [
+"उनले बक्स खोल्नु हुँदैन",
+"Unale baksa kholnu hu~daina"
+],
+"He should not eat": [
+"उसले खानु हुँदैन",
+"Usale khānu hu~daina"
+],
+"He should eat tamarind": [
+"उसले इमली खानुपर्छ",
+"Usale imalī khānuparcha"
+],
+"She should write letter": [
+"पत्र लेख्नुपर्छ",
+"Patra lekhnuparcha"
+],
+"You should eat mango": [
+"आँप खानुपर्छ",
+"Ā~pa khānuparcha"
+],
+"He has to do it every day": [
+"उसले हरेक दिन यो गर्नुपर्छ",
+"Usale hareka dina yo garnuparcha"
+],
+"He will have to do it every day": [
+"उसले हरेक दिन यो गर्नुपर्छ",
+"Usale hareka dina yo garnuparcha"
+],
+"He had to do it every day": [
+"उसले हरेक दिन यो गर्नुपर्थ्यो",
+"Usale hareka dina yo garnuparthyo"
+],
+"She has to eat mango": [
+"उसले आँप खानै पर्छ",
+"Usale ā~pa khānai parcha"
+],
+"She will have to eat mango": [
+"उसले आँप खानु पर्छ",
+"Usale ā~pa khānu parcha"
+],
+"She had to eat mango": [
+"उनले आँप खानु पर्यो",
+"Unale ā~pa khānu paryo"
+],
+"She has to eat mangoes": [
+"उसले आँप खानै पर्छ",
+"Usale ā~pa khānai parcha"
+],
+"She has to eat tamarind": [
+"इमली खानै पर्छ",
+"Imalī khānai parcha"
+],
+"She has to eat tamarinds": [
+"उसले इमली खानुपर्छ",
+"Usale imalī khānuparcha"
+],
+"She has to eat medicine": [
+"औषधि खानुपर्छ",
+"Auṣadhi khānuparcha"
+],
+"She has to eat medicines": [
+"औषधि खानुपर्छ",
+"Auṣadhi khānuparcha"
+],
+"I have to go": [
+"म जानु पर्छ",
+"Ma jānu parcha"
+],
+"We have to speak": [
+"हामीले बोल्नुपर्छ",
+"Hāmīle bolnuparcha"
+],
+"I keep speaking": [
+"म बोलिरहन्छु",
+"Ma bolirahanchu"
+],
+"I kept speaking": [
+"म बोलिरहेँ",
+"Ma bolirahe~"
+],
+"I will keep speaking": [
+"म बोलिरहन्छु",
+"Ma bolirahanchu"
+],
+"You keep speaking": [
+"तिमी बोलिरहे",
+"Timī bolirahe"
+],
+"You kept speaking": [
+"तिमी बोलिरहे",
+"Timī bolirahe"
+],
+"You will keep speaking": [
+"तिमी बोलिरहने छौ",
+"Timī bolirahane chau"
+],
+"Keep speaking! (Imperative)": [
+"बोलिरहनुहोस्! (अनिवार्य)",
+"Bolirahanuhos! (anivārya)"
+],
+"He is taller than me": [
+"ऊ मभन्दा अग्लो छ",
+"Ū mabhandā aglo cha"
+],
+"I am shorter than you": [
+"म तिमी भन्दा सानो छु",
+"Ma timī bhandā sāno chu"
+],
+"They were happier than now": [
+"उनीहरु अहिले भन्दा धेरै खुसी थिए",
+"Unīharu ahile bhandā dherai khusī thie"
+],
+"He is best": [
+"उहाँ उत्तम हुनुहुन्छ",
+"Uhā~ uttama hunuhuncha"
+],
+"Everest is the tallest peak": [
+"सगरमाथा सबैभन्दा अग्लो चुचुरो हो",
+"Sagaramāthā sabaibhandā aglo cucuro ho"
+],
+"She was the youngest player": [
+"उनी कान्छी खेलाडी थिइन्",
+"Unī kānchī khelāḍī thiin"
+],
+"Your voice is loudest of all": [
+"तिम्रो आवाज सबै भन्दा ठूलो छ",
+"Timro āvāja sabai bhandā ṭhūlo cha"
+],
+"Your name is known to me": [
+"तिम्रो नाम मलाई थाहा छ",
+"Timro nāma malāī thāhā cha"
+],
+"She knows his address": [
+"उसको ठेगाना थाहा छ",
+"Usako ṭhegānā thāhā cha"
+],
+"She knew his address": [
+"उसको ठेगाना थाहा थियो",
+"Usako ṭhegānā thāhā thiyo"
+],
+"Do you know it?": [
+"के तपाईलाई थाहा छ?",
+"Ke tapāīlāī thāhā cha?"
+],
+"Did she know that?": [
+"के उसलाई त्यो थाहा थियो?",
+"Ke usalāī tyo thāhā thiyo?"
+],
+"Your name is not known to me": [
+"तिम्रो नाम मलाई थाहा छैन",
+"Timro nāma malāī thāhā chaina"
+],
+"She does not know his address": [
+"उनको ठेगाना थाहा छैन",
+"Unako ṭhegānā thāhā chaina"
+],
+"She did not know his address": [
+"उनको ठेगाना थाहा थिएन",
+"Unako ṭhegānā thāhā thiena"
+],
+"Don't you know it?": [
+"तपाईलाई थाहा छैन?",
+"Tapāīlāī thāhā chaina?"
+],
+"Didn't she know that?": [
+"के उसलाई थाहा थिएन?",
+"Ke usalāī thāhā thiena?"
+],
+"I know eating cake": [
+"मलाई केक खाने थाहा छ",
+"Malāī keka khāne thāhā cha"
+],
+"I know swimming": [
+"म पौडी जान्दछु",
+"Ma pauḍī jāndachu"
+],
+"I know Japanese": [
+"म जापानी जान्दछु",
+"Ma jāpānī jāndachu"
+],
+"I know cooking": [
+"मलाई खाना पकाउन थाहा छ",
+"Malāī khānā pakāuna thāhā cha"
+],
+"Do you know playing cricket?": [
+"क्रिकेट खेल्न थाहा छ ?",
+"Krikeṭa khelna thāhā cha ?"
+],
+"I know killing mosquitoes": [
+"मलाई लामखुट्टे मार्ने कुरा थाहा छ",
+"Malāī lāmakhuṭṭe mārne kurā thāhā cha"
+],
+"She used to know dancing before": [
+"उनी पहिले नृत्य जान्ने गर्थे",
+"Unī pahile nṛtya jānne garthe"
+],
+"They knew to talk": [
+"उनीहरु कुरा गर्न जान्दथे",
+"Unīharu kurā garna jāndathe"
+],
+"He learned. So he could speak Japanese": [
+"उसले सिके । त्यसैले उनी जापानी भाषा बोल्न सक्थे",
+"Usale sike | tyasaile unī jāpānī bhāṣā bolna sakthe"
+],
+"I do not know eating cake": [
+"केक खाने थाहा छैन",
+"Keka khāne thāhā chaina"
+],
+"I do not know swimming": [
+"मलाई पौडी खेल्न थाहा छैन",
+"Malāī pauḍī khelna thāhā chaina"
+],
+"I do not know Japanese": [
+"मलाई जापानी भाषा थाहा छैन",
+"Malāī jāpānī bhāṣā thāhā chaina"
+],
+"She did not know dancing before": [
+"उनलाई पहिले नृत्य थाहा थिएन",
+"Unalāī pahile nṛtya thāhā thiena"
+],
+"They did not know to talk": [
+"उनीहरु बोल्न जान्दैनथे",
+"Unīharu bolna jāndainathe"
+],
+"He did not learn. So he could not speak Japanese": [
+"उनले सिकेनन् । त्यसैले उनी जापानी भाषा बोल्न सक्दैनन्",
+"Unale sikenan | tyasaile unī jāpānī bhāṣā bolna sakdainan"
+],
+"I(boy) know you": [
+"म (केटा) तिमीलाई चिन्छु",
+"Ma (keṭā) timīlāī cinchu"
+],
+"I(girl) know you": [
+"म (केटी) तिमीलाई चिन्छु",
+"Ma (keṭī) timīlāī cinchu"
+],
+"You know me": [
+"तपाईंले मलाई चिन्नुहुन्छ",
+"Tapāīṃle malāī cinnuhuncha"
+],
+"He knows Mr. Ram": [
+"उसले रामलाई चिन्छ",
+"Usale rāmalāī cincha"
+],
+"Let's not play": [
+"न खेलौं",
+"Na khelauṃ"
+],
+"Let's not go": [
+"नजाऔं",
+"Najāauṃ"
+],
+"Let's not speak": [
+"नबोलौं",
+"Nabolauṃ"
+],
+"Shall we play cricket? (style 1)": [
+"क्रिकेट खेल्ने ? (शैली १)",
+"Krikeṭa khelne ? (śailī 1)"
+],
+"Shall we play cricket? (style 2)": [
+"क्रिकेट खेल्ने ? (शैली २)",
+"Krikeṭa khelne ? (śailī 2)"
+],
+"Shall we watch movie? (style 1)": [
+"के हामी चलचित्र हेर्ने? (शैली १)",
+"Ke hāmī calacitra herne? (śailī 1)"
+],
+"Shall we watch movie? (style 2)": [
+"के हामी चलचित्र हेर्ने? (शैली २)",
+"Ke hāmī calacitra herne? (śailī 2)"
+],
+"Shall we go home? (style 1)": [
+"के हामी घर जाने? (शैली १)",
+"Ke hāmī ghara jāne? (śailī 1)"
+],
+"Shall we go home? (style 2)": [
+"के हामी घर जाने? (शैली २)",
+"Ke hāmī ghara jāne? (śailī 2)"
+],
+"Shall we eat mango? (style 1)": [
+"आँप खाऔं ? (शैली १)",
+"Ā~pa khāauṃ ? (śailī 1)"
+],
+"Shall we eat mango? (style 2)": [
+"आँप खाऔं ? (शैली २)",
+"Ā~pa khāauṃ ? (śailī 2)"
+],
+"Shall we eat tamarind? (style 1)": [
+"के हामी इमली खाने? (शैली १)",
+"Ke hāmī imalī khāne? (śailī 1)"
+],
+"Shall we eat tamarind? (style 2)": [
+"के हामी इमली खाने? (शैली २)",
+"Ke hāmī imalī khāne? (śailī 2)"
+],
+"Let him play": [
+"उसलाई खेल्न दिनुहोस्",
+"Usalāī khelna dinuhos"
+],
+"Let me eat": [
+"मलाई खान दिनुहोस्",
+"Malāī khāna dinuhos"
+],
+"Let her speak": [
+"उसलाई बोल्न दिनुहोस्",
+"Usalāī bolna dinuhos"
+],
+"You all, Let him play": [
+"तपाईं सबै, उसलाई खेल्न दिनुहोस्",
+"Tapāīṃ sabai, usalāī khelna dinuhos"
+],
+"You all, Let me eat": [
+"तपाईं सबै, मलाई खान दिनुहोस्",
+"Tapāīṃ sabai, malāī khāna dinuhos"
+],
+"You all, Let her speak": [
+"तपाईं सबै, उसलाई बोल्न दिनुहोस्",
+"Tapāīṃ sabai, usalāī bolna dinuhos"
+],
+"Don't let him play": [
+"उसलाई खेल्न नदिनुहोस्",
+"Usalāī khelna nadinuhos"
+],
+"Don't let me eat": [
+"मलाई खान नदिनुहोस्",
+"Malāī khāna nadinuhos"
+],
+"You all, don't let her speak": [
+"तपाईं सबै, उसलाई बोल्न नदिनुहोस्",
+"Tapāīṃ sabai, usalāī bolna nadinuhos"
+],
+"You all, don't let me eat": [
+"सबैजना, मलाई खान नदिनुहोस्",
+"Sabaijanā, malāī khāna nadinuhos"
+],
+"I could not understand what you just said": [
+"तपाईंले भर्खर के भन्नुभयो मैले बुझ्न सकिन",
+"Tapāīṃle bharkhara ke bhannubhayo maile bujhna sakina"
+],
+"Which fruit you want, show me that": [
+"तपाईलाई कुन फल चाहियो, मलाई देखाउनुहोस्",
+"Tapāīlāī kuna phala cāhiyo, malāī dekhāunuhos"
+],
+"When you come I feel happy": [
+"तिमी आउँदा मलाई खुसी लाग्छ",
+"Timī āu~dā malāī khusī lāgcha"
+],
+"What is in your mind, tell me that": [
+"तिम्रो मनमा के छ, भन",
+"Timro manamā ke cha, bhana"
+],
+"When you(girl) come I feel happy": [
+"तिमी (केटी) आउँदा मलाई खुसी लाग्छ",
+"Timī (keṭī) āu~dā malāī khusī lāgcha"
+],
+"Go back, the way you have come": [
+"फर्केर जाऊ, जसरी तिमी आएका छौ",
+"Pharkera jāū, jasarī timī āekā chau"
+],
+"Give it to him, who wants it": [
+"उसैलाई दिनुहोस्, जसले यो चाहन्छ",
+"Usailāī dinuhos, jasale yo cāhancha"
+],
+"Tell me about them whom you read about": [
+"तपाईंले पढ्नुभएको तिनीहरूको बारेमा मलाई भन्नुहोस्",
+"Tapāīṃle paḍhnubhaeko tinīharūko bāremā malāī bhannuhos"
+],
+"Wherever you will go I will come": [
+"तिमी जहाँ गए पनि म आउनेछु",
+"Timī jahā~ gae pani ma āunechu"
+],
+"Whichever vegetables you want, you buy it": [
+"तपाईलाई जुन तरकारी चाहियो, तपाईले किन्नु हुन्छ",
+"Tapāīlāī juna tarakārī cāhiyo, tapāīle kinnu huncha"
+],
+"Whenever you call he will answer": [
+"जतिबेला फोन गर्नुहुन्छ उसले जवाफ दिन्छ",
+"Jatibelā phona garnuhuncha usale javāpha dincha"
+],
+"Do not smoke here": [
+"यहाँ धुम्रपान नगर्नुहोस्",
+"Yahā~ dhumrapāna nagarnuhos"
+],
+"Do not use mobile phones": [
+"मोबाइल फोन प्रयोग नगर्नुहोस्",
+"Mobāila phona prayoga nagarnuhos"
+],
+"Enter your preferences": [
+"आफ्नो प्राथमिकताहरू प्रविष्ट गर्नुहोस्",
+"Āphno prāthamikatāharū praviṣṭa garnuhos"
+],
+"Write your address": [
+"आफ्नो ठेगाना लेख्नुहोस्",
+"Āphno ṭhegānā lekhnuhos"
+],
+"Write your addresses": [
+"आफ्नो ठेगानाहरू लेख्नुहोस्",
+"Āphno ṭhegānāharū lekhnuhos"
+],
+"Enter your preference": [
+"आफ्नो प्राथमिकता प्रविष्ट गर्नुहोस्",
+"Āphno prāthamikatā praviṣṭa garnuhos"
+],
+"Speak your name": [
+"आफ्नो नाम बोल्नुहोस्",
+"Āphno nāma bolnuhos"
+],
+"Speak your names": [
+"आफ्नो नाम बोल्नुहोस्",
+"Āphno nāma bolnuhos"
+],
+"Do not speak": [
+"बोल्नु हुन्न",
+"Bolnu hunna"
+],
+"Do not smoke": [
+"धुम्रपान नगर्नुहोस्",
+"Dhumrapāna nagarnuhos"
+],
+"Do not cross road here": [
+"यहाँ सडक पार नगर्नुहोस्",
+"Yahā~ saḍaka pāra nagarnuhos"
+],
+"Do not pluck flowers": [
+"फूल नफाल्नुहोस्",
+"Phūla naphālnuhos"
+],
+"I like to eat mango": [
+"मलाई आँप खान मन लाग्छ",
+"Malāī ā~pa khāna mana lāgcha"
+],
+"I like to eat mangoes": [
+"मलाई आँप खान मन लाग्छ",
+"Malāī ā~pa khāna mana lāgcha"
+],
+"He liked to open bag": [
+"उसलाई झोला खोल्न मन लाग्यो",
+"Usalāī jholā kholna mana lāgyo"
+],
+"He liked to open bags": [
+"उसलाई झोला खोल्न मन लाग्थ्यो",
+"Usalāī jholā kholna mana lāgthyo"
+],
+"She will like to sing song": [
+"उनलाई गीत गाउन मन लाग्छ",
+"Unalāī gīta gāuna mana lāgcha"
+],
+"She will like to sing songs": [
+"उनलाई गीत गाउन मन लाग्छ",
+"Unalāī gīta gāuna mana lāgcha"
+],
+"I do not like to eat mango": [
+"आँप खान मन लाग्दैन",
+"Ā~pa khāna mana lāgdaina"
+],
+"I do not like to eat mangoes": [
+"मलाई आँप खान मन लाग्दैन",
+"Malāī ā~pa khāna mana lāgdaina"
+],
+"He did not like to open bag": [
+"उसलाई झोला खोल्न मन लागेन",
+"Usalāī jholā kholna mana lāgena"
+],
+"She will not like to sing song": [
+"उनलाई गीत गाउन मन लाग्दैन",
+"Unalāī gīta gāuna mana lāgdaina"
+],
+"I like to see Kaushik": [
+"कौशिकलाई हेर्न मन लाग्छ",
+"Kauśikalāī herna mana lāgcha"
+],
+"He likes to push me": [
+"उसलाई मलाई धकेल्न मन पर्छ",
+"Usalāī malāī dhakelna mana parcha"
+],
+"He likes to push her": [
+"उसलाई धकेल्न मन पर्छ",
+"Usalāī dhakelna mana parcha"
+],
+"They will like to hold us": [
+"उनीहरूले हामीलाई समात्न मन पराउँछन्",
+"Unīharūle hāmīlāī samātna mana parāu~chan"
+],
+"Kaushik said that he would eat": [
+"कौशिकले खान्छु भने",
+"Kauśikale khānchu bhane"
+],
+"I thought I would be late so I would have to run": [
+"ढिलो होला त्यसैले दौडनु पर्छ भन्ने लाग्यो",
+"Ḍhilo holā tyasaile dauḍanu parcha bhanne lāgyo"
+],
+"I would love to visit New York": [
+"मलाई न्यूयोर्क घुम्न मन छ",
+"Malāī nyūyorka ghumna mana cha"
+],
+"We would go, but we are too busy": [
+"हामी जान्छौं, तर हामी धेरै व्यस्त छौं",
+"Hāmī jānchauṃ, tara hāmī dherai vyasta chauṃ"
+],
+"I would not disclose it in any condition": [
+"म यसलाई कुनै पनि हालतमा खुलासा गर्दिन",
+"Ma yasalāī kunai pani hālatamā khulāsā gardina"
+],
+"Would you like to drink tea?": [
+"के तपाई चिया पिउन चाहनुहुन्छ?",
+"Ke tapāī ciyā piuna cāhanuhuncha?"
+],
+"Would you please help me?": [
+"कृपया मलाई मद्दत गर्नुहुन्छ?",
+"Kṛpayā malāī maddata garnuhuncha?"
+],
+"I would suggest you to take this medicine": [
+"म तपाईंलाई यो औषधि लिन सुझाव दिन्छु",
+"Ma tapāīṃlāī yo auṣadhi lina sujhāva dinchu"
+],
+"I understand its importance": [
+"यसको महत्व बुझेको छु",
+"Yasako mahatva bujheko chu"
+],
+"He understood the logic": [
+"उसले तर्क बुझ्यो",
+"Usale tarka bujhyo"
+],
+"She came to know the news": [
+"उनलाई खबर थाहा भयो",
+"Unalāī khabara thāhā bhayo"
+],
+"They will understand your mistakes": [
+"तिनीहरूले तपाईंको गल्ती बुझ्नेछन्",
+"Tinīharūle tapāīṃko galtī bujhnechan"
+],
+"Did you understand?": [
+"बुझ्नुभयो ?",
+"Bujhnubhayo ?"
+],
+"She does not understand": [
+"उनले बुझिनन्",
+"Unale bujhinan"
+],
+"He will not come to know this": [
+"यो कुरा उसले थाहा पाउनेछैन",
+"Yo kurā usale thāhā pāunechaina"
+],
+"You are coming": [
+"तपाईं आउँदै हुनुहुन्छ",
+"Tapāīṃ āu~dai hunuhuncha"
+],
+"You are coming, aren't you?": [
+"तपाईं आउँदै हुनुहुन्छ, हैन?",
+"Tapāīṃ āu~dai hunuhuncha, haina?"
+],
+"She did not speak": [
+"उनी बोलिनन्",
+"Unī bolinan"
+],
+"She did not speak, did she?": [
+"उनी बोलिनन्, हैन ?",
+"Unī bolinan, haina ?"
+],
+"He will do": [
+"उसले गर्नेछ",
+"Usale garnecha"
+],
+"He will do, won't he?": [
+"उहाँले गर्नुहुन्छ, हैन?",
+"Uhā~le garnuhuncha, haina?"
+],
+"I remember you": [
+"म तिमीलाई सम्झन्छु",
+"Ma timīlāī samjhanchu"
+],
+"You remember me": [
+"तिमी मलाई सम्झन्छौ",
+"Timī malāī samjhanchau"
+],
+"We remember Mary": [
+"हामी मरियमलाई सम्झन्छौं",
+"Hāmī mariyamalāī samjhanchauṃ"
+],
+"Mary remembers us": [
+"मरियम हामीलाई सम्झन्छिन्",
+"Mariyama hāmīlāī samjhanchin"
+],
+"I remember you (miss)": [
+"म तिमीलाई सम्झन्छु (मिस)",
+"Ma timīlāī samjhanchu (misa)"
+],
+"Mary remembered us": [
+"मरियमले हामीलाई सम्झिन्",
+"Mariyamale hāmīlāī samjhin"
+],
+"Peter misses his friend": [
+"पिटरले आफ्नो साथीलाई सम्झन्छ",
+"Piṭarale āphno sāthīlāī samjhancha"
+],
+"She missed her mother a lot": [
+"आमालाई धेरै मिस गरिन्",
+"Āmālāī dherai misa garin"
+],
+"I will remember your favor": [
+"म तिम्रो उपकार सम्झनेछु",
+"Ma timro upakāra samjhanechu"
+],
+"He always remembered my advice": [
+"उसले मेरो सल्लाहलाई सधैं सम्झिन्थ्यो",
+"Usale mero sallāhalāī sadhaiṃ samjhinthyo"
+],
+"I want to eat mango": [
+"मलाई आँप खान मन छ",
+"Malāī ā~pa khāna mana cha"
+],
+"I want to eat mangoes": [
+"मलाई आँप खान मन छ",
+"Malāī ā~pa khāna mana cha"
+],
+"He wanted to open bag": [
+"झोला खोल्न मन लाग्यो",
+"Jholā kholna mana lāgyo"
+],
+"He wanted to open bags": [
+"उसलाई झोला खोल्न मन लाग्यो",
+"Usalāī jholā kholna mana lāgyo"
+],
+"She will want to sing song": [
+"उनी गीत गाउन चाहन्छिन्",
+"Unī gīta gāuna cāhanchin"
+],
+"She will want to sing songs": [
+"उनी गीत गाउन चाहन्छिन्",
+"Unī gīta gāuna cāhanchin"
+],
+"I wanted to go": [
+"मलाई जान मन लाग्यो",
+"Malāī jāna mana lāgyo"
+],
+"I will want to run": [
+"म दौडन चाहन्छु",
+"Ma dauḍana cāhanchu"
+],
+"I do not want to eat mango": [
+"आँप खान मन लाग्दैन",
+"Ā~pa khāna mana lāgdaina"
+],
+"He did not want to open bag": [
+"झोला खोल्न मन लागेन",
+"Jholā kholna mana lāgena"
+],
+"She will not want to sing song": [
+"उनी गीत गाउन चाहँदैनन्",
+"Unī gīta gāuna cāha~dainan"
+],
+"Kaushik wants to see Peter": [
+"कौशिक पिटरलाई भेट्न चाहन्छ",
+"Kauśika piṭaralāī bheṭna cāhancha"
+],
+"Kaushik wants to see him": [
+"कौशिक उसलाई भेट्न चाहन्छ",
+"Kauśika usalāī bheṭna cāhancha"
+],
+"Kaushik wants to see you": [
+"कौशिक तिमीलाई भेट्न चाहन्छ",
+"Kauśika timīlāī bheṭna cāhancha"
+],
+"I want you to finish work": [
+"म तिमीलाई काम पूरा गर्न चाहन्छु",
+"Ma timīlāī kāma pūrā garna cāhanchu"
+],
+"She wants me to avoid junk food": [
+"उनी मलाई जंक फूडबाट बच्न चाहन्छिन्",
+"Unī malāī jaṃka phūḍabāṭa bacna cāhanchin"
+],
+"Kaushik wants students to practice more": [
+"कौशिक विद्यार्थीहरूले अझ बढी अभ्यास गर्न चाहन्छन्",
+"Kauśika vidyārthīharūle ajha baḍhī abhyāsa garna cāhanchan"
+],
+"Kaushik wanted students to practice more": [
+"कौशिकले विद्यार्थीहरूलाई अझ बढी अभ्यास गर्न चाहन्थे",
+"Kauśikale vidyārthīharūlāī ajha baḍhī abhyāsa garna cāhanthe"
+],
+"Students want Kaushik to talk slowly": [
+"विद्यार्थीहरू कौशिकले बिस्तारै कुरा गरून् भन्ने चाहन्छन्",
+"Vidyārthīharū kauśikale bistārai kurā garūn bhanne cāhanchan"
+],
+"I am supposed to meet him tomorrow": [
+"म भोलि उहाँलाई भेट्ने छु",
+"Ma bholi uhā~lāī bheṭne chu"
+],
+"I am supposed to finish that bottle": [
+"म त्यो बोतल समाप्त गर्न चाहन्छु",
+"Ma tyo botala samāpta garna cāhanchu"
+],
+"He is supposed to finish that bottle": [
+"उसले त्यो बोतल समाप्त गर्नु पर्छ",
+"Usale tyo botala samāpta garnu parcha"
+],
+"She is supposed to finish that bottle": [
+"उसले त्यो बोतल समाप्त गर्नु पर्छ",
+"Usale tyo botala samāpta garnu parcha"
+],
+"I/He/She was supposed to finish that bottle": [
+"मैले/उनी/उनले त्यो बोतल समाप्त गर्नु पर्ने थियो",
+"Maile/unī/unale tyo botala samāpta garnu parne thiyo"
+],
+"I/He/She was supposed to finish those bottles": [
+"म/उनी/उनले ती बोतलहरू समाप्त गर्नु पर्ने थियो",
+"Ma/unī/unale tī botalaharū samāpta garnu parne thiyo"
+],
+"I am supposed to go there tomorrow": [
+"म भोलि त्यतै जान्छु",
+"Ma bholi tyatai jānchu"
+],
+"He is supposed to come tomorrow": [
+"उनी भोलि आउने भनिएको छ",
+"Unī bholi āune bhanieko cha"
+],
+"We could not meet but next time we must meet": [
+"हामी भेट्न सकेनौं तर अर्को पटक भेट्नु पर्छ",
+"Hāmī bheṭna sakenauṃ tara arko paṭaka bheṭnu parcha"
+],
+"You must pay me ransom tomorrow itself": [
+"तिमीले मलाई भोलि नै फिरौती तिर्नु पर्छ",
+"Timīle malāī bholi nai phirautī tirnu parcha"
+],
+"I get a prize": [
+"मैले पुरस्कार पाउँछु",
+"Maile puraskāra pāu~chu"
+],
+"I get 10 prizes": [
+"मैले 10 पुरस्कार पाउँछु",
+"Maile 10 puraskāra pāu~chu"
+],
+"He gets a prize": [
+"उसले पुरस्कार पाउँछ",
+"Usale puraskāra pāu~cha"
+],
+"He gets 10 prizes": [
+"उसले 10 पुरस्कार पाउँछ",
+"Usale 10 puraskāra pāu~cha"
+],
+"He got a prize": [
+"उनले पुरस्कार पाए",
+"Unale puraskāra pāe"
+],
+"He got 10 prizes": [
+"उनले 10 पुरस्कार प्राप्त गरे",
+"Unale 10 puraskāra prāpta gare"
+],
+"I found my wallet under the bed": [
+"मैले मेरो पर्स ओछ्यानमुनि भेट्टाएँ",
+"Maile mero parsa ochyānamuni bheṭṭāe~"
+],
+"She became angry": [
+"उनी क्रोधित भइन्",
+"Unī krodhita bhain"
+],
+"He became angry": [
+"उनी रिसाए",
+"Unī risāe"
+],
+"He agrees to this condition": [
+"उहाँ यो शर्तमा सहमत हुनुहुन्छ",
+"Uhā~ yo śartamā sahamata hunuhuncha"
+],
+"He agrees to these conditions": [
+"उहाँ यी सर्तहरूमा सहमत हुनुहुन्छ",
+"Uhā~ yī sartaharūmā sahamata hunuhuncha"
+],
+"Finish it off in 10 minutes": [
+"यसलाई 10 मिनेटमा समाप्त गर्नुहोस्",
+"Yasalāī 10 mineṭamā samāpta garnuhos"
+],
+"Do not hesitate. Speak it out": [
+"नहिचकिचाउनुहोस्। यसलाई बाहिर बोल्नुहोस्",
+"Nahicakicāunuhos| yasalāī bāhira bolnuhos"
+],
+"Nobody is looking. Just do it": [
+"कसैले हेर्दैनन् । बस यो गर्नुहोस्",
+"Kasaile herdainan | basa yo garnuhos"
+],
+"I somehow managed to gulp it": [
+"मैले कुनै न कुनै तरिकाले त्यसलाई पक्रन सफल भएँ",
+"Maile kunai na kunai tarikāle tyasalāī pakrana saphala bhae~"
+],
+"He quickly came and read the letter": [
+"हतार हतार आयो र चिठी पढ्यो",
+"Hatāra hatāra āyo ra ciṭhī paḍhyo"
+],
+"Ask whatever you want; right now": [
+"तपाईलाई जे चाहानुहुन्छ सोध्नुहोस्; अहिले",
+"Tapāīlāī je cāhānuhuncha sodhnuhos; ahile"
+],
+"You may call me whatever you want": [
+"तिमीले मलाई जे मन लाग्यो बोलाउन सक्छौ",
+"Timīle malāī je mana lāgyo bolāuna sakchau"
+],
+"Get that work done by him": [
+"त्यो काम उहाँबाट गराउ",
+"Tyo kāma uhā~bāṭa garāu"
+],
+"I made her take exercise every day": [
+"मैले उसलाई हरेक दिन व्यायाम गर्न लगाएँ",
+"Maile usalāī hareka dina vyāyāma garna lagāe~"
+],
+"I washed clothes very hard": [
+"मैले धेरै मेहनत गरेर लुगा धुएँ",
+"Maile dherai mehanata garera lugā dhue~"
+],
+"Batsman hit every ball very hard": [
+"ब्याट्सम्यानले हरेक बललाई निकै कडा प्रहार गरे",
+"Byāṭsamyānale hareka balalāī nikai kaḍā prahāra gare"
+],
+"I just told him we drank liquor": [
+"मैले रक्सी पियौं भनेर उसलाई भनें",
+"Maile raksī piyauṃ bhanera usalāī bhaneṃ"
+],
+"Oh my God! What have I done!": [
+"हे भगवान! मैले के गरेको छु र !",
+"He bhagavāna! maile ke gareko chu ra !"
+],
+"Now keep crying": [
+"अब रोइरहनु",
+"Aba roirahanu"
+],
+"She will search it forever": [
+"उसले सधैंभरि खोज्नेछ",
+"Usale sadhaiṃbhari khojnecha"
+],
+"I forgot to tell you": [
+"मैले तिमीलाई भन्न बिर्सिएँ",
+"Maile timīlāī bhanna birsie~"
+],
+"She could not see the sign": [
+"उनले चिन्ह देख्न सकेनन्",
+"Unale cinha dekhna sakenan"
+],
+"Start following my advice": [
+"मेरो सल्लाह पालन गर्न सुरु गर्नुहोस्",
+"Mero sallāha pālana garna suru garnuhos"
+],
+"If you had taken exercise every day then": [
+"यदि तपाईंले हरेक दिन व्यायाम गर्नुभयो भने",
+"Yadi tapāīṃle hareka dina vyāyāma garnubhayo bhane"
+],
+"I was about to open the door when I saw": [
+"मैले देखेपछि ढोका खोल्नै लागेको थियो",
+"Maile dekhepachi ḍhokā kholnai lāgeko thiyo"
+],
+"If we think of eating mango then": [
+"आँप खाने सोच्ने हो भने",
+"Ā~pa khāne socne ho bhane"
+],
+"If he decides to take revenge": [
+"यदि उसले बदला लिने निर्णय गर्छ",
+"Yadi usale badalā line nirṇaya garcha"
+],
+"Give him your information": [
+"उसलाई आफ्नो जानकारी दिनुहोस्",
+"Usalāī āphno jānakārī dinuhos"
+],
+"Keep tea ready": [
+"चिया तयार राख्नुहोस्",
+"Ciyā tayāra rākhnuhos"
+],
+"We have booked tickets": [
+"हामीले टिकट बुक गरेका छौं",
+"Hāmīle ṭikaṭa buka garekā chauṃ"
+],
+"I had already given my password": [
+"मैले मेरो पासवर्ड पहिल्यै दिएको थिएँ",
+"Maile mero pāsavarḍa pahilyai dieko thie~"
+],
+"I have decided plan for tonight": [
+"मैले आज रातिको लागि योजना तय गरेको छु",
+"Maile āja rātiko lāgi yojanā taya gareko chu"
+],
+"He happened to say he was from India": [
+"उनले आफू भारतबाट आएको बताए",
+"Unale āphū bhāratabāṭa āeko batāe"
+],
+"I happened to hear about strike": [
+"मैले हडतालको बारेमा सुनेँ",
+"Maile haḍatālako bāremā sune~"
+],
+"Hey! When did you come?": [
+"हे! कहिले आउनुभयो ?",
+"He! kahile āunubhayo ?"
+],
+"Nice smell / Very tasty": [
+"राम्रो गन्ध / धेरै स्वादिष्ट",
+"Rāmro gandha / dherai svādiṣṭa"
+],
+"Oh my God! Who did this?": [
+"हे भगवान! यो कसले गर्यो?",
+"He bhagavāna! yo kasale garyo?"
+],
+"Oh! He failed!": [
+"ओह! ऊ असफल भयो!",
+"Oha! ū asaphala bhayo!"
+],
+"No! He will never do it": [
+"होइन! उसले कहिल्यै गर्ने छैन",
+"Hoina! usale kahilyai garne chaina"
+],
+"No! I do not believe": [
+"होइन! मलाई विश्वास लाग्दैन",
+"Hoina! malāī viśvāsa lāgdaina"
+],
+"Yes! I will surely come": [
+"हो! अवश्य आउनेछु",
+"Ho! avaśya āunechu"
+],
+"Hmm! I got it": [
+"हम्म! मैले बुझें",
+"Hamma! maile bujheṃ"
+],
+"Well done! You won": [
+"राम्रो भयो! तपाईंले जित्नुभयो",
+"Rāmro bhayo! tapāīṃle jitnubhayo"
+],
+"Mummy! It is paining": [
+"आमा! यो दुखाइ छ",
+"Āmā! yo dukhāi cha"
+],
+"Yuck! It looks ugly": [
+"योक! यो कुरूप देखिन्छ",
+"Yoka! yo kurūpa dekhincha"
+],
+"I spit on your cowardice": [
+"तिम्रो कायरतामा थुकेको छु",
+"Timro kāyaratāmā thukeko chu"
+],
+"Shhh! Keep quiet": [
+"छ! चुपचाप बस",
+"Cha! cupacāpa basa"
+],
+"How well you danced!": [
+"कति राम्रो नाच्नु भयो !",
+"Kati rāmro nācnu bhayo !"
+],
+"What a fool he is!": [
+"उहाँ कस्तो मूर्ख हो!",
+"Uhā~ kasto mūrkha ho!"
+],
+"Oh! What happened then?": [
+"ओह! त्यसपछि के भयो?",
+"Oha! tyasapachi ke bhayo?"
+],
+"Oh! When did you come?": [
+"ओह! कहिले आउनुभयो ?",
+"Oha! kahile āunubhayo ?"
+],
+"Someone may see it! (blush)": [
+"कसैले देख्न सक्छ! (लाल)",
+"Kasaile dekhna sakcha! (lāla)"
+],
+"May I come": [
+"आउनु होला",
+"Āunu holā"
+],
+"May I go": [
+"म जान सक्छु",
+"Ma jāna sakchu"
+],
+"May we come": [
+"आउनु होला",
+"Āunu holā"
+],
+"May we go": [
+"हामी जान सक्छौं",
+"Hāmī jāna sakchauṃ"
+],
+"May we speak": [
+"हामी बोल्न सक्छौं",
+"Hāmī bolna sakchauṃ"
+],
+"May you come": [
+"आउनु होला",
+"Āunu holā"
+],
+"May you speak": [
+"बोल्नु होला",
+"Bolnu holā"
+],
+"May he tell": [
+"उसले बताइदिनु होला",
+"Usale batāidinu holā"
+],
+"Can I tell": [
+"भन्न सक्छु",
+"Bhanna sakchu"
+],
+"Can I write": [
+"लेख्न सक्छु",
+"Lekhna sakchu"
+],
+"May you give pen": [
+"कलम दिनु होला",
+"Kalama dinu holā"
+],
+"Please give pen": [
+"कृपया कलम दिनुहोस्",
+"Kṛpayā kalama dinuhos"
+],
+"Please tell address": [
+"ठेगाना बताइदिनु होला",
+"Ṭhegānā batāidinu holā"
+],
+"He may go": [
+"ऊ जान सक्छ",
+"Ū jāna sakcha"
+],
+"I may sing": [
+"म गाउन सक्छु",
+"Ma gāuna sakchu"
+],
+"He might come": [
+"उहाँ आउन सक्नुहुन्छ",
+"Uhā~ āuna saknuhuncha"
+],
+"He might have gone yesterday": [
+"ऊ हिजो गएको हुन सक्छ",
+"Ū hijo gaeko huna sakcha"
+],
+"She might have completed it": [
+"उनले पूरा गरिन् होला",
+"Unale pūrā garin holā"
+],
+"They might have returned yesterday": [
+"उनीहरु हिजो फर्केका हुन सक्छन्",
+"Unīharu hijo pharkekā huna sakchan"
+],
+"He had gone": [
+"उनी गएका थिए",
+"Unī gaekā thie"
+],
+"He might have gone": [
+"उहाँ गएको हुन सक्छ",
+"Uhā~ gaeko huna sakcha"
+],
+"She had said": [
+"भनिन्",
+"Bhanin"
+],
+"She might have said": [
+"उनले भनिन् होला",
+"Unale bhanin holā"
+],
+"You have eaten mango": [
+"तिमीले आँप खायौ",
+"Timīle ā~pa khāyau"
+],
+"You might have eaten mango": [
+"आँप खानुभएको होला",
+"Ā~pa khānubhaeko holā"
+],
+"The day I like": [
+"मलाई मन पर्ने दिन",
+"Malāī mana parne dina"
+],
+"Boy who is giving": [
+"दिने केटा",
+"Dine keṭā"
+],
+"Person who is dancing": [
+"नाचिरहेको मान्छे",
+"Nāciraheko mānche"
+],
+"Pot on table": [
+"टेबलमा भाँडो",
+"Ṭebalamā bhā~ḍo"
+],
+"Jar on table": [
+"टेबलमा जार",
+"Ṭebalamā jāra"
+],
+"Leaf on table": [
+"टेबलमा पात",
+"Ṭebalamā pāta"
+],
+"Gift inside box": [
+"बक्स भित्र उपहार",
+"Baksa bhitra upahāra"
+],
+"Area outside my home": [
+"मेरो घर बाहिर क्षेत्र",
+"Mero ghara bāhira kṣetra"
+],
+"I make him say": [
+"म उसलाई भन्न लगाउँछु",
+"Ma usalāī bhanna lagāu~chu"
+],
+"I will make him say": [
+"म उसलाई भन्न लगाउनेछु",
+"Ma usalāī bhanna lagāunechu"
+],
+"I made him say": [
+"मैले उसलाई भन्न लगाएँ",
+"Maile usalāī bhanna lagāe~"
+],
+"He made me work": [
+"उहाँले मलाई काम गराउनुभयो",
+"Uhā~le malāī kāma garāunubhayo"
+],
+"He makes me work": [
+"उहाँले मलाई काम गराउनुहुन्छ",
+"Uhā~le malāī kāma garāunuhuncha"
+],
+"He will make me work": [
+"उहाँले मलाई काम गराउनुहुनेछ",
+"Uhā~le malāī kāma garāunuhunecha"
+],
+"That joke made me laugh": [
+"त्यो मजाकले मलाई हाँस्न थाल्यो",
+"Tyo majākale malāī hā~sna thālyo"
+],
+"Peter made Mary eat mango": [
+"पत्रुसले मरियमलाई आँप खान लगाए",
+"Patrusale mariyamalāī ā~pa khāna lagāe"
+],
+"Peter made Mary eat mangoes": [
+"पत्रुसले मरियमलाई आँप खान लगाए",
+"Patrusale mariyamalāī ā~pa khāna lagāe"
+],
+"I myself did it": [
+"मैले आफैले गरें",
+"Maile āphaile gareṃ"
+],
+"I did this itself": [
+"यो मैले आफै गरें",
+"Yo maile āphai gareṃ"
+],
+"I will come tomorrow itself": [
+"भोलि आफै आउँछु",
+"Bholi āphai āu~chu"
+],
+"I will surely come": [
+"अवश्य आउनेछु",
+"Avaśya āunechu"
+],
+"I have seen India only": [
+"मैले भारत मात्र देखेको छु",
+"Maile bhārata mātra dekheko chu"
+],
+"He kept on talking": [
+"उनी बोलिरहे",
+"Unī bolirahe"
+],
+"He kept on staring that car": [
+"उसले गाडीलाई हेरिरह्यो",
+"Usale gāḍīlāī herirahyo"
+],
+"I want only sedan car": [
+"म सेडान कार मात्र चाहन्छु",
+"Ma seḍāna kāra mātra cāhanchu"
+],
+"I must go there": [
+"म त्यहाँ जानुपर्छ",
+"Ma tyahā~ jānuparcha"
+],
+"Why just me?": [
+"मलाई मात्र किन ?",
+"Malāī mātra kina ?"
+],
+"I have a car": [
+"मसँग एउटा कार छ",
+"Masa~ga euṭā kāra cha"
+],
+"I have 10 cars": [
+"मसँग 10 वटा गाडी छ",
+"Masa~ga 10 vaṭā gāḍī cha"
+],
+"I had a car": [
+"मसँग गाडी थियो",
+"Masa~ga gāḍī thiyo"
+],
+"Anup will have watch": [
+"अनुपसँग घडी हुनेछ",
+"Anupasa~ga ghaḍī hunecha"
+],
+"I do not have car": [
+"मसँग गाडी छैन",
+"Masa~ga gāḍī chaina"
+],
+"I did not have car": [
+"मसँग गाडी थिएन",
+"Masa~ga gāḍī thiena"
+],
+"I have 2 brothers": [
+"मेरा २ भाइ छन्",
+"Merā 2 bhāi chan"
+],
+"He has three paternal uncles": [
+"उनका तीन बुवा काका छन्",
+"Unakā tīna buvā kākā chan"
+],
+"Ravi had 2 kids": [
+"रविका २ सन्तान थिए",
+"Ravikā 2 santāna thie"
+],
+"He does not have a brother": [
+"उहाँको भाइ छैन",
+"Uhā~ko bhāi chaina"
+],
+"She did not have any relatives": [
+"उनका कोही आफन्त थिएनन्",
+"Unakā kohī āphanta thienan"
+],
+"What does it mean?": [
+"यसको मतलब के हो?",
+"Yasako matalaba ke ho?"
+],
+"What does that signboard mean?": [
+"त्यो साइनबोर्डको अर्थ के हो?",
+"Tyo sāinaborḍako artha ke ho?"
+],
+"What did his speech mean?": [
+"उनको बोलीको अर्थ के थियो ?",
+"Unako bolīko artha ke thiyo ?"
+],
+"What does encyclopedia mean?": [
+"विश्वकोश भन्नाले के बुझिन्छ ?",
+"Viśvakośa bhannāle ke bujhincha ?"
+],
+"What does Sundar mean in Marathi?": [
+"मराठी मा सुन्दर को अर्थ के हो?",
+"Marāṭhī mā sundara ko artha ke ho?"
+],
+"I did mean it": [
+"मैले भनेको थिएँ",
+"Maile bhaneko thie~"
+],
+"I did not mean it": [
+"मैले भन्न खोजेको होइन",
+"Maile bhanna khojeko hoina"
+],
+"He did not mean hurting you": [
+"उसले तिमीलाई चोट पुर्याउनुको मतलब थिएन",
+"Usale timīlāī coṭa puryāunuko matalaba thiena"
+],
+"I meant to insult him": [
+"मैले उहाँलाई गाली गर्न खोजेको थिएँ",
+"Maile uhā~lāī gālī garna khojeko thie~"
+],
+"He and me": [
+"ऊ र म",
+"Ū ra ma"
+],
+"Milk and sugar": [
+"दूध र चिनी",
+"Dūdha ra cinī"
+],
+"I want to buy but shop is closed": [
+"म किन्न चाहन्छु तर पसल बन्द छ",
+"Ma kinna cāhanchu tara pasala banda cha"
+],
+"He was clever but did not work hard": [
+"उनी चतुर थिए तर मेहनत गरेनन्",
+"Unī catura thie tara mehanata garenan"
+],
+"I had warned him, still he opened the box": [
+"मैले उनलाई चेतावनी दिएँ, तैपनि उसले बक्स खोल्यो",
+"Maile unalāī cetāvanī die~, taipani usale baksa kholyo"
+],
+"He helped her still she insulted him": [
+"उसले उसलाई मद्दत गर्यो तर पनि उसले उसलाई अपमान गर्यो",
+"Usale usalāī maddata garyo tara pani usale usalāī apamāna garyo"
+],
+"I did not come yesterday, because I was sick": [
+"म हिजो आएको छैन, किनकि म बिरामी थिएँ",
+"Ma hijo āeko chaina, kinaki ma birāmī thie~"
+],
+"Car will not start because no petrol": [
+"पेट्रोल नहुँदा गाडी स्टार्ट हुँदैन",
+"Peṭrola nahu~dā gāḍī sṭārṭa hu~daina"
+],
+"I was sick so I did not come": [
+"म बिरामी थिएँ त्यसैले आएन",
+"Ma birāmī thie~ tyasaile āena"
+],
+"No petrol so car will not start": [
+"पेट्रोल छैन त्यसैले कार स्टार्ट गर्दैन",
+"Peṭrola chaina tyasaile kāra sṭārṭa gardaina"
+],
+"He told her that he is happy": [
+"उनले आफू खुसी भएको बताए",
+"Unale āphū khusī bhaeko batāe"
+],
+"I am sure that we will succeed": [
+"हामी सफल हुनेमा म विश्वस्त छु",
+"Hāmī saphala hunemā ma viśvasta chu"
+],
+"As you wish, my lord": [
+"तपाईको इच्छा अनुसार, हे प्रभु",
+"Tapāīko icchā anusāra, he prabhu"
+],
+"Do it the same way as he is doing": [
+"जसरी उसले गरिरहेको छ, त्यसरी नै गर",
+"Jasarī usale gariraheko cha, tyasarī nai gara"
+],
+"He as well as me": [
+"उ पनि म जस्तै",
+"U pani ma jastai"
+],
+"She sang as well as danced": [
+"गाउनुका साथै नृत्य पनि गर्थिन्",
+"Gāunukā sāthai nṛtya pani garthin"
+],
+"He or me": [
+"ऊ वा म",
+"Ū vā ma"
+],
+"Do or die": [
+"गर या मर",
+"Gara yā mara"
+],
+"Neither he nor I were interested": [
+"न उसलाई चासो थियो न मलाई",
+"Na usalāī cāso thiyo na malāī"
+],
+"I finished study then I went to play": [
+"पढाइ सकेपछि खेल्न गएँ",
+"Paḍhāi sakepachi khelna gae~"
+],
+"I will call you then you enter on stage": [
+"म तिमीलाई बोलाउँछु, त्यसपछि तिमी स्टेजमा प्रवेश गर",
+"Ma timīlāī bolāu~chu, tyasapachi timī sṭejamā praveśa gara"
+],
+"As long as you want me, I will stay": [
+"जब सम्म तिमी मलाई चाहन्छौ, म बस्नेछु",
+"Jaba samma timī malāī cāhanchau, ma basnechu"
+],
+"As long as you follow rules": [
+"जबसम्म तपाईं नियमहरू पालना गर्नुहुन्छ",
+"Jabasamma tapāīṃ niyamaharū pālanā garnuhuncha"
+],
+"As far as I know, he is studious": [
+"जहाँसम्म मलाई थाहा छ, उहाँ अध्ययनशील हुनुहुन्छ",
+"Jahā~samma malāī thāhā cha, uhā~ adhyayanaśīla hunuhuncha"
+],
+"As far as India is concerned": [
+"जहाँसम्म भारतको सवाल छ",
+"Jahā~samma bhāratako savāla cha"
+],
+"As far as literacy is concerned": [
+"जहाँसम्म साक्षरताको सवाल छ",
+"Jahā~samma sākṣaratāko savāla cha"
+],
+"He is blaming me as if I have not tried": [
+"उसले मलाई प्रयास नगरेको जस्तो आरोप लगाइरहेको छ",
+"Usale malāī prayāsa nagareko jasto āropa lagāiraheko cha"
+],
+"He passed by as if she was not there": [
+"ऊ त्यहाँ नभएजस्तै भएर गयो",
+"Ū tyahā~ nabhaejastai bhaera gayo"
+],
+"As soon as he came": [
+"उनी आउनेबित्तिकै",
+"Unī āunebittikai"
+],
+"As soon as she saw": [
+"देख्ने बित्तिकै",
+"Dekhne bittikai"
+],
+"As soon as they become": [
+"बन्ने बित्तिकै",
+"Banne bittikai"
+],
+"Let me know once he comes": [
+"उहाँ आएपछि मलाई थाहा दिनुहोस्",
+"Uhā~ āepachi malāī thāhā dinuhos"
+],
+"Once I see your story I will give review": [
+"तपाईको कथा हेरेपछि म समीक्षा दिनेछु",
+"Tapāīko kathā herepachi ma samīkṣā dinechu"
+],
+"Rather than surrendering soldier will accept death": [
+"आत्मसमर्पण गर्नुको सट्टा सिपाहीले मृत्युलाई स्वीकार गर्नेछ",
+"Ātmasamarpaṇa garnuko saṭṭā sipāhīle mṛtyulāī svīkāra garnecha"
+],
+"I will take tea rather than coffee": [
+"म कफी भन्दा चिया खान्छु",
+"Ma kaphī bhandā ciyā khānchu"
+],
+"I will work hard so that I will win": [
+"जित्नका लागि मेहनत गर्नेछु",
+"Jitnakā lāgi mehanata garnechu"
+],
+"We should avoid plastic so that less pollution": [
+"हामीले प्लाष्टिकबाट बच्नुपर्छ ताकि प्रदूषण कम होस्",
+"Hāmīle plāṣṭikabāṭa bacnuparcha tāki pradūṣaṇa kama hos"
+],
+"He cheated me whereas I was helping him": [
+"मैले उसलाई सहयोग गर्दा उसले मलाई धोका दियो",
+"Maile usalāī sahayoga gardā usale malāī dhokā diyo"
+],
+"Govt said prices declined whereas inflation rose": [
+"सरकारले मूल्य घटेको र मुद्रास्फीति बढेको बताएको छ",
+"Sarakārale mūlya ghaṭeko ra mudrāsphīti baḍheko batāeko cha"
+],
+"I did not know whether he is going": [
+"उहाँ जाँदै हुनुहुन्छ कि मलाई थाहा थिएन",
+"Uhā~ jā~dai hunuhuncha ki malāī thāhā thiena"
+],
+"She could not realize whether to speak or not": [
+"बोल्ने कि नगर्ने पत्तै भएन",
+"Bolne ki nagarne pattai bhaena"
+],
+"Do this otherwise you will not win": [
+"यसो गर्नुस् नत्र जित्नु हुन्न",
+"Yaso garnus natra jitnu hunna"
+],
+"He should inform me otherwise I will not know": [
+"उसले मलाई जानकारी दिनु पर्छ अन्यथा मलाई थाहा छैन",
+"Usale malāī jānakārī dinu parcha anyathā malāī thāhā chaina"
+],
+"I also ran": [
+"म पनि दौडिएँ",
+"Ma pani dauḍie~"
+],
+"He will come tomorrow as well": [
+"उहाँ पनि भोलि आउनुहुन्छ",
+"Uhā~ pani bholi āunuhuncha"
+],
+"This is old video. I saw it. I am sharing today": [
+"यो पुरानो भिडियो हो। मैले यो देखे। आज सेयर गर्दैछु",
+"Yo purāno bhiḍiyo ho| maile yo dekhe| āja seyara gardaichu"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"यो पुरानो भिडियो हो तर पनि हेरेको हुनाले आज शेयर गर्दैछु",
+"Yo purāno bhiḍiyo ho tara pani hereko hunāle āja śeyara gardaichu"
+],
+"This is old song. I heard it today": [
+"यो पुरानो गीत हो। आज सुनेको छु",
+"Yo purāno gīta ho| āja suneko chu"
+],
+"Though it is old song, I heard it today": [
+"पुरानो गीत भए पनि आज सुनेको छु",
+"Purāno gīta bhae pani āja suneko chu"
+],
+"My wife was standing there. He asked about girlfriend": [
+"मेरी श्रीमती त्यहीँ उभिएकी थिइन् । उसले गर्लफ्रेन्डको बारेमा सोध्यो",
+"Merī śrīmatī tyahī~ ubhiekī thiin | usale garlaphrenḍako bāremā sodhyo"
+],
+"My wife was standing there yet he asked": [
+"मेरी श्रीमती त्यहीँ उभिरहेकी थिइन् तर उसले सोध्यो",
+"Merī śrīmatī tyahī~ ubhirahekī thiin tara usale sodhyo"
+],
+"Policeman was watching. He did not dare to run": [
+"प्रहरी हेर्दै थिए । दौडने हिम्मत भएन",
+"Praharī herdai thie | dauḍane himmata bhaena"
+],
+"As policeman was watching he did not dare": [
+"प्रहरी हेर्दा हिम्मत भएन",
+"Praharī herdā himmata bhaena"
+],
+"I had illusion of monsters coming": [
+"मलाई दानव आउने भ्रम थियो",
+"Malāī dānava āune bhrama thiyo"
+],
+"Now she will search it forever": [
+"अब उसले सधैंभरि खोज्नेछ",
+"Aba usale sadhaiṃbhari khojnecha"
+],
+"If we think of eating mango then..": [
+"आँप खाने सोच्ने हो भने...",
+"Ā~pa khāne socne ho bhane..."
+],
+"If he decides to take revenge..": [
+"उसले बदला लिने निर्णय गर्यो भने..",
+"Usale badalā line nirṇaya garyo bhane.."
+],
+"I have decided a plan for tonight": [
+"मैले आज रातिको लागि योजना तय गरेको छु",
+"Maile āja rātiko lāgi yojanā taya gareko chu"
+],
+"I feel this way": [
+"म यसरी महसुस गर्छु",
+"Ma yasarī mahasusa garchu"
+],
+"I feel this": [
+"म यो महसुस गर्छु",
+"Ma yo mahasusa garchu"
+],
+"He felt that I will not come": [
+"उनलाई म नआउने अनुभूति भयो",
+"Unalāī ma naāune anubhūti bhayo"
+],
+"What do you feel?": [
+"तपाईलाई के लाग्छ?",
+"Tapāīlāī ke lāgcha?"
+],
+"He felt happiness": [
+"उसले खुशी महसुस गर्यो",
+"Usale khuśī mahasusa garyo"
+],
+"Don't you feel ashamed?": [
+"लाज लाग्दैन ?",
+"Lāja lāgdaina ?"
+],
+"Kaushik thinks he should go": [
+"कौशिक जानुपर्छ भन्ने सोच्छन्",
+"Kauśika jānuparcha bhanne socchan"
+],
+"He will feel bad": [
+"उसलाई नराम्रो लाग्नेछ",
+"Usalāī narāmro lāgnecha"
+],
+"To show different aspects": [
+"विभिन्न पक्षहरू देखाउन",
+"Vibhinna pakṣaharū dekhāuna"
+],
+"To follow up & pressurize": [
+"पछ्याउन र दबाब दिन",
+"Pachyāuna ra dabāba dina"
+],
+"Every home same story": [
+"हरेक घरको एउटै कथा",
+"Hareka gharako euṭai kathā"
+],
+"To approve formally": [
+"औपचारिक रूपमा अनुमोदन गर्न",
+"Aupacārika rūpamā anumodana garna"
+],
+"To cause destruction": [
+"विनाश निम्त्याउने",
+"Vināśa nimtyāune"
+],
+"Repeat like tape": [
+"टेप जस्तै दोहोर्याउनुहोस्",
+"Ṭepa jastai dohoryāunuhos"
+],
+"To force to do": [
+"गर्न बाध्य पार्ने",
+"Garna bādhya pārne"
+],
+"No control on tongue": [
+"जिब्रोमा नियन्त्रण छैन",
+"Jibromā niyantraṇa chaina"
+],
+"Not utter a word": [
+"एक शब्द पनि बोलेन",
+"Eka śabda pani bolena"
+],
+"To take control": [
+"नियन्त्रणमा लिन",
+"Niyantraṇamā lina"
+],
+"To feel embarrassed": [
+"लज्जित महसुस गर्न",
+"Lajjita mahasusa garna"
+],
+"To spew venom": [
+"विष फुकाउन",
+"Viṣa phukāuna"
+],
+"To uncover mystery": [
+"रहस्यको पर्दाफास गर्न",
+"Rahasyako pardāphāsa garna"
+],
+"To be puzzled": [
+"अलमलमा पर्ने",
+"Alamalamā parne"
+],
+"To defeat completely": [
+"पूर्ण रूपमा पराजित गर्न",
+"Pūrṇa rūpamā parājita garna"
+],
+"If employee works 1 year, gratuity right": [
+"कर्मचारीले १ वर्ष काम गरेमा उपदान अधिकार",
+"Karmacārīle 1 varṣa kāma garemā upadāna adhikāra"
+],
+"If wrong info given, disciplinary action": [
+"गलत जानकारी दिएमा अनुशासनात्मक कारबाही",
+"Galata jānakārī diemā anuśāsanātmaka kārabāhī"
+],
+"If possible, come to meet me": [
+"सम्भव भए मलाई भेट्न आउनुस्",
+"Sambhava bhae malāī bheṭna āunus"
+],
+"What does this mean?": [
+"यसको मतलब के हो?",
+"Yasako matalaba ke ho?"
+],
+"I came because you called": [
+"तिमीले बोलाएकोले म आएको हुँ",
+"Timīle bolāekole ma āeko hu~"
+],
+"Someone called Kaushik has come": [
+"कौशिक भन्ने कोही आएका छन्",
+"Kauśika bhanne kohī āekā chan"
+],
+"Someone named Kaushik has come": [
+"कौशिक नामको कोही आयो",
+"Kauśika nāmako kohī āyo"
+],
+"Why do you want it for?": [
+"तपाईं यसको लागि किन चाहनुहुन्छ?",
+"Tapāīṃ yasako lāgi kina cāhanuhuncha?"
+],
+"What is its reason?": [
+"यसको कारण के हो ?",
+"Yasako kāraṇa ke ho ?"
+],
+"You only complete this": [
+"तपाईंले मात्र यो पूरा गर्नुहोस्",
+"Tapāīṃle mātra yo pūrā garnuhos"
+],
+"It is you who told": [
+"तिमीले नै भनेको हो",
+"Timīle nai bhaneko ho"
+],
+"I want it tomorrow itself": [
+"म भोलि नै चाहन्छु",
+"Ma bholi nai cāhanchu"
+],
+"I am bored": [
+"म बोर छु",
+"Ma bora chu"
+],
+"He was bored": [
+"ऊ अल्छी लाग्यो",
+"Ū alchī lāgyo"
+],
+"Relative / Relatives": [
+"आफन्त / नातेदार",
+"Āphanta / nātedāra"
+],
+"Father's brother's wife": [
+"बुबाको दाजुकी श्रीमती",
+"Bubāko dājukī śrīmatī"
+],
+"Father's brother's son": [
+"बाबुको भाइ छोरा",
+"Bābuko bhāi chorā"
+],
+"Father's brother's daughter": [
+"बाबुको दाजुकी छोरी",
+"Bābuko dājukī chorī"
+],
+"Mother's brother's wife": [
+"आमाको भाइकी श्रीमती",
+"Āmāko bhāikī śrīmatī"
+],
+"Mother's brother's son": [
+"आमाको भाइको छोरा",
+"Āmāko bhāiko chorā"
+],
+"Mother's brother's daughter": [
+"आमाको दाजुकी छोरी",
+"Āmāko dājukī chorī"
+],
+"Father's sister's son": [
+"बाबुको बहिनीको छोरो",
+"Bābuko bahinīko choro"
+],
+"Father's sister's daughter": [
+"बुबाकी बहिनीकी छोरी",
+"Bubākī bahinīkī chorī"
+],
+"Father's sister's husband": [
+"बुबाको बहिनीको श्रीमान्",
+"Bubāko bahinīko śrīmān"
+],
+"Mother's sister's son": [
+"आमा बहिनीको छोरो",
+"Āmā bahinīko choro"
+],
+"Mother's sister's daughter": [
+"आमा बहिनीकी छोरी",
+"Āmā bahinīkī chorī"
+],
+"Mother's sister's husband": [
+"आमा बहिनीको श्रीमान्",
+"Āmā bahinīko śrīmān"
+],
+"Great grand father": [
+"महान हजुरबुबा",
+"Mahāna hajurabubā"
+],
+"Great grand mother": [
+"महान हजुरआमा",
+"Mahāna hajuraāmā"
+],
+"Son's wife / Daughter in law": [
+"छोराको श्रीमती / बुहारी",
+"Chorāko śrīmatī / buhārī"
+],
+"Daughter's husband / Son in law": [
+"छोरीको पति / ज्वाइँ",
+"Chorīko pati / jvāi~"
+],
+"Father in law": [
+"ससुरा",
+"Sasurā"
+],
+"Mother in law": [
+"सासु",
+"Sāsu"
+],
+"Father in law's father": [
+"ससुराको बुवा",
+"Sasurāko buvā"
+],
+"We": [
+"हामी",
+"Hāmī"
+],
+"You (singular)": [
+"तिमी (एकवचन)",
+"Timī (ekavacana)"
+],
+"You (plural)": [
+"तिमी (बहुवचन)",
+"Timī (bahuvacana)"
+],
+"This (m.)": [
+"यो (m.)",
+"Yo (m.)"
+],
+"This (f.)": [
+"यो (f.)",
+"Yo (f.)"
+],
+"This (n.)": [
+"यो (एन।)",
+"Yo (ena|)"
+],
+"These (m.)": [
+"यी (m.)",
+"Yī (m.)"
+],
+"These (f.)": [
+"यी (f.)",
+"Yī (f.)"
+],
+"These (n.)": [
+"यी (एन।)",
+"Yī (ena|)"
+],
+"Self": [
+"स्व",
+"Sva"
+],
+"Sing": [
+"गाउनुहोस्",
+"Gāunuhos"
+],
+"Beat": [
+"पिट्नुहोस्",
+"Piṭnuhos"
+],
+"Write": [
+"लेख्नुहोस्",
+"Lekhnuhos"
+],
+"Do": [
+"गर",
+"Gara"
+],
+"Get up": [
+"उठ्नुहोस्",
+"Uṭhnuhos"
+],
+"Stop": [
+"रोक्नुहोस्",
+"Roknuhos"
+],
+"Close": [
+"बन्द गर्नुहोस्",
+"Banda garnuhos"
+],
+"I (male)": [
+"म (पुरुष)",
+"Ma (puruṣa)"
+],
+"I (female)": [
+"म (महिला)",
+"Ma (mahilā)"
+],
+"We dance": [
+"हामी नाचौं",
+"Hāmī nācauṃ"
+],
+"He walks": [
+"ऊ हिँड्छ",
+"Ū hi~ḍcha"
+],
+"She speaks": [
+"उनी बोल्छिन्",
+"Unī bolchin"
+],
+"It moves": [
+"यो सर्छ",
+"Yo sarcha"
+],
+"They dance": [
+"नाच्छन्",
+"Nācchan"
+],
+"You (singular/plural)": [
+"तपाईं (एकवचन/बहुवचन)",
+"Tapāīṃ (ekavacana/bahuvacana)"
+],
+"They (all)": [
+"तिनीहरू (सबै)",
+"Tinīharū (sabai)"
+],
+"I (male/female)": [
+"म (पुरुष/महिला)",
+"Ma (puruṣa/mahilā)"
+],
+"He": [
+"उहाँले",
+"Uhā~le"
+],
+"She": [
+"तिनी",
+"Tinī"
+],
+"It": [
+"यो",
+"Yo"
+],
+"They (m.)": [
+"तिनीहरू (m.)",
+"Tinīharū (m.)"
+],
+"They (f.)": [
+"तिनीहरू (f।)",
+"Tinīharū (f|)"
+],
+"They (n.)": [
+"तिनीहरू (एन।)",
+"Tinīharū (ena|)"
+],
+"This (Male)": [
+"यो (पुरुष)",
+"Yo (puruṣa)"
+],
+"This (Female)": [
+"यो (महिला)",
+"Yo (mahilā)"
+],
+"This (neuter)": [
+"यो (न्युटर)",
+"Yo (nyuṭara)"
+],
+"These (male/female/neuter)": [
+"यी (पुरुष/महिला/न्युटर)",
+"Yī (puruṣa/mahilā/nyuṭara)"
+],
+"about": [
+"बारेमा",
+"Bāremā"
+],
+"across": [
+"पार",
+"Pāra"
+],
+"against": [
+"विरुद्ध",
+"Viruddha"
+],
+"Among": [
+"बीचमा",
+"Bīcamā"
+],
+"Around": [
+"वरपर",
+"Varapara"
+],
+"As/like": [
+"जस्तो/जस्तो",
+"Jasto/jasto"
+],
+"aside": [
+"अलग",
+"Alaga"
+],
+"for": [
+"को लागी",
+"Ko lāgī"
+],
+"From/since": [
+"बाट/देखि",
+"Bāṭa/dekhi"
+],
+"in": [
+"मा",
+"Mā"
+],
+"till/until": [
+"सम्म / सम्म",
+"Samma / samma"
+],
+"without": [
+"बिना",
+"Binā"
+],
+"during": [
+"समयमा",
+"Samayamā"
+],
+"Near/close to": [
+"नजिक / नजिक",
+"Najika / najika"
+],
+"towards": [
+"तर्फ",
+"Tarpha"
+],
+"with": [
+"संग",
+"Saṃga"
+],
+"Instead of": [
+"को सट्टा",
+"Ko saṭṭā"
+],
+"Prior to": [
+"अघि",
+"Aghi"
+],
+"Because of": [
+"कारणले",
+"Kāraṇale"
+],
+"According to": [
+"अनुसार",
+"Anusāra"
+],
+"Through": [
+"मार्फत",
+"Mārphata"
+],
+"You speak": [
+"तिमी बोल",
+"Timī bola"
+],
+"Read it": [
+"यसलाई पढ्नुहोस्",
+"Yasalāī paḍhnuhos"
+],
+"Do it": [
+"गर",
+"Gara"
+],
+"You go": [
+"तपाईं जानुहोस्",
+"Tapāīṃ jānuhos"
+],
+"You give": [
+"तपाई दिनुहुन्छ",
+"Tapāī dinuhuncha"
+],
+"You drink": [
+"तपाईं पिउनुहुन्छ",
+"Tapāīṃ piunuhuncha"
+],
+"Toy moved": [
+"खेलौना सारियो",
+"Khelaunā sāriyo"
+],
+"To cook": [
+"पकाउन",
+"Pakāuna"
+],
+"Rice cooked": [
+"भात पकायो",
+"Bhāta pakāyo"
+],
+"To die": [
+"मर्नु",
+"Marnu"
+],
+"To fall": [
+"झर्नु",
+"Jharnu"
+],
+"Glass broke": [
+"गिलास फुट्यो",
+"Gilāsa phuṭyo"
+],
+"To leave": [
+"छोड्न",
+"Choḍna"
+],
+"To drink": [
+"पिउन",
+"Piuna"
+],
+"To eat": [
+"खाने",
+"Khāne"
+],
+"To feed": [
+"खुवाउन",
+"Khuvāuna"
+],
+"To speak": [
+"बोल्ने",
+"Bolne"
+],
+"To run": [
+"दौडनु",
+"Dauḍanu"
+],
+"my": [
+"मेरो",
+"Mero"
+],
+"speaking": [
+"बोल्दै",
+"Boldai"
+],
+"your": [
+"तिम्रो",
+"Timro"
+],
+"his": [
+"उनको",
+"Unako"
+],
+"Ram's": [
+"रामको",
+"Rāmako"
+],
+"dance": [
+"नृत्य",
+"Nṛtya"
+],
+"About speaking": [
+"बोल्ने बारे",
+"Bolne bāre"
+],
+"For eating": [
+"खानको लागि",
+"Khānako lāgi"
+],
+"while speaking": [
+"बोल्दै गर्दा",
+"Boldai gardā"
+],
+"while doing": [
+"गर्दै गर्दा",
+"Gardai gardā"
+],
+"while dancing": [
+"नृत्य गर्दा",
+"Nṛtya gardā"
+],
+"to see": [
+"हेर्न को लागी",
+"Herna ko lāgī"
+],
+"to do": [
+"गर्न",
+"Garna"
+],
+"to dance": [
+"नृत्य गर्न",
+"Nṛtya garna"
+],
+"Black horse": [
+"कालो घोडा",
+"Kālo ghoḍā"
+],
+"Black chair": [
+"कालो कुर्सी",
+"Kālo kursī"
+],
+"Black page": [
+"कालो पाना",
+"Kālo pānā"
+],
+"Black horses": [
+"कालो घोडाहरू",
+"Kālo ghoḍāharū"
+],
+"Black chairs": [
+"कालो कुर्सीहरू",
+"Kālo kursīharū"
+],
+"Black pages": [
+"कालो पानाहरू",
+"Kālo pānāharū"
+],
+"Good horse": [
+"राम्रो घोडा",
+"Rāmro ghoḍā"
+],
+"Good chair": [
+"राम्रो कुर्सी",
+"Rāmro kursī"
+],
+"Easy exam": [
+"सजिलो परीक्षा",
+"Sajilo parīkṣā"
+],
+"Red horse": [
+"रातो घोडा",
+"Rāto ghoḍā"
+],
+"Beautiful drawing": [
+"सुन्दर रेखाचित्र",
+"Sundara rekhācitra"
+],
+"Talking boy": [
+"कुरा गर्ने केटा",
+"Kurā garne keṭā"
+],
+"Rotating fan": [
+"घुम्ने फ्यान",
+"Ghumne phyāna"
+],
+"Talking girl": [
+"कुरा गर्दै केटी",
+"Kurā gardai keṭī"
+],
+"Moving chair": [
+"चलिरहेको कुर्सी",
+"Caliraheko kursī"
+],
+"Flying saucer": [
+"उडान तश्तरी",
+"Uḍāna taśtarī"
+],
+"Talking book": [
+"कुरा गर्ने किताब",
+"Kurā garne kitāba"
+],
+"Moving tree": [
+"चलिरहेको रूख",
+"Caliraheko rūkha"
+],
+"Talked boy": [
+"बोलेको केटा",
+"Boleko keṭā"
+],
+"Rotated fan": [
+"घुमाइएको फ्यान",
+"Ghumāieko phyāna"
+],
+"Talked girl": [
+"कुरा गरेकी केटी",
+"Kurā garekī keṭī"
+],
+"Moved chair": [
+"कुर्सी सारियो",
+"Kursī sāriyo"
+],
+"Flown saucer": [
+"उडेको तश्ती",
+"Uḍeko taśtī"
+],
+"Talked book": [
+"बोलेको किताब",
+"Boleko kitāba"
+],
+"Moved tree": [
+"सारियो रूख",
+"Sāriyo rūkha"
+],
+"What happened?": [
+"के भयो?",
+"Ke bhayo?"
+],
+"More bitter": [
+"अझ तितो",
+"Ajha tito"
+],
+"Most bitter": [
+"सबैभन्दा तितो",
+"Sabaibhandā tito"
+],
+"Tall": [
+"अग्लो",
+"Aglo"
+],
+"Taller": [
+"अग्लो",
+"Aglo"
+],
+"Tallest": [
+"सबैभन्दा अग्लो",
+"Sabaibhandā aglo"
+],
+"Better": [
+"अझ राम्रो",
+"Ajha rāmro"
+],
+"Best": [
+"उत्तम",
+"Uttama"
+],
+"Let's play": [
+"खेलौं",
+"Khelauṃ"
+],
+"Let's go": [
+"जाऔं",
+"Jāauṃ"
+],
+"Let's speak": [
+"बोलौं",
+"Bolauṃ"
+],
+"Really!": [
+"साँच्चै!",
+"Sā~ccai!"
+],
+"How big!": [
+"कति ठूलो!",
+"Kati ṭhūlo!"
+],
+"Very bad": [
+"धेरै नराम्रो",
+"Dherai narāmro"
+],
+"Good handwriting": [
+"राम्रो हस्तलेखन",
+"Rāmro hastalekhana"
+],
+"Very Good": [
+"धेरै राम्रो",
+"Dherai rāmro"
+],
+"Excellent!": [
+"उत्कृष्ट!",
+"Utkṛṣṭa!"
+],
+"Speaking phone": [
+"फोन बोल्दै",
+"Phona boldai"
+],
+"Something fishy": [
+"केहि माछा",
+"Kehi māchā"
+],
+"Dampen spirit": [
+"आत्मालाई ओसिलो पार्नुहोस्",
+"Ātmālāī osilo pārnuhos"
+],
+"To threaten": [
+"धम्की दिने",
+"Dhamkī dine"
+],
+"After-effects": [
+"पछि-प्रभावहरू",
+"Pachi-prabhāvaharū"
+],
+"To override/violate": [
+"ओभरराइड / उल्लङ्घन गर्न",
+"Obhararāiḍa / ullaṅghana garna"
+],
+"To renounce": [
+"त्याग गर्ने",
+"Tyāga garne"
+],
+"To pretend": [
+"बहाना गर्ने",
+"Bahānā garne"
+],
+"To trap": [
+"जालमा पार्ने",
+"Jālamā pārne"
+],
+"To support": [
+"समर्थन गर्न",
+"Samarthana garna"
+],
+"To strike": [
+"प्रहार गर्ने",
+"Prahāra garne"
+],
+"To pardon": [
+"माफ गर्न",
+"Māpha garna"
+],
+"Cryptography means?": [
+"क्रिप्टोग्राफी भनेको हो?",
+"Kripṭogrāphī bhaneko ho?"
+],
+"Relation": [
+"सम्बन्ध",
+"Sambandha"
+],
+"Direct brother": [
+"प्रत्यक्ष दाजु",
+"Pratyakṣa dāju"
+],
+"Direct sister": [
+"प्रत्यक्ष बहिनी",
+"Pratyakṣa bahinī"
+],
+"Grand father": [
+"हजुरबुबा",
+"Hajurabubā"
+],
+"Grand mother": [
+"हजुरआमा",
+"Hajuraāmā"
+],
+"Father's brother": [
+"बुबाको भाइ",
+"Bubāko bhāi"
+],
+"Mother's brother": [
+"आमाको भाइ",
+"Āmāko bhāi"
+],
+"Father's sister": [
+"बुबाकी बहिनी",
+"Bubākī bahinī"
+],
+"Mother's sister": [
+"आमाको बहिनी",
+"Āmāko bahinī"
+],
+"Grandson's wife": [
+"नातिको श्रीमती",
+"Nātiko śrīmatī"
+],
+"Great grandson": [
+"महान नाति",
+"Mahāna nāti"
+],
+"Great granddaughter": [
+"नातिनी",
+"Nātinī"
+],
+"Husband's brother": [
+"श्रीमानको भाइ",
+"Śrīmānako bhāi"
+],
+"Husband's sister": [
+"श्रीमान्की बहिनी",
+"Śrīmānkī bahinī"
+],
+"Wife's brother": [
+"श्रीमतीको दाजु",
+"Śrīmatīko dāju"
+],
+"Wife's sister": [
+"श्रीमतीकी बहिनी",
+"Śrīmatīkī bahinī"
+],
+"Sister's husband": [
+"बहिनीको श्रीमान्",
+"Bahinīko śrīmān"
+],
+"Sister's son": [
+"बहिनीको छोरो",
+"Bahinīko choro"
+],
+"Sister's daughter": [
+"बहिनीकी छोरी",
+"Bahinīkī chorī"
+],
+"Friend (boy)": [
+"साथी (केटा)",
+"Sāthī (keṭā)"
+],
+"Friend (girl)": [
+"साथी (केटी)",
+"Sāthī (keṭī)"
+],
+"Bridegroom": [
+"दुलहा",
+"Dulahā"
+],
+"Adopted son": [
+"दत्तक छोरा",
+"Dattaka chorā"
+],
+"Adopted daughter": [
+"धर्मपुत्र छोरी",
+"Dharmaputra chorī"
+],
+"Assumed son": [
+"मानेको छोरो",
+"Māneko choro"
+],
+"Assumed daughter": [
+"मानेकी छोरी",
+"Mānekī chorī"
+],
+"To wash": [
+"धुन",
+"Dhuna"
+],
+"To brush": [
+"ब्रश गर्न",
+"Braśa garna"
+],
+"To gargle": [
+"कुल्ला गर्न",
+"Kullā garna"
+],
+"To fold": [
+"फोल्ड गर्न",
+"Pholḍa garna"
+],
+"To urinate": [
+"पिसाब गर्न",
+"Pisāba garna"
+],
+"To exercise": [
+"व्यायाम गर्न",
+"Vyāyāma garna"
+],
+"To bath": [
+"नुहाउन",
+"Nuhāuna"
+],
+"To change": [
+"परिवर्तन गर्न",
+"Parivartana garna"
+],
+"To wear": [
+"लगाउने",
+"Lagāune"
+],
+"To comb": [
+"कंघी गर्न",
+"Kaṃghī garna"
+],
+"To apply": [
+"आवेदन दिन",
+"Āvedana dina"
+],
+"To close": [
+"बन्द गर्न",
+"Banda garna"
+],
+"To sit": [
+"बस्न",
+"Basna"
+],
+"To start": [
+"सुरु गर्न",
+"Suru garna"
+],
+"To reach": [
+"पुग्न",
+"Pugna"
+],
+"To work": [
+"काम गर्न",
+"Kāma garna"
+],
+"To speak/say/talk": [
+"बोल्नु/भन्नु/बोल्नु",
+"Bolnu/bhannu/bolnu"
+],
+"To answer": [
+"जवाफ दिन",
+"Javāpha dina"
+],
+"To send": [
+"पठाउन",
+"Paṭhāuna"
+],
+"To chitchat": [
+"चिटचट गर्न",
+"Ciṭacaṭa garna"
+],
+"To buy": [
+"किन्न",
+"Kinna"
+],
+"To sell": [
+"बेच्न",
+"Becna"
+],
+"To put/keep": [
+"राख्न / राख्न",
+"Rākhna / rākhna"
+],
+"To put": [
+"राख्नु",
+"Rākhnu"
+],
+"To count": [
+"गणना गर्न",
+"Gaṇanā garna"
+],
+"To stand": [
+"उभिनु",
+"Ubhinu"
+],
+"To listen": [
+"सुन्न को लागी",
+"Sunna ko lāgī"
+],
+"To return": [
+"फिर्ता गर्न",
+"Phirtā garna"
+],
+"To open": [
+"खोल्न",
+"Kholna"
+],
+"To lift": [
+"उठाउन",
+"Uṭhāuna"
+],
+"To play": [
+"खेल्न",
+"Khelna"
+],
+"To jump": [
+"हाम फाल्ने",
+"Hāma phālne"
+],
+"To hide": [
+"लुकाउन",
+"Lukāuna"
+],
+"To search": [
+"खोज्न",
+"Khojna"
+],
+"To recite": [
+"पाठ गर्न",
+"Pāṭha garna"
+],
+"To sing": [
+"गाउन",
+"Gāuna"
+],
+"To shout": [
+"चिच्याउन",
+"Cicyāuna"
+],
+"To throw": [
+"फाल्ने",
+"Phālne"
+],
+"To hit": [
+"प्रहार गर्न",
+"Prahāra garna"
+],
+"To ask": [
+"सोध्ने",
+"Sodhne"
+],
+"To clean": [
+"सफा गर्न",
+"Saphā garna"
+],
+"To cut": [
+"काट्नु",
+"Kāṭnu"
+],
+"To break": [
+"तोड्न",
+"Toḍna"
+],
+"To burst": [
+"फुट्नु",
+"Phuṭnu"
+],
+"To write": [
+"लेख्ने",
+"Lekhne"
+],
+"Accept": [
+"स्वीकार गर्नुहोस्",
+"Svīkāra garnuhos"
+],
+"Bring": [
+"ल्याउनुहोस्",
+"Lyāunuhos"
+],
+"Complain": [
+"गुनासो",
+"Gunāso"
+],
+"Draw": [
+"कोर्नुहोस्",
+"Kornuhos"
+],
+"Fall": [
+"पतन",
+"Patana"
+],
+"Fill": [
+"भर्नुहोस्",
+"Bharnuhos"
+],
+"Start/begin": [
+"सुरु/सुरु गर्नुहोस्",
+"Suru/suru garnuhos"
+],
+"Finish": [
+"समाप्त गर्नुहोस्",
+"Samāpta garnuhos"
+],
+"Live": [
+"लाइभ",
+"Lāibha"
+],
+"See/watch/look": [
+"हेर्नुहोस्/हेर्नुहोस्/हेर्नुहोस्",
+"Hernuhos/hernuhos/hernuhos"
+],
+"Use": [
+"प्रयोग गर्नुहोस्",
+"Prayoga garnuhos"
+],
+"Teach": [
+"सिकाउनुहोस्",
+"Sikāunuhos"
+],
+"Study": [
+"अध्ययन",
+"Adhyayana"
+],
+"Read": [
+"पढ्नुहोस्",
+"Paḍhnuhos"
+],
+"Make/prepare": [
+"बनाउनुहोस्/तयारी गर्नुहोस्",
+"Banāunuhos/tayārī garnuhos"
+],
+"Fly": [
+"उड्नुहोस्",
+"Uḍnuhos"
+],
+"Get bored": [
+"बोर हुनुहोस्",
+"Bora hunuhos"
+],
+"Leave": [
+"छोड्नुहोस्",
+"Choḍnuhos"
+],
+"Want/need": [
+"चाहिन्छ / चाहिन्छ",
+"Cāhincha / cāhincha"
+],
+"Sign": [
+"साइन",
+"Sāina"
+],
+"Swim": [
+"पौडी",
+"Pauḍī"
+],
+"Try": [
+"प्रयास गर्नुहोस्",
+"Prayāsa garnuhos"
+],
+"Worry": [
+"चिन्ता",
+"Cintā"
+],
+"Achieve": [
+"हासिल गर्नुहोस्",
+"Hāsila garnuhos"
+],
+"Admit (mistake)": [
+"स्वीकार (गल्ती)",
+"Svīkāra (galtī)"
+],
+"Admit (school)": [
+"भर्ना (विद्यालय)",
+"Bharnā (vidyālaya)"
+],
+"Afford": [
+"किन्न",
+"Kinna"
+],
+"Win": [
+"जित्नुहोस्",
+"Jitnuhos"
+],
+"Lose": [
+"हार्नु",
+"Hārnu"
+],
+"Shake": [
+"हल्लाउनुहोस्",
+"Hallāunuhos"
+],
+"Decide": [
+"निर्णय गर्नुहोस्",
+"Nirṇaya garnuhos"
+],
+"Hold": [
+"होल्ड गर्नुहोस्",
+"Holḍa garnuhos"
+],
+"Choose": [
+"छान्नुहोस्",
+"Chānnuhos"
+],
+"Turn": [
+"घुमाउनुहोस्",
+"Ghumāunuhos"
+],
+"Rise": [
+"उठ्नुहोस्",
+"Uṭhnuhos"
+],
+"Set (sun,moon)": [
+"सेट (सूर्य, चन्द्रमा)",
+"Seṭa (sūrya, candramā)"
+],
+"Deny": [
+"अस्वीकार गर्नुहोस्",
+"Asvīkāra garnuhos"
+],
+"To reproach/blame": [
+"निन्दा / दोष लगाउने",
+"Nindā / doṣa lagāune"
+],
+"To color": [
+"रङ गर्न",
+"Raṅa garna"
+],
+"To destroy": [
+"नष्ट गर्ने",
+"Naṣṭa garne"
+],
+"Big": [
+"ठूलो",
+"Ṭhūlo"
+],
+"Small": [
+"सानो",
+"Sāno"
+],
+"Deep": [
+"गहिरो",
+"Gahiro"
+],
+"Shallow": [
+"उथले",
+"Uthale"
+],
+"Simple": [
+"सरल",
+"Sarala"
+],
+"Special": [
+"विशेष",
+"Viśeṣa"
+],
+"Faint": [
+"बेहोस",
+"Behosa"
+],
+"Short": [
+"छोटो",
+"Choṭo"
+],
+"Thin": [
+"पातलो",
+"Pātalo"
+],
+"Wide": [
+"चौडा",
+"Cauḍā"
+],
+"Narrow": [
+"साँघुरो",
+"Sā~ghuro"
+],
+"Curved": [
+"घुमाउरो",
+"Ghumāuro"
+],
+"Salty": [
+"नुनिलो",
+"Nunilo"
+],
+"Easy": [
+"सजिलो",
+"Sajilo"
+],
+"Dry": [
+"सुक्खा",
+"Sukkhā"
+],
+"Wet": [
+"भिजेको",
+"Bhijeko"
+],
+"Filled": [
+"भरिएको",
+"Bharieko"
+],
+"Incomplete": [
+"अपूर्ण",
+"Apūrṇa"
+],
+"Hard (surface)": [
+"कडा (सतह)",
+"Kaḍā (sataha)"
+],
+"Soft": [
+"नरम",
+"Narama"
+],
+"Heavy": [
+"भारी",
+"Bhārī"
+],
+"Light (weight)": [
+"हल्का (तौल)",
+"Halkā (taula)"
+],
+"New": [
+"नयाँ",
+"Nayā~"
+],
+"Old": [
+"पुरानो",
+"Purāno"
+],
+"Slow": [
+"ढिलो",
+"Ḍhilo"
+],
+"Fast": [
+"छिटो",
+"Chiṭo"
+],
+"Young": [
+"युवा",
+"Yuvā"
+],
+"Unhappy": [
+"दुखी",
+"Dukhī"
+],
+"Gloomy": [
+"उदास",
+"Udāsa"
+],
+"Carefully": [
+"सावधानीपूर्वक",
+"Sāvadhānīpūrvaka"
+],
+"Slowly": [
+"बिस्तारै",
+"Bistārai"
+],
+"Quickly": [
+"छिटो",
+"Chiṭo"
+],
+"A bit": [
+"अलिकति",
+"Alikati"
+],
+"A lot": [
+"धेरै",
+"Dherai"
+],
+"Aback": [
+"अचम्म",
+"Acamma"
+],
+"Accordingly": [
+"तदनुसार",
+"Tadanusāra"
+],
+"Accurately": [
+"सहि",
+"Sahi"
+],
+"Actively": [
+"सक्रिय रूपमा",
+"Sakriya rūpamā"
+],
+"Afresh": [
+"नयाँ",
+"Nayā~"
+],
+"Ago": [
+"पहिले",
+"Pahile"
+],
+"Agreeably": [
+"सहमत",
+"Sahamata"
+],
+"Altogether": [
+"कुल मिलाएर",
+"Kula milāera"
+],
+"Any": [
+"कुनै पनि",
+"Kunai pani"
+],
+"Away": [
+"टाढा",
+"Ṭāḍhā"
 ]
 }
