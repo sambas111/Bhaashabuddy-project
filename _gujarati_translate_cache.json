@@ -5614,5 +5614,4005 @@
 "Really": [
 "ખરેખર",
 "Kharekhara"
+],
+"We (listener including)": [
+"અમે (શ્રાવક સહિત)",
+"Ame (śrāvaka sahita)"
+],
+"He / That (m.)": [
+"તે / તે (એમ.)",
+"Te / te (ema.)"
+],
+"She / That (f.)": [
+"તેણી / તે (એફ.)",
+"Teṇī / te (epha.)"
+],
+"It / That (n.)": [
+"તે / તે (એન.)",
+"Te / te (ena.)"
+],
+"They (Plural of He) / Those (m.)": [
+"તેઓ (તેનું બહુવચન) / તે (એમ.)",
+"Teo (tenuṃ bahuvacana) / te (ema.)"
+],
+"They (Plural of She) / Those (f.)": [
+"તેઓ (તેણીનું બહુવચન) / તે (એફ.)",
+"Teo (teṇīnuṃ bahuvacana) / te (epha.)"
+],
+"They (Plural of it) / Those (n.)": [
+"તેઓ (તેનું બહુવચન) / તે (એન.)",
+"Teo (tenuṃ bahuvacana) / te (ena.)"
+],
+"We went to the party (listener not included)": [
+"અમે પાર્ટીમાં ગયા (શ્રાવક સામેલ નથી)",
+"Ame pārṭīmāṃ gayā (śrāvaka sāmela nathī)"
+],
+"We went to the party (listener included)": [
+"અમે પાર્ટીમાં ગયા (શ્રોતા સામેલ)",
+"Ame pārṭīmāṃ gayā (śrotā sāmela)"
+],
+"This is a horse": [
+"આ ઘોડો છે",
+"Ā ghoḍo che"
+],
+"This is an ant": [
+"આ એક કીડી છે",
+"Ā eka kīḍī che"
+],
+"You (singular male)": [
+"તમે (એકવચન પુરુષ)",
+"Tame (ekavacana puruṣa)"
+],
+"You (singular female)": [
+"તમે (એકવચન સ્ત્રી)",
+"Tame (ekavacana strī)"
+],
+"He / That (male) / This (male)": [
+"તે / તે (પુરુષ) / આ (પુરુષ)",
+"Te / te (puruṣa) / ā (puruṣa)"
+],
+"She / That (female) / This (female)": [
+"તેણી / તે (સ્ત્રી) / આ (સ્ત્રી)",
+"Teṇī / te (strī) / ā (strī)"
+],
+"It / That (neuter) / This (neuter)": [
+"તે / તે (ન્યુટર) / આ (ન્યુટર)",
+"Te / te (nyuṭara) / ā (nyuṭara)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"તેઓ (એમ.) / તે (એમ.) / આ (એમ.)",
+"Teo (ema.) / te (ema.) / ā (ema.)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"તેઓ (f.) / તે (f.) / આ (f.)",
+"Teo (f.) / te (f.) / ā (f.)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"તેઓ (એન.) / તે (એન.) / આ (એન.)",
+"Teo (ena.) / te (ena.) / ā (ena.)"
+],
+"I (male) do": [
+"હું (પુરુષ) કરું છું",
+"Huṃ (puruṣa) karuṃ chuṃ"
+],
+"I (female) do": [
+"હું (સ્ત્રી) કરું છું",
+"Huṃ (strī) karuṃ chuṃ"
+],
+"You (male) cry": [
+"તમે (પુરુષ) રડશો",
+"Tame (puruṣa) raḍaśo"
+],
+"You (female) cry": [
+"તમે (સ્ત્રી) રડો છો",
+"Tame (strī) raḍo cho"
+],
+"You (plural) walk": [
+"તમે (બહુવચન) ચાલો",
+"Tame (bahuvacana) cālo"
+],
+"I shall be doing.": [
+"હું કરતો રહીશ.",
+"Huṃ karato rahīśa."
+],
+"We will be dancing.": [
+"અમે નૃત્ય કરીશું.",
+"Ame nṛtya karīśuṃ."
+],
+"You will be crying.": [
+"તમે રડતા હશો.",
+"Tame raḍatā haśo."
+],
+"You (pl.) will be walking.": [
+"તમે (પ્લો.) ચાલતા હશો.",
+"Tame (plo.) cālatā haśo."
+],
+"He will be walking.": [
+"તે ચાલતો હશે.",
+"Te cālato haśe."
+],
+"She will be speaking.": [
+"તેણી બોલતી હશે.",
+"Teṇī bolatī haśe."
+],
+"It will be moving.": [
+"તે ફરતું હશે.",
+"Te pharatuṃ haśe."
+],
+"They will be dancing.": [
+"તેઓ ડાન્સ કરતા હશે.",
+"Teo ḍānsa karatā haśe."
+],
+"He / That (m.) / This (m.)": [
+"તે / તે (એમ.) / આ (એમ.)",
+"Te / te (ema.) / ā (ema.)"
+],
+"She / That (f.) / This (f.)": [
+"તેણી / તે (એફ.) / આ (એફ.)",
+"Teṇī / te (epha.) / ā (epha.)"
+],
+"It / That (n.) / This (n.)": [
+"તે / તે (એન.) / આ (એન.)",
+"Te / te (ena.) / ā (ena.)"
+],
+"I (male) / I (female)": [
+"હું (પુરુષ) / હું (સ્ત્રી)",
+"Huṃ (puruṣa) / huṃ (strī)"
+],
+"I (male) was doing.": [
+"હું (પુરુષ) કરતો હતો.",
+"Huṃ (puruṣa) karato hato."
+],
+"I (female) was doing.": [
+"હું (સ્ત્રી) કરતી હતી.",
+"Huṃ (strī) karatī hatī."
+],
+"We were dancing.": [
+"અમે નાચતા હતા.",
+"Ame nācatā hatā."
+],
+"You (male) were crying.": [
+"તમે (પુરુષ) રડતા હતા.",
+"Tame (puruṣa) raḍatā hatā."
+],
+"You (female) were crying.": [
+"તમે (સ્ત્રી) રડતા હતા.",
+"Tame (strī) raḍatā hatā."
+],
+"You (Plural) were walking": [
+"તમે (બહુવચન) ચાલતા હતા",
+"Tame (bahuvacana) cālatā hatā"
+],
+"He was walking.": [
+"તે ચાલતો હતો.",
+"Te cālato hato."
+],
+"She was speaking.": [
+"તે બોલી રહી હતી.",
+"Te bolī rahī hatī."
+],
+"It was moving.": [
+"તે ફરતો હતો.",
+"Te pharato hato."
+],
+"They(m.) were dancing.": [
+"તેઓ (એમ.) નૃત્ય કરી રહ્યા હતા.",
+"Teo (ema.) nṛtya karī rahyā hatā."
+],
+"They(f.) were dancing.": [
+"તેઓ (f.) નૃત્ય કરી રહ્યા હતા.",
+"Teo (f.) nṛtya karī rahyā hatā."
+],
+"They(n.) were dancing.": [
+"તેઓ (n.) નૃત્ય કરી રહ્યા હતા.",
+"Teo (n.) nṛtya karī rahyā hatā."
+],
+"She has opened door": [
+"તેણીએ દરવાજો ખોલ્યો છે",
+"Teṇīe daravājo kholyo che"
+],
+"She had opened door": [
+"તેણીએ દરવાજો ખોલ્યો હતો",
+"Teṇīe daravājo kholyo hato"
+],
+"She will have opened door": [
+"તેણીએ દરવાજો ખોલ્યો હશે",
+"Teṇīe daravājo kholyo haśe"
+],
+"You (female) have danced": [
+"તમે (સ્ત્રી) ડાન્સ કર્યો છે",
+"Tame (strī) ḍānsa karyo che"
+],
+"You (female) had danced": [
+"તમે (સ્ત્રી) ડાન્સ કર્યો હતો",
+"Tame (strī) ḍānsa karyo hato"
+],
+"You (female) will have danced": [
+"તમે (સ્ત્રી) ડાન્સ કર્યો હશે",
+"Tame (strī) ḍānsa karyo haśe"
+],
+"You (plural) have danced": [
+"તમે (બહુવચન) નૃત્ય કર્યું છે",
+"Tame (bahuvacana) nṛtya karyuṃ che"
+],
+"You (plural) had danced": [
+"તમે (બહુવચન) નૃત્ય કર્યું હતું",
+"Tame (bahuvacana) nṛtya karyuṃ hatuṃ"
+],
+"You (plural) will have danced": [
+"તમે (બહુવચન) નૃત્ય કર્યું હશે",
+"Tame (bahuvacana) nṛtya karyuṃ haśe"
+],
+"On behalf of": [
+"વતી",
+"Vatī"
+],
+"In front of": [
+"સામે",
+"Sāme"
+],
+"He / That (male)": [
+"તે / તે (પુરુષ)",
+"Te / te (puruṣa)"
+],
+"She / That (female)": [
+"તેણી / તે (સ્ત્રી)",
+"Teṇī / te (strī)"
+],
+"It / That (neuter)": [
+"તે / તે (ન્યુટર)",
+"Te / te (nyuṭara)"
+],
+"They (m.) / Those (m.)": [
+"તેઓ (એમ.) / તે (એમ.)",
+"Teo (ema.) / te (ema.)"
+],
+"They (f.) / Those (f.)": [
+"તેઓ (f.) / તે (f.)",
+"Teo (f.) / te (f.)"
+],
+"They (n.) / Those (n.)": [
+"તેઓ (એન.) / તે (એન.)",
+"Teo (ena.) / te (ena.)"
+],
+"I do not speak": [
+"હું બોલતો નથી",
+"Huṃ bolato nathī"
+],
+"He does not walk": [
+"તે ચાલતો નથી",
+"Te cālato nathī"
+],
+"You do not eat": [
+"તમે ખાતા નથી",
+"Tame khātā nathī"
+],
+"They do not dance": [
+"તેઓ નૃત્ય કરતા નથી",
+"Teo nṛtya karatā nathī"
+],
+"I am not speaking": [
+"હું બોલતો નથી",
+"Huṃ bolato nathī"
+],
+"He is not walking": [
+"તે ચાલતો નથી",
+"Te cālato nathī"
+],
+"She is not speaking": [
+"તેણી બોલતી નથી",
+"Teṇī bolatī nathī"
+],
+"It is not moving": [
+"તે હલતું નથી",
+"Te halatuṃ nathī"
+],
+"They are not dancing": [
+"તેઓ નૃત્ય કરતા નથી",
+"Teo nṛtya karatā nathī"
+],
+"You are not dancing": [
+"તમે નાચતા નથી",
+"Tame nācatā nathī"
+],
+"I have not opened the box": [
+"મેં બોક્સ ખોલ્યું નથી",
+"Meṃ boksa kholyuṃ nathī"
+],
+"I have not spoken": [
+"હું બોલ્યો નથી",
+"Huṃ bolyo nathī"
+],
+"He has not eaten the mango": [
+"તેણે કેરી ખાધી નથી",
+"Teṇe kerī khādhī nathī"
+],
+"You do not speak": [
+"તમે બોલતા નથી",
+"Tame bolatā nathī"
+],
+"Do not read it": [
+"તે વાંચશો નહીં",
+"Te vāṃcaśo nahīṃ"
+],
+"Do not do it": [
+"તે ન કરો",
+"Te na karo"
+],
+"You do not go": [
+"તમે ન જાવ",
+"Tame na jāva"
+],
+"I moved toy": [
+"મેં રમકડું ખસેડ્યું",
+"Meṃ ramakaḍuṃ khaseḍyuṃ"
+],
+"To cause to cook": [
+"રાંધવા માટે કારણ",
+"Rāṃdhavā māṭe kāraṇa"
+],
+"I cooked rice": [
+"મેં ચોખા રાંધ્યા",
+"Meṃ cokhā rāṃdhyā"
+],
+"To cause to die / To kill": [
+"મૃત્યુનું કારણ / મારવા માટે",
+"Mṛtyunuṃ kāraṇa / māravā māṭe"
+],
+"To cause to fall": [
+"પડવા માટેનું કારણ બને છે",
+"Paḍavā māṭenuṃ kāraṇa bane che"
+],
+"To break (intransitive)": [
+"તોડવું (અક્રિય)",
+"Toḍavuṃ (akriya)"
+],
+"To cause to break": [
+"તોડવા માટે કારણ",
+"Toḍavā māṭe kāraṇa"
+],
+"I broke glass": [
+"મેં કાચ તોડી નાખ્યો",
+"Meṃ kāca toḍī nākhyo"
+],
+"To cause to leave": [
+"છોડવા માટેનું કારણ બને છે",
+"Choḍavā māṭenuṃ kāraṇa bane che"
+],
+"To cause to drink / To feed liquid": [
+"પ્રવાહી પીવું / ખવડાવવું",
+"Pravāhī pīvuṃ / khavaḍāvavuṃ"
+],
+"To call (not cause to speak)": [
+"કૉલ કરવો (બોલવાનું કારણ નથી)",
+"Kaૉla karavo (bolavānuṃ kāraṇa nathī)"
+],
+"To keep animal (not cause to run)": [
+"પ્રાણી રાખવા માટે (દોડવાનું કારણ નથી)",
+"Prāṇī rākhavā māṭe (doḍavānuṃ kāraṇa nathī)"
+],
+"I had spoken": [
+"હું બોલ્યો હતો",
+"Huṃ bolyo hato"
+],
+"You (male) had danced": [
+"તમે (પુરુષ) ડાન્સ કર્યો હતો",
+"Tame (puruṣa) ḍānsa karyo hato"
+],
+"He had laughed": [
+"તે હસી પડ્યો હતો",
+"Te hasī paḍyo hato"
+],
+"Those boys had laughed": [
+"એ છોકરાઓ હસી પડ્યા",
+"E chokarāo hasī paḍyā"
+],
+"I had opened door": [
+"મેં દરવાજો ખોલ્યો હતો",
+"Meṃ daravājo kholyo hato"
+],
+"I had opened window": [
+"મેં બારી ખોલી હતી",
+"Meṃ bārī kholī hatī"
+],
+"She had eaten mango": [
+"તેણીએ કેરી ખાધી હતી",
+"Teṇīe kerī khādhī hatī"
+],
+"Those girls had picked keys": [
+"તે છોકરીઓએ ચાવી લીધી હતી",
+"Te chokarīoe cāvī līdhī hatī"
+],
+"I have spoken": [
+"હું બોલ્યો છું",
+"Huṃ bolyo chuṃ"
+],
+"I will have spoken": [
+"હું બોલ્યો હશે",
+"Huṃ bolyo haśe"
+],
+"He had been saying": [
+"તે કહેતો હતો",
+"Te kaheto hato"
+],
+"He has been saying": [
+"તે કહેતો આવ્યો છે",
+"Te kaheto āvyo che"
+],
+"He will have been saying": [
+"તે કહેતો હશે",
+"Te kaheto haśe"
+],
+"I have been saying": [
+"હું કહેતો આવ્યો છું",
+"Huṃ kaheto āvyo chuṃ"
+],
+"She has been saying": [
+"તેણી કહેતી રહી છે",
+"Teṇī kahetī rahī che"
+],
+"They have been dancing": [
+"તેઓ ડાન્સ કરતા રહ્યા છે",
+"Teo ḍānsa karatā rahyā che"
+],
+"You have been eating mango": [
+"તમે કેરી ખાતા રહ્યા છો",
+"Tame kerī khātā rahyā cho"
+],
+"I have been working there for 3 years": [
+"હું ત્યાં 3 વર્ષથી કામ કરું છું",
+"Huṃ tyāṃ 3 varṣathī kāma karuṃ chuṃ"
+],
+"I had been saying": [
+"હું કહેતો હતો",
+"Huṃ kaheto hato"
+],
+"She had been saying": [
+"તેણી કહેતી હતી",
+"Teṇī kahetī hatī"
+],
+"They had been dancing": [
+"તેઓ ડાન્સ કરતા હતા",
+"Teo ḍānsa karatā hatā"
+],
+"You had been eating mango": [
+"તમે કેરી ખાતા હતા",
+"Tame kerī khātā hatā"
+],
+"She will have been saying": [
+"તેણી કહેતી હશે",
+"Teṇī kahetī haśe"
+],
+"They will have been dancing": [
+"તેઓ ડાન્સ કરતા હશે",
+"Teo ḍānsa karatā haśe"
+],
+"You will have been eating mango": [
+"તમે કેરી ખાતા હશો",
+"Tame kerī khātā haśo"
+],
+"I will have been working there for 3 years": [
+"હું ત્યાં 3 વર્ષથી કામ કરીશ",
+"Huṃ tyāṃ 3 varṣathī kāma karīśa"
+],
+"They are going to come": [
+"તેઓ આવવાના છે",
+"Teo āvavānā che"
+],
+"I am going to speak": [
+"હું બોલવા જાઉં છું",
+"Huṃ bolavā jāuṃ chuṃ"
+],
+"She is going to open door": [
+"તેણી દરવાજો ખોલવા જઈ રહી છે",
+"Teṇī daravājo kholavā jaī rahī che"
+],
+"You are going to dance": [
+"તમે નૃત્ય કરવા જઈ રહ્યા છો",
+"Tame nṛtya karavā jaī rahyā cho"
+],
+"Are they going to come?": [
+"શું તેઓ આવવાના છે?",
+"Śuṃ teo āvavānā che?"
+],
+"Am I going to speak?": [
+"શું હું બોલવા જઈશ?",
+"Śuṃ huṃ bolavā jaīśa?"
+],
+"Is she going to open door?": [
+"શું તે દરવાજો ખોલવા જઈ રહી છે?",
+"Śuṃ te daravājo kholavā jaī rahī che?"
+],
+"Are you going to dance?": [
+"શું તમે ડાન્સ કરવા જઈ રહ્યા છો?",
+"Śuṃ tame ḍānsa karavā jaī rahyā cho?"
+],
+"She / That (f.)/ This (f.)": [
+"તેણી / તે (f.)/ આ (f.)",
+"Teṇī / te (f.)/ ā (f.)"
+],
+"It / That(n.) / This (n.)": [
+"તે / તે (એન.) / આ (એન.)",
+"Te / te (ena.) / ā (ena.)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"તેઓ (તેનું બહુવચન) / તે (એમ.) / આ (એમ.)",
+"Teo (tenuṃ bahuvacana) / te (ema.) / ā (ema.)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"તેઓ (તેણીનું બહુવચન) / તે (એફ.) / આ (એફ.)",
+"Teo (teṇīnuṃ bahuvacana) / te (epha.) / ā (epha.)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"તેઓ (તેનું બહુવચન) / તે (એન.) / આ (એન.)",
+"Teo (tenuṃ bahuvacana) / te (ena.) / ā (ena.)"
+],
+"I used to do": [
+"હું કરતો હતો",
+"Huṃ karato hato"
+],
+"She used to speak": [
+"તે બોલતી હતી",
+"Te bolatī hatī"
+],
+"He used to dance": [
+"તે ડાન્સ કરતો હતો",
+"Te ḍānsa karato hato"
+],
+"They (plural of he) used to eat mangos": [
+"તેઓ (તેનું બહુવચન) કેરી ખાતા હતા",
+"Teo (tenuṃ bahuvacana) kerī khātā hatā"
+],
+"They (plural of she) used to play cricket": [
+"તેઓ (તેનું બહુવચન) ક્રિકેટ રમતા હતા",
+"Teo (tenuṃ bahuvacana) krikeṭa ramatā hatā"
+],
+"He used to be there": [
+"તે ત્યાં રહેતો",
+"Te tyāṃ raheto"
+],
+"She used to be quiet": [
+"તેણી શાંત રહેતી હતી",
+"Teṇī śāṃta rahetī hatī"
+],
+"I did not use to do": [
+"હું કરવા માટે ઉપયોગ કર્યો ન હતો",
+"Huṃ karavā māṭe upayoga karyo na hato"
+],
+"She did not use to speak": [
+"તેણી બોલવા માટે ઉપયોગ કરતી ન હતી",
+"Teṇī bolavā māṭe upayoga karatī na hatī"
+],
+"You did not use to dance": [
+"તમે નૃત્ય કરવા માટે ઉપયોગ કર્યો ન હતો",
+"Tame nṛtya karavā māṭe upayoga karyo na hato"
+],
+"They (plural of he) did not use to eat mangos": [
+"તેઓ (તેનું બહુવચન) કેરી ખાવા માટે ઉપયોગ કરતા ન હતા",
+"Teo (tenuṃ bahuvacana) kerī khāvā māṭe upayoga karatā na hatā"
+],
+"She did not use to be quiet": [
+"તેણીએ શાંત રહેવાનો ઉપયોગ કર્યો ન હતો",
+"Teṇīe śāṃta rahevāno upayoga karyo na hato"
+],
+"He did not use to be there": [
+"તેણે ત્યાં રહેવાનો ઉપયોગ કર્યો ન હતો",
+"Teṇe tyāṃ rahevāno upayoga karyo na hato"
+],
+"He is used to dance": [
+"તે નૃત્ય કરવા માટે વપરાય છે",
+"Te nṛtya karavā māṭe vaparāya che"
+],
+"She is used to speak": [
+"તેણી બોલવા માટે વપરાય છે",
+"Teṇī bolavā māṭe vaparāya che"
+],
+"Those girls are used to laugh": [
+"તે છોકરીઓ હસવા માટે વપરાય છે",
+"Te chokarīo hasavā māṭe vaparāya che"
+],
+"I am used to be there": [
+"મને ત્યાં રહેવાની આદત છે",
+"Mane tyāṃ rahevānī ādata che"
+],
+"She is used to be quiet": [
+"તેણી શાંત રહેવા માટે વપરાય છે",
+"Teṇī śāṃta rahevā māṭe vaparāya che"
+],
+"He is not used to dance": [
+"તેને ડાન્સ કરવાની આદત નથી",
+"Tene ḍānsa karavānī ādata nathī"
+],
+"She is not used to speak": [
+"તેણીને બોલવાની આદત નથી",
+"Teṇīne bolavānī ādata nathī"
+],
+"I used to eat mango": [
+"હું કેરી ખાતો હતો",
+"Huṃ kerī khāto hato"
+],
+"Kaushik used to eat mango": [
+"કૌશિક કેરી ખાતા",
+"Kauśika kerī khātā"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"કૌશિક, ગુરુ, સુંદર રોજ મળતા",
+"Kauśika, guru, suṃdara roja maḻatā"
+],
+"My friends and I used to play cricket": [
+"હું અને મારા મિત્રો ક્રિકેટ રમતા હતા",
+"Huṃ ane mārā mitro krikeṭa ramatā hatā"
+],
+"I used to see": [
+"હું જોતો હતો",
+"Huṃ joto hato"
+],
+"Kaushik used to see": [
+"કૌશિક જોતો હતો",
+"Kauśika joto hato"
+],
+"Kaushik used to do": [
+"કૌશિક કરતો હતો",
+"Kauśika karato hato"
+],
+"He opened the door": [
+"તેણે દરવાજો ખોલ્યો",
+"Teṇe daravājo kholyo"
+],
+"If he had opened the door then": [
+"ત્યારે તેણે દરવાજો ખોલ્યો હોત તો",
+"Tyāre teṇe daravājo kholyo hota to"
+],
+"He had spoken": [
+"તે બોલ્યો હતો",
+"Te bolyo hato"
+],
+"If he had spoken": [
+"જો તે બોલ્યો હોત",
+"Jo te bolyo hota"
+],
+"If you had spoken then she would have spoken": [
+"જો તમે બોલ્યા હોત તો તે બોલ્યો હોત",
+"Jo tame bolyā hota to te bolyo hota"
+],
+"If he had cried then they would have ran": [
+"જો તે રડ્યો હોત તો તેઓ દોડ્યા હોત",
+"Jo te raḍyo hota to teo doḍyā hota"
+],
+"If you go I will cry": [
+"તમે જશો તો હું રડીશ",
+"Tame jaśo to huṃ raḍīśa"
+],
+"If he sings she will dance": [
+"જો તે ગાય છે તો તે નૃત્ય કરશે",
+"Jo te gāya che to te nṛtya karaśe"
+],
+"reason of coming": [
+"આવવાનું કારણ",
+"Āvavānuṃ kāraṇa"
+],
+"She spoke after my dancing": [
+"મારા ડાન્સ પછી તે બોલી",
+"Mārā ḍānsa pachī te bolī"
+],
+"after I danced": [
+"હું ડાન્સ કર્યા પછી",
+"Huṃ ḍānsa karyā pachī"
+],
+"She spoke after I danced": [
+"હું ડાન્સ કર્યા પછી તે બોલ્યો",
+"Huṃ ḍānsa karyā pachī te bolyo"
+],
+"He cried after she went": [
+"તેણી ગયા પછી તે રડ્યો",
+"Teṇī gayā pachī te raḍyo"
+],
+"He told about his coming to school": [
+"તેણે તેના શાળામાં આવવા વિશે જણાવ્યું",
+"Teṇe tenā śāḻāmāṃ āvavā viśe jaṇāvyuṃ"
+],
+"He told me that he is coming": [
+"તેણે મને કહ્યું કે તે આવી રહ્યો છે",
+"Teṇe mane kahyuṃ ke te āvī rahyo che"
+],
+"He told me that he is going to come": [
+"તેણે મને કહ્યું કે તે આવવાનો છે",
+"Teṇe mane kahyuṃ ke te āvavāno che"
+],
+"I don't remember she having said something": [
+"મને યાદ નથી કે તેણીએ કંઈક કહ્યું હતું",
+"Mane yāda nathī ke teṇīe kaṃīka kahyuṃ hatuṃ"
+],
+"I don't remember she having eaten mango": [
+"મને યાદ નથી કે તેણીએ કેરી ખાધી હોય",
+"Mane yāda nathī ke teṇīe kerī khādhī hoya"
+],
+"while I speak": [
+"જ્યારે હું બોલું છું",
+"Jyāre huṃ boluṃ chuṃ"
+],
+"while I do": [
+"જ્યારે હું કરું છું",
+"Jyāre huṃ karuṃ chuṃ"
+],
+"while I dance": [
+"જ્યારે હું નૃત્ય કરું છું",
+"Jyāre huṃ nṛtya karuṃ chuṃ"
+],
+"Come to see this photo": [
+"આ ફોટો જોવા આવો",
+"Ā phoṭo jovā āvo"
+],
+"Come to eat with me": [
+"મારી સાથે જમવા આવ",
+"Mārī sāthe jamavā āva"
+],
+"Smoking is prohibited": [
+"ધૂમ્રપાન પર પ્રતિબંધ છે",
+"Dhūmrapāna para pratibaṃdha che"
+],
+"Court asked to be present tomorrow": [
+"કોર્ટે આવતીકાલે હાજર રહેવા જણાવ્યું હતું",
+"Korṭe āvatīkāle hājara rahevā jaṇāvyuṃ hatuṃ"
+],
+"Sit and watch": [
+"બેસો અને જુઓ",
+"Beso ane juo"
+],
+"come and go": [
+"આવો અને જાઓ",
+"Āvo ane jāo"
+],
+"He came and saw it": [
+"તેણે આવીને જોયું",
+"Teṇe āvīne joyuṃ"
+],
+"They will go and check it": [
+"તેઓ જઈને તપાસ કરશે",
+"Teo jaīne tapāsa karaśe"
+],
+"smile and say": [
+"સ્મિત કરો અને કહો",
+"Smita karo ane kaho"
+],
+"till I speak": [
+"હું બોલું ત્યાં સુધી",
+"Huṃ boluṃ tyāṃ sudhī"
+],
+"until she smiles": [
+"જ્યાં સુધી તેણી સ્મિત ન કરે",
+"Jyāṃ sudhī teṇī smita na kare"
+],
+"till he goes": [
+"તે જાય ત્યાં સુધી",
+"Te jāya tyāṃ sudhī"
+],
+"until we come": [
+"અમે આવીએ ત્યાં સુધી",
+"Ame āvīe tyāṃ sudhī"
+],
+"For good horse": [
+"સારા ઘોડા માટે",
+"Sārā ghoḍā māṭe"
+],
+"For good chair": [
+"સારી ખુરશી માટે",
+"Sārī khuraśī māṭe"
+],
+"After easy exam": [
+"સરળ પરીક્ષા પછી",
+"Saraḻa parīkṣā pachī"
+],
+"For red horse": [
+"લાલ ઘોડા માટે",
+"Lāla ghoḍā māṭe"
+],
+"About beautiful drawing": [
+"સુંદર ચિત્ર વિશે",
+"Suṃdara citra viśe"
+],
+"I can eat": [
+"હું ખાઈ શકું છું",
+"Huṃ khāī śakuṃ chuṃ"
+],
+"He can sing": [
+"તે ગાઈ શકે છે",
+"Te gāī śake che"
+],
+"You(plural) could eat mango": [
+"તમે (બહુવચન) કેરી ખાઈ શકો છો",
+"Tame (bahuvacana) kerī khāī śako cho"
+],
+"You(plural) could eat chutney": [
+"તમે (બહુવચન) ચટણી ખાઈ શકો છો",
+"Tame (bahuvacana) caṭaṇī khāī śako cho"
+],
+"She could dance": [
+"તે નૃત્ય કરી શકતી હતી",
+"Te nṛtya karī śakatī hatī"
+],
+"They (plural of she) will be able to move": [
+"તેઓ (તેણીનું બહુવચન) ખસેડવામાં સક્ષમ હશે",
+"Teo (teṇīnuṃ bahuvacana) khaseḍavāmāṃ sakṣama haśe"
+],
+"I can not eat": [
+"હું ખાઈ શકતો નથી",
+"Huṃ khāī śakato nathī"
+],
+"He can not sing": [
+"તે ગાઈ શકતો નથી",
+"Te gāī śakato nathī"
+],
+"She could not dance": [
+"તે ડાન્સ કરી શકતી ન હતી",
+"Te ḍānsa karī śakatī na hatī"
+],
+"You(plural) could not eat mango": [
+"તમે (બહુવચન) કેરી ખાઈ શકતા નથી",
+"Tame (bahuvacana) kerī khāī śakatā nathī"
+],
+"You(plural) could not eat chutney": [
+"તમે (બહુવચન) ચટણી ખાઈ શકતા નથી",
+"Tame (bahuvacana) caṭaṇī khāī śakatā nathī"
+],
+"They will not be able to move": [
+"તેઓ ખસેડી શકશે નહીં",
+"Teo khaseḍī śakaśe nahīṃ"
+],
+"I can play cricket": [
+"હું ક્રિકેટ રમી શકું છું",
+"Huṃ krikeṭa ramī śakuṃ chuṃ"
+],
+"I could play cricket": [
+"હું ક્રિકેટ રમી શકતો હતો",
+"Huṃ krikeṭa ramī śakato hato"
+],
+"I will be able to play cricket": [
+"હું ક્રિકેટ રમી શકીશ",
+"Huṃ krikeṭa ramī śakīśa"
+],
+"He can eat mangoes": [
+"તે કેરી ખાઈ શકે છે",
+"Te kerī khāī śake che"
+],
+"He could eat mangoes": [
+"તે કેરી ખાઈ શકતો",
+"Te kerī khāī śakato"
+],
+"He will be able to eat mangoes": [
+"તે કેરી ખાઈ શકશે",
+"Te kerī khāī śakaśe"
+],
+"They could open box": [
+"તેઓ બોક્સ ખોલી શકે છે",
+"Teo boksa kholī śake che"
+],
+"They could open bag": [
+"તેઓ બેગ ખોલી શકે છે",
+"Teo bega kholī śake che"
+],
+"They could speak": [
+"તેઓ બોલી શકતા હતા",
+"Teo bolī śakatā hatā"
+],
+"They gathered to speak": [
+"તેઓ બોલવા માટે ભેગા થયા",
+"Teo bolavā māṭe bhegā thayā"
+],
+"I want mango": [
+"મારે કેરી જોઈએ છે",
+"Māre kerī joīe che"
+],
+"He wants mango": [
+"તેને કેરી જોઈએ છે",
+"Tene kerī joīe che"
+],
+"She wants mango": [
+"તેણીને કેરી જોઈએ છે",
+"Teṇīne kerī joīe che"
+],
+"I/He/She want mangoes": [
+"મને/તે/તેણીને કેરી જોઈએ છે",
+"Mane/te/teṇīne kerī joīe che"
+],
+"He/She/They want chalk": [
+"તે/તેણી/તેઓને ચાક જોઈએ છે",
+"Te/teṇī/teone cāka joīe che"
+],
+"He/She/They want chalks": [
+"તેને/તેણી/તેમને ચાક જોઈએ છે",
+"Tene/teṇī/temane cāka joīe che"
+],
+"He/She/They want bag": [
+"તેને/તેણી/તેમને બેગ જોઈએ છે",
+"Tene/teṇī/temane bega joīe che"
+],
+"He/She/They want bags": [
+"તેને/તેણી/તેમને બેગ જોઈએ છે",
+"Tene/teṇī/temane bega joīe che"
+],
+"He/She/They want page": [
+"તે/તેણી/તેમને પૃષ્ઠ જોઈએ છે",
+"Te/teṇī/temane pṛṣṭha joīe che"
+],
+"He/She/They want pages": [
+"તેને/તેણી/તેમને પૃષ્ઠ જોઈએ છે",
+"Tene/teṇī/temane pṛṣṭha joīe che"
+],
+"He/She/They wanted chalk": [
+"તે/તેણી/તેઓ ચાક ઇચ્છતા હતા",
+"Te/teṇī/teo cāka icchatā hatā"
+],
+"He/She/They wanted chalks": [
+"તે/તેણી/તેઓને ચાક જોઈતી હતી",
+"Te/teṇī/teone cāka joītī hatī"
+],
+"He/She/They wanted bag": [
+"તેને/તેણી/તેમને બેગ જોઈતી હતી",
+"Tene/teṇī/temane bega joītī hatī"
+],
+"He/She/They wanted bags": [
+"તેને/તેણી/તેમને બેગ જોઈતી હતી",
+"Tene/teṇī/temane bega joītī hatī"
+],
+"He/She/They wanted page": [
+"તે/તેણી/તેઓ પૃષ્ઠ ઇચ્છતા હતા",
+"Te/teṇī/teo pṛṣṭha icchatā hatā"
+],
+"He/She/They wanted pages": [
+"તે/તેણી/તેઓ પૃષ્ઠો ઇચ્છતા હતા",
+"Te/teṇī/teo pṛṣṭho icchatā hatā"
+],
+"He/She/They will need chalk": [
+"તેને/તેણી/તેમને ચાકની જરૂર પડશે",
+"Tene/teṇī/temane cākanī jarūra paḍaśe"
+],
+"He/She/They will need chalks": [
+"તેને/તેણી/તેમને ચાકની જરૂર પડશે",
+"Tene/teṇī/temane cākanī jarūra paḍaśe"
+],
+"He/She/They will need bag": [
+"તેને/તેણી/તેમને બેગની જરૂર પડશે",
+"Tene/teṇī/temane beganī jarūra paḍaśe"
+],
+"He/She/They will need bags": [
+"તેને/તેણી/તેમને બેગની જરૂર પડશે",
+"Tene/teṇī/temane beganī jarūra paḍaśe"
+],
+"He/She/They will need page": [
+"તેને/તેણી/તેમને પૃષ્ઠની જરૂર પડશે",
+"Tene/teṇī/temane pṛṣṭhanī jarūra paḍaśe"
+],
+"He/She/They will need pages": [
+"તેને/તેણી/તેમને પૃષ્ઠોની જરૂર પડશે",
+"Tene/teṇī/temane pṛṣṭhonī jarūra paḍaśe"
+],
+"I do not want mango": [
+"મારે કેરી નથી જોઈતી",
+"Māre kerī nathī joītī"
+],
+"She will not want bag": [
+"તેણીને બેગ જોઈતી નથી",
+"Teṇīne bega joītī nathī"
+],
+"He did not want chalk": [
+"તેને ચાક જોઈતો નહોતો",
+"Tene cāka joīto nahoto"
+],
+"He did not want bag": [
+"તેને બેગ જોઈતી નહોતી",
+"Tene bega joītī nahotī"
+],
+"She does not want ice cream": [
+"તેને આઈસ્ક્રીમ નથી જોઈતો",
+"Tene āīskrīma nathī joīto"
+],
+"What will happen?": [
+"શું થશે?",
+"Śuṃ thaśe?"
+],
+"What is happening?": [
+"શું થઈ રહ્યું છે?",
+"Śuṃ thaī rahyuṃ che?"
+],
+"It did not happen": [
+"એવું ન થયું",
+"Evuṃ na thayuṃ"
+],
+"I will become winner": [
+"હું વિજેતા બનીશ",
+"Huṃ vijetā banīśa"
+],
+"It was happening": [
+"તે થઈ રહ્યું હતું",
+"Te thaī rahyuṃ hatuṃ"
+],
+"He will become mad": [
+"તે પાગલ થઈ જશે",
+"Te pāgala thaī jaśe"
+],
+"He should have eaten mango": [
+"તેણે કેરી ખાધી હશે",
+"Teṇe kerī khādhī haśe"
+],
+"He should have eaten tamarind": [
+"તેણે આમલી ખાવી જોઈએ",
+"Teṇe āmalī khāvī joīe"
+],
+"He should eat mango": [
+"તેણે કેરી ખાવી જોઈએ",
+"Teṇe kerī khāvī joīe"
+],
+"He should go": [
+"તેણે જવું જોઈએ",
+"Teṇe javuṃ joīe"
+],
+"He should have gone": [
+"તેણે જવું જોઈતું હતું",
+"Teṇe javuṃ joītuṃ hatuṃ"
+],
+"I should speak": [
+"મારે બોલવું જોઈએ",
+"Māre bolavuṃ joīe"
+],
+"I should have spoken": [
+"મારે બોલવું જોઈતું હતું",
+"Māre bolavuṃ joītuṃ hatuṃ"
+],
+"They should dance": [
+"તેઓએ નૃત્ય કરવું જોઈએ",
+"Teoe nṛtya karavuṃ joīe"
+],
+"They should not dance": [
+"તેઓએ નૃત્ય ન કરવું જોઈએ",
+"Teoe nṛtya na karavuṃ joīe"
+],
+"They should have danced": [
+"તેઓએ નૃત્ય કરવું જોઈએ",
+"Teoe nṛtya karavuṃ joīe"
+],
+"They should not have danced": [
+"તેઓએ નાચવું ન જોઈએ",
+"Teoe nācavuṃ na joīe"
+],
+"You should play": [
+"તમારે રમવું જોઈએ",
+"Tamāre ramavuṃ joīe"
+],
+"You should not play": [
+"તમારે રમવું જોઈએ નહીં",
+"Tamāre ramavuṃ joīe nahīṃ"
+],
+"You should have played": [
+"તમારે રમવું જોઈએ",
+"Tamāre ramavuṃ joīe"
+],
+"You should not have smiled": [
+"તમારે હસવું ન જોઈએ",
+"Tamāre hasavuṃ na joīe"
+],
+"She should open box": [
+"તેણીએ બોક્સ ખોલવું જોઈએ",
+"Teṇīe boksa kholavuṃ joīe"
+],
+"He should eat": [
+"તેણે ખાવું જોઈએ",
+"Teṇe khāvuṃ joīe"
+],
+"You(male) should go": [
+"તમારે (પુરુષ) જવું જોઈએ",
+"Tamāre (puruṣa) javuṃ joīe"
+],
+"You(male) should eat mango": [
+"તમારે (પુરુષ) કેરી ખાવી જોઈએ",
+"Tamāre (puruṣa) kerī khāvī joīe"
+],
+"He should not go": [
+"તેણે ન જવું જોઈએ",
+"Teṇe na javuṃ joīe"
+],
+"She should not open box": [
+"તેણીએ બોક્સ ખોલવું જોઈએ નહીં",
+"Teṇīe boksa kholavuṃ joīe nahīṃ"
+],
+"He should not eat": [
+"તેણે ખાવું જોઈએ નહીં",
+"Teṇe khāvuṃ joīe nahīṃ"
+],
+"He should eat tamarind": [
+"તેણે આમલી ખાવી જોઈએ",
+"Teṇe āmalī khāvī joīe"
+],
+"She should write letter": [
+"તેણીએ પત્ર લખવો જોઈએ",
+"Teṇīe patra lakhavo joīe"
+],
+"You should eat mango": [
+"તમારે કેરી ખાવી જોઈએ",
+"Tamāre kerī khāvī joīe"
+],
+"He has to do it every day": [
+"તેણે દરરોજ કરવું પડશે",
+"Teṇe dararoja karavuṃ paḍaśe"
+],
+"He will have to do it every day": [
+"તેણે દરરોજ તે કરવું પડશે",
+"Teṇe dararoja te karavuṃ paḍaśe"
+],
+"He had to do it every day": [
+"તેને દરરોજ કરવું પડતું",
+"Tene dararoja karavuṃ paḍatuṃ"
+],
+"She has to eat mango": [
+"તેણીએ કેરી ખાવી છે",
+"Teṇīe kerī khāvī che"
+],
+"She will have to eat mango": [
+"તેણીએ કેરી ખાવી પડશે",
+"Teṇīe kerī khāvī paḍaśe"
+],
+"She had to eat mango": [
+"તેણીને કેરી ખાવાની હતી",
+"Teṇīne kerī khāvānī hatī"
+],
+"She has to eat mangoes": [
+"તેણીએ કેરીઓ ખાવી છે",
+"Teṇīe kerīo khāvī che"
+],
+"She has to eat tamarind": [
+"તેણીએ આમલી ખાવી છે",
+"Teṇīe āmalī khāvī che"
+],
+"She has to eat tamarinds": [
+"તેણીએ આમલી ખાવી છે",
+"Teṇīe āmalī khāvī che"
+],
+"She has to eat medicine": [
+"તેણીએ દવા ખાવી છે",
+"Teṇīe davā khāvī che"
+],
+"She has to eat medicines": [
+"તેણીએ દવાઓ ખાવી છે",
+"Teṇīe davāo khāvī che"
+],
+"I have to go": [
+"મારે જવું છે",
+"Māre javuṃ che"
+],
+"We have to speak": [
+"આપણે બોલવું પડશે",
+"Āpaṇe bolavuṃ paḍaśe"
+],
+"I keep speaking": [
+"હું બોલતો રહ્યો",
+"Huṃ bolato rahyo"
+],
+"I kept speaking": [
+"હું બોલતો રહ્યો",
+"Huṃ bolato rahyo"
+],
+"I will keep speaking": [
+"હું બોલતો રહીશ",
+"Huṃ bolato rahīśa"
+],
+"You keep speaking": [
+"તમે બોલતા રહો",
+"Tame bolatā raho"
+],
+"You kept speaking": [
+"તમે બોલતા રહ્યા",
+"Tame bolatā rahyā"
+],
+"You will keep speaking": [
+"તમે બોલતા જ રહેશો",
+"Tame bolatā ja raheśo"
+],
+"Keep speaking! (Imperative)": [
+"બોલતા રહો! (આવશ્યક)",
+"Bolatā raho! (āvaśyaka)"
+],
+"He is taller than me": [
+"તે મારા કરતા ઉંચો છે",
+"Te mārā karatā uṃco che"
+],
+"I am shorter than you": [
+"હું તમારા કરતા નાનો છું",
+"Huṃ tamārā karatā nāno chuṃ"
+],
+"They were happier than now": [
+"તેઓ હવે કરતાં વધુ ખુશ હતા",
+"Teo have karatāṃ vadhu khuśa hatā"
+],
+"He is best": [
+"તે શ્રેષ્ઠ છે",
+"Te śreṣṭha che"
+],
+"Everest is the tallest peak": [
+"એવરેસ્ટ સૌથી ઊંચું શિખર છે",
+"Evaresṭa sauthī ūṃcuṃ śikhara che"
+],
+"She was the youngest player": [
+"તે સૌથી નાની વયની ખેલાડી હતી",
+"Te sauthī nānī vayanī khelāḍī hatī"
+],
+"Your voice is loudest of all": [
+"તમારો અવાજ સૌથી મોટો છે",
+"Tamāro avāja sauthī moṭo che"
+],
+"Your name is known to me": [
+"તમારું નામ મને જાણીતું છે",
+"Tamāruṃ nāma mane jāṇītuṃ che"
+],
+"She knows his address": [
+"તેણી તેનું સરનામું જાણે છે",
+"Teṇī tenuṃ saranāmuṃ jāṇe che"
+],
+"She knew his address": [
+"તેણી તેનું સરનામું જાણતી હતી",
+"Teṇī tenuṃ saranāmuṃ jāṇatī hatī"
+],
+"Do you know it?": [
+"શું તમે તેને જાણો છો?",
+"Śuṃ tame tene jāṇo cho?"
+],
+"Did she know that?": [
+"તેણીને તે ખબર હતી?",
+"Teṇīne te khabara hatī?"
+],
+"Your name is not known to me": [
+"તમારું નામ મને ખબર નથી",
+"Tamāruṃ nāma mane khabara nathī"
+],
+"She does not know his address": [
+"તેણીને તેનું સરનામું ખબર નથી",
+"Teṇīne tenuṃ saranāmuṃ khabara nathī"
+],
+"She did not know his address": [
+"તેણીને તેનું સરનામું ખબર ન હતી",
+"Teṇīne tenuṃ saranāmuṃ khabara na hatī"
+],
+"Don't you know it?": [
+"શું તમે તેને જાણતા નથી?",
+"Śuṃ tame tene jāṇatā nathī?"
+],
+"Didn't she know that?": [
+"તેણીને તે ખબર ન હતી?",
+"Teṇīne te khabara na hatī?"
+],
+"I know eating cake": [
+"હું કેક ખાવું જાણું છું",
+"Huṃ keka khāvuṃ jāṇuṃ chuṃ"
+],
+"I know swimming": [
+"હું સ્વિમિંગ જાણું છું",
+"Huṃ svimiṃga jāṇuṃ chuṃ"
+],
+"I know Japanese": [
+"હું જાપાનીઝ જાણું છું",
+"Huṃ jāpānījha jāṇuṃ chuṃ"
+],
+"I know cooking": [
+"હું રસોઈ જાણું છું",
+"Huṃ rasoī jāṇuṃ chuṃ"
+],
+"Do you know playing cricket?": [
+"શું તમે ક્રિકેટ રમતા જાણો છો?",
+"Śuṃ tame krikeṭa ramatā jāṇo cho?"
+],
+"I know killing mosquitoes": [
+"હું મચ્છરોને મારવાનું જાણું છું",
+"Huṃ maccharone māravānuṃ jāṇuṃ chuṃ"
+],
+"She used to know dancing before": [
+"તે પહેલા નૃત્ય જાણતી હતી",
+"Te pahelā nṛtya jāṇatī hatī"
+],
+"They knew to talk": [
+"તેઓ વાત કરવાનું જાણતા હતા",
+"Teo vāta karavānuṃ jāṇatā hatā"
+],
+"He learned. So he could speak Japanese": [
+"તે શીખ્યો. જેથી તે જાપાનીઝ બોલી શકે",
+"Te śīkhyo. jethī te jāpānījha bolī śake"
+],
+"I do not know eating cake": [
+"મને કેક ખાતી આવડતી નથી",
+"Mane keka khātī āvaḍatī nathī"
+],
+"I do not know swimming": [
+"મને સ્વિમિંગ આવડતું નથી",
+"Mane svimiṃga āvaḍatuṃ nathī"
+],
+"I do not know Japanese": [
+"હું જાપાનીઝ જાણતો નથી",
+"Huṃ jāpānījha jāṇato nathī"
+],
+"She did not know dancing before": [
+"તે પહેલા નૃત્ય જાણતી ન હતી",
+"Te pahelā nṛtya jāṇatī na hatī"
+],
+"They did not know to talk": [
+"તેઓ વાત કરવાનું જાણતા ન હતા",
+"Teo vāta karavānuṃ jāṇatā na hatā"
+],
+"He did not learn. So he could not speak Japanese": [
+"તે શીખ્યો ન હતો. તેથી તે જાપાનીઝ બોલી શકતો ન હતો",
+"Te śīkhyo na hato. tethī te jāpānījha bolī śakato na hato"
+],
+"I(boy) know you": [
+"હું (છોકરો) તને ઓળખું છું",
+"Huṃ (chokaro) tane oḻakhuṃ chuṃ"
+],
+"I(girl) know you": [
+"હું (છોકરી) તને ઓળખું છું",
+"Huṃ (chokarī) tane oḻakhuṃ chuṃ"
+],
+"You know me": [
+"તમે મને જાણો છો",
+"Tame mane jāṇo cho"
+],
+"He knows Mr. Ram": [
+"તે શ્રી રામને જાણે છે",
+"Te śrī rāmane jāṇe che"
+],
+"Let's not play": [
+"ચાલો ના રમીએ",
+"Cālo nā ramīe"
+],
+"Let's not go": [
+"ચાલો ના જઈએ",
+"Cālo nā jaīe"
+],
+"Let's not speak": [
+"ચાલો વાત ના કરીએ",
+"Cālo vāta nā karīe"
+],
+"Shall we play cricket? (style 1)": [
+"શું આપણે ક્રિકેટ રમીએ? (શૈલી 1)",
+"Śuṃ āpaṇe krikeṭa ramīe? (śailī 1)"
+],
+"Shall we play cricket? (style 2)": [
+"શું આપણે ક્રિકેટ રમીએ? (શૈલી 2)",
+"Śuṃ āpaṇe krikeṭa ramīe? (śailī 2)"
+],
+"Shall we watch movie? (style 1)": [
+"શું આપણે મૂવી જોઈએ? (શૈલી 1)",
+"Śuṃ āpaṇe mūvī joīe? (śailī 1)"
+],
+"Shall we watch movie? (style 2)": [
+"શું આપણે મૂવી જોઈએ? (શૈલી 2)",
+"Śuṃ āpaṇe mūvī joīe? (śailī 2)"
+],
+"Shall we go home? (style 1)": [
+"આપણે ઘરે જઈએ? (શૈલી 1)",
+"Āpaṇe ghare jaīe? (śailī 1)"
+],
+"Shall we go home? (style 2)": [
+"આપણે ઘરે જઈએ? (શૈલી 2)",
+"Āpaṇe ghare jaīe? (śailī 2)"
+],
+"Shall we eat mango? (style 1)": [
+"આપણે કેરી ખાઈએ? (શૈલી 1)",
+"Āpaṇe kerī khāīe? (śailī 1)"
+],
+"Shall we eat mango? (style 2)": [
+"આપણે કેરી ખાઈએ? (શૈલી 2)",
+"Āpaṇe kerī khāīe? (śailī 2)"
+],
+"Shall we eat tamarind? (style 1)": [
+"શું આપણે આમલી ખાઈએ? (શૈલી 1)",
+"Śuṃ āpaṇe āmalī khāīe? (śailī 1)"
+],
+"Shall we eat tamarind? (style 2)": [
+"શું આપણે આમલી ખાઈએ? (શૈલી 2)",
+"Śuṃ āpaṇe āmalī khāīe? (śailī 2)"
+],
+"Let him play": [
+"તેને રમવા દો",
+"Tene ramavā do"
+],
+"Let me eat": [
+"મને ખાવા દે",
+"Mane khāvā de"
+],
+"Let her speak": [
+"તેણીને બોલવા દો",
+"Teṇīne bolavā do"
+],
+"You all, Let him play": [
+"તમે બધા, તેને રમવા દો",
+"Tame badhā, tene ramavā do"
+],
+"You all, Let me eat": [
+"તમે બધા, મને ખાવા દો",
+"Tame badhā, mane khāvā do"
+],
+"You all, Let her speak": [
+"તમે બધા, તેણીને બોલવા દો",
+"Tame badhā, teṇīne bolavā do"
+],
+"Don't let him play": [
+"તેને રમવા ન દો",
+"Tene ramavā na do"
+],
+"Don't let me eat": [
+"મને ખાવા દેતા નથી",
+"Mane khāvā detā nathī"
+],
+"You all, don't let her speak": [
+"તમે બધા, તેણીને બોલવા ન દો",
+"Tame badhā, teṇīne bolavā na do"
+],
+"You all, don't let me eat": [
+"તમે બધા, મને ખાવા ન દો",
+"Tame badhā, mane khāvā na do"
+],
+"I could not understand what you just said": [
+"તમે હમણાં શું કહ્યું તે હું સમજી શક્યો નહીં",
+"Tame hamaṇāṃ śuṃ kahyuṃ te huṃ samajī śakyo nahīṃ"
+],
+"Which fruit you want, show me that": [
+"તમને કયું ફળ જોઈએ છે, તે મને બતાવો",
+"Tamane kayuṃ phaḻa joīe che, te mane batāvo"
+],
+"When you come I feel happy": [
+"તમે આવો ત્યારે મને આનંદ થાય છે",
+"Tame āvo tyāre mane ānaṃda thāya che"
+],
+"What is in your mind, tell me that": [
+"તમારા મનમાં શું છે, તે મને કહો",
+"Tamārā manamāṃ śuṃ che, te mane kaho"
+],
+"When you(girl) come I feel happy": [
+"જ્યારે તમે (છોકરી) આવો છો ત્યારે મને આનંદ થાય છે",
+"Jyāre tame (chokarī) āvo cho tyāre mane ānaṃda thāya che"
+],
+"Go back, the way you have come": [
+"પાછા જાઓ, જે રીતે તમે આવ્યા છો",
+"Pāchā jāo, je rīte tame āvyā cho"
+],
+"Give it to him, who wants it": [
+"જેને જોઈએ છે તેને આપો",
+"Jene joīe che tene āpo"
+],
+"Tell me about them whom you read about": [
+"તમે જેમના વિશે વાંચ્યું છે તેમના વિશે મને કહો",
+"Tame jemanā viśe vāṃcyuṃ che temanā viśe mane kaho"
+],
+"Wherever you will go I will come": [
+"તમે જ્યાં જશો ત્યાં હું આવીશ",
+"Tame jyāṃ jaśo tyāṃ huṃ āvīśa"
+],
+"Whichever vegetables you want, you buy it": [
+"તમને ગમે તે શાકભાજી તમે ખરીદો",
+"Tamane game te śākabhājī tame kharīdo"
+],
+"Whenever you call he will answer": [
+"તમે જ્યારે પણ ફોન કરશો ત્યારે તે જવાબ આપશે",
+"Tame jyāre paṇa phona karaśo tyāre te javāba āpaśe"
+],
+"Do not smoke here": [
+"અહીં ધૂમ્રપાન કરશો નહીં",
+"Ahīṃ dhūmrapāna karaśo nahīṃ"
+],
+"Do not use mobile phones": [
+"મોબાઈલ ફોનનો ઉપયોગ કરશો નહીં",
+"Mobāīla phonano upayoga karaśo nahīṃ"
+],
+"Enter your preferences": [
+"તમારી પસંદગીઓ દાખલ કરો",
+"Tamārī pasaṃdagīo dākhala karo"
+],
+"Write your address": [
+"તમારું સરનામું લખો",
+"Tamāruṃ saranāmuṃ lakho"
+],
+"Write your addresses": [
+"તમારા સરનામાં લખો",
+"Tamārā saranāmāṃ lakho"
+],
+"Enter your preference": [
+"તમારી પસંદગી દાખલ કરો",
+"Tamārī pasaṃdagī dākhala karo"
+],
+"Speak your name": [
+"તમારું નામ બોલો",
+"Tamāruṃ nāma bolo"
+],
+"Speak your names": [
+"તમારા નામો બોલો",
+"Tamārā nāmo bolo"
+],
+"Do not speak": [
+"બોલો નહીં",
+"Bolo nahīṃ"
+],
+"Do not smoke": [
+"ધૂમ્રપાન કરશો નહીં",
+"Dhūmrapāna karaśo nahīṃ"
+],
+"Do not cross road here": [
+"અહીં રોડ ક્રોસ કરશો નહીં",
+"Ahīṃ roḍa krosa karaśo nahīṃ"
+],
+"Do not pluck flowers": [
+"ફૂલો તોડશો નહીં",
+"Phūlo toḍaśo nahīṃ"
+],
+"I like to eat mango": [
+"મને કેરી ખાવી ગમે છે",
+"Mane kerī khāvī game che"
+],
+"I like to eat mangoes": [
+"મને કેરી ખાવી ગમે છે",
+"Mane kerī khāvī game che"
+],
+"He liked to open bag": [
+"તેને બેગ ખોલવી ગમતી",
+"Tene bega kholavī gamatī"
+],
+"He liked to open bags": [
+"તેને બેગ ખોલવાનું પસંદ હતું",
+"Tene bega kholavānuṃ pasaṃda hatuṃ"
+],
+"She will like to sing song": [
+"તેણીને ગીત ગાવાનું ગમશે",
+"Teṇīne gīta gāvānuṃ gamaśe"
+],
+"She will like to sing songs": [
+"તેણીને ગીતો ગાવાનું ગમશે",
+"Teṇīne gīto gāvānuṃ gamaśe"
+],
+"I do not like to eat mango": [
+"મને કેરી ખાવી ગમતી નથી",
+"Mane kerī khāvī gamatī nathī"
+],
+"I do not like to eat mangoes": [
+"મને કેરી ખાવાનું પસંદ નથી",
+"Mane kerī khāvānuṃ pasaṃda nathī"
+],
+"He did not like to open bag": [
+"તેને બેગ ખોલવાનું પસંદ ન હતું",
+"Tene bega kholavānuṃ pasaṃda na hatuṃ"
+],
+"She will not like to sing song": [
+"તેણીને ગીત ગાવાનું ગમશે નહીં",
+"Teṇīne gīta gāvānuṃ gamaśe nahīṃ"
+],
+"I like to see Kaushik": [
+"મને કૌશિકને જોવું ગમે છે",
+"Mane kauśikane jovuṃ game che"
+],
+"He likes to push me": [
+"તે મને દબાણ કરવાનું પસંદ કરે છે",
+"Te mane dabāṇa karavānuṃ pasaṃda kare che"
+],
+"He likes to push her": [
+"તેણીને દબાણ કરવાનું પસંદ કરે છે",
+"Teṇīne dabāṇa karavānuṃ pasaṃda kare che"
+],
+"They will like to hold us": [
+"તેઓ અમને પકડી રાખવાનું પસંદ કરશે",
+"Teo amane pakaḍī rākhavānuṃ pasaṃda karaśe"
+],
+"Kaushik said that he would eat": [
+"કૌશિકે કહ્યું કે તે જમશે",
+"Kauśike kahyuṃ ke te jamaśe"
+],
+"I thought I would be late so I would have to run": [
+"મેં વિચાર્યું કે મને મોડું થશે તેથી મારે દોડવું પડશે",
+"Meṃ vicāryuṃ ke mane moḍuṃ thaśe tethī māre doḍavuṃ paḍaśe"
+],
+"I would love to visit New York": [
+"મને ન્યૂયોર્કની મુલાકાત લેવાનું ગમશે",
+"Mane nyūyorkanī mulākāta levānuṃ gamaśe"
+],
+"We would go, but we are too busy": [
+"અમે જઈશું, પરંતુ અમે ખૂબ વ્યસ્ત છીએ",
+"Ame jaīśuṃ, paraṃtu ame khūba vyasta chīe"
+],
+"I would not disclose it in any condition": [
+"હું તેને કોઈપણ શરતમાં જાહેર નહીં કરું",
+"Huṃ tene koīpaṇa śaratamāṃ jāhera nahīṃ karuṃ"
+],
+"Would you like to drink tea?": [
+"તમે ચા પીવા માંગો છો?",
+"Tame cā pīvā māṃgo cho?"
+],
+"Would you please help me?": [
+"શું તમે મને મદદ કરશો?",
+"Śuṃ tame mane madada karaśo?"
+],
+"I would suggest you to take this medicine": [
+"હું તમને આ દવા લેવાનું સૂચન કરીશ",
+"Huṃ tamane ā davā levānuṃ sūcana karīśa"
+],
+"I understand its importance": [
+"હું તેનું મહત્વ સમજું છું",
+"Huṃ tenuṃ mahatva samajuṃ chuṃ"
+],
+"He understood the logic": [
+"તે તર્ક સમજી ગયો",
+"Te tarka samajī gayo"
+],
+"She came to know the news": [
+"તેણીને સમાચાર ખબર પડી",
+"Teṇīne samācāra khabara paḍī"
+],
+"They will understand your mistakes": [
+"તેઓ તમારી ભૂલો સમજશે",
+"Teo tamārī bhūlo samajaśe"
+],
+"Did you understand?": [
+"શું તમે સમજ્યા?",
+"Śuṃ tame samajyā?"
+],
+"She does not understand": [
+"તેણી સમજી શકતી નથી",
+"Teṇī samajī śakatī nathī"
+],
+"He will not come to know this": [
+"તેને આ વાતની ખબર નહીં પડે",
+"Tene ā vātanī khabara nahīṃ paḍe"
+],
+"You are coming": [
+"તમે આવી રહ્યા છો",
+"Tame āvī rahyā cho"
+],
+"You are coming, aren't you?": [
+"તમે આવો છો ને?",
+"Tame āvo cho ne?"
+],
+"She did not speak": [
+"તે બોલ્યો નહિ",
+"Te bolyo nahi"
+],
+"She did not speak, did she?": [
+"તે બોલ્યો નહીં, શું તે?",
+"Te bolyo nahīṃ, śuṃ te?"
+],
+"He will do": [
+"તે કરશે",
+"Te karaśe"
+],
+"He will do, won't he?": [
+"તે કરશે, નહીં?",
+"Te karaśe, nahīṃ?"
+],
+"I remember you": [
+"હું તમને યાદ કરું છું",
+"Huṃ tamane yāda karuṃ chuṃ"
+],
+"You remember me": [
+"તમે મને યાદ કરો",
+"Tame mane yāda karo"
+],
+"We remember Mary": [
+"અમે મેરીને યાદ કરીએ છીએ",
+"Ame merīne yāda karīe chīe"
+],
+"Mary remembers us": [
+"મેરી અમને યાદ કરે છે",
+"Merī amane yāda kare che"
+],
+"I remember you (miss)": [
+"હું તમને યાદ કરું છું (મિસ)",
+"Huṃ tamane yāda karuṃ chuṃ (misa)"
+],
+"Mary remembered us": [
+"મેરીએ અમને યાદ કર્યા",
+"Merīe amane yāda karyā"
+],
+"Peter misses his friend": [
+"પીટર તેના મિત્રને યાદ કરે છે",
+"Pīṭara tenā mitrane yāda kare che"
+],
+"She missed her mother a lot": [
+"તે તેની માતાને ખૂબ મિસ કરતી હતી",
+"Te tenī mātāne khūba misa karatī hatī"
+],
+"I will remember your favor": [
+"હું તમારો ઉપકાર યાદ રાખીશ",
+"Huṃ tamāro upakāra yāda rākhīśa"
+],
+"He always remembered my advice": [
+"તેણે હંમેશા મારી સલાહ યાદ રાખી",
+"Teṇe haṃmeśā mārī salāha yāda rākhī"
+],
+"I want to eat mango": [
+"મારે કેરી ખાવી છે",
+"Māre kerī khāvī che"
+],
+"I want to eat mangoes": [
+"મારે કેરી ખાવી છે",
+"Māre kerī khāvī che"
+],
+"He wanted to open bag": [
+"તે બેગ ખોલવા માંગતો હતો",
+"Te bega kholavā māṃgato hato"
+],
+"He wanted to open bags": [
+"તે બેગ ખોલવા માંગતો હતો",
+"Te bega kholavā māṃgato hato"
+],
+"She will want to sing song": [
+"તેણી ગીત ગાવા માંગશે",
+"Teṇī gīta gāvā māṃgaśe"
+],
+"She will want to sing songs": [
+"તેણી ગીતો ગાવા માંગશે",
+"Teṇī gīto gāvā māṃgaśe"
+],
+"I wanted to go": [
+"હું જવા માંગતો હતો",
+"Huṃ javā māṃgato hato"
+],
+"I will want to run": [
+"હું દોડવા માંગીશ",
+"Huṃ doḍavā māṃgīśa"
+],
+"I do not want to eat mango": [
+"મારે કેરી ખાવાની ઈચ્છા નથી",
+"Māre kerī khāvānī īcchā nathī"
+],
+"He did not want to open bag": [
+"તે બેગ ખોલવા માંગતો ન હતો",
+"Te bega kholavā māṃgato na hato"
+],
+"She will not want to sing song": [
+"તેણી ગીત ગાવા માંગશે નહીં",
+"Teṇī gīta gāvā māṃgaśe nahīṃ"
+],
+"Kaushik wants to see Peter": [
+"કૌશિક પીટરને જોવા માંગે છે",
+"Kauśika pīṭarane jovā māṃge che"
+],
+"Kaushik wants to see him": [
+"કૌશિક તેને જોવા માંગે છે",
+"Kauśika tene jovā māṃge che"
+],
+"Kaushik wants to see you": [
+"કૌશિક તમને જોવા માંગે છે",
+"Kauśika tamane jovā māṃge che"
+],
+"I want you to finish work": [
+"હું ઈચ્છું છું કે તમે કામ પૂરું કરો",
+"Huṃ īcchuṃ chuṃ ke tame kāma pūruṃ karo"
+],
+"She wants me to avoid junk food": [
+"તે ઈચ્છે છે કે હું જંક ફૂડ ટાળું",
+"Te īcche che ke huṃ jaṃka phūḍa ṭāḻuṃ"
+],
+"Kaushik wants students to practice more": [
+"કૌશિક ઈચ્છે છે કે વિદ્યાર્થીઓ વધુ પ્રેક્ટિસ કરે",
+"Kauśika īcche che ke vidyārthīo vadhu prekṭisa kare"
+],
+"Kaushik wanted students to practice more": [
+"કૌશિક ઈચ્છતો હતો કે વિદ્યાર્થીઓ વધુ પ્રેક્ટિસ કરે",
+"Kauśika īcchato hato ke vidyārthīo vadhu prekṭisa kare"
+],
+"Students want Kaushik to talk slowly": [
+"વિદ્યાર્થીઓ ઈચ્છે છે કે કૌશિક ધીમે ધીમે વાત કરે",
+"Vidyārthīo īcche che ke kauśika dhīme dhīme vāta kare"
+],
+"I am supposed to meet him tomorrow": [
+"મારે કાલે તેને મળવાનું છે",
+"Māre kāle tene maḻavānuṃ che"
+],
+"I am supposed to finish that bottle": [
+"મારે તે બોટલ પૂરી કરવાની છે",
+"Māre te boṭala pūrī karavānī che"
+],
+"He is supposed to finish that bottle": [
+"તેણે તે બોટલ પૂરી કરવાની છે",
+"Teṇe te boṭala pūrī karavānī che"
+],
+"She is supposed to finish that bottle": [
+"તેણીએ તે બોટલ સમાપ્ત કરવાનું માનવામાં આવે છે",
+"Teṇīe te boṭala samāpta karavānuṃ mānavāmāṃ āve che"
+],
+"I/He/She was supposed to finish that bottle": [
+"હું/તે/તેણીએ તે બોટલ પૂરી કરવાની હતી",
+"Huṃ/te/teṇīe te boṭala pūrī karavānī hatī"
+],
+"I/He/She was supposed to finish those bottles": [
+"હું/તે/તેણીએ તે બોટલો પૂરી કરવાની હતી",
+"Huṃ/te/teṇīe te boṭalo pūrī karavānī hatī"
+],
+"I am supposed to go there tomorrow": [
+"મારે કાલે ત્યાં જવાનું છે",
+"Māre kāle tyāṃ javānuṃ che"
+],
+"He is supposed to come tomorrow": [
+"તે આવતીકાલે આવવાનો છે",
+"Te āvatīkāle āvavāno che"
+],
+"We could not meet but next time we must meet": [
+"અમે મળી શક્યા નથી પણ નેક્સ્ટ ટાઈમ તો મળવું જ જોઈએ",
+"Ame maḻī śakyā nathī paṇa neksṭa ṭāīma to maḻavuṃ ja joīe"
+],
+"You must pay me ransom tomorrow itself": [
+"તમારે કાલે જ મને ખંડણી ચૂકવવી પડશે",
+"Tamāre kāle ja mane khaṃḍaṇī cūkavavī paḍaśe"
+],
+"I get a prize": [
+"મને ઇનામ મળે છે",
+"Mane ināma maḻe che"
+],
+"I get 10 prizes": [
+"મને 10 ઈનામો મળે છે",
+"Mane 10 īnāmo maḻe che"
+],
+"He gets a prize": [
+"તેને ઇનામ મળે છે",
+"Tene ināma maḻe che"
+],
+"He gets 10 prizes": [
+"તેને 10 ઈનામો મળે છે",
+"Tene 10 īnāmo maḻe che"
+],
+"He got a prize": [
+"તેને ઇનામ મળ્યું",
+"Tene ināma maḻyuṃ"
+],
+"He got 10 prizes": [
+"તેને 10 ઈનામો મળ્યા",
+"Tene 10 īnāmo maḻyā"
+],
+"I found my wallet under the bed": [
+"મને પથારીની નીચે મારું પાકીટ મળ્યું",
+"Mane pathārīnī nīce māruṃ pākīṭa maḻyuṃ"
+],
+"She became angry": [
+"તેણી ગુસ્સે થઈ ગઈ",
+"Teṇī gusse thaī gaī"
+],
+"He became angry": [
+"તે ગુસ્સે થઈ ગયો",
+"Te gusse thaī gayo"
+],
+"He agrees to this condition": [
+"તે આ શરત માટે સંમત છે",
+"Te ā śarata māṭe saṃmata che"
+],
+"He agrees to these conditions": [
+"તે આ શરતો માટે સંમત છે",
+"Te ā śarato māṭe saṃmata che"
+],
+"Finish it off in 10 minutes": [
+"તેને 10 મિનિટમાં સમાપ્ત કરો",
+"Tene 10 miniṭamāṃ samāpta karo"
+],
+"Do not hesitate. Speak it out": [
+"અચકાવું નહીં. તે બોલો",
+"Acakāvuṃ nahīṃ. te bolo"
+],
+"Nobody is looking. Just do it": [
+"કોઈ જોતું નથી. બસ કરો",
+"Koī jotuṃ nathī. basa karo"
+],
+"I somehow managed to gulp it": [
+"હું કોઈક રીતે તે ગલ્પ વ્યવસ્થાપિત",
+"Huṃ koīka rīte te galpa vyavasthāpita"
+],
+"He quickly came and read the letter": [
+"તેણે ઝડપથી આવીને પત્ર વાંચ્યો",
+"Teṇe jhaḍapathī āvīne patra vāṃcyo"
+],
+"Ask whatever you want; right now": [
+"તમને જે જોઈએ તે પૂછો; હમણાં",
+"Tamane je joīe te pūcho; hamaṇāṃ"
+],
+"You may call me whatever you want": [
+"તમે મને ગમે તેમ કહી શકો છો",
+"Tame mane game tema kahī śako cho"
+],
+"Get that work done by him": [
+"તે કામ તેના દ્વારા કરાવો",
+"Te kāma tenā dvārā karāvo"
+],
+"I made her take exercise every day": [
+"મેં તેણીને દરરોજ કસરત કરવા માટે કહ્યું",
+"Meṃ teṇīne dararoja kasarata karavā māṭe kahyuṃ"
+],
+"I washed clothes very hard": [
+"હું ખૂબ જ સખત કપડાં ધોતો",
+"Huṃ khūba ja sakhata kapaḍāṃ dhoto"
+],
+"Batsman hit every ball very hard": [
+"બેટ્સમેન દરેક બોલને ખૂબ જ જોરથી ફટકારે છે",
+"Beṭsamena dareka bolane khūba ja jorathī phaṭakāre che"
+],
+"I just told him we drank liquor": [
+"મેં તેને હમણાં જ કહ્યું કે અમે દારૂ પીધો છે",
+"Meṃ tene hamaṇāṃ ja kahyuṃ ke ame dārū pīdho che"
+],
+"Oh my God! What have I done!": [
+"હે ભગવાન! મેં શું કર્યું છે!",
+"He bhagavāna! meṃ śuṃ karyuṃ che!"
+],
+"Now keep crying": [
+"હવે રડતા રહો",
+"Have raḍatā raho"
+],
+"She will search it forever": [
+"તેણી તેને કાયમ માટે શોધશે",
+"Teṇī tene kāyama māṭe śodhaśe"
+],
+"I forgot to tell you": [
+"હું તમને કહેવાનું ભૂલી ગયો",
+"Huṃ tamane kahevānuṃ bhūlī gayo"
+],
+"She could not see the sign": [
+"તે નિશાની જોઈ શકતો ન હતો",
+"Te niśānī joī śakato na hato"
+],
+"Start following my advice": [
+"મારી સલાહને અનુસરવાનું શરૂ કરો",
+"Mārī salāhane anusaravānuṃ śarū karo"
+],
+"If you had taken exercise every day then": [
+"જો તમે દરરોજ કસરત કરી હોત તો",
+"Jo tame dararoja kasarata karī hota to"
+],
+"I was about to open the door when I saw": [
+"મેં જોયું ત્યારે હું દરવાજો ખોલવા જ હતો",
+"Meṃ joyuṃ tyāre huṃ daravājo kholavā ja hato"
+],
+"If we think of eating mango then": [
+"કેરી ખાવાનું વિચારીએ તો",
+"Kerī khāvānuṃ vicārīe to"
+],
+"If he decides to take revenge": [
+"જો તેણે બદલો લેવાનું નક્કી કર્યું",
+"Jo teṇe badalo levānuṃ nakkī karyuṃ"
+],
+"Give him your information": [
+"તેને તમારી માહિતી આપો",
+"Tene tamārī māhitī āpo"
+],
+"Keep tea ready": [
+"ચા તૈયાર રાખો",
+"Cā taiyāra rākho"
+],
+"We have booked tickets": [
+"અમે ટિકિટ બુક કરાવી છે",
+"Ame ṭikiṭa buka karāvī che"
+],
+"I had already given my password": [
+"મેં મારો પાસવર્ડ પહેલેથી જ આપી દીધો હતો",
+"Meṃ māro pāsavarḍa pahelethī ja āpī dīdho hato"
+],
+"I have decided plan for tonight": [
+"મેં આજની રાતનો પ્લાન નક્કી કર્યો છે",
+"Meṃ ājanī rātano plāna nakkī karyo che"
+],
+"He happened to say he was from India": [
+"તેણે કહ્યું કે તે ભારતનો છે",
+"Teṇe kahyuṃ ke te bhāratano che"
+],
+"I happened to hear about strike": [
+"મેં હડતાલ વિશે સાંભળ્યું",
+"Meṃ haḍatāla viśe sāṃbhaḻyuṃ"
+],
+"Hey! When did you come?": [
+"અરે! તમે ક્યારે આવ્યા?",
+"Are! tame kyāre āvyā?"
+],
+"Nice smell / Very tasty": [
+"સરસ ગંધ / ખૂબ જ સ્વાદિષ્ટ",
+"Sarasa gaṃdha / khūba ja svādiṣṭa"
+],
+"Oh my God! Who did this?": [
+"હે ભગવાન! આ કોણે કર્યું?",
+"He bhagavāna! ā koṇe karyuṃ?"
+],
+"Oh! He failed!": [
+"ઓહ! તે નિષ્ફળ ગયો!",
+"Oha! te niṣphaḻa gayo!"
+],
+"No! He will never do it": [
+"ના! તે ક્યારેય કરશે નહીં",
+"Nā! te kyāreya karaśe nahīṃ"
+],
+"No! I do not believe": [
+"ના! હું માનતો નથી",
+"Nā! huṃ mānato nathī"
+],
+"Yes! I will surely come": [
+"હા! હું ચોક્કસ આવીશ",
+"Hā! huṃ cokkasa āvīśa"
+],
+"Hmm! I got it": [
+"હમ્મ! મને સમજાયું",
+"Hamma! mane samajāyuṃ"
+],
+"Well done! You won": [
+"શાબાશ! તમે જીતી ગયા",
+"Śābāśa! tame jītī gayā"
+],
+"Mummy! It is paining": [
+"મમી! તે પીડાદાયક છે",
+"Mamī! te pīḍādāyaka che"
+],
+"Yuck! It looks ugly": [
+"યક! તે બિહામણું દેખાય છે",
+"Yaka! te bihāmaṇuṃ dekhāya che"
+],
+"I spit on your cowardice": [
+"હું તમારી કાયરતા પર થૂંકું છું",
+"Huṃ tamārī kāyaratā para thūṃkuṃ chuṃ"
+],
+"Shhh! Keep quiet": [
+"શ્હ! ચૂપ રહો",
+"Śha! cūpa raho"
+],
+"How well you danced!": [
+"તમે કેટલું સારું નાચ્યું!",
+"Tame keṭaluṃ sāruṃ nācyuṃ!"
+],
+"What a fool he is!": [
+"તે કેવો મૂર્ખ છે!",
+"Te kevo mūrkha che!"
+],
+"Oh! What happened then?": [
+"ઓહ! પછી શું થયું?",
+"Oha! pachī śuṃ thayuṃ?"
+],
+"Oh! When did you come?": [
+"ઓહ! તમે ક્યારે આવ્યા?",
+"Oha! tame kyāre āvyā?"
+],
+"Someone may see it! (blush)": [
+"કોઈ તેને જોઈ શકે છે! (બ્લશ)",
+"Koī tene joī śake che! (blaśa)"
+],
+"May I come": [
+"મે આઈ કમ",
+"Me āī kama"
+],
+"May I go": [
+"મે આઈ ગો",
+"Me āī go"
+],
+"May we come": [
+"આપણે આવીએ",
+"Āpaṇe āvīe"
+],
+"May we go": [
+"આપણે જઈએ",
+"Āpaṇe jaīe"
+],
+"May we speak": [
+"આપણે બોલીએ",
+"Āpaṇe bolīe"
+],
+"May you come": [
+"તમે આવો",
+"Tame āvo"
+],
+"May you speak": [
+"તમે બોલો",
+"Tame bolo"
+],
+"May he tell": [
+"તે જણાવે",
+"Te jaṇāve"
+],
+"Can I tell": [
+"હું કહી શકું",
+"Huṃ kahī śakuṃ"
+],
+"Can I write": [
+"હું લખી શકું",
+"Huṃ lakhī śakuṃ"
+],
+"May you give pen": [
+"તમે પેન આપો",
+"Tame pena āpo"
+],
+"Please give pen": [
+"મહેરબાની કરીને પેન આપો",
+"Maherabānī karīne pena āpo"
+],
+"Please tell address": [
+"સરનામું જણાવવા વિનંતી",
+"Saranāmuṃ jaṇāvavā vinaṃtī"
+],
+"He may go": [
+"તે જઈ શકે છે",
+"Te jaī śake che"
+],
+"I may sing": [
+"હું કદાચ ગાઈ શકું",
+"Huṃ kadāca gāī śakuṃ"
+],
+"He might come": [
+"તે આવી શકે છે",
+"Te āvī śake che"
+],
+"He might have gone yesterday": [
+"તે ગઈકાલે ગયો હશે",
+"Te gaīkāle gayo haśe"
+],
+"She might have completed it": [
+"તેણીએ તે પૂર્ણ કર્યું હશે",
+"Teṇīe te pūrṇa karyuṃ haśe"
+],
+"They might have returned yesterday": [
+"તેઓ ગઈકાલે પાછા ફર્યા હશે",
+"Teo gaīkāle pāchā pharyā haśe"
+],
+"He had gone": [
+"તે ગયો હતો",
+"Te gayo hato"
+],
+"He might have gone": [
+"તે કદાચ ગયો હશે",
+"Te kadāca gayo haśe"
+],
+"She had said": [
+"તેણીએ કહ્યું હતું",
+"Teṇīe kahyuṃ hatuṃ"
+],
+"She might have said": [
+"તેણીએ કહ્યું હશે",
+"Teṇīe kahyuṃ haśe"
+],
+"You have eaten mango": [
+"તમે કેરી ખાધી છે",
+"Tame kerī khādhī che"
+],
+"You might have eaten mango": [
+"તમે કેરી ખાધી હશે",
+"Tame kerī khādhī haśe"
+],
+"The day I like": [
+"મને ગમે તે દિવસ",
+"Mane game te divasa"
+],
+"Boy who is giving": [
+"આપનાર છોકરો",
+"Āpanāra chokaro"
+],
+"Person who is dancing": [
+"નૃત્ય કરતી વ્યક્તિ",
+"Nṛtya karatī vyakti"
+],
+"Pot on table": [
+"ટેબલ પર પોટ",
+"Ṭebala para poṭa"
+],
+"Jar on table": [
+"ટેબલ પર જાર",
+"Ṭebala para jāra"
+],
+"Leaf on table": [
+"ટેબલ પર પર્ણ",
+"Ṭebala para parṇa"
+],
+"Gift inside box": [
+"બોક્સની અંદર ભેટ",
+"Boksanī aṃdara bheṭa"
+],
+"Area outside my home": [
+"મારા ઘરની બહારનો વિસ્તાર",
+"Mārā gharanī bahārano vistāra"
+],
+"I make him say": [
+"હું તેને કહું છું",
+"Huṃ tene kahuṃ chuṃ"
+],
+"I will make him say": [
+"હું તેને કહેવડાવીશ",
+"Huṃ tene kahevaḍāvīśa"
+],
+"I made him say": [
+"મેં તેને કહ્યું",
+"Meṃ tene kahyuṃ"
+],
+"He made me work": [
+"તેણે મને કામ કરાવ્યું",
+"Teṇe mane kāma karāvyuṃ"
+],
+"He makes me work": [
+"તે મને કામ કરાવે છે",
+"Te mane kāma karāve che"
+],
+"He will make me work": [
+"તે મને કામ કરાવશે",
+"Te mane kāma karāvaśe"
+],
+"That joke made me laugh": [
+"એ જોક મને હસાવ્યો",
+"E joka mane hasāvyo"
+],
+"Peter made Mary eat mango": [
+"પીટરે મરિયમને કેરી ખાવાનું બનાવ્યું",
+"Pīṭare mariyamane kerī khāvānuṃ banāvyuṃ"
+],
+"Peter made Mary eat mangoes": [
+"પીટરે મરિયમને કેરીઓ ખાવાનું બનાવ્યું",
+"Pīṭare mariyamane kerīo khāvānuṃ banāvyuṃ"
+],
+"I myself did it": [
+"મેં જાતે જ કર્યું",
+"Meṃ jāte ja karyuṃ"
+],
+"I did this itself": [
+"મેં આ જાતે કર્યું",
+"Meṃ ā jāte karyuṃ"
+],
+"I will come tomorrow itself": [
+"હું કાલે જ આવીશ",
+"Huṃ kāle ja āvīśa"
+],
+"I will surely come": [
+"હું ચોક્કસ આવીશ",
+"Huṃ cokkasa āvīśa"
+],
+"I have seen India only": [
+"મેં માત્ર ભારત જોયું છે",
+"Meṃ mātra bhārata joyuṃ che"
+],
+"He kept on talking": [
+"તેણે વાત ચાલુ રાખી",
+"Teṇe vāta cālu rākhī"
+],
+"He kept on staring that car": [
+"તે કારને જોતો રહ્યો",
+"Te kārane joto rahyo"
+],
+"I want only sedan car": [
+"મારે માત્ર સેડાન કાર જોઈએ છે",
+"Māre mātra seḍāna kāra joīe che"
+],
+"I must go there": [
+"મારે ત્યાં જવું જ જોઈએ",
+"Māre tyāṃ javuṃ ja joīe"
+],
+"Why just me?": [
+"શા માટે માત્ર હું?",
+"Śā māṭe mātra huṃ?"
+],
+"I have a car": [
+"મારી પાસે કાર છે",
+"Mārī pāse kāra che"
+],
+"I have 10 cars": [
+"મારી પાસે 10 કાર છે",
+"Mārī pāse 10 kāra che"
+],
+"I had a car": [
+"મારી પાસે એક કાર હતી",
+"Mārī pāse eka kāra hatī"
+],
+"Anup will have watch": [
+"અનુપ પાસે ઘડિયાળ હશે",
+"Anupa pāse ghaḍiyāḻa haśe"
+],
+"I do not have car": [
+"મારી પાસે કાર નથી",
+"Mārī pāse kāra nathī"
+],
+"I did not have car": [
+"મારી પાસે કાર નહોતી",
+"Mārī pāse kāra nahotī"
+],
+"I have 2 brothers": [
+"મારે 2 ભાઈઓ છે",
+"Māre 2 bhāīo che"
+],
+"He has three paternal uncles": [
+"તેના ત્રણ કાકાઓ છે",
+"Tenā traṇa kākāo che"
+],
+"Ravi had 2 kids": [
+"રવિને 2 બાળકો હતા",
+"Ravine 2 bāḻako hatā"
+],
+"He does not have a brother": [
+"તેને કોઈ ભાઈ નથી",
+"Tene koī bhāī nathī"
+],
+"She did not have any relatives": [
+"તેણીના કોઈ સંબંધી ન હતા",
+"Teṇīnā koī saṃbaṃdhī na hatā"
+],
+"What does it mean?": [
+"તેનો અર્થ શું છે?",
+"Teno artha śuṃ che?"
+],
+"What does that signboard mean?": [
+"તે સાઇનબોર્ડનો અર્થ શું છે?",
+"Te sāinaborḍano artha śuṃ che?"
+],
+"What did his speech mean?": [
+"તેમના ભાષણનો અર્થ શું હતો?",
+"Temanā bhāṣaṇano artha śuṃ hato?"
+],
+"What does encyclopedia mean?": [
+"જ્ઞાનકોશનો અર્થ શું છે?",
+"Jñānakośano artha śuṃ che?"
+],
+"What does Sundar mean in Marathi?": [
+"મરાઠીમાં સુંદર શબ્દનો અર્થ શું છે?",
+"Marāṭhīmāṃ suṃdara śabdano artha śuṃ che?"
+],
+"I did mean it": [
+"હું તેનો અર્થ હતો",
+"Huṃ teno artha hato"
+],
+"I did not mean it": [
+"હું તેનો અર્થ નહોતો",
+"Huṃ teno artha nahoto"
+],
+"He did not mean hurting you": [
+"તેનો મતલબ તમને નુકસાન પહોંચાડવાનો નહોતો",
+"Teno matalaba tamane nukasāna pahoṃcāḍavāno nahoto"
+],
+"I meant to insult him": [
+"હું તેનું અપમાન કરવાનો હતો",
+"Huṃ tenuṃ apamāna karavāno hato"
+],
+"He and me": [
+"તે અને હું",
+"Te ane huṃ"
+],
+"Milk and sugar": [
+"દૂધ અને ખાંડ",
+"Dūdha ane khāṃḍa"
+],
+"I want to buy but shop is closed": [
+"મારે ખરીદવું છે પણ દુકાન બંધ છે",
+"Māre kharīdavuṃ che paṇa dukāna baṃdha che"
+],
+"He was clever but did not work hard": [
+"તે હોશિયાર હતો પણ મહેનત કરતો નહોતો",
+"Te hośiyāra hato paṇa mahenata karato nahoto"
+],
+"I had warned him, still he opened the box": [
+"મેં તેને ચેતવણી આપી હતી, તેમ છતાં તેણે બોક્સ ખોલ્યું",
+"Meṃ tene cetavaṇī āpī hatī, tema chatāṃ teṇe boksa kholyuṃ"
+],
+"He helped her still she insulted him": [
+"તેણે તેણીને મદદ કરી છતાં તેણીએ તેનું અપમાન કર્યું",
+"Teṇe teṇīne madada karī chatāṃ teṇīe tenuṃ apamāna karyuṃ"
+],
+"I did not come yesterday, because I was sick": [
+"હું ગઈકાલે આવ્યો ન હતો, કારણ કે હું બીમાર હતો",
+"Huṃ gaīkāle āvyo na hato, kāraṇa ke huṃ bīmāra hato"
+],
+"Car will not start because no petrol": [
+"પેટ્રોલ ન હોવાથી કાર સ્ટાર્ટ નહીં થાય",
+"Peṭrola na hovāthī kāra sṭārṭa nahīṃ thāya"
+],
+"I was sick so I did not come": [
+"હું બીમાર હતો એટલે આવ્યો નહોતો",
+"Huṃ bīmāra hato eṭale āvyo nahoto"
+],
+"No petrol so car will not start": [
+"પેટ્રોલ નહીં એટલે કાર સ્ટાર્ટ નહીં થાય",
+"Peṭrola nahīṃ eṭale kāra sṭārṭa nahīṃ thāya"
+],
+"He told her that he is happy": [
+"તેણે તેણીને કહ્યું કે તે ખુશ છે",
+"Teṇe teṇīne kahyuṃ ke te khuśa che"
+],
+"I am sure that we will succeed": [
+"મને ખાતરી છે કે અમે સફળ થઈશું",
+"Mane khātarī che ke ame saphaḻa thaīśuṃ"
+],
+"As you wish, my lord": [
+"જેમ તમે ઈચ્છો છો, મહારાજ",
+"Jema tame īccho cho, mahārāja"
+],
+"Do it the same way as he is doing": [
+"તે જે રીતે કરી રહ્યો છે તે જ રીતે કરો",
+"Te je rīte karī rahyo che te ja rīte karo"
+],
+"He as well as me": [
+"તે તેમજ હું",
+"Te temaja huṃ"
+],
+"She sang as well as danced": [
+"તેણીએ નૃત્યની સાથે સાથે ગાયું પણ હતું",
+"Teṇīe nṛtyanī sāthe sāthe gāyuṃ paṇa hatuṃ"
+],
+"He or me": [
+"તે કે હું",
+"Te ke huṃ"
+],
+"Do or die": [
+"કરો અથવા મરો",
+"Karo athavā maro"
+],
+"Neither he nor I were interested": [
+"ન તો તેને કે મને રસ હતો",
+"Na to tene ke mane rasa hato"
+],
+"I finished study then I went to play": [
+"મેં અભ્યાસ પૂરો કર્યો પછી હું રમવા ગયો",
+"Meṃ abhyāsa pūro karyo pachī huṃ ramavā gayo"
+],
+"I will call you then you enter on stage": [
+"હું તમને બોલાવીશ પછી તમે સ્ટેજ પર પ્રવેશો",
+"Huṃ tamane bolāvīśa pachī tame sṭeja para praveśo"
+],
+"As long as you want me, I will stay": [
+"જ્યાં સુધી તમે મને ઈચ્છો છો, ત્યાં સુધી હું રહીશ",
+"Jyāṃ sudhī tame mane īccho cho, tyāṃ sudhī huṃ rahīśa"
+],
+"As long as you follow rules": [
+"જ્યાં સુધી તમે નિયમોનું પાલન કરો છો",
+"Jyāṃ sudhī tame niyamonuṃ pālana karo cho"
+],
+"As far as I know, he is studious": [
+"જ્યાં સુધી મને ખબર છે, તે અભ્યાસી છે",
+"Jyāṃ sudhī mane khabara che, te abhyāsī che"
+],
+"As far as India is concerned": [
+"જ્યાં સુધી ભારતનો સવાલ છે",
+"Jyāṃ sudhī bhāratano savāla che"
+],
+"As far as literacy is concerned": [
+"જ્યાં સુધી સાક્ષરતાનો સવાલ છે",
+"Jyāṃ sudhī sākṣaratāno savāla che"
+],
+"He is blaming me as if I have not tried": [
+"તે મારા પર દોષારોપણ કરી રહ્યો છે જાણે મેં પ્રયાસ કર્યો જ નથી",
+"Te mārā para doṣāropaṇa karī rahyo che jāṇe meṃ prayāsa karyo ja nathī"
+],
+"He passed by as if she was not there": [
+"તે ત્યાંથી પસાર થયો જાણે તેણી ત્યાં ન હોય",
+"Te tyāṃthī pasāra thayo jāṇe teṇī tyāṃ na hoya"
+],
+"As soon as he came": [
+"જેવો તે આવ્યો",
+"Jevo te āvyo"
+],
+"As soon as she saw": [
+"જલદી તેણીએ જોયું",
+"Jaladī teṇīe joyuṃ"
+],
+"As soon as they become": [
+"જલદી તેઓ બની જાય છે",
+"Jaladī teo banī jāya che"
+],
+"Let me know once he comes": [
+"એકવાર તે આવે ત્યારે મને જણાવો",
+"Ekavāra te āve tyāre mane jaṇāvo"
+],
+"Once I see your story I will give review": [
+"એકવાર હું તમારી વાર્તા જોઉં પછી હું સમીક્ષા આપીશ",
+"Ekavāra huṃ tamārī vārtā jouṃ pachī huṃ samīkṣā āpīśa"
+],
+"Rather than surrendering soldier will accept death": [
+"સૈનિક શરણાગતિ સ્વીકારવાને બદલે મૃત્યુ સ્વીકારશે",
+"Sainika śaraṇāgati svīkāravāne badale mṛtyu svīkāraśe"
+],
+"I will take tea rather than coffee": [
+"હું કોફી કરતાં ચા લઈશ",
+"Huṃ kophī karatāṃ cā laīśa"
+],
+"I will work hard so that I will win": [
+"હું સખત મહેનત કરીશ જેથી હું જીતીશ",
+"Huṃ sakhata mahenata karīśa jethī huṃ jītīśa"
+],
+"We should avoid plastic so that less pollution": [
+"આપણે પ્લાસ્ટિકથી દૂર રહેવું જોઈએ જેથી પ્રદૂષણ ઓછું થાય",
+"Āpaṇe plāsṭikathī dūra rahevuṃ joīe jethī pradūṣaṇa ochuṃ thāya"
+],
+"He cheated me whereas I was helping him": [
+"જ્યારે હું તેને મદદ કરતો હતો ત્યારે તેણે મને છેતર્યો",
+"Jyāre huṃ tene madada karato hato tyāre teṇe mane chetaryo"
+],
+"Govt said prices declined whereas inflation rose": [
+"સરકારે કહ્યું કે ભાવમાં ઘટાડો થયો જ્યારે ફુગાવો વધ્યો",
+"Sarakāre kahyuṃ ke bhāvamāṃ ghaṭāḍo thayo jyāre phugāvo vadhyo"
+],
+"I did not know whether he is going": [
+"મને ખબર નહોતી કે તે જઈ રહ્યો છે કે નહીં",
+"Mane khabara nahotī ke te jaī rahyo che ke nahīṃ"
+],
+"She could not realize whether to speak or not": [
+"તેણીને સમજાયું નહીં કે બોલવું કે નહીં",
+"Teṇīne samajāyuṃ nahīṃ ke bolavuṃ ke nahīṃ"
+],
+"Do this otherwise you will not win": [
+"આ કરો નહીંતર તમે જીતી શકશો નહીં",
+"Ā karo nahīṃtara tame jītī śakaśo nahīṃ"
+],
+"He should inform me otherwise I will not know": [
+"તેણે મને જાણ કરવી જોઈએ નહીં તો મને ખબર નહીં પડે",
+"Teṇe mane jāṇa karavī joīe nahīṃ to mane khabara nahīṃ paḍe"
+],
+"I also ran": [
+"હું પણ દોડ્યો",
+"Huṃ paṇa doḍyo"
+],
+"He will come tomorrow as well": [
+"તે કાલે પણ આવશે",
+"Te kāle paṇa āvaśe"
+],
+"This is old video. I saw it. I am sharing today": [
+"આ જુનો વિડીયો છે. મેં તે જોયું. આજે શેર કરું છું",
+"Ā juno viḍīyo che. meṃ te joyuṃ. āje śera karuṃ chuṃ"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"આ જુનો વિડીયો છે છતાં મેં જોયો એટલે આજે શેર કરી રહ્યો છું",
+"Ā juno viḍīyo che chatāṃ meṃ joyo eṭale āje śera karī rahyo chuṃ"
+],
+"This is old song. I heard it today": [
+"આ જૂનું ગીત છે. મેં આજે તે સાંભળ્યું",
+"Ā jūnuṃ gīta che. meṃ āje te sāṃbhaḻyuṃ"
+],
+"Though it is old song, I heard it today": [
+"જૂનું ગીત હોવા છતાં આજે સાંભળ્યું",
+"Jūnuṃ gīta hovā chatāṃ āje sāṃbhaḻyuṃ"
+],
+"My wife was standing there. He asked about girlfriend": [
+"મારી પત્ની ત્યાં ઊભી હતી. તેણે ગર્લફ્રેન્ડ વિશે પૂછ્યું",
+"Mārī patnī tyāṃ ūbhī hatī. teṇe garlaphrenḍa viśe pūchyuṃ"
+],
+"My wife was standing there yet he asked": [
+"મારી પત્ની ત્યાં ઊભી હતી છતાં તેણે પૂછ્યું",
+"Mārī patnī tyāṃ ūbhī hatī chatāṃ teṇe pūchyuṃ"
+],
+"Policeman was watching. He did not dare to run": [
+"પોલીસકર્મી જોઈ રહ્યો. દોડવાની તેની હિંમત નહોતી",
+"Polīsakarmī joī rahyo. doḍavānī tenī hiṃmata nahotī"
+],
+"As policeman was watching he did not dare": [
+"પોલીસકર્મી જોઈ રહ્યો હોવાથી તેની હિંમત ન થઈ",
+"Polīsakarmī joī rahyo hovāthī tenī hiṃmata na thaī"
+],
+"I had illusion of monsters coming": [
+"મને રાક્ષસો આવવાનો ભ્રમ હતો",
+"Mane rākṣaso āvavāno bhrama hato"
+],
+"Now she will search it forever": [
+"હવે તે તેને કાયમ માટે શોધશે",
+"Have te tene kāyama māṭe śodhaśe"
+],
+"If we think of eating mango then..": [
+"કેરી ખાવાનું વિચારીએ તો..",
+"Kerī khāvānuṃ vicārīe to.."
+],
+"If he decides to take revenge..": [
+"જો તેણે બદલો લેવાનું નક્કી કર્યું..",
+"Jo teṇe badalo levānuṃ nakkī karyuṃ.."
+],
+"I have decided a plan for tonight": [
+"મેં આજની રાતનો પ્લાન નક્કી કર્યો છે",
+"Meṃ ājanī rātano plāna nakkī karyo che"
+],
+"I feel this way": [
+"હું આ રીતે અનુભવું છું",
+"Huṃ ā rīte anubhavuṃ chuṃ"
+],
+"I feel this": [
+"હું આ અનુભવું છું",
+"Huṃ ā anubhavuṃ chuṃ"
+],
+"He felt that I will not come": [
+"તેને લાગ્યું કે હું નહિ આવું",
+"Tene lāgyuṃ ke huṃ nahi āvuṃ"
+],
+"What do you feel?": [
+"તમને શું લાગે છે?",
+"Tamane śuṃ lāge che?"
+],
+"He felt happiness": [
+"તેણે ખુશીનો અનુભવ કર્યો",
+"Teṇe khuśīno anubhava karyo"
+],
+"Don't you feel ashamed?": [
+"તને શરમ નથી આવતી?",
+"Tane śarama nathī āvatī?"
+],
+"Kaushik thinks he should go": [
+"કૌશિક વિચારે છે કે તેણે જવું જોઈએ",
+"Kauśika vicāre che ke teṇe javuṃ joīe"
+],
+"He will feel bad": [
+"તેને ખરાબ લાગશે",
+"Tene kharāba lāgaśe"
+],
+"To show different aspects": [
+"વિવિધ પાસાઓ બતાવવા માટે",
+"Vividha pāsāo batāvavā māṭe"
+],
+"To follow up & pressurize": [
+"અનુસરવા અને દબાણ કરવા માટે",
+"Anusaravā ane dabāṇa karavā māṭe"
+],
+"Every home same story": [
+"દરેક ઘરની સમાન વાર્તા",
+"Dareka gharanī samāna vārtā"
+],
+"To approve formally": [
+"ઔપચારિક રીતે મંજૂર કરવા",
+"Aupacārika rīte maṃjūra karavā"
+],
+"To cause destruction": [
+"વિનાશનું કારણ બને છે",
+"Vināśanuṃ kāraṇa bane che"
+],
+"Repeat like tape": [
+"ટેપની જેમ પુનરાવર્તન કરો",
+"Ṭepanī jema punarāvartana karo"
+],
+"To force to do": [
+"કરવા દબાણ કરવું",
+"Karavā dabāṇa karavuṃ"
+],
+"No control on tongue": [
+"જીભ પર નિયંત્રણ નથી",
+"Jībha para niyaṃtraṇa nathī"
+],
+"Not utter a word": [
+"એક શબ્દ પણ ઉચ્ચારતો નથી",
+"Eka śabda paṇa uccārato nathī"
+],
+"To take control": [
+"નિયંત્રણમાં લેવા માટે",
+"Niyaṃtraṇamāṃ levā māṭe"
+],
+"To feel embarrassed": [
+"શરમ અનુભવવી",
+"Śarama anubhavavī"
+],
+"To spew venom": [
+"ઝેર ફેંકવું",
+"Jhera pheṃkavuṃ"
+],
+"To uncover mystery": [
+"રહસ્ય ખોલવા માટે",
+"Rahasya kholavā māṭe"
+],
+"To be puzzled": [
+"કોયડારૂપ થવું",
+"Koyaḍārūpa thavuṃ"
+],
+"To defeat completely": [
+"સંપૂર્ણપણે હરાવવા માટે",
+"Saṃpūrṇapaṇe harāvavā māṭe"
+],
+"If employee works 1 year, gratuity right": [
+"જો કર્મચારી 1 વર્ષ કામ કરે છે, તો ગ્રેચ્યુટીનો અધિકાર",
+"Jo karmacārī 1 varṣa kāma kare che, to grecyuṭīno adhikāra"
+],
+"If wrong info given, disciplinary action": [
+"જો ખોટી માહિતી આપવામાં આવે તો, શિસ્તબદ્ધ કાર્યવાહી",
+"Jo khoṭī māhitī āpavāmāṃ āve to, śistabaddha kāryavāhī"
+],
+"If possible, come to meet me": [
+"બની શકે તો મને મળવા આવજો",
+"Banī śake to mane maḻavā āvajo"
+],
+"What does this mean?": [
+"આનો અર્થ શું છે?",
+"Āno artha śuṃ che?"
+],
+"I came because you called": [
+"તમે બોલાવ્યા એટલે હું આવ્યો છું",
+"Tame bolāvyā eṭale huṃ āvyo chuṃ"
+],
+"Someone called Kaushik has come": [
+"કૌશિક નામનું કોઈ આવ્યું છે",
+"Kauśika nāmanuṃ koī āvyuṃ che"
+],
+"Someone named Kaushik has come": [
+"કૌશિક નામની વ્યક્તિ આવી છે",
+"Kauśika nāmanī vyakti āvī che"
+],
+"Why do you want it for?": [
+"શા માટે તમે તે માંગો છો?",
+"Śā māṭe tame te māṃgo cho?"
+],
+"What is its reason?": [
+"તેનું કારણ શું છે?",
+"Tenuṃ kāraṇa śuṃ che?"
+],
+"You only complete this": [
+"તમે જ આ પૂર્ણ કરો",
+"Tame ja ā pūrṇa karo"
+],
+"It is you who told": [
+"તે તમે જ કહ્યું છે",
+"Te tame ja kahyuṃ che"
+],
+"I want it tomorrow itself": [
+"મારે કાલે જ જોઈએ છે",
+"Māre kāle ja joīe che"
+],
+"I am bored": [
+"હું કંટાળી ગયો છું",
+"Huṃ kaṃṭāḻī gayo chuṃ"
+],
+"He was bored": [
+"તે કંટાળી ગયો હતો",
+"Te kaṃṭāḻī gayo hato"
+],
+"Relative / Relatives": [
+"સંબંધી / સંબંધીઓ",
+"Saṃbaṃdhī / saṃbaṃdhīo"
+],
+"Father's brother's wife": [
+"પિતાના ભાઈની પત્ની",
+"Pitānā bhāīnī patnī"
+],
+"Father's brother's son": [
+"પિતાના ભાઈનો પુત્ર",
+"Pitānā bhāīno putra"
+],
+"Father's brother's daughter": [
+"બાપના ભાઈની દીકરી",
+"Bāpanā bhāīnī dīkarī"
+],
+"Mother's brother's wife": [
+"માતાના ભાઈની પત્ની",
+"Mātānā bhāīnī patnī"
+],
+"Mother's brother's son": [
+"માતાના ભાઈનો પુત્ર",
+"Mātānā bhāīno putra"
+],
+"Mother's brother's daughter": [
+"માતાના ભાઈની પુત્રી",
+"Mātānā bhāīnī putrī"
+],
+"Father's sister's son": [
+"પિતાની બહેનનો પુત્ર",
+"Pitānī bahenano putra"
+],
+"Father's sister's daughter": [
+"બાપની બહેનની દીકરી",
+"Bāpanī bahenanī dīkarī"
+],
+"Father's sister's husband": [
+"પિતાની બહેનનો પતિ",
+"Pitānī bahenano pati"
+],
+"Mother's sister's son": [
+"માતાની બહેનનો પુત્ર",
+"Mātānī bahenano putra"
+],
+"Mother's sister's daughter": [
+"માતાની બહેનની પુત્રી",
+"Mātānī bahenanī putrī"
+],
+"Mother's sister's husband": [
+"માતાની બહેનનો પતિ",
+"Mātānī bahenano pati"
+],
+"Great grand father": [
+"મહાન દાદા",
+"Mahāna dādā"
+],
+"Great grand mother": [
+"ગ્રેટ ગ્રાન્ડ મધર",
+"Greṭa grānḍa madhara"
+],
+"Son's wife / Daughter in law": [
+"પુત્રની પત્ની / પુત્રવધૂ",
+"Putranī patnī / putravadhū"
+],
+"Daughter's husband / Son in law": [
+"પુત્રીનો પતિ / જમાઈ",
+"Putrīno pati / jamāī"
+],
+"Father in law": [
+"સસરા",
+"Sasarā"
+],
+"Mother in law": [
+"સાસુ",
+"Sāsu"
+],
+"Father in law's father": [
+"સસરાના પિતા",
+"Sasarānā pitā"
+],
+"We": [
+"અમે",
+"Ame"
+],
+"You (singular)": [
+"તમે (એકવચન)",
+"Tame (ekavacana)"
+],
+"You (plural)": [
+"તમે (બહુવચન)",
+"Tame (bahuvacana)"
+],
+"This (m.)": [
+"આ (એમ.)",
+"Ā (ema.)"
+],
+"This (f.)": [
+"આ (f.)",
+"Ā (f.)"
+],
+"This (n.)": [
+"આ (એન.)",
+"Ā (ena.)"
+],
+"These (m.)": [
+"આ (એમ.)",
+"Ā (ema.)"
+],
+"These (f.)": [
+"આ (f.)",
+"Ā (f.)"
+],
+"These (n.)": [
+"આ (એન.)",
+"Ā (ena.)"
+],
+"Self": [
+"સ્વ",
+"Sva"
+],
+"Sing": [
+"ગાઓ",
+"Gāo"
+],
+"Beat": [
+"બીટ",
+"Bīṭa"
+],
+"Write": [
+"લખો",
+"Lakho"
+],
+"Do": [
+"કરો",
+"Karo"
+],
+"Get up": [
+"ઉઠો",
+"Uṭho"
+],
+"Stop": [
+"રોકો",
+"Roko"
+],
+"Close": [
+"બંધ કરો",
+"Baṃdha karo"
+],
+"I (male)": [
+"હું (પુરુષ)",
+"Huṃ (puruṣa)"
+],
+"I (female)": [
+"હું (સ્ત્રી)",
+"Huṃ (strī)"
+],
+"We dance": [
+"અમે નૃત્ય કરીએ છીએ",
+"Ame nṛtya karīe chīe"
+],
+"He walks": [
+"તે ચાલે છે",
+"Te cāle che"
+],
+"She speaks": [
+"તેણી બોલે છે",
+"Teṇī bole che"
+],
+"It moves": [
+"તે ફરે છે",
+"Te phare che"
+],
+"They dance": [
+"તેઓ નૃત્ય કરે છે",
+"Teo nṛtya kare che"
+],
+"You (singular/plural)": [
+"તમે (એકવચન/બહુવચન)",
+"Tame (ekavacana/bahuvacana)"
+],
+"They (all)": [
+"તેઓ (બધા)",
+"Teo (badhā)"
+],
+"I (male/female)": [
+"હું (પુરુષ/સ્ત્રી)",
+"Huṃ (puruṣa/strī)"
+],
+"He": [
+"તેમણે",
+"Temaṇe"
+],
+"She": [
+"તેણીએ",
+"Teṇīe"
+],
+"It": [
+"તે",
+"Te"
+],
+"They (m.)": [
+"તેઓ (એમ.)",
+"Teo (ema.)"
+],
+"They (f.)": [
+"તેઓ (એફ.)",
+"Teo (epha.)"
+],
+"They (n.)": [
+"તેઓ (એન.)",
+"Teo (ena.)"
+],
+"This (Male)": [
+"આ (પુરુષ)",
+"Ā (puruṣa)"
+],
+"This (Female)": [
+"આ (સ્ત્રી)",
+"Ā (strī)"
+],
+"This (neuter)": [
+"આ (ન્યુટર)",
+"Ā (nyuṭara)"
+],
+"These (male/female/neuter)": [
+"આ (પુરુષ/સ્ત્રી/ન્યુટર)",
+"Ā (puruṣa/strī/nyuṭara)"
+],
+"about": [
+"વિશે",
+"Viśe"
+],
+"across": [
+"સમગ્ર",
+"Samagra"
+],
+"against": [
+"સામે",
+"Sāme"
+],
+"Among": [
+"વચ્ચે",
+"Vacce"
+],
+"Around": [
+"આસપાસ",
+"Āsapāsa"
+],
+"As/like": [
+"જેમ/જેમ",
+"Jema/jema"
+],
+"aside": [
+"એક બાજુ",
+"Eka bāju"
+],
+"for": [
+"માટે",
+"Māṭe"
+],
+"From/since": [
+"થી/ત્યારથી",
+"Thī/tyārathī"
+],
+"in": [
+"માં",
+"Māṃ"
+],
+"till/until": [
+"સુધી/જ્યાં સુધી",
+"Sudhī/jyāṃ sudhī"
+],
+"without": [
+"વગર",
+"Vagara"
+],
+"during": [
+"દરમિયાન",
+"Daramiyāna"
+],
+"Near/close to": [
+"નજીક/ની નજીક",
+"Najīka/nī najīka"
+],
+"towards": [
+"તરફ",
+"Tarapha"
+],
+"with": [
+"સાથે",
+"Sāthe"
+],
+"Instead of": [
+"ની જગ્યાએ",
+"Nī jagyāe"
+],
+"Prior to": [
+"થી પહેલા",
+"Thī pahelā"
+],
+"Because of": [
+"કારણે",
+"Kāraṇe"
+],
+"According to": [
+"અનુસાર",
+"Anusāra"
+],
+"Through": [
+"દ્વારા",
+"Dvārā"
+],
+"You speak": [
+"તમે બોલો",
+"Tame bolo"
+],
+"Read it": [
+"તે વાંચો",
+"Te vāṃco"
+],
+"Do it": [
+"તે કરો",
+"Te karo"
+],
+"You go": [
+"તમે જાઓ",
+"Tame jāo"
+],
+"You give": [
+"તમે આપો",
+"Tame āpo"
+],
+"You drink": [
+"તમે પીઓ",
+"Tame pīo"
+],
+"Toy moved": [
+"રમકડું ખસેડ્યું",
+"Ramakaḍuṃ khaseḍyuṃ"
+],
+"To cook": [
+"રાંધવા માટે",
+"Rāṃdhavā māṭe"
+],
+"Rice cooked": [
+"ચોખા રાંધ્યા",
+"Cokhā rāṃdhyā"
+],
+"To die": [
+"મરવું",
+"Maravuṃ"
+],
+"To fall": [
+"પડવું",
+"Paḍavuṃ"
+],
+"Glass broke": [
+"કાચ તૂટી ગયો",
+"Kāca tūṭī gayo"
+],
+"To leave": [
+"છોડવા માટે",
+"Choḍavā māṭe"
+],
+"To drink": [
+"પીવા માટે",
+"Pīvā māṭe"
+],
+"To eat": [
+"ખાવા માટે",
+"Khāvā māṭe"
+],
+"To feed": [
+"ખવડાવવું",
+"Khavaḍāvavuṃ"
+],
+"To speak": [
+"બોલવું",
+"Bolavuṃ"
+],
+"To run": [
+"ચલાવવા માટે",
+"Calāvavā māṭe"
+],
+"my": [
+"મારા",
+"Mārā"
+],
+"speaking": [
+"બોલવું",
+"Bolavuṃ"
+],
+"your": [
+"તમારું",
+"Tamāruṃ"
+],
+"his": [
+"તેના",
+"Tenā"
+],
+"Ram's": [
+"રામની",
+"Rāmanī"
+],
+"dance": [
+"નૃત્ય",
+"Nṛtya"
+],
+"About speaking": [
+"બોલવા વિશે",
+"Bolavā viśe"
+],
+"For eating": [
+"ખાવા માટે",
+"Khāvā māṭe"
+],
+"while speaking": [
+"બોલતી વખતે",
+"Bolatī vakhate"
+],
+"while doing": [
+"કરતી વખતે",
+"Karatī vakhate"
+],
+"while dancing": [
+"નૃત્ય કરતી વખતે",
+"Nṛtya karatī vakhate"
+],
+"to see": [
+"જોવા માટે",
+"Jovā māṭe"
+],
+"to do": [
+"કરવા માટે",
+"Karavā māṭe"
+],
+"to dance": [
+"નૃત્ય કરવા માટે",
+"Nṛtya karavā māṭe"
+],
+"Black horse": [
+"કાળો ઘોડો",
+"Kāḻo ghoḍo"
+],
+"Black chair": [
+"કાળી ખુરશી",
+"Kāḻī khuraśī"
+],
+"Black page": [
+"કાળું પાનું",
+"Kāḻuṃ pānuṃ"
+],
+"Black horses": [
+"કાળા ઘોડા",
+"Kāḻā ghoḍā"
+],
+"Black chairs": [
+"કાળી ખુરશીઓ",
+"Kāḻī khuraśīo"
+],
+"Black pages": [
+"કાળા પૃષ્ઠો",
+"Kāḻā pṛṣṭho"
+],
+"Good horse": [
+"સારો ઘોડો",
+"Sāro ghoḍo"
+],
+"Good chair": [
+"સારી ખુરશી",
+"Sārī khuraśī"
+],
+"Easy exam": [
+"સરળ પરીક્ષા",
+"Saraḻa parīkṣā"
+],
+"Red horse": [
+"લાલ ઘોડો",
+"Lāla ghoḍo"
+],
+"Beautiful drawing": [
+"સુંદર ચિત્ર",
+"Suṃdara citra"
+],
+"Talking boy": [
+"વાત કરતો છોકરો",
+"Vāta karato chokaro"
+],
+"Rotating fan": [
+"ફરતો પંખો",
+"Pharato paṃkho"
+],
+"Talking girl": [
+"વાત કરતી છોકરી",
+"Vāta karatī chokarī"
+],
+"Moving chair": [
+"ફરતી ખુરશી",
+"Pharatī khuraśī"
+],
+"Flying saucer": [
+"ઉડતી રકાબી",
+"Uḍatī rakābī"
+],
+"Talking book": [
+"વાત કરવાનું પુસ્તક",
+"Vāta karavānuṃ pustaka"
+],
+"Moving tree": [
+"ફરતું વૃક્ષ",
+"Pharatuṃ vṛkṣa"
+],
+"Talked boy": [
+"બોલ્યો છોકરો",
+"Bolyo chokaro"
+],
+"Rotated fan": [
+"પંખો ફેરવ્યો",
+"Paṃkho pheravyo"
+],
+"Talked girl": [
+"છોકરી વાત કરી",
+"Chokarī vāta karī"
+],
+"Moved chair": [
+"ખુરશી ખસેડી",
+"Khuraśī khaseḍī"
+],
+"Flown saucer": [
+"ઉડેલી રકાબી",
+"Uḍelī rakābī"
+],
+"Talked book": [
+"વાર્તાલાપ પુસ્તક",
+"Vārtālāpa pustaka"
+],
+"Moved tree": [
+"ખસેડાયેલ વૃક્ષ",
+"Khaseḍāyela vṛkṣa"
+],
+"What happened?": [
+"શું થયું?",
+"Śuṃ thayuṃ?"
+],
+"More bitter": [
+"વધુ કડવું",
+"Vadhu kaḍavuṃ"
+],
+"Most bitter": [
+"સૌથી કડવો",
+"Sauthī kaḍavo"
+],
+"Tall": [
+"ઊંચા",
+"Ūṃcā"
+],
+"Taller": [
+"ઊંચા",
+"Ūṃcā"
+],
+"Tallest": [
+"સૌથી ઊંચું",
+"Sauthī ūṃcuṃ"
+],
+"Better": [
+"વધુ સારું",
+"Vadhu sāruṃ"
+],
+"Best": [
+"શ્રેષ્ઠ",
+"Śreṣṭha"
+],
+"Let's play": [
+"ચાલો રમીએ",
+"Cālo ramīe"
+],
+"Let's go": [
+"ચાલો",
+"Cālo"
+],
+"Let's speak": [
+"ચાલો વાત કરીએ",
+"Cālo vāta karīe"
+],
+"Really!": [
+"ખરેખર!",
+"Kharekhara!"
+],
+"How big!": [
+"કેટલું મોટું!",
+"Keṭaluṃ moṭuṃ!"
+],
+"Very bad": [
+"બહુ ખરાબ",
+"Bahu kharāba"
+],
+"Good handwriting": [
+"સારી હસ્તાક્ષર",
+"Sārī hastākṣara"
+],
+"Very Good": [
+"વેરી ગુડ",
+"Verī guḍa"
+],
+"Excellent!": [
+"ઉત્તમ!",
+"Uttama!"
+],
+"Speaking phone": [
+"બોલતા ફોન",
+"Bolatā phona"
+],
+"Something fishy": [
+"માછલી જેવું કંઈક",
+"Māchalī jevuṃ kaṃīka"
+],
+"Dampen spirit": [
+"ભાવનાને ભીની કરો",
+"Bhāvanāne bhīnī karo"
+],
+"To threaten": [
+"ધમકી આપવી",
+"Dhamakī āpavī"
+],
+"After-effects": [
+"પછીની અસરો",
+"Pachīnī asaro"
+],
+"To override/violate": [
+"ઓવરરાઇડ/ઉલ્લંઘન કરવા માટે",
+"Ovararāiḍa/ullaṃghana karavā māṭe"
+],
+"To renounce": [
+"ત્યાગ કરવો",
+"Tyāga karavo"
+],
+"To pretend": [
+"ડોળ કરવો",
+"Ḍoḻa karavo"
+],
+"To trap": [
+"ફસાવવા માટે",
+"Phasāvavā māṭe"
+],
+"To support": [
+"આધાર આપવા માટે",
+"Ādhāra āpavā māṭe"
+],
+"To strike": [
+"હડતાલ કરવી",
+"Haḍatāla karavī"
+],
+"To pardon": [
+"ક્ષમા કરવી",
+"Kṣamā karavī"
+],
+"Cryptography means?": [
+"ક્રિપ્ટોગ્રાફી એટલે?",
+"Kripṭogrāphī eṭale?"
+],
+"Relation": [
+"સંબંધ",
+"Saṃbaṃdha"
+],
+"Direct brother": [
+"સીધો ભાઈ",
+"Sīdho bhāī"
+],
+"Direct sister": [
+"સીધી બહેન",
+"Sīdhī bahena"
+],
+"Grand father": [
+"દાદા",
+"Dādā"
+],
+"Grand mother": [
+"દાદીમા",
+"Dādīmā"
+],
+"Father's brother": [
+"પિતાનો ભાઈ",
+"Pitāno bhāī"
+],
+"Mother's brother": [
+"માતાનો ભાઈ",
+"Mātāno bhāī"
+],
+"Father's sister": [
+"પિતાની બહેન",
+"Pitānī bahena"
+],
+"Mother's sister": [
+"માતાની બહેન",
+"Mātānī bahena"
+],
+"Grandson's wife": [
+"પૌત્રની પત્ની",
+"Pautranī patnī"
+],
+"Great grandson": [
+"મહાન પૌત્ર",
+"Mahāna pautra"
+],
+"Great granddaughter": [
+"મહાન પૌત્રી",
+"Mahāna pautrī"
+],
+"Husband's brother": [
+"પતિનો ભાઈ",
+"Patino bhāī"
+],
+"Husband's sister": [
+"પતિની બહેન",
+"Patinī bahena"
+],
+"Wife's brother": [
+"પત્નીનો ભાઈ",
+"Patnīno bhāī"
+],
+"Wife's sister": [
+"પત્નીની બહેન",
+"Patnīnī bahena"
+],
+"Sister's husband": [
+"બહેનનો પતિ",
+"Bahenano pati"
+],
+"Sister's son": [
+"બહેનનો દીકરો",
+"Bahenano dīkaro"
+],
+"Sister's daughter": [
+"બહેનની દીકરી",
+"Bahenanī dīkarī"
+],
+"Friend (boy)": [
+"મિત્ર (છોકરો)",
+"Mitra (chokaro)"
+],
+"Friend (girl)": [
+"મિત્ર (છોકરી)",
+"Mitra (chokarī)"
+],
+"Bridegroom": [
+"વરરાજા",
+"Vararājā"
+],
+"Adopted son": [
+"દત્તક પુત્ર",
+"Dattaka putra"
+],
+"Adopted daughter": [
+"દત્તક દીકરી",
+"Dattaka dīkarī"
+],
+"Assumed son": [
+"માની લીધો પુત્ર",
+"Mānī līdho putra"
+],
+"Assumed daughter": [
+"માની દીકરી",
+"Mānī dīkarī"
+],
+"To wash": [
+"ધોવા માટે",
+"Dhovā māṭe"
+],
+"To brush": [
+"બ્રશ કરવા માટે",
+"Braśa karavā māṭe"
+],
+"To gargle": [
+"ગાર્ગલ કરવું",
+"Gārgala karavuṃ"
+],
+"To fold": [
+"ફોલ્ડ કરવા માટે",
+"Pholḍa karavā māṭe"
+],
+"To urinate": [
+"પેશાબ કરવો",
+"Peśāba karavo"
+],
+"To exercise": [
+"કસરત કરવી",
+"Kasarata karavī"
+],
+"To bath": [
+"સ્નાન કરવું",
+"Snāna karavuṃ"
+],
+"To change": [
+"બદલવા માટે",
+"Badalavā māṭe"
+],
+"To wear": [
+"પહેરવા માટે",
+"Paheravā māṭe"
+],
+"To comb": [
+"કાંસકો કરવો",
+"Kāṃsako karavo"
+],
+"To apply": [
+"અરજી કરવી",
+"Arajī karavī"
+],
+"To close": [
+"બંધ કરવા માટે",
+"Baṃdha karavā māṭe"
+],
+"To sit": [
+"બેસવું",
+"Besavuṃ"
+],
+"To start": [
+"શરૂ કરવા માટે",
+"Śarū karavā māṭe"
+],
+"To reach": [
+"સુધી પહોંચવું",
+"Sudhī pahoṃcavuṃ"
+],
+"To work": [
+"કામ કરવા માટે",
+"Kāma karavā māṭe"
+],
+"To speak/say/talk": [
+"બોલવું/કહેવું/વાત કરવી",
+"Bolavuṃ/kahevuṃ/vāta karavī"
+],
+"To answer": [
+"જવાબ આપવા માટે",
+"Javāba āpavā māṭe"
+],
+"To send": [
+"મોકલવા માટે",
+"Mokalavā māṭe"
+],
+"To chitchat": [
+"ચિટચેટ કરવા માટે",
+"Ciṭaceṭa karavā māṭe"
+],
+"To buy": [
+"ખરીદવા માટે",
+"Kharīdavā māṭe"
+],
+"To sell": [
+"વેચવા માટે",
+"Vecavā māṭe"
+],
+"To put/keep": [
+"મૂકવા/રાખવા માટે",
+"Mūkavā/rākhavā māṭe"
+],
+"To put": [
+"મૂકવા માટે",
+"Mūkavā māṭe"
+],
+"To count": [
+"ગણવા",
+"Gaṇavā"
+],
+"To stand": [
+"ઊભા રહેવું",
+"Ūbhā rahevuṃ"
+],
+"To listen": [
+"સાંભળવા માટે",
+"Sāṃbhaḻavā māṭe"
+],
+"To return": [
+"પરત કરવા માટે",
+"Parata karavā māṭe"
+],
+"To open": [
+"ખોલવા માટે",
+"Kholavā māṭe"
+],
+"To lift": [
+"ઉપાડવા માટે",
+"Upāḍavā māṭe"
+],
+"To play": [
+"રમવા માટે",
+"Ramavā māṭe"
+],
+"To jump": [
+"કૂદવાનું",
+"Kūdavānuṃ"
+],
+"To hide": [
+"છુપાવવા માટે",
+"Chupāvavā māṭe"
+],
+"To search": [
+"શોધવા માટે",
+"Śodhavā māṭe"
+],
+"To recite": [
+"પાઠ કરવા",
+"Pāṭha karavā"
+],
+"To sing": [
+"ગાવાનું",
+"Gāvānuṃ"
+],
+"To shout": [
+"બૂમો પાડવી",
+"Būmo pāḍavī"
+],
+"To throw": [
+"ફેંકવું",
+"Pheṃkavuṃ"
+],
+"To hit": [
+"મારવા માટે",
+"Māravā māṭe"
+],
+"To ask": [
+"પૂછવું",
+"Pūchavuṃ"
+],
+"To clean": [
+"સાફ કરવા માટે",
+"Sāpha karavā māṭe"
+],
+"To cut": [
+"કાપવા માટે",
+"Kāpavā māṭe"
+],
+"To break": [
+"તોડવા માટે",
+"Toḍavā māṭe"
+],
+"To burst": [
+"ફૂટવું",
+"Phūṭavuṃ"
+],
+"To write": [
+"લખવા માટે",
+"Lakhavā māṭe"
+],
+"Accept": [
+"સ્વીકારો",
+"Svīkāro"
+],
+"Bring": [
+"લાવો",
+"Lāvo"
+],
+"Complain": [
+"ફરિયાદ કરો",
+"Phariyāda karo"
+],
+"Draw": [
+"દોરો",
+"Doro"
+],
+"Fall": [
+"પડવું",
+"Paḍavuṃ"
+],
+"Fill": [
+"ભરો",
+"Bharo"
+],
+"Start/begin": [
+"પ્રારંભ/શરૂ કરો",
+"Prāraṃbha/śarū karo"
+],
+"Finish": [
+"સમાપ્ત કરો",
+"Samāpta karo"
+],
+"Live": [
+"જીવંત",
+"Jīvaṃta"
+],
+"See/watch/look": [
+"જુઓ/જુઓ/જુઓ",
+"Juo/juo/juo"
+],
+"Use": [
+"ઉપયોગ કરો",
+"Upayoga karo"
+],
+"Teach": [
+"શીખવો",
+"Śīkhavo"
+],
+"Study": [
+"અભ્યાસ",
+"Abhyāsa"
+],
+"Read": [
+"વાંચો",
+"Vāṃco"
+],
+"Make/prepare": [
+"બનાવો/તૈયાર કરો",
+"Banāvo/taiyāra karo"
+],
+"Fly": [
+"ફ્લાય",
+"Phlāya"
+],
+"Get bored": [
+"કંટાળો આવે છે",
+"Kaṃṭāḻo āve che"
+],
+"Leave": [
+"છોડો",
+"Choḍo"
+],
+"Want/need": [
+"જોઈએ/જરૂર",
+"Joīe/jarūra"
+],
+"Sign": [
+"સહી",
+"Sahī"
+],
+"Swim": [
+"તરવું",
+"Taravuṃ"
+],
+"Try": [
+"પ્રયત્ન કરો",
+"Prayatna karo"
+],
+"Worry": [
+"ચિંતા કરો",
+"Ciṃtā karo"
+],
+"Achieve": [
+"હાંસલ કરો",
+"Hāṃsala karo"
+],
+"Admit (mistake)": [
+"કબૂલ કરો (ભૂલ)",
+"Kabūla karo (bhūla)"
+],
+"Admit (school)": [
+"પ્રવેશ (શાળા)",
+"Praveśa (śāḻā)"
+],
+"Afford": [
+"પરવડે છે",
+"Paravaḍe che"
+],
+"Win": [
+"જીત",
+"Jīta"
+],
+"Lose": [
+"હારવું",
+"Hāravuṃ"
+],
+"Shake": [
+"હલાવો",
+"Halāvo"
+],
+"Decide": [
+"નક્કી કરો",
+"Nakkī karo"
+],
+"Hold": [
+"પકડી રાખો",
+"Pakaḍī rākho"
+],
+"Choose": [
+"પસંદ કરો",
+"Pasaṃda karo"
+],
+"Turn": [
+"વળો",
+"Vaḻo"
+],
+"Rise": [
+"ઉદય",
+"Udaya"
+],
+"Set (sun,moon)": [
+"સેટ (સૂર્ય, ચંદ્ર)",
+"Seṭa (sūrya, caṃdra)"
+],
+"Deny": [
+"નામંજૂર કરો",
+"Nāmaṃjūra karo"
+],
+"To reproach/blame": [
+"ઠપકો/દોષ",
+"Ṭhapako/doṣa"
+],
+"To color": [
+"રંગ કરવા માટે",
+"Raṃga karavā māṭe"
+],
+"To destroy": [
+"નાશ કરવા માટે",
+"Nāśa karavā māṭe"
+],
+"Big": [
+"મોટા",
+"Moṭā"
+],
+"Small": [
+"નાના",
+"Nānā"
+],
+"Deep": [
+"ડીપ",
+"Ḍīpa"
+],
+"Shallow": [
+"છીછરા",
+"Chīcharā"
+],
+"Simple": [
+"સરળ",
+"Saraḻa"
+],
+"Special": [
+"ખાસ",
+"Khāsa"
+],
+"Faint": [
+"ચક્કર",
+"Cakkara"
+],
+"Short": [
+"લઘુ",
+"Laghu"
+],
+"Thin": [
+"પાતળું",
+"Pātaḻuṃ"
+],
+"Wide": [
+"પહોળી",
+"Pahoḻī"
+],
+"Narrow": [
+"સાંકડી",
+"Sāṃkaḍī"
+],
+"Curved": [
+"વક્ર",
+"Vakra"
+],
+"Salty": [
+"ખારી",
+"Khārī"
+],
+"Easy": [
+"સરળ",
+"Saraḻa"
+],
+"Dry": [
+"શુષ્ક",
+"Śuṣka"
+],
+"Wet": [
+"ભીનું",
+"Bhīnuṃ"
+],
+"Filled": [
+"ભરેલ",
+"Bharela"
+],
+"Incomplete": [
+"અપૂર્ણ",
+"Apūrṇa"
+],
+"Hard (surface)": [
+"સખત (સપાટી)",
+"Sakhata (sapāṭī)"
+],
+"Soft": [
+"નરમ",
+"Narama"
+],
+"Heavy": [
+"ભારે",
+"Bhāre"
+],
+"Light (weight)": [
+"હલકો (વજન)",
+"Halako (vajana)"
+],
+"New": [
+"નવી",
+"Navī"
+],
+"Old": [
+"જૂનું",
+"Jūnuṃ"
+],
+"Slow": [
+"ધીમું",
+"Dhīmuṃ"
+],
+"Fast": [
+"ઝડપી",
+"Jhaḍapī"
+],
+"Young": [
+"યુવાન",
+"Yuvāna"
+],
+"Unhappy": [
+"દુ:ખી",
+"Du:khī"
+],
+"Gloomy": [
+"અંધકારમય",
+"Aṃdhakāramaya"
+],
+"Carefully": [
+"ધ્યાનપૂર્વક",
+"Dhyānapūrvaka"
+],
+"Slowly": [
+"ધીમે ધીમે",
+"Dhīme dhīme"
+],
+"Quickly": [
+"ઝડપથી",
+"Jhaḍapathī"
+],
+"A bit": [
+"થોડી",
+"Thoḍī"
+],
+"A lot": [
+"ઘણું",
+"Ghaṇuṃ"
+],
+"Aback": [
+"અબૅક",
+"Abaૅka"
+],
+"Accordingly": [
+"તદનુસાર",
+"Tadanusāra"
+],
+"Accurately": [
+"સચોટપણે",
+"Sacoṭapaṇe"
+],
+"Actively": [
+"સક્રિયપણે",
+"Sakriyapaṇe"
+],
+"Afresh": [
+"નવેસરથી",
+"Navesarathī"
+],
+"Ago": [
+"પહેલા",
+"Pahelā"
+],
+"Agreeably": [
+"સહમતીથી",
+"Sahamatīthī"
+],
+"Altogether": [
+"એકસાથે",
+"Ekasāthe"
+],
+"Any": [
+"કોઈપણ",
+"Koīpaṇa"
+],
+"Away": [
+"દૂર",
+"Dūra"
 ]
 }

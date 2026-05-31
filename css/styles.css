@@ -490,6 +490,11 @@ body {
   font-weight: 800;
   color: var(--text);
 }
+.phrase-set-count {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted, #888);
+}
 .phrase-set-rows {
   padding: 0 0 12px;
   display: flex;

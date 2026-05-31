@@ -6,6 +6,7 @@ const CAT_INITIALS = {
   numbers: '#',
   animals: 'An',
   dailyLife: 'DL',
+  dailylife: 'DL',
   environment: 'En',
   food: 'Fd',
   health: 'He',
@@ -37,6 +38,7 @@ const CAT_IMAGES = {
   writing: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=80&h=80&fit=crop',
   animals: 'https://images.pexels.com/photos/1335971/pexels-photo-1335971.jpeg?auto=compress&cs=tinysrgb&w=80&h=80&fit=crop',
   dailyLife: 'https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=80&h=80&fit=crop',
+  dailylife: 'https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=80&h=80&fit=crop',
   environment: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=80&h=80&fit=crop',
   health: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=80&h=80&fit=crop',
   schoolWork: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=80&h=80&fit=crop',
@@ -129,8 +131,8 @@ function selectLanguage(lang) {
   initLanguageUI();
   expandedCategory = null;
   expandedDictSection = null;
-  expandedPhraseSubsetIndex = null;
-  expandedDictSubsetIndex = null;
+  expandedPhraseSubCat = null;
+  expandedDictSubCat = null;
   expandedSavedGroupKey = null;
   renderCategories();
   if (currentTab === 'dictionary') renderDict('');
@@ -198,26 +200,18 @@ function initLanguageUI() {
   if (resDev) resDev.style.fontFamily = getScriptFont();
 }
 
-function toggleCategory(catId) {
-  if (expandedCategory === catId) {
+function toggleCategory(baseId) {
+  if (expandedCategory === baseId) {
     expandedCategory = null;
   } else {
-    expandedCategory = catId;
-    const pdata = getPHRASES()[catId];
-    if (pdata && pdata.phrases && pdata.phrases.length > PHRASE_WORD_CHUNK_SIZE) {
-      expandedPhraseSubsetIndex = 0;
-    }
+    expandedCategory = baseId;
+    expandedPhraseSubCat = null;
   }
   renderCategories();
 }
 
-function togglePhraseSubset(catId, setIndex) {
-  if (expandedCategory !== catId) return;
-  if (expandedPhraseSubsetIndex === setIndex) {
-    expandedPhraseSubsetIndex = null;
-  } else {
-    expandedPhraseSubsetIndex = setIndex;
-  }
+function toggleSubCat(subId) {
+  expandedPhraseSubCat = (expandedPhraseSubCat === subId) ? null : subId;
   renderCategories();
 }
 
@@ -247,11 +241,10 @@ function savePhraseInline(cat, idx) {
   if (currentTab === 'saved') renderSaved();
 }
 
-function savePhraseSubset(catId, setIndex) {
-  const data = getPHRASES()[catId];
+function saveSubCatAll(subId) {
+  const data = getPHRASES()[subId];
   if (!data || !data.phrases) return;
-  const start = setIndex * PHRASE_WORD_CHUNK_SIZE;
-  const slice = data.phrases.slice(start, start + PHRASE_WORD_CHUNK_SIZE);
+  const slice = data.phrases;
   if (!slice.length) return;
   const allSaved = slice.every(p => savedPhrases.some(s => savedMrMatch(s.mr, p.mr)));
   if (allSaved) {
@@ -261,9 +254,9 @@ function savePhraseSubset(catId, setIndex) {
     showToast('Set removed from saved');
   } else {
     let added = 0;
-    slice.forEach(p => {
+    slice.forEach((p, idx) => {
       if (!savedPhrases.some(s => savedMrMatch(s.mr, p.mr))) {
-        savedPhrases.push(withSaveBb(p, { t: 'p', c: catId, s: setIndex }));
+        savedPhrases.push(withSaveBb(p, { t: 'p', c: subId, s: Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) }));
         added++;
       }
     });
@@ -334,50 +327,43 @@ function renderCategories() {
     `;
   }).join('');
 
-  list.innerHTML = Object.entries(phrases).map(([id, data]) => {
-    const baseId = id.split('_')[0]; // support Set 1/2/3 ids like greetings_1
-    const iconUrl = CAT_IMAGES[id] || CAT_IMAGES[baseId] || '';
-    const fallback = CAT_INITIALS[id] || CAT_INITIALS[baseId] || id.slice(0, 2);
+  const groups = groupBySection(Object.entries(phrases), 'phrases');
+  list.innerHTML = groups.map(g => {
+    const iconUrl = CAT_IMAGES[g.base] || '';
+    const fallback = CAT_INITIALS[g.base] || g.base.slice(0, 2);
     const iconHtml = iconUrl
       ? `<img class="cat-icon-img" src="${iconUrl}" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" /><span class="cat-icon cat-icon-fallback" style="display:none" data-initial="${fallback}"></span>`
       : `<span class="cat-icon" data-initial="${fallback}"></span>`;
-    const isExpanded = expandedCategory === id;
-    const plist = data.phrases || [];
-    const needsSets = plist.length > PHRASE_WORD_CHUNK_SIZE;
+    const isExpanded = expandedCategory === g.base;
+    const total = g.subs.reduce((a, s) => a + (s.data.phrases ? s.data.phrases.length : 0), 0);
     let phrasesHtml = '';
     if (isExpanded) {
-      if (!needsSets) {
-        phrasesHtml = phraseRowsHtml(id, plist, 0);
-      } else {
-        const numSets = Math.ceil(plist.length / PHRASE_WORD_CHUNK_SIZE);
-        let setBlocks = '';
-        for (let s = 0; s < numSets; s++) {
-          const isOpen = expandedPhraseSubsetIndex === s;
-          const start = s * PHRASE_WORD_CHUNK_SIZE;
-          const slice = plist.slice(start, start + PHRASE_WORD_CHUNK_SIZE);
-          const setAllSaved = slice.length > 0 && slice.every(p => savedPhrases.some(x => savedMrMatch(x.mr, p.mr)));
-          setBlocks += `
-            <div class="phrase-set-block">
-              <div class="phrase-set-header">
-                <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); togglePhraseSubset('${id}', ${s})">
-                  <span class="phrase-set-title">${escapeHtml(phraseSubsetTitle(data.name, s))}</span>
-                  <span class="cat-expand">${isOpen ? '−' : '+'}</span>
-                </div>
-                <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); savePhraseSubset('${id}', ${s})" title="Save all in this set">${bookmarkSvg}</button>
+      let setBlocks = '';
+      g.subs.forEach((sub, si) => {
+        const plist = sub.data.phrases || [];
+        const isOpen = expandedPhraseSubCat === sub.id;
+        const setAllSaved = plist.length > 0 && plist.every(p => savedPhrases.some(x => savedMrMatch(x.mr, p.mr)));
+        setBlocks += `
+          <div class="phrase-set-block">
+            <div class="phrase-set-header">
+              <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); toggleSubCat('${sub.id}')">
+                <span class="phrase-set-title">Set ${si + 1} <span class="phrase-set-count">(${plist.length})</span></span>
+                <span class="cat-expand">${isOpen ? '−' : '+'}</span>
               </div>
-              ${isOpen ? `<div class="phrase-set-rows">${phraseRowsHtml(id, slice, start)}</div>` : ''}
-            </div>`;
-        }
-        phrasesHtml = `<div class="phrase-sets-wrap">${setBlocks}</div>`;
-      }
+              <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveSubCatAll('${sub.id}')" title="Save all in this set">${bookmarkSvg}</button>
+            </div>
+            ${isOpen ? `<div class="phrase-set-rows">${phraseRowsHtml(sub.id, plist, 0)}</div>` : ''}
+          </div>`;
+      });
+      phrasesHtml = `<div class="phrase-sets-wrap">${setBlocks}</div>`;
     }
     return `
     <div class="cat-row">
-      <div class="cat-row-header" onclick="toggleCategory('${id}')">
+      <div class="cat-row-header" onclick="toggleCategory('${g.base}')">
         <span class="cat-icon-wrap">${iconHtml}</span>
         <div class="cat-row-info">
-          <span class="cat-name">${data.name}</span>
-          <span class="cat-count">${data.phrases.length} phrases</span>
+          <span class="cat-name">${g.name}</span>
+          <span class="cat-count">${g.subs.length} set${g.subs.length === 1 ? '' : 's'} • ${total} phrases</span>
         </div>
         <span class="cat-expand">${isExpanded ? '−' : '+'}</span>
       </div>
@@ -385,6 +371,25 @@ function renderCategories() {
     </div>
   `;
   }).join('');
+}
+
+/** Group `base_1`, `base_2`, … category entries into one section per base topic. */
+function groupBySection(entries, kind) {
+  const groups = [];
+  const byBase = {};
+  for (const [id, data] of entries) {
+    if (!data) continue;
+    if (kind === 'phrases' && !(data.phrases && data.phrases.length)) continue;
+    if (kind === 'words' && !(data.words && data.words.length)) continue;
+    const m = id.match(/^(.*?)_(\d+)$/);
+    const base = m ? m[1] : id;
+    if (!byBase[base]) {
+      byBase[base] = { base, name: categoryTopicLabel(data.name) || base, subs: [] };
+      groups.push(byBase[base]);
+    }
+    byBase[base].subs.push({ id, data });
+  }
+  return groups;
 }
 
 // ===== DATA =====
@@ -5876,9 +5881,9 @@ let currentTab = 'home';
 let currentCategory = null;
 let previousScreen = 'home';
 let expandedCategory = null;
-let expandedPhraseSubsetIndex = null;
+let expandedPhraseSubCat = null;
 let expandedDictSection = null;
-let expandedDictSubsetIndex = null;
+let expandedDictSubCat = null;
 let expandedSavedGroupKey = null;
 let lastSearchResults = [];
 let currentPhraseContext = null;
@@ -6043,38 +6048,27 @@ function saveDictItem(i) {
   if (currentTab === 'saved') renderSaved();
 }
 
-function toggleDictSection(secId) {
-  if (expandedDictSection === secId) {
+function toggleDictSection(baseId) {
+  if (expandedDictSection === baseId) {
     expandedDictSection = null;
   } else {
-    expandedDictSection = secId;
-    const bySec = getDICTIONARY_BY_SECTION();
-    const sec = bySec && bySec[secId];
-    const w = sec && sec.words;
-    if (w && w.length > PHRASE_WORD_CHUNK_SIZE) {
-      expandedDictSubsetIndex = 0;
-    }
+    expandedDictSection = baseId;
+    expandedDictSubCat = null;
   }
   renderDict(document.getElementById('dict-search').value);
 }
 
-function toggleDictSubset(secId, setIndex) {
-  if (expandedDictSection !== secId) return;
-  if (expandedDictSubsetIndex === setIndex) {
-    expandedDictSubsetIndex = null;
-  } else {
-    expandedDictSubsetIndex = setIndex;
-  }
+function toggleDictSubCat(secId) {
+  expandedDictSubCat = (expandedDictSubCat === secId) ? null : secId;
   renderDict(document.getElementById('dict-search').value);
 }
 
-function saveDictWordSubset(secId, setIndex) {
+function saveDictSubCatAll(secId) {
   const bySec = getDICTIONARY_BY_SECTION();
   const sec = bySec && bySec[secId];
   const words = sec && sec.words;
   if (!words || !words.length) return;
-  const start = setIndex * PHRASE_WORD_CHUNK_SIZE;
-  const slice = words.slice(start, start + PHRASE_WORD_CHUNK_SIZE);
+  const slice = words;
   if (!slice.length) return;
   const allSaved = slice.every(p => savedPhrases.some(s => savedMrMatch(s.mr, p.mr)));
   if (allSaved) {
@@ -6084,9 +6078,9 @@ function saveDictWordSubset(secId, setIndex) {
     showToast('Set removed from saved');
   } else {
     let added = 0;
-    slice.forEach(p => {
+    slice.forEach((p, idx) => {
       if (!savedPhrases.some(s => savedMrMatch(s.mr, p.mr))) {
-        savedPhrases.push(withSaveBb(p, { t: 'd', sec: secId, s: setIndex }));
+        savedPhrases.push(withSaveBb(p, { t: 'd', sec: secId, s: Math.floor(idx / PHRASE_WORD_CHUNK_SIZE) }));
         added++;
       }
     });
@@ -6129,64 +6123,51 @@ function renderDict(query) {
   if (bySection) {
     lastDictItems = [];
     lastDictMeta = [];
-    list.innerHTML = Object.entries(bySection).map(([secId, secData]) => {
-      if (!secData || !secData.words || !secData.words.length) return '';
-      const words = secData.words;
-      const isExpanded = expandedDictSection === secId;
-      const baseId = secId.split('_')[0]; // support Set 1/2/3 ids like greetings_1
-      const iconUrl = CAT_IMAGES[secId] || CAT_IMAGES[baseId] || '';
-      const fallback = CAT_INITIALS[secId] || CAT_INITIALS[baseId] || secId.slice(0, 2);
+    const groups = groupBySection(Object.entries(bySection), 'words');
+    list.innerHTML = groups.map(g => {
+      const isExpanded = expandedDictSection === g.base;
+      const iconUrl = CAT_IMAGES[g.base] || '';
+      const fallback = CAT_INITIALS[g.base] || g.base.slice(0, 2);
       const iconHtml = iconUrl
         ? `<img class="cat-icon-img" src="${iconUrl}" alt="" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" /><span class="cat-icon cat-icon-fallback" style="display:none" data-initial="${fallback}"></span>`
         : `<span class="cat-icon" data-initial="${fallback}"></span>`;
-      const needsWordSets = words.length > PHRASE_WORD_CHUNK_SIZE;
+      const total = g.subs.reduce((a, s) => a + (s.data.words ? s.data.words.length : 0), 0);
       let rowsHtml = '';
       if (isExpanded) {
-        if (!needsWordSets) {
-          rowsHtml = words.map((d, wi) => {
-            lastDictItems.push(d);
-            lastDictMeta.push({ t: 'd', sec: secId, wi });
-            const idx = lastDictItems.length - 1;
-            return renderWordRow(d, idx);
-          }).join('');
-        } else {
-          const numSets = Math.ceil(words.length / PHRASE_WORD_CHUNK_SIZE);
-          let setBlocks = '';
-          for (let s = 0; s < numSets; s++) {
-            const isOpen = expandedDictSubsetIndex === s;
-            const start = s * PHRASE_WORD_CHUNK_SIZE;
-            const slice = words.slice(start, start + PHRASE_WORD_CHUNK_SIZE);
-            const setAllSaved = slice.length > 0 && slice.every(p => savedPhrases.some(x => savedMrMatch(x.mr, p.mr)));
-            const rowsInner = isOpen
-              ? slice.map((d, localIdx) => {
-                const wi = start + localIdx;
-                lastDictItems.push(d);
-                lastDictMeta.push({ t: 'd', sec: secId, wi });
-                const idx = lastDictItems.length - 1;
-                return renderWordRow(d, idx);
-              }).join('')
-              : '';
-            setBlocks += `
-              <div class="phrase-set-block">
-                <div class="phrase-set-header">
-                  <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); toggleDictSubset('${secId}', ${s})">
-                    <span class="phrase-set-title">${escapeHtml(phraseSubsetTitle(secData.name || secId, s))}</span>
-                    <span class="cat-expand">${isOpen ? '−' : '+'}</span>
-                  </div>
-                  <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveDictWordSubset('${secId}', ${s})" title="Save all in this set">${bookmarkSvg}</button>
+        let setBlocks = '';
+        g.subs.forEach((sub, si) => {
+          const secId = sub.id;
+          const words = sub.data.words || [];
+          const isOpen = expandedDictSubCat === secId;
+          const setAllSaved = words.length > 0 && words.every(p => savedPhrases.some(x => savedMrMatch(x.mr, p.mr)));
+          const rowsInner = isOpen
+            ? words.map((d, wi) => {
+              lastDictItems.push(d);
+              lastDictMeta.push({ t: 'd', sec: secId, wi });
+              const idx = lastDictItems.length - 1;
+              return renderWordRow(d, idx);
+            }).join('')
+            : '';
+          setBlocks += `
+            <div class="phrase-set-block">
+              <div class="phrase-set-header">
+                <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); toggleDictSubCat('${secId}')">
+                  <span class="phrase-set-title">Set ${si + 1} <span class="phrase-set-count">(${words.length})</span></span>
+                  <span class="cat-expand">${isOpen ? '−' : '+'}</span>
                 </div>
-                ${isOpen ? `<div class="phrase-set-rows">${rowsInner}</div>` : ''}
-              </div>`;
-          }
-          rowsHtml = `<div class="phrase-sets-wrap">${setBlocks}</div>`;
-        }
+                <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveDictSubCatAll('${secId}')" title="Save all in this set">${bookmarkSvg}</button>
+              </div>
+              ${isOpen ? `<div class="phrase-set-rows">${rowsInner}</div>` : ''}
+            </div>`;
+        });
+        rowsHtml = `<div class="phrase-sets-wrap">${setBlocks}</div>`;
       }
       return `<div class="cat-row">
-        <div class="cat-row-header" onclick="toggleDictSection('${secId}')">
+        <div class="cat-row-header" onclick="toggleDictSection('${g.base}')">
           <span class="cat-icon-wrap">${iconHtml}</span>
           <div class="cat-row-info">
-            <span class="cat-name">${secData.name || secId}</span>
-            <span class="cat-count">${words.length} words</span>
+            <span class="cat-name">${g.name}</span>
+            <span class="cat-count">${g.subs.length} set${g.subs.length === 1 ? '' : 's'} • ${total} words</span>
           </div>
           <span class="cat-expand">${isExpanded ? '−' : '+'}</span>
         </div>

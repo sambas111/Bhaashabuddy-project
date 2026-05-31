@@ -5614,5 +5614,4005 @@
 "Really": [
 "واقعي",
 "Vāstava meṃ"
+],
+"We (listener including)": [
+"اسان (ٻڌندڙ سميت)",
+"Hama (śrotā sahita)"
+],
+"He / That (m.)": [
+"اھو / اھو (م.)",
+"Vaha/vaha (ema.)"
+],
+"She / That (f.)": [
+"هوء / اهو (f.)",
+"Vaha/yaha (epha)"
+],
+"It / That (n.)": [
+"اهو / اهو (ن.)",
+"Yaha/yaha (ena.)"
+],
+"They (Plural of He) / Those (m.)": [
+"اھي (ھن جو جمع) / اھي (م.)",
+"Ve (bahuvacana) / ve (ema.)"
+],
+"They (Plural of She) / Those (f.)": [
+"اھي (ھن جو جمع) / اھي (f.)",
+"Ve (bahuvacana) / ve (f.)"
+],
+"They (Plural of it) / Those (n.)": [
+"اھي (ان جو جمع) / اھي (ن.)",
+"Ve (bahuvacana) / ve (n.)"
+],
+"We went to the party (listener not included)": [
+"اسان پارٽي ڏانهن ويا (ٻڌندڙ شامل نه آهي)",
+"Hama eka pārṭī meṃ gae (darśaka śāmila nahīṃ)"
+],
+"We went to the party (listener included)": [
+"اسان پارٽي ۾ ويا (ٻڌندڙ شامل)",
+"Hama pārṭī meṃ gae (darśaka bhī śāmila the)"
+],
+"This is a horse": [
+"هي گهوڙو آهي",
+"Yaha eka ghor̤ā hai"
+],
+"This is an ant": [
+"هي هڪ چيلهه آهي",
+"Yaha eka cīṃṭī hai"
+],
+"You (singular male)": [
+"تون (واحد مرد)",
+"Āpa (akele puruṣa)"
+],
+"You (singular female)": [
+"تون (واحد عورت)",
+"Āpa (akelī mahilā)"
+],
+"He / That (male) / This (male)": [
+"هي / اهو (مرد) / هي (مرد)",
+"Vaha / vaha (ādamī) / vaha (ādamī)"
+],
+"She / That (female) / This (female)": [
+"هوء / اها (عورت) / هي (عورت)",
+"Vaha/yaha (mahilā)/vaha (mahilā)"
+],
+"It / That (neuter) / This (neuter)": [
+"اهو / اهو (غير جانبدار) / هي (غير جانبدار)",
+"Yaha/yaha (napuṃsakaliṃga)/vaha (napuṃsakaliṃga)"
+],
+"They (m.) / Those (m.) / These (m.)": [
+"اهي (م.) / اهي (م.) / اهي (م.)",
+"Ve (ema.) / ve (ema.) / ve (ema.)"
+],
+"They (f.) / Those (f.) / These (f.)": [
+"اهي (f.) / اهي (f.) / اهي (f.)",
+"Ve (epha.) / ve (epha.) / ve (epha.)"
+],
+"They (n.) / Those (n.) / These (n.)": [
+"اهي (n.) / اهي (n.) / اهي (n.)",
+"Ve (ena.) / ve (ena.) / ve (ena.)"
+],
+"I (male) do": [
+"مان (مرد) ڪريان ٿو",
+"Maiṃ (puruṣa) karatā hū~"
+],
+"I (female) do": [
+"مان (عورت) ڪريان ٿو",
+"Maiṃ (mahilā) karatī hūṃ"
+],
+"You (male) cry": [
+"تون (مرد) روئين",
+"Tuma (ādamī) rote ho"
+],
+"You (female) cry": [
+"تون (عورت) روئين",
+"Āpa (mahilā) roīṃ"
+],
+"You (plural) walk": [
+"تون (جمع) هليو",
+"Tuma (bahuvacana) jāo"
+],
+"I shall be doing.": [
+"مان ڪنديس.",
+"Maiṃ karū~gā"
+],
+"We will be dancing.": [
+"نچندا رهياسين.",
+"Hamane nṛtya kiyā|"
+],
+"You will be crying.": [
+"تون روئيندين.",
+"Āpa roeṃge"
+],
+"You (pl.) will be walking.": [
+"تون (pl.) ھلندين.",
+"Āpa (kṛpayā) caleṃ|"
+],
+"He will be walking.": [
+"هو هليو ويندو.",
+"Use jānā hogā|"
+],
+"She will be speaking.": [
+"هوءَ ڳالهائي ويندي.",
+"Vaha bolegī."
+],
+"It will be moving.": [
+"اهو حرڪت ڪندو.",
+"Yaha calegā."
+],
+"They will be dancing.": [
+"اهي نچندا ويندا.",
+"Ve nāceṃge."
+],
+"He / That (m.) / This (m.)": [
+"هي / اهو (م.) / هي (م.)",
+"Yaha / vaha (ema.) / yaha (ema.)"
+],
+"She / That (f.) / This (f.)": [
+"هوء / اهو (f.) / هي (f.)",
+"Vaha / yaha (epha.) / vaha (epha.)"
+],
+"It / That (n.) / This (n.)": [
+"اهو / اهو (ن.) / هي (ن.)",
+"Yaha / yaha (ena.) / yaha (ena.)"
+],
+"I (male) / I (female)": [
+"مان (مرد) / مان (عورت)",
+"Maiṃ (puruṣa) / maiṃ (mahilā)"
+],
+"I (male) was doing.": [
+"مان (مرد) ڪري رهيو هوس.",
+"Maiṃ (puruṣa) kara rahā thā."
+],
+"I (female) was doing.": [
+"مان (عورت) ڪري رهيو هوس.",
+"Maiṃ (mahilā) kara rahī thī."
+],
+"We were dancing.": [
+"اسان ناچ ڪري رهيا هئاسين.",
+"Hama nāca rahe the|"
+],
+"You (male) were crying.": [
+"تون (مرد) روئي رهيو هئين.",
+"Tuma (ādamī) ro rahe the."
+],
+"You (female) were crying.": [
+"تون (عورت) روئي رهي هئين.",
+"Tuma (mahilā) ro rahī thī."
+],
+"You (Plural) were walking": [
+"تون (جمع) هلي رهيون هيون",
+"Āpa (bahuvacana) cala rahe the"
+],
+"He was walking.": [
+"هو هلي رهيو هو.",
+"Vahaṭahala rahā thā|"
+],
+"She was speaking.": [
+"هوءَ ڳالهائي رهي هئي.",
+"Vaha bāta kara rahī thī."
+],
+"It was moving.": [
+"اها حرڪت هئي.",
+"Yaha ghūma rahā thā."
+],
+"They(m.) were dancing.": [
+"اهي (م.) ناچ ڪري رهيا هئا.",
+"Ve (ema.) nāca rahe the."
+],
+"They(f.) were dancing.": [
+"اهي (ف.) ناچ ڪري رهيا هئا.",
+"Ve (epha.) nāca rahe the|"
+],
+"They(n.) were dancing.": [
+"اهي (n.) ناچ ڪري رهيا هئا.",
+"Ve (ena.) nāca rahe the."
+],
+"She has opened door": [
+"هن دروازو کوليو آهي",
+"Usane daravāzā khola diyā hai"
+],
+"She had opened door": [
+"هن دروازو کوليو هو",
+"Usane daravājā kholā"
+],
+"She will have opened door": [
+"هن دروازو کوليو هوندو",
+"Usane hī daravāzā kholā hogā"
+],
+"You (female) have danced": [
+"توهان (عورت) ناچ ڪيو آهي",
+"Āpane (mahilā) nṛtya kiyā hai"
+],
+"You (female) had danced": [
+"توهان (عورت) ناچ ڪيو هو",
+"Āpane (mahilā) nṛtya kiyā"
+],
+"You (female) will have danced": [
+"توهان (عورت) ناچ ڪيو هوندو",
+"Āpane (mahilā) ḍāṃsa kiyā hogā"
+],
+"You (plural) have danced": [
+"توهان (جمع) ناچ ڪيو آهي",
+"Āpane (bahuvacana) nṛtya kiyā hai"
+],
+"You (plural) had danced": [
+"توهان (جمع) ناچ ڪيو هو",
+"Āpane (bahuvacana) nṛtya kiyā"
+],
+"You (plural) will have danced": [
+"توهان (جمع) ناچ ڪيو هوندو",
+"Āpane (bahuvacana) nṛtya kiyā hogā"
+],
+"On behalf of": [
+"جي بدران",
+"Ke evaja"
+],
+"In front of": [
+"جي سامهون",
+"Ke sāmane"
+],
+"He / That (male)": [
+"اھو / اھو (مرد)",
+"Vaha/vaha (puruṣa)"
+],
+"She / That (female)": [
+"هوء / اها (عورت)",
+"Vaha/vaha (mahilā)"
+],
+"It / That (neuter)": [
+"اهو / اهو (غير جانبدار)",
+"Yaha/yaha (taṭastha)"
+],
+"They (m.) / Those (m.)": [
+"اهي (م.) / اهي (م.)",
+"Ve (ema.) / ve (ema.)"
+],
+"They (f.) / Those (f.)": [
+"اهي (f.) / اهي (f.)",
+"Ve (epha.) / ve (epha.)"
+],
+"They (n.) / Those (n.)": [
+"اهي (n.) / اهي (n.)",
+"Ve (ena.) / ve (ena.)"
+],
+"I do not speak": [
+"مان نه ڳالهائيندو آهيان",
+"Maiṃ bolatā nahīṃ"
+],
+"He does not walk": [
+"هو نه هلندو آهي",
+"Vaha calatā nahīṃ hai"
+],
+"You do not eat": [
+"تون نه کائين",
+"Tuma mata khāo"
+],
+"They do not dance": [
+"اهي نچندا نه آهن",
+"Ve nṛtya nahīṃ karate"
+],
+"I am not speaking": [
+"مان نه ڳالهائي رهيو آهيان",
+"Maiṃ bāta nahīṃ kara rahā hū~"
+],
+"He is not walking": [
+"هو نه هلندو آهي",
+"Vaha calatā nahīṃ hai"
+],
+"She is not speaking": [
+"هوءَ نه ڳالهائي رهي آهي",
+"Vaha bāta nahīṃ kara rahī hai"
+],
+"It is not moving": [
+"اهو حرڪت نه آهي",
+"Yaha hila nahīṃ rahā hai"
+],
+"They are not dancing": [
+"اهي ناچ نه آهن",
+"Ve nāca nahīṃ rahe haiṃ"
+],
+"You are not dancing": [
+"توهان ناچ نه رهيا آهيو",
+"Tuma nāca nahīṃ rahe ho"
+],
+"I have not opened the box": [
+"مون باڪس نه کوليو آهي",
+"Maiṃne baksā nahīṃ kholā hai"
+],
+"I have not spoken": [
+"مون نه ڳالهايو آهي",
+"Maiṃne bāta nahīṃ kī hai"
+],
+"He has not eaten the mango": [
+"هن مهانگو نه کاڌو آهي",
+"Unhoṃne maha~gā nahīṃ khāyā hai"
+],
+"You do not speak": [
+"تون نه ڳالهاءِ",
+"Āpa bāta nahīṃ karate"
+],
+"Do not read it": [
+"ان کي نه پڙهو",
+"Ise mata par̤ho"
+],
+"Do not do it": [
+"ائين نه ڪريو",
+"Aisā mata karo"
+],
+"You do not go": [
+"تون نه وڃ",
+"Tuma mata jāo"
+],
+"I moved toy": [
+"مون رانديڪا منتقل ڪيو",
+"Maiṃne khilaunā āge bar̤hāyā"
+],
+"To cause to cook": [
+"پچائڻ جو سبب بڻجڻ",
+"Pakāne kā kāraṇa"
+],
+"I cooked rice": [
+"مون چانور پکايا",
+"Maiṃne cāvala pakāyā"
+],
+"To cause to die / To kill": [
+"مرڻ جو سبب ٿيڻ/ مارڻ",
+"Marane/mārane kā kāraṇa"
+],
+"To cause to fall": [
+"زوال جو سبب بڻجڻ",
+"Girāvaṭa kā kāraṇa bana rahā hai"
+],
+"To break (intransitive)": [
+"ڀڃڻ (گهٽڻ)",
+"Ṭūṭa - phūṭa"
+],
+"To cause to break": [
+"ڀڃڻ جو سبب بڻجڻ",
+"Tor̤ane kā kāraṇa"
+],
+"I broke glass": [
+"مون گلاس ٽوڙيو",
+"Maiṃne śīśā tor̤a diyā"
+],
+"To cause to leave": [
+"ڇڏڻ جو سبب بڻجڻ",
+"Chor̤ane kā kāraṇa"
+],
+"To cause to drink / To feed liquid": [
+"پيئڻ جو سبب بڻائڻ / مائع کي کارائڻ",
+"Tarala padārtha pīne/khilāne kā kāraṇa"
+],
+"To call (not cause to speak)": [
+"سڏڻ (ڳالهائڻ جو سبب نه هجڻ)",
+"Kaॉla karanā (bolane kā koī kāraṇa na honā)"
+],
+"To keep animal (not cause to run)": [
+"جانور رکڻ (هلڻ جو سبب نه)",
+"Jānavaroṃ ko rakhanā (paidala calane kā koī kāraṇa nahīṃ)"
+],
+"I had spoken": [
+"مون ڳالهايو هو",
+"Maiṃne bāta kī thī"
+],
+"You (male) had danced": [
+"توهان (مرد) ناچ ڪيو هو",
+"Āpane (ādamī) nṛtya kiyā"
+],
+"He had laughed": [
+"هو کلندو هو",
+"Vaha haṃsa rahā thā"
+],
+"Those boys had laughed": [
+"اهي ڇوڪرا کلندا هئا",
+"Lar̤ake ha~sa rahe the"
+],
+"I had opened door": [
+"مون دروازو کوليو هو",
+"Maiṃne daravājā kholā"
+],
+"I had opened window": [
+"مون ونڊو کوليو هو",
+"Maiṃne khir̤akī kholī"
+],
+"She had eaten mango": [
+"هوءَ ماني کائي چڪي هئي",
+"Vaha pahale hī khā cukī thī"
+],
+"Those girls had picked keys": [
+"انهن ڇوڪرين چاٻيون چونڊي ورتيون هيون",
+"Ina lar̤akiyoṃ ne cābiyā~ uṭhāī thīṃ"
+],
+"I have spoken": [
+"مون ڳالهايو آهي",
+"Maiṃ bāta kara lī hai"
+],
+"I will have spoken": [
+"مون ڳالهايو هوندو",
+"Maiṃ bolatā"
+],
+"He had been saying": [
+"هو چئي رهيو هو",
+"Vaha kaha rahā thā"
+],
+"He has been saying": [
+"هو چئي رهيو آهي",
+"Vaha kaha rahā hai"
+],
+"He will have been saying": [
+"هن چيو هوندو",
+"Usane kahā hogā"
+],
+"I have been saying": [
+"مان چوندو رهيو آهيان",
+"Maiṃ kaha rahā hu~"
+],
+"She has been saying": [
+"هوءَ چئي رهي آهي",
+"Vaha kaha rahī hai"
+],
+"They have been dancing": [
+"اهي نچندا رهيا آهن",
+"Ve nāca rahe haiṃ"
+],
+"You have been eating mango": [
+"تون ماني کائي رهيو آهين",
+"Āpa khā rahe haiṃ"
+],
+"I have been working there for 3 years": [
+"مان اتي 3 سالن کان ڪم ڪري رهيو آهيان",
+"Maiṃ vahāṃ 3 sāla se kāma kara rahā hūṃ"
+],
+"I had been saying": [
+"مان چوندو هوس",
+"Mila jāegā"
+],
+"She had been saying": [
+"هوءَ چئي رهي هئي",
+"Vaha kaha rahī thī"
+],
+"They had been dancing": [
+"اهي ناچ ڪري رهيا هئا",
+"Vaha nāca rahe hai"
+],
+"You had been eating mango": [
+"تون انب کائي رهيو هئين",
+"Āpa eka seba khā rahe the"
+],
+"She will have been saying": [
+"هوءَ چئي رهي هوندي",
+"Vaha kaha rahī hogī"
+],
+"They will have been dancing": [
+"اهي ناچ ڪري رهيا هوندا",
+"Ve nāca rahe hoṃge"
+],
+"You will have been eating mango": [
+"تون ته ماني کائي ويو هوندو",
+"Āpane khāyā hī hogā"
+],
+"I will have been working there for 3 years": [
+"مان اتي 3 سالن کان ڪم ڪري رھيو ھوندس",
+"Maiṃ vahāṃ 3 sāla se kāma kara rahā hūṃ"
+],
+"They are going to come": [
+"اهي اچڻ وارا آهن",
+"Ve ā rahe haiṃ"
+],
+"I am going to speak": [
+"مان ڳالهائڻ وارو آهيان",
+"Maiṃ bāta karane jā rahā hū~"
+],
+"She is going to open door": [
+"هوءَ دروازو کولڻ وڃي رهي آهي",
+"Vaha daravāzā kholane jā rahī hai"
+],
+"You are going to dance": [
+"نچڻ وارا آهيو",
+"Āpa nācane jā rahe haiṃ"
+],
+"Are they going to come?": [
+"ڇا اهي اچڻ وارا آهن؟",
+"Kyā ve ā rahe haiṃ?"
+],
+"Am I going to speak?": [
+"ڇا مان ڳالهائڻ وارو آهيان؟",
+"Kyā maiṃ bāta karane jā rahā hū~?"
+],
+"Is she going to open door?": [
+"ڇا هوءَ دروازو کوليندي؟",
+"Kyā vaha daravāzā kholegī?"
+],
+"Are you going to dance?": [
+"ڇا توهان نچڻ وارا آهيو؟",
+"Kyā āpa nṛtya karane jā rahe haiṃ?"
+],
+"She / That (f.)/ This (f.)": [
+"هوء / اهو (f.) / هي (f.)",
+"Vaha / yaha (epha.) / vaha (epha.)"
+],
+"It / That(n.) / This (n.)": [
+"اهو / اهو (ن.) / هي (ن.)",
+"Yaha / yaha (ena.) / yaha (ena.)"
+],
+"They (Plural of He) / Those (m.) / These (m.)": [
+"اهي (هن جو جمع) / اهي (م.) / اهي (م.)",
+"Ve (usakā bahuvacana) / ve (ema.) / ve (ema.)"
+],
+"They (Plural of She) / Those (f.) / These (f.)": [
+"اهي (هن جو جمع) / اهي (ف.) / اهي (ف.)",
+"Ve (usakā bahuvacana) / ve (epha.) / ve (epha.)"
+],
+"They (Plural of it) / Those (n.) / These (n.)": [
+"اهي (ان جو جمع) / اهي (ن.) / اهي (ن.)",
+"Ve (bahuvacana) / ve (ena.) / ve (ena.)"
+],
+"I used to do": [
+"مان ڪندو هوس",
+"Maiṃ yaha kiyā karatā thā"
+],
+"She used to speak": [
+"هوءَ ڳالهائيندي هئي",
+"Vaha bāta kara rahī thī"
+],
+"He used to dance": [
+"رقص ڪندو هو",
+"Vaha nācatā thā"
+],
+"They (plural of he) used to eat mangos": [
+"اُهي (مثلاً) آم کائيندا هئا",
+"Unhoṃne (udāharaṇa ke lie) āma khāyā"
+],
+"They (plural of she) used to play cricket": [
+"اهي (هوءَ جو جمع) ڪرڪيٽ کيڏندا هئا",
+"Ve (bahuvacana vaha) krikeṭa khelate the"
+],
+"He used to be there": [
+"هو اتي پهچندو هو",
+"Vaha vahāṃ pahuṃca jātā thā"
+],
+"She used to be quiet": [
+"هوءَ خاموش رهندي هئي",
+"Vaha cupa thī"
+],
+"I did not use to do": [
+"مون کي ڪرڻ لاء استعمال نه ڪيو",
+"Mujhe ādata nahīṃ hai"
+],
+"She did not use to speak": [
+"هوء ڳالهائڻ لاء استعمال نه ڪيو",
+"Vaha bāta nahīṃ karatī thī"
+],
+"You did not use to dance": [
+"توهان ناچ ڪرڻ لاء استعمال نه ڪيو",
+"Tumheṃ nācane kī ādata nahīṃ hai"
+],
+"They (plural of he) did not use to eat mangos": [
+"اهي (هن جو جمع) آم کائڻ لاءِ استعمال نه ڪندا هئا",
+"Ve (usakā bahuvacana) āma nahīṃ khāte the"
+],
+"She did not use to be quiet": [
+"هوءَ خاموش رهڻ لاءِ استعمال نه ڪندي هئي",
+"Use cupa rahane kī ādata nahīṃ thī"
+],
+"He did not use to be there": [
+"هن کي اتي وڃڻ لاء استعمال نه ڪيو",
+"Vaha vahāṃ nahīṃ jātā thā"
+],
+"He is used to dance": [
+"هن کي ناچ ڪرڻ لاء استعمال ڪيو ويندو آهي",
+"Use nācane kī ādata hai"
+],
+"She is used to speak": [
+"هوء ڳالهائڻ لاء استعمال ڪئي وئي آهي",
+"Use bāta karane kī ādata hai"
+],
+"Those girls are used to laugh": [
+"انهن ڇوڪرين کي کلڻ لاء استعمال ڪيو ويندو آهي",
+"Ina lar̤akiyoṃ ko haṃsane kī ādata hotī hai"
+],
+"I am used to be there": [
+"مان اتي رهڻ جي عادت آهيان",
+"Mujhe vahāṃ rahane kī ādata hai"
+],
+"She is used to be quiet": [
+"هوءَ خاموش رهڻ جي عادت آهي",
+"Use cupa rahane kī ādata hai"
+],
+"He is not used to dance": [
+"هن کي نچڻ جي عادت ناهي",
+"Unheṃ nācane kī ādata nahīṃ hai"
+],
+"She is not used to speak": [
+"هوء ڳالهائڻ جي عادت نه آهي",
+"Use bāta karane kī ādata nahīṃ hai"
+],
+"I used to eat mango": [
+"ماني کائيندو هوس",
+"Maiṃ khānā khātā thā"
+],
+"Kaushik used to eat mango": [
+"ڪوشڪ ماني کائيندو هو",
+"Kauśika roṭī khātā thā"
+],
+"Kaushik, Guru, sundar used to meet every day": [
+"ڪوشڪ، گرو، سندر روز ملندا هئا",
+"Kauśika, guru, sundara roja milate the"
+],
+"My friends and I used to play cricket": [
+"مان ۽ منهنجا دوست ڪرڪيٽ کيڏندا هئاسين",
+"Maiṃ aura mere dosta krikeṭa khelate the"
+],
+"I used to see": [
+"مان ڏسندو هوس",
+"Maiṃ dekhatā thā"
+],
+"Kaushik used to see": [
+"ڪوشڪ ڏسندو هو",
+"Kauśika dekha rahā thā"
+],
+"Kaushik used to do": [
+"ڪوشڪ ڪندو هو",
+"Vaha kośiśa kara rahā thā"
+],
+"He opened the door": [
+"هن دروازو کوليو",
+"Usane daravājā kholā"
+],
+"If he had opened the door then": [
+"جيڪڏهن هو دروازو کولي ها ته پوءِ",
+"Agara usane daravāzā kholā hotā to"
+],
+"He had spoken": [
+"هن ڳالهايو هو",
+"Unhoṃne bāta kī thī"
+],
+"If he had spoken": [
+"جيڪڏهن هو ڳالهائي ها",
+"Agara vaha bolegā"
+],
+"If you had spoken then she would have spoken": [
+"جيڪڏهن تون ڳالهائين ها ته هوءَ ڳالهائي ها",
+"Tuma bolate to bolatī"
+],
+"If he had cried then they would have ran": [
+"جيڪڏهن هو روئي ها ته اهي ڀڄي وڃن ها",
+"Agara vaha cillātā to ve bhāga jāte"
+],
+"If you go I will cry": [
+"تون وڃ ته مان روئيندس",
+"Agara tuma jāoge to maiṃ roūṃgā"
+],
+"If he sings she will dance": [
+"جيڪڏهن هو ڳائيندو ته هوءَ نچندي",
+"Agara vaha gāegā to vaha nācegī"
+],
+"reason of coming": [
+"اچڻ جو سبب",
+"Āne kā kāraṇa"
+],
+"She spoke after my dancing": [
+"هوءَ منهنجي ناچ کان پوءِ ڳالهائيندي هئي",
+"Vaha mere ḍāṃsa ke bāda bāta kara rahī thī"
+],
+"after I danced": [
+"مون ڊانس ڪرڻ کان پوءِ",
+"Mere nācane ke bāda"
+],
+"She spoke after I danced": [
+"منهنجي ناچ ڪرڻ کان پوءِ هوءَ ڳالهائيندي هئي",
+"Mere ḍāṃsa karane ke bāda vaha bāta kara rahī thī"
+],
+"He cried after she went": [
+"هوءَ وڃڻ کان پوءِ روئي",
+"Jāne ke bāda vaha ro par̤ī"
+],
+"He told about his coming to school": [
+"هن پنهنجي اسڪول اچڻ بابت ٻڌايو",
+"Usane skūla āne kī bāta batāyī"
+],
+"He told me that he is coming": [
+"هن ٻڌايو ته هو اچي رهيو آهي",
+"Usane kahā ki vaha ā rahā hai"
+],
+"He told me that he is going to come": [
+"هن ٻڌايو ته هو اچڻ وارو آهي",
+"Usane kahā ki vaha ā rahā hai"
+],
+"I don't remember she having said something": [
+"مون کي ياد ناهي ته هن ڪجهه چيو هجي",
+"Mujhe yāda nahīṃ ki usane kucha kahā ho"
+],
+"I don't remember she having eaten mango": [
+"مون کي ياد ناهي ته هن انبو کائي هئي",
+"Mujhe yāda nahīṃ ki usane āma khāyā thā yā nahīṃ"
+],
+"while I speak": [
+"جڏهن مان ڳالهائيندو آهيان",
+"Jaba maiṃ bolatā hū~"
+],
+"while I do": [
+"جڏهن ته مان ڪريان ٿو",
+"Jaba maiṃ karatā hū~"
+],
+"while I dance": [
+"جڏهن مان نچندو آهيان",
+"Jaba maiṃ nṛtya karatā hū~"
+],
+"Come to see this photo": [
+"اچو ته هي فوٽو ڏسو",
+"Āie isa phoṭo ko dekheṃ"
+],
+"Come to eat with me": [
+"مون سان گڏ کائڻ لاءِ اچ",
+"Āe mere sātha khāeṃ"
+],
+"Smoking is prohibited": [
+"سگريٽ نوشي منع ٿيل آهي",
+"Dhūmrapāna varjita hai"
+],
+"Court asked to be present tomorrow": [
+"عدالت سڀاڻي پيش ٿيڻ لاءِ چيو",
+"Korṭa ne kala peśa hone ko kahā"
+],
+"Sit and watch": [
+"ويٺو ۽ ڏس",
+"Baiṭho aura dekho"
+],
+"come and go": [
+"اچو ۽ وڃو",
+"Ānā aura jānā"
+],
+"He came and saw it": [
+"هن اچي ڏٺو",
+"Usane ākara dekhā"
+],
+"They will go and check it": [
+"اهي ويندا ۽ ان کي جانچيندا",
+"Ve jākara isakī jāṃca kareṃge"
+],
+"smile and say": [
+"مسڪرايو ۽ چئو",
+"Muskurāo aura kaho"
+],
+"till I speak": [
+"جيستائين مان ڳالهائيندس",
+"Jaba taka maiṃ bolatā hū~"
+],
+"until she smiles": [
+"جيستائين هوءَ مسڪرائي",
+"Jaba taka vaha muskurāī nahīṃ"
+],
+"till he goes": [
+"جيستائين هو وڃي",
+"Jaba taka vaha nahīṃ jātā"
+],
+"until we come": [
+"جيستائين اسان اچو",
+"Jaba taka hama nahīṃ āte"
+],
+"For good horse": [
+"سٺي گهوڙي لاءِ",
+"Eka acche ghor̤e ke lie"
+],
+"For good chair": [
+"سٺي ڪرسي لاءِ",
+"Eka acchī kursī ke lie"
+],
+"After easy exam": [
+"آسان امتحان کان پوء",
+"Āsāna parīkṣaṇa ke bāda"
+],
+"For red horse": [
+"لال گهوڙي لاءِ",
+"Lāla ghor̤e ke lie"
+],
+"About beautiful drawing": [
+"خوبصورت ڊرائنگ بابت",
+"Suṃdara rekhācitroṃ ke bāre meṃ"
+],
+"I can eat": [
+"مان کائي سگهان ٿو",
+"Maiṃ khā sakatā hūṃ"
+],
+"He can sing": [
+"هو ڳائي سگهي ٿو",
+"Vaha gā sakatā hai"
+],
+"You(plural) could eat mango": [
+"توهان (جمع) آم کائي سگهو ٿا",
+"Āpa (bahuvacana) āma khā sakate haiṃ"
+],
+"You(plural) could eat chutney": [
+"توهان (جمع) چٽڻي کائي سگهو ٿا",
+"Āpa (bahuvacana) caṭanī khā sakate haiṃ"
+],
+"She could dance": [
+"هوءَ رقص ڪري سگهي ٿي",
+"Vaha nṛtya kara sakatī hai"
+],
+"They (plural of she) will be able to move": [
+"اهي (هن جو جمع) منتقل ڪرڻ جي قابل هوندا",
+"Ve (unakā saṃgraha) sthānāṃtarita ho sakeṃge"
+],
+"I can not eat": [
+"مان کائي نٿو سگهان",
+"Maiṃ nahīṃ khā sakatā"
+],
+"He can not sing": [
+"هو ڳائي نٿو سگهي",
+"Vaha gā nahīṃ sakatā"
+],
+"She could not dance": [
+"هوءَ ناچ نه ٿي سگهي",
+"Vaha nṛtya nahīṃ kara sakatī"
+],
+"You(plural) could not eat mango": [
+"تون (جمع) آم کائي نه سگھين",
+"Āpa (bahuvacana) āma nahīṃ khā sake"
+],
+"You(plural) could not eat chutney": [
+"توهان (جمع) چٹني نه کائي سگهو ٿا",
+"Āpa (bahuvacana) saॉsa nahīṃ khā sakate"
+],
+"They will not be able to move": [
+"اُهي لڏي نه سگهندا",
+"Ve hila nahīṃ sakate"
+],
+"I can play cricket": [
+"مان ڪرڪيٽ کيڏي سگهان ٿو",
+"Maiṃ krikeṭa khela sakatā hūṃ"
+],
+"I could play cricket": [
+"مان ڪرڪيٽ کيڏندو هوس",
+"Maiṃ krikeṭa khelatā thā"
+],
+"I will be able to play cricket": [
+"مان ڪرڪيٽ کيڏڻ جي قابل ٿي ويندس",
+"Maiṃ krikeṭa khela sakūṃgā"
+],
+"He can eat mangoes": [
+"هو انب کائي سگهن ٿا",
+"Ve seba khā sakate haiṃ"
+],
+"He could eat mangoes": [
+"هو انب کائي سگهندو هو",
+"Vaha eka seba khā sakatā thā"
+],
+"He will be able to eat mangoes": [
+"هن کي مڱڻا کائڻ جي قابل ٿي ويندي",
+"Vaha pudīnā khā sakegā"
+],
+"They could open box": [
+"اهي باڪس کولي سگهندا هئا",
+"Ve baksā khola sakate the"
+],
+"They could open bag": [
+"اهي بيگ کولي سگهندا هئا",
+"Ve baiga khola sakate the"
+],
+"They could speak": [
+"اهي ڳالهائي سگهندا هئا",
+"Ve bāta kara sakate the"
+],
+"They gathered to speak": [
+"اهي ڳالهائڻ لاءِ گڏ ٿيا",
+"Ve bāta karane ke lie ekatra hue"
+],
+"I want mango": [
+"مون کي انبو گهرجي",
+"Mujhe eka seba cāhie"
+],
+"He wants mango": [
+"هن کي ماني گهرجي",
+"Use bhojana kī jarūrata hai"
+],
+"She wants mango": [
+"هوءَ انب چاهي ٿي",
+"Vaha eka seba cāhatī hai"
+],
+"I/He/She want mangoes": [
+"مان/هو/ هوءَ آم چاهي ٿي",
+"Mujhe/use eka āma cāhie"
+],
+"He/She/They want chalk": [
+"هو/هوءَ/اهي چاڪ چاهين ٿا",
+"Use cāka cāhie"
+],
+"He/She/They want chalks": [
+"هو/هوءَ/ اهي چاڪ چاهن ٿا",
+"Use cāka cāhie"
+],
+"He/She/They want bag": [
+"هو/هوءَ/هن کي بيگ گهرجي",
+"Use baiga cāhie"
+],
+"He/She/They want bags": [
+"هو/هوءَ/ اهي بيگز چاهين ٿا",
+"Use baiga cāhie/cāhie"
+],
+"He/She/They want page": [
+"هو/هوء/ اهي صفحو چاهين ٿا",
+"Vaha/ve peja cāhate haiṃ/cāhatī haiṃ"
+],
+"He/She/They want pages": [
+"هو/هوء/ اهي صفحا چاهين ٿا",
+"Use ye panne cāhie/cāhie"
+],
+"He/She/They wanted chalk": [
+"هن/هوء/ اهي چاڪ چاهيندا هئا",
+"Vaha/ve cāka cāhate the/cāhatī thīṃ"
+],
+"He/She/They wanted chalks": [
+"هو/هوءَ/ اهي چاڪ چاهن ٿا",
+"Use cāka cāhie"
+],
+"He/She/They wanted bag": [
+"هن/هوء/ انهن کي بيگ چاهيو",
+"Vaha baiga cāhatā thā/cāhatī thī"
+],
+"He/She/They wanted bags": [
+"هن/هوء/ انهن کي بيگز گهريو",
+"Usane/unhoṃne baiga māṃge"
+],
+"He/She/They wanted page": [
+"هن / هوء / اهي صفحو چاهيو",
+"Vaha/vaha/ve peja cāhate haiṃ"
+],
+"He/She/They wanted pages": [
+"هن/هوء/ اهي صفحا چاهين ٿا",
+"Use ye panne cāhie/cāhie"
+],
+"He/She/They will need chalk": [
+"هن/هوء/ انهن کي چاڪ جي ضرورت پوندي",
+"Use cāka kī āvaśyakatā hogī"
+],
+"He/She/They will need chalks": [
+"هن/هوء/ انهن کي چاڪ جي ضرورت پوندي",
+"Use cāka kī āvaśyakatā hogī"
+],
+"He/She/They will need bag": [
+"هن/هوء/ انهن کي بيگ جي ضرورت پوندي",
+"Use/unheṃ eka baiga kī āvaśyakatā hogī"
+],
+"He/She/They will need bags": [
+"هن / هوء / انهن کي بيگز جي ضرورت پوندي",
+"Use/unheṃ baiga kī āvaśyakatā hogī"
+],
+"He/She/They will need page": [
+"هن / هوء / انهن کي صفحي جي ضرورت پوندي",
+"Use/use peja kī āvaśyakatā hogī"
+],
+"He/She/They will need pages": [
+"هن/هوء/ انهن کي صفحن جي ضرورت پوندي",
+"Use/use pṛṣṭhoṃ kī āvaśyakatā hogī"
+],
+"I do not want mango": [
+"مون کي مڱڻو نه گهرجي",
+"Maiṃ bhīkha nahīṃ māṃganā cāhatā"
+],
+"She will not want bag": [
+"هوءَ بيگ نه چاهيندي",
+"Use baiga nahīṃ cāhie"
+],
+"He did not want chalk": [
+"هن چاڪ نه چاهيو",
+"Use cāka nahīṃ cāhie thā"
+],
+"He did not want bag": [
+"هن کي ٿلهو نه هو",
+"Usakā peṭa nahīṃ thā"
+],
+"She does not want ice cream": [
+"هوءَ آئس ڪريم نٿي چاهي",
+"Use āisakrīma nahīṃ cāhie"
+],
+"What will happen?": [
+"ڇا ٿيندو؟",
+"Kyā ho jāegā"
+],
+"What is happening?": [
+"ڇا ٿي رهيو آهي؟",
+"Kyā hāla hai?"
+],
+"It did not happen": [
+"ائين نه ٿيو",
+"Aisā nahīṃ huā"
+],
+"I will become winner": [
+"مان فاتح بڻجي ويندس",
+"Maiṃ vijetā banūṃgā"
+],
+"It was happening": [
+"اهو ٿي رهيو هو",
+"Aisā ho rahā thā"
+],
+"He will become mad": [
+"هو چريو ٿي ويندو",
+"Vaha pāgala ho jāyegā"
+],
+"He should have eaten mango": [
+"هن کي ماني کائڻ گهرجي ها",
+"Use khānā cāhie thā"
+],
+"He should have eaten tamarind": [
+"هن کي املي کائڻ گهرجي ها",
+"Unheṃ imalī khānī cāhie thī"
+],
+"He should eat mango": [
+"هن کي ماني کائڻ گهرجي",
+"Use avaśya khānā cāhie"
+],
+"He should go": [
+"هن کي وڃڻ گهرجي",
+"Use jānā cāhie"
+],
+"He should have gone": [
+"هن کي وڃڻ گهرجي ها",
+"Use jānā cāhie thā"
+],
+"I should speak": [
+"مون کي ڳالهائڻ گهرجي",
+"Mujhe bolanā hī hogā"
+],
+"I should have spoken": [
+"مون کي ڳالهائڻ گهرجي ها",
+"Mujhe bolanā cāhie thā"
+],
+"They should dance": [
+"انهن کي ناچ ڪرڻ گهرجي",
+"Unheṃ nācanā cāhie"
+],
+"They should not dance": [
+"انهن کي ناچ نه ڪرڻ گهرجي",
+"Unheṃ ḍāṃsa nahīṃ karanā cāhie"
+],
+"They should have danced": [
+"انهن کي نچڻ گهرجي ها",
+"Unheṃ nācanā cāhie thā"
+],
+"They should not have danced": [
+"انهن کي نچڻ نه گهرجي ها",
+"Unheṃ ḍāṃsa nahīṃ karanā cāhie thā"
+],
+"You should play": [
+"توهان کي راند ڪرڻ گهرجي",
+"Tumheṃ khelanā cāhie"
+],
+"You should not play": [
+"توهان کي راند نه ڪرڻ گهرجي",
+"Tumheṃ nahīṃ khelanā cāhie"
+],
+"You should have played": [
+"توهان کي کيڏڻ گهرجي ها",
+"Tumheṃ khelanā cāhie thā"
+],
+"You should not have smiled": [
+"توکي مسڪرائڻ نه گهرجي ها",
+"Tumheṃ muskurānā nahīṃ cāhie thā"
+],
+"She should open box": [
+"هن کي باڪس کولڻ گهرجي",
+"Use baksā kholanā cāhie"
+],
+"He should eat": [
+"هن کي کائڻ گهرجي",
+"Use khānā cāhie"
+],
+"You(male) should go": [
+"توهان کي (مرد) وڃڻ گهرجي",
+"Tumheṃ (ādamī ko) jānā cāhie"
+],
+"You(male) should eat mango": [
+"توهان (مرد) کي آم کائڻ گهرجي",
+"Tumheṃ (ādamī ko) āma khānā cāhie"
+],
+"He should not go": [
+"هن کي وڃڻ نه گهرجي",
+"Use nahīṃ jānā cāhie"
+],
+"She should not open box": [
+"هن کي باڪس نه کولڻ گهرجي",
+"Use baksā nahīṃ kholanā cāhie"
+],
+"He should not eat": [
+"هن کي کائڻ نه گهرجي",
+"Use nahīṃ khānā cāhie"
+],
+"He should eat tamarind": [
+"هن کي املي کائڻ گهرجي",
+"Unheṃ imalī khānī cāhie"
+],
+"She should write letter": [
+"هن کي خط لکڻ گهرجي",
+"Unheṃ eka patra likhanā cāhie"
+],
+"You should eat mango": [
+"توهان کي آم کائڻ گهرجي",
+"Āpako āma khānā cāhie"
+],
+"He has to do it every day": [
+"هن کي هر روز ڪرڻو پوندو",
+"Use yaha hara dina karanā hogā"
+],
+"He will have to do it every day": [
+"هن کي هر روز ڪرڻو پوندو",
+"Use yaha hara dina karanā hogā"
+],
+"He had to do it every day": [
+"هن کي هر روز ڪرڻو پوندو هو",
+"Use yaha hara dina karanā par̤atā thā"
+],
+"She has to eat mango": [
+"هن کي ماني کائڻي آهي",
+"Use khānā par̤egā"
+],
+"She will have to eat mango": [
+"هن کي مڱڻو کائڻو پوندو",
+"Use pudīnā khānā hai"
+],
+"She had to eat mango": [
+"هوءَ مڱڻهار هئي",
+"Usakī sagāī ho cukī thī"
+],
+"She has to eat mangoes": [
+"هن کي آم کائڻو آهي",
+"Use āma khānā hai"
+],
+"She has to eat tamarind": [
+"هن کي املي کائڻي آهي",
+"Use imalī khānī hai"
+],
+"She has to eat tamarinds": [
+"هن کي املي کائڻي آهي",
+"Use imalī khānī hai"
+],
+"She has to eat medicine": [
+"هن کي دوا کائڻي آهي",
+"Use davā lenī hogī"
+],
+"She has to eat medicines": [
+"هن کي دوائون کائڻ گهرجن",
+"Use davā lenī hogī"
+],
+"I have to go": [
+"مون کي وڄڻو آهي",
+"Muje jānā hai"
+],
+"We have to speak": [
+"اسان کي ڳالهائڻو آهي",
+"Hameṃ bāta karanī hogī"
+],
+"I keep speaking": [
+"مان ڳالهائيندو رهيس",
+"Maiṃ bolatā rahatā hūṃ"
+],
+"I kept speaking": [
+"مان ڳالهائيندو رهيو",
+"Maiṃ bolatā rahā"
+],
+"I will keep speaking": [
+"مان ڳالهائيندو رهندس",
+"Maiṃ bāta karatā rahūṃgā"
+],
+"You keep speaking": [
+"توهان ڳالهائيندا رهو",
+"Āpa bolate rahiye"
+],
+"You kept speaking": [
+"تون ڳالهائيندو رهيو",
+"Āpa bolate rahiye"
+],
+"You will keep speaking": [
+"توهان ڳالهائيندا رهندا",
+"Āpa bolate rahiye"
+],
+"Keep speaking! (Imperative)": [
+"ڳالهائيندا رهو! (لازمي)",
+"Āge bolo! (āvaśyaka)"
+],
+"He is taller than me": [
+"هو مون کان ڊگهو آهي",
+"Vaha mujha se lambā hai"
+],
+"I am shorter than you": [
+"مان توهان کان ننڍو آهيان",
+"Maiṃ tumase choṭā hū~"
+],
+"They were happier than now": [
+"اهي هاڻي کان وڌيڪ خوش هئا",
+"Ve aba adhika khuśa the"
+],
+"He is best": [
+"اھو بھترين آھي",
+"Yaha sarvottama hai"
+],
+"Everest is the tallest peak": [
+"ايورسٽ سڀ کان وڏي چوٽي آهي",
+"Evaresṭa sabase ūṃcī coṭī hai"
+],
+"She was the youngest player": [
+"هوءَ ننڍي عمر جي رانديگر هئي",
+"Vaha eka yuvā ethalīṭa thī"
+],
+"Your voice is loudest of all": [
+"تنهنجو آواز سڀني کان بلند آهي",
+"Āpakī āvāja sabase ūṃcī hai"
+],
+"Your name is known to me": [
+"تنهنجو نالو مون کي معلوم آهي",
+"Maiṃ āpakā nāma jānatā hūṃ"
+],
+"She knows his address": [
+"هوءَ سندس ائڊريس ڄاڻي ٿي",
+"Vaha usakā patā jānatī hai"
+],
+"She knew his address": [
+"هوءَ سندس ائڊريس ڄاڻي ٿي",
+"Vaha usakā patā jānatī hai"
+],
+"Do you know it?": [
+"ڇا توهان ان کي ڄاڻو ٿا؟",
+"Kyā āpa yaha jānate ho?"
+],
+"Did she know that?": [
+"ڇا هوءَ اها خبر هئي؟",
+"Kyā vaha yaha jānatī thī?"
+],
+"Your name is not known to me": [
+"تنهنجو نالو مون کي خبر ناهي",
+"Maiṃ āpakā nāma nahīṃ jānatā"
+],
+"She does not know his address": [
+"هوءَ سندس ائڊريس نٿي ڄاڻي",
+"Vaha usakā patā nahīṃ jānatī"
+],
+"She did not know his address": [
+"هوءَ سندس ائڊريس نه ڄاڻندي هئي",
+"Vaha usakā patā nahīṃ jānatī thī"
+],
+"Don't you know it?": [
+"ڇا توهان کي خبر ناهي؟",
+"Nahīṃ būjhate ho?"
+],
+"Didn't she know that?": [
+"ڇا هن کي اها خبر نه هئي؟",
+"Kyā vaha yaha nahīṃ jānatā thā?"
+],
+"I know eating cake": [
+"مان ڄاڻان ٿو ڪيڪ کائڻ",
+"Mujhe patā hai keka kaise khānā hai"
+],
+"I know swimming": [
+"مان ترڻ ڄاڻان ٿو",
+"Mujhe tairanā ātā hai"
+],
+"I know Japanese": [
+"مان جاپاني ڄاڻان ٿو",
+"Maiṃ jāpānī jānatā hūṃ"
+],
+"I know cooking": [
+"مان پچائڻ ڄاڻان ٿو",
+"Mujhe khānā banānā ātā hai"
+],
+"Do you know playing cricket?": [
+"ڇا توهان ڪرڪيٽ کيڏڻ ڄاڻو ٿا؟",
+"Kyā āpa krikeṭa khelanā jānate haiṃ?"
+],
+"I know killing mosquitoes": [
+"مان مڇرن کي مارڻ ڄاڻان ٿو",
+"Mujhe patā hai ki maccharoṃ ko kaise māranā hai"
+],
+"She used to know dancing before": [
+"هوءَ اڳي ناچ ڄاڻندي هئي",
+"Vaha pahale se hī nṛtya karanā jānatī thī"
+],
+"They knew to talk": [
+"اهي ڳالهائڻ ڄاڻندا هئا",
+"Ve bāta karanā jānate the"
+],
+"He learned. So he could speak Japanese": [
+"هن سکيو. تنهنڪري هو جاپاني ڳالهائي سگهي ٿو",
+"Usane sīkhā ki vaha jāpānī bhāṣā bola sakatā hai"
+],
+"I do not know eating cake": [
+"مون کي خبر ناهي ڪيڪ کائڻ",
+"Mujhe nahīṃ patā ki keka kaise khāyā jātā hai"
+],
+"I do not know swimming": [
+"مون کي ترڻ جي خبر ناهي",
+"Mujhe tairanā nahīṃ ātā"
+],
+"I do not know Japanese": [
+"مان جاپاني نٿو ڄاڻان",
+"Maiṃ jāpānī nahīṃ jānatā"
+],
+"She did not know dancing before": [
+"هوءَ اڳي ناچ نه ڄاڻندي هئي",
+"Vaha pahale ḍāṃsa karanā nahīṃ jānatī thī"
+],
+"They did not know to talk": [
+"انهن کي ڳالهائڻ جي خبر نه هئي",
+"Unheṃ bolanā nahīṃ ātā thā"
+],
+"He did not learn. So he could not speak Japanese": [
+"هن نه سکيو. تنهنڪري هو جاپاني ڳالهائي نه سگهيو",
+"Usane sīkhā nahīṃ. isalie vaha jāpānī bhāṣā nahīṃ bola sakatā thā"
+],
+"I(boy) know you": [
+"مان (ڇوڪرو) توکي سڃاڻان ٿو",
+"Maiṃ (lar̤akā) tumheṃ jānatā hūṃ"
+],
+"I(girl) know you": [
+"مان (ڇوڪري) توکي سڃاڻان ٿو",
+"Maiṃ (lar̤akī) tumheṃ jānatī hūṃ"
+],
+"You know me": [
+"تون مون کي سڃاڻين",
+"Āpa mujhe jānate haiṃ"
+],
+"He knows Mr. Ram": [
+"هو مسٽر رام کي ڄاڻي ٿو",
+"Vaha śrī rāma ko jānate haiṃ"
+],
+"Let's not play": [
+"اچو ته راند نه ڪريون",
+"Calo mata khelo"
+],
+"Let's not go": [
+"اچو ته نه وڃو",
+"Calo mata jāo"
+],
+"Let's not speak": [
+"اچو ته نه ڳالهايون",
+"Calie bāta nahīṃ karate"
+],
+"Shall we play cricket? (style 1)": [
+"ڇا اسان ڪرڪيٽ کيڏنداسين؟ (انداز 1)",
+"Kyā hama krikeṭa kheleṃge? (śailī 1)"
+],
+"Shall we play cricket? (style 2)": [
+"ڇا اسان ڪرڪيٽ کيڏنداسين؟ (انداز 2)",
+"Kyā hama krikeṭa kheleṃge? (śailī 2)"
+],
+"Shall we watch movie? (style 1)": [
+"ڇا اسان فلم ڏسون؟ (انداز 1)",
+"Kyā hama eka philma dekheṃge? (śailī 1)"
+],
+"Shall we watch movie? (style 2)": [
+"ڇا اسان فلم ڏسون؟ (انداز 2)",
+"Kyā hama eka philma dekheṃge? (śailī 2)"
+],
+"Shall we go home? (style 1)": [
+"ڇا اسان گهر هلون؟ (انداز 1)",
+"Kyā hama ghara caleṃ? (śailī 1)"
+],
+"Shall we go home? (style 2)": [
+"ڇا اسان گهر هلون؟ (انداز 2)",
+"Kyā hama ghara caleṃ? (śailī 2)"
+],
+"Shall we eat mango? (style 1)": [
+"ڇا اسان ماني کائينداسين؟ (انداز 1)",
+"Kyā hama khāyeṃ? (śailī 1)"
+],
+"Shall we eat mango? (style 2)": [
+"ڇا اسان ماني کائينداسين؟ (انداز 2)",
+"Kyā hama khāyeṃ? (śailī 2)"
+],
+"Shall we eat tamarind? (style 1)": [
+"ڇا اسان املي کائينداسين؟ (انداز 1)",
+"Kyā hama imalī khāyeṃge? (śailī 1)"
+],
+"Shall we eat tamarind? (style 2)": [
+"ڇا اسان املي کائينداسين؟ (انداز 2)",
+"Kyā hama imalī khāyeṃge? (śailī 2)"
+],
+"Let him play": [
+"هن کي کيڏڻ ڏيو",
+"Use khelane do"
+],
+"Let me eat": [
+"مون کي کائڻ ڏيو",
+"Mujhe khāne do"
+],
+"Let her speak": [
+"هن کي ڳالهائڻ ڏيو",
+"Use bāta karane do"
+],
+"You all, Let him play": [
+"توهان سڀ، هن کي کيڏڻ ڏيو",
+"Tuma saba, use khelane do"
+],
+"You all, Let me eat": [
+"توهان سڀ، مون کي کائڻ ڏيو",
+"Tuma saba mujhe khāne do"
+],
+"You all, Let her speak": [
+"توهان سڀ، هن کي ڳالهائڻ ڏيو",
+"Āpa sabhī, use bolane dījie"
+],
+"Don't let him play": [
+"هن کي کيڏڻ نه ڏيو",
+"Use khelane mata do"
+],
+"Don't let me eat": [
+"مون کي کائڻ نه ڏيو",
+"Mujhe khāne mata do"
+],
+"You all, don't let her speak": [
+"توهان سڀ، هن کي ڳالهائڻ نه ڏيو",
+"Tuma saba, use bāta karane mata do"
+],
+"You all, don't let me eat": [
+"توهان سڀ، مون کي کائڻ نه ڏيو",
+"Tuma saba, mujhe khāne mata do"
+],
+"I could not understand what you just said": [
+"مان سمجهي نه سگهيو آهيان ته توهان ڇا چيو آهي",
+"Āpane kyā kahā vaha merī samajha meṃ nahīṃ āyā"
+],
+"Which fruit you want, show me that": [
+"توهان کي ڪهڙو ميوو گهرجي، مون کي ڏيکاريو",
+"Mujhe dikhāo tumheṃ kauna sā phala cāhie"
+],
+"When you come I feel happy": [
+"جڏهن تون ايندين ته مون کي خوشي ٿيندي",
+"Jaba tuma āoge to mujhe k͟huśī hogī"
+],
+"What is in your mind, tell me that": [
+"توهان جي ذهن ۾ ڇا آهي، مون کي ٻڌايو",
+"Mujhe batāo ki tumhāre mana meṃ kyā hai"
+],
+"When you(girl) come I feel happy": [
+"جڏهن تون (ڇوڪري) ايندي آهين ته مونکي خوشي ٿيندي آهي",
+"Jaba tuma (lar̤akī) ātī ho to mujhe k͟huśī hotī hai"
+],
+"Go back, the way you have come": [
+"موٽي وڃ، جنهن طريقي سان آيو آهين",
+"Jisa rāste se āye ho usī rāste se vāpasa jāo"
+],
+"Give it to him, who wants it": [
+"ان کي ڏيو، جيڪو گھري",
+"Use vaha do jo vaha cāhatā hai"
+],
+"Tell me about them whom you read about": [
+"مون کي انھن بابت ٻڌايو جن بابت توھان پڙھندا آھيو",
+"Mujhe unake bāre meṃ batāeṃ jinake bāre meṃ āpane par̤hā hai"
+],
+"Wherever you will go I will come": [
+"جتي به وڃان ٿو، آئون ضرور ايندس",
+"Maiṃ jahāṃ bhī jāūṃgā, jarūra āūṃgā"
+],
+"Whichever vegetables you want, you buy it": [
+"جيڪا به ڀاڄي توهان چاهيو، توهان ان کي خريد ڪيو",
+"Āpako jo bhī khānā cāhie, āpa kharīda lījie"
+],
+"Whenever you call he will answer": [
+"جڏهن به سڏيندو هو ته جواب ڏيندو",
+"Jaba bhī vaha phona karatā, vaha javāba detā"
+],
+"Do not smoke here": [
+"هتي تماڪ نه ڪريو",
+"Yahā~ dhūmrapāna nahīṃ karate"
+],
+"Do not use mobile phones": [
+"موبائل فون استعمال نه ڪريو",
+"Mobāila phona kā prayoga na kareṃ"
+],
+"Enter your preferences": [
+"پنھنجيون ترجيحون داخل ڪريو",
+"Apanī prāthamikatāe~ darja kareṃ"
+],
+"Write your address": [
+"پنهنجو پتو لکو",
+"Apanā patā likheṃ"
+],
+"Write your addresses": [
+"پنهنجا ائڊريس لکو",
+"Apane pate likheṃ"
+],
+"Enter your preference": [
+"پنھنجي ترجيح داخل ڪريو",
+"Apanī prāthamikatā darja kareṃ"
+],
+"Speak your name": [
+"پنهنجو نالو ٻڌاءِ",
+"Apanā nāma bolo"
+],
+"Speak your names": [
+"پنهنجا نالا ٻڌاءِ",
+"Apane nāma batāo"
+],
+"Do not speak": [
+"نه ڳالهائڻ",
+"Bāta mata karo"
+],
+"Do not smoke": [
+"تماڪ نه ڪريو",
+"Dhūmrapāna mata karo"
+],
+"Do not cross road here": [
+"هتي روڊ پار نه ڪريو",
+"Yahāṃ sar̤aka pāra na kareṃ"
+],
+"Do not pluck flowers": [
+"گل نه ڇُٽي",
+"Phūla nahīṃ khilatā"
+],
+"I like to eat mango": [
+"مون کي آم کائڻ پسند آهي",
+"Mujhe āma khānā pasaṃda hai"
+],
+"I like to eat mangoes": [
+"مون کي آم کائڻ پسند آهي",
+"Mujhe āma khānā pasaṃda hai"
+],
+"He liked to open bag": [
+"هن بيگ کولڻ پسند ڪيو",
+"Use baiga kholanā acchā lagatā thā"
+],
+"He liked to open bags": [
+"هن کي بيگز کولڻ پسند ڪيو",
+"Use baiga kholanā pasaṃda hai"
+],
+"She will like to sing song": [
+"هوءَ گيت ڳائڻ پسند ڪندي",
+"Use gānā gānā pasaṃda hai"
+],
+"She will like to sing songs": [
+"هوءَ گيت ڳائڻ پسند ڪندي",
+"Use gānā gānā pasaṃda hai"
+],
+"I do not like to eat mango": [
+"ماني کائڻ پسند نه ڪندو آهيان",
+"Mujhe khānā pasaṃda nahīṃ hai"
+],
+"I do not like to eat mangoes": [
+"مون کي انب کائڻ پسند نه آهي",
+"Mujhe seba khānā pasaṃda nahīṃ hai"
+],
+"He did not like to open bag": [
+"هن کي ٿلهو کولڻ پسند نه آيو",
+"Use baiga kholanā acchā nahīṃ lagā"
+],
+"She will not like to sing song": [
+"هوءَ گيت ڳائڻ پسند نه ڪندي",
+"Use gānā pasaṃda nahīṃ hai"
+],
+"I like to see Kaushik": [
+"مون کي ڪاوش ڏسڻ پسند آهي",
+"Mujhe prayāsa dekhanā pasaṃda hai"
+],
+"He likes to push me": [
+"هو مون کي دٻائڻ پسند ڪندو آهي",
+"Use mujhe dhakkā denā pasaṃda hai"
+],
+"He likes to push her": [
+"هن کي ڌڪ ڏيڻ پسند ڪندو آهي",
+"Use dhakkā denā pasaṃda hai"
+],
+"They will like to hold us": [
+"اهي اسان کي رکڻ چاهيندا",
+"Ve hameṃ rakhanā cāhate haiṃ"
+],
+"Kaushik said that he would eat": [
+"ڪوشڪ چيو ته ماني کائيندس",
+"Kauśika ne kahā ki maiṃ khāūṃgā"
+],
+"I thought I would be late so I would have to run": [
+"مون سوچيو ته دير ٿي ويندي ان ڪري مون کي هلڻو پوندو",
+"Mujhe lagā ki dera ho jāegī isalie mujhe jānā hogā"
+],
+"I would love to visit New York": [
+"مان نيويارڪ گهمڻ پسند ڪندس",
+"Maiṃ nyūyaॉrka jānā cāhū~gā"
+],
+"We would go, but we are too busy": [
+"وڃون ها، پر اسان تمام مصروف آهيون",
+"Hā~, lekina hama bahuta vyasta haiṃ"
+],
+"I would not disclose it in any condition": [
+"مان ان کي ڪنهن به حالت ۾ ظاهر نه ڪندس",
+"Maiṃ kisī bhī hālata meṃ isakā khulāsā nahīṃ karūṃgā.'"
+],
+"Would you like to drink tea?": [
+"ڇا تون چانهه پيئڻ پسند ڪندين؟",
+"Kyā āpa cāya pīnā cāheṃge?"
+],
+"Would you please help me?": [
+"ڇا توھان مھرباني ڪري منھنجي مدد ڪندا؟",
+"Kyā āpa kṛpayā merī madada kareṃge?"
+],
+"I would suggest you to take this medicine": [
+"مان توهان کي هن دوا وٺڻ جي صلاح ڏيان ٿو",
+"Maiṃ āpako yaha davā lene kī salāha detā hūṃ"
+],
+"I understand its importance": [
+"مان ان جي اهميت کي سمجهان ٿو",
+"Maiṃ isakā mahatva samajhatā hūṃ"
+],
+"He understood the logic": [
+"هو منطق سمجهي ويو",
+"Vaha tarka samajha gayā"
+],
+"She came to know the news": [
+"هوءَ خبر پيئي",
+"Usane khabara sunī"
+],
+"They will understand your mistakes": [
+"اهي توهان جي غلطين کي سمجهي سگهندا",
+"Ve āpakī galatiyā~ samajheṃge"
+],
+"Did you understand?": [
+"سمجھي ويو؟",
+"Samajhā?"
+],
+"She does not understand": [
+"هوءَ سمجهي نه ٿي",
+"Vaha samajha nahīṃ pātī"
+],
+"He will not come to know this": [
+"هن کي اها خبر نه پوندي",
+"Ye to use patā nahīṃ calegā"
+],
+"You are coming": [
+"تون اچي رهيو آهين",
+"Āpa ā rahe haiṃ"
+],
+"You are coming, aren't you?": [
+"تون اچي رهيو آهين، نه؟",
+"Āpa ā rahe haiṃ nā?"
+],
+"She did not speak": [
+"هوءَ نه ڳالهائي",
+"Vaha bolatī nahīṃ hai"
+],
+"She did not speak, did she?": [
+"هوءَ نه ڳالهائي، ڇا هوءَ؟",
+"Vaha bāta nahīṃ karatī hai kyā?"
+],
+"He will do": [
+"هو ڪندو",
+"Vaha karegā"
+],
+"He will do, won't he?": [
+"هو ڪندو، نه؟",
+"Vaha karegā, hai nā?"
+],
+"I remember you": [
+"مان توکي ياد ڪريان ٿو",
+"Āpakī yāda ā rahī hai"
+],
+"You remember me": [
+"تون مون کي ياد ڪر",
+"Tuma mujhe yāda karate ho"
+],
+"We remember Mary": [
+"اسان کي مريم ياد آهي",
+"Hameṃ mairī yāda hai"
+],
+"Mary remembers us": [
+"مريم اسان کي ياد ڪري ٿو",
+"Mairī ko hamārī yāda ātī hai"
+],
+"I remember you (miss)": [
+"مان توکي ياد ڪريان ٿو (مس)",
+"Mujhe tumhārī yāda ātī hai misa)"
+],
+"Mary remembered us": [
+"مريم اسان کي ياد ڪيو",
+"Mairī ko hamārī yāda āī"
+],
+"Peter misses his friend": [
+"پيٽر پنهنجي دوست کي ياد ڪري ٿو",
+"Pīṭara ko apane dosta kī yāda ātī hai"
+],
+"She missed her mother a lot": [
+"هوءَ پنهنجي ماءُ کي ڏاڍي ياد ڪندي هئي",
+"Use apanī māṃ kī bahuta yāda ātī thī"
+],
+"I will remember your favor": [
+"مان تنهنجو احسان ياد ڪندس",
+"Maiṃ āpakī dayālutā ko yāda rakhūṃgā"
+],
+"He always remembered my advice": [
+"هن کي هميشه منهنجي نصيحت ياد هئي",
+"Unheṃ merī salāha hameśā yāda rahatī thī"
+],
+"I want to eat mango": [
+"ماني کائڻ چاهيان ٿو",
+"Maiṃ khānā cāhatā hūṃ"
+],
+"I want to eat mangoes": [
+"مان انب کائڻ چاهيان ٿو",
+"Maiṃ eka seba khānā cāhatā hū~"
+],
+"He wanted to open bag": [
+"هن بيگ کولڻ چاهيو",
+"Vaha baiga kholanā cāhatā thā"
+],
+"He wanted to open bags": [
+"هن بيگ کولڻ چاهيو",
+"Vaha baiga kholanā cāhatā thā"
+],
+"She will want to sing song": [
+"هوءَ گيت ڳائڻ چاهيندي",
+"Vaha gānā cāhatī hai"
+],
+"She will want to sing songs": [
+"هوءَ گيت ڳائڻ چاهيندي",
+"Vaha gānā cāhatī hai"
+],
+"I wanted to go": [
+"مون وڃڻ ٿي چاهيو",
+"Maiṃ jānā cāhatā thā"
+],
+"I will want to run": [
+"مان ڊوڙڻ چاهيندس",
+"Maiṃ daur̤anā cāhūṃ"
+],
+"I do not want to eat mango": [
+"مون کي ماني کائڻ نه ٿي چاهيو",
+"Maiṃ khānā nahīṃ cāhatā thā"
+],
+"He did not want to open bag": [
+"هن بيگ کولڻ نه چاهيو",
+"Vaha baiga kholanā nahīṃ cāhatā thā"
+],
+"She will not want to sing song": [
+"هوءَ گيت ڳائڻ نٿي چاهي",
+"Vaha gānā nahīṃ cāhatī"
+],
+"Kaushik wants to see Peter": [
+"ڪوشڪ پطرس کي ڏسڻ چاهي ٿو",
+"Kauśika pīṭara se milanā cāhatā hai"
+],
+"Kaushik wants to see him": [
+"ڪوشڪ کيس ڏسڻ چاهي ٿو",
+"Kauśika usase milanā cāhatā hai"
+],
+"Kaushik wants to see you": [
+"ڪوشڪ توکي ڏسڻ چاهي ٿو",
+"Kauśika tumase milanā cāhatā hai"
+],
+"I want you to finish work": [
+"مان چاهيان ٿو ته توهان ڪم ختم ڪريو",
+"Maiṃ cāhatā hūṃ ki āpa kāma pūrā kareṃ"
+],
+"She wants me to avoid junk food": [
+"هوءَ چاهي ٿي ته مان جنڪ فوڊ کان پاسو ڪريان",
+"Vaha cāhatī hai ki maiṃ jaṃka phūḍa se paraheja karūṃ"
+],
+"Kaushik wants students to practice more": [
+"ڪوشڪ چاهي ٿو ته شاگرد وڌيڪ مشق ڪن",
+"Kauśika cāhate haiṃ ki chātra adhika abhyāsa kareṃ"
+],
+"Kaushik wanted students to practice more": [
+"ڪوشڪ چاهيندو هو ته شاگرد وڌيڪ مشق ڪن",
+"Kauśika cāhate the ki chātra adhika abhyāsa kareṃ"
+],
+"Students want Kaushik to talk slowly": [
+"شاگرد چاهين ٿا ته ڪوشڪ آهستي ڳالهائي",
+"Chātra cāhate haiṃ ki kośika dhīre-dhīre boleṃ"
+],
+"I am supposed to meet him tomorrow": [
+"مون کي سڀاڻي ساڻس ملڻو آهي",
+"Mujhe kala usase milanā hai"
+],
+"I am supposed to finish that bottle": [
+"مون کي اها بوتل ختم ڪرڻي آهي",
+"Mujhe yaha botala k͟hatma karanī hai"
+],
+"He is supposed to finish that bottle": [
+"هن کي اها بوتل ختم ڪرڻي آهي",
+"Use yaha botala k͟hatma karanī hai"
+],
+"She is supposed to finish that bottle": [
+"هن کي اها بوتل ختم ڪرڻي آهي",
+"Use yaha botala k͟hatma karanī hai"
+],
+"I/He/She was supposed to finish that bottle": [
+"مان/هن/هوءَ کي اها بوتل ختم ڪرڻي هئي",
+"Mujhe/use vaha botala k͟hatma karanī thī"
+],
+"I/He/She was supposed to finish those bottles": [
+"مان/هن/هوءَ کي اهي بوتلون ختم ڪرڻيون هيون",
+"Mujhe/use ve botaleṃ k͟hatma karanī thīṃ"
+],
+"I am supposed to go there tomorrow": [
+"مون کي سڀاڻي اتي وڃڻو آهي",
+"Mujhe kala vahāṃ jānā hai"
+],
+"He is supposed to come tomorrow": [
+"هن کي سڀاڻي اچڻو آهي",
+"Use kala ānā hai"
+],
+"We could not meet but next time we must meet": [
+"اسان نه ملي سگهياسين پر ايندڙ وقت ضرور ضرور ملنداسين",
+"Hama mila to nahīṃ pāe, lekina agalī bāra jarūra mileṃge"
+],
+"You must pay me ransom tomorrow itself": [
+"توکي سڀاڻي مون کي تاوان ڏيڻو پوندو",
+"Tumheṃ kala mujhe bhugatāna karanā hogā"
+],
+"I get a prize": [
+"مون کي انعام مليو",
+"Mujhe puraskāra milā"
+],
+"I get 10 prizes": [
+"مون کي 10 انعام مليا",
+"Mujhe 10 puraskāra mile"
+],
+"He gets a prize": [
+"هن کي انعام ملي ٿو",
+"Use ināma milatā hai"
+],
+"He gets 10 prizes": [
+"هن کي 10 انعام مليا",
+"Unheṃ 10 puraskāra mile"
+],
+"He got a prize": [
+"هن کي انعام مليو",
+"Unheṃ puraskāra milā"
+],
+"He got 10 prizes": [
+"هن کي 10 انعام مليا",
+"Unheṃ 10 puraskāra mile"
+],
+"I found my wallet under the bed": [
+"مون کي پنهنجو پرس پلنگ جي هيٺان مليو",
+"Mujhe apanā baṭuā bistara ke nīce milā"
+],
+"She became angry": [
+"هوءَ ناراض ٿي وئي",
+"Vaha gussā gaī"
+],
+"He became angry": [
+"هو ناراض ٿي ويو",
+"Usakī tyorī car̤ha gayī"
+],
+"He agrees to this condition": [
+"هو ان شرط تي راضي ٿي ويو",
+"Unhoṃne yaha śarta māna lī"
+],
+"He agrees to these conditions": [
+"هو انهن شرطن تي راضي آهي",
+"Vaha ina śartoṃ se sahamata haiṃ"
+],
+"Finish it off in 10 minutes": [
+"10 منٽن ۾ ختم ڪريو",
+"10 minaṭa meṃ k͟hatma kareṃ"
+],
+"Do not hesitate. Speak it out": [
+"هٻڪ نه ڪريو. ڳالهه ٻولهه",
+"Saṃkoca na kareṃ. bāta karanā"
+],
+"Nobody is looking. Just do it": [
+"ڪو به نه ڏسي رهيو آهي. بس اهو ڪر",
+"Koī nahīṃ dekha rahā hai. ise kara hī ḍālo"
+],
+"I somehow managed to gulp it": [
+"مان ڪنهن به طرح ان کي پڪڙڻ ۾ ڪامياب ٿيس",
+"Maiṃ kisī taraha use pakar̤ane meṃ kāmayāba rahā"
+],
+"He quickly came and read the letter": [
+"هو جلدي آيو ۽ خط پڙهيو",
+"Vaha jaldī se āyā aura patra par̤hā"
+],
+"Ask whatever you want; right now": [
+"پڇو جيڪو توهان چاهيو؛ بلڪل هاڻي",
+"Jo cāho māṃgo; abhī"
+],
+"You may call me whatever you want": [
+"توهان مون کي سڏي سگهو ٿا جيڪو توهان چاهيو",
+"Āpa jo cāheṃ mujhe kaॉla kara sakate haiṃ"
+],
+"Get that work done by him": [
+"اهو ڪم هن کان ڪرايو",
+"Usase karo"
+],
+"I made her take exercise every day": [
+"مون هن کي هر روز ورزش ڪرڻ لاءِ چيو",
+"Maiṃne usase pratidina vyāyāma karane ko kahā"
+],
+"I washed clothes very hard": [
+"مون ڪپڙا ڌوئي ڏاڍي محنت ڪئي",
+"Maiṃne kapar̤e dhoye aura khūba mehanata kī"
+],
+"Batsman hit every ball very hard": [
+"بيٽسمين هر بال کي ڏاڍي مشڪل سان ماريو",
+"Ballebāja ne hara geṃda para joradāra prahāra kiyā"
+],
+"I just told him we drank liquor": [
+"مون کيس ٻڌايو ته اسان شراب پيئندا آهيون",
+"Maiṃne usase kahā ki hama loga śarāba pī rahe haiṃ"
+],
+"Oh my God! What have I done!": [
+"او منهنجا رب! مون ڇا ڪيو آهي!",
+"Are bāpa re! maine kyā ki!"
+],
+"Now keep crying": [
+"هاڻي روئندا رهو",
+"Aba ronā baṃda karo"
+],
+"She will search it forever": [
+"هوءَ هميشه لاءِ ڳوليندي",
+"Vaha hameśā talāśatī rahegī"
+],
+"I forgot to tell you": [
+"مان توکي ٻڌائڻ وساري ويس",
+"Maiṃ tumheṃ batānā bhūla gayā"
+],
+"She could not see the sign": [
+"هوءَ نشاني نه ڏسي سگهي",
+"Vaha sāina nahīṃ dekha sakī"
+],
+"Start following my advice": [
+"منهنجي صلاح تي عمل ڪرڻ شروع ڪريو",
+"Merī salāha kā pālana karanā śurū kareṃ"
+],
+"If you had taken exercise every day then": [
+"جيڪڏهن توهان هر روز ورزش وٺي ها",
+"Agara āpa rojānā vyāyāma karate haiṃ"
+],
+"I was about to open the door when I saw": [
+"مان دروازو کولڻ لڳس ته مون ڏٺو",
+"Maiṃne daravāzā khola kara dekhā"
+],
+"If we think of eating mango then": [
+"جيڪڏهن اسان ماني کائڻ جو سوچيو ته پوءِ",
+"Agara hama khānā khāne ke bāre meṃ socate haiṃ"
+],
+"If he decides to take revenge": [
+"جيڪڏهن هو بدلو وٺڻ جو فيصلو ڪري",
+"Agara vaha badalā lene kā phaisalā karatā hai"
+],
+"Give him your information": [
+"هن کي پنهنجي معلومات ڏيو",
+"Use apanī jānakārī deṃ"
+],
+"Keep tea ready": [
+"چانهه تيار رکو",
+"Cāya taiyāra hai"
+],
+"We have booked tickets": [
+"اسان ٽڪيٽون بک ڪيون آهن",
+"Hamane ṭikaṭa buka kara lie haiṃ"
+],
+"I had already given my password": [
+"مون اڳ ۾ ئي پنهنجو پاسورڊ ڏنو هو",
+"Maiṃne apanā pāsavarḍa pahale hī de diyā hai"
+],
+"I have decided plan for tonight": [
+"مون اڄ رات جو منصوبو طئي ڪيو آهي",
+"Maiṃne āja rāta kī yojanā banāī hai"
+],
+"He happened to say he was from India": [
+"هن چيو ته هو هندستان جو آهي",
+"Unhoṃne kahā ki vaha bhārata se haiṃ"
+],
+"I happened to hear about strike": [
+"هڙتال بابت ٻڌو اٿم",
+"Maiṃne har̤atāla ke bāre meṃ sunā"
+],
+"Hey! When did you come?": [
+"اي! تون ڪڏهن آيو آهين؟",
+"Are! kaba āye āpa"
+],
+"Nice smell / Very tasty": [
+"سٺي بوء / تمام سوادج",
+"Khuśabū acchī/bahuta svādiṣṭa"
+],
+"Oh my God! Who did this?": [
+"او منهنجا رب! اهو ڪنهن ڪيو؟",
+"Are bāpa re! ye kisane kiyā?"
+],
+"Oh! He failed!": [
+"اڙي! هو ناڪام ٿيو!",
+"Oha! vaha asaphala rahā!"
+],
+"No! He will never do it": [
+"نه! هو ڪڏهن به نه ڪندا",
+"Nahīṃ! ve aisā kabhī nahīṃ karate"
+],
+"No! I do not believe": [
+"نه! مان نه ٿو مڃان",
+"Nahīṃ! maiṃ viśvāsa nahīṃ karatā"
+],
+"Yes! I will surely come": [
+"ها! مان ضرور ايندس",
+"Hā~! maiṃ jarūra āūṃgā"
+],
+"Hmm! I got it": [
+"هيم! مان سمجهي ويس",
+"Hamma! maiṃ samajha gayā"
+],
+"Well done! You won": [
+"بهترين! توهان کٽيو",
+"Sarvaśreṣṭha! āpa jīte"
+],
+"Mummy! It is paining": [
+"ماما! اهو دردناڪ آهي",
+"Mā~! yaha dardanāka hai"
+],
+"Yuck! It looks ugly": [
+"يوڪ! اهو بدصورت ڏسڻ ۾ اچي ٿو",
+"Yuka! yaha badasūrata dikhatā hai"
+],
+"I spit on your cowardice": [
+"مان تنهنجي بزدليءَ تي ٿڪجي پيو آهيان",
+"Maiṃ tumhārī kāyaratā se thaka gayā hū~"
+],
+"Shhh! Keep quiet": [
+"شش! چپ ڪر",
+"Śśśa! cupa raho"
+],
+"How well you danced!": [
+"ڪيڏو نه رقص ڪيو اٿئي!",
+"Tumane kaisā nṛtya kiyā!"
+],
+"What a fool he is!": [
+"هي ڪهڙو بيوقوف آهي!",
+"Bevakūpha!"
+],
+"Oh! What happened then?": [
+"اڙي! پوءِ ڇا ٿيو؟",
+"Oha! to kyā huā?"
+],
+"Oh! When did you come?": [
+"اڙي! تون ڪڏهن آيو آهين؟",
+"Oha! kaba āye āpa"
+],
+"Someone may see it! (blush)": [
+"ڪوئي ڏسي سگهي ٿو! (ڳاڙهو)",
+"Koī bhī dekha sakatā hai! (lāla)"
+],
+"May I come": [
+"مان اچان ٿو",
+"Maiṃ ātā hū~"
+],
+"May I go": [
+"مان وڃان ٿو",
+"Maī jā"
+],
+"May we come": [
+"اچو ته اچو",
+"Āo āo"
+],
+"May we go": [
+"اچو ته وڃون",
+"Cala dara"
+],
+"May we speak": [
+"اچو ته ڳالهايون",
+"Calo bāta karate haiṃ"
+],
+"May you come": [
+"تون اچي سگهين ٿو",
+"Āpa ā sakate haiṃ"
+],
+"May you speak": [
+"توهان ڳالهائي سگهو ٿا",
+"Āpa bāta kara sakate haiṃ"
+],
+"May he tell": [
+"هو ٻڌائي سگهي ٿو",
+"Vaha batā sakatā hai"
+],
+"Can I tell": [
+"ڇا مان ٻڌائي سگهان ٿو",
+"Mujhe kyā kahanā cāhie?"
+],
+"Can I write": [
+"ڇا مان لکي سگهان ٿو",
+"Kyā maiṃ likha sakatā hū~?"
+],
+"May you give pen": [
+"توهان کي قلم ڏيو",
+"Tumheṃ eka pena do"
+],
+"Please give pen": [
+"مهرباني ڪري قلم ڏيو",
+"Kṛpayā mujhe eka pena dījie"
+],
+"Please tell address": [
+"مهرباني ڪري ايڊريس ٻڌايو",
+"Kṛpayā mujhe patā batāyeṃ"
+],
+"He may go": [
+"هو وڃي سگهي ٿو",
+"Vaha jā sakatā hai"
+],
+"I may sing": [
+"مان ڳائي سگهان ٿو",
+"Maiṃ gā sakatā hūṃ"
+],
+"He might come": [
+"هو اچي سگهي ٿو",
+"Vaha ā sakatā hai"
+],
+"He might have gone yesterday": [
+"هو شايد ڪالهه ويو هجي",
+"Ho sakatā hai vaha kala calā gayā ho"
+],
+"She might have completed it": [
+"هوءَ شايد پوري ڪري ڇڏي",
+"Vaha ise k͟hatma kara sakatī hai"
+],
+"They might have returned yesterday": [
+"اهي شايد ڪالهه واپس آيا هوندا",
+"Ho sakatā hai ve kala lauṭa āe hoṃ"
+],
+"He had gone": [
+"هو هليو ويو هو",
+"Vaha jā cukā thā"
+],
+"He might have gone": [
+"هو شايد هليو ويو",
+"Ho sakatā hai vaha calā gayā ho"
+],
+"She had said": [
+"هن چيو هو",
+"Usane kahā"
+],
+"She might have said": [
+"هوء چيو ٿي سگهي ٿو",
+"Usane śāyada kahā hogā"
+],
+"You have eaten mango": [
+"تون ته ماني کائي وئين",
+"Āpa khānā khāne gae the"
+],
+"You might have eaten mango": [
+"توهان شايد مانو کائي ڇڏيو آهي",
+"Āpane khāyā hogā"
+],
+"The day I like": [
+"جنهن ڏينهن مون کي پسند ڪيو",
+"Mujhe dina pasaṃda hai"
+],
+"Boy who is giving": [
+"ڇوڪرو جيڪو ڏئي رهيو آهي",
+"Jo lar̤akā de rahā hai"
+],
+"Person who is dancing": [
+"رقص ڪندڙ ماڻهو",
+"Nācate loga"
+],
+"Pot on table": [
+"ٽيبل تي برتن",
+"Meja para bartana"
+],
+"Jar on table": [
+"ٽيبل تي جار",
+"Meja para jāra"
+],
+"Leaf on table": [
+"ٽيبل تي پتي",
+"Meja para pattā"
+],
+"Gift inside box": [
+"باڪس اندر تحفا",
+"Baॉksa ke aṃdara upahāra"
+],
+"Area outside my home": [
+"منهنجي گهر کان ٻاهر جو علائقو",
+"Mere ghara ke bāhara kā kṣetra"
+],
+"I make him say": [
+"مان هن کي چوان ٿو",
+"Maiṃ usase kahatā hūṃ"
+],
+"I will make him say": [
+"مان هن کي چوڻ ڏيندس",
+"Maiṃ use apanī bāta kahane dū~gā"
+],
+"I made him say": [
+"مون کيس چيو",
+"Maiṃne usase kahā"
+],
+"He made me work": [
+"هن مون کي ڪم ڪيو",
+"Unhoṃne mere lie kāma kiyā"
+],
+"He makes me work": [
+"هو مون کي ڪم ڪري ٿو",
+"Vaha mere lie kāma karatā hai"
+],
+"He will make me work": [
+"هو مون کي ڪم ڪندو",
+"Vaha mere lie kāma karegā"
+],
+"That joke made me laugh": [
+"ان مذاق مون کي کلائي ڇڏيو",
+"Usa cuṭakule ne mujhe haṃsāyā"
+],
+"Peter made Mary eat mango": [
+"پطرس مريم کي آم کائڻ لاءِ چيو",
+"Pīṭara ne mairī se āma khāne ko kahā"
+],
+"Peter made Mary eat mangoes": [
+"پطرس مريم کي آم کائڻ لاءِ چيو",
+"Pīṭara ne mairī se āma khāne ko kahā"
+],
+"I myself did it": [
+"مون پاڻ ڪيو",
+"Yaha maiṃne khuda kiyā hai"
+],
+"I did this itself": [
+"مون اهو پاڻ ڪيو",
+"Yaha maiṃne khuda kiyā hai"
+],
+"I will come tomorrow itself": [
+"مان سڀاڻي پاڻ اچي ويندس",
+"Maiṃ kala khuda āūṃgā"
+],
+"I will surely come": [
+"مان ضرور ايندس",
+"Maiṃ jarūra āūṃgā"
+],
+"I have seen India only": [
+"مون فقط هندستان ڏٺو آهي",
+"Maiṃne sirpha bhārata hī dekhā hai"
+],
+"He kept on talking": [
+"هو ڳالهائيندو رهيو",
+"Vaha bolatā rahā"
+],
+"He kept on staring that car": [
+"هو ان ڪار کي ڏسندو رهيو",
+"Vaha usa kāra ko dekhatā rahā"
+],
+"I want only sedan car": [
+"مون کي صرف سيڊان ڪار گهرجي",
+"Mujhe kevala seḍāna kāra cāhie"
+],
+"I must go there": [
+"مون کي اتي وڃڻ گهرجي",
+"Mujhe vahāṃ avaśya jānā cāhie"
+],
+"Why just me?": [
+"صرف مون کي ڇو؟",
+"Sirpha maiṃ hī kyoṃ?"
+],
+"I have a car": [
+"مون وٽ ڪار آهي",
+"Mere pāsa eka kāra hai"
+],
+"I have 10 cars": [
+"مون وٽ 10 ڪارون آهن",
+"Mere pāsa 10 kāreṃ haiṃ"
+],
+"I had a car": [
+"مون وٽ ڪار هئي",
+"Mere pāsa eka kāra thī"
+],
+"Anup will have watch": [
+"انوپ کي واچ هوندي",
+"Anupa ke pāsa eka ghar̤ī hogī"
+],
+"I do not have car": [
+"مون وٽ ڪار ناهي",
+"Mere pāsa kāra nahīṃ hai"
+],
+"I did not have car": [
+"مون وٽ ڪار نه هئي",
+"Mere pāsa kāra nahīṃ thī"
+],
+"I have 2 brothers": [
+"مون کي 2 ڀائر آهن",
+"Mere 2 bhāī haiṃ"
+],
+"He has three paternal uncles": [
+"هن جا ٽي چاچا آهن",
+"Usake tīna cācā haiṃ"
+],
+"Ravi had 2 kids": [
+"راوي کي 2 ٻار هئا",
+"Ravi ke 2 bacce the"
+],
+"He does not have a brother": [
+"هن کي ڪو ڀاءُ ناهي",
+"Usakā koī bhāī nahīṃ hai"
+],
+"She did not have any relatives": [
+"هن جو ڪوبه مائٽ نه هو",
+"Usakā koī riśtedāra nahīṃ thā"
+],
+"What does it mean?": [
+"هن جو ڇا مطلب آهي؟",
+"Isakā matalaba kyā hai?"
+],
+"What does that signboard mean?": [
+"ان سائن بورڊ جو مطلب ڇا آھي؟",
+"Usa sāinaborḍa kā kyā matalaba hai?"
+],
+"What did his speech mean?": [
+"سندس چوڻ جو مطلب ڇا هو؟",
+"Usakā kyā matalaba thā?"
+],
+"What does encyclopedia mean?": [
+"انسائيڪلوپيڊيا ڇا مطلب آهي؟",
+"Viśvakośa kā kyā artha hai?"
+],
+"What does Sundar mean in Marathi?": [
+"مراٺي ۾ Sundar جو مطلب ڇا آھي؟",
+"Marāṭhī meṃ sundara kā kyā artha hotā hai?"
+],
+"I did mean it": [
+"منهنجو مطلب اهو هو",
+"Merā yaha matalaba"
+],
+"I did not mean it": [
+"منهنجو مطلب اهو نه هو",
+"Merā ye matalaba nahīṃ thā"
+],
+"He did not mean hurting you": [
+"هن جو مطلب توهان کي نقصان پهچائڻ نه هو",
+"Usakā irādā āpako coṭa pahuṃcāne kā nahīṃ thā"
+],
+"I meant to insult him": [
+"منهنجو مطلب هن کي بدنام ڪرڻ هو",
+"Merā matalaba usakā apamāna karanā thā"
+],
+"He and me": [
+"هو ۽ مان",
+"Vaha aura maiṃ"
+],
+"Milk and sugar": [
+"کير ۽ کنڊ",
+"Dūdha aura cīnī"
+],
+"I want to buy but shop is closed": [
+"مان خريد ڪرڻ چاهيان ٿو پر دڪان بند آهي",
+"Maiṃ kharīdanā cāhatā hūṃ lekina dukāna baṃda hai"
+],
+"He was clever but did not work hard": [
+"هو هوشيار هو پر محنت نه ڪندو هو",
+"Vaha hośiyāra thā lekina mehanatī nahīṃ thā"
+],
+"I had warned him, still he opened the box": [
+"مون کيس ڊيڄاريو هو، تڏهن به هن باڪس کوليو",
+"Maiṃne use cetāvanī dī, lekina usane baksā khola diyā"
+],
+"He helped her still she insulted him": [
+"هن هن جي مدد ڪئي تڏهن به هوء هن کي بي عزتي ڪئي",
+"Bhale hī usane usakā apamāna kiyā ho, phira bhī usane usakī madada kī"
+],
+"I did not come yesterday, because I was sick": [
+"مان ڪالهه نه آيو آهيان، ڇاڪاڻ ته مان بيمار هوس",
+"Maiṃ kala nahīṃ āyā kyoṃki maiṃ bīmāra thā"
+],
+"Car will not start because no petrol": [
+"پيٽرول نه هجڻ ڪري ڪار سٽارٽ نه ٿيندي",
+"Peṭrola kī kamī ke kāraṇa kāra sṭārṭa nahīṃ hogī"
+],
+"I was sick so I did not come": [
+"مان بيمار هوس ته نه آيو آهيان",
+"Maiṃ isalie nahīṃ āyā kyoṃki maiṃ bīmāra thā"
+],
+"No petrol so car will not start": [
+"پيٽرول نه آهي ته ڪار به شروع نه ٿيندي",
+"Peṭrola nahīṃ hogā to gār̤ī sṭārṭa nahīṃ hogī"
+],
+"He told her that he is happy": [
+"هن کيس ٻڌايو ته هو خوش آهي",
+"Usane usase kahā ki vaha khuśa hai"
+],
+"I am sure that we will succeed": [
+"مون کي يقين آهي ته اسان ڪامياب ٿينداسين",
+"Mujhe viśvāsa hai ki hama saphala hoṃge"
+],
+"As you wish, my lord": [
+"جيئن توهان چاهيو، منهنجا مالڪ",
+"Jo hukuma mere ākā"
+],
+"Do it the same way as he is doing": [
+"ائين ئي ڪريو جيئن هو ڪري رهيو آهي",
+"Jaisā vaha kara rahā hai vaisā karo"
+],
+"He as well as me": [
+"هن سان گڏو گڏ مون کي",
+"Maiṃ bhī aura vaha bhī"
+],
+"She sang as well as danced": [
+"هوءَ ڳائيندي هئي ۽ رقص به ڪندي هئي",
+"Vaha gātī bhī thīṃ aura ḍāṃsa bhī karatī thīṃ"
+],
+"He or me": [
+"هو يا مان",
+"Vaha yā maiṃ"
+],
+"Do or die": [
+"ڪريو يا مرو",
+"Karo yā maro"
+],
+"Neither he nor I were interested": [
+"نه هن کي ۽ نه مون کي دلچسپي هئي",
+"Na to use aura na hī mujhe koī dilacaspī thī"
+],
+"I finished study then I went to play": [
+"مان پڙهائي ختم ڪري کيڏڻ ويس",
+"Maiṃne par̤hāī k͟hatma kī aura khelane calā gayā"
+],
+"I will call you then you enter on stage": [
+"مان توکي فون ڪندس پوءِ تون اسٽيج تي داخل",
+"Maṃca para praveśa karane ke bāda maiṃ āpako kaॉla karūṃgā"
+],
+"As long as you want me, I will stay": [
+"جيستائين تون مون کي چاهين، تيستائين مان رهندس",
+"Jaba taka tuma mujhe cāhoge, maiṃ rahū~gā"
+],
+"As long as you follow rules": [
+"جيستائين توهان ضابطن جي تابعداري ڪريو",
+"Jaba taka āpa niyamoṃ kā pālana kareṃge"
+],
+"As far as I know, he is studious": [
+"جيتري قدر مون کي خبر آهي، هو پڙهيل لکيل آهي",
+"Jahāṃ taka ​​maiṃ jānatā hūṃ, vaha par̤hā-likhā hai"
+],
+"As far as India is concerned": [
+"جيستائين هندستان جو تعلق آهي",
+"Jahāṃ taka ​​bhārata kā savāla hai"
+],
+"As far as literacy is concerned": [
+"جيتري قدر خواندگيءَ جو تعلق آهي",
+"Jahāṃ taka ​​sākṣaratā kā savāla hai"
+],
+"He is blaming me as if I have not tried": [
+"هو مون تي الزام هڻي رهيو آهي ڄڻ مون ڪوشش نه ڪئي آهي",
+"Vaha mujha para aise āropa lagā rahā hai jaise maiṃne kośiśa hī nahīṃ kī"
+],
+"He passed by as if she was not there": [
+"هو ائين گذري ويو ڄڻ هوءَ اتي ئي نه هئي",
+"Vaha aise calā jaise vaha vahāṃ thī hī nahīṃ"
+],
+"As soon as he came": [
+"جيئن ئي هو آيو",
+"Jaise hī vaha āyā"
+],
+"As soon as she saw": [
+"جيئن ئي هن ڏٺو",
+"Jaise hī usane dekhā"
+],
+"As soon as they become": [
+"جيئن ئي بڻجي ويندا آهن",
+"Jaise ve bana jāte haiṃ"
+],
+"Let me know once he comes": [
+"هڪ دفعو هو اچي مون کي ٻڌاءِ",
+"Eka bāra vaha āye to mujhe batānā"
+],
+"Once I see your story I will give review": [
+"هڪ دفعو مان توهان جي ڪهاڻي کي ڏسندو آهيان آئون جائزو ڏيندس",
+"Eka bāra jaba maiṃ āpakī kahānī dekhūṃgā to samīkṣā karūṃgā"
+],
+"Rather than surrendering soldier will accept death": [
+"هٿيار ڦٽا ڪرڻ بجاءِ سپاهي موت کي قبول ڪندو",
+"Eka sainika ātmasamarpaṇa ke bajāya mauta svīkāra karegā"
+],
+"I will take tea rather than coffee": [
+"مان ڪافي بدران چانهه وٺندس",
+"Maiṃ kaॉphī kī jagaha cāya lūṃgā"
+],
+"I will work hard so that I will win": [
+"مان محنت ڪندس ته فتح ڪندس",
+"Maiṃ kar̤ī mehanata karūṃgā aura jītūṃgā"
+],
+"We should avoid plastic so that less pollution": [
+"اسان کي پلاسٽڪ کان پاسو ڪرڻ گهرجي ته جيئن آلودگي گهٽ ٿئي",
+"Pradūṣaṇa kama karane ke lie hameṃ plāsṭika se bacanā cāhie"
+],
+"He cheated me whereas I was helping him": [
+"هن مون کي ڌوڪو ڏنو جڏهن ته مان هن جي مدد ڪري رهيو هوس",
+"Jaba maiṃ usakī madada kara rahā thā to usane mujhe dhokhā diyā"
+],
+"Govt said prices declined whereas inflation rose": [
+"حڪومت جو چوڻ آهي ته قيمتون گهٽجي ويون آهن جڏهن ته مهانگائي وڌي وئي آهي",
+"Sarakāra kā kahanā hai ki kīmateṃ kama ho gaī haiṃ jabaki mahaṃgāī bar̤ha gaī hai"
+],
+"I did not know whether he is going": [
+"مون کي خبر نه هئي ته هو وڃي رهيو آهي",
+"Mujhe nahīṃ patā thā ki vaha jā rahā hai"
+],
+"She could not realize whether to speak or not": [
+"هوءَ سمجهه ۾ نه پئي آئي ته ڳالهائي يا نه",
+"Use samajha nahīṃ ā rahā thā ki vaha bole yā nahīṃ"
+],
+"Do this otherwise you will not win": [
+"ائين ڪريو ٻي صورت ۾ توهان کي فتح نه ٿيندي",
+"Aisā karo nahīṃ to jīta nahīṃ pāoge"
+],
+"He should inform me otherwise I will not know": [
+"هن کي مون کي خبر ڏيڻ گهرجي، ٻي صورت ۾ مون کي خبر ناهي",
+"Use mujhe sūcita karanā hogā, anyathā mujhe nahīṃ patā"
+],
+"I also ran": [
+"مان به ڊوڙيس",
+"Maiṃ bhī bhāgā"
+],
+"He will come tomorrow as well": [
+"هو سڀاڻي به ايندو",
+"Vaha kala āegā"
+],
+"This is old video. I saw it. I am sharing today": [
+"هي وڊيو پراڻي آهي. مون ڏٺو. مان اڄ شيئر ڪري رهيو آهيان",
+"Ye vīḍiyo purānā hai. maiṃne dekhā. maiṃ āja sājhā kara rahā hūṃ"
+],
+"This is old video, yet I saw it so I am sharing today": [
+"هيءَ وڊيو پراڻي آهي، تڏهن به ڏٺم، سو اڄ شيئر ڪري رهيو آهيان",
+"Ye vīḍiyo purānā hai, lekina maiṃne dekhā hai isalie āja śeyara kara rahā hūṃ"
+],
+"This is old song. I heard it today": [
+"هي پراڻو گيت آهي. اڄ ٻڌو اٿم",
+"Yaha eka purānā gānā hai. maiṃne āja sunā"
+],
+"Though it is old song, I heard it today": [
+"جيتوڻيڪ اهو پراڻو گيت آهي، پر اڄ ٻڌو اٿم",
+"Hālā~ki yaha eka purānā gānā hai, maiṃne ise āja sunā"
+],
+"My wife was standing there. He asked about girlfriend": [
+"منهنجي زال اتي بيٺي هئي. هن گرل فرينڊ بابت پڇيو",
+"Merī patnī vahīṃ khar̤ī thī. usane garlaphreṃḍa ke bāre meṃ pūchā"
+],
+"My wife was standing there yet he asked": [
+"منهنجي زال اتي بيٺي هئي اڃا هن پڇيو",
+"Merī patnī vahīṃ khar̤ī thī phira bhī usane pūchā"
+],
+"Policeman was watching. He did not dare to run": [
+"پوليس وارو ڏسي رهيو هو. هن کي هلڻ جي همت نه هئي",
+"Pulisa vālā dekha rahā thā. use calane kī himmata nahīṃ huī"
+],
+"As policeman was watching he did not dare": [
+"پوليس وارو ڏسندو رهيو ته هن جي همت نه هاري",
+"Pulisavālā dekhatā rahā ki kahīṃ usakā dila na ṭūṭa jāe"
+],
+"I had illusion of monsters coming": [
+"مون کي راکشس جي اچڻ جو خيال هو",
+"Mujhe lagā ki rākṣasa ā rahā hai"
+],
+"Now she will search it forever": [
+"هاڻي هوءَ هميشه لاءِ ڳوليندي",
+"Aba vaha hameśā talāśa karegī"
+],
+"If we think of eating mango then..": [
+"جيڪڏهن اسان آم کائڻ جو سوچيو ته پوءِ.",
+"Agara hama āma khāne ke bāre meṃ socate haiṃ"
+],
+"If he decides to take revenge..": [
+"جيڪڏهن هو بدلو وٺڻ جو فيصلو ڪري.",
+"Agara vaha badalā lene kā phaisalā karatā hai|"
+],
+"I have decided a plan for tonight": [
+"مون اڄ رات جو منصوبو طئي ڪيو آهي",
+"Maiṃne āja rāta kī yojanā banāī hai"
+],
+"I feel this way": [
+"مان ائين محسوس ڪريان ٿو",
+"Mujhe aisā mahasūsa ho rahā"
+],
+"I feel this": [
+"مون کي اهو محسوس ٿيو",
+"Mujhe yaha mahasūsa huā"
+],
+"He felt that I will not come": [
+"هن محسوس ڪيو ته مان نه ايندس",
+"Use lagā ki maiṃ nahīṃ āūṃgā"
+],
+"What do you feel?": [
+"توهان ڇا محسوس ڪيو؟",
+"Āpa kyā mahasūsa karate ho?"
+],
+"He felt happiness": [
+"هن خوشي محسوس ڪئي",
+"Use k͟huśī mahasūsa huī"
+],
+"Don't you feel ashamed?": [
+"توکي شرم نٿو اچي؟",
+"Śarma nahīṃ ātī|"
+],
+"Kaushik thinks he should go": [
+"ڪوشڪ سوچيو ته هن کي وڃڻ گهرجي",
+"Kauśika socatā hai ki use jānā cāhie"
+],
+"He will feel bad": [
+"هن کي خراب محسوس ٿيندو",
+"Use burā lagegā"
+],
+"To show different aspects": [
+"مختلف پهلو ڏيکارڻ",
+"Vibhinna pahalū dikhāe~"
+],
+"To follow up & pressurize": [
+"پيروي ڪرڻ ۽ دٻاءُ وجهڻ",
+"Pālana ​​kareṃ aura dabāva ḍāleṃ"
+],
+"Every home same story": [
+"هر گهر جي ساڳي ڪهاڻي",
+"Hara ghara kī eka hī kahānī hai"
+],
+"To approve formally": [
+"رسمي طور تي منظور ڪرڻ",
+"Aupacārika rūpa se maṃjūrī denā"
+],
+"To cause destruction": [
+"تباهي جو سبب بڻجڻ",
+"Tabāhī macā rahā hai"
+],
+"Repeat like tape": [
+"ٽيپ وانگر ورجائي",
+"Ṭepa kī taraha doharāe~"
+],
+"To force to do": [
+"ڪرڻ تي مجبور ڪرڻ",
+"Jabaradastī karanā"
+],
+"No control on tongue": [
+"زبان تي ڪنٽرول ناهي",
+"Bhāṣā para niyaṃtraṇa nahīṃ"
+],
+"Not utter a word": [
+"هڪ لفظ به نه ڳالهايو",
+"Eka śabda mata bolo"
+],
+"To take control": [
+"قابو ڪرڻ",
+"Niyaṃtraṇa"
+],
+"To feel embarrassed": [
+"شرمسار ٿيڻ",
+"Lajjita honā"
+],
+"To spew venom": [
+"زهر اڇلائڻ",
+"Jahara pheṃkanā"
+],
+"To uncover mystery": [
+"اسرار پڌرو ڪرڻ",
+"Rahasya se pardā uṭhanā"
+],
+"To be puzzled": [
+"پاڳل ٿيڻ",
+"Pāgala ho jāne ke lie"
+],
+"To defeat completely": [
+"مڪمل شڪست ڏيڻ",
+"Pūrṇa hāra"
+],
+"If employee works 1 year, gratuity right": [
+"جيڪڏهن ملازم 1 سال ڪم ڪري ٿو، گريجوئيٽ حق",
+"Yadi karmacārī 1 varṣa taka kāma karatā hai, to snātaka adhikāra"
+],
+"If wrong info given, disciplinary action": [
+"جيڪڏهن غلط ڄاڻ ڏني وئي ته، انضباطي ڪارروائي",
+"Galata jānakārī dene para anuśāsanātmaka kārravāī"
+],
+"If possible, come to meet me": [
+"جيڪڏهن ٿي سگهي ته مون سان ملڻ اچ",
+"Ho sake to mujhase ākara milo"
+],
+"What does this mean?": [
+"هن جو مطلب ڇا آهي؟",
+"Isakā kyā matalaba hai?"
+],
+"I came because you called": [
+"مان آيو آهيان ڇاڪاڻ ته توهان سڏيو آهي",
+"Maiṃ isalie āyā kyoṃki tumane bulāyā thā"
+],
+"Someone called Kaushik has come": [
+"ڪوشڪ نالي ڪو آيو آهي",
+"Koī kauśika nāma kā ādamī āyā hai"
+],
+"Someone named Kaushik has come": [
+"ڪوشڪ نالي ڪو ماڻهو آيو آهي",
+"Kauśika nāma kā eka vyakti āyā hai"
+],
+"Why do you want it for?": [
+"توهان ان لاء ڇو چاهيو ٿا؟",
+"Āpa yaha kyoṃ cāhate haiṃ?"
+],
+"What is its reason?": [
+"ان جو سبب ڇا آهي؟",
+"Isakā kāraṇa kyā hai?"
+],
+"You only complete this": [
+"توهان صرف اهو مڪمل ڪريو",
+"Āpa basa ise pūrā kareṃ"
+],
+"It is you who told": [
+"اهو توهان ئي ٻڌايو آهي",
+"Ye to āpane khuda hī kahā"
+],
+"I want it tomorrow itself": [
+"مان اهو سڀاڻي پاڻ چاهيان ٿو",
+"Maiṃ ise kala svayaṃ cāhatā hū~"
+],
+"I am bored": [
+"مان بيزار آهيان",
+"Maiṃ ūba gayā hūṃ"
+],
+"He was bored": [
+"هو بيزار هو",
+"Vaha ūba gayā thā"
+],
+"Relative / Relatives": [
+"رشتيدار/ رشتيدار",
+"Riśtedāra/riśtedāra"
+],
+"Father's brother's wife": [
+"پيءُ جي ڀاءُ جي زال",
+"Pitā ke bhāī kī patnī"
+],
+"Father's brother's son": [
+"پيءُ جي ڀاءُ جو پٽ",
+"Pitā ke bhāī kā putra"
+],
+"Father's brother's daughter": [
+"پيءُ جي ڀاءُ جي ڌيءَ",
+"Pitā ke bhāī kī beṭī"
+],
+"Mother's brother's wife": [
+"ماءُ جي ڀاءُ جي زال",
+"Mā~ ke bhāī kī patnī"
+],
+"Mother's brother's son": [
+"ماءُ جي ڀاءُ جو پٽ",
+"Mā~ ke bhāī kā beṭā"
+],
+"Mother's brother's daughter": [
+"ماءُ جي ڀاءُ جي ڌيءَ",
+"Mā~ ke bhāī kī beṭī"
+],
+"Father's sister's son": [
+"پيءُ جي ڀيڻ جو پٽ",
+"Pitā kī bahana kā beṭā"
+],
+"Father's sister's daughter": [
+"پيءُ جي ڀيڻ جي ڌيءَ",
+"Pitā kī bahana kī beṭī"
+],
+"Father's sister's husband": [
+"پيءُ جي ڀيڻ جو مڙس",
+"Pitā kī bahana kā pati"
+],
+"Mother's sister's son": [
+"ماءُ جي ڀيڻ جو پٽ",
+"Mā~ kī bahana kā beṭā"
+],
+"Mother's sister's daughter": [
+"ماءُ جي ڀيڻ جي ڌيءَ",
+"Mā~ kī bahana kī beṭī"
+],
+"Mother's sister's husband": [
+"ماءُ جي ڀيڻ جو مڙس",
+"Mā~ kī bahana kā pati"
+],
+"Great grand father": [
+"وڏو ڏاڏو",
+"Mahāna dādā"
+],
+"Great grand mother": [
+"وڏي ماءُ",
+"Mahāna mā~"
+],
+"Son's wife / Daughter in law": [
+"پٽ جي زال / ڌيءُ",
+"Beṭe kī patnī/beṭī"
+],
+"Daughter's husband / Son in law": [
+"ڌيءَ جو مڙس / پٽ",
+"Beṭī kā pati/beṭā"
+],
+"Father in law": [
+"پيءُ",
+"Pitā"
+],
+"Mother in law": [
+"سس",
+"Sāsa"
+],
+"Father in law's father": [
+"ڏاڙهيءَ جو پيءُ",
+"Dār̤hī ke pitā"
+],
+"We": [
+"اسان",
+"Hama"
+],
+"You (singular)": [
+"تون (واحد)",
+"Āpa (ekavacana)"
+],
+"You (plural)": [
+"تون (جمع)",
+"Āpa bahuvacana)"
+],
+"This (m.)": [
+"هي (م.)",
+"Vaha (ema.)"
+],
+"This (f.)": [
+"هي (f.)",
+"Lānata honā|)"
+],
+"This (n.)": [
+"هي (ن.)",
+"Vaha (na.)"
+],
+"These (m.)": [
+"اهي (م.)",
+"Ve (ema.)"
+],
+"These (f.)": [
+"اهي (f.)",
+"Ve (epha.)"
+],
+"These (n.)": [
+"اهي (ن.)",
+"Ve (na.)"
+],
+"Self": [
+"پاڻ",
+"Vaha svayaṃ"
+],
+"Sing": [
+"ڳائڻ",
+"Gāne ke lie"
+],
+"Beat": [
+"بيٽ",
+"Māro"
+],
+"Write": [
+"لکو",
+"Likho"
+],
+"Do": [
+"ڪر",
+"Karanā"
+],
+"Get up": [
+"اٿو",
+"Uṭhanā"
+],
+"Stop": [
+"روڪ",
+"Rukanā"
+],
+"Close": [
+"بند",
+"Baṃda"
+],
+"I (male)": [
+"مان (مرد)",
+"Maiṃ (puruṣa)"
+],
+"I (female)": [
+"مان (عورت)",
+"Maiṃ (mahilā)"
+],
+"We dance": [
+"اسان نچندا آهيون",
+"Hama nācate haiṃ"
+],
+"He walks": [
+"هو هلن ٿا",
+"Ve calate hai"
+],
+"She speaks": [
+"هوءَ ڳالهائي ٿي",
+"Vaha bolatā hai"
+],
+"It moves": [
+"ھلندو آھي",
+"Cala rahā hai"
+],
+"They dance": [
+"اهي نچندا آهن",
+"Ve nṛtya kareṃ"
+],
+"You (singular/plural)": [
+"توهان (واحد/ جمع)",
+"Āpa (ekavacana/bahuvacana)"
+],
+"They (all)": [
+"اهي (سڀ)",
+"Vo saba)"
+],
+"I (male/female)": [
+"مان (مرد/عورت)",
+"Maiṃ (puruṣa/mahilā)"
+],
+"He": [
+"هن",
+"Vaha"
+],
+"She": [
+"هوءَ",
+"Vaha"
+],
+"It": [
+"اهو",
+"Vaha"
+],
+"They (m.)": [
+"اهي (م.)",
+"Ve (ema.)"
+],
+"They (f.)": [
+"اهي (f.)",
+"Ve (epha.)"
+],
+"They (n.)": [
+"اهي (n.)",
+"Ve (na.)"
+],
+"This (Male)": [
+"هي (مرد)",
+"Hīmaina)"
+],
+"This (Female)": [
+"هي (عورت)",
+"Vaha (mahilā)"
+],
+"This (neuter)": [
+"هي (غير جانبدار)",
+"Are (taṭastha)"
+],
+"These (male/female/neuter)": [
+"اهي (مرد / عورت / غير جانبدار)",
+"Ve (puruṣa/mahilā/taṭastha)"
+],
+"about": [
+"بابت",
+"Ke bāre meṃ"
+],
+"across": [
+"پار",
+"Samamūlya"
+],
+"against": [
+"خلاف",
+"K͟hilāfa"
+],
+"Among": [
+"وچ ۾",
+"Bīca meṃ"
+],
+"Around": [
+"چوڌاري",
+"Āsa-pāsa"
+],
+"As/like": [
+"جيئن / پسند",
+"Pasaṃda/pasaṃda"
+],
+"aside": [
+"هڪ طرف",
+"Eka tarapha"
+],
+"for": [
+"لاءِ",
+"Ke lie"
+],
+"From/since": [
+"کان/ کان وٺي",
+"Se/se"
+],
+"in": [
+"۾",
+"Meṃ"
+],
+"till/until": [
+"تائين/ تائين",
+"Taka"
+],
+"without": [
+"بغير",
+"Binā"
+],
+"during": [
+"دوران",
+"Daurāna"
+],
+"Near/close to": [
+"ويجهو / ويجهو",
+"Nikaṭa/nikaṭa"
+],
+"towards": [
+"طرف",
+"Kī ora"
+],
+"with": [
+"سان",
+"Sātha"
+],
+"Instead of": [
+"جي بدران",
+"Ke evaja"
+],
+"Prior to": [
+"کان اڳ",
+"Pahale"
+],
+"Because of": [
+"جي ڪري",
+"Ke kāraṇa"
+],
+"According to": [
+"جي مطابق",
+"Ke anusāra"
+],
+"Through": [
+"ذريعي",
+"Ke mādhyama se"
+],
+"You speak": [
+"تون ڳالهاءِ",
+"Āpa bolie"
+],
+"Read it": [
+"ان کي پڙهو",
+"Ise par̤heṃ"
+],
+"Do it": [
+"ڪر",
+"Karanā"
+],
+"You go": [
+"تون وڃ",
+"Tuma jāo"
+],
+"You give": [
+"توهان ڏيو",
+"Āpa de"
+],
+"You drink": [
+"توهان پيئو",
+"Āpa pīte haiṃ"
+],
+"Toy moved": [
+"رانديڪو هليو ويو",
+"Khilaunā calā gayā"
+],
+"To cook": [
+"پچائڻ",
+"Khānā banānā"
+],
+"Rice cooked": [
+"چانور پکايا",
+"Cāvala pakāeṃ"
+],
+"To die": [
+"مرڻ",
+"Dama ṭūṭanā"
+],
+"To fall": [
+"ڪِرڻ",
+"Ḍraॉpa āuṭa"
+],
+"Glass broke": [
+"گلاس ڀڄي ويو",
+"Śīśā ṭūṭa gayā"
+],
+"To leave": [
+"ڇڏڻ",
+"Chor̤a jānā"
+],
+"To drink": [
+"پيئڻ",
+"Pīne ke lie"
+],
+"To eat": [
+"کائڻ",
+"Ko khāne ke"
+],
+"To feed": [
+"کارائڻ",
+"Khilā"
+],
+"To speak": [
+"ڳالهائڻ",
+"Se bāta"
+],
+"To run": [
+"ڊوڙڻ",
+"Calāne ke lie"
+],
+"my": [
+"منهنجو",
+"Merā"
+],
+"speaking": [
+"ڳالهائڻ",
+"Se bāta"
+],
+"your": [
+"تنهنجو",
+"Āpakā"
+],
+"his": [
+"سندس",
+"Usakā"
+],
+"Ram's": [
+"رام جي",
+"Rāma kā"
+],
+"dance": [
+"ناچ",
+"Nṛtya"
+],
+"About speaking": [
+"ڳالهائڻ بابت",
+"Bāta karane ke bāre meṃ"
+],
+"For eating": [
+"کائڻ لاءِ",
+"Ko khāne ke"
+],
+"while speaking": [
+"ڳالهائڻ دوران",
+"Bolate samaya"
+],
+"while doing": [
+"ڪندي ڪندي",
+"Kara rahā hū~ kara rahā hū~"
+],
+"while dancing": [
+"نچڻ دوران",
+"Nācate samaya"
+],
+"to see": [
+"ڏسڻ",
+"Dekhane ke lie"
+],
+"to do": [
+"ڪرڻ",
+"Ḍraॉpa āuṭa"
+],
+"to dance": [
+"ناچ ڪرڻ",
+"Nṛtya karane ke lie"
+],
+"Black horse": [
+"ڪارو گهوڙو",
+"Apratyāśita vijetā"
+],
+"Black chair": [
+"ڪاري ڪرسي",
+"Kālī kursī"
+],
+"Black page": [
+"ڪارو صفحو",
+"Kālā pannā"
+],
+"Black horses": [
+"ڪارا گھوڙا",
+"Kāle ghor̤e"
+],
+"Black chairs": [
+"ڪارا ڪرسيون",
+"Kālī kursiyā~"
+],
+"Black pages": [
+"ڪارو صفحا",
+"Kāle panne"
+],
+"Good horse": [
+"چڱو گهوڙو",
+"Acchā ghor̤ā"
+],
+"Good chair": [
+"سٺي ڪرسي",
+"Acchī kursī"
+],
+"Easy exam": [
+"آسان امتحان",
+"Āsāna parīkṣaṇa"
+],
+"Red horse": [
+"ڳاڙهو گهوڙو",
+"Kālā ghor̤ā"
+],
+"Beautiful drawing": [
+"خوبصورت ڊرائنگ",
+"Suṃdara rekhāṃkana"
+],
+"Talking boy": [
+"ڳالهائڻ وارو ڇوڪرو",
+"Bāta karane vālā lar̤akā"
+],
+"Rotating fan": [
+"گھمڻ وارو پرستار",
+"Ghūmatā huā paṃkhā"
+],
+"Talking girl": [
+"ڳالهائيندڙ ڇوڪري",
+"Bāta kara rahī lar̤akī"
+],
+"Moving chair": [
+"هلندڙ ڪرسي",
+"Calatī kursī"
+],
+"Flying saucer": [
+"اڏامندڙ طشتري",
+"Ur̤ana taśtarī"
+],
+"Talking book": [
+"ڳالهائڻ وارو ڪتاب",
+"Eka bāta karane vālī kitāba"
+],
+"Moving tree": [
+"هلندڙ وڻ",
+"Hilatā huā per̤a"
+],
+"Talked boy": [
+"ڳالهايو ڇوڪرو",
+"Bāta karo lar̤ake"
+],
+"Rotated fan": [
+"گھميل پرستار",
+"Bhaṭakatā huā paṃkhā"
+],
+"Talked girl": [
+"ڳالهائيندڙ ڇوڪري",
+"Bāta kara rahī lar̤akī"
+],
+"Moved chair": [
+"منتقل ٿيل ڪرسي",
+"Kursī khisakā dī"
+],
+"Flown saucer": [
+"اڏامندڙ طشتري",
+"Ur̤ana taśtarī"
+],
+"Talked book": [
+"ڳالهائيندڙ ڪتاب",
+"Bāta karane vālī kitāba"
+],
+"Moved tree": [
+"منتقل ٿيل وڻ",
+"Haṭa gayā per̤a"
+],
+"What happened?": [
+"ڇا ٿيو؟",
+"Kyā huā?"
+],
+"More bitter": [
+"وڌيڪ تلخ",
+"Adhika kar̤avā"
+],
+"Most bitter": [
+"تمام گهڻو تلخ",
+"Bahuta kar̤avā"
+],
+"Tall": [
+"ڊگھو",
+"Laṃbā"
+],
+"Taller": [
+"ڊگھو",
+"Laṃbā"
+],
+"Tallest": [
+"ڊگھو",
+"Laṃbā"
+],
+"Better": [
+"بهتر",
+"Behatara"
+],
+"Best": [
+"چڱو",
+"Ṭhīka hai"
+],
+"Let's play": [
+"اچو ته کيڏيون",
+"Āie khelate haiṃ"
+],
+"Let's go": [
+"اچو ته هلون",
+"Cala dara"
+],
+"Let's speak": [
+"اچو ته ڳالهايون",
+"Calo bāta karate haiṃ"
+],
+"Really!": [
+"واقعي!",
+"Vāstava meṃ!"
+],
+"How big!": [
+"ڪيترو وڏو!",
+"Kitanā mahāna haiṃ!"
+],
+"Very bad": [
+"تمام خراب",
+"Bahuta burā"
+],
+"Good handwriting": [
+"سٺي لکڻي",
+"Acchā lekhana"
+],
+"Very Good": [
+"تمام سٺو",
+"Acchā thā"
+],
+"Excellent!": [
+"تمام سٺو!",
+"Acchā thā!"
+],
+"Speaking phone": [
+"ڳالهائيندي فون",
+"Bāta kara rahe fona"
+],
+"Something fishy": [
+"مڇيءَ واري شيءِ",
+"Kucha gar̤abar̤a"
+],
+"Dampen spirit": [
+"روح کي ٿلهو ڪرڻ",
+"Ātmā ko moṭā karane ke lie"
+],
+"To threaten": [
+"ڌمڪائڻ",
+"Dhamakī denā"
+],
+"After-effects": [
+"بعد ۾ اثرات",
+"Prabhāva ke bāda"
+],
+"To override/violate": [
+"خلاف ورزي ڪرڻ/ خلاف ورزي ڪرڻ",
+"Ullaṃghana karanā/ullaṃghana karanā"
+],
+"To renounce": [
+"ڇڏي ڏيڻ",
+"Samarpaṇa"
+],
+"To pretend": [
+"ٺڳي ڪرڻ",
+"Dhokhā denā"
+],
+"To trap": [
+"ڦاسائڻ",
+"Jāla"
+],
+"To support": [
+"حمايت ڪرڻ",
+"Samarthana ke lie"
+],
+"To strike": [
+"هڙتال ڪرڻ",
+"Coṭa māranā"
+],
+"To pardon": [
+"معافي ڏيڻ",
+"Kṣamā karanā"
+],
+"Cryptography means?": [
+"Cryptography جو مطلب آهي؟",
+"Kripṭogrāphī kā kyā matalaba hai?"
+],
+"Relation": [
+"تعلق",
+"Saṃbaṃdha"
+],
+"Direct brother": [
+"سڌو ڀاءُ",
+"Sīdhā bhāī"
+],
+"Direct sister": [
+"سڌي ڀيڻ",
+"Sīdhī bahana"
+],
+"Grand father": [
+"ڏاڏو",
+"Dādā"
+],
+"Grand mother": [
+"ڏاڏي",
+"Dādī"
+],
+"Father's brother": [
+"پيءُ جو ڀاءُ",
+"Pitā kā bhāī"
+],
+"Mother's brother": [
+"ماءُ جو ڀاءُ",
+"Mā~ kā bhāī"
+],
+"Father's sister": [
+"پيءُ جي ڀيڻ",
+"Pitā kī bahana"
+],
+"Mother's sister": [
+"ماءُ جي ڀيڻ",
+"Mā~ kī bahana"
+],
+"Grandson's wife": [
+"پوٽي جي زال",
+"Pote kī patnī"
+],
+"Great grandson": [
+"وڏو پوٽو",
+"Mahāna potā"
+],
+"Great granddaughter": [
+"وڏي نياڻي",
+"Potī"
+],
+"Husband's brother": [
+"مڙس جو ڀاءُ",
+"Pati kā bhāī"
+],
+"Husband's sister": [
+"مڙس جي ڀيڻ",
+"Pati kī bahana"
+],
+"Wife's brother": [
+"زال جو ڀاءُ",
+"Patnī kā bhāī"
+],
+"Wife's sister": [
+"زال جي ڀيڻ",
+"Sālī"
+],
+"Sister's husband": [
+"ڀيڻ جو مڙس",
+"Bahana kā pati"
+],
+"Sister's son": [
+"ڀيڻ جو پٽ",
+"Bahana kā beṭā"
+],
+"Sister's daughter": [
+"ڀيڻ جي ڌيءَ",
+"Bahana kī beṭī"
+],
+"Friend (boy)": [
+"دوست (ڇوڪرو)",
+"Mitra lar̤akā)"
+],
+"Friend (girl)": [
+"دوست (ڇوڪري)",
+"Dosta (lar̤akī)"
+],
+"Bridegroom": [
+"ڪنوار",
+"Ku~vārī"
+],
+"Adopted son": [
+"گود ورتو پٽ",
+"Dattaka putra"
+],
+"Adopted daughter": [
+"گود وٺندڙ ڌيءَ",
+"Goda lī huī beṭī"
+],
+"Assumed son": [
+"فرض ڪيو پٽ",
+"Māna lo beṭā"
+],
+"Assumed daughter": [
+"فرض ڪيل ڌيءَ",
+"Kalpita putrī"
+],
+"To wash": [
+"ڌوئڻ",
+"Nahānā"
+],
+"To brush": [
+"برش ڪرڻ",
+"Braśa karane ke lie"
+],
+"To gargle": [
+"گلا ڪرڻ",
+"Galā ghoṃṭanā"
+],
+"To fold": [
+"ڦِرڻ",
+"Mur̤o"
+],
+"To urinate": [
+"پيشاب ڪرڻ",
+"Peśāba karanā"
+],
+"To exercise": [
+"ورزش ڪرڻ",
+"Abhyāsa karanā"
+],
+"To bath": [
+"غسل ڪرڻ",
+"Snāna karo"
+],
+"To change": [
+"مٽي ڇڏڻ",
+"Ko badalane"
+],
+"To wear": [
+"پائڻ",
+"Pahanane ke lie"
+],
+"To comb": [
+"ڪنگڻ",
+"Kaṃgana"
+],
+"To apply": [
+"لاڳو ڪرڻ",
+"Lagā denā"
+],
+"To close": [
+"بند ڪرڻ",
+"Baṃda karanā"
+],
+"To sit": [
+"ويهڻ",
+"Beṭhanā"
+],
+"To start": [
+"شروع ڪرڻ",
+"Śurū karane ke lie"
+],
+"To reach": [
+"پهچڻ",
+"Pahu~canā"
+],
+"To work": [
+"ڪم ڪرڻ",
+"Kāma karane ke lie"
+],
+"To speak/say/talk": [
+"ڳالهائڻ / چوڻ / ڳالهائڻ",
+"Bolo / kaho / bolo"
+],
+"To answer": [
+"جواب ڏيڻ",
+"Javāba dene ke lie"
+],
+"To send": [
+"موڪلائڻ",
+"Bhejane ke lie"
+],
+"To chitchat": [
+"چيٽ ڪرڻ",
+"Caiṭa karane ke lie"
+],
+"To buy": [
+"خريد ڪرڻ",
+"Kharīdane ke lie"
+],
+"To sell": [
+"وڪڻڻ",
+"Becane ke lie"
+],
+"To put/keep": [
+"رکڻ/ رکڻ",
+"Rakhanā"
+],
+"To put": [
+"لڳائڻ",
+"Para ḍālanā"
+],
+"To count": [
+"ڳڻڻ",
+"Ginatī karane ke lie"
+],
+"To stand": [
+"بيهڻ",
+"Sahana karanā"
+],
+"To listen": [
+"ٻڌڻ",
+"Sunane ke lie"
+],
+"To return": [
+"موٽڻ",
+"Lauṭane ke liye"
+],
+"To open": [
+"کولڻ",
+"Cālū karanā"
+],
+"To lift": [
+"کڻڻ",
+"Śurū karo"
+],
+"To play": [
+"راند ڪرڻ",
+"Krīr̤ā karanā"
+],
+"To jump": [
+"ٽپو ڏيڻ",
+"Kūdane ke lie"
+],
+"To hide": [
+"لڪائڻ",
+"Chipāne ke lie"
+],
+"To search": [
+"ڳولهڻ",
+"Khojanā"
+],
+"To recite": [
+"تلاوت ڪرڻ",
+"Sunānā"
+],
+"To sing": [
+"ڳائڻ",
+"Gāne ke lie"
+],
+"To shout": [
+"رڙ ڪرڻ",
+"Cīkha"
+],
+"To throw": [
+"اڇلائڻ",
+"Pheṃkanā"
+],
+"To hit": [
+"مارڻ",
+"Māra ḍālanā"
+],
+"To ask": [
+"پڇڻ",
+"Pūchane ke lie"
+],
+"To clean": [
+"صاف ڪرڻ",
+"Ko sāpha"
+],
+"To cut": [
+"ڪٽڻ",
+"Choṭā kara denā"
+],
+"To break": [
+"ڀڃڻ",
+"Tor̤anā"
+],
+"To burst": [
+"ڦاٽڻ",
+"Jhaṭakā"
+],
+"To write": [
+"لکڻ",
+"Likhanā"
+],
+"Accept": [
+"قبول ڪريو",
+"Svīkāra karanā"
+],
+"Bring": [
+"آڻيو",
+"Ūpara lānā"
+],
+"Complain": [
+"شڪايت",
+"Śikāyata"
+],
+"Draw": [
+"ڇڪيو",
+"Chūnā"
+],
+"Fall": [
+"گرڻ",
+"Girane ke liye"
+],
+"Fill": [
+"ڀريو",
+"Bhareṃ"
+],
+"Start/begin": [
+"شروع / شروع",
+"Prāraṃbha/śurū kareṃ"
+],
+"Finish": [
+"ختم ڪر",
+"Khatma karanā"
+],
+"Live": [
+"جيئڻ",
+"Jiyā jātā hai"
+],
+"See/watch/look": [
+"ڏسڻ/ڏسڻ/ڏسڻ",
+"Dekheṃ/dekheṃ/dekheṃ"
+],
+"Use": [
+"استعمال ڪريو",
+"Upayoga"
+],
+"Teach": [
+"سيکاريو",
+"Par̤hānā"
+],
+"Study": [
+"مطالعو",
+"Adhyayana"
+],
+"Read": [
+"پڙهو",
+"Par̤hate rahiye"
+],
+"Make/prepare": [
+"ٺاهڻ / تيار ڪرڻ",
+"Banānā/taiyāra karanā"
+],
+"Fly": [
+"اڏامڻ",
+"Ur̤āna bharane ke lie"
+],
+"Get bored": [
+"بيزار ٿيڻ",
+"Ūba gaye"
+],
+"Leave": [
+"ڇڏڻ",
+"Chor̤a jānā"
+],
+"Want/need": [
+"گھرج/ گھرج",
+"Āvaśyakatā/cāhie"
+],
+"Sign": [
+"نشاني",
+"Saṃketa"
+],
+"Swim": [
+"ترڻ",
+"Tairane ke lie"
+],
+"Try": [
+"ڪوشش ڪر",
+"Kośiśa"
+],
+"Worry": [
+"پريشان ٿيڻ",
+"Ciṃtā karanā"
+],
+"Achieve": [
+"حاصل ڪرڻ",
+"Use le lo"
+],
+"Admit (mistake)": [
+"اعتراف (غلطي)",
+"Svīkārokti (galatī)"
+],
+"Admit (school)": [
+"داخلا (اسڪول)",
+"Praveśa (skūla)"
+],
+"Afford": [
+"برداشت ڪرڻ",
+"Sahanā"
+],
+"Win": [
+"کٽڻ",
+"Jītane ke lie"
+],
+"Lose": [
+"وڃائڻ",
+"Khone ke lie"
+],
+"Shake": [
+"ڇڪڻ",
+"Chūnā"
+],
+"Decide": [
+"فيصلو ڪرڻ",
+"Ṭhāna le"
+],
+"Hold": [
+"رکو",
+"Lagāo"
+],
+"Choose": [
+"چونڊيو",
+"Cunanā"
+],
+"Turn": [
+"موڙ",
+"Mor̤a"
+],
+"Rise": [
+"اٿڻ",
+"Uṭhanā"
+],
+"Set (sun,moon)": [
+"مقرر (سج، چنڊ)",
+"Sthira (sūrya, caṃdramā)"
+],
+"Deny": [
+"انڪار ڪرڻ",
+"Manā kara denā"
+],
+"To reproach/blame": [
+"ملامت ڪرڻ/ ملامت ڪرڻ",
+"Doṣa denā/phaṭakāranā"
+],
+"To color": [
+"رنگ ڏيڻ",
+"Raṃga"
+],
+"To destroy": [
+"ناس ڪرڻ",
+"Naṣṭa karanā"
+],
+"Big": [
+"وڏو",
+"Bar̤ā"
+],
+"Small": [
+"ننڍو",
+"Choṭā"
+],
+"Deep": [
+"ديپ",
+"Gaharā"
+],
+"Shallow": [
+"ٿلهو",
+"Moṭā"
+],
+"Simple": [
+"سادو",
+"Sarala"
+],
+"Special": [
+"خاص",
+"Viśeṣa"
+],
+"Faint": [
+"بيوقوف",
+"Mūrkha"
+],
+"Short": [
+"ننڍو",
+"Choṭā"
+],
+"Thin": [
+"پتلي",
+"Patalā"
+],
+"Wide": [
+"ويڪرو",
+"Caur̤ā"
+],
+"Narrow": [
+"تنگ",
+"Kasā huā"
+],
+"Curved": [
+"مڙيل",
+"Ghumāvadāra"
+],
+"Salty": [
+"لوڻ",
+"Namaka"
+],
+"Easy": [
+"آسان",
+"Āsāna"
+],
+"Dry": [
+"خشڪ",
+"Sūkhā"
+],
+"Wet": [
+"گندو",
+"Gaṃdā"
+],
+"Filled": [
+"ڀريل",
+"Pūrṇa"
+],
+"Incomplete": [
+"نامڪمل",
+"Adhūrā"
+],
+"Hard (surface)": [
+"سخت (مٿاڇري)",
+"Kaṭhora (sataha)"
+],
+"Soft": [
+"نرم",
+"Komala"
+],
+"Heavy": [
+"ڳرو",
+"Bhārī"
+],
+"Light (weight)": [
+"هلڪو (وزن)",
+"Halkā vajana"
+],
+"New": [
+"نئون",
+"Nayā"
+],
+"Old": [
+"پراڻو",
+"Purānā"
+],
+"Slow": [
+"سست",
+"Ālasī"
+],
+"Fast": [
+"تڪڙو",
+"Jaldī"
+],
+"Young": [
+"جوان",
+"Nava yuvaka"
+],
+"Unhappy": [
+"ناخوش",
+"Aprasanna"
+],
+"Gloomy": [
+"اداس",
+"Dukhada"
+],
+"Carefully": [
+"هوشياري سان",
+"Sāvadhānī se"
+],
+"Slowly": [
+"آهستي آهستي",
+"Dhīre se"
+],
+"Quickly": [
+"جلدي",
+"Jaldī se"
+],
+"A bit": [
+"ٿورڙو",
+"Eka sā"
+],
+"A lot": [
+"تمام گهڻو",
+"Bahuta"
+],
+"Aback": [
+"ابڙو",
+"Abdo"
+],
+"Accordingly": [
+"مطابق",
+"Ke anusāra"
+],
+"Accurately": [
+"صحيح طور تي",
+"Sahī ḍhaṃga se"
+],
+"Actively": [
+"فعال طور تي",
+"Sakriya"
+],
+"Afresh": [
+"تازو",
+"Hāla hī meṃ"
+],
+"Ago": [
+"اڳي",
+"Pahale"
+],
+"Agreeably": [
+"اتفاق سان",
+"Saṃyogavaśa"
+],
+"Altogether": [
+"مجموعي طور تي",
+"Eka pūre ke rūpa meṃ"
+],
+"Any": [
+"ڪو",
+"Koī"
+],
+"Away": [
+"پري",
+"Dūra"
 ]
 }

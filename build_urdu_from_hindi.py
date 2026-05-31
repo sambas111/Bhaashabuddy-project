@@ -8,10 +8,16 @@ Rebuild urdu_data.js to mirror the Hindi/Maithili phrase+word sets (same English
 import json
 import os
 import re
+import sys
 import time
 
 from deep_translator import GoogleTranslator
 from indic_transliteration.sanscript import DEVANAGARI, IAST, transliterate
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CACHE_PATH = os.path.join(ROOT, "_urdu_translate_cache.json")
