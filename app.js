@@ -84,7 +84,7 @@ function getScriptFont() { return getLang().scriptFont; }
 /** Split long phrase/word lists into Set 1, Set 2, … (30 items per set). */
 const PHRASE_WORD_CHUNK_SIZE = 30;
 
-/** Strip trailing "Set N" from category names so UI can show "Greetings - Set 1". */
+/** Strip trailing "Set N" from category names so UI can show "Greetings Set 1". */
 function categoryTopicLabel(displayName) {
   if (displayName == null) return '';
   const s = String(displayName).trim();
@@ -92,9 +92,9 @@ function categoryTopicLabel(displayName) {
   return s.replace(/\s+Set\s+\d+\s*$/i, '').trim() || s;
 }
 
-/** Title for chunk s (0-based) within a category, e.g. "Greetings - Set 1". */
+/** Title for chunk s (0-based) within a category, e.g. "Greetings Set 1". */
 function phraseSubsetTitle(displayName, setIndexZeroBased) {
-  return categoryTopicLabel(displayName) + ' - Set ' + (setIndexZeroBased + 1);
+  return categoryTopicLabel(displayName) + ' Set ' + (setIndexZeroBased + 1);
 }
 
 /** Remember category/set when saving so "Saved" can group reliably (Unicode-safe). */
@@ -347,7 +347,7 @@ function renderCategories() {
           <div class="phrase-set-block">
             <div class="phrase-set-header">
               <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); toggleSubCat('${sub.id}')">
-                <span class="phrase-set-title">Set ${si + 1} <span class="phrase-set-count">(${plist.length})</span></span>
+                <span class="phrase-set-title">${escapeHtml(phraseSubsetTitle(g.name, si))} <span class="phrase-set-count">(${plist.length})</span></span>
                 <span class="cat-expand">${isOpen ? '−' : '+'}</span>
               </div>
               <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveSubCatAll('${sub.id}')" title="Save all in this set">${bookmarkSvg}</button>
@@ -6152,7 +6152,7 @@ function renderDict(query) {
             <div class="phrase-set-block">
               <div class="phrase-set-header">
                 <div class="phrase-set-header-toggle" onclick="event.stopPropagation(); toggleDictSubCat('${secId}')">
-                  <span class="phrase-set-title">Set ${si + 1} <span class="phrase-set-count">(${words.length})</span></span>
+                  <span class="phrase-set-title">${escapeHtml(phraseSubsetTitle(g.name, si))} <span class="phrase-set-count">(${words.length})</span></span>
                   <span class="cat-expand">${isOpen ? '−' : '+'}</span>
                 </div>
                 <button type="button" class="phrase-save-btn phrase-save-btn-icon phrase-set-save-btn ${setAllSaved ? 'saved' : ''}" onclick="event.stopPropagation(); saveDictSubCatAll('${secId}')" title="Save all in this set">${bookmarkSvg}</button>
